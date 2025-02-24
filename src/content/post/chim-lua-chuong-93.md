@@ -2,7 +2,7 @@
 pubDatetime: 2018-09-23T10:10:00Z
 title: Chim lửa | Chương 93
 description: Tezuka Osamu qua Chim lửa đặt ra câu hỏi về sự sống, cái chết, ý nghĩa tồn tại, nhấn mạnh con người chỉ thực sự sống khi hòa hợp với thiên nhiên. Đọc Chim lửa (Hi no Tori) chương 93 trong phần dưới đây.
-image: https://banmaixanh.org/image/cover/001-553.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-553.jpg
 featured: false
 tags:
   - manga
@@ -19,103 +19,103 @@ Tác phẩm còn mang thông điệp về sự cân bằng giữa thiên nhiên 
 
 ## Chim lửa (Hi no Tori) chương 93
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0011-0001.jpg" alt="Chim lửa (Hi no Tori) chương 93." title="Chim lửa (Hi no Tori) chương 93." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 93.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0011-0001.jpg" alt="Chim lửa (Hi no Tori) chương 93." title="Chim lửa (Hi no Tori) chương 93." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 93.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0011-0002.jpg" alt="Chim lửa (Hi no Tori) chương 93." title="Chim lửa (Hi no Tori) chương 93." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 93.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0011-0002.jpg" alt="Chim lửa (Hi no Tori) chương 93." title="Chim lửa (Hi no Tori) chương 93." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 93.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0011-0003.jpg" alt="Chim lửa (Hi no Tori) chương 93." title="Chim lửa (Hi no Tori) chương 93." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 93.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0011-0003.jpg" alt="Chim lửa (Hi no Tori) chương 93." title="Chim lửa (Hi no Tori) chương 93." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 93.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0011-0361.jpg" alt="Chim lửa (Hi no Tori) chương 93." title="Chim lửa (Hi no Tori) chương 93." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 93.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0011-0361.jpg" alt="Chim lửa (Hi no Tori) chương 93." title="Chim lửa (Hi no Tori) chương 93." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 93.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0011-0362.jpg" alt="Chim lửa (Hi no Tori) chương 93." title="Chim lửa (Hi no Tori) chương 93." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 93.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0011-0362.jpg" alt="Chim lửa (Hi no Tori) chương 93." title="Chim lửa (Hi no Tori) chương 93." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 93.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0011-0363.jpg" alt="Chim lửa (Hi no Tori) chương 93." title="Chim lửa (Hi no Tori) chương 93." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 93.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0011-0363.jpg" alt="Chim lửa (Hi no Tori) chương 93." title="Chim lửa (Hi no Tori) chương 93." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 93.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0011-0364.jpg" alt="Chim lửa (Hi no Tori) chương 93." title="Chim lửa (Hi no Tori) chương 93." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 93.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0011-0364.jpg" alt="Chim lửa (Hi no Tori) chương 93." title="Chim lửa (Hi no Tori) chương 93." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 93.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0011-0365.jpg" alt="Chim lửa (Hi no Tori) chương 93." title="Chim lửa (Hi no Tori) chương 93." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 93.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0011-0365.jpg" alt="Chim lửa (Hi no Tori) chương 93." title="Chim lửa (Hi no Tori) chương 93." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 93.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0011-0366.jpg" alt="Chim lửa (Hi no Tori) chương 93." title="Chim lửa (Hi no Tori) chương 93." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 93.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0011-0366.jpg" alt="Chim lửa (Hi no Tori) chương 93." title="Chim lửa (Hi no Tori) chương 93." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 93.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0011-0367.jpg" alt="Chim lửa (Hi no Tori) chương 93." title="Chim lửa (Hi no Tori) chương 93." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 93.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0011-0367.jpg" alt="Chim lửa (Hi no Tori) chương 93." title="Chim lửa (Hi no Tori) chương 93." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 93.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0011-0368.jpg" alt="Chim lửa (Hi no Tori) chương 93." title="Chim lửa (Hi no Tori) chương 93." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 93.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0011-0368.jpg" alt="Chim lửa (Hi no Tori) chương 93." title="Chim lửa (Hi no Tori) chương 93." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 93.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0011-0369.jpg" alt="Chim lửa (Hi no Tori) chương 93." title="Chim lửa (Hi no Tori) chương 93." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 93.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0011-0369.jpg" alt="Chim lửa (Hi no Tori) chương 93." title="Chim lửa (Hi no Tori) chương 93." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 93.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0011-0370.jpg" alt="Chim lửa (Hi no Tori) chương 93." title="Chim lửa (Hi no Tori) chương 93." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 93.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0011-0370.jpg" alt="Chim lửa (Hi no Tori) chương 93." title="Chim lửa (Hi no Tori) chương 93." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 93.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0011-0371.jpg" alt="Chim lửa (Hi no Tori) chương 93." title="Chim lửa (Hi no Tori) chương 93." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 93.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0011-0371.jpg" alt="Chim lửa (Hi no Tori) chương 93." title="Chim lửa (Hi no Tori) chương 93." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 93.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0011-0372.jpg" alt="Chim lửa (Hi no Tori) chương 93." title="Chim lửa (Hi no Tori) chương 93." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 93.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0011-0372.jpg" alt="Chim lửa (Hi no Tori) chương 93." title="Chim lửa (Hi no Tori) chương 93." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 93.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0011-0373.jpg" alt="Chim lửa (Hi no Tori) chương 93." title="Chim lửa (Hi no Tori) chương 93." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 93.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0011-0373.jpg" alt="Chim lửa (Hi no Tori) chương 93." title="Chim lửa (Hi no Tori) chương 93." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 93.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0011-0374.jpg" alt="Chim lửa (Hi no Tori) chương 93." title="Chim lửa (Hi no Tori) chương 93." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 93.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0011-0374.jpg" alt="Chim lửa (Hi no Tori) chương 93." title="Chim lửa (Hi no Tori) chương 93." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 93.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0011-0375.jpg" alt="Chim lửa (Hi no Tori) chương 93." title="Chim lửa (Hi no Tori) chương 93." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 93.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0011-0375.jpg" alt="Chim lửa (Hi no Tori) chương 93." title="Chim lửa (Hi no Tori) chương 93." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 93.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0011-0376.jpg" alt="Chim lửa (Hi no Tori) chương 93." title="Chim lửa (Hi no Tori) chương 93." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 93.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0011-0376.jpg" alt="Chim lửa (Hi no Tori) chương 93." title="Chim lửa (Hi no Tori) chương 93." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 93.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0011-0377.jpg" alt="Chim lửa (Hi no Tori) chương 93." title="Chim lửa (Hi no Tori) chương 93." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 93.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0011-0377.jpg" alt="Chim lửa (Hi no Tori) chương 93." title="Chim lửa (Hi no Tori) chương 93." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 93.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0011-0378.jpg" alt="Chim lửa (Hi no Tori) chương 93." title="Chim lửa (Hi no Tori) chương 93." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 93.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0011-0378.jpg" alt="Chim lửa (Hi no Tori) chương 93." title="Chim lửa (Hi no Tori) chương 93." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 93.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0011-0379.jpg" alt="Chim lửa (Hi no Tori) chương 93." title="Chim lửa (Hi no Tori) chương 93." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 93.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0011-0379.jpg" alt="Chim lửa (Hi no Tori) chương 93." title="Chim lửa (Hi no Tori) chương 93." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 93.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0011-0380.jpg" alt="Chim lửa (Hi no Tori) chương 93." title="Chim lửa (Hi no Tori) chương 93." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 93.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0011-0380.jpg" alt="Chim lửa (Hi no Tori) chương 93." title="Chim lửa (Hi no Tori) chương 93." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 93.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0011-0381.jpg" alt="Chim lửa (Hi no Tori) chương 93." title="Chim lửa (Hi no Tori) chương 93." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 93.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0011-0381.jpg" alt="Chim lửa (Hi no Tori) chương 93." title="Chim lửa (Hi no Tori) chương 93." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 93.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0011-0382.jpg" alt="Chim lửa (Hi no Tori) chương 93." title="Chim lửa (Hi no Tori) chương 93." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 93.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0011-0382.jpg" alt="Chim lửa (Hi no Tori) chương 93." title="Chim lửa (Hi no Tori) chương 93." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 93.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0011-0383.jpg" alt="Chim lửa (Hi no Tori) chương 93." title="Chim lửa (Hi no Tori) chương 93." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 93.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0011-0383.jpg" alt="Chim lửa (Hi no Tori) chương 93." title="Chim lửa (Hi no Tori) chương 93." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 93.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0011-0384.jpg" alt="Chim lửa (Hi no Tori) chương 93." title="Chim lửa (Hi no Tori) chương 93." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 93.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0011-0384.jpg" alt="Chim lửa (Hi no Tori) chương 93." title="Chim lửa (Hi no Tori) chương 93." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 93.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0011-0385.jpg" alt="Chim lửa (Hi no Tori) chương 93." title="Chim lửa (Hi no Tori) chương 93." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 93.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0011-0385.jpg" alt="Chim lửa (Hi no Tori) chương 93." title="Chim lửa (Hi no Tori) chương 93." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 93.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0011-0386.jpg" alt="Chim lửa (Hi no Tori) chương 93." title="Chim lửa (Hi no Tori) chương 93." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 93.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0011-0386.jpg" alt="Chim lửa (Hi no Tori) chương 93." title="Chim lửa (Hi no Tori) chương 93." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 93.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0011-0387.jpg" alt="Chim lửa (Hi no Tori) chương 93." title="Chim lửa (Hi no Tori) chương 93." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 93.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0011-0387.jpg" alt="Chim lửa (Hi no Tori) chương 93." title="Chim lửa (Hi no Tori) chương 93." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 93.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0011-0388.jpg" alt="Chim lửa (Hi no Tori) chương 93." title="Chim lửa (Hi no Tori) chương 93." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 93.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0011-0388.jpg" alt="Chim lửa (Hi no Tori) chương 93." title="Chim lửa (Hi no Tori) chương 93." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 93.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0011-0389.jpg" alt="Chim lửa (Hi no Tori) chương 93." title="Chim lửa (Hi no Tori) chương 93." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 93.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0011-0389.jpg" alt="Chim lửa (Hi no Tori) chương 93." title="Chim lửa (Hi no Tori) chương 93." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 93.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0011-0390.jpg" alt="Chim lửa (Hi no Tori) chương 93." title="Chim lửa (Hi no Tori) chương 93." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 93.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0011-0390.jpg" alt="Chim lửa (Hi no Tori) chương 93." title="Chim lửa (Hi no Tori) chương 93." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 93.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0011-0391.jpg" alt="Chim lửa (Hi no Tori) chương 93." title="Chim lửa (Hi no Tori) chương 93." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 93.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0011-0391.jpg" alt="Chim lửa (Hi no Tori) chương 93." title="Chim lửa (Hi no Tori) chương 93." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 93.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0011-0392.jpg" alt="Chim lửa (Hi no Tori) chương 93." title="Chim lửa (Hi no Tori) chương 93." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 93.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0011-0392.jpg" alt="Chim lửa (Hi no Tori) chương 93." title="Chim lửa (Hi no Tori) chương 93." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 93.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0011-0393.jpg" alt="Chim lửa (Hi no Tori) chương 93." title="Chim lửa (Hi no Tori) chương 93." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 93.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0011-0393.jpg" alt="Chim lửa (Hi no Tori) chương 93." title="Chim lửa (Hi no Tori) chương 93." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 93.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0011-0394.jpg" alt="Chim lửa (Hi no Tori) chương 93." title="Chim lửa (Hi no Tori) chương 93." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 93.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0011-0394.jpg" alt="Chim lửa (Hi no Tori) chương 93." title="Chim lửa (Hi no Tori) chương 93." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 93.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0011-0395.jpg" alt="Chim lửa (Hi no Tori) chương 93." title="Chim lửa (Hi no Tori) chương 93." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 93.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0011-0395.jpg" alt="Chim lửa (Hi no Tori) chương 93." title="Chim lửa (Hi no Tori) chương 93." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 93.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0011-0396.jpg" alt="Chim lửa (Hi no Tori) chương 93." title="Chim lửa (Hi no Tori) chương 93." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 93.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0011-0396.jpg" alt="Chim lửa (Hi no Tori) chương 93." title="Chim lửa (Hi no Tori) chương 93." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 93.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0011-0397.jpg" alt="Chim lửa (Hi no Tori) chương 93." title="Chim lửa (Hi no Tori) chương 93." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 93.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0011-0397.jpg" alt="Chim lửa (Hi no Tori) chương 93." title="Chim lửa (Hi no Tori) chương 93." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 93.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0011-0398.jpg" alt="Chim lửa (Hi no Tori) chương 93." title="Chim lửa (Hi no Tori) chương 93." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 93.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0011-0398.jpg" alt="Chim lửa (Hi no Tori) chương 93." title="Chim lửa (Hi no Tori) chương 93." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 93.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0011-0399.jpg" alt="Chim lửa (Hi no Tori) chương 93." title="Chim lửa (Hi no Tori) chương 93." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 93.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0011-0399.jpg" alt="Chim lửa (Hi no Tori) chương 93." title="Chim lửa (Hi no Tori) chương 93." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 93.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0011-0400.jpg" alt="Chim lửa (Hi no Tori) chương 93." title="Chim lửa (Hi no Tori) chương 93." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 93.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0011-0400.jpg" alt="Chim lửa (Hi no Tori) chương 93." title="Chim lửa (Hi no Tori) chương 93." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 93.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0011-0401.jpg" alt="Chim lửa (Hi no Tori) chương 93." title="Chim lửa (Hi no Tori) chương 93." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 93.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0011-0401.jpg" alt="Chim lửa (Hi no Tori) chương 93." title="Chim lửa (Hi no Tori) chương 93." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 93.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0011-0402.jpg" alt="Chim lửa (Hi no Tori) chương 93." title="Chim lửa (Hi no Tori) chương 93." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 93.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0011-0402.jpg" alt="Chim lửa (Hi no Tori) chương 93." title="Chim lửa (Hi no Tori) chương 93." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 93.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0011-0403.jpg" alt="Chim lửa (Hi no Tori) chương 93." title="Chim lửa (Hi no Tori) chương 93." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 93.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0011-0403.jpg" alt="Chim lửa (Hi no Tori) chương 93." title="Chim lửa (Hi no Tori) chương 93." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 93.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0011-0404.jpg" alt="Chim lửa (Hi no Tori) chương 93." title="Chim lửa (Hi no Tori) chương 93." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 93.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0011-0404.jpg" alt="Chim lửa (Hi no Tori) chương 93." title="Chim lửa (Hi no Tori) chương 93." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 93.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0011-0405.jpg" alt="Chim lửa (Hi no Tori) chương 93." title="Chim lửa (Hi no Tori) chương 93." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 93.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0011-0405.jpg" alt="Chim lửa (Hi no Tori) chương 93." title="Chim lửa (Hi no Tori) chương 93." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 93.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0011-0406.jpg" alt="Chim lửa (Hi no Tori) chương 93." title="Chim lửa (Hi no Tori) chương 93." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 93.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0011-0406.jpg" alt="Chim lửa (Hi no Tori) chương 93." title="Chim lửa (Hi no Tori) chương 93." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 93.</p></figcaption></figure>
 
 ## Đôi nét về tác giả Tezuka Osamu
 
@@ -391,6 +391,6 @@ Không chỉ vậy, Chim lửa còn được chuyển thể thành nhiều bộ 
 
 Đọc [Chim lửa, chương 98](https://nhavantuonglai.com/article/chim-lua-chuong-98) tại đây.
 
-Đọc [Chim lửa, tập 11](https://banmaixanh.org/ebook/chim-lua-tap-11.pdf) tại đây.
+Đọc [Chim lửa, tập 11](https://banmaixanh.vercel.app/ebook/chim-lua-tap-11.pdf) tại đây.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-451.jpg" alt="Chim lửa (Hi no Tori) chương 93." title="Chim lửa (Hi no Tori) chương 93." height=100% width=100%><figcaption><p>Chim lửa (Hi no Tori) chương 93.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-451.jpg" alt="Chim lửa (Hi no Tori) chương 93." title="Chim lửa (Hi no Tori) chương 93." height=100% width=100%><figcaption><p>Chim lửa (Hi no Tori) chương 93.</p></figcaption></figure>

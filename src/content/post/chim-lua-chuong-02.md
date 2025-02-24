@@ -3,7 +3,7 @@ pubDatetime: 2018-07-02T10:10:00Z
 title: Chim lửa | Chương 02
 description: Tezuka Osamu qua Chim lửa đặt ra câu hỏi về sự sống, cái chết, ý nghĩa tồn tại, nhấn mạnh con người chỉ thực sự sống khi hòa hợp với thiên nhiên. Đọc Chim lửa (Hi no Tori) chương 02 trong phần dưới đây.
 featured: false
-image: https://banmaixanh.org/image/cover/001-452.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-452.jpg
 tags:
   - manga
   - tezuka osamu
@@ -19,97 +19,97 @@ Tác phẩm còn mang thông điệp về sự cân bằng giữa thiên nhiên 
 
 ## Chim lửa (Hi no Tori) chương 02
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0001-0001.jpg" alt="Chim lửa (Hi no Tori) chương 02." title="Chim lửa (Hi no Tori) chương 02." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 02.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0001-0001.jpg" alt="Chim lửa (Hi no Tori) chương 02." title="Chim lửa (Hi no Tori) chương 02." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 02.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0001-0002.jpg" alt="Chim lửa (Hi no Tori) chương 02." title="Chim lửa (Hi no Tori) chương 02." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 02.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0001-0002.jpg" alt="Chim lửa (Hi no Tori) chương 02." title="Chim lửa (Hi no Tori) chương 02." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 02.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0001-0003.jpg" alt="Chim lửa (Hi no Tori) chương 02." title="Chim lửa (Hi no Tori) chương 02." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 02.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0001-0003.jpg" alt="Chim lửa (Hi no Tori) chương 02." title="Chim lửa (Hi no Tori) chương 02." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 02.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0001-0004.jpg" alt="Chim lửa (Hi no Tori) chương 02." title="Chim lửa (Hi no Tori) chương 02." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 02.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0001-0004.jpg" alt="Chim lửa (Hi no Tori) chương 02." title="Chim lửa (Hi no Tori) chương 02." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 02.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0001-0005.jpg" alt="Chim lửa (Hi no Tori) chương 02." title="Chim lửa (Hi no Tori) chương 02." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 02.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0001-0005.jpg" alt="Chim lửa (Hi no Tori) chương 02." title="Chim lửa (Hi no Tori) chương 02." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 02.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0001-0006.jpg" alt="Chim lửa (Hi no Tori) chương 02." title="Chim lửa (Hi no Tori) chương 02." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 02.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0001-0006.jpg" alt="Chim lửa (Hi no Tori) chương 02." title="Chim lửa (Hi no Tori) chương 02." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 02.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0001-0041.jpg" alt="Chim lửa (Hi no Tori) chương 02." title="Chim lửa (Hi no Tori) chương 02." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 02.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0001-0041.jpg" alt="Chim lửa (Hi no Tori) chương 02." title="Chim lửa (Hi no Tori) chương 02." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 02.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0001-0042.jpg" alt="Chim lửa (Hi no Tori) chương 02." title="Chim lửa (Hi no Tori) chương 02." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 02.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0001-0042.jpg" alt="Chim lửa (Hi no Tori) chương 02." title="Chim lửa (Hi no Tori) chương 02." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 02.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0001-0043.jpg" alt="Chim lửa (Hi no Tori) chương 02." title="Chim lửa (Hi no Tori) chương 02." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 02.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0001-0043.jpg" alt="Chim lửa (Hi no Tori) chương 02." title="Chim lửa (Hi no Tori) chương 02." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 02.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0001-0044.jpg" alt="Chim lửa (Hi no Tori) chương 02." title="Chim lửa (Hi no Tori) chương 02." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 02.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0001-0044.jpg" alt="Chim lửa (Hi no Tori) chương 02." title="Chim lửa (Hi no Tori) chương 02." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 02.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0001-0045.jpg" alt="Chim lửa (Hi no Tori) chương 02." title="Chim lửa (Hi no Tori) chương 02." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 02.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0001-0045.jpg" alt="Chim lửa (Hi no Tori) chương 02." title="Chim lửa (Hi no Tori) chương 02." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 02.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0001-0046.jpg" alt="Chim lửa (Hi no Tori) chương 02." title="Chim lửa (Hi no Tori) chương 02." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 02.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0001-0046.jpg" alt="Chim lửa (Hi no Tori) chương 02." title="Chim lửa (Hi no Tori) chương 02." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 02.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0001-0047.jpg" alt="Chim lửa (Hi no Tori) chương 02." title="Chim lửa (Hi no Tori) chương 02." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 02.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0001-0047.jpg" alt="Chim lửa (Hi no Tori) chương 02." title="Chim lửa (Hi no Tori) chương 02." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 02.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0001-0048.jpg" alt="Chim lửa (Hi no Tori) chương 02." title="Chim lửa (Hi no Tori) chương 02." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 02.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0001-0048.jpg" alt="Chim lửa (Hi no Tori) chương 02." title="Chim lửa (Hi no Tori) chương 02." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 02.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0001-0049.jpg" alt="Chim lửa (Hi no Tori) chương 02." title="Chim lửa (Hi no Tori) chương 02." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 02.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0001-0049.jpg" alt="Chim lửa (Hi no Tori) chương 02." title="Chim lửa (Hi no Tori) chương 02." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 02.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0001-0050.jpg" alt="Chim lửa (Hi no Tori) chương 02." title="Chim lửa (Hi no Tori) chương 02." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 02.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0001-0050.jpg" alt="Chim lửa (Hi no Tori) chương 02." title="Chim lửa (Hi no Tori) chương 02." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 02.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0001-0051.jpg" alt="Chim lửa (Hi no Tori) chương 02." title="Chim lửa (Hi no Tori) chương 02." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 02.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0001-0051.jpg" alt="Chim lửa (Hi no Tori) chương 02." title="Chim lửa (Hi no Tori) chương 02." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 02.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0001-0052.jpg" alt="Chim lửa (Hi no Tori) chương 02." title="Chim lửa (Hi no Tori) chương 02." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 02.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0001-0052.jpg" alt="Chim lửa (Hi no Tori) chương 02." title="Chim lửa (Hi no Tori) chương 02." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 02.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0001-0053.jpg" alt="Chim lửa (Hi no Tori) chương 02." title="Chim lửa (Hi no Tori) chương 02." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 02.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0001-0053.jpg" alt="Chim lửa (Hi no Tori) chương 02." title="Chim lửa (Hi no Tori) chương 02." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 02.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0001-0054.jpg" alt="Chim lửa (Hi no Tori) chương 02." title="Chim lửa (Hi no Tori) chương 02." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 02.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0001-0054.jpg" alt="Chim lửa (Hi no Tori) chương 02." title="Chim lửa (Hi no Tori) chương 02." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 02.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0001-0055.jpg" alt="Chim lửa (Hi no Tori) chương 02." title="Chim lửa (Hi no Tori) chương 02." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 02.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0001-0055.jpg" alt="Chim lửa (Hi no Tori) chương 02." title="Chim lửa (Hi no Tori) chương 02." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 02.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0001-0056.jpg" alt="Chim lửa (Hi no Tori) chương 02." title="Chim lửa (Hi no Tori) chương 02." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 02.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0001-0056.jpg" alt="Chim lửa (Hi no Tori) chương 02." title="Chim lửa (Hi no Tori) chương 02." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 02.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0001-0057.jpg" alt="Chim lửa (Hi no Tori) chương 02." title="Chim lửa (Hi no Tori) chương 02." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 02.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0001-0057.jpg" alt="Chim lửa (Hi no Tori) chương 02." title="Chim lửa (Hi no Tori) chương 02." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 02.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0001-0058.jpg" alt="Chim lửa (Hi no Tori) chương 02." title="Chim lửa (Hi no Tori) chương 02." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 02.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0001-0058.jpg" alt="Chim lửa (Hi no Tori) chương 02." title="Chim lửa (Hi no Tori) chương 02." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 02.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0001-0059.jpg" alt="Chim lửa (Hi no Tori) chương 02." title="Chim lửa (Hi no Tori) chương 02." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 02.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0001-0059.jpg" alt="Chim lửa (Hi no Tori) chương 02." title="Chim lửa (Hi no Tori) chương 02." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 02.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0001-0060.jpg" alt="Chim lửa (Hi no Tori) chương 02." title="Chim lửa (Hi no Tori) chương 02." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 02.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0001-0060.jpg" alt="Chim lửa (Hi no Tori) chương 02." title="Chim lửa (Hi no Tori) chương 02." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 02.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0001-0061.jpg" alt="Chim lửa (Hi no Tori) chương 02." title="Chim lửa (Hi no Tori) chương 02." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 02.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0001-0061.jpg" alt="Chim lửa (Hi no Tori) chương 02." title="Chim lửa (Hi no Tori) chương 02." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 02.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0001-0062.jpg" alt="Chim lửa (Hi no Tori) chương 02." title="Chim lửa (Hi no Tori) chương 02." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 02.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0001-0062.jpg" alt="Chim lửa (Hi no Tori) chương 02." title="Chim lửa (Hi no Tori) chương 02." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 02.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0001-0063.jpg" alt="Chim lửa (Hi no Tori) chương 02." title="Chim lửa (Hi no Tori) chương 02." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 02.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0001-0063.jpg" alt="Chim lửa (Hi no Tori) chương 02." title="Chim lửa (Hi no Tori) chương 02." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 02.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0001-0064.jpg" alt="Chim lửa (Hi no Tori) chương 02." title="Chim lửa (Hi no Tori) chương 02." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 02.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0001-0064.jpg" alt="Chim lửa (Hi no Tori) chương 02." title="Chim lửa (Hi no Tori) chương 02." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 02.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0001-0065.jpg" alt="Chim lửa (Hi no Tori) chương 02." title="Chim lửa (Hi no Tori) chương 02." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 02.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0001-0065.jpg" alt="Chim lửa (Hi no Tori) chương 02." title="Chim lửa (Hi no Tori) chương 02." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 02.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0001-0066.jpg" alt="Chim lửa (Hi no Tori) chương 02." title="Chim lửa (Hi no Tori) chương 02." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 02.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0001-0066.jpg" alt="Chim lửa (Hi no Tori) chương 02." title="Chim lửa (Hi no Tori) chương 02." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 02.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0001-0067.jpg" alt="Chim lửa (Hi no Tori) chương 02." title="Chim lửa (Hi no Tori) chương 02." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 02.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0001-0067.jpg" alt="Chim lửa (Hi no Tori) chương 02." title="Chim lửa (Hi no Tori) chương 02." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 02.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0001-0068.jpg" alt="Chim lửa (Hi no Tori) chương 02." title="Chim lửa (Hi no Tori) chương 02." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 02.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0001-0068.jpg" alt="Chim lửa (Hi no Tori) chương 02." title="Chim lửa (Hi no Tori) chương 02." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 02.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0001-0069.jpg" alt="Chim lửa (Hi no Tori) chương 02." title="Chim lửa (Hi no Tori) chương 02." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 02.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0001-0069.jpg" alt="Chim lửa (Hi no Tori) chương 02." title="Chim lửa (Hi no Tori) chương 02." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 02.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0001-0070.jpg" alt="Chim lửa (Hi no Tori) chương 02." title="Chim lửa (Hi no Tori) chương 02." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 02.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0001-0070.jpg" alt="Chim lửa (Hi no Tori) chương 02." title="Chim lửa (Hi no Tori) chương 02." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 02.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0001-0071.jpg" alt="Chim lửa (Hi no Tori) chương 02." title="Chim lửa (Hi no Tori) chương 02." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 02.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0001-0071.jpg" alt="Chim lửa (Hi no Tori) chương 02." title="Chim lửa (Hi no Tori) chương 02." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 02.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0001-0072.jpg" alt="Chim lửa (Hi no Tori) chương 02." title="Chim lửa (Hi no Tori) chương 02." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 02.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0001-0072.jpg" alt="Chim lửa (Hi no Tori) chương 02." title="Chim lửa (Hi no Tori) chương 02." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 02.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0001-0073.jpg" alt="Chim lửa (Hi no Tori) chương 02." title="Chim lửa (Hi no Tori) chương 02." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 02.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0001-0073.jpg" alt="Chim lửa (Hi no Tori) chương 02." title="Chim lửa (Hi no Tori) chương 02." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 02.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0001-0074.jpg" alt="Chim lửa (Hi no Tori) chương 02." title="Chim lửa (Hi no Tori) chương 02." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 02.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0001-0074.jpg" alt="Chim lửa (Hi no Tori) chương 02." title="Chim lửa (Hi no Tori) chương 02." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 02.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0001-0075.jpg" alt="Chim lửa (Hi no Tori) chương 02." title="Chim lửa (Hi no Tori) chương 02." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 02.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0001-0075.jpg" alt="Chim lửa (Hi no Tori) chương 02." title="Chim lửa (Hi no Tori) chương 02." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 02.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0001-0076.jpg" alt="Chim lửa (Hi no Tori) chương 02." title="Chim lửa (Hi no Tori) chương 02." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 02.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0001-0076.jpg" alt="Chim lửa (Hi no Tori) chương 02." title="Chim lửa (Hi no Tori) chương 02." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 02.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0001-0077.jpg" alt="Chim lửa (Hi no Tori) chương 02." title="Chim lửa (Hi no Tori) chương 02." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 02.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0001-0077.jpg" alt="Chim lửa (Hi no Tori) chương 02." title="Chim lửa (Hi no Tori) chương 02." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 02.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0001-0078.jpg" alt="Chim lửa (Hi no Tori) chương 02." title="Chim lửa (Hi no Tori) chương 02." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 02.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0001-0078.jpg" alt="Chim lửa (Hi no Tori) chương 02." title="Chim lửa (Hi no Tori) chương 02." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 02.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0001-0079.jpg" alt="Chim lửa (Hi no Tori) chương 02." title="Chim lửa (Hi no Tori) chương 02." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 02.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0001-0079.jpg" alt="Chim lửa (Hi no Tori) chương 02." title="Chim lửa (Hi no Tori) chương 02." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 02.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0001-0080.jpg" alt="Chim lửa (Hi no Tori) chương 02." title="Chim lửa (Hi no Tori) chương 02." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 02.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0001-0080.jpg" alt="Chim lửa (Hi no Tori) chương 02." title="Chim lửa (Hi no Tori) chương 02." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 02.</p></figcaption></figure>
 
 ## Đôi nét về tác giả Tezuka Osamu
 
@@ -385,6 +385,6 @@ Không chỉ vậy, Chim lửa còn được chuyển thể thành nhiều bộ 
 
 Đọc [Chim lửa, chương 98](https://nhavantuonglai.com/article/chim-lua-chuong-98) tại đây.
 
-Đọc [Chim lửa, tập 01](https://banmaixanh.org/ebook/chim-lua-tap-01.pdf) tại đây.
+Đọc [Chim lửa, tập 01](https://banmaixanh.vercel.app/ebook/chim-lua-tap-01.pdf) tại đây.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-451.jpg" alt="Chim lửa (Hi no Tori) chương 02." title="Chim lửa (Hi no Tori) chương 02." height=100% width=100%><figcaption><p>Chim lửa (Hi no Tori) chương 02.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-451.jpg" alt="Chim lửa (Hi no Tori) chương 02." title="Chim lửa (Hi no Tori) chương 02." height=100% width=100%><figcaption><p>Chim lửa (Hi no Tori) chương 02.</p></figcaption></figure>

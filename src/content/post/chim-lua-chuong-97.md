@@ -2,7 +2,7 @@
 pubDatetime: 2018-09-27T10:10:00Z
 title: Chim lửa | Chương 97
 description: Tezuka Osamu qua Chim lửa đặt ra câu hỏi về sự sống, cái chết, ý nghĩa tồn tại, nhấn mạnh con người chỉ thực sự sống khi hòa hợp với thiên nhiên. Đọc Chim lửa (Hi no Tori) chương 97 trong phần dưới đây.
-image: https://banmaixanh.org/image/cover/001-557.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-557.jpg
 featured: false
 tags:
   - manga
@@ -19,91 +19,91 @@ Tác phẩm còn mang thông điệp về sự cân bằng giữa thiên nhiên 
 
 ## Chim lửa (Hi no Tori) chương 97
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0012-0001.jpg" alt="Chim lửa (Hi no Tori) chương 97." title="Chim lửa (Hi no Tori) chương 97." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 97.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0012-0001.jpg" alt="Chim lửa (Hi no Tori) chương 97." title="Chim lửa (Hi no Tori) chương 97." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 97.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0012-0002.jpg" alt="Chim lửa (Hi no Tori) chương 97." title="Chim lửa (Hi no Tori) chương 97." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 97.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0012-0002.jpg" alt="Chim lửa (Hi no Tori) chương 97." title="Chim lửa (Hi no Tori) chương 97." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 97.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0012-0003.jpg" alt="Chim lửa (Hi no Tori) chương 97." title="Chim lửa (Hi no Tori) chương 97." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 97.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0012-0003.jpg" alt="Chim lửa (Hi no Tori) chương 97." title="Chim lửa (Hi no Tori) chương 97." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 97.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0012-0121.jpg" alt="Chim lửa (Hi no Tori) chương 97." title="Chim lửa (Hi no Tori) chương 97." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 97.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0012-0121.jpg" alt="Chim lửa (Hi no Tori) chương 97." title="Chim lửa (Hi no Tori) chương 97." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 97.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0012-0122.jpg" alt="Chim lửa (Hi no Tori) chương 97." title="Chim lửa (Hi no Tori) chương 97." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 97.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0012-0122.jpg" alt="Chim lửa (Hi no Tori) chương 97." title="Chim lửa (Hi no Tori) chương 97." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 97.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0012-0123.jpg" alt="Chim lửa (Hi no Tori) chương 97." title="Chim lửa (Hi no Tori) chương 97." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 97.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0012-0123.jpg" alt="Chim lửa (Hi no Tori) chương 97." title="Chim lửa (Hi no Tori) chương 97." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 97.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0012-0124.jpg" alt="Chim lửa (Hi no Tori) chương 97." title="Chim lửa (Hi no Tori) chương 97." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 97.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0012-0124.jpg" alt="Chim lửa (Hi no Tori) chương 97." title="Chim lửa (Hi no Tori) chương 97." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 97.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0012-0125.jpg" alt="Chim lửa (Hi no Tori) chương 97." title="Chim lửa (Hi no Tori) chương 97." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 97.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0012-0125.jpg" alt="Chim lửa (Hi no Tori) chương 97." title="Chim lửa (Hi no Tori) chương 97." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 97.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0012-0126.jpg" alt="Chim lửa (Hi no Tori) chương 97." title="Chim lửa (Hi no Tori) chương 97." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 97.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0012-0126.jpg" alt="Chim lửa (Hi no Tori) chương 97." title="Chim lửa (Hi no Tori) chương 97." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 97.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0012-0127.jpg" alt="Chim lửa (Hi no Tori) chương 97." title="Chim lửa (Hi no Tori) chương 97." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 97.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0012-0127.jpg" alt="Chim lửa (Hi no Tori) chương 97." title="Chim lửa (Hi no Tori) chương 97." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 97.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0012-0128.jpg" alt="Chim lửa (Hi no Tori) chương 97." title="Chim lửa (Hi no Tori) chương 97." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 97.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0012-0128.jpg" alt="Chim lửa (Hi no Tori) chương 97." title="Chim lửa (Hi no Tori) chương 97." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 97.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0012-0129.jpg" alt="Chim lửa (Hi no Tori) chương 97." title="Chim lửa (Hi no Tori) chương 97." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 97.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0012-0129.jpg" alt="Chim lửa (Hi no Tori) chương 97." title="Chim lửa (Hi no Tori) chương 97." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 97.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0012-0130.jpg" alt="Chim lửa (Hi no Tori) chương 97." title="Chim lửa (Hi no Tori) chương 97." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 97.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0012-0130.jpg" alt="Chim lửa (Hi no Tori) chương 97." title="Chim lửa (Hi no Tori) chương 97." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 97.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0012-0131.jpg" alt="Chim lửa (Hi no Tori) chương 97." title="Chim lửa (Hi no Tori) chương 97." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 97.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0012-0131.jpg" alt="Chim lửa (Hi no Tori) chương 97." title="Chim lửa (Hi no Tori) chương 97." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 97.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0012-0132.jpg" alt="Chim lửa (Hi no Tori) chương 97." title="Chim lửa (Hi no Tori) chương 97." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 97.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0012-0132.jpg" alt="Chim lửa (Hi no Tori) chương 97." title="Chim lửa (Hi no Tori) chương 97." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 97.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0012-0133.jpg" alt="Chim lửa (Hi no Tori) chương 97." title="Chim lửa (Hi no Tori) chương 97." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 97.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0012-0133.jpg" alt="Chim lửa (Hi no Tori) chương 97." title="Chim lửa (Hi no Tori) chương 97." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 97.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0012-0134.jpg" alt="Chim lửa (Hi no Tori) chương 97." title="Chim lửa (Hi no Tori) chương 97." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 97.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0012-0134.jpg" alt="Chim lửa (Hi no Tori) chương 97." title="Chim lửa (Hi no Tori) chương 97." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 97.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0012-0135.jpg" alt="Chim lửa (Hi no Tori) chương 97." title="Chim lửa (Hi no Tori) chương 97." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 97.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0012-0135.jpg" alt="Chim lửa (Hi no Tori) chương 97." title="Chim lửa (Hi no Tori) chương 97." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 97.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0012-0136.jpg" alt="Chim lửa (Hi no Tori) chương 97." title="Chim lửa (Hi no Tori) chương 97." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 97.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0012-0136.jpg" alt="Chim lửa (Hi no Tori) chương 97." title="Chim lửa (Hi no Tori) chương 97." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 97.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0012-0137.jpg" alt="Chim lửa (Hi no Tori) chương 97." title="Chim lửa (Hi no Tori) chương 97." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 97.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0012-0137.jpg" alt="Chim lửa (Hi no Tori) chương 97." title="Chim lửa (Hi no Tori) chương 97." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 97.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0012-0138.jpg" alt="Chim lửa (Hi no Tori) chương 97." title="Chim lửa (Hi no Tori) chương 97." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 97.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0012-0138.jpg" alt="Chim lửa (Hi no Tori) chương 97." title="Chim lửa (Hi no Tori) chương 97." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 97.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0012-0139.jpg" alt="Chim lửa (Hi no Tori) chương 97." title="Chim lửa (Hi no Tori) chương 97." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 97.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0012-0139.jpg" alt="Chim lửa (Hi no Tori) chương 97." title="Chim lửa (Hi no Tori) chương 97." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 97.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0012-0140.jpg" alt="Chim lửa (Hi no Tori) chương 97." title="Chim lửa (Hi no Tori) chương 97." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 97.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0012-0140.jpg" alt="Chim lửa (Hi no Tori) chương 97." title="Chim lửa (Hi no Tori) chương 97." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 97.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0012-0141.jpg" alt="Chim lửa (Hi no Tori) chương 97." title="Chim lửa (Hi no Tori) chương 97." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 97.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0012-0141.jpg" alt="Chim lửa (Hi no Tori) chương 97." title="Chim lửa (Hi no Tori) chương 97." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 97.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0012-0142.jpg" alt="Chim lửa (Hi no Tori) chương 97." title="Chim lửa (Hi no Tori) chương 97." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 97.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0012-0142.jpg" alt="Chim lửa (Hi no Tori) chương 97." title="Chim lửa (Hi no Tori) chương 97." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 97.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0012-0143.jpg" alt="Chim lửa (Hi no Tori) chương 97." title="Chim lửa (Hi no Tori) chương 97." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 97.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0012-0143.jpg" alt="Chim lửa (Hi no Tori) chương 97." title="Chim lửa (Hi no Tori) chương 97." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 97.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0012-0144.jpg" alt="Chim lửa (Hi no Tori) chương 97." title="Chim lửa (Hi no Tori) chương 97." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 97.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0012-0144.jpg" alt="Chim lửa (Hi no Tori) chương 97." title="Chim lửa (Hi no Tori) chương 97." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 97.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0012-0145.jpg" alt="Chim lửa (Hi no Tori) chương 97." title="Chim lửa (Hi no Tori) chương 97." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 97.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0012-0145.jpg" alt="Chim lửa (Hi no Tori) chương 97." title="Chim lửa (Hi no Tori) chương 97." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 97.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0012-0146.jpg" alt="Chim lửa (Hi no Tori) chương 97." title="Chim lửa (Hi no Tori) chương 97." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 97.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0012-0146.jpg" alt="Chim lửa (Hi no Tori) chương 97." title="Chim lửa (Hi no Tori) chương 97." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 97.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0012-0147.jpg" alt="Chim lửa (Hi no Tori) chương 97." title="Chim lửa (Hi no Tori) chương 97." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 97.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0012-0147.jpg" alt="Chim lửa (Hi no Tori) chương 97." title="Chim lửa (Hi no Tori) chương 97." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 97.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0012-0148.jpg" alt="Chim lửa (Hi no Tori) chương 97." title="Chim lửa (Hi no Tori) chương 97." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 97.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0012-0148.jpg" alt="Chim lửa (Hi no Tori) chương 97." title="Chim lửa (Hi no Tori) chương 97." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 97.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0012-0149.jpg" alt="Chim lửa (Hi no Tori) chương 97." title="Chim lửa (Hi no Tori) chương 97." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 97.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0012-0149.jpg" alt="Chim lửa (Hi no Tori) chương 97." title="Chim lửa (Hi no Tori) chương 97." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 97.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0012-0150.jpg" alt="Chim lửa (Hi no Tori) chương 97." title="Chim lửa (Hi no Tori) chương 97." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 97.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0012-0150.jpg" alt="Chim lửa (Hi no Tori) chương 97." title="Chim lửa (Hi no Tori) chương 97." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 97.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0012-0151.jpg" alt="Chim lửa (Hi no Tori) chương 97." title="Chim lửa (Hi no Tori) chương 97." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 97.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0012-0151.jpg" alt="Chim lửa (Hi no Tori) chương 97." title="Chim lửa (Hi no Tori) chương 97." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 97.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0012-0152.jpg" alt="Chim lửa (Hi no Tori) chương 97." title="Chim lửa (Hi no Tori) chương 97." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 97.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0012-0152.jpg" alt="Chim lửa (Hi no Tori) chương 97." title="Chim lửa (Hi no Tori) chương 97." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 97.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0012-0153.jpg" alt="Chim lửa (Hi no Tori) chương 97." title="Chim lửa (Hi no Tori) chương 97." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 97.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0012-0153.jpg" alt="Chim lửa (Hi no Tori) chương 97." title="Chim lửa (Hi no Tori) chương 97." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 97.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0012-0154.jpg" alt="Chim lửa (Hi no Tori) chương 97." title="Chim lửa (Hi no Tori) chương 97." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 97.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0012-0154.jpg" alt="Chim lửa (Hi no Tori) chương 97." title="Chim lửa (Hi no Tori) chương 97." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 97.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0012-0155.jpg" alt="Chim lửa (Hi no Tori) chương 97." title="Chim lửa (Hi no Tori) chương 97." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 97.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0012-0155.jpg" alt="Chim lửa (Hi no Tori) chương 97." title="Chim lửa (Hi no Tori) chương 97." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 97.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0012-0156.jpg" alt="Chim lửa (Hi no Tori) chương 97." title="Chim lửa (Hi no Tori) chương 97." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 97.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0012-0156.jpg" alt="Chim lửa (Hi no Tori) chương 97." title="Chim lửa (Hi no Tori) chương 97." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 97.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0012-0157.jpg" alt="Chim lửa (Hi no Tori) chương 97." title="Chim lửa (Hi no Tori) chương 97." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 97.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0012-0157.jpg" alt="Chim lửa (Hi no Tori) chương 97." title="Chim lửa (Hi no Tori) chương 97." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 97.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0012-0158.jpg" alt="Chim lửa (Hi no Tori) chương 97." title="Chim lửa (Hi no Tori) chương 97." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 97.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0012-0158.jpg" alt="Chim lửa (Hi no Tori) chương 97." title="Chim lửa (Hi no Tori) chương 97." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 97.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0012-0159.jpg" alt="Chim lửa (Hi no Tori) chương 97." title="Chim lửa (Hi no Tori) chương 97." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 97.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0012-0159.jpg" alt="Chim lửa (Hi no Tori) chương 97." title="Chim lửa (Hi no Tori) chương 97." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 97.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0012-0160.jpg" alt="Chim lửa (Hi no Tori) chương 97." title="Chim lửa (Hi no Tori) chương 97." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 97.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0012-0160.jpg" alt="Chim lửa (Hi no Tori) chương 97." title="Chim lửa (Hi no Tori) chương 97." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 97.</p></figcaption></figure>
 
 ## Đôi nét về tác giả Tezuka Osamu
 
@@ -379,6 +379,6 @@ Không chỉ vậy, Chim lửa còn được chuyển thể thành nhiều bộ 
 
 Đọc [Chim lửa, chương 98](https://nhavantuonglai.com/article/chim-lua-chuong-98) tại đây.
 
-Đọc [Chim lửa, tập 12](https://banmaixanh.org/ebook/chim-lua-tap-12.pdf) tại đây.
+Đọc [Chim lửa, tập 12](https://banmaixanh.vercel.app/ebook/chim-lua-tap-12.pdf) tại đây.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-451.jpg" alt="Chim lửa (Hi no Tori) chương 97." title="Chim lửa (Hi no Tori) chương 97." height=100% width=100%><figcaption><p>Chim lửa (Hi no Tori) chương 97.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-451.jpg" alt="Chim lửa (Hi no Tori) chương 97." title="Chim lửa (Hi no Tori) chương 97." height=100% width=100%><figcaption><p>Chim lửa (Hi no Tori) chương 97.</p></figcaption></figure>

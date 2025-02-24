@@ -47,6 +47,6 @@ _Nguyễn Nam Trân._
 
 Đọc [Đồ nhiên thảo, chương 09](https://nhavantuonglai.com/article/do-nhien-thao-chuong-09) tại đây.
 
-Đọc [Đồ nhiên thảo, toàn tập](https://banmaixanh.org/ebook/do-nhien-thao.pdf) tại đây.
+Đọc [Đồ nhiên thảo, toàn tập](https://banmaixanh.vercel.app/ebook/do-nhien-thao.pdf) tại đây.
 
 <figure><img src="https://banmaixanh.vercel.app/image/cover/001-510.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

@@ -114,6 +114,6 @@ Trang tin của Hãng Ubisoft thì viết: _Tom Clancy là một tác giả có 
 
 Đọc [Cuộc săn lùng tàu tháng 10 đỏ, chương 33](https://nhavantuonglai.com/article/cuoc-san-lung-tau-thang-10-do-chuong-33) tại đây.
 
-Đọc [Cuộc săn lùng tàu tháng 10 đỏ, toàn tập](https://banmaixanh.org/ebook/cuoc-san-lung-tau-thang-10-do.pdf) tại đây.
+Đọc [Cuộc săn lùng tàu tháng 10 đỏ, toàn tập](https://banmaixanh.vercel.app/ebook/cuoc-san-lung-tau-thang-10-do.pdf) tại đây.
 
 <figure><img src="https://banmaixanh.vercel.app/image/cover/001-300.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

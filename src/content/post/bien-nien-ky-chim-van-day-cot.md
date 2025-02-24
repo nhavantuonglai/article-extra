@@ -150,6 +150,6 @@ Tiếng hót của con chim vặn dây cót chỉ vang lên vào những thời 
 
 Đọc [Biên niên ký chim vặn dây cót, chương 66](https://nhavantuonglai.com/article/bien-nien-ky-chim-van-day-cot-chuong-66) tại đây.
 
-Đọc [Biên niên ký chim vặn dây cót, toàn tập](https://banmaixanh.org/ebook/bien-nien-ky-chim-van-day-cot.pdf) tại đây.
+Đọc [Biên niên ký chim vặn dây cót, toàn tập](https://banmaixanh.vercel.app/ebook/bien-nien-ky-chim-van-day-cot.pdf) tại đây.
 
 <figure><img src="https://banmaixanh.vercel.app/image/cover/001-122.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

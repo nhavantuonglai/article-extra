@@ -3,7 +3,7 @@ pubDatetime: 2018-07-20T10:10:00Z
 title: Chim lửa | Chương 20
 description: Tezuka Osamu qua Chim lửa đặt ra câu hỏi về sự sống, cái chết, ý nghĩa tồn tại, nhấn mạnh con người chỉ thực sự sống khi hòa hợp với thiên nhiên. Đọc Chim lửa (Hi no Tori) chương 20 trong phần dưới đây.
 featured: false
-image: https://banmaixanh.org/image/cover/001-420.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-420.jpg
 tags:
   - manga
   - tezuka osamu
@@ -19,97 +19,97 @@ Tác phẩm còn mang thông điệp về sự cân bằng giữa thiên nhiên 
 
 ## Chim lửa (Hi no Tori) chương 20
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0001.jpg" alt="Chim lửa (Hi no Tori) chương 20." title="Chim lửa (Hi no Tori) chương 20." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 20.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0001.jpg" alt="Chim lửa (Hi no Tori) chương 20." title="Chim lửa (Hi no Tori) chương 20." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 20.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0002.jpg" alt="Chim lửa (Hi no Tori) chương 20." title="Chim lửa (Hi no Tori) chương 20." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 20.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0002.jpg" alt="Chim lửa (Hi no Tori) chương 20." title="Chim lửa (Hi no Tori) chương 20." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 20.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0003.jpg" alt="Chim lửa (Hi no Tori) chương 20." title="Chim lửa (Hi no Tori) chương 20." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 20.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0003.jpg" alt="Chim lửa (Hi no Tori) chương 20." title="Chim lửa (Hi no Tori) chương 20." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 20.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0004.jpg" alt="Chim lửa (Hi no Tori) chương 20." title="Chim lửa (Hi no Tori) chương 20." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 20.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0004.jpg" alt="Chim lửa (Hi no Tori) chương 20." title="Chim lửa (Hi no Tori) chương 20." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 20.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0005.jpg" alt="Chim lửa (Hi no Tori) chương 20." title="Chim lửa (Hi no Tori) chương 20." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 20.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0005.jpg" alt="Chim lửa (Hi no Tori) chương 20." title="Chim lửa (Hi no Tori) chương 20." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 20.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0006.jpg" alt="Chim lửa (Hi no Tori) chương 20." title="Chim lửa (Hi no Tori) chương 20." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 20.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0006.jpg" alt="Chim lửa (Hi no Tori) chương 20." title="Chim lửa (Hi no Tori) chương 20." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 20.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0081.jpg" alt="Chim lửa (Hi no Tori) chương 20." title="Chim lửa (Hi no Tori) chương 20." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 20.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0081.jpg" alt="Chim lửa (Hi no Tori) chương 20." title="Chim lửa (Hi no Tori) chương 20." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 20.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0082.jpg" alt="Chim lửa (Hi no Tori) chương 20." title="Chim lửa (Hi no Tori) chương 20." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 20.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0082.jpg" alt="Chim lửa (Hi no Tori) chương 20." title="Chim lửa (Hi no Tori) chương 20." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 20.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0083.jpg" alt="Chim lửa (Hi no Tori) chương 20." title="Chim lửa (Hi no Tori) chương 20." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 20.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0083.jpg" alt="Chim lửa (Hi no Tori) chương 20." title="Chim lửa (Hi no Tori) chương 20." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 20.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0084.jpg" alt="Chim lửa (Hi no Tori) chương 20." title="Chim lửa (Hi no Tori) chương 20." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 20.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0084.jpg" alt="Chim lửa (Hi no Tori) chương 20." title="Chim lửa (Hi no Tori) chương 20." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 20.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0085.jpg" alt="Chim lửa (Hi no Tori) chương 20." title="Chim lửa (Hi no Tori) chương 20." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 20.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0085.jpg" alt="Chim lửa (Hi no Tori) chương 20." title="Chim lửa (Hi no Tori) chương 20." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 20.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0086.jpg" alt="Chim lửa (Hi no Tori) chương 20." title="Chim lửa (Hi no Tori) chương 20." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 20.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0086.jpg" alt="Chim lửa (Hi no Tori) chương 20." title="Chim lửa (Hi no Tori) chương 20." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 20.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0087.jpg" alt="Chim lửa (Hi no Tori) chương 20." title="Chim lửa (Hi no Tori) chương 20." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 20.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0087.jpg" alt="Chim lửa (Hi no Tori) chương 20." title="Chim lửa (Hi no Tori) chương 20." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 20.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0088.jpg" alt="Chim lửa (Hi no Tori) chương 20." title="Chim lửa (Hi no Tori) chương 20." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 20.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0088.jpg" alt="Chim lửa (Hi no Tori) chương 20." title="Chim lửa (Hi no Tori) chương 20." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 20.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0089.jpg" alt="Chim lửa (Hi no Tori) chương 20." title="Chim lửa (Hi no Tori) chương 20." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 20.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0089.jpg" alt="Chim lửa (Hi no Tori) chương 20." title="Chim lửa (Hi no Tori) chương 20." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 20.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0090.jpg" alt="Chim lửa (Hi no Tori) chương 20." title="Chim lửa (Hi no Tori) chương 20." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 20.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0090.jpg" alt="Chim lửa (Hi no Tori) chương 20." title="Chim lửa (Hi no Tori) chương 20." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 20.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0091.jpg" alt="Chim lửa (Hi no Tori) chương 20." title="Chim lửa (Hi no Tori) chương 20." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 20.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0091.jpg" alt="Chim lửa (Hi no Tori) chương 20." title="Chim lửa (Hi no Tori) chương 20." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 20.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0092.jpg" alt="Chim lửa (Hi no Tori) chương 20." title="Chim lửa (Hi no Tori) chương 20." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 20.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0092.jpg" alt="Chim lửa (Hi no Tori) chương 20." title="Chim lửa (Hi no Tori) chương 20." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 20.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0093.jpg" alt="Chim lửa (Hi no Tori) chương 20." title="Chim lửa (Hi no Tori) chương 20." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 20.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0093.jpg" alt="Chim lửa (Hi no Tori) chương 20." title="Chim lửa (Hi no Tori) chương 20." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 20.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0094.jpg" alt="Chim lửa (Hi no Tori) chương 20." title="Chim lửa (Hi no Tori) chương 20." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 20.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0094.jpg" alt="Chim lửa (Hi no Tori) chương 20." title="Chim lửa (Hi no Tori) chương 20." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 20.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0095.jpg" alt="Chim lửa (Hi no Tori) chương 20." title="Chim lửa (Hi no Tori) chương 20." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 20.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0095.jpg" alt="Chim lửa (Hi no Tori) chương 20." title="Chim lửa (Hi no Tori) chương 20." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 20.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0096.jpg" alt="Chim lửa (Hi no Tori) chương 20." title="Chim lửa (Hi no Tori) chương 20." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 20.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0096.jpg" alt="Chim lửa (Hi no Tori) chương 20." title="Chim lửa (Hi no Tori) chương 20." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 20.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0097.jpg" alt="Chim lửa (Hi no Tori) chương 20." title="Chim lửa (Hi no Tori) chương 20." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 20.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0097.jpg" alt="Chim lửa (Hi no Tori) chương 20." title="Chim lửa (Hi no Tori) chương 20." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 20.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0098.jpg" alt="Chim lửa (Hi no Tori) chương 20." title="Chim lửa (Hi no Tori) chương 20." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 20.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0098.jpg" alt="Chim lửa (Hi no Tori) chương 20." title="Chim lửa (Hi no Tori) chương 20." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 20.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0099.jpg" alt="Chim lửa (Hi no Tori) chương 20." title="Chim lửa (Hi no Tori) chương 20." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 20.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0099.jpg" alt="Chim lửa (Hi no Tori) chương 20." title="Chim lửa (Hi no Tori) chương 20." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 20.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0100.jpg" alt="Chim lửa (Hi no Tori) chương 20." title="Chim lửa (Hi no Tori) chương 20." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 20.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0100.jpg" alt="Chim lửa (Hi no Tori) chương 20." title="Chim lửa (Hi no Tori) chương 20." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 20.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0101.jpg" alt="Chim lửa (Hi no Tori) chương 20." title="Chim lửa (Hi no Tori) chương 20." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 20.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0101.jpg" alt="Chim lửa (Hi no Tori) chương 20." title="Chim lửa (Hi no Tori) chương 20." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 20.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0102.jpg" alt="Chim lửa (Hi no Tori) chương 20." title="Chim lửa (Hi no Tori) chương 20." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 20.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0102.jpg" alt="Chim lửa (Hi no Tori) chương 20." title="Chim lửa (Hi no Tori) chương 20." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 20.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0103.jpg" alt="Chim lửa (Hi no Tori) chương 20." title="Chim lửa (Hi no Tori) chương 20." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 20.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0103.jpg" alt="Chim lửa (Hi no Tori) chương 20." title="Chim lửa (Hi no Tori) chương 20." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 20.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0104.jpg" alt="Chim lửa (Hi no Tori) chương 20." title="Chim lửa (Hi no Tori) chương 20." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 20.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0104.jpg" alt="Chim lửa (Hi no Tori) chương 20." title="Chim lửa (Hi no Tori) chương 20." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 20.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0105.jpg" alt="Chim lửa (Hi no Tori) chương 20." title="Chim lửa (Hi no Tori) chương 20." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 20.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0105.jpg" alt="Chim lửa (Hi no Tori) chương 20." title="Chim lửa (Hi no Tori) chương 20." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 20.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0106.jpg" alt="Chim lửa (Hi no Tori) chương 20." title="Chim lửa (Hi no Tori) chương 20." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 20.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0106.jpg" alt="Chim lửa (Hi no Tori) chương 20." title="Chim lửa (Hi no Tori) chương 20." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 20.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0107.jpg" alt="Chim lửa (Hi no Tori) chương 20." title="Chim lửa (Hi no Tori) chương 20." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 20.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0107.jpg" alt="Chim lửa (Hi no Tori) chương 20." title="Chim lửa (Hi no Tori) chương 20." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 20.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0108.jpg" alt="Chim lửa (Hi no Tori) chương 20." title="Chim lửa (Hi no Tori) chương 20." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 20.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0108.jpg" alt="Chim lửa (Hi no Tori) chương 20." title="Chim lửa (Hi no Tori) chương 20." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 20.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0109.jpg" alt="Chim lửa (Hi no Tori) chương 20." title="Chim lửa (Hi no Tori) chương 20." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 20.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0109.jpg" alt="Chim lửa (Hi no Tori) chương 20." title="Chim lửa (Hi no Tori) chương 20." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 20.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0110.jpg" alt="Chim lửa (Hi no Tori) chương 20." title="Chim lửa (Hi no Tori) chương 20." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 20.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0110.jpg" alt="Chim lửa (Hi no Tori) chương 20." title="Chim lửa (Hi no Tori) chương 20." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 20.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0111.jpg" alt="Chim lửa (Hi no Tori) chương 20." title="Chim lửa (Hi no Tori) chương 20." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 20.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0111.jpg" alt="Chim lửa (Hi no Tori) chương 20." title="Chim lửa (Hi no Tori) chương 20." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 20.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0112.jpg" alt="Chim lửa (Hi no Tori) chương 20." title="Chim lửa (Hi no Tori) chương 20." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 20.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0112.jpg" alt="Chim lửa (Hi no Tori) chương 20." title="Chim lửa (Hi no Tori) chương 20." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 20.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0113.jpg" alt="Chim lửa (Hi no Tori) chương 20." title="Chim lửa (Hi no Tori) chương 20." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 20.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0113.jpg" alt="Chim lửa (Hi no Tori) chương 20." title="Chim lửa (Hi no Tori) chương 20." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 20.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0114.jpg" alt="Chim lửa (Hi no Tori) chương 20." title="Chim lửa (Hi no Tori) chương 20." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 20.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0114.jpg" alt="Chim lửa (Hi no Tori) chương 20." title="Chim lửa (Hi no Tori) chương 20." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 20.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0115.jpg" alt="Chim lửa (Hi no Tori) chương 20." title="Chim lửa (Hi no Tori) chương 20." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 20.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0115.jpg" alt="Chim lửa (Hi no Tori) chương 20." title="Chim lửa (Hi no Tori) chương 20." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 20.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0116.jpg" alt="Chim lửa (Hi no Tori) chương 20." title="Chim lửa (Hi no Tori) chương 20." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 20.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0116.jpg" alt="Chim lửa (Hi no Tori) chương 20." title="Chim lửa (Hi no Tori) chương 20." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 20.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0117.jpg" alt="Chim lửa (Hi no Tori) chương 20." title="Chim lửa (Hi no Tori) chương 20." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 20.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0117.jpg" alt="Chim lửa (Hi no Tori) chương 20." title="Chim lửa (Hi no Tori) chương 20." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 20.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0118.jpg" alt="Chim lửa (Hi no Tori) chương 20." title="Chim lửa (Hi no Tori) chương 20." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 20.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0118.jpg" alt="Chim lửa (Hi no Tori) chương 20." title="Chim lửa (Hi no Tori) chương 20." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 20.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0119.jpg" alt="Chim lửa (Hi no Tori) chương 20." title="Chim lửa (Hi no Tori) chương 20." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 20.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0119.jpg" alt="Chim lửa (Hi no Tori) chương 20." title="Chim lửa (Hi no Tori) chương 20." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 20.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0120.jpg" alt="Chim lửa (Hi no Tori) chương 20." title="Chim lửa (Hi no Tori) chương 20." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 20.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0120.jpg" alt="Chim lửa (Hi no Tori) chương 20." title="Chim lửa (Hi no Tori) chương 20." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 20.</p></figcaption></figure>
 
 ## Đôi nét về tác giả Tezuka Osamu
 
@@ -385,6 +385,6 @@ Không chỉ vậy, Chim lửa còn được chuyển thể thành nhiều bộ 
 
 Đọc [Chim lửa, chương 98](https://nhavantuonglai.com/article/chim-lua-chuong-98) tại đây.
 
-Đọc [Chim lửa, tập 03](https://banmaixanh.org/ebook/chim-lua-tap-03.pdf) tại đây.
+Đọc [Chim lửa, tập 03](https://banmaixanh.vercel.app/ebook/chim-lua-tap-03.pdf) tại đây.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-451.jpg" alt="Chim lửa (Hi no Tori) chương 20." title="Chim lửa (Hi no Tori) chương 20." height=100% width=100%><figcaption><p>Chim lửa (Hi no Tori) chương 20.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-451.jpg" alt="Chim lửa (Hi no Tori) chương 20." title="Chim lửa (Hi no Tori) chương 20." height=100% width=100%><figcaption><p>Chim lửa (Hi no Tori) chương 20.</p></figcaption></figure>

@@ -3,7 +3,7 @@ pubDatetime: 2018-07-25T10:10:00Z
 title: Chim lửa | Chương 25
 description: Tezuka Osamu qua Chim lửa đặt ra câu hỏi về sự sống, cái chết, ý nghĩa tồn tại, nhấn mạnh con người chỉ thực sự sống khi hòa hợp với thiên nhiên. Đọc Chim lửa (Hi no Tori) chương 25 trong phần dưới đây.
 featured: false
-image: https://banmaixanh.org/image/cover/001-425.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-425.jpg
 tags:
   - manga
   - tezuka osamu
@@ -19,67 +19,67 @@ Tác phẩm còn mang thông điệp về sự cân bằng giữa thiên nhiên 
 
 ## Chim lửa (Hi no Tori) chương 25
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0001.jpg" alt="Chim lửa (Hi no Tori) chương 25." title="Chim lửa (Hi no Tori) chương 25." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 25.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0001.jpg" alt="Chim lửa (Hi no Tori) chương 25." title="Chim lửa (Hi no Tori) chương 25." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 25.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0002.jpg" alt="Chim lửa (Hi no Tori) chương 25." title="Chim lửa (Hi no Tori) chương 25." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 25.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0002.jpg" alt="Chim lửa (Hi no Tori) chương 25." title="Chim lửa (Hi no Tori) chương 25." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 25.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0003.jpg" alt="Chim lửa (Hi no Tori) chương 25." title="Chim lửa (Hi no Tori) chương 25." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 25.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0003.jpg" alt="Chim lửa (Hi no Tori) chương 25." title="Chim lửa (Hi no Tori) chương 25." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 25.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0004.jpg" alt="Chim lửa (Hi no Tori) chương 25." title="Chim lửa (Hi no Tori) chương 25." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 25.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0004.jpg" alt="Chim lửa (Hi no Tori) chương 25." title="Chim lửa (Hi no Tori) chương 25." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 25.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0005.jpg" alt="Chim lửa (Hi no Tori) chương 25." title="Chim lửa (Hi no Tori) chương 25." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 25.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0005.jpg" alt="Chim lửa (Hi no Tori) chương 25." title="Chim lửa (Hi no Tori) chương 25." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 25.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0006.jpg" alt="Chim lửa (Hi no Tori) chương 25." title="Chim lửa (Hi no Tori) chương 25." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 25.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0006.jpg" alt="Chim lửa (Hi no Tori) chương 25." title="Chim lửa (Hi no Tori) chương 25." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 25.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0281.jpg" alt="Chim lửa (Hi no Tori) chương 25." title="Chim lửa (Hi no Tori) chương 25." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 25.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0281.jpg" alt="Chim lửa (Hi no Tori) chương 25." title="Chim lửa (Hi no Tori) chương 25." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 25.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0282.jpg" alt="Chim lửa (Hi no Tori) chương 25." title="Chim lửa (Hi no Tori) chương 25." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 25.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0282.jpg" alt="Chim lửa (Hi no Tori) chương 25." title="Chim lửa (Hi no Tori) chương 25." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 25.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0283.jpg" alt="Chim lửa (Hi no Tori) chương 25." title="Chim lửa (Hi no Tori) chương 25." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 25.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0283.jpg" alt="Chim lửa (Hi no Tori) chương 25." title="Chim lửa (Hi no Tori) chương 25." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 25.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0284.jpg" alt="Chim lửa (Hi no Tori) chương 25." title="Chim lửa (Hi no Tori) chương 25." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 25.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0284.jpg" alt="Chim lửa (Hi no Tori) chương 25." title="Chim lửa (Hi no Tori) chương 25." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 25.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0285.jpg" alt="Chim lửa (Hi no Tori) chương 25." title="Chim lửa (Hi no Tori) chương 25." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 25.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0285.jpg" alt="Chim lửa (Hi no Tori) chương 25." title="Chim lửa (Hi no Tori) chương 25." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 25.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0286.jpg" alt="Chim lửa (Hi no Tori) chương 25." title="Chim lửa (Hi no Tori) chương 25." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 25.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0286.jpg" alt="Chim lửa (Hi no Tori) chương 25." title="Chim lửa (Hi no Tori) chương 25." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 25.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0287.jpg" alt="Chim lửa (Hi no Tori) chương 25." title="Chim lửa (Hi no Tori) chương 25." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 25.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0287.jpg" alt="Chim lửa (Hi no Tori) chương 25." title="Chim lửa (Hi no Tori) chương 25." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 25.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0288.jpg" alt="Chim lửa (Hi no Tori) chương 25." title="Chim lửa (Hi no Tori) chương 25." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 25.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0288.jpg" alt="Chim lửa (Hi no Tori) chương 25." title="Chim lửa (Hi no Tori) chương 25." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 25.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0289.jpg" alt="Chim lửa (Hi no Tori) chương 25." title="Chim lửa (Hi no Tori) chương 25." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 25.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0289.jpg" alt="Chim lửa (Hi no Tori) chương 25." title="Chim lửa (Hi no Tori) chương 25." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 25.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0290.jpg" alt="Chim lửa (Hi no Tori) chương 25." title="Chim lửa (Hi no Tori) chương 25." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 25.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0290.jpg" alt="Chim lửa (Hi no Tori) chương 25." title="Chim lửa (Hi no Tori) chương 25." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 25.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0291.jpg" alt="Chim lửa (Hi no Tori) chương 25." title="Chim lửa (Hi no Tori) chương 25." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 25.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0291.jpg" alt="Chim lửa (Hi no Tori) chương 25." title="Chim lửa (Hi no Tori) chương 25." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 25.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0292.jpg" alt="Chim lửa (Hi no Tori) chương 25." title="Chim lửa (Hi no Tori) chương 25." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 25.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0292.jpg" alt="Chim lửa (Hi no Tori) chương 25." title="Chim lửa (Hi no Tori) chương 25." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 25.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0293.jpg" alt="Chim lửa (Hi no Tori) chương 25." title="Chim lửa (Hi no Tori) chương 25." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 25.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0293.jpg" alt="Chim lửa (Hi no Tori) chương 25." title="Chim lửa (Hi no Tori) chương 25." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 25.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0294.jpg" alt="Chim lửa (Hi no Tori) chương 25." title="Chim lửa (Hi no Tori) chương 25." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 25.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0294.jpg" alt="Chim lửa (Hi no Tori) chương 25." title="Chim lửa (Hi no Tori) chương 25." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 25.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0295.jpg" alt="Chim lửa (Hi no Tori) chương 25." title="Chim lửa (Hi no Tori) chương 25." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 25.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0295.jpg" alt="Chim lửa (Hi no Tori) chương 25." title="Chim lửa (Hi no Tori) chương 25." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 25.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0296.jpg" alt="Chim lửa (Hi no Tori) chương 25." title="Chim lửa (Hi no Tori) chương 25." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 25.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0296.jpg" alt="Chim lửa (Hi no Tori) chương 25." title="Chim lửa (Hi no Tori) chương 25." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 25.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0297.jpg" alt="Chim lửa (Hi no Tori) chương 25." title="Chim lửa (Hi no Tori) chương 25." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 25.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0297.jpg" alt="Chim lửa (Hi no Tori) chương 25." title="Chim lửa (Hi no Tori) chương 25." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 25.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0298.jpg" alt="Chim lửa (Hi no Tori) chương 25." title="Chim lửa (Hi no Tori) chương 25." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 25.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0298.jpg" alt="Chim lửa (Hi no Tori) chương 25." title="Chim lửa (Hi no Tori) chương 25." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 25.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0299.jpg" alt="Chim lửa (Hi no Tori) chương 25." title="Chim lửa (Hi no Tori) chương 25." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 25.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0299.jpg" alt="Chim lửa (Hi no Tori) chương 25." title="Chim lửa (Hi no Tori) chương 25." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 25.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0300.jpg" alt="Chim lửa (Hi no Tori) chương 25." title="Chim lửa (Hi no Tori) chương 25." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 25.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0300.jpg" alt="Chim lửa (Hi no Tori) chương 25." title="Chim lửa (Hi no Tori) chương 25." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 25.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0301.jpg" alt="Chim lửa (Hi no Tori) chương 25." title="Chim lửa (Hi no Tori) chương 25." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 25.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0301.jpg" alt="Chim lửa (Hi no Tori) chương 25." title="Chim lửa (Hi no Tori) chương 25." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 25.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0302.jpg" alt="Chim lửa (Hi no Tori) chương 25." title="Chim lửa (Hi no Tori) chương 25." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 25.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0302.jpg" alt="Chim lửa (Hi no Tori) chương 25." title="Chim lửa (Hi no Tori) chương 25." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 25.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0303.jpg" alt="Chim lửa (Hi no Tori) chương 25." title="Chim lửa (Hi no Tori) chương 25." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 25.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0303.jpg" alt="Chim lửa (Hi no Tori) chương 25." title="Chim lửa (Hi no Tori) chương 25." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 25.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0304.jpg" alt="Chim lửa (Hi no Tori) chương 25." title="Chim lửa (Hi no Tori) chương 25." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 25.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0304.jpg" alt="Chim lửa (Hi no Tori) chương 25." title="Chim lửa (Hi no Tori) chương 25." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 25.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0305.jpg" alt="Chim lửa (Hi no Tori) chương 25." title="Chim lửa (Hi no Tori) chương 25." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 25.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0305.jpg" alt="Chim lửa (Hi no Tori) chương 25." title="Chim lửa (Hi no Tori) chương 25." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 25.</p></figcaption></figure>
 
 ## Đôi nét về tác giả Tezuka Osamu
 
@@ -355,6 +355,6 @@ Không chỉ vậy, Chim lửa còn được chuyển thể thành nhiều bộ 
 
 Đọc [Chim lửa, chương 98](https://nhavantuonglai.com/article/chim-lua-chuong-98) tại đây.
 
-Đọc [Chim lửa, tập 04](https://banmaixanh.org/ebook/chim-lua-tap-04.pdf) tại đây.
+Đọc [Chim lửa, tập 04](https://banmaixanh.vercel.app/ebook/chim-lua-tap-04.pdf) tại đây.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-451.jpg" alt="Chim lửa (Hi no Tori) chương 25." title="Chim lửa (Hi no Tori) chương 25." height=100% width=100%><figcaption><p>Chim lửa (Hi no Tori) chương 25.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-451.jpg" alt="Chim lửa (Hi no Tori) chương 25." title="Chim lửa (Hi no Tori) chương 25." height=100% width=100%><figcaption><p>Chim lửa (Hi no Tori) chương 25.</p></figcaption></figure>

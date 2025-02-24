@@ -3,7 +3,7 @@ pubDatetime: 2005-06-30T10:10:00Z
 title: Biên niên ký chim vặn dây cót | Chương 60
 description: Biên niên ký chim vặn dây cót kể về tiếng chim vang lên trong khoảnh khắc quyết định, khi con người tỉnh thức tiếng lòng thầm kín.
 featured: false
-image: https://banmaixanh.org/image/cover/001-249.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-249.jpg
 tags:
   - thu vien
   - van hoc
@@ -310,6 +310,6 @@ Nơi này nguy hiểm lắm. Ông là kẻ đột nhập không ai mời mà đ�
 
 Đọc [Biên niên ký chim vặn dây cót, chương 66](https://nhavantuonglai.com/article/bien-nien-ky-chim-van-day-cot-chuong-66) tại đây.
 
-Đọc [Biên niên ký chim vặn dây cót, toàn tập](https://banmaixanh.org/ebook/bien-nien-ky-chim-van-day-cot.pdf) tại đây.
+Đọc [Biên niên ký chim vặn dây cót, toàn tập](https://banmaixanh.vercel.app/ebook/bien-nien-ky-chim-van-day-cot.pdf) tại đây.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-210.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-210.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

@@ -3,7 +3,7 @@ pubDatetime: 2005-05-04T10:10:00Z
 title: Biên niên ký chim vặn dây cót | Chương 04
 description: Biên niên ký chim vặn dây cót kể về tiếng chim vang lên trong khoảnh khắc quyết định, khi con người tỉnh thức tiếng lòng thầm kín.
 featured: false
-image: https://banmaixanh.org/image/cover/001-185.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-185.jpg
 tags:
   - thu vien
   - van hoc
@@ -372,6 +372,6 @@ Lính tráng đều đang ngủ. Bầu trời trên đầu chi chít những sao
 
 Đọc [Biên niên ký chim vặn dây cót, chương 66](https://nhavantuonglai.com/article/bien-nien-ky-chim-van-day-cot-chuong-66) tại đây.
 
-Đọc [Biên niên ký chim vặn dây cót, toàn tập](https://banmaixanh.org/ebook/bien-nien-ky-chim-van-day-cot.pdf) tại đây.
+Đọc [Biên niên ký chim vặn dây cót, toàn tập](https://banmaixanh.vercel.app/ebook/bien-nien-ky-chim-van-day-cot.pdf) tại đây.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-122.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-122.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

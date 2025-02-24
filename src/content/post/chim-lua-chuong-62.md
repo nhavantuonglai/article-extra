@@ -3,7 +3,7 @@ pubDatetime: 2018-08-22T10:10:00Z
 title: Chim lửa | Chương 62
 description: Tezuka Osamu qua Chim lửa đặt ra câu hỏi về sự sống, cái chết, ý nghĩa tồn tại, nhấn mạnh con người chỉ thực sự sống khi hòa hợp với thiên nhiên. Đọc Chim lửa (Hi no Tori) chương 62 trong phần dưới đây.
 featured: false
-image: https://banmaixanh.org/image/cover/001-462.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-462.jpg
 tags:
   - manga
   - tezuka osamu
@@ -19,85 +19,85 @@ Tác phẩm còn mang thông điệp về sự cân bằng giữa thiên nhiên 
 
 ## Chim lửa (Hi no Tori) chương 62
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0008-0001.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0008-0001.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0008-0002.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0008-0002.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0008-0003.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0008-0003.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0008-0004.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0008-0004.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0008-0005.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0008-0005.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0008-0006.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0008-0006.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0008-0007.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0008-0007.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0008-0008.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0008-0008.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0008-0009.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0008-0009.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0008-0010.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0008-0010.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0008-0011.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0008-0011.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0008-0012.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0008-0012.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0008-0013.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0008-0013.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0008-0014.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0008-0014.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0008-0015.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0008-0015.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0008-0016.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0008-0016.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0008-0017.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0008-0017.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0008-0018.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0008-0018.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0008-0019.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0008-0019.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0008-0020.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0008-0020.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0008-0021.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0008-0021.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0008-0022.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0008-0022.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0008-0023.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0008-0023.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0008-0024.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0008-0024.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0008-0025.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0008-0025.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0008-0026.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0008-0026.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0008-0027.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0008-0027.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0008-0028.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0008-0028.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0008-0029.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0008-0029.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0008-0030.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0008-0030.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0008-0031.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0008-0031.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0008-0032.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0008-0032.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0008-0033.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0008-0033.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0008-0034.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0008-0034.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0008-0035.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0008-0035.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0008-0036.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0008-0036.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0008-0037.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0008-0037.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0008-0038.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0008-0038.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0008-0039.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0008-0039.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0008-0040.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0008-0040.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
 
 ## Đôi nét về tác giả Tezuka Osamu
 
@@ -373,6 +373,6 @@ Không chỉ vậy, Chim lửa còn được chuyển thể thành nhiều bộ 
 
 Đọc [Chim lửa, chương 98](https://nhavantuonglai.com/article/chim-lua-chuong-98) tại đây.
 
-Đọc [Chim lửa, tập 08](https://banmaixanh.org/ebook/chim-lua-tap-08.pdf) tại đây.
+Đọc [Chim lửa, tập 08](https://banmaixanh.vercel.app/ebook/chim-lua-tap-08.pdf) tại đây.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-451.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption><p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-451.jpg" alt="Chim lửa (Hi no Tori) chương 62." title="Chim lửa (Hi no Tori) chương 62." height=100% width=100%><figcaption><p>Chim lửa (Hi no Tori) chương 62.</p></figcaption></figure>

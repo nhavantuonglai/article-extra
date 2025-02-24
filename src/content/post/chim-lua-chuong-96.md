@@ -2,7 +2,7 @@
 pubDatetime: 2018-09-26T10:10:00Z
 title: Chim lửa | Chương 96
 description: Tezuka Osamu qua Chim lửa đặt ra câu hỏi về sự sống, cái chết, ý nghĩa tồn tại, nhấn mạnh con người chỉ thực sự sống khi hòa hợp với thiên nhiên. Đọc Chim lửa (Hi no Tori) chương 96 trong phần dưới đây.
-image: https://banmaixanh.org/image/cover/001-556.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-556.jpg
 featured: false
 tags:
   - manga
@@ -19,91 +19,91 @@ Tác phẩm còn mang thông điệp về sự cân bằng giữa thiên nhiên 
 
 ## Chim lửa (Hi no Tori) chương 96
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0012-0001.jpg" alt="Chim lửa (Hi no Tori) chương 96." title="Chim lửa (Hi no Tori) chương 96." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 96.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0012-0001.jpg" alt="Chim lửa (Hi no Tori) chương 96." title="Chim lửa (Hi no Tori) chương 96." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 96.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0012-0002.jpg" alt="Chim lửa (Hi no Tori) chương 96." title="Chim lửa (Hi no Tori) chương 96." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 96.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0012-0002.jpg" alt="Chim lửa (Hi no Tori) chương 96." title="Chim lửa (Hi no Tori) chương 96." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 96.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0012-0003.jpg" alt="Chim lửa (Hi no Tori) chương 96." title="Chim lửa (Hi no Tori) chương 96." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 96.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0012-0003.jpg" alt="Chim lửa (Hi no Tori) chương 96." title="Chim lửa (Hi no Tori) chương 96." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 96.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0012-0081.jpg" alt="Chim lửa (Hi no Tori) chương 96." title="Chim lửa (Hi no Tori) chương 96." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 96.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0012-0081.jpg" alt="Chim lửa (Hi no Tori) chương 96." title="Chim lửa (Hi no Tori) chương 96." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 96.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0012-0082.jpg" alt="Chim lửa (Hi no Tori) chương 96." title="Chim lửa (Hi no Tori) chương 96." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 96.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0012-0082.jpg" alt="Chim lửa (Hi no Tori) chương 96." title="Chim lửa (Hi no Tori) chương 96." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 96.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0012-0083.jpg" alt="Chim lửa (Hi no Tori) chương 96." title="Chim lửa (Hi no Tori) chương 96." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 96.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0012-0083.jpg" alt="Chim lửa (Hi no Tori) chương 96." title="Chim lửa (Hi no Tori) chương 96." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 96.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0012-0084.jpg" alt="Chim lửa (Hi no Tori) chương 96." title="Chim lửa (Hi no Tori) chương 96." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 96.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0012-0084.jpg" alt="Chim lửa (Hi no Tori) chương 96." title="Chim lửa (Hi no Tori) chương 96." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 96.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0012-0085.jpg" alt="Chim lửa (Hi no Tori) chương 96." title="Chim lửa (Hi no Tori) chương 96." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 96.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0012-0085.jpg" alt="Chim lửa (Hi no Tori) chương 96." title="Chim lửa (Hi no Tori) chương 96." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 96.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0012-0086.jpg" alt="Chim lửa (Hi no Tori) chương 96." title="Chim lửa (Hi no Tori) chương 96." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 96.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0012-0086.jpg" alt="Chim lửa (Hi no Tori) chương 96." title="Chim lửa (Hi no Tori) chương 96." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 96.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0012-0087.jpg" alt="Chim lửa (Hi no Tori) chương 96." title="Chim lửa (Hi no Tori) chương 96." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 96.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0012-0087.jpg" alt="Chim lửa (Hi no Tori) chương 96." title="Chim lửa (Hi no Tori) chương 96." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 96.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0012-0088.jpg" alt="Chim lửa (Hi no Tori) chương 96." title="Chim lửa (Hi no Tori) chương 96." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 96.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0012-0088.jpg" alt="Chim lửa (Hi no Tori) chương 96." title="Chim lửa (Hi no Tori) chương 96." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 96.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0012-0089.jpg" alt="Chim lửa (Hi no Tori) chương 96." title="Chim lửa (Hi no Tori) chương 96." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 96.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0012-0089.jpg" alt="Chim lửa (Hi no Tori) chương 96." title="Chim lửa (Hi no Tori) chương 96." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 96.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0012-0090.jpg" alt="Chim lửa (Hi no Tori) chương 96." title="Chim lửa (Hi no Tori) chương 96." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 96.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0012-0090.jpg" alt="Chim lửa (Hi no Tori) chương 96." title="Chim lửa (Hi no Tori) chương 96." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 96.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0012-0091.jpg" alt="Chim lửa (Hi no Tori) chương 96." title="Chim lửa (Hi no Tori) chương 96." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 96.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0012-0091.jpg" alt="Chim lửa (Hi no Tori) chương 96." title="Chim lửa (Hi no Tori) chương 96." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 96.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0012-0092.jpg" alt="Chim lửa (Hi no Tori) chương 96." title="Chim lửa (Hi no Tori) chương 96." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 96.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0012-0092.jpg" alt="Chim lửa (Hi no Tori) chương 96." title="Chim lửa (Hi no Tori) chương 96." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 96.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0012-0093.jpg" alt="Chim lửa (Hi no Tori) chương 96." title="Chim lửa (Hi no Tori) chương 96." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 96.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0012-0093.jpg" alt="Chim lửa (Hi no Tori) chương 96." title="Chim lửa (Hi no Tori) chương 96." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 96.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0012-0094.jpg" alt="Chim lửa (Hi no Tori) chương 96." title="Chim lửa (Hi no Tori) chương 96." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 96.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0012-0094.jpg" alt="Chim lửa (Hi no Tori) chương 96." title="Chim lửa (Hi no Tori) chương 96." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 96.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0012-0095.jpg" alt="Chim lửa (Hi no Tori) chương 96." title="Chim lửa (Hi no Tori) chương 96." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 96.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0012-0095.jpg" alt="Chim lửa (Hi no Tori) chương 96." title="Chim lửa (Hi no Tori) chương 96." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 96.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0012-0096.jpg" alt="Chim lửa (Hi no Tori) chương 96." title="Chim lửa (Hi no Tori) chương 96." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 96.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0012-0096.jpg" alt="Chim lửa (Hi no Tori) chương 96." title="Chim lửa (Hi no Tori) chương 96." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 96.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0012-0097.jpg" alt="Chim lửa (Hi no Tori) chương 96." title="Chim lửa (Hi no Tori) chương 96." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 96.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0012-0097.jpg" alt="Chim lửa (Hi no Tori) chương 96." title="Chim lửa (Hi no Tori) chương 96." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 96.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0012-0098.jpg" alt="Chim lửa (Hi no Tori) chương 96." title="Chim lửa (Hi no Tori) chương 96." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 96.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0012-0098.jpg" alt="Chim lửa (Hi no Tori) chương 96." title="Chim lửa (Hi no Tori) chương 96." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 96.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0012-0099.jpg" alt="Chim lửa (Hi no Tori) chương 96." title="Chim lửa (Hi no Tori) chương 96." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 96.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0012-0099.jpg" alt="Chim lửa (Hi no Tori) chương 96." title="Chim lửa (Hi no Tori) chương 96." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 96.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0012-0100.jpg" alt="Chim lửa (Hi no Tori) chương 96." title="Chim lửa (Hi no Tori) chương 96." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 96.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0012-0100.jpg" alt="Chim lửa (Hi no Tori) chương 96." title="Chim lửa (Hi no Tori) chương 96." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 96.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0012-0101.jpg" alt="Chim lửa (Hi no Tori) chương 96." title="Chim lửa (Hi no Tori) chương 96." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 96.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0012-0101.jpg" alt="Chim lửa (Hi no Tori) chương 96." title="Chim lửa (Hi no Tori) chương 96." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 96.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0012-0102.jpg" alt="Chim lửa (Hi no Tori) chương 96." title="Chim lửa (Hi no Tori) chương 96." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 96.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0012-0102.jpg" alt="Chim lửa (Hi no Tori) chương 96." title="Chim lửa (Hi no Tori) chương 96." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 96.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0012-0103.jpg" alt="Chim lửa (Hi no Tori) chương 96." title="Chim lửa (Hi no Tori) chương 96." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 96.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0012-0103.jpg" alt="Chim lửa (Hi no Tori) chương 96." title="Chim lửa (Hi no Tori) chương 96." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 96.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0012-0104.jpg" alt="Chim lửa (Hi no Tori) chương 96." title="Chim lửa (Hi no Tori) chương 96." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 96.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0012-0104.jpg" alt="Chim lửa (Hi no Tori) chương 96." title="Chim lửa (Hi no Tori) chương 96." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 96.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0012-0105.jpg" alt="Chim lửa (Hi no Tori) chương 96." title="Chim lửa (Hi no Tori) chương 96." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 96.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0012-0105.jpg" alt="Chim lửa (Hi no Tori) chương 96." title="Chim lửa (Hi no Tori) chương 96." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 96.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0012-0106.jpg" alt="Chim lửa (Hi no Tori) chương 96." title="Chim lửa (Hi no Tori) chương 96." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 96.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0012-0106.jpg" alt="Chim lửa (Hi no Tori) chương 96." title="Chim lửa (Hi no Tori) chương 96." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 96.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0012-0107.jpg" alt="Chim lửa (Hi no Tori) chương 96." title="Chim lửa (Hi no Tori) chương 96." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 96.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0012-0107.jpg" alt="Chim lửa (Hi no Tori) chương 96." title="Chim lửa (Hi no Tori) chương 96." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 96.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0012-0108.jpg" alt="Chim lửa (Hi no Tori) chương 96." title="Chim lửa (Hi no Tori) chương 96." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 96.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0012-0108.jpg" alt="Chim lửa (Hi no Tori) chương 96." title="Chim lửa (Hi no Tori) chương 96." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 96.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0012-0109.jpg" alt="Chim lửa (Hi no Tori) chương 96." title="Chim lửa (Hi no Tori) chương 96." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 96.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0012-0109.jpg" alt="Chim lửa (Hi no Tori) chương 96." title="Chim lửa (Hi no Tori) chương 96." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 96.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0012-0110.jpg" alt="Chim lửa (Hi no Tori) chương 96." title="Chim lửa (Hi no Tori) chương 96." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 96.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0012-0110.jpg" alt="Chim lửa (Hi no Tori) chương 96." title="Chim lửa (Hi no Tori) chương 96." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 96.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0012-0111.jpg" alt="Chim lửa (Hi no Tori) chương 96." title="Chim lửa (Hi no Tori) chương 96." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 96.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0012-0111.jpg" alt="Chim lửa (Hi no Tori) chương 96." title="Chim lửa (Hi no Tori) chương 96." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 96.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0012-0112.jpg" alt="Chim lửa (Hi no Tori) chương 96." title="Chim lửa (Hi no Tori) chương 96." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 96.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0012-0112.jpg" alt="Chim lửa (Hi no Tori) chương 96." title="Chim lửa (Hi no Tori) chương 96." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 96.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0012-0113.jpg" alt="Chim lửa (Hi no Tori) chương 96." title="Chim lửa (Hi no Tori) chương 96." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 96.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0012-0113.jpg" alt="Chim lửa (Hi no Tori) chương 96." title="Chim lửa (Hi no Tori) chương 96." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 96.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0012-0114.jpg" alt="Chim lửa (Hi no Tori) chương 96." title="Chim lửa (Hi no Tori) chương 96." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 96.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0012-0114.jpg" alt="Chim lửa (Hi no Tori) chương 96." title="Chim lửa (Hi no Tori) chương 96." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 96.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0012-0115.jpg" alt="Chim lửa (Hi no Tori) chương 96." title="Chim lửa (Hi no Tori) chương 96." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 96.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0012-0115.jpg" alt="Chim lửa (Hi no Tori) chương 96." title="Chim lửa (Hi no Tori) chương 96." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 96.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0012-0116.jpg" alt="Chim lửa (Hi no Tori) chương 96." title="Chim lửa (Hi no Tori) chương 96." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 96.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0012-0116.jpg" alt="Chim lửa (Hi no Tori) chương 96." title="Chim lửa (Hi no Tori) chương 96." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 96.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0012-0117.jpg" alt="Chim lửa (Hi no Tori) chương 96." title="Chim lửa (Hi no Tori) chương 96." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 96.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0012-0117.jpg" alt="Chim lửa (Hi no Tori) chương 96." title="Chim lửa (Hi no Tori) chương 96." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 96.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0012-0118.jpg" alt="Chim lửa (Hi no Tori) chương 96." title="Chim lửa (Hi no Tori) chương 96." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 96.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0012-0118.jpg" alt="Chim lửa (Hi no Tori) chương 96." title="Chim lửa (Hi no Tori) chương 96." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 96.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0012-0119.jpg" alt="Chim lửa (Hi no Tori) chương 96." title="Chim lửa (Hi no Tori) chương 96." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 96.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0012-0119.jpg" alt="Chim lửa (Hi no Tori) chương 96." title="Chim lửa (Hi no Tori) chương 96." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 96.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0012-0120.jpg" alt="Chim lửa (Hi no Tori) chương 96." title="Chim lửa (Hi no Tori) chương 96." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 96.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0012-0120.jpg" alt="Chim lửa (Hi no Tori) chương 96." title="Chim lửa (Hi no Tori) chương 96." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 96.</p></figcaption></figure>
 
 ## Đôi nét về tác giả Tezuka Osamu
 
@@ -379,6 +379,6 @@ Không chỉ vậy, Chim lửa còn được chuyển thể thành nhiều bộ 
 
 Đọc [Chim lửa, chương 98](https://nhavantuonglai.com/article/chim-lua-chuong-98) tại đây.
 
-Đọc [Chim lửa, tập 12](https://banmaixanh.org/ebook/chim-lua-tap-12.pdf) tại đây.
+Đọc [Chim lửa, tập 12](https://banmaixanh.vercel.app/ebook/chim-lua-tap-12.pdf) tại đây.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-451.jpg" alt="Chim lửa (Hi no Tori) chương 96." title="Chim lửa (Hi no Tori) chương 96." height=100% width=100%><figcaption><p>Chim lửa (Hi no Tori) chương 96.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-451.jpg" alt="Chim lửa (Hi no Tori) chương 96." title="Chim lửa (Hi no Tori) chương 96." height=100% width=100%><figcaption><p>Chim lửa (Hi no Tori) chương 96.</p></figcaption></figure>

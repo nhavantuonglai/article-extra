@@ -3,7 +3,7 @@ pubDatetime: 2018-09-11T10:10:00Z
 title: Chim lửa | Chương 81
 description: Tezuka Osamu qua Chim lửa đặt ra câu hỏi về sự sống, cái chết, ý nghĩa tồn tại, nhấn mạnh con người chỉ thực sự sống khi hòa hợp với thiên nhiên. Đọc Chim lửa (Hi no Tori) chương 81 trong phần dưới đây.
 featured: false
-image: https://banmaixanh.org/image/cover/001-541.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-541.jpg
 tags:
   - manga
   - tezuka osamu
@@ -19,91 +19,91 @@ Tác phẩm còn mang thông điệp về sự cân bằng giữa thiên nhiên 
 
 ## Chim lửa (Hi no Tori) chương 81
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0010-0001.jpg" alt="Chim lửa (Hi no Tori) chương 81." title="Chim lửa (Hi no Tori) chương 81." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 81.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0010-0001.jpg" alt="Chim lửa (Hi no Tori) chương 81." title="Chim lửa (Hi no Tori) chương 81." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 81.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0010-0002.jpg" alt="Chim lửa (Hi no Tori) chương 81." title="Chim lửa (Hi no Tori) chương 81." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 81.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0010-0002.jpg" alt="Chim lửa (Hi no Tori) chương 81." title="Chim lửa (Hi no Tori) chương 81." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 81.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0010-0003.jpg" alt="Chim lửa (Hi no Tori) chương 81." title="Chim lửa (Hi no Tori) chương 81." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 81.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0010-0003.jpg" alt="Chim lửa (Hi no Tori) chương 81." title="Chim lửa (Hi no Tori) chương 81." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 81.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0010-0201.jpg" alt="Chim lửa (Hi no Tori) chương 81." title="Chim lửa (Hi no Tori) chương 81." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 81.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0010-0201.jpg" alt="Chim lửa (Hi no Tori) chương 81." title="Chim lửa (Hi no Tori) chương 81." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 81.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0010-0202.jpg" alt="Chim lửa (Hi no Tori) chương 81." title="Chim lửa (Hi no Tori) chương 81." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 81.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0010-0202.jpg" alt="Chim lửa (Hi no Tori) chương 81." title="Chim lửa (Hi no Tori) chương 81." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 81.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0010-0203.jpg" alt="Chim lửa (Hi no Tori) chương 81." title="Chim lửa (Hi no Tori) chương 81." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 81.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0010-0203.jpg" alt="Chim lửa (Hi no Tori) chương 81." title="Chim lửa (Hi no Tori) chương 81." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 81.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0010-0204.jpg" alt="Chim lửa (Hi no Tori) chương 81." title="Chim lửa (Hi no Tori) chương 81." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 81.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0010-0204.jpg" alt="Chim lửa (Hi no Tori) chương 81." title="Chim lửa (Hi no Tori) chương 81." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 81.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0010-0205.jpg" alt="Chim lửa (Hi no Tori) chương 81." title="Chim lửa (Hi no Tori) chương 81." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 81.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0010-0205.jpg" alt="Chim lửa (Hi no Tori) chương 81." title="Chim lửa (Hi no Tori) chương 81." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 81.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0010-0206.jpg" alt="Chim lửa (Hi no Tori) chương 81." title="Chim lửa (Hi no Tori) chương 81." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 81.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0010-0206.jpg" alt="Chim lửa (Hi no Tori) chương 81." title="Chim lửa (Hi no Tori) chương 81." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 81.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0010-0207.jpg" alt="Chim lửa (Hi no Tori) chương 81." title="Chim lửa (Hi no Tori) chương 81." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 81.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0010-0207.jpg" alt="Chim lửa (Hi no Tori) chương 81." title="Chim lửa (Hi no Tori) chương 81." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 81.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0010-0208.jpg" alt="Chim lửa (Hi no Tori) chương 81." title="Chim lửa (Hi no Tori) chương 81." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 81.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0010-0208.jpg" alt="Chim lửa (Hi no Tori) chương 81." title="Chim lửa (Hi no Tori) chương 81." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 81.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0010-0209.jpg" alt="Chim lửa (Hi no Tori) chương 81." title="Chim lửa (Hi no Tori) chương 81." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 81.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0010-0209.jpg" alt="Chim lửa (Hi no Tori) chương 81." title="Chim lửa (Hi no Tori) chương 81." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 81.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0010-0210.jpg" alt="Chim lửa (Hi no Tori) chương 81." title="Chim lửa (Hi no Tori) chương 81." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 81.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0010-0210.jpg" alt="Chim lửa (Hi no Tori) chương 81." title="Chim lửa (Hi no Tori) chương 81." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 81.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0010-0211.jpg" alt="Chim lửa (Hi no Tori) chương 81." title="Chim lửa (Hi no Tori) chương 81." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 81.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0010-0211.jpg" alt="Chim lửa (Hi no Tori) chương 81." title="Chim lửa (Hi no Tori) chương 81." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 81.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0010-0212.jpg" alt="Chim lửa (Hi no Tori) chương 81." title="Chim lửa (Hi no Tori) chương 81." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 81.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0010-0212.jpg" alt="Chim lửa (Hi no Tori) chương 81." title="Chim lửa (Hi no Tori) chương 81." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 81.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0010-0213.jpg" alt="Chim lửa (Hi no Tori) chương 81." title="Chim lửa (Hi no Tori) chương 81." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 81.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0010-0213.jpg" alt="Chim lửa (Hi no Tori) chương 81." title="Chim lửa (Hi no Tori) chương 81." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 81.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0010-0214.jpg" alt="Chim lửa (Hi no Tori) chương 81." title="Chim lửa (Hi no Tori) chương 81." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 81.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0010-0214.jpg" alt="Chim lửa (Hi no Tori) chương 81." title="Chim lửa (Hi no Tori) chương 81." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 81.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0010-0215.jpg" alt="Chim lửa (Hi no Tori) chương 81." title="Chim lửa (Hi no Tori) chương 81." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 81.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0010-0215.jpg" alt="Chim lửa (Hi no Tori) chương 81." title="Chim lửa (Hi no Tori) chương 81." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 81.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0010-0216.jpg" alt="Chim lửa (Hi no Tori) chương 81." title="Chim lửa (Hi no Tori) chương 81." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 81.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0010-0216.jpg" alt="Chim lửa (Hi no Tori) chương 81." title="Chim lửa (Hi no Tori) chương 81." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 81.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0010-0217.jpg" alt="Chim lửa (Hi no Tori) chương 81." title="Chim lửa (Hi no Tori) chương 81." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 81.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0010-0217.jpg" alt="Chim lửa (Hi no Tori) chương 81." title="Chim lửa (Hi no Tori) chương 81." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 81.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0010-0218.jpg" alt="Chim lửa (Hi no Tori) chương 81." title="Chim lửa (Hi no Tori) chương 81." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 81.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0010-0218.jpg" alt="Chim lửa (Hi no Tori) chương 81." title="Chim lửa (Hi no Tori) chương 81." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 81.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0010-0219.jpg" alt="Chim lửa (Hi no Tori) chương 81." title="Chim lửa (Hi no Tori) chương 81." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 81.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0010-0219.jpg" alt="Chim lửa (Hi no Tori) chương 81." title="Chim lửa (Hi no Tori) chương 81." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 81.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0010-0220.jpg" alt="Chim lửa (Hi no Tori) chương 81." title="Chim lửa (Hi no Tori) chương 81." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 81.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0010-0220.jpg" alt="Chim lửa (Hi no Tori) chương 81." title="Chim lửa (Hi no Tori) chương 81." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 81.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0010-0221.jpg" alt="Chim lửa (Hi no Tori) chương 81." title="Chim lửa (Hi no Tori) chương 81." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 81.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0010-0221.jpg" alt="Chim lửa (Hi no Tori) chương 81." title="Chim lửa (Hi no Tori) chương 81." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 81.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0010-0222.jpg" alt="Chim lửa (Hi no Tori) chương 81." title="Chim lửa (Hi no Tori) chương 81." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 81.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0010-0222.jpg" alt="Chim lửa (Hi no Tori) chương 81." title="Chim lửa (Hi no Tori) chương 81." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 81.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0010-0223.jpg" alt="Chim lửa (Hi no Tori) chương 81." title="Chim lửa (Hi no Tori) chương 81." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 81.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0010-0223.jpg" alt="Chim lửa (Hi no Tori) chương 81." title="Chim lửa (Hi no Tori) chương 81." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 81.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0010-0224.jpg" alt="Chim lửa (Hi no Tori) chương 81." title="Chim lửa (Hi no Tori) chương 81." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 81.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0010-0224.jpg" alt="Chim lửa (Hi no Tori) chương 81." title="Chim lửa (Hi no Tori) chương 81." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 81.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0010-0225.jpg" alt="Chim lửa (Hi no Tori) chương 81." title="Chim lửa (Hi no Tori) chương 81." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 81.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0010-0225.jpg" alt="Chim lửa (Hi no Tori) chương 81." title="Chim lửa (Hi no Tori) chương 81." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 81.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0010-0226.jpg" alt="Chim lửa (Hi no Tori) chương 81." title="Chim lửa (Hi no Tori) chương 81." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 81.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0010-0226.jpg" alt="Chim lửa (Hi no Tori) chương 81." title="Chim lửa (Hi no Tori) chương 81." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 81.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0010-0227.jpg" alt="Chim lửa (Hi no Tori) chương 81." title="Chim lửa (Hi no Tori) chương 81." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 81.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0010-0227.jpg" alt="Chim lửa (Hi no Tori) chương 81." title="Chim lửa (Hi no Tori) chương 81." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 81.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0010-0228.jpg" alt="Chim lửa (Hi no Tori) chương 81." title="Chim lửa (Hi no Tori) chương 81." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 81.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0010-0228.jpg" alt="Chim lửa (Hi no Tori) chương 81." title="Chim lửa (Hi no Tori) chương 81." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 81.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0010-0229.jpg" alt="Chim lửa (Hi no Tori) chương 81." title="Chim lửa (Hi no Tori) chương 81." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 81.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0010-0229.jpg" alt="Chim lửa (Hi no Tori) chương 81." title="Chim lửa (Hi no Tori) chương 81." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 81.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0010-0230.jpg" alt="Chim lửa (Hi no Tori) chương 81." title="Chim lửa (Hi no Tori) chương 81." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 81.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0010-0230.jpg" alt="Chim lửa (Hi no Tori) chương 81." title="Chim lửa (Hi no Tori) chương 81." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 81.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0010-0231.jpg" alt="Chim lửa (Hi no Tori) chương 81." title="Chim lửa (Hi no Tori) chương 81." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 81.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0010-0231.jpg" alt="Chim lửa (Hi no Tori) chương 81." title="Chim lửa (Hi no Tori) chương 81." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 81.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0010-0232.jpg" alt="Chim lửa (Hi no Tori) chương 81." title="Chim lửa (Hi no Tori) chương 81." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 81.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0010-0232.jpg" alt="Chim lửa (Hi no Tori) chương 81." title="Chim lửa (Hi no Tori) chương 81." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 81.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0010-0233.jpg" alt="Chim lửa (Hi no Tori) chương 81." title="Chim lửa (Hi no Tori) chương 81." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 81.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0010-0233.jpg" alt="Chim lửa (Hi no Tori) chương 81." title="Chim lửa (Hi no Tori) chương 81." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 81.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0010-0234.jpg" alt="Chim lửa (Hi no Tori) chương 81." title="Chim lửa (Hi no Tori) chương 81." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 81.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0010-0234.jpg" alt="Chim lửa (Hi no Tori) chương 81." title="Chim lửa (Hi no Tori) chương 81." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 81.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0010-0235.jpg" alt="Chim lửa (Hi no Tori) chương 81." title="Chim lửa (Hi no Tori) chương 81." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 81.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0010-0235.jpg" alt="Chim lửa (Hi no Tori) chương 81." title="Chim lửa (Hi no Tori) chương 81." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 81.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0010-0236.jpg" alt="Chim lửa (Hi no Tori) chương 81." title="Chim lửa (Hi no Tori) chương 81." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 81.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0010-0236.jpg" alt="Chim lửa (Hi no Tori) chương 81." title="Chim lửa (Hi no Tori) chương 81." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 81.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0010-0237.jpg" alt="Chim lửa (Hi no Tori) chương 81." title="Chim lửa (Hi no Tori) chương 81." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 81.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0010-0237.jpg" alt="Chim lửa (Hi no Tori) chương 81." title="Chim lửa (Hi no Tori) chương 81." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 81.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0010-0238.jpg" alt="Chim lửa (Hi no Tori) chương 81." title="Chim lửa (Hi no Tori) chương 81." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 81.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0010-0238.jpg" alt="Chim lửa (Hi no Tori) chương 81." title="Chim lửa (Hi no Tori) chương 81." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 81.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0010-0239.jpg" alt="Chim lửa (Hi no Tori) chương 81." title="Chim lửa (Hi no Tori) chương 81." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 81.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0010-0239.jpg" alt="Chim lửa (Hi no Tori) chương 81." title="Chim lửa (Hi no Tori) chương 81." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 81.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0010-0240.jpg" alt="Chim lửa (Hi no Tori) chương 81." title="Chim lửa (Hi no Tori) chương 81." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 81.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0010-0240.jpg" alt="Chim lửa (Hi no Tori) chương 81." title="Chim lửa (Hi no Tori) chương 81." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 81.</p></figcaption></figure>
 
 ## Đôi nét về tác giả Tezuka Osamu
 
@@ -379,6 +379,6 @@ Không chỉ vậy, Chim lửa còn được chuyển thể thành nhiều bộ 
 
 Đọc [Chim lửa, chương 98](https://nhavantuonglai.com/article/chim-lua-chuong-98) tại đây.
 
-Đọc [Chim lửa, tập 10](https://banmaixanh.org/ebook/chim-lua-tap-10.pdf) tại đây.
+Đọc [Chim lửa, tập 10](https://banmaixanh.vercel.app/ebook/chim-lua-tap-10.pdf) tại đây.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-451.jpg" alt="Chim lửa (Hi no Tori) chương 81." title="Chim lửa (Hi no Tori) chương 81." height=100% width=100%><figcaption><p>Chim lửa (Hi no Tori) chương 81.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-451.jpg" alt="Chim lửa (Hi no Tori) chương 81." title="Chim lửa (Hi no Tori) chương 81." height=100% width=100%><figcaption><p>Chim lửa (Hi no Tori) chương 81.</p></figcaption></figure>

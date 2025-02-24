@@ -3,7 +3,7 @@ pubDatetime: 2018-07-18T10:10:00Z
 title: Chim lửa | Chương 18
 description: Tezuka Osamu qua Chim lửa đặt ra câu hỏi về sự sống, cái chết, ý nghĩa tồn tại, nhấn mạnh con người chỉ thực sự sống khi hòa hợp với thiên nhiên. Đọc Chim lửa (Hi no Tori) chương 18 trong phần dưới đây.
 featured: false
-image: https://banmaixanh.org/image/cover/001-468.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-468.jpg
 tags:
   - manga
   - tezuka osamu
@@ -19,85 +19,85 @@ Tác phẩm còn mang thông điệp về sự cân bằng giữa thiên nhiên 
 
 ## Chim lửa (Hi no Tori) chương 18
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0001.jpg" alt="Chim lửa (Hi no Tori) chương 18." title="Chim lửa (Hi no Tori) chương 18." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 18.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0001.jpg" alt="Chim lửa (Hi no Tori) chương 18." title="Chim lửa (Hi no Tori) chương 18." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 18.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0002.jpg" alt="Chim lửa (Hi no Tori) chương 18." title="Chim lửa (Hi no Tori) chương 18." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 18.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0002.jpg" alt="Chim lửa (Hi no Tori) chương 18." title="Chim lửa (Hi no Tori) chương 18." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 18.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0003.jpg" alt="Chim lửa (Hi no Tori) chương 18." title="Chim lửa (Hi no Tori) chương 18." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 18.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0003.jpg" alt="Chim lửa (Hi no Tori) chương 18." title="Chim lửa (Hi no Tori) chương 18." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 18.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0004.jpg" alt="Chim lửa (Hi no Tori) chương 18." title="Chim lửa (Hi no Tori) chương 18." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 18.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0004.jpg" alt="Chim lửa (Hi no Tori) chương 18." title="Chim lửa (Hi no Tori) chương 18." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 18.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0005.jpg" alt="Chim lửa (Hi no Tori) chương 18." title="Chim lửa (Hi no Tori) chương 18." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 18.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0005.jpg" alt="Chim lửa (Hi no Tori) chương 18." title="Chim lửa (Hi no Tori) chương 18." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 18.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0006.jpg" alt="Chim lửa (Hi no Tori) chương 18." title="Chim lửa (Hi no Tori) chương 18." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 18.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0006.jpg" alt="Chim lửa (Hi no Tori) chương 18." title="Chim lửa (Hi no Tori) chương 18." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 18.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0007.jpg" alt="Chim lửa (Hi no Tori) chương 18." title="Chim lửa (Hi no Tori) chương 18." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 18.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0007.jpg" alt="Chim lửa (Hi no Tori) chương 18." title="Chim lửa (Hi no Tori) chương 18." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 18.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0008.jpg" alt="Chim lửa (Hi no Tori) chương 18." title="Chim lửa (Hi no Tori) chương 18." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 18.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0008.jpg" alt="Chim lửa (Hi no Tori) chương 18." title="Chim lửa (Hi no Tori) chương 18." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 18.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0009.jpg" alt="Chim lửa (Hi no Tori) chương 18." title="Chim lửa (Hi no Tori) chương 18." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 18.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0009.jpg" alt="Chim lửa (Hi no Tori) chương 18." title="Chim lửa (Hi no Tori) chương 18." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 18.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0010.jpg" alt="Chim lửa (Hi no Tori) chương 18." title="Chim lửa (Hi no Tori) chương 18." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 18.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0010.jpg" alt="Chim lửa (Hi no Tori) chương 18." title="Chim lửa (Hi no Tori) chương 18." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 18.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0011.jpg" alt="Chim lửa (Hi no Tori) chương 18." title="Chim lửa (Hi no Tori) chương 18." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 18.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0011.jpg" alt="Chim lửa (Hi no Tori) chương 18." title="Chim lửa (Hi no Tori) chương 18." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 18.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0012.jpg" alt="Chim lửa (Hi no Tori) chương 18." title="Chim lửa (Hi no Tori) chương 18." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 18.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0012.jpg" alt="Chim lửa (Hi no Tori) chương 18." title="Chim lửa (Hi no Tori) chương 18." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 18.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0013.jpg" alt="Chim lửa (Hi no Tori) chương 18." title="Chim lửa (Hi no Tori) chương 18." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 18.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0013.jpg" alt="Chim lửa (Hi no Tori) chương 18." title="Chim lửa (Hi no Tori) chương 18." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 18.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0014.jpg" alt="Chim lửa (Hi no Tori) chương 18." title="Chim lửa (Hi no Tori) chương 18." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 18.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0014.jpg" alt="Chim lửa (Hi no Tori) chương 18." title="Chim lửa (Hi no Tori) chương 18." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 18.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0015.jpg" alt="Chim lửa (Hi no Tori) chương 18." title="Chim lửa (Hi no Tori) chương 18." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 18.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0015.jpg" alt="Chim lửa (Hi no Tori) chương 18." title="Chim lửa (Hi no Tori) chương 18." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 18.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0016.jpg" alt="Chim lửa (Hi no Tori) chương 18." title="Chim lửa (Hi no Tori) chương 18." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 18.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0016.jpg" alt="Chim lửa (Hi no Tori) chương 18." title="Chim lửa (Hi no Tori) chương 18." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 18.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0017.jpg" alt="Chim lửa (Hi no Tori) chương 18." title="Chim lửa (Hi no Tori) chương 18." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 18.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0017.jpg" alt="Chim lửa (Hi no Tori) chương 18." title="Chim lửa (Hi no Tori) chương 18." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 18.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0018.jpg" alt="Chim lửa (Hi no Tori) chương 18." title="Chim lửa (Hi no Tori) chương 18." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 18.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0018.jpg" alt="Chim lửa (Hi no Tori) chương 18." title="Chim lửa (Hi no Tori) chương 18." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 18.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0019.jpg" alt="Chim lửa (Hi no Tori) chương 18." title="Chim lửa (Hi no Tori) chương 18." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 18.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0019.jpg" alt="Chim lửa (Hi no Tori) chương 18." title="Chim lửa (Hi no Tori) chương 18." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 18.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0020.jpg" alt="Chim lửa (Hi no Tori) chương 18." title="Chim lửa (Hi no Tori) chương 18." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 18.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0020.jpg" alt="Chim lửa (Hi no Tori) chương 18." title="Chim lửa (Hi no Tori) chương 18." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 18.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0021.jpg" alt="Chim lửa (Hi no Tori) chương 18." title="Chim lửa (Hi no Tori) chương 18." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 18.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0021.jpg" alt="Chim lửa (Hi no Tori) chương 18." title="Chim lửa (Hi no Tori) chương 18." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 18.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0022.jpg" alt="Chim lửa (Hi no Tori) chương 18." title="Chim lửa (Hi no Tori) chương 18." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 18.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0022.jpg" alt="Chim lửa (Hi no Tori) chương 18." title="Chim lửa (Hi no Tori) chương 18." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 18.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0023.jpg" alt="Chim lửa (Hi no Tori) chương 18." title="Chim lửa (Hi no Tori) chương 18." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 18.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0023.jpg" alt="Chim lửa (Hi no Tori) chương 18." title="Chim lửa (Hi no Tori) chương 18." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 18.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0024.jpg" alt="Chim lửa (Hi no Tori) chương 18." title="Chim lửa (Hi no Tori) chương 18." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 18.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0024.jpg" alt="Chim lửa (Hi no Tori) chương 18." title="Chim lửa (Hi no Tori) chương 18." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 18.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0025.jpg" alt="Chim lửa (Hi no Tori) chương 18." title="Chim lửa (Hi no Tori) chương 18." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 18.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0025.jpg" alt="Chim lửa (Hi no Tori) chương 18." title="Chim lửa (Hi no Tori) chương 18." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 18.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0026.jpg" alt="Chim lửa (Hi no Tori) chương 18." title="Chim lửa (Hi no Tori) chương 18." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 18.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0026.jpg" alt="Chim lửa (Hi no Tori) chương 18." title="Chim lửa (Hi no Tori) chương 18." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 18.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0027.jpg" alt="Chim lửa (Hi no Tori) chương 18." title="Chim lửa (Hi no Tori) chương 18." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 18.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0027.jpg" alt="Chim lửa (Hi no Tori) chương 18." title="Chim lửa (Hi no Tori) chương 18." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 18.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0028.jpg" alt="Chim lửa (Hi no Tori) chương 18." title="Chim lửa (Hi no Tori) chương 18." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 18.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0028.jpg" alt="Chim lửa (Hi no Tori) chương 18." title="Chim lửa (Hi no Tori) chương 18." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 18.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0029.jpg" alt="Chim lửa (Hi no Tori) chương 18." title="Chim lửa (Hi no Tori) chương 18." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 18.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0029.jpg" alt="Chim lửa (Hi no Tori) chương 18." title="Chim lửa (Hi no Tori) chương 18." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 18.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0030.jpg" alt="Chim lửa (Hi no Tori) chương 18." title="Chim lửa (Hi no Tori) chương 18." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 18.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0030.jpg" alt="Chim lửa (Hi no Tori) chương 18." title="Chim lửa (Hi no Tori) chương 18." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 18.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0031.jpg" alt="Chim lửa (Hi no Tori) chương 18." title="Chim lửa (Hi no Tori) chương 18." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 18.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0031.jpg" alt="Chim lửa (Hi no Tori) chương 18." title="Chim lửa (Hi no Tori) chương 18." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 18.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0032.jpg" alt="Chim lửa (Hi no Tori) chương 18." title="Chim lửa (Hi no Tori) chương 18." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 18.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0032.jpg" alt="Chim lửa (Hi no Tori) chương 18." title="Chim lửa (Hi no Tori) chương 18." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 18.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0033.jpg" alt="Chim lửa (Hi no Tori) chương 18." title="Chim lửa (Hi no Tori) chương 18." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 18.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0033.jpg" alt="Chim lửa (Hi no Tori) chương 18." title="Chim lửa (Hi no Tori) chương 18." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 18.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0034.jpg" alt="Chim lửa (Hi no Tori) chương 18." title="Chim lửa (Hi no Tori) chương 18." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 18.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0034.jpg" alt="Chim lửa (Hi no Tori) chương 18." title="Chim lửa (Hi no Tori) chương 18." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 18.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0035.jpg" alt="Chim lửa (Hi no Tori) chương 18." title="Chim lửa (Hi no Tori) chương 18." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 18.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0035.jpg" alt="Chim lửa (Hi no Tori) chương 18." title="Chim lửa (Hi no Tori) chương 18." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 18.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0036.jpg" alt="Chim lửa (Hi no Tori) chương 18." title="Chim lửa (Hi no Tori) chương 18." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 18.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0036.jpg" alt="Chim lửa (Hi no Tori) chương 18." title="Chim lửa (Hi no Tori) chương 18." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 18.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0037.jpg" alt="Chim lửa (Hi no Tori) chương 18." title="Chim lửa (Hi no Tori) chương 18." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 18.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0037.jpg" alt="Chim lửa (Hi no Tori) chương 18." title="Chim lửa (Hi no Tori) chương 18." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 18.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0038.jpg" alt="Chim lửa (Hi no Tori) chương 18." title="Chim lửa (Hi no Tori) chương 18." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 18.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0038.jpg" alt="Chim lửa (Hi no Tori) chương 18." title="Chim lửa (Hi no Tori) chương 18." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 18.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0039.jpg" alt="Chim lửa (Hi no Tori) chương 18." title="Chim lửa (Hi no Tori) chương 18." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 18.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0039.jpg" alt="Chim lửa (Hi no Tori) chương 18." title="Chim lửa (Hi no Tori) chương 18." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 18.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0003-0040.jpg" alt="Chim lửa (Hi no Tori) chương 18." title="Chim lửa (Hi no Tori) chương 18." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 18.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0003-0040.jpg" alt="Chim lửa (Hi no Tori) chương 18." title="Chim lửa (Hi no Tori) chương 18." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 18.</p></figcaption></figure>
 
 ## Đôi nét về tác giả Tezuka Osamu
 
@@ -373,6 +373,6 @@ Không chỉ vậy, Chim lửa còn được chuyển thể thành nhiều bộ 
 
 Đọc [Chim lửa, chương 98](https://nhavantuonglai.com/article/chim-lua-chuong-98) tại đây.
 
-Đọc [Chim lửa, tập 03](https://banmaixanh.org/ebook/chim-lua-tap-03.pdf) tại đây.
+Đọc [Chim lửa, tập 03](https://banmaixanh.vercel.app/ebook/chim-lua-tap-03.pdf) tại đây.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-451.jpg" alt="Chim lửa (Hi no Tori) chương 18." title="Chim lửa (Hi no Tori) chương 18." height=100% width=100%><figcaption><p>Chim lửa (Hi no Tori) chương 18.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-451.jpg" alt="Chim lửa (Hi no Tori) chương 18." title="Chim lửa (Hi no Tori) chương 18." height=100% width=100%><figcaption><p>Chim lửa (Hi no Tori) chương 18.</p></figcaption></figure>

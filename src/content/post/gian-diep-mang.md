@@ -192,6 +192,6 @@ Cliff Stoll – Matthews cliff@cfa.harvard.edu.
 
 Đọc [Gián điệp mạng, chương 57](https://nhavantuonglai.com/article/gian-diep-mang-chuong-57) tại đây.
 
-Đọc [Gián điệp mạng, toàn tập](https://banmaixanh.org/ebook/gian-diep-mang.pdf) tại đây.
+Đọc [Gián điệp mạng, toàn tập](https://banmaixanh.vercel.app/ebook/gian-diep-mang.pdf) tại đây.
 
 <figure><img src="https://banmaixanh.vercel.app/image/cover/001-210.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

@@ -82,6 +82,6 @@ Thu Giang.
 
 Đọc [Để trở thành nhà văn, chương 06](https://nhavantuonglai.com/article/de-tro-thanh-nha-van-chuong-06) tại đây.
 
-Đọc [Để trở thành nhà văn, toàn tập](https://banmaixanh.org/ebook/de-tro-thanh-nha-van.pdf) tại đây.
+Đọc [Để trở thành nhà văn, toàn tập](https://banmaixanh.vercel.app/ebook/de-tro-thanh-nha-van.pdf) tại đây.
 
 <figure><img src="https://banmaixanh.vercel.app/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

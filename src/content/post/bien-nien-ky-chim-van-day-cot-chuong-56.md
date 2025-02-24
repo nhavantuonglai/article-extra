@@ -3,7 +3,7 @@ pubDatetime: 2005-06-26T10:10:00Z
 title: Biên niên ký chim vặn dây cót | Chương 56
 description: Biên niên ký chim vặn dây cót kể về tiếng chim vang lên trong khoảnh khắc quyết định, khi con người tỉnh thức tiếng lòng thầm kín.
 featured: false
-image: https://banmaixanh.org/image/cover/001-149.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-149.jpg
 tags:
   - thu vien
   - van hoc
@@ -164,6 +164,6 @@ Có lần tôi đến chỗ văn phòng của bà ở khu Akasaka, nhấn chuôn
 
 Đọc [Biên niên ký chim vặn dây cót, chương 66](https://nhavantuonglai.com/article/bien-nien-ky-chim-van-day-cot-chuong-66) tại đây.
 
-Đọc [Biên niên ký chim vặn dây cót, toàn tập](https://banmaixanh.org/ebook/bien-nien-ky-chim-van-day-cot.pdf) tại đây.
+Đọc [Biên niên ký chim vặn dây cót, toàn tập](https://banmaixanh.vercel.app/ebook/bien-nien-ky-chim-van-day-cot.pdf) tại đây.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

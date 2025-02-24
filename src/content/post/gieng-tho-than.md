@@ -82,6 +82,6 @@ Montague Rhodes James được đánh giá là cha đẻ của các thể loại
 
 Đọc [Giếng thở than, chương 30](https://nhavantuonglai.com/article/gieng-tho-than-chuong-30) tại đây.
 
-Đọc [Giếng thở than, toàn tập](https://banmaixanh.org/ebook/gieng-tho-than.pdf) tại đây.
+Đọc [Giếng thở than, toàn tập](https://banmaixanh.vercel.app/ebook/gieng-tho-than.pdf) tại đây.
 
 <figure><img src="https://banmaixanh.vercel.app/image/cover/001-429.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

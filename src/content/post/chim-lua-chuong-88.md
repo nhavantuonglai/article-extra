@@ -2,7 +2,7 @@
 pubDatetime: 2018-09-18T10:10:00Z
 title: Chim lửa | Chương 88
 description: Tezuka Osamu qua Chim lửa đặt ra câu hỏi về sự sống, cái chết, ý nghĩa tồn tại, nhấn mạnh con người chỉ thực sự sống khi hòa hợp với thiên nhiên. Đọc Chim lửa (Hi no Tori) chương 88 trong phần dưới đây.
-image: https://banmaixanh.org/image/cover/001-548.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-548.jpg
 featured: false
 tags:
   - manga
@@ -19,92 +19,92 @@ Tác phẩm còn mang thông điệp về sự cân bằng giữa thiên nhiên 
 
 ## Chim lửa (Hi no Tori) chương 88
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0011-0001.jpg" alt="Chim lửa (Hi no Tori) chương 88." title="Chim lửa (Hi no Tori) chương 88." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 88.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0011-0001.jpg" alt="Chim lửa (Hi no Tori) chương 88." title="Chim lửa (Hi no Tori) chương 88." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 88.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0011-0002.jpg" alt="Chim lửa (Hi no Tori) chương 88." title="Chim lửa (Hi no Tori) chương 88." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 88.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0011-0002.jpg" alt="Chim lửa (Hi no Tori) chương 88." title="Chim lửa (Hi no Tori) chương 88." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 88.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0011-0003.jpg" alt="Chim lửa (Hi no Tori) chương 88." title="Chim lửa (Hi no Tori) chương 88." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 88.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0011-0003.jpg" alt="Chim lửa (Hi no Tori) chương 88." title="Chim lửa (Hi no Tori) chương 88." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 88.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0011-0161.jpg" alt="Chim lửa (Hi no Tori) chương 88." title="Chim lửa (Hi no Tori) chương 88." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 88.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0011-0161.jpg" alt="Chim lửa (Hi no Tori) chương 88." title="Chim lửa (Hi no Tori) chương 88." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 88.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0011-0162.jpg" alt="Chim lửa (Hi no Tori) chương 88." title="Chim lửa (Hi no Tori) chương 88." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 88.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0011-0162.jpg" alt="Chim lửa (Hi no Tori) chương 88." title="Chim lửa (Hi no Tori) chương 88." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 88.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0011-0163.jpg" alt="Chim lửa (Hi no Tori) chương 88." title="Chim lửa (Hi no Tori) chương 88." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 88.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0011-0163.jpg" alt="Chim lửa (Hi no Tori) chương 88." title="Chim lửa (Hi no Tori) chương 88." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 88.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0011-0164.jpg" alt="Chim lửa (Hi no Tori) chương 88." title="Chim lửa (Hi no Tori) chương 88." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 88.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0011-0164.jpg" alt="Chim lửa (Hi no Tori) chương 88." title="Chim lửa (Hi no Tori) chương 88." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 88.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0011-0165.jpg" alt="Chim lửa (Hi no Tori) chương 88." title="Chim lửa (Hi no Tori) chương 88." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 88.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0011-0165.jpg" alt="Chim lửa (Hi no Tori) chương 88." title="Chim lửa (Hi no Tori) chương 88." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 88.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0011-0166.jpg" alt="Chim lửa (Hi no Tori) chương 88." title="Chim lửa (Hi no Tori) chương 88." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 88.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0011-0166.jpg" alt="Chim lửa (Hi no Tori) chương 88." title="Chim lửa (Hi no Tori) chương 88." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 88.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0011-0167.jpg" alt="Chim lửa (Hi no Tori) chương 88." title="Chim lửa (Hi no Tori) chương 88." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 88.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0011-0167.jpg" alt="Chim lửa (Hi no Tori) chương 88." title="Chim lửa (Hi no Tori) chương 88." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 88.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0011-0168.jpg" alt="Chim lửa (Hi no Tori) chương 88." title="Chim lửa (Hi no Tori) chương 88." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 88.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0011-0168.jpg" alt="Chim lửa (Hi no Tori) chương 88." title="Chim lửa (Hi no Tori) chương 88." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 88.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0011-0169.jpg" alt="Chim lửa (Hi no Tori) chương 88." title="Chim lửa (Hi no Tori) chương 88." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 88.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0011-0169.jpg" alt="Chim lửa (Hi no Tori) chương 88." title="Chim lửa (Hi no Tori) chương 88." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 88.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0011-0170.jpg" alt="Chim lửa (Hi no Tori) chương 88." title="Chim lửa (Hi no Tori) chương 88." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 88.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0011-0170.jpg" alt="Chim lửa (Hi no Tori) chương 88." title="Chim lửa (Hi no Tori) chương 88." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 88.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0011-0171.jpg" alt="Chim lửa (Hi no Tori) chương 88." title="Chim lửa (Hi no Tori) chương 88." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 88.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0011-0171.jpg" alt="Chim lửa (Hi no Tori) chương 88." title="Chim lửa (Hi no Tori) chương 88." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 88.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0011-0172.jpg" alt="Chim lửa (Hi no Tori) chương 88." title="Chim lửa (Hi no Tori) chương 88." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 88.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0011-0172.jpg" alt="Chim lửa (Hi no Tori) chương 88." title="Chim lửa (Hi no Tori) chương 88." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 88.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0011-0173.jpg" alt="Chim lửa (Hi no Tori) chương 88." title="Chim lửa (Hi no Tori) chương 88." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 88.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0011-0173.jpg" alt="Chim lửa (Hi no Tori) chương 88." title="Chim lửa (Hi no Tori) chương 88." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 88.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0011-0174.jpg" alt="Chim lửa (Hi no Tori) chương 88." title="Chim lửa (Hi no Tori) chương 88." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 88.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0011-0174.jpg" alt="Chim lửa (Hi no Tori) chương 88." title="Chim lửa (Hi no Tori) chương 88." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 88.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0011-0175.jpg" alt="Chim lửa (Hi no Tori) chương 88." title="Chim lửa (Hi no Tori) chương 88." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 88.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0011-0175.jpg" alt="Chim lửa (Hi no Tori) chương 88." title="Chim lửa (Hi no Tori) chương 88." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 88.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0011-0176.jpg" alt="Chim lửa (Hi no Tori) chương 88." title="Chim lửa (Hi no Tori) chương 88." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 88.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0011-0176.jpg" alt="Chim lửa (Hi no Tori) chương 88." title="Chim lửa (Hi no Tori) chương 88." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 88.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0011-0177.jpg" alt="Chim lửa (Hi no Tori) chương 88." title="Chim lửa (Hi no Tori) chương 88." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 88.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0011-0177.jpg" alt="Chim lửa (Hi no Tori) chương 88." title="Chim lửa (Hi no Tori) chương 88." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 88.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0011-0178.jpg" alt="Chim lửa (Hi no Tori) chương 88." title="Chim lửa (Hi no Tori) chương 88." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 88.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0011-0178.jpg" alt="Chim lửa (Hi no Tori) chương 88." title="Chim lửa (Hi no Tori) chương 88." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 88.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0011-0179.jpg" alt="Chim lửa (Hi no Tori) chương 88." title="Chim lửa (Hi no Tori) chương 88." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 88.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0011-0179.jpg" alt="Chim lửa (Hi no Tori) chương 88." title="Chim lửa (Hi no Tori) chương 88." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 88.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0011-0180.jpg" alt="Chim lửa (Hi no Tori) chương 88." title="Chim lửa (Hi no Tori) chương 88." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 88.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0011-0180.jpg" alt="Chim lửa (Hi no Tori) chương 88." title="Chim lửa (Hi no Tori) chương 88." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 88.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0011-0181.jpg" alt="Chim lửa (Hi no Tori) chương 88." title="Chim lửa (Hi no Tori) chương 88." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 88.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0011-0181.jpg" alt="Chim lửa (Hi no Tori) chương 88." title="Chim lửa (Hi no Tori) chương 88." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 88.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0011-0182.jpg" alt="Chim lửa (Hi no Tori) chương 88." title="Chim lửa (Hi no Tori) chương 88." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 88.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0011-0182.jpg" alt="Chim lửa (Hi no Tori) chương 88." title="Chim lửa (Hi no Tori) chương 88." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 88.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0011-0183.jpg" alt="Chim lửa (Hi no Tori) chương 88." title="Chim lửa (Hi no Tori) chương 88." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 88.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0011-0183.jpg" alt="Chim lửa (Hi no Tori) chương 88." title="Chim lửa (Hi no Tori) chương 88." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 88.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0011-0184.jpg" alt="Chim lửa (Hi no Tori) chương 88." title="Chim lửa (Hi no Tori) chương 88." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 88.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0011-0184.jpg" alt="Chim lửa (Hi no Tori) chương 88." title="Chim lửa (Hi no Tori) chương 88." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 88.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0011-0185.jpg" alt="Chim lửa (Hi no Tori) chương 88." title="Chim lửa (Hi no Tori) chương 88." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 88.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0011-0185.jpg" alt="Chim lửa (Hi no Tori) chương 88." title="Chim lửa (Hi no Tori) chương 88." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 88.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0011-0186.jpg" alt="Chim lửa (Hi no Tori) chương 88." title="Chim lửa (Hi no Tori) chương 88." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 88.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0011-0186.jpg" alt="Chim lửa (Hi no Tori) chương 88." title="Chim lửa (Hi no Tori) chương 88." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 88.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0011-0187.jpg" alt="Chim lửa (Hi no Tori) chương 88." title="Chim lửa (Hi no Tori) chương 88." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 88.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0011-0187.jpg" alt="Chim lửa (Hi no Tori) chương 88." title="Chim lửa (Hi no Tori) chương 88." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 88.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0011-0188.jpg" alt="Chim lửa (Hi no Tori) chương 88." title="Chim lửa (Hi no Tori) chương 88." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 88.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0011-0188.jpg" alt="Chim lửa (Hi no Tori) chương 88." title="Chim lửa (Hi no Tori) chương 88." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 88.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0011-0189.jpg" alt="Chim lửa (Hi no Tori) chương 88." title="Chim lửa (Hi no Tori) chương 88." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 88.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0011-0189.jpg" alt="Chim lửa (Hi no Tori) chương 88." title="Chim lửa (Hi no Tori) chương 88." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 88.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0011-0190.jpg" alt="Chim lửa (Hi no Tori) chương 88." title="Chim lửa (Hi no Tori) chương 88." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 88.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0011-0190.jpg" alt="Chim lửa (Hi no Tori) chương 88." title="Chim lửa (Hi no Tori) chương 88." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 88.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0011-0191.jpg" alt="Chim lửa (Hi no Tori) chương 88." title="Chim lửa (Hi no Tori) chương 88." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 88.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0011-0191.jpg" alt="Chim lửa (Hi no Tori) chương 88." title="Chim lửa (Hi no Tori) chương 88." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 88.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0011-0192.jpg" alt="Chim lửa (Hi no Tori) chương 88." title="Chim lửa (Hi no Tori) chương 88." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 88.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0011-0192.jpg" alt="Chim lửa (Hi no Tori) chương 88." title="Chim lửa (Hi no Tori) chương 88." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 88.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0011-0193.jpg" alt="Chim lửa (Hi no Tori) chương 88." title="Chim lửa (Hi no Tori) chương 88." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 88.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0011-0193.jpg" alt="Chim lửa (Hi no Tori) chương 88." title="Chim lửa (Hi no Tori) chương 88." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 88.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0011-0194.jpg" alt="Chim lửa (Hi no Tori) chương 88." title="Chim lửa (Hi no Tori) chương 88." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 88.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0011-0194.jpg" alt="Chim lửa (Hi no Tori) chương 88." title="Chim lửa (Hi no Tori) chương 88." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 88.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0011-0195.jpg" alt="Chim lửa (Hi no Tori) chương 88." title="Chim lửa (Hi no Tori) chương 88." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 88.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0011-0195.jpg" alt="Chim lửa (Hi no Tori) chương 88." title="Chim lửa (Hi no Tori) chương 88." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 88.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0011-0196.jpg" alt="Chim lửa (Hi no Tori) chương 88." title="Chim lửa (Hi no Tori) chương 88." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 88.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0011-0196.jpg" alt="Chim lửa (Hi no Tori) chương 88." title="Chim lửa (Hi no Tori) chương 88." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 88.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0011-0197.jpg" alt="Chim lửa (Hi no Tori) chương 88." title="Chim lửa (Hi no Tori) chương 88." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 88.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0011-0197.jpg" alt="Chim lửa (Hi no Tori) chương 88." title="Chim lửa (Hi no Tori) chương 88." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 88.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0011-0198.jpg" alt="Chim lửa (Hi no Tori) chương 88." title="Chim lửa (Hi no Tori) chương 88." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 88.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0011-0198.jpg" alt="Chim lửa (Hi no Tori) chương 88." title="Chim lửa (Hi no Tori) chương 88." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 88.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0011-0199.jpg" alt="Chim lửa (Hi no Tori) chương 88." title="Chim lửa (Hi no Tori) chương 88." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 88.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0011-0199.jpg" alt="Chim lửa (Hi no Tori) chương 88." title="Chim lửa (Hi no Tori) chương 88." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 88.</p></figcaption></figure>
 
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0011-0200.jpg" alt="Chim lửa (Hi no Tori) chương 88." title="Chim lửa (Hi no Tori) chương 88." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 88.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0011-0200.jpg" alt="Chim lửa (Hi no Tori) chương 88." title="Chim lửa (Hi no Tori) chương 88." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 88.</p></figcaption></figure>
 
 ## Đôi nét về tác giả Tezuka Osamu
 
@@ -380,6 +380,6 @@ Không chỉ vậy, Chim lửa còn được chuyển thể thành nhiều bộ 
 
 Đọc [Chim lửa, chương 98](https://nhavantuonglai.com/article/chim-lua-chuong-98) tại đây.
 
-Đọc [Chim lửa, tập 11](https://banmaixanh.org/ebook/chim-lua-tap-11.pdf) tại đây.
+Đọc [Chim lửa, tập 11](https://banmaixanh.vercel.app/ebook/chim-lua-tap-11.pdf) tại đây.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-451.jpg" alt="Chim lửa (Hi no Tori) chương 88." title="Chim lửa (Hi no Tori) chương 88." height=100% width=100%><figcaption><p>Chim lửa (Hi no Tori) chương 88.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-451.jpg" alt="Chim lửa (Hi no Tori) chương 88." title="Chim lửa (Hi no Tori) chương 88." height=100% width=100%><figcaption><p>Chim lửa (Hi no Tori) chương 88.</p></figcaption></figure>

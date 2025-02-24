@@ -3,7 +3,7 @@ pubDatetime: 2018-08-09T10:10:00Z
 title: Chim lửa | Chương 39
 description: Tezuka Osamu qua Chim lửa đặt ra câu hỏi về sự sống, cái chết, ý nghĩa tồn tại, nhấn mạnh con người chỉ thực sự sống khi hòa hợp với thiên nhiên. Đọc Chim lửa (Hi no Tori) chương 39 trong phần dưới đây.
 featured: false
-image: https://banmaixanh.org/image/cover/001-439.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-439.jpg
 tags:
   - manga
   - tezuka osamu
@@ -19,95 +19,95 @@ Tác phẩm còn mang thông điệp về sự cân bằng giữa thiên nhiên 
 
 ## Chim lửa (Hi no Tori) chương 39
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0005-0001.jpg" alt="Chim lửa (Hi no Tori) chương 39." title="Chim lửa (Hi no Tori) chương 39." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 39.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0005-0001.jpg" alt="Chim lửa (Hi no Tori) chương 39." title="Chim lửa (Hi no Tori) chương 39." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 39.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0005-0002.jpg" alt="Chim lửa (Hi no Tori) chương 39." title="Chim lửa (Hi no Tori) chương 39." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 39.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0005-0002.jpg" alt="Chim lửa (Hi no Tori) chương 39." title="Chim lửa (Hi no Tori) chương 39." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 39.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0005-0003.jpg" alt="Chim lửa (Hi no Tori) chương 39." title="Chim lửa (Hi no Tori) chương 39." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 39.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0005-0003.jpg" alt="Chim lửa (Hi no Tori) chương 39." title="Chim lửa (Hi no Tori) chương 39." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 39.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0005-0004.jpg" alt="Chim lửa (Hi no Tori) chương 39." title="Chim lửa (Hi no Tori) chương 39." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 39.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0005-0004.jpg" alt="Chim lửa (Hi no Tori) chương 39." title="Chim lửa (Hi no Tori) chương 39." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 39.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0005-0005.jpg" alt="Chim lửa (Hi no Tori) chương 39." title="Chim lửa (Hi no Tori) chương 39." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 39.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0005-0005.jpg" alt="Chim lửa (Hi no Tori) chương 39." title="Chim lửa (Hi no Tori) chương 39." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 39.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0005-0121.jpg" alt="Chim lửa (Hi no Tori) chương 39." title="Chim lửa (Hi no Tori) chương 39." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 39.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0005-0121.jpg" alt="Chim lửa (Hi no Tori) chương 39." title="Chim lửa (Hi no Tori) chương 39." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 39.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0005-0122.jpg" alt="Chim lửa (Hi no Tori) chương 39." title="Chim lửa (Hi no Tori) chương 39." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 39.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0005-0122.jpg" alt="Chim lửa (Hi no Tori) chương 39." title="Chim lửa (Hi no Tori) chương 39." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 39.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0005-0123.jpg" alt="Chim lửa (Hi no Tori) chương 39." title="Chim lửa (Hi no Tori) chương 39." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 39.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0005-0123.jpg" alt="Chim lửa (Hi no Tori) chương 39." title="Chim lửa (Hi no Tori) chương 39." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 39.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0005-0124.jpg" alt="Chim lửa (Hi no Tori) chương 39." title="Chim lửa (Hi no Tori) chương 39." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 39.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0005-0124.jpg" alt="Chim lửa (Hi no Tori) chương 39." title="Chim lửa (Hi no Tori) chương 39." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 39.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0005-0125.jpg" alt="Chim lửa (Hi no Tori) chương 39." title="Chim lửa (Hi no Tori) chương 39." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 39.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0005-0125.jpg" alt="Chim lửa (Hi no Tori) chương 39." title="Chim lửa (Hi no Tori) chương 39." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 39.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0005-0126.jpg" alt="Chim lửa (Hi no Tori) chương 39." title="Chim lửa (Hi no Tori) chương 39." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 39.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0005-0126.jpg" alt="Chim lửa (Hi no Tori) chương 39." title="Chim lửa (Hi no Tori) chương 39." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 39.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0005-0127.jpg" alt="Chim lửa (Hi no Tori) chương 39." title="Chim lửa (Hi no Tori) chương 39." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 39.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0005-0127.jpg" alt="Chim lửa (Hi no Tori) chương 39." title="Chim lửa (Hi no Tori) chương 39." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 39.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0005-0128.jpg" alt="Chim lửa (Hi no Tori) chương 39." title="Chim lửa (Hi no Tori) chương 39." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 39.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0005-0128.jpg" alt="Chim lửa (Hi no Tori) chương 39." title="Chim lửa (Hi no Tori) chương 39." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 39.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0005-0129.jpg" alt="Chim lửa (Hi no Tori) chương 39." title="Chim lửa (Hi no Tori) chương 39." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 39.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0005-0129.jpg" alt="Chim lửa (Hi no Tori) chương 39." title="Chim lửa (Hi no Tori) chương 39." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 39.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0005-0130.jpg" alt="Chim lửa (Hi no Tori) chương 39." title="Chim lửa (Hi no Tori) chương 39." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 39.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0005-0130.jpg" alt="Chim lửa (Hi no Tori) chương 39." title="Chim lửa (Hi no Tori) chương 39." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 39.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0005-0131.jpg" alt="Chim lửa (Hi no Tori) chương 39." title="Chim lửa (Hi no Tori) chương 39." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 39.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0005-0131.jpg" alt="Chim lửa (Hi no Tori) chương 39." title="Chim lửa (Hi no Tori) chương 39." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 39.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0005-0132.jpg" alt="Chim lửa (Hi no Tori) chương 39." title="Chim lửa (Hi no Tori) chương 39." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 39.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0005-0132.jpg" alt="Chim lửa (Hi no Tori) chương 39." title="Chim lửa (Hi no Tori) chương 39." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 39.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0005-0133.jpg" alt="Chim lửa (Hi no Tori) chương 39." title="Chim lửa (Hi no Tori) chương 39." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 39.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0005-0133.jpg" alt="Chim lửa (Hi no Tori) chương 39." title="Chim lửa (Hi no Tori) chương 39." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 39.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0005-0134.jpg" alt="Chim lửa (Hi no Tori) chương 39." title="Chim lửa (Hi no Tori) chương 39." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 39.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0005-0134.jpg" alt="Chim lửa (Hi no Tori) chương 39." title="Chim lửa (Hi no Tori) chương 39." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 39.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0005-0135.jpg" alt="Chim lửa (Hi no Tori) chương 39." title="Chim lửa (Hi no Tori) chương 39." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 39.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0005-0135.jpg" alt="Chim lửa (Hi no Tori) chương 39." title="Chim lửa (Hi no Tori) chương 39." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 39.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0005-0136.jpg" alt="Chim lửa (Hi no Tori) chương 39." title="Chim lửa (Hi no Tori) chương 39." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 39.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0005-0136.jpg" alt="Chim lửa (Hi no Tori) chương 39." title="Chim lửa (Hi no Tori) chương 39." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 39.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0005-0137.jpg" alt="Chim lửa (Hi no Tori) chương 39." title="Chim lửa (Hi no Tori) chương 39." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 39.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0005-0137.jpg" alt="Chim lửa (Hi no Tori) chương 39." title="Chim lửa (Hi no Tori) chương 39." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 39.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0005-0138.jpg" alt="Chim lửa (Hi no Tori) chương 39." title="Chim lửa (Hi no Tori) chương 39." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 39.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0005-0138.jpg" alt="Chim lửa (Hi no Tori) chương 39." title="Chim lửa (Hi no Tori) chương 39." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 39.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0005-0139.jpg" alt="Chim lửa (Hi no Tori) chương 39." title="Chim lửa (Hi no Tori) chương 39." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 39.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0005-0139.jpg" alt="Chim lửa (Hi no Tori) chương 39." title="Chim lửa (Hi no Tori) chương 39." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 39.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0005-0140.jpg" alt="Chim lửa (Hi no Tori) chương 39." title="Chim lửa (Hi no Tori) chương 39." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 39.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0005-0140.jpg" alt="Chim lửa (Hi no Tori) chương 39." title="Chim lửa (Hi no Tori) chương 39." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 39.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0005-0141.jpg" alt="Chim lửa (Hi no Tori) chương 39." title="Chim lửa (Hi no Tori) chương 39." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 39.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0005-0141.jpg" alt="Chim lửa (Hi no Tori) chương 39." title="Chim lửa (Hi no Tori) chương 39." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 39.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0005-0142.jpg" alt="Chim lửa (Hi no Tori) chương 39." title="Chim lửa (Hi no Tori) chương 39." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 39.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0005-0142.jpg" alt="Chim lửa (Hi no Tori) chương 39." title="Chim lửa (Hi no Tori) chương 39." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 39.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0005-0143.jpg" alt="Chim lửa (Hi no Tori) chương 39." title="Chim lửa (Hi no Tori) chương 39." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 39.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0005-0143.jpg" alt="Chim lửa (Hi no Tori) chương 39." title="Chim lửa (Hi no Tori) chương 39." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 39.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0005-0144.jpg" alt="Chim lửa (Hi no Tori) chương 39." title="Chim lửa (Hi no Tori) chương 39." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 39.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0005-0144.jpg" alt="Chim lửa (Hi no Tori) chương 39." title="Chim lửa (Hi no Tori) chương 39." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 39.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0005-0145.jpg" alt="Chim lửa (Hi no Tori) chương 39." title="Chim lửa (Hi no Tori) chương 39." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 39.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0005-0145.jpg" alt="Chim lửa (Hi no Tori) chương 39." title="Chim lửa (Hi no Tori) chương 39." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 39.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0005-0146.jpg" alt="Chim lửa (Hi no Tori) chương 39." title="Chim lửa (Hi no Tori) chương 39." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 39.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0005-0146.jpg" alt="Chim lửa (Hi no Tori) chương 39." title="Chim lửa (Hi no Tori) chương 39." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 39.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0005-0147.jpg" alt="Chim lửa (Hi no Tori) chương 39." title="Chim lửa (Hi no Tori) chương 39." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 39.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0005-0147.jpg" alt="Chim lửa (Hi no Tori) chương 39." title="Chim lửa (Hi no Tori) chương 39." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 39.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0005-0148.jpg" alt="Chim lửa (Hi no Tori) chương 39." title="Chim lửa (Hi no Tori) chương 39." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 39.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0005-0148.jpg" alt="Chim lửa (Hi no Tori) chương 39." title="Chim lửa (Hi no Tori) chương 39." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 39.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0005-0149.jpg" alt="Chim lửa (Hi no Tori) chương 39." title="Chim lửa (Hi no Tori) chương 39." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 39.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0005-0149.jpg" alt="Chim lửa (Hi no Tori) chương 39." title="Chim lửa (Hi no Tori) chương 39." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 39.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0005-0150.jpg" alt="Chim lửa (Hi no Tori) chương 39." title="Chim lửa (Hi no Tori) chương 39." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 39.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0005-0150.jpg" alt="Chim lửa (Hi no Tori) chương 39." title="Chim lửa (Hi no Tori) chương 39." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 39.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0005-0151.jpg" alt="Chim lửa (Hi no Tori) chương 39." title="Chim lửa (Hi no Tori) chương 39." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 39.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0005-0151.jpg" alt="Chim lửa (Hi no Tori) chương 39." title="Chim lửa (Hi no Tori) chương 39." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 39.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0005-0152.jpg" alt="Chim lửa (Hi no Tori) chương 39." title="Chim lửa (Hi no Tori) chương 39." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 39.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0005-0152.jpg" alt="Chim lửa (Hi no Tori) chương 39." title="Chim lửa (Hi no Tori) chương 39." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 39.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0005-0153.jpg" alt="Chim lửa (Hi no Tori) chương 39." title="Chim lửa (Hi no Tori) chương 39." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 39.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0005-0153.jpg" alt="Chim lửa (Hi no Tori) chương 39." title="Chim lửa (Hi no Tori) chương 39." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 39.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0005-0154.jpg" alt="Chim lửa (Hi no Tori) chương 39." title="Chim lửa (Hi no Tori) chương 39." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 39.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0005-0154.jpg" alt="Chim lửa (Hi no Tori) chương 39." title="Chim lửa (Hi no Tori) chương 39." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 39.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0005-0155.jpg" alt="Chim lửa (Hi no Tori) chương 39." title="Chim lửa (Hi no Tori) chương 39." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 39.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0005-0155.jpg" alt="Chim lửa (Hi no Tori) chương 39." title="Chim lửa (Hi no Tori) chương 39." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 39.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0005-0156.jpg" alt="Chim lửa (Hi no Tori) chương 39." title="Chim lửa (Hi no Tori) chương 39." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 39.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0005-0156.jpg" alt="Chim lửa (Hi no Tori) chương 39." title="Chim lửa (Hi no Tori) chương 39." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 39.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0005-0157.jpg" alt="Chim lửa (Hi no Tori) chương 39." title="Chim lửa (Hi no Tori) chương 39." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 39.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0005-0157.jpg" alt="Chim lửa (Hi no Tori) chương 39." title="Chim lửa (Hi no Tori) chương 39." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 39.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0005-0158.jpg" alt="Chim lửa (Hi no Tori) chương 39." title="Chim lửa (Hi no Tori) chương 39." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 39.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0005-0158.jpg" alt="Chim lửa (Hi no Tori) chương 39." title="Chim lửa (Hi no Tori) chương 39." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 39.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0005-0159.jpg" alt="Chim lửa (Hi no Tori) chương 39." title="Chim lửa (Hi no Tori) chương 39." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 39.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0005-0159.jpg" alt="Chim lửa (Hi no Tori) chương 39." title="Chim lửa (Hi no Tori) chương 39." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 39.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/tezuka-osamu/chim-lua/0005-0160.jpg" alt="Chim lửa (Hi no Tori) chương 39." title="Chim lửa (Hi no Tori) chương 39." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 39.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/tezuka-osamu/chim-lua/0005-0160.jpg" alt="Chim lửa (Hi no Tori) chương 39." title="Chim lửa (Hi no Tori) chương 39." height=100% width=100%><figcaption></p>Chim lửa (Hi no Tori) chương 39.</p></figcaption></figure>
 
 ## Đôi nét về tác giả Tezuka Osamu
 
@@ -383,6 +383,6 @@ Không chỉ vậy, Chim lửa còn được chuyển thể thành nhiều bộ 
 
 Đọc [Chim lửa, chương 98](https://nhavantuonglai.com/article/chim-lua-chuong-98) tại đây.
 
-Đọc [Chim lửa, tập 05](https://banmaixanh.org/ebook/chim-lua-tap-05.pdf) tại đây.
+Đọc [Chim lửa, tập 05](https://banmaixanh.vercel.app/ebook/chim-lua-tap-05.pdf) tại đây.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-451.jpg" alt="Chim lửa (Hi no Tori) chương 39." title="Chim lửa (Hi no Tori) chương 39." height=100% width=100%><figcaption><p>Chim lửa (Hi no Tori) chương 39.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-451.jpg" alt="Chim lửa (Hi no Tori) chương 39." title="Chim lửa (Hi no Tori) chương 39." height=100% width=100%><figcaption><p>Chim lửa (Hi no Tori) chương 39.</p></figcaption></figure>
