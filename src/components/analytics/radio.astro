@@ -1,0 +1,50 @@
+<script client:load>
+
+	document.addEventListener('DOMContentLoaded', () => {
+		const id = 'radio';
+		const buttons = document.querySelectorAll(`#${id}-buttons button`);
+		const audioPlayer = document.getElementById(`${id}-audio-player`);
+		const audioSource = document.getElementById(`${id}-audio-source`);
+		const statusDiv = document.getElementById(`${id}-status`);
+		
+		let currentChannelIndex = -1;
+		let statusInterval;
+
+		function updateButtons() {
+			buttons.forEach((btn, index) => {
+				btn.classList.toggle('bg-primary', index === currentChannelIndex);
+				btn.classList.toggle('text-white', index === currentChannelIndex);
+			});
+		}
+
+		function playChannel(index) {
+			currentChannelIndex = index;
+			const channel = buttons[index];
+			audioSource.src = channel.dataset.url;
+			audioPlayer.load();
+			audioPlayer.play()
+				.then(() => {
+					updateButtons();
+					updateStatus(channel.innerText);
+				})
+				.catch(error => {
+					console.error(error);
+					statusDiv.textContent = 'Không thể phát kênh này.';
+				});
+		}
+
+		function updateStatus(channelName) {
+			clearInterval(statusInterval);
+			statusInterval = setInterval(() => {
+				const latency = Math.floor(Math.random() * 3001);
+				statusDiv.textContent = `Đang phát: ${channelName}, (độ trễ: ${latency}ms).`;
+			}, 1000);
+		}
+
+		buttons.forEach((button, index) => {
+			button.addEventListener('click', () => playChannel(index));
+		});
+
+	});
+
+</script>
