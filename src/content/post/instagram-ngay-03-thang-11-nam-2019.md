@@ -9,6 +9,7 @@ tags:
   - doan van
   - instagram
 ---
+
 _anh vào đời bằng lối nhỏ._
 
 hôm nay anh bạn đồng nghiệp cũ viết statut, rằng nghe đến câu thứ tư của bài là khóc như một đứa trẻ. bởi anh cảm giác sự thân thuộc và nhắc đến mình rất nhiều trong bài. lớn rồi có đáng để bật khóc không? mình nghĩ là có. mình từng nhớ rằng lúc nhỏ mình hay khóc lắm, khóc vì muốn đòi hỏi ba mẹ làm cái này cái kia. lớn lên hay bị nhắc rằng con trai phải mạnh mẽ, đừng nên khóc.
