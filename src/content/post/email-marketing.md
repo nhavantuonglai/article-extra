@@ -3,7 +3,7 @@ pubDatetime: 2022-04-19T10:10:00Z
 title: Hướng dẫn sử dụng Email Marketing trong khách sạn
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
 featured: false
-image: https://banmaixanh.org/image/cover/001-357.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-357.jpg
 tags:
   - viet thue
   - marketing
@@ -41,7 +41,7 @@ Email marketing là công cụ mạnh mẽ cho nhiều giải pháp, bao gồm c
 
 Email marketing là một trong những phương tiện nhanh nhất để tiếp cận, kết nối với du khách, dù cũ hay mới đặt phòng.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-065.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-065.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Triển khai Email marketing trong khách sạn trong 5 bước
 
@@ -73,7 +73,7 @@ Ví dụ, khách du lịch sẽ có nhu cầu khác với khách doanh nhân, c�
 
 Phân loại danh sách đối tượng mục tiêu thành các nhóm như khách đặt phòng lần đầu và khách đặt phòng trở lại. Với khách đặt phòng lần đầu, hãy gửi Email chứa chứa thông tin về khách sạn, ưu đãi hấp dẫn… Với khách đặt phòng trở lại, có thể được gửi thông tin về các ưu đãi đặc biệt khiến họ muốn đặt phòng thêm lần nữa.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-066.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-066.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Gửi thông báo được cá nhân hóa
 
@@ -131,7 +131,7 @@ Khi trả phòng khách sạn, du khách sẽ nhận được Email chứa hóa 
 
 Email bản tin định kỳ là rất cần thiết. Khách sạn phải duy trì liên lạc, tương tác với du khách ngay cả khi khách sạn không còn phòng để bán. Email bản tin định kỳ giúp thu hút du khách, giới thiệu các ưu đãi hay món ăn mới…
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-066.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-066.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## 8 bước để tạo Email hoàn hảo cho du khách của khách sạn
 
@@ -169,10 +169,10 @@ Bạn có thể gửi Email test bằng cách gửi đến bản thân hoặc đ
 
 Theo dõi tỷ lệ mở,, số lượng đặt phòng mới và hiệu quả đem lại là điều cần thiết giúp khách sạn đánh giá hiệu quả của chiến dịch.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-067.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-067.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Kết luận
 
 Cho dù mục tiêu bán phòng là tăng lượt đặt phòng, [cải thiện doanh thu](https://nhavantuonglai.com/article) hay giới thiệu về khách sạn, thì Email marketing trong khách sạn cũng đều là công cụ hữu hiệu, cả về chi phí lẫn lợi ích để đạt được mục tiêu ấy. Hãy bắt đầu với Email marketing trong khách sạn ngay hôm nay với những hướng dẫn được nêu ở trên để nhìn thấy sự thay đổi, khác biệt trong hoạt động kinh doanh của khách sạn.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-639.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-639.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>

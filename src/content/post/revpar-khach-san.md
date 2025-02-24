@@ -3,7 +3,7 @@ pubDatetime: 2022-07-16T10:10:00Z
 title: 3 cách sử dụng RevPAR để tối ưu doanh thu và lợi nhuận khách sạn
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
 featured: false
-image: https://banmaixanh.org/image/cover/001-548.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-548.jpg
 tags:
   - viet thue
   - marketing
@@ -37,7 +37,7 @@ Ví dụ: Khách sạn có 200 phòng, giá phòng trung bình mỗi ngày là 1
 
 Ở ví dụ trên ta thấy rõ 2 điều: doanh thu mỗi ngày mỗi phòng tương đương 80%, và mục tiêu 100% công suất phòng thông qua giảm ADR là một lựa chọn không có lợi về mặt lợi nhuận. Chính vì vậy, khách sạn nên tăng RevPAR để cải thiện lợi nhuận tổng thể.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-114.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-114.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## 3 cách sử dụng RevPAR để tối ưu doanh thu khách sạn
 
@@ -83,7 +83,7 @@ Ví dụ cụ thể:
 
 Từ những gì thu thập được, bạn sẽ biết khách sạn của mình đang ở đâu, sức cạnh tranh ra sao so với các đối thủ trong khu vực. Điều này cực kỳ hữu ích trong việc xác định các chiến lược tiếp thị hiện tại đã phù hợp hay chưa, và tạo ra các [chiến lược phân tích cạnh tranh](https://nhavantuonglai.com/article) phù hợp
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-116.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-116.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Hiểu khách đặt phòng hơn
 
@@ -97,4 +97,4 @@ RevPAR là con số, không phản ánh động cơ đặt phòng, nhưng bạn 
 
 Tăng doanh thu và tối ưu lợi nhuận khách sạn không phải vấn đề đơn giản, sớm hoàn thành trong một sớm một chiều. Dựa vào RevPAR mà các khách sạn có thể xây dựng chiến lược phù hợp, đáp ứng mục tiêu doanh thu tổng thể. Với những nội dung được đề cập như trên đây, mong rằng bạn sẽ có những chiến lược, phương án triển khai hợp lý bên cạnh sử dụng [phần mềm quản lý khách sạn](https://nhavantuonglai.com/article) để tăng doanh thu cho khách sạn của mình.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-314.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-314.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>

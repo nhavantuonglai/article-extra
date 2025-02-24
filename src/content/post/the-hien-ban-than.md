@@ -3,7 +3,7 @@ pubDatetime: 2024-12-14T10:10:00Z
 title: 8 cách để đạt được sự thể hiện bản thân
 description: Thuật ngữ self actualization (thể hiện bản thân) được sử dụng rộng rãi trên mạng, nhưng làm thế nào để thực sự đạt được điều này?
 featured: false
-image: https://banmaixanh.org/image/cover/001-743.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-743.jpg
 tags:
   - phat trien ban than
   - khoa hoc
@@ -66,4 +66,4 @@ Một phần của việc trở thành người tốt hơn là xác định và 
 
 Trong khi những hành vi này có thể giúp bạn đạt được _self actualization,_ hãy nhớ rằng điều này không phải là ưu tiên của tất cả mọi người. Việc áp dụng các quan điểm và hành vi này vào cuộc sống sẽ không gây hại, mà còn có thể thúc đẩy sự phát triển cá nhân của bạn.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-443.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-443.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

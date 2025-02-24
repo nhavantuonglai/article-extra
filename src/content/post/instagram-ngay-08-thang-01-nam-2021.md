@@ -3,7 +3,7 @@ pubDatetime: 2021-01-07T10:10:00Z
 title: Bài viết trên Instagram ngày 08 tháng 01 năm 2021
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - viet lach
   - doan van
@@ -22,4 +22,4 @@ và như thế, cái lựa chọn thiếu trải nghiệm, không tạo nên s�
 
 một điều rõ ràng, không có Covid thì suy nghĩ ấy sẽ đến với mình chậm hơn. mà thì, điều gì đến rồi cũng đến, điều chi cần suy nghĩ rồi cũng làm mình đau đầu. quyết định cho những suy nghĩ ấy, vẫn luôn là thứ khiến mình phải bối rối, bởi liệu chuyện gì sẽ xảy ra tiếp theo – như cách mà đại dịch tác động, diễn biến đầy phức tạp trong năm qua, và có khi cả năm tiếp theo nữa…
 
-<figure><img src="https://banmaixanh.org/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

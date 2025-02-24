@@ -3,7 +3,7 @@ pubDatetime: 2022-03-02T10:10:00Z
 title: Hướng dẫn cải thiện lòng trung thành của du khách trong khách sạn
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
 featured: false
-image: https://banmaixanh.org/image/cover/001-357.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-357.jpg
 tags:
   - viet thue
   - marketing
@@ -29,7 +29,7 @@ Dù thị trường lưu trú có sự cạnh tranh khốc liệt, các khách s
 
 Trong ngành khách sạn, lòng trung thành của khách hàng là chỉ chọn một vài chỗ đặt phòng nhất định, chứ không tìm kiếm các khách sạn khác.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-113.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-113.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Tại sao lòng trung thành lại quan trọng với các khách sạn?
 
@@ -63,7 +63,7 @@ Ngoài ra, khách sạn có thể bổ sung 3 tiêu chí khác bao gồm:
 
 3. Tỷ lệ giới thiệu ròng (Net Promoter Score): Tỷ lệ mức độ hào hứng, muốn chia sẻ về khách sạn của bạn; được thực hiện bởi du khách và hướng đến bạn bè của họ. Thông thường, tỷ lệ này được phản ánh thông qua bảng khảo sát sau khi trả phòng, với thang điểm từ 1 – 10, điểm càng lớn thì mức độ muốn chia sẻ càng cao. Đây là một chỉ số ấn tượng, có tiếng nói khi đo lường mức độ trung thành của khách hàng.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-114.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-114.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Chương trình khách hàng thân thiết của khách sạn là gì?
 
@@ -101,7 +101,7 @@ Một trong những lý do khiến du khách trung thành với các khách sạ
 
 Đáp ứng kỳ vọng của du khách thôi không đủ, bởi 45% khách hàng sẽ chuyển sang một thương hiệu khác khi thương hiện ban đầu không đáp ứng, dự đoán được nhu cầu của họ – theo nghiên cứu của Salesforce. Các khách sạn không chỉ đáp ứng, mà còn [vượt qua kỳ vọng của du khách](https://nhavantuonglai.com/article), gợi ý những sản phẩm và dịch vụ tiếp theo, phù hợp và tạo nên nhiều trải nghiệm bất ngờ dành cho họ.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-115.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-115.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Hiểu biết về khách hàng của khách sạn
 
@@ -141,7 +141,7 @@ Hãy cung cấp cho các khách hàng thân thiết của bạn thật nhiều �
 
 – …
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-116.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-116.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Tùy chỉnh ưu đãi dựa trên nhu cầu của khách hàng
 
@@ -159,4 +159,4 @@ Cuối cùng, hãy tận dụng các giải pháp công nghệ có sẵn nhằm 
 
 Những giải pháp này là công cụ giúp hành trình trải nghiệm của du khách luôn được thông suốt và tích cực, cũng như nhận được sự hỗ trợ cần thiết, phù hợp để giải quyết những vấn đề phát sinh. Ngoài ra, các giải pháp này cũng có thể kết nối để tích hợp, đồng bộ dữ liệu với nhau, giúp chia sẻ và quản lý dữ liệu khách hàng được hiệu quả và thuận tiện hơn. Những điều này sẽ vô cùng hữu ích để khách sạn của bạn biết – khách hàng của mình trung thành đến mức nào, và chúng thể hiện qua số liệu là ra sao.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-517.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-517.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>

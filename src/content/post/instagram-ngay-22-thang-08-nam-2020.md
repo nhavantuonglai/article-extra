@@ -3,7 +3,7 @@ pubDatetime: 2020-08-07T10:10:00Z
 title: Bài viết trên Instagram ngày 22 tháng 08 năm 2020
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - viet lach
   - doan van
@@ -18,4 +18,4 @@ sau này, cả hiện tại, những khi chạy xe qua đèo về với Huế, n
 
 cũng có thi thoảng, đường đèo đi chưa trọn thì phải dừng chân bởi người ta chặn lại, vì tàu đang đến. cũng lý do ấy, mình thêm đôi lần phải chậm giảm tốc khi đang sẵn sàng vượt đèo. gián đoạn cảm giác, mình được bù đắp về tinh thần bằng sự chờ đợi và tận hưởng, khi đầu tàu từ xa rất xa chậm rãi tiến đến, choáng ngợp cả tầm mắt rồi vun vút trôi qua…
 
-<figure><img src="https://banmaixanh.org/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

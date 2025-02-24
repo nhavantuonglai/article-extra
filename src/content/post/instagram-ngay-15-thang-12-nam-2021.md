@@ -3,7 +3,7 @@ pubDatetime: 2021-12-07T10:10:00Z
 title: Bài viết trên Instagram ngày 15 tháng 12 năm 2021
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - viet lach
   - doan van
@@ -20,4 +20,4 @@ một điều kỳ quặc, là chẳng ai ra giữa vườn ớt, rau ngò, hàn
 
 nếu bạn đang ở Huế, hoặc đến Huế dịp này và muốn ngắm hoa cải, thì không khó lắm, đừng đi cung đường mình viết. hãy tìm đến chợ Kim Long và đi quanh đó, sắc hoa cải sẽ nhuộm vàng một góc nhìn, nếu bạn tinh ý và đủ nhận ra. còn nếu không nữa, hãy thử ra vườn, biết đâu một vườn hoa cải nhỏ đang đợi bạn không chừng.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

@@ -3,7 +3,7 @@ pubDatetime: 2020-10-07T10:10:00Z
 title: Bài viết trên Instagram ngày 25 tháng 10 năm 2020
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - viet lach
   - doan van
@@ -16,4 +16,4 @@ hôm nay Onedrive nhắc, ngày này năm ngoái là show Ngọt 3, lâ
 
 tuy nhiên, những sự thiếu ổn định không vì dịch mà hoãn, huỷ hay chờ một dịp nào khác. lại thi thoảng, có những chuyện theo lý do dịch mà làm mình mệt mỏi, rối trí hơn. dù vậy, nhạc nhẽo vẫn trường tồn giữa biến động, xuất hiện đủ làm mọi thứ bớt nhạt nhẽo hơn. nên, cảm thấy bản thân có chút gì đó may mắn, vì còn điểm để tựa vào khi người ta chưa đến lại…
 
-<figure><img src="https://banmaixanh.org/image/cover/001-112.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-112.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

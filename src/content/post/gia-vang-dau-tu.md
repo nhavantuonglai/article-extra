@@ -3,7 +3,7 @@ pubDatetime: 2021-11-19T10:10:00Z
 title: 5 biểu đồ giá chứng minh đầu tư vào vàng là hợp lý
 description: Chuỗi bài viết của nhavantuonglai về kinh doanh vàng bạc đá quý và quỹ đầu tư sẽ giúp nhà đầu tư khởi nghiệp hiệu quả.
 featured: false
-image: https://banmaixanh.org/image/cover/001-342.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-342.jpg
 tags:
   - viet thue
   - marketing
@@ -74,4 +74,4 @@ Giá bạc hiện tại dao động ở mức 19 USD, còn giá vàng đang ở 
 
 5 biểu đồ giá vàng, dự trữ tiền mặt hay đồng tiền rớt giá trên đây là những minh chứng vô cùng thuyết phục. Để đánh giá việc đầu tư vàng trong hiện tại là hữu hiệu và đem lại lợi nhuận cao. Chính vì thế, với những ai đang cần thêm những số liệu, biểu đồ để chắc rằng quyết định của mình. Trong việc đầu tư vào lĩnh vực tài chính hiện tại là vàng có xứng đáng hay không. Thì chính đây, là câu trả lời phù hợp, chắc chắn nhất mà bạn đã từng có.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-314.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-314.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

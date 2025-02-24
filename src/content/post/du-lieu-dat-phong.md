@@ -3,7 +3,7 @@ pubDatetime: 2022-04-17T10:10:00Z
 title: 7 cách sử dụng dữ liệu khách đặt phòng để cải thiện doanh thu khách sạn
 description: Bài viết sau sẽ cung cấp 7 cách để khai thác dữ liệu khách đặt phòng để cải thiện doanh số bán phòng cho khách sạn. 
 featured: false
-image: https://banmaixanh.org/image/cover/001-727.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-727.jpg
 tags:
   - viet thue
   - marketing
@@ -38,7 +38,7 @@ Hiểu và thu thập thông tin nhân khẩu của khách đặt phòng, như �
 
 Ví dụ: Với khách doanh nhân, khách sạn có thể xây dựng gói giá hoặc áp dụng các tiện ích hấp dẫn như cho phép nhận phòng sớm, nâng cấp hạng phòng miễn phí…
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-136.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-136.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Dữ liệu liên quan đến lượt đặt phòng
 
@@ -66,7 +66,7 @@ Ví dụ: Nếu du khách có nhu cầu, sở thích về dịch vụ Spa, khác
 
 Những điều này không chỉ tạo ra trải nghiệm cá nhân đầy hấp dẫn, mà còn tăng tỷ lệ đặt phòng quay lại nhiều hơn.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-137.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-137.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Upselling và Cross-selling
 
@@ -102,7 +102,7 @@ Ví dụ: Qua dữ liệu thu thập, khách sạn biết rằng du khách đang
 
 Dữ liệu thu thập cũng cho phép khách sạn điều chỉnh, giảm thiểu hoặc loại bỏ bớt phòng trống dài hạn, do hiếm được đặt vì du khách không có nhu cầu. Điều này giúp khách sạn giảm bớt lãng phí, tiêu hao tài nguyên và tái đầu tư chúng vào mục đích hiệu quả hơn.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-138.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-138.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Tối ưu chiến lược giá
 
@@ -126,8 +126,8 @@ Ngoài ra, dữ liệu khách đặt phòng cũng có thể sử dụng để x�
 
 Ví dụ: Nếu một số dịch vụ, nhân viên không nhận được sự hài lòng từ du khách, nhận nhiều đánh giá kém thì khách sạn có thể nhanh chóng phát hiện, khắc phục để tránh những rủi ro, vấn đề nguy hiểm hơn.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-139.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-139.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 Tổng kết lại, thu thập và khai thác dữ liệu khách đặt phòng giúp khách sạn hiểu rõ nhu cầu, sở thích và hành vi của khách hàng. Từ những thông tin thu thập được, khách sạn có thể điều chỉnh chiến lược nhằm cải thiện doanh số, phòng trống, chiến lược giá lẫn dịch vụ khách hàng. Như vậy, các khách sạn có thể đảm bảo rằng – họ đang cung cấp những trải nghiệm, dịch vụ tốt nhất cho du khách, đồng thời tối ưu được lợi nhuận sau cùng.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-514.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-514.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>

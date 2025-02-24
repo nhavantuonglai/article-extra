@@ -3,7 +3,7 @@ pubDatetime: 2021-08-28T10:10:00Z
 title: Tất cả chúng ta đều không ổn
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - viet lach
   - doan van
@@ -20,4 +20,4 @@ nếu người đối diện với bạn không ổn, và bạn không biết l�
 
 sức khoẻ tinh thần, nhìn nhận theo hướng tích cực trong giai đoạn này, là điều mà mọi người quan tâm nhiều, bày tỏ và tìm cách chấp nhận nhau nhiều hơn. đó vừa có thể là chìa khoá để chúng ta hiểu nhau hơn, và cũng có thể là cách để bớt mông lung vô định hơn trong lúc này. nên, hãy chia sẻ, và chấp nhận với nhau rằng chúng ta đều không ổn.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

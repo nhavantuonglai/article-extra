@@ -3,7 +3,7 @@ pubDatetime: 2022-05-07T10:10:00Z
 title: Chìa khóa để kinh doanh khách sạn thành công là hiểu rõ khách hàng
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
 featured: false
-image: https://banmaixanh.org/image/cover/001-548.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-548.jpg
 tags:
   - viet thue
   - marketing
@@ -29,7 +29,7 @@ Vậy làm thế nào để định vị tệp khách hàng phù hợp?
 
 Thứ hai là thông qua công nghệ, là công cụ [quản lý thông tin khách hàng (CRM)](https://nhavantuonglai.com/article) tích hợp trong [phần mềm quản lý khách sạn](https://nhavantuonglai.com/article). Khi khách đặt phòng, check in thì những thông tin cơ bản sẽ được lưu lại. Bạn có thể hệ thống hóa, phân tích chúng để hiểu rõ hơn về khách đặt phòng khách sạn của mình.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-127.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-127.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Khách hàng của khách sạn đang tìm kiếm điều gì khi đặt phòng?
 
@@ -55,7 +55,7 @@ Ví dụ, tệp khách hàng của khách sạn là dân du lịch, lưu trú ng
 
 Ngoài ra, để tăng cơ hội nhận diện và xuất hiện nhiều hơn trên công cụ tìm kiếm, hãy tìm hiểu thị hiếu, nhu cầu hiện tại của khách hàng là thế nào, để cập nhật những hình ảnh tương ứng cho phù hợp. Khi khách hàng tìm kiếm với các từ khóa liên quan, hình ảnh của khách sạn của bạn sẽ hiển thị nhanh chóng và dễ dàng hơn.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-128.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-128.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Khách hàng đang dùng ngôn ngữ nào?
 
@@ -75,8 +75,8 @@ Hiểu về khách hàng của mình là một chuyện; mà biết rằng đố
 
 Nhưng điều đó không phải quan trọng nhất, hãy theo dõi phản ứng của khách hàng. Họ có hài lòng với những trải nghiệm mà khách sạn đối thủ đem đến, và những điểm chưa thì khách sạn của bạn có thể đáp ứng? Chúng sẽ là cơ hội để bạn phục vụ khách hàng của đối thủ tốt hơn những gì họ có thể làm.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-129.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-129.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 Nếu hiểu biết là sức mạnh, thì hiểu biết về khách hàng là chìa khóa để phát triển mạnh mẽ khách sạn. Với các tính năng được thiết lập sẵn trong [phần mềm quản lý khách sạn](https://nhavantuonglai.com/article), cũng như những công cụ hỗ trợ, chiến lược thực thi đi kèm, khách sạn có thể khai thác tối đa, hiểu rõ ràng về khách hàng của mình. Vấn đề chỉ là việc, bạn đã sẵn sàng để hiểu và tạo ra sự thay đổi mới cho khách sạn của mình hay chưa mà thôi.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-317.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-317.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>

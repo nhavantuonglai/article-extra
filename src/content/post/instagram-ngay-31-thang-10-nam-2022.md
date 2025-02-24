@@ -3,7 +3,7 @@ pubDatetime: 2022-10-31T10:10:00Z
 title: Bài viết trên Instagram ngày 31 tháng 10 năm 2022
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-121.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-121.jpg
 tags:
   - viet lach
   - doan van
@@ -22,4 +22,4 @@ nên rằng, cách giải quyết cho vấn đề này, là quên đi những ki
 
 những ấn tượng ban đầu, trải nghiệm khi gặp gỡ hay đôi ba lần trò chuyện cũng dễ khiến mọi người cảm thấy hiểu rõ về người khác; nhưng cái hiểu ấy có giống với điều mà đối phương muốn người khác hiểu về mình hay không, lại là chuyện khác. nên rằng, nếu họ thật sự quan trọng và bạn không thể đối thoại như cách đôi bên muốn, hãy quên những kinh nghiệm và mở lòng thêm một lần nữa, lần nữa… để nói chuyện với nhau như cách cùng muốn.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-143.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-143.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

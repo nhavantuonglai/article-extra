@@ -3,7 +3,7 @@ pubDatetime: 2021-03-08T10:10:00Z
 title: Hướng dẫn viết lách chuyên nghiệp
 description: Viết lách chuyên nghiệp không chỉ đòi hỏi kỹ năng viết tốt mà còn cần sự hiểu biết về cách tạo ra nội dung hấp dẫn và có giá trị.
 featured: false
-image: https://banmaixanh.org/image/cover/001-537.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-537.jpg
 tags:
   - viet lach
   - ky nang viet
@@ -17,7 +17,7 @@ _Viết lách chuyên nghiệp không chỉ đòi hỏi kỹ năng viết tốt 
 
 Viết lách chuyên nghiệp là một kỹ năng quan trọng trong nhiều lĩnh vực, từ marketing nội dung, truyền thông đến xuất bản. Viết lách không chỉ đơn thuần là đặt từ ngữ trên giấy, mà là một quá trình sáng tạo đòi hỏi sự tỉ mỉ, kiến thức và kỹ năng. Bài viết này sẽ cung cấp cho bạn những phương pháp và chiến lược để trở thành một nhà viết lách chuyên nghiệp, giúp bạn thu hút và giữ chân độc giả, cũng như tăng cường hiệu quả của marketing nội dung.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-011.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-011.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Tầm quan trọng của viết lách chuyên nghiệp
 
@@ -53,7 +53,7 @@ Bản đồ tư duy (mind map) là công cụ hữu ích giúp bạn tổ chức
 
 – Liên kết các ý tưởng phụ với nhau để tạo ra một bức tranh toàn cảnh về nội dung.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-011.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-011.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ### Lên kế hoạch chi tiết
 
@@ -65,7 +65,7 @@ Lên kế hoạch chi tiết giúp bạn viết lách một cách có hệ thố
 
 – Đặt lịch viết: Xác định thời gian viết cụ thể để đảm bảo tiến độ.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-013.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-013.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Viết nội dung chất lượng cao
 
@@ -89,7 +89,7 @@ Storytelling là phương pháp hiệu quả để làm cho nội dung trở nê
 
 – Kết thúc bài viết với một kết luận hoặc bài học từ câu chuyện.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-014.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-014.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ### Tối ưu SEO
 
@@ -103,7 +103,7 @@ Tối ưu SEO giúp nội dung của bạn dễ dàng được tìm thấy trên
 
 – Chèn liên kết nội bộ và ngoại bộ: Tăng tính thuyết phục và cung cấp thêm thông tin chi tiết cho người đọc.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-015.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-015.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ### Đảm bảo nội dung chính xác và có giá trị
 
@@ -127,7 +127,7 @@ Tự đánh giá và chỉnh sửa là bước quan trọng để nâng cao ch�
 
 – Sử dụng các công cụ chỉnh sửa như Grammarly để kiểm tra ngữ pháp và chính tả.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-016.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-016.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ### Luyện tập viết hàng ngày
 
@@ -149,7 +149,7 @@ Học hỏi từ các tác giả khác giúp bạn mở rộng kiến thức và
 
 – Theo dõi và tham gia các diễn đàn, nhóm thảo luận về viết lách.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-017.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-017.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Kết hợp viết lách và marketing nội dung
 
@@ -175,7 +175,7 @@ Mạng xã hội là nền tảng quan trọng để quảng bá nội dung. Khi
 
 – Tạo nội dung ngắn gọn và hấp dẫn: Nội dung trên mạng xã hội cần ngắn gọn, súc tích và hấp dẫn ngay từ những dòng đầu tiên.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-018.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-018.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ### Sử dụng email marketing
 
@@ -199,7 +199,7 @@ Email marketing là công cụ hiệu quả để tiếp cận và giữ chân k
 
 – Tỷ lệ mở và nhấp chuột trong email: Sử dụng các công cụ email marketing để theo dõi tỷ lệ mở và nhấp chuột của các email bạn gửi đi.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-019.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-019.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Kết luận
 
@@ -207,4 +207,4 @@ Viết lách chuyên nghiệp không chỉ đòi hỏi kỹ năng viết tốt m
 
 Hãy bắt đầu áp dụng những chiến lược trên và khám phá sự sáng tạo không giới hạn trong viết lách và marketing nội dung.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-211.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-211.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

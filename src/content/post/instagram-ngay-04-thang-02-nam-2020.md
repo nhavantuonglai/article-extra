@@ -3,7 +3,7 @@ pubDatetime: 2020-02-07T10:10:00Z
 title: Bài viết trên Instagram ngày 04 tháng 02 năm 2020
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - viet lach
   - doan van
@@ -20,4 +20,4 @@ thì có phải, nếu chúng ta đang sống như thế, đang châ�
 
 và khi ta càng sâu sắc, càng tin tưởng với nhau nhiều hơn, thì sự có mặt và lắng nghe của người đối diện chính là liều thuốc an thần để xoa đi những căng cứng trong lòng, chính là sợi dây với những nút thắt để ta bám chặt để không rơi xuống vực.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

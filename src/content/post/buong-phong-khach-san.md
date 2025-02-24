@@ -3,7 +3,7 @@ pubDatetime: 2022-01-27T10:10:00Z
 title: Làm thế nào để quản lý buồng phòng khách sạn tốt hơn?
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
 featured: false
-image: https://banmaixanh.org/image/cover/001-540.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-540.jpg
 tags:
   - viet thue
   - marketing
@@ -27,7 +27,7 @@ Dịch vụ dọn phòng trong khách sạn về cơ bản đã trở thành m�
 
 Housekeeping không chỉ là công việc – Nó cần lập kế hoạch, thực hiện tốt và cần có sự giao tiếp giữa các bộ phận với nhau. Bạn không thể để quên việc dọn các phòng bẩn kịp thời, không được chuẩn bị kỹ lưỡng trước khi khách check – in hoặc phòng bẩn bị bỏ qua do nhầm lẫn thông tin.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-060.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-060.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Nhiệm vụ và trách nhiệm của công việc quản lý buồng phòng khách sạn
 
@@ -61,7 +61,7 @@ Sau đó, hãy bắt đầu bước dọn dẹp và làm sạch căn phòng. Đ�
 
 Khi căn phòng đã được làm sạch hoàn toàn, hãy đặt tất cả các vật dụng mới vào đúng vị trí. Kiểm tra lần cuối để đảm bảo rằng khách đến có mọi thứ họ cần và theo đúng như trong yêu cầu đặt phòng ban đầu.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-061.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-061.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Kinh nghiệm quản lý buồng phòng hiệu quả
 
@@ -85,7 +85,7 @@ Housekeeper cũng nên chú ý đến việc quản lý hàng tồn kho – Làm
 
 Hầu hết tất cả công việc quản lý buồng phòng khách sạn cũng nên được điều chỉnh bởi ba nguyên tắc: sự ưu tiên, sự chuẩn bị và sự lâu dài.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-062.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-062.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Mẹo dọn dẹp, sử dụng thiết bị chuyên dụng, tìm nguồn cung ứng vật tư vệ sinh phòng khách sạn
 
@@ -113,7 +113,7 @@ _Dưới đây là một số mẹo làm sạch phòng khác mà bạn có thể
 
 Và đừng bao giờ quên kiểm tra lần cuối trước khi rời khỏi phòng sau khi hoàn thành công việc dọn dẹp. Du khách có thể nhướn mày khi phát hiện ra những vật dụng bổ sung trong phòng để ngăn chặn các nguy cơ gây hại như thuốc diệt nấm mốc.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-063.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-063.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Phần mềm lập lịch và dọn phòng
 
@@ -147,7 +147,7 @@ _Một phần mềm dọn phòng tối thiểu cho khách sạn của bạn nên
 
 Đây là chức năng quan trọng bạn sẽ muốn có trong phần mềm quản lý buồng phòng khách sạn để bạn có thể tiết kiệm thời gian bằng cách xem trạng thái của dọn dẹp phòng ở một nơi, giao việc dọn dẹp phòng và các nhiệm vụ khác cho nhân viên dọn dẹp và chuẩn bị tốt hơn cho lần nhận phòng sắp tới của khách.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-064.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-064.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Danh sách kiểm tra quản lý dịch vụ buồng phòng
 
@@ -171,4 +171,4 @@ _Một phần mềm dọn phòng tối thiểu cho khách sạn của bạn nên
 
 – Các sản phẩm công nghệ _tốt nhất_ trên thị trường giúp cho việc thực hiện công việc một cách nhanh chóng, đơn giản và giá cả phù hợp.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-510.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-510.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>

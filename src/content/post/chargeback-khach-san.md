@@ -3,7 +3,7 @@ pubDatetime: 2022-02-10T10:10:00Z
 title: Chính sách hoàn tiền (chargeback) tại khách sạn và cách xử lý
 description: Chargeback luôn là một vấn đề đối với các nhà quản lý khách sạn. Đây là một trở ngại khi nói đến lợi nhuận, và quá trình xử lý chargeback thường tốn thời gian.
 featured: false
-image: https://banmaixanh.org/image/cover/001-642.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-642.jpg
 tags:
   - viet thue
   - marketing
@@ -39,7 +39,7 @@ Không chỉ có chủ thẻ, ngân hàng và nhà cung cấp dịch vụ tham g
 
 – Người bán – nhà cung cấp dịch vụ.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-090.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-090.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Nguyên nhân gây ra chargeback?
 
@@ -71,7 +71,7 @@ Hầu hết các chargeback mà thương nhân phải xử lý đều nằm dư�
 
 Điều này thường xảy ra khi chủ thẻ khẳng định rằng thẻ của họ đã bị đánh cắp hoặc sử dụng trái phép, hoặc nếu họ là nạn nhân của việc trộm cắp danh tính. Có thể là chủ thẻ không nhận ra hoặc không nhớ rằng họ đã thực hiện giao dịch. Điều này thường xảy ra khi thực thể pháp lý khác với thực thể mà người mua đã mua hàng.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-091.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-091.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Chargeback liên quan đến dịch vụ hoặc sản phẩm
 
@@ -101,7 +101,7 @@ Khả năng xảy ra chargeback cung cấp cho khách hàng sự đảm bảo r�
 
 Là một doanh nghiệp, điều quan trọng là khách sạn của bạn phải tuân thủ các quy tắc và quy định của các mạng thanh toán để tiếp tục cung cấp dịch vụ thanh toán bằng thẻ tín dụng. Đó cũng là quyền của người tiêu dùng khi có cơ hội yêu cầu hoàn tiền nếu các khoản phí là không chính xác.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-092.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-092.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Giảm thiểu tổn thất tài chính
 
@@ -131,7 +131,7 @@ Chủ thẻ thông báo cho ngân hàng phát hành của họ và cho họ bi�
 
 Ngân hàng phát hành xem xét các tài liệu hỗ trợ và lời giải thích của chủ thẻ để đảm bảo rằng yêu cầu chargeback là hợp lệ. Nếu có căn cứ hợp lệ, ngân hàng phát hành sẽ gửi yêu cầu chargeback đến mạng thanh toán.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-093.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-093.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Mạng thanh toán xử lý yêu cầu
 
@@ -149,7 +149,7 @@ Người bán gửi tài liệu và bằng chứng liên quan để thách thứ
 
 Ngân hàng nhận xem xét tài liệu và bằng chứng từ người bán và đưa ra quyết định dựa trên thông tin đã được cung cấp. Nếu ngân hàng nhận cho rằng bằng chứng là đủ, họ sẽ bác bỏ yêu cầu chargeback.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-094.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-094.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Ngân hàng phát hành đánh giá lại yêu cầu
 
@@ -162,4 +162,4 @@ Nếu tranh chấp vẫn tiếp tục, mạng thanh toán sẽ xem xét toàn b�
 
 Quy trình xử lý chargeback tại khách sạn có thể phức tạp và tốn thời gian, nhưng nếu bạn hiểu rõ quy trình và các mã lý do chargeback, bạn có thể giảm thiểu tổn thất tài chính và bảo vệ doanh thu của mình. Bằng cách cung cấp dịch vụ chất lượng cao, thông tin chính xác và minh bạch, bạn có thể giảm nguy cơ chargeback và xây dựng lòng tin từ khách hàng.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-453.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-453.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>

@@ -3,7 +3,7 @@ pubDatetime: 2021-04-11T10:10:00Z
 title: Ngôn ngữ hành vi giao tiếp của mèo và cách huấn luyện
 description: Nuôi mèo là một trải nghiệm tuyệt vời, nhưng để hiểu chúng thì không phải dễ dàng. Cùng tìm hiểu về ngôn ngữ hành vi giao tiếp của mèo.
 featured: false
-image: https://banmaixanh.org/image/cover/001-517.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-517.jpg
 tags:
   - viet lach
   - thu cung
@@ -28,7 +28,7 @@ Sự hung dữ của mèo có thể được hướng vào người hoặc các 
 
 Nếu con mèo của bạn đang hành động hung hăng, đó là một ý tưởng tốt để nói chuyện với bác sĩ thú y của bạn. Một số nguyên nhân có thể là chấn thương, bệnh tật hoặc thay đổi thói quen.
 
-<figure><img src="https://banmaixanh.org/image/article/cham-soc-cho-meo-107.jpg" alt="cham soc cho meo" title="cham soc cho meo" height=100% width=100%><figcaption><p>Hướng dẫn chăm sóc chó mèo đúng cách.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/cham-soc-cho-meo-107.jpg" alt="cham soc cho meo" title="cham soc cho meo" height=100% width=100%><figcaption><p>Hướng dẫn chăm sóc chó mèo đúng cách.</p></figcaption></figure>
 
 ### Vấn đề hộp cát
 
@@ -40,7 +40,7 @@ Nguyên nhân có thể là một cái gì đó rất đơn giản như con mèo
 
 Nghe có vẻ kỳ quặc, nhưng đánh dấu nước tiểu thực sự là một hình thức giao tiếp với mèo. Và vâng, đó là một hành vi riêng biệt với các vấn đề về hộp cát. Khi đánh dấu nước tiểu, con mèo của bạn thực sự phun nước tiểu – trộn với các hóa chất khác – để biểu thị sự hiện diện của chúng với những con mèo khác. Bạn thường có thể nhận ra sự khác biệt vì con mèo của bạn sẽ phun trên một bề mặt thẳng đứng, sẽ không có nhiều nước tiểu như bạn thấy trong một hộp cát và bạn có thể nhận thấy mùi hăng hơn.
 
-<figure><img src="https://banmaixanh.org/image/article/cham-soc-cho-meo-108.jpg" alt="cham soc cho meo" title="cham soc cho meo" height=100% width=100%><figcaption><p>Hướng dẫn chăm sóc chó mèo đúng cách.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/cham-soc-cho-meo-108.jpg" alt="cham soc cho meo" title="cham soc cho meo" height=100% width=100%><figcaption><p>Hướng dẫn chăm sóc chó mèo đúng cách.</p></figcaption></figure>
 
 ### Tiếng meo meo to, dai dẳng
 
@@ -62,7 +62,7 @@ Tất nhiên, đừng bao giờ bỏ qua tiếng khóc ban đêm của mèo nế
 
 Nếu bạn đồng hành mèo của bạn đang cào rèm cửa hoặc ghế dài, chúng không cố gắng làm phiền bạn. Họ chỉ đơn giản là chơi, làm việc thêm năng lượng, đánh dấu lãnh thổ của họ, hoặc thậm chí cố gắng để thoát khỏi những mảnh móng tay lỏng lẻo hoặc sờn của họ. Hãy thử mua một bài cào và ở trên đầu trang của chải chuốt.
 
-<figure><img src="https://banmaixanh.org/image/article/cham-soc-cho-meo-109.jpg" alt="cham soc cho meo" title="cham soc cho meo" height=100% width=100%><figcaption><p>Hướng dẫn chăm sóc chó mèo đúng cách.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/cham-soc-cho-meo-109.jpg" alt="cham soc cho meo" title="cham soc cho meo" height=100% width=100%><figcaption><p>Hướng dẫn chăm sóc chó mèo đúng cách.</p></figcaption></figure>
 
 ### Đánh sập mọi thứ
 
@@ -78,7 +78,7 @@ Bạn thực sự có thể đổ lỗi cho bạn của bạn về điều này?
 
 Mặc dù mục đích là để ngăn cản mèo của bạn ăn vặt trên cây trồng trong nhà của bạn, hãy chắc chắn rằng bạn tránh giữ bất kỳ loại cây nào độc hại cho mèo trong nhà. Điều đó nói rằng, bạn có thể cố gắng ngăn chặn người bạn mèo của mình đào cây trong nhà bằng cách đặt đá, nón thông, vỏ cam quýt hoặc nến thơm bị vỡ trong đất xung quanh cây của bạn.
 
-<figure><img src="https://banmaixanh.org/image/article/cham-soc-cho-meo-010.jpg" alt="cham soc cho meo" title="cham soc cho meo" height=100% width=100%><figcaption><p>Hướng dẫn chăm sóc chó mèo đúng cách.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/cham-soc-cho-meo-010.jpg" alt="cham soc cho meo" title="cham soc cho meo" height=100% width=100%><figcaption><p>Hướng dẫn chăm sóc chó mèo đúng cách.</p></figcaption></figure>
 
 ## Cách huấn luyện mèo
 
@@ -96,7 +96,7 @@ Thủ thật nuấn luyện là một trong những phương pháp hiệu quả 
 
 Bạn cũng có thể muốn thử điều chỉnh từ xa để ngăn chặn các hành vi không mong muốn. Kỹ thuật này liên quan đến việc ghép nối một chi tiết cảm giác khó chịu với một hành vi để ngăn mèo của bạn làm điều đó. Ví dụ, nếu bạn muốn giữ con mèo của bạn ra khỏi một kệ nhất định, bạn có thể thử đặt những quả bóng bông ngâm trong một mùi hương mà chúng không thích trên kệ. Một số mùi hương mà mèo né tránh bao gồm: sả, nước hoa, cam quýt, lô hội, bạch đàn và wintergreen.
 
-<figure><img src="https://banmaixanh.org/image/article/cham-soc-cho-meo-011.jpg" alt="cham soc cho meo" title="cham soc cho meo" height=100% width=100%><figcaption><p>Hướng dẫn chăm sóc chó mèo đúng cách.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/cham-soc-cho-meo-011.jpg" alt="cham soc cho meo" title="cham soc cho meo" height=100% width=100%><figcaption><p>Hướng dẫn chăm sóc chó mèo đúng cách.</p></figcaption></figure>
 
 Nếu bạn bước vào con mèo của bạn cư xử tồi tệ, âm thanh có thể là một biện pháp ngăn chặn rất hiệu quả. Bạn có thể thử huýt sáo, rung chuông, vỗ tay hoặc lắc một lọ tiền xu. Chỉ cần không sử dụng giọng nói của bạn, vì vậy con mèo của bạn không liên kết bạn với âm thanh đáng kinh ngạc đó.
 
@@ -108,8 +108,8 @@ Họ chắc chắn có thể! Hệ thống phần thưởng và nhấp chuột c
 
 Phải mất công sức, nhưng đào tạo nhà vệ sinh con mèo của bạn có thể được thực hiện. Bắt đầu bằng cách đặt hộp vệ sinh của mèo ngay bên cạnh nhà vệ sinh. Sử dụng ghế đẩu hoặc bề mặt chắc chắn khác, dần dần (miễn là mèo của bạn cảm thấy thoải mái với mỗi cấp độ) nâng nó lên cho đến khi hộp cát cùng mức với nhà vệ sinh.
 
-<figure><img src="https://banmaixanh.org/image/article/cham-soc-cho-meo-012.jpg" alt="cham soc cho meo" title="cham soc cho meo" height=100% width=100%><figcaption><p>Hướng dẫn chăm sóc chó mèo đúng cách.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/cham-soc-cho-meo-012.jpg" alt="cham soc cho meo" title="cham soc cho meo" height=100% width=100%><figcaption><p>Hướng dẫn chăm sóc chó mèo đúng cách.</p></figcaption></figure>
 
 Tiếp theo, thực sự đặt hộp cát lên trên bệ vệ sinh. Khi con mèo của bạn cảm thấy thoải mái với thiết lập đó, bạn có thể chuyển sang một hộp vệ sinh đặc biệt phù hợp ngay trong nhà vệ sinh – chỉ cần đảm bảo rằng bạn mua rác có thể xả được! Từ từ giảm lượng rác cho đến khi bạn của bạn không cần gì cả.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-610.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-610.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

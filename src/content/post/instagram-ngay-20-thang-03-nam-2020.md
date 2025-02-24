@@ -3,7 +3,7 @@ pubDatetime: 2020-03-07T10:10:00Z
 title: Bài viết trên Instagram ngày 20 tháng 03 năm 2020
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - viet lach
   - doan van
@@ -16,4 +16,4 @@ hôm nay mình lên văn phòng dọn dẹp rồi bưng dàn máy vê
 
 mình cảm thấy rằng những rủi ro hay bất trắc là những điều vô cùng dễ gặp trong giai đoạn này, chuẩn bị một chút bình tâm cùng một chút cẩn thận là điều vô cùng cần thiết để đem mọi thứ ổn định trở lại như lúc trước. mình cũng thật sự tin rằng, mọi chuyện dù có tăm tối đến nhường nào thì cũng có thể tốt hơn, đẹp hơn và đáng để trân trọng hơn, rất nhiều.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

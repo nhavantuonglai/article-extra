@@ -3,7 +3,7 @@ pubDatetime: 2023-01-06T10:10:00Z
 title: Dấu ngoặc đơn Gutenberg và kỷ nguyên AI
 description: Khi chúng ta bước vào thời đại của trí tuệ nhân tạo và internet, một báo in từ năm 1450 có thể dạy chúng ta điều gì về cách những công nghệ này sẽ phát triển và định hình xã hội của chúng ta?
 featured: false
-image: https://banmaixanh.org/image/cover/001-548.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-548.jpg
 tags:
   - ai
   - xu huong cong nghe
@@ -80,4 +80,4 @@ _AI là một cỗ máy cuối cùng có thể hiểu chúng ta khi chúng ta n�
 
 _Chúng ta phải thừa nhận những yếu đuối và thất bại của con người mà chúng ta mang lại cho các công nghệ này. Đó là những gì chúng tôi đang đề phòng. Không phải là công nghệ này nguy hiểm. Đó là chúng ta có thể nguy hiểm với nó._
 
-<figure><img src="https://banmaixanh.org/image/cover/001-548.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-548.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

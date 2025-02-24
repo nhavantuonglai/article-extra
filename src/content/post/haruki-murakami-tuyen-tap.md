@@ -3,7 +3,7 @@ pubDatetime: 2021-12-23T10:10:00Z
 title: Tuyển tập sách của nhà văn Haruki Murakami
 description: Haruki Murakami là một trong những tiểu thuyết gia, dịch giả văn học người Nhật Bản được biết đến nhiều nhất hiện nay cả trong lẫn ngoài nước Nhật.
 featured: true
-image: https://banmaixanh.org/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - viet lach
   - doan van
@@ -444,4 +444,4 @@ Phong cách viết của Haruki Murakami cũng được coi là đổi mới và
 
 Phong cách viết của Haruki Murakami là một sự đổi mới, sáng tạo và thách thức trong văn học Nhật Bản. Ông đã tạo ra một thế giới văn học riêng biệt, hấp dẫn và sâu sắc. Ông cũng đã góp phần làm giàu cho văn hóa, nghệ thuật và xã hội của Nhật Bản và thế giới. Ông là một trong những nhà văn hiện đại quan trọng nhất của Nhật Bản và của thế giới.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

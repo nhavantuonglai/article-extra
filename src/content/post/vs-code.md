@@ -3,7 +3,7 @@ pubDatetime: 2024-05-30T10:10:00Z
 title: Tìm hiểu toàn diện về Visual Studio Code
 description: Visual Studio Code là công cụ mạnh mẽ và phổ biến cho việc chỉnh sửa và quản lý mã nguồn, đặc biệt thích hợp với việc phát triển website.
 featured: false
-image: https://banmaixanh.org/image/cover/001-623.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-623.jpg
 tags:
   - webflow
   - website
@@ -58,4 +58,4 @@ Sau khi bạn đã đẩy các thay đổi lên GitHub, bước cuối cùng là
 
 Để kiểm tra, bạn có thể truy cập vào website trên GitHub Pages và thử nghiệm các tính năng vừa thay đổi, như kiểm tra giao diện, nội dung và chức năng. Nếu phát hiện bất kỳ lỗi nào, bạn có thể quay lại VS Code, chỉnh sửa và đẩy các thay đổi mới lên GitHub một cách dễ dàng.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-633.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-633.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

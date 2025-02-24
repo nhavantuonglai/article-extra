@@ -3,7 +3,7 @@ pubDatetime: 2023-01-24T10:10:00Z
 title: Tìm hiểu các công nghệ âm thanh (audiophile) hiện nay
 description: Công nghệ âm thanh đã phát triển vượt bậc trong những thập kỷ qua, từ âm thanh monophonic đơn giản đến các hệ thống âm thanh surround phức tạp.
 featured: false
-image: https://banmaixanh.org/image/cover/001-535.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-535.jpg
 tags:
   - viet lach
   - thuong thuc am thanh
@@ -26,7 +26,7 @@ _Công nghệ âm thanh đã phát triển vượt bậc trong những thập k�
 
 Âm thanh monophonic, hay mono, là loại âm thanh được phát ra từ một kênh duy nhất. Đây là hình thức âm thanh cơ bản và đơn giản nhất, thường được sử dụng trong các thiết bị âm thanh cổ điển và hệ thống âm thanh sơ khai.
 
-<figure><img src="https://banmaixanh.org/image/article/audiophile-01.jpg" alt="audiophile" title="audiophile" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/audiophile-01.jpg" alt="audiophile" title="audiophile" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
 ### Đặc điểm
 
@@ -72,7 +72,7 @@ _Công nghệ âm thanh đã phát triển vượt bậc trong những thập k�
 
 Âm thanh vòm, hay surround, là loại âm thanh sử dụng nhiều kênh để tạo ra một không gian âm thanh bao quanh người nghe. Đây là công nghệ âm thanh tiên tiến, thường được sử dụng trong rạp chiếu phim và hệ thống giải trí gia đình cao cấp.
 
-<figure><img src="https://banmaixanh.org/image/article/audiophile-02.jpg" alt="audiophile" title="audiophile" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/audiophile-02.jpg" alt="audiophile" title="audiophile" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
 ### Đặc điểm
 
@@ -90,7 +90,7 @@ _Công nghệ âm thanh đã phát triển vượt bậc trong những thập k�
 
 – Loa surround: Các loại loa được thiết kế đặc biệt để tạo ra âm thanh vòm.
 
-<figure><img src="https://banmaixanh.org/image/article/audiophile-03.jpg" alt="audiophile" title="audiophile" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/audiophile-03.jpg" alt="audiophile" title="audiophile" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
 ## Âm thanh Dolby
 
@@ -114,7 +114,7 @@ Dolby là một trong những thương hiệu nổi tiếng nhất trong lĩnh v
 
 – Dàn âm thanh gia đình: Hệ thống âm thanh gia đình tích hợp công nghệ Dolby Digital hoặc Dolby TrueHD.
 
-<figure><img src="https://banmaixanh.org/image/article/audiophile-04.jpg" alt="audiophile" title="audiophile" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/audiophile-04.jpg" alt="audiophile" title="audiophile" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
 ## Âm thanh Blu-ray
 
@@ -130,7 +130,7 @@ Dolby là một trong những thương hiệu nổi tiếng nhất trong lĩnh v
 
 – Ứng dụng trong giải trí gia đình: Sử dụng trong hệ thống giải trí gia đình cao cấp và rạp chiếu phim gia đình.
 
-<figure><img src="https://banmaixanh.org/image/article/audiophile-05.jpg" alt="audiophile" title="audiophile" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/audiophile-05.jpg" alt="audiophile" title="audiophile" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
 ### Thiết bị phù hợp
 
@@ -162,7 +162,7 @@ DTS (Digital Theater Systems) là một trong những công nghệ âm thanh ph�
 
 – Loa surround: Các loại loa được thiết kế đặc biệt để tái tạo âm thanh DTS.
 
-<figure><img src="https://banmaixanh.org/image/article/audiophile-06.jpg" alt="audiophile" title="audiophile" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/audiophile-06.jpg" alt="audiophile" title="audiophile" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
 ## Âm thanh Hi-res (High-Resolution)
 
@@ -212,4 +212,4 @@ DTS (Digital Theater Systems) là một trong những công nghệ âm thanh ph�
 
 Công nghệ âm thanh đã và đang không ngừng phát triển, mang lại những trải nghiệm âm thanh tuyệt vời hơn cho người dùng. Từ âm thanh monophonic đơn giản đến các hệ thống âm thanh surround phức tạp, mỗi công nghệ đều có những đặc điểm và ưu điểm riêng, phù hợp với từng nhu cầu sử dụng. Hy vọng bài viết này đã cung cấp cho bạn những thông tin hữu ích về các công nghệ âm thanh hiện đại và giúp bạn lựa chọn được thiết bị âm thanh phù hợp nhất cho mình.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-211.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-211.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

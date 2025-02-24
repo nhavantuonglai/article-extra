@@ -3,7 +3,7 @@ pubDatetime: 2023-01-25T10:10:00Z
 title: Quản lý đặt chỗ trong nhà hàng và những điều cần biết
 description: Tìm hiểu các chiến lược tiếp thị nhà hàng hiệu quả trong chuỗi bài viết sau của nhavantuonglai để áp dụng và đem lại hiệu quả thiết thực cho giải pháp của bạn.
 featured: false
-image: https://banmaixanh.org/image/cover/001-649.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-649.jpg
 tags:
   - viet thue
   - marketing
@@ -94,4 +94,4 @@ Về cơ bản, nguyên nhân gây nên những vấn đề trên là phía qu�
 
 Đặt chỗ trước trong nhà hàng là một công nghệ hiện đại, đem lại nhiều lợi ích cho nhà hàng. Cho nên, nếu bạn đang cần một sự thay đổi để tạo ra nhiều khác biệt, cụ thể là doanh thu cho nhà hàng thì đây là lúc để bắt đầu.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-300.jpg" alt="nha hang, am thuc." title="nha hang, am thuc." height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-300.jpg" alt="nha hang, am thuc." title="nha hang, am thuc." height=100% width=100%><figcaption><p></p></figcaption></figure>

@@ -3,7 +3,7 @@ pubDatetime: 2023-01-16T10:10:00Z
 title: Giới thiệu công cụ chuyển đổi font chữ facebook
 description: Công cụ chuyển đổi font chữ Facebook giúp người dùng chuẩn hóa, chuyển hóa dữ liệu đầu ra, phục vụ cho các mục đích nghiên cứu, marketing.
 featured: false
-image: https://banmaixanh.org/image/cover/001-535.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-535.jpg
 tags:
   - developer
   - javascript
@@ -40,4 +40,4 @@ Mới đây, nhavantuonglai đã chính thức ra mắt [công cụ chuyển đ�
 
 Để sử dụng, chỉ cần nhập văn bản thô cần chuyển đổi, sau đó bấm _Chuyển đổi_ thì ngay lập tức các định dạng font chữ Facebook sẽ hiển thị và người dùng có thể dễ dàng sao chép, sử dụng.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-164.jpg" alt="Ra mắt công cụ chuyển đổi font chữ Facebook." title="Ra mắt công cụ chuyển đổi font chữ Facebook." height=100% width=100%><figcaption></p>Ra mắt công cụ chuyển đổi font chữ Facebook.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-164.jpg" alt="Ra mắt công cụ chuyển đổi font chữ Facebook." title="Ra mắt công cụ chuyển đổi font chữ Facebook." height=100% width=100%><figcaption></p>Ra mắt công cụ chuyển đổi font chữ Facebook.</p></figcaption></figure>

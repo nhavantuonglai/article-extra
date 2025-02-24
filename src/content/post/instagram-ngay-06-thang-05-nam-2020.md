@@ -3,7 +3,7 @@ pubDatetime: 2020-05-07T10:10:00Z
 title: Bài viết trên Instagram ngày 06 tháng 05 năm 2020
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - viet lach
   - doan van
@@ -18,4 +18,4 @@ và thế, mình bấm máy, một cách tĩnh lặng và nhẹ nh
 
 ấy thế thú vị là, lần bấm ảnh ấy sau khi tráng lại cho ra một bức hình trong trẻo đến lạ kỳ, màu sắc làm tốt chuyện của màu sắc và ánh sáng trọn đường của ánh sáng, còn khung cảnh thì đơn giản là trọn vẹn rất nhiều trong đôi mắt của mình.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

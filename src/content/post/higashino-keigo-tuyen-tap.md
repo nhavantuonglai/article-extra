@@ -3,7 +3,7 @@ pubDatetime: 2006-02-18T10:10:00Z
 title: Tuyển tập sách của Higashino Keigo
 description: Higashino Keigo là tiểu thuyết gia trinh thám hàng đầu Nhật Bản với nhiều tác phẩm hàng triệu bản bán ra trong và ngoài nước, gặt hái vô vàn giải thưởng.
 featured: true
-image: https://banmaixanh.org/image/cover/001-297.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-297.jpg
 tags:
   - viet lach
   - doan van
@@ -188,4 +188,4 @@ Watanabe làm việc cho một công ty xây dựng, đang bước vào tuổi t
 
 Một cuộc gặp tình cờ với cậu bé Esaki Kyohei trên xe lửa đã đưa đẩy Yukawa Manabu, một phó giáo sư vật lý đang đi dự hội nghị, tới nghỉ tại quán trọ buồn hiu mang tên Lục Nham Trang, để rồi bị cuốn vào số phận những con người nơi đó. Cái chết của người khách trọ Tsukahara Masatsugu, cựu cảnh sát hình sự thuộc Sở Cảnh sát Tokyo dưới vách đá gần biển Harigaura buộc cảnh sát phải lục lại hồ sơ một vụ án xảy ra cách đó mười sáu năm, nhưng Yukawa Manabu, vị _thám tử Galileo_ đã nhận ra những điều bất thường quanh đó. Một bí mật tưởng chừng đã bị chôn sâu dưới đáy biển Harigaura đang chờ khám phá, mà cội nguồn của nó có thể kéo về tận Tokyo nhiều năm về trước.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-292.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-292.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

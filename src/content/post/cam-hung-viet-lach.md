@@ -3,7 +3,7 @@ pubDatetime: 2024-02-16T10:10:00Z
 title: Hướng dẫn viết lách sáng tạo, khai thác cảm hứng mới
 description: Cảm hứng viết thôi thì chưa đủ, bạn sẽ cần thêm sự sáng tạo và khả năng đột phá ý tưởng để biến chúng thành những bài viết chất lượng cao.
 featured: false
-image: https://banmaixanh.org/image/cover/001-199.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-199.jpg
 tags:
   - viet lach
   - ky nang viet
@@ -33,7 +33,7 @@ Dù thích hay không thì, đó vẫn là thực tế mà mọi người đang 
 
 Nên trong hiện tại, điều này cũng gần tương tự, chỉ khác là có thêm nhiều lựa chọn và chúng cũng cạnh tranh trực tiếp với phim ảnh, và cũng chừng ấy lựa chọn được đưa lên bàn cân để so đo với sách vở, văn chương. Vì vậy, bản chất viết lách vẫn trường tồn, khẳng định được giá trị của chúng theo thời gian và năm tháng, bất kể điều gì có xảy ra đi chăng nữa.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-087.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-087.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ### Đi tìm cảm hứng viết lách
 
@@ -47,7 +47,7 @@ Một trong những thách thức lớn nhất với các nhà văn là tìm c�
 
 – Thư giãn. Đôi khi, bước ra khỏi dòng chảy sáng tạo và chạy bộ, hoặc chơi thể thao sẽ giúp bạn sáng tạo hơn, bởi chúng khiến tinh thần trở nên thoáng đạt và ý tứ dồi dào hơn.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-088.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-088.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Các cách để cải thiện kỹ năng viết lách
 
@@ -65,7 +65,7 @@ Không nên giữ bản thân trong vòng tròn an toàn với văn phong thân 
 
 Trở thành một phần của [cộng đồng](https://nhavantuonglai.com/article) chung niềm đam mê sẽ là động lực lớn lao giúp bạn hoàn thiện kỹ năng viết lách của bản thân hơn. Chúng cũng là cơ hội để bạn học hỏi, tiếp thu những kiến thức, kỹ năng viết lách mới và áp dụng cho phù hợp với hành trình viết mà mình đang theo đuổi.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-089.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-089.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ### Biên tập tác phẩm của bạn (thêm lần nữa)
 
@@ -81,10 +81,10 @@ Một trong những nhà văn Việt Nam nổi tiếng nhất là Nguyễn Nhậ
 
 Một ví dụ khác là nhà văn người Mỹ gốc Việt, Ocean Vuong, người có cuốn tiểu thuyết đầu tay, _On Earth we're briefly gorgeous,_ đã nhận được sự hoan nghênh của giới phê bình và đã được dịch sang nhiều ngôn ngữ.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-090.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-090.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Kết luận
 
 Viết lách về bản chất, không giới hạn người tiếp cận và thực hiện, nên dù bạn là ai, bao nhiêu tuổi, có nền tảng viết lách hay chưa thì vẫn có thể viết lách được, và thông qua viết – bạn sẽ giải phóng sự sáng tạo của bản thân.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-749.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-749.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

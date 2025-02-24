@@ -3,7 +3,7 @@ pubDatetime: 2021-12-29T10:10:00Z
 title: Hygge và Friluftsliv không chỉ là xu hướng, chúng còn là những triết lý
 description: Không có hồi kết cho các triết lý về việc sống một cuộc sống tốt đẹp, cũng như không có hồi kết cho những người muốn bán cho bạn một chương trình để làm điều đó.
 featured: false
-image: https://banmaixanh.org/image/cover/001-541.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-541.jpg
 tags:
   - viet lach
   - triet ly song
@@ -58,4 +58,4 @@ Trong khi các nhà xuất bản đang tranh cãi xem liệu _hygge_ hay _friluf
 
 Có sự mỉa mai trong việc gọi _thiên nhiên_ là một lối sống, khi xét đến việc đó là nơi tất cả chúng ta khởi nguồn. Tất nhiên chúng ta sẽ hạnh phúc và khỏe mạnh hơn trong một môi trường đã sinh ra chúng ta. Đã đến lúc tắt màn hình và trở về nơi chúng ta thuộc về.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-318.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-318.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

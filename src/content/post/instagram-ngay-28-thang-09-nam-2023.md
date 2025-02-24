@@ -3,7 +3,7 @@ pubDatetime: 2023-09-28T10:10:00Z
 title: Bài viết trên Instagram ngày 28 tháng 09 năm 2023
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-227.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-227.jpg
 tags:
   - viet lach
   - doan van
@@ -20,4 +20,4 @@ những dịp khác, lúc băng lối đường mòn trong rừng, hoặc khi đ
 
 cơ mà, những chuyện trên không hề liên quan đến nhau, cả những chi tiết xảy ra lẫn con người được nhắc đến, chúng thường tồn tại độc lập và riêng lẻ, với một đời sống riêng. nhưng đôi khi, từng chuyện như vậy sẽ lặp lại, trong hành trình ai đó đồng hành cùng mình lên rừng mỗi độ hè đến.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-222.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-222.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

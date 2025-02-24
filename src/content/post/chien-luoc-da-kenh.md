@@ -3,7 +3,7 @@ pubDatetime: 2022-02-20T10:10:00Z
 title: Chiến lược bán phòng đa kênh cho khách sạn
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
 featured: false
-image: https://banmaixanh.org/image/cover/001-749.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-749.jpg
 tags:
   - viet thue
   - marketing
@@ -31,7 +31,7 @@ Khi tích hợp hệ thống phần mềm quản lý khách sạn, trạng thái
 
 Thời gian tiết kiệm được, khách sạn có thể nâng cao hình ảnh và thương hiệu, thông qua việc làm mới không gian, chăm chút dịch vụ, và tìm hiểu thị hiếu của khách hàng để đáp ứng trọn vẹn.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-110.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-110.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Hạn chế khi bán phòng qua kênh OTA
 
@@ -53,7 +53,7 @@ Thứ hai, xác định đúng kênh để phát triển việc bán phòng cho 
 
 Cuối cùng, là [sử dụng các giải pháp quản lý khách sạn](https://nhavantuonglai.com/article), giúp đồng bộ hiệu quả các kênh đặt phòng, giúp tiếp nhận và đồng bộ thông tin giữa các kênh OTA được liền mạch và thông suốt. Nếu không có phần mềm quản lý, khách sạn phải cập nhật thủ công trạng thái đặt phòng, lịch đóng mở phòng. Khi sử dụng, các thao tác này đều sẽ được cập nhật nhất quán, giảm được tình trạng overbooking, chênh lệch giá phòng giữa các kênh…
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-111.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-111.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Bán phòng qua website khách sạn
 
@@ -81,7 +81,7 @@ Bên cạnh đó, khách sạn cũng cần có chiến lược Marketing để t
 
 Cuối cùng, khách sạn cần đồng bộ giá và phòng trống giữa website khách sạn và các kênh bán phòng khác. Bởi khi nhìn thấy chênh lệch giá giữa các kênh, khách hàng sẽ cảm thấy không thoải mái vì không biết nên đặt phòng ở đâu là rẻ nhất, và đặt phòng hiện tại thì có bị hớ hay không.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-112.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-112.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Bán phòng qua Website như thế nào cho hiệu quả?
 
@@ -115,4 +115,4 @@ Chính vì thế, khách sạn cần tìm kiếm, lựa chọn đơn vị xây d
 
 Tổng kết lại, để bán phòng đa kênh hiệu quả, thì ngoài việc chuẩn bị nội dung, thông tin để chia sẻ đến khách hàng; thì vấn đề đồng bộ đa kênh theo thời gian thực (tức thời) tự động khi có lượt booking mới là rất cần thiết và quan trọng, đóng góp và sự thành bại của việc kinh doanh. Cho nên, khách sạn cũng cần tìm hiểu, tham khảo và lựa chọn phần mềm quản lý khách sạn phù hợp, tích hợp đầy đủ tính năng để giúp việc bán phòng đạt được nhiều hiệu quả như mong muốn hơn.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-517.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-517.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>

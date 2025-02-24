@@ -3,7 +3,7 @@ pubDatetime: 2006-01-07T10:10:00Z
 title: Gián điệp mạng
 description: Gián điệp mạng kể về nhà khoa học chuyển nghề thành chuyên gia mạng, truy tìm hacker tại Phòng Thí nghiệm Lawrence Berkeley, California, Mỹ.
 featured: false
-image: https://banmaixanh.org/image/cover/001-485.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-485.jpg
 tags:
   - clifford stoll
   - gian diep mang
@@ -194,4 +194,4 @@ Cliff Stoll – Matthews cliff@cfa.harvard.edu.
 
 Đọc [Gián điệp mạng, toàn tập](https://banmaixanh.org/ebook/gian-diep-mang.pdf) tại đây.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-210.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-210.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

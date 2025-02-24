@@ -3,7 +3,7 @@ pubDatetime: 2021-05-07T10:10:00Z
 title: Bài viết trên Instagram ngày 06 tháng 05 năm 2021
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-323.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-323.jpg
 tags:
   - viet lach
   - doan van
@@ -24,4 +24,4 @@ rồi những lần mưa bất chợt trên Thiên Mụ ngày hè, mấy phút t
 
 và khi tất cả những điều ấy sinh động trong tầm mắt, mình chợt nhận ra thành phố này thật tinh tế, khi gợi hoài niệm và cảm xúc thật đong đầy cho người bạn cũ lúc trở về…
 
-<figure><img src="https://banmaixanh.org/image/cover/001-310.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-310.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

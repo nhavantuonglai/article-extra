@@ -3,7 +3,7 @@ pubDatetime: 2022-05-25T10:10:00Z
 title: 6 cách cải thiện hoạt động bộ phận lễ tân khách sạn
 description: Lễ tân có trách nhiệm chào đón khách, trả lời các câu hỏi và giải quyết mọi vấn đề có thể phát sinh trong suốt kỳ nghỉ của họ.
 featured: false
-image: https://banmaixanh.org/image/cover/001-554.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-554.jpg
 tags:
   - viet thue
   - marketing
@@ -27,7 +27,7 @@ Lễ tân có trách nhiệm chào đón khách, trả lời các câu hỏi và
 
 Ngoài ra, lễ tân còn xử lý các nhiệm vụ như đặt phòng, nhận và trả phòng của khách, và đáp ứng các yêu cầu đặc biệt trước, trong và sau khi lưu trú. Họ cũng quản lý việc ghi chép, bao gồm cập nhật hồ sơ và thông tin khách, đồng thời xử lý các yêu cầu dịch vụ khác nhau trong suốt cả ngày.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-080.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-080.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Cách cải thiện hoạt động lễ tân của bạn
 
@@ -59,7 +59,7 @@ Sử dụng đánh giá của khách như phản hồi quý giá. Xác định c
 
 Tận dụng kinh nghiệm của đội ngũ lễ tân của bạn bằng cách để họ dẫn dắt các buổi đào tạo trong các lĩnh vực chuyên môn của họ. Luôn tìm kiếm cơ hội phát triển nghề nghiệp bằng cách tham dự các hội thảo trực tuyến do các nhà cung cấp công nghệ khách sạn tổ chức để cập nhật các công cụ và kỹ thuật mới nhằm nâng cao hoạt động lễ tân.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-081.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-081.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Tìm hiểu về khu vực địa phương
 
@@ -89,7 +89,7 @@ Thanh toán đại diện cho một trong những lĩnh vực có ảnh hưởng
 
 Thêm vào đó, một PMS tạo điều kiện quản lý các đặt phòng nhóm hiệu quả và tự động hóa các khía cạnh chính của quy trình nhận phòng và trả phòng, chẳng hạn như cắt chìa khóa, kiểm tra hộ chiếu và thanh toán. Tự động hóa giúp nhân viên của bạn dành ít thời gian hơn trước màn hình và nhiều thời gian hơn để tạo ra các trải nghiệm khách hàng độc đáo và đáng nhớ.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-082.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-082.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Kết luận
 
@@ -101,4 +101,4 @@ Tự động hóa sẽ giảm thiểu lỗi và giải phóng thời gian cho b�
 
 Hơn nữa, khách hàng hài lòng có xu hướng chi tiêu nhiều hơn, điều này có thể làm tăng ADR của bạn cùng với các đánh giá tích cực từ khách. Đừng chỉ tin vào lời của chúng tôi – hãy khám phá các câu chuyện thành công của khách hàng của chúng tôi hoặc, tốt hơn nữa, đặt một buổi demo với một trong những chuyên gia của chúng tôi để khám phá cách bạn có thể nâng cao hoạt động lễ tân của khách sạn.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-314.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-314.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>

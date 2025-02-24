@@ -3,7 +3,7 @@ pubDatetime: 2019-03-07T10:10:00Z
 title: Bài viết trên Instagram ngày 23 tháng 03 năm 2019
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - viet lach
   - doan van
@@ -22,4 +22,4 @@ nói là gần để từ chối bắt taxi, nhưng thực ra không phải, mà
 
 mà cũng lâu rồi mình chưa quay trở lại, cũng không biết dịp nào mới sẽ ra lại hay không. bạn mình bảo, thương nhớ một nơi là bởi ở đó có người khiến mình thương nhớ. nhưng giờ nơi ấy bạn bè mình đi gần hết, mình tự hỏi liệu khi mình tới, thành phố có trở nên trống rỗng trong lòng mình hay không, thì sao mình biết được nhỉ?
 
-<figure><img src="https://banmaixanh.org/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

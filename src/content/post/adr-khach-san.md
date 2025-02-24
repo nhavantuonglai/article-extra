@@ -3,7 +3,7 @@ pubDatetime: 2022-01-13T10:10:00Z
 title: 10 phương pháp hiệu quả để tăng ADR cho khách sạn của bạn
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
 featured: false
-image: https://banmaixanh.org/image/cover/001-329.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-329.jpg
 tags:
   - viet thue
   - marketing
@@ -35,7 +35,7 @@ Bài viết sau sẽ có cái nhìn tổng quan về chỉ số này, cũng như
 
 Tóm lại, chỉ những phòng cho khách thuê thành công mới được tính vào ADR. Chỉ số này có thể tính toán theo tháng, năm hoặc quý theo yêu cầu và kế hoạch của khách sạn.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-021.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-021.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## ADR trong khách sạn là gì?
 
@@ -77,7 +77,7 @@ Việc theo dõi, phân tích đối thủ theo cách thủ công thường khô
 
 Cách tốt nhất là sử dụng các công cụ công nghệ, ví dụ như Google Travel để tham khảo giá trong khu vực. Theo đó, bạn có thể điều chỉnh giá phòng (nếu cần thiết) theo giá chung của thị trường trong khu vực.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-022.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-022.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Chiến lược giá tối ưu
 
@@ -121,7 +121,7 @@ Dù bạn có thích hay không, thì cổng tự phục vụ (self-service port
 
 Cổng tự phục vụ cho phép khách hàng tạo hồ sơ, cập nhật thông tin, đăng ký dịch vụ đưa đón và dịch vụ phòng… Đây là giải pháp hỗ trợ phục vụ khách hàng của khách sạn, đồng thời cũng tăng ADR bởi các dịch vụ bổ sung trong mọi giai đoạn tương tác, tức là trước – trong và sau khi đến khách sạn.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-023.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-023.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Cung cấp dịch vụ miễn phí cho khách
 
@@ -159,4 +159,4 @@ Cuối cùng, hãy ưu tiên tự động hóa bằng công nghệ với các gi
 
 Nếu bạn cần cải thiện ADR cho khách sạn, câu trả lời đã có ở trên đây. Một khi thực hiện theo, chắc chắn bạn sẽ nhận nhiều lượt đặt phòng hơn, tăng ADR và công suất phòng của khách sạn.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-614.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-614.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>

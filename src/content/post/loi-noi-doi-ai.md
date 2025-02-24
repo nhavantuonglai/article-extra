@@ -3,7 +3,7 @@ pubDatetime: 2023-01-04T10:10:00Z
 title: Tại sao AI là một lời nói dối béo bở
 description: Tất cả sự cường điệu xung quanh trí tuệ nhân tạo đều hiểu sai trí thông minh thực sự là gì. Và AI chắc chắn, chắc chắn sẽ không bao giờ giết chết bạn.
 featured: false
-image: https://banmaixanh.org/image/cover/001-296.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-296.jpg
 tags:
   - ai
   - xu huong cong nghe
@@ -168,4 +168,4 @@ Bây giờ, những tín đồ nổi tiếng về công nghệ nói trên là nh
 
 Và quan trọng nhất, đừng điều chỉnh về _AI_! Công nghệ rất cần quy định trong một số lĩnh vực nhất định, ví dụ, để giải quyết sự thiên vị trong việc ra quyết định thuật toán và phát triển vũ khí tự trị – thường sử dụng học máy – vì vậy sự rõ ràng là hoàn toàn quan trọng trong các cuộc thảo luận này. Sử dụng thuật ngữ không chính xác, gây hiểu lầm _trí tuệ nhân tạo_ gây bất lợi nghiêm trọng cho hiệu quả và độ tin cậy của bất kỳ sáng kiến nào điều chỉnh công nghệ. Quy định đã đủ cứng mà không làm bùn nước.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-111.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-111.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

@@ -3,7 +3,7 @@ pubDatetime: 2022-05-26T10:10:00Z
 title: Quản lý chiều dài của thời gian lưu trú tối thiểu để tăng thêm doanh thu trong khách sạn
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
 featured: false
-image: https://banmaixanh.org/image/cover/001-517.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-517.jpg
 tags:
   - viet thue
   - marketing
@@ -35,7 +35,7 @@ Như thế, nếu du khách ở lại càng lâu, chi phí khấu hao và vận 
 
 _Chiều dài của thời gian lưu trú tối thiểu là chiến lược bán phòng được chứng minh hiệu quả, khi vừa sắp xếp và bán phòng hợp lý, lại vừa đảm bảo doanh thu bán phòng luôn được tối ưu và cải thiện dựa trên điều kiện nhu cầu thực tế._
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-020.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-020.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Tầm quan trọng của chiều dài của thời gian lưu trú tối thiểu trong khách sạn
 
@@ -75,7 +75,7 @@ MaxLOS (Maximum Length Of Stay) là chiến lược giới hạn thời gian lư
 
 Để tăng doanh thu cho khách sạn bằng MaxLOS bằng cách tạo gói giá đặt biệt, thu hút du khách đặt phòng để nhận giá ưu đãi. Chiến lược này phù hợp khi áp dụng vào mùa du lịch thấp điểm, thời gian mà khách sạn ít nhận lượt đặt phòng tại khách sạn.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-021.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-021.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Cách áp dụng chiều dài của thời gian lưu trú tối thiểu để có doanh thu tốt hơn tại khách sạn
 
@@ -95,8 +95,8 @@ Dưới đây sẽ là 5 bước để khai thác hiệu quả chiến lược c
 
 Tương tự như nhiều chiến lược giá, điều chỉnh giá phòng khách sạn khác – chúng thường được triển khai thủ công, và luôn có giải pháp để tự động hóa. Thông qua [phần mềm quản lý khách sạn](https://nhavantuonglai.com/article) và các [kênh bán phòng trực tuyến](https://nhavantuonglai.com/article), các khách sạn có thể áp dụng giới hạn chiều dài của thời gian lưu trú tối thiểu và tối đa cho mỗi lượt đặt phòng khách sạn. Dựa vào đó, các khách sạn có thể linh hoạt áp dụng nhiều chính sách giá, gói dịch vụ… cho mỗi lượt đặt phòng khách sạn trong từng thời điểm nhất định.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-022.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-022.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 Khi áp dụng công nghệ khách sạn vào quản lý, sẽ giúp khách sạn tiết kiệm thời gian, công sức thực hiện các thao tác thủ công, lặp lại, từ đó dành thời gian để ưu tiên chăm sóc khách hàng tốt hơn. Đây cũng là cách tăng tỷ lệ lấp đầy, và bán phòng tốt hơn, từ đó mà cải thiện doanh thu khách sạn của bạn.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-610.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-610.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>

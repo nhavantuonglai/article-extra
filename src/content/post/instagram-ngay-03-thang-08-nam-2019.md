@@ -3,7 +3,7 @@ pubDatetime: 2019-03-07T10:10:00Z
 title: Bài viết trên Instagram ngày 03 tháng 08 năm 2019
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - viet lach
   - doan van
@@ -20,4 +20,4 @@ hạt tương tư lần đầu mình biết là qua người bạn, chỉ nơi n
 
 hơi buồn lòng vì điều ấy, nhưng mình còn cơ hội cuối cùng, khi nghe ở bên Nông Lâm có hẳn mấy cây, toàn thân lớn với chẳng ai ngó ngàng. biết vậy nên tranh thủ lúc chiều chưa tắt nắng, vội vội vàng vàng qua Nông Lâm mà tìm. may mắn làm sao khi cây ở đó và hạt cũng ở đó luôn, mình dành khoảng thời gian ít ỏi cuối cùng trong ngày, để tìm và bỏ đầy chai nước yến, đem về rửa sạch rồi đưa cùng hành trang lên đường, đợi ngày gặp bạn rồi trao tận tay…
 
-<figure><img src="https://banmaixanh.org/image/cover/001-132.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-132.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

@@ -3,7 +3,7 @@ pubDatetime: 2023-07-06T10:10:00Z
 title: Tại sao đào tạo nhân viên là chìa khóa thành công của tiệm Spa
 description: Tìm hiểu các chiến lược tiếp thị Spa hiệu quả trong chuỗi bài viết sau của nhavantuonglai để áp dụng và đem lại hiệu quả thiết thực cho giải pháp của bạn.
 featured: false
-image: https://banmaixanh.org/image/cover/001-727.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-727.jpg
 tags:
   - viet thue
   - marketing
@@ -49,4 +49,4 @@ Bằng cách cung cấp cơ hội đào tạo và giúp nhân viên của bạn 
 
 Cuối cùng, nhiều chủ tiệm Spa thường băn khoăn việc tuyển dụng, đào tạo và giữ chân nhân viên thì sẽ tốn kém, không đảm bảo việc nhân viên sẽ ở lại. Nhưng hãy nghĩ dài hơn, khi có trong tay một đội ngũ nhân viên trung thành, chất lượng thì thương hiệu cũng sẽ trở nên vững mạnh và lan xa hơn.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-543.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-543.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

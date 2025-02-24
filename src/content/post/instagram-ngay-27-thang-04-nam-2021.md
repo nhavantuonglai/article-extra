@@ -3,7 +3,7 @@ pubDatetime: 2021-04-07T10:10:00Z
 title: Bài viết trên Instagram ngày 27 tháng 04 năm 2021
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-321.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-321.jpg
 tags:
   - viet lach
   - doan van
@@ -22,4 +22,4 @@ nhưng đừng vì sợ đi lạc mà ta cứ đứng yên, bởi 
 
 mà cả khi, chúng ta đi trong một hành trình vô định giữa xung quanh là bóng tối, chỉ cần bản thân mình tin rằng phía trước là ánh sáng, chỉ cần một ai đó ở bên để chia sẻ rằng họ luôn theo dõi. thì hành trình ấy – hành trình khám phá chính mình – sẽ đi đến tận cùng để ta cảm nhận trọn vẹn cái gọi là hạnh phúc…
 
-<figure><img src="https://banmaixanh.org/image/cover/001-256.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-256.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

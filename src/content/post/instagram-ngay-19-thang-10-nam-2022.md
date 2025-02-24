@@ -3,7 +3,7 @@ pubDatetime: 2022-10-19T10:10:00Z
 title: Bài viết trên Instagram ngày 19 tháng 10 năm 2022
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-122.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-122.jpg
 tags:
   - viet lach
   - doan van
@@ -22,4 +22,4 @@ thấy mình nghĩ vu vơ nhiều mà chẳng biết nghĩ nhiều thế để l
 
 dù hiểu thông điệp bạn truyền tải, nhưng việc nghĩ vu vơ không để làm gì vẫn còn đó. có lẽ mình cần thêm thời gian rõ mục đích sao lại nghĩ thế, hoặc vu vơ ấy dần nhạt nhoà. nhưng trong hiện tại cũng cần phải viết ra, để sau là biết có những ngày những khi nghĩ như thế này…
 
-<figure><img src="https://banmaixanh.org/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

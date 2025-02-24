@@ -3,7 +3,7 @@ pubDatetime: 2023-02-10T10:10:00Z
 title: Xây dựng các tiêu chuẩn nhà hàng để nâng cao trải nghiệm thực khách
 description: Tìm hiểu các chiến lược tiếp thị nhà hàng hiệu quả trong chuỗi bài viết sau của nhavantuonglai để áp dụng và đem lại hiệu quả thiết thực cho giải pháp của bạn.
 featured: false
-image: https://banmaixanh.org/image/cover/001-397.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-397.jpg
 tags:
   - viet thue
   - marketing
@@ -90,4 +90,4 @@ Với từng nhà hàng sẽ có từng tiêu chuẩn riêng, phù hợp với m
 
 Điều quan trọng là bạn phải biết tiêu chuẩn nào cần thiết, tiêu chuẩn nào không với khách sạn của mình. Vì rõ ràng, sẽ có những tiêu chí đo lường phù hợp với mô hình nào đó chứ không phải với nhà hàng của bạn. Việc áp dụng vô tội vạ, không linh hoạt điều chỉnh sẽ khiến nhà hàng của bạn vận hành cồng kềnh, kém hiệu quả hơn bao giờ hết.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-300.jpg" alt="nha hang, am thuc." title="nha hang, am thuc." height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-300.jpg" alt="nha hang, am thuc." title="nha hang, am thuc." height=100% width=100%><figcaption><p></p></figcaption></figure>

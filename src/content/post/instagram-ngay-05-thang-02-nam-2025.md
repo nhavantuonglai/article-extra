@@ -3,7 +3,7 @@ pubDatetime: 2025-02-05T10:10:00Z
 title: Bài viết trên Instagram ngày 24 tháng 02 năm 2024
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-225.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-225.jpg
 tags:
   - viet lach
   - doan van
@@ -25,4 +25,4 @@ là một người từng lăn lộn cả tuổi trẻ với NGOs, tiếp cận 
 
 vậy nên, khi USAID phải đóng cửa đột ngột, chúng giống như bản hợp đồng với nhiều giao kèo còn dang dở bị xé vụn, nguồn lực và chuyên gia rời đi, ngân sách chẳng được cấp; các tổ chức và dự án hiện tại phải tự xoay sở hoặc chấp nhận dừng lại. đó vừa có thể là khủng hoảng, nhưng cũng là cơ hội để những giá trị và tinh thần tốt đẹp nhất mà USAID lẫn nhiều tổ chức khác đang theo đuổi, sẽ được tiếp nối trong một hình thức khác.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-221.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-221.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

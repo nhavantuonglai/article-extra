@@ -3,7 +3,7 @@ pubDatetime: 2021-06-07T10:10:00Z
 title: Bài viết trên Instagram ngày 15 tháng 06 năm 2021
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - viet lach
   - doan van
@@ -20,4 +20,4 @@ hôm nay mọi người ăn trưa lặng lẽ, góc văn phòng vốn đã chia 
 
 dù mình cực thích yên lặng, nhưng những lúc thế này, những khi yên lặng không mời mà đến, đến phá cái bầu không khí vốn đã trong lành thoải mái từ trước đó, thì mình chẳng thích một chút nào. tất nhiên, một giây phút nào khác, mình sẽ tận hưởng cảm giác đầy riêng tư này, nhưng ấy chẳng bao giờ là điều mình muốn. sự ồn ào nào đã có, mình mong nó tiếp tục; sôi động ở đâu mà thành, hãy cứ vậy mà quay lại…
 
-<figure><img src="https://banmaixanh.org/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

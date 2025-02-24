@@ -3,7 +3,7 @@ pubDatetime: 2023-01-24T10:10:00Z
 title: Tuyển tập sách của Nguyễn Ngọc Tư
 description: Cánh đồng bất tận bao gồm những truyện hay và mới nhất của nhà văn Nguyễn Ngọc Tư. Đây là tác phẩm đang gây xôn xao trong đời sống văn học, bởi ở đó người ta tìm thấy sự dữ dội, khốc liệt.
 featured: true
-image: https://banmaixanh.org/image/cover/001-683.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-683.jpg
 tags:
   - viet lach
   - doan van
@@ -144,4 +144,4 @@ Họ tìm kiếm tự do, buông mình khỏi những nơi chốn, khỏi hiện
 
 Ngọn đèn không tắt là bức tranh sinh động về thanh niên hôm nay trên mọi mặt đời sống; là tập truyện ngắn vừa hấp dẫn vừa thuyết phục. Với giọng văn mộc mạc bình dị, với ngôn ngữ đời thường đã tạo nên một không khí rất tự nhiên về màu sắc, hương vị của mảnh đất cuối cùng tổ quốc. Qua ngòi bút của Nguyễn Ngọc Tư, những con người lam lũ giản dị, bộc trực ấy chứa bên trong cả một tâm hồn vừa nhân hậu vừa tinh tế qua cách đối nhân xử thế.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-712.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-712.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

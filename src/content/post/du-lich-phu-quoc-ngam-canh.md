@@ -3,7 +3,7 @@ pubDatetime: 2021-09-26T10:10:00Z
 title: Tips chọn khách sạn đẹp để ngắm cảnh Phú Quốc
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
 featured: false
-image: https://banmaixanh.org/image/cover/001-661.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-661.jpg
 tags:
   - viet thue
   - marketing
@@ -96,4 +96,4 @@ Bên cạnh đó, bạn còn có thể trải nghiệm xe bus đưa đón miễn
 
 Danh sách trên đây là những lựa chọn, gợi ý hấp dẫn dành cho bạn khi muốn trải nghiệm du lịch Phú Quốc, tips chọn khách sạn đẹpPhú Quốc để ngắm cảnh để chuyến đi mà bạn nhắm đến sẽ trở nên thú vị và hấp dẫn.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-310.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-310.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

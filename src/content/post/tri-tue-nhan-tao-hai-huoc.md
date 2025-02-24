@@ -3,7 +3,7 @@ pubDatetime: 2023-01-07T10:10:00Z
 title: Trí tuệ nhân tạo có thể cười không?
 description: Mục sư Tad Lindley ở Alaska đã xuất bản một bài luận chỉ ra các dấu hiệu của chủ nghĩa vô thần cấp độ thấp.
 featured: false
-image: https://banmaixanh.org/image/cover/001-688.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-688.jpg
 tags:
   - viet lach
   - xa hoi hoc
@@ -59,4 +59,4 @@ Có ai khác cảm thấy sự giải phóng opioid nội sinh sau khi bước v
 
 Tôi sẽ quay lại The Laughing Room và đặt những câu hỏi này cho A.I. nhưng – tôi phải thú nhận – một phần trong tôi vẫn lo ngại rằng nó chỉ đơn giản đáp lại bằng _ồ wow trái cây._
 
-<figure><img src="https://banmaixanh.org/image/cover/001-539.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-539.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

@@ -3,7 +3,7 @@ pubDatetime: 2021-02-01T10:10:00Z
 title: 5 loại driver tai nghe người chơi âm thanh nên biết
 description: Headphone driver là một trong những yếu tố quan trọng nhất quyết định chất lượng âm thanh của tai nghe.
 featured: false
-image: https://banmaixanh.org/image/cover/001-430.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-430.jpg
 tags:
   - viet lach
   - thuong thuc am thanh
@@ -358,4 +358,4 @@ Angled drivers cải thiện trải nghiệm âm thanh bằng cách tối ưu h�
 
 Headphone driver là một yếu tố quan trọng quyết định chất lượng âm thanh của tai nghe. Mỗi loại driver có những ưu và nhược điểm riêng, phù hợp với các mục đích sử dụng khác nhau. Hiểu rõ về các loại headphone driver sẽ giúp bạn chọn lựa tai nghe phù hợp và tận hưởng âm nhạc một cách tốt nhất.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-211.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-211.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

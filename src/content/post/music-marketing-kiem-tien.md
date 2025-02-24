@@ -3,7 +3,7 @@ pubDatetime: 2022-12-28T10:10:00Z
 title: Tại sao kiếm tiền từ âm nhạc không nên chỉ là giai điệu đẹp?
 description: Âm nhạc thường được coi là một hình thức giải trí và thư giãn thuần túy, đặc biệt là bởi ngành công nghiệp khách sạn, thường sử dụng nó như một giá trị gia tăng cảm giác.
 featured: false
-image: https://banmaixanh.org/image/cover/001-299.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-299.jpg
 tags:
   - viet lach
   - doan van
@@ -195,4 +195,4 @@ Tổng quan, kiếm tiền từ âm nhạc có nhịp thấp dẫn đến các k
 
 Cuối cùng, âm nhạc, là một phần không thể thiếu của cuộc sống chúng ta, có thể thậm chí cho phép chúng ta hiểu rõ hơn các quyết định chúng ta đưa ra trên thị trường tài chính và cách nó ảnh hưởng đến cuộc sống hàng ngày của chúng ta khi chỉ đơn giản là xếp hàng ở ngân hàng hoặc nghe nhạc khi mua cổ phiếu trực tuyến.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-281.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-281.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

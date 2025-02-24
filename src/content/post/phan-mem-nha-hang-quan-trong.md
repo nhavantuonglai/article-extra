@@ -3,7 +3,7 @@ pubDatetime: 2023-02-06T10:10:00Z
 title: Tầm quan trọng của phần mềm quản lý nhà hàng
 description: Tìm hiểu các chiến lược tiếp thị nhà hàng hiệu quả trong chuỗi bài viết sau của nhavantuonglai để áp dụng và đem lại hiệu quả thiết thực cho giải pháp của bạn.
 featured: false
-image: https://banmaixanh.org/image/cover/001-548.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-548.jpg
 tags:
   - viet thue
   - marketing
@@ -90,4 +90,4 @@ Thân thiện là yếu tố quan trọng nhất nhì phải có với phần m�
 
 Một hệ thống không có nhiều vấn đề khi vận hành, tích hợp là ước mơ của nhiều người. Vai trò quản lý, cũng như nhân viên sẽ không phải lo lắng về việc phần mềm mà họ tin tưởng lại hoạt động không đúng như họ mong muốn. Điều quan trọng là phần mềm phải giúp tiết kiệm thời gian, giải quyết được vấn đề ngay cả trước khi nó xảy ra. Đáp ứng được điều này, không chỉ nhân viên mà khách hàng của bạn cũng sẽ hài lòng, từng bước tạo nên thành công cho nhà hàng, và sự hài lòng cho bản thân người quản lý.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-310.jpg" alt="nha hang, am thuc." title="nha hang, am thuc." height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-310.jpg" alt="nha hang, am thuc." title="nha hang, am thuc." height=100% width=100%><figcaption><p></p></figcaption></figure>

@@ -3,7 +3,7 @@ pubDatetime: 2023-12-24T10:10:00Z
 title: Bài viết trên Instagram ngày 26 tháng 11 năm 2023
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-111.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-111.jpg
 tags:
   - viet lach
   - doan van
@@ -20,4 +20,4 @@ vậy là, mình đành học cách sống hòa hợp, ẻm Cát không thay đ�
 
 có vẻ hơi khập khiểng và kỳ cục khi so sánh con nít với thú cưng, nhưng với mình thì chúng đều là những mối quan hệ cho đi mà không mong cần nhận lại. mình thấy điều ấy ở ba mẹ mình, những người làm ba làm mẹ xung quanh mình; họ chấp nhận như vậy, sẵn lòng đem đến những gì tốt nhất của bản thân và dành cho con cái họ. đó có thể đơn thuần là trách nhiệm; nhưng cũng đâu đó là bài học, phải đến khi nuôi mèo hay có con thì mình mới thật sự học, thật sự hiểu hết được.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-145.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-145.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

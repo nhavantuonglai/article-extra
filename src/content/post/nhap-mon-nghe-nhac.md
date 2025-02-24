@@ -3,7 +3,7 @@ pubDatetime: 2021-02-09T10:10:00Z
 title: Nhập môn thưởng thức âm thanh (audiophile)
 description: Thưởng thức âm thanh là một nghệ thuật và khoa học, giúp bạn tận hưởng những giai điệu tinh tế từ các thiết bị âm thanh.
 featured: false
-image: https://banmaixanh.org/image/cover/001-501.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-501.jpg
 tags:
   - viet lach
   - thuong thuc am thanh
@@ -32,7 +32,7 @@ Tai nghe là một trong những thiết bị quan trọng để thưởng thứ
 
 – Tai nghe không dây: Thoải mái, dễ sử dụng nhưng cần sạc pin.
 
-<figure><img src="https://banmaixanh.org/image/article/audiophile-01.jpg" alt="audiophile" title="audiophile" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/audiophile-01.jpg" alt="audiophile" title="audiophile" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
 ### Loa
 
@@ -48,7 +48,7 @@ Loa là thiết bị không thể thiếu trong dàn âm thanh gia đình. Chấ
 
 Bộ khuếch đại âm thanh giúp tăng cường tín hiệu âm thanh, làm cho âm thanh trở nên rõ ràng và mạnh mẽ hơn. Chọn bộ khuếch đại phù hợp với loa và không gian nghe nhạc của bạn.
 
-<figure><img src="https://banmaixanh.org/image/article/audiophile-02.jpg" alt="audiophile" title="audiophile" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/audiophile-02.jpg" alt="audiophile" title="audiophile" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
 ## Cách chọn thiết bị âm thanh phù hợp
 
@@ -66,13 +66,13 @@ Trước khi mua thiết bị âm thanh, bạn cần xác định rõ nhu cầu 
 
 Ngân sách cũng là một yếu tố quan trọng. Bạn nên xác định số tiền có thể chi để lựa chọn thiết bị phù hợp.
 
-<figure><img src="https://banmaixanh.org/image/article/audiophile-03.jpg" alt="audiophile" title="audiophile" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/audiophile-03.jpg" alt="audiophile" title="audiophile" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
 ### Thử trước khi mua
 
 Nếu có thể, hãy thử thiết bị trước khi mua để đảm bảo chất lượng âm thanh phù hợp với sở thích cá nhân.
 
-<figure><img src="https://banmaixanh.org/image/article/audiophile-04.jpg" alt="audiophile" title="audiophile" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/audiophile-04.jpg" alt="audiophile" title="audiophile" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
 ## Tối ưu không gian nghe nhạc
 
@@ -114,7 +114,7 @@ Chất lượng file nhạc ảnh hưởng lớn đến trải nghiệm nghe nh�
 
 Chọn nguồn âm nhạc uy tín để đảm bảo chất lượng âm thanh. Các dịch vụ stream nhạc chất lượng cao như Tidal, Qobuz là lựa chọn tốt.
 
-<figure><img src="https://banmaixanh.org/image/article/audiophile-05.jpg" alt="audiophile" title="audiophile" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/audiophile-05.jpg" alt="audiophile" title="audiophile" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
 ## Thưởng thức âm nhạc
 
@@ -126,10 +126,10 @@ Thưởng thức âm nhạc không chỉ là nghe âm thanh mà còn là lắng 
 
 Tạo thói quen nghe nhạc hàng ngày giúp bạn thư giãn, giảm căng thẳng và tận hưởng cuộc sống.
 
-<figure><img src="https://banmaixanh.org/image/article/audiophile-06.jpg" alt="audiophile" title="audiophile" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/audiophile-06.jpg" alt="audiophile" title="audiophile" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
 ## Kết luận
 
 Thưởng thức âm thanh là một hành trình khám phá đầy thú vị. Hy vọng qua bài viết này, bạn đã nắm bắt được những kiến thức cơ bản để bắt đầu hành trình này. Hãy chọn cho mình những thiết bị âm thanh phù hợp, tối ưu không gian nghe nhạc và tận hưởng những giai điệu tuyệt vời.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-211.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-211.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

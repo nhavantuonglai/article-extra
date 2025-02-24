@@ -3,7 +3,7 @@ pubDatetime: 2021-10-24T10:10:00Z
 title: Những rủi ro tiềm ẩn khi không bảo mật dữ liệu, thông tin cá nhân trên mạng
 description: Khi dữ liệu, thông tin cá nhân bị lộ, các hacker hoặc tội phạm mạng có thể sử dụng chúng để thực hiện các hành vi lừa đảo, đánh cắp tiền bạc và nhiều thứ khác nữa.
 featured: false
-image: https://banmaixanh.org/image/cover/001-540.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-540.jpg
 tags:
   - viet lach
   - developer
@@ -151,4 +151,4 @@ Nhiều quốc gia hiện nay đã ban hành các luật bảo vệ dữ liệu,
 
 Ngoài ra, bạn cũng cần biết cách nhờ sự hỗ trợ của các cơ quan chức năng khi gặp phải các vấn đề liên quan đến việc lộ hoặc bị đánh cắp dữ liệu, thông tin cá nhân. Điều này không chỉ giúp bạn bảo vệ quyền lợi của mình, mà còn tránh được những rủi ro pháp lý không đáng có khi sử dụng dữ liệu, thông tin cá nhân của người khác mà không được phép.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-144.jpg" alt="Bảo vệ dữ liệu, thông tin cá nhân trên mạng." title="Bảo vệ dữ liệu, thông tin cá nhân trên mạng." height=100% width=100%><figcaption><p>Bảo vệ dữ liệu, thông tin cá nhân trên mạng.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-144.jpg" alt="Bảo vệ dữ liệu, thông tin cá nhân trên mạng." title="Bảo vệ dữ liệu, thông tin cá nhân trên mạng." height=100% width=100%><figcaption><p>Bảo vệ dữ liệu, thông tin cá nhân trên mạng.</p></figcaption></figure>

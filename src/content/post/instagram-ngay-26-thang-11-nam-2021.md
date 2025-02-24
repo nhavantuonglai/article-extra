@@ -3,7 +3,7 @@ pubDatetime: 2021-11-26T10:10:00Z
 title: Đặc quyền của người đang buồn
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - viet lach
   - doan van
@@ -22,4 +22,4 @@ xem chừng, nỗi buồn mỗi người là mỗi khác, nên cách đối mặ
 
 hẳn nhiên điều ấy không tuyệt đối trong mọi trường hợp, nhưng đôi lần khi buồn mà nghĩ vậy, mình lại thấy được an ủi hơn rất nhiều. nên những khi bạn quanh mình gặp chuyện buồn, mình lại cho bạn chút đặc quyền nho nhỏ, không phải dễ làm tổn thương nhau hơn, mà là dễ chấp nhận sự khác biệt và khiếm khuyết của nhau nhiều hơn.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-118.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-118.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

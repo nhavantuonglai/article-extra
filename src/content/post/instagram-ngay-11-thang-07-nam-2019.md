@@ -3,7 +3,7 @@ pubDatetime: 2019-07-07T10:10:00Z
 title: Bài viết trên Instagram ngày 11 tháng 07 năm 2019
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - viet lach
   - doan van
@@ -16,4 +16,4 @@ xong bạn tiếp tục kể, thế anh đọc Hoàng Tử Bé chưa, có một
 
 nhưng mà, như cậu ấy thì – bông hồng ấy là bông hồng quan trọng nhất của cậu ấy. nên rằng, cậu muốn quay trở về với hành tinh của cậu, để trong thế giới quan mà cậu có – thì đó luôn là điều quan trọng nhất. dù có đỏng đảnh kiêu kỳ đến bao nhiêu, thì đó vẫn luôn là bông hồng của cậu; bởi nó là một, là riêng, vẫn là duy nhất của cậu mà thôi. có phải chăng em cũng nên như vậy, thu hẹp thế giới quan của riêng mình, để nhận ra đâu là điều quan trọng nhất, có giá trị nhất để em theo đuổi không ngừng nghỉ?mình vẫn im lặng không nói gì, bởi màn độc thoại của em cũng hàm chứa biết bao câu trả lời cho vấn đề mà em gặp phải rồi.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

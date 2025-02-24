@@ -3,7 +3,7 @@ pubDatetime: 2021-02-19T10:10:00Z
 title: Cách thưởng thức âm nhạc hiệu quả
 description: Thưởng thức âm nhạc là một trải nghiệm tinh tế, đòi hỏi sự tập trung và hiểu biết để cảm nhận đầy đủ các cung bậc cảm xúc mà âm nhạc mang lại.
 featured: false
-image: https://banmaixanh.org/image/cover/001-533.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-533.jpg
 tags:
   - viet lach
   - thuong thuc am thanh
@@ -129,4 +129,4 @@ _Thưởng thức âm nhạc là một trải nghiệm tinh tế, đòi hỏi s�
 
 Thưởng thức âm nhạc là một nghệ thuật, đòi hỏi sự tinh tế và hiểu biết. Bằng cách chuẩn bị môi trường nghe nhạc lý tưởng, chọn thiết bị phù hợp, tập trung lắng nghe và hiểu sâu về âm nhạc, bạn sẽ có những trải nghiệm âm nhạc tuyệt vời và trọn vẹn. Hãy tận hưởng từng khoảnh khắc âm nhạc và để âm nhạc làm phong phú thêm cuộc sống của bạn.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-211.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-211.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

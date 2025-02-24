@@ -3,7 +3,7 @@ pubDatetime: 2022-07-11T10:10:00Z
 title: Bài viết trên Instagram ngày 11 tháng 07 năm 2022
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-133.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-133.jpg
 tags:
   - viet lach
   - doan van
@@ -20,4 +20,4 @@ biết vậy, nên mình nghĩ khác đi, không cho bản thân hiểu đ
 
 đó là một quá trình đầy nhẫn nại với bản thân, và cũng cần sự nhẫn nại từ người khác, bởi đâu phải ai cũng cho mình cơ hội sửa sai, sửa lại mớ bòng bong đã tạo ra đâu. nhưng dù sao thì, mình từng thích truyện Hoàng Tử Bé vì câu chuyện, rồi nhận ra bản thân hời hợt thế nào bởi chưa nhận ra được ẩn sau đó là vô vàn bài học thú vị, thì giờ cũng đã đến lúc quay trở lại những điều đơn giản đã từng nghĩ.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

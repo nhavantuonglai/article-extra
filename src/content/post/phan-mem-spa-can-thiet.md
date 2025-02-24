@@ -3,7 +3,7 @@ pubDatetime: 2023-07-08T10:10:00Z
 title: Tại sao phần mềm quản lý Spa lại cần thiết?
 description: Tìm hiểu các chiến lược tiếp thị Spa hiệu quả trong chuỗi bài viết sau của nhavantuonglai để áp dụng và đem lại hiệu quả thiết thực cho giải pháp của bạn.
 featured: false
-image: https://banmaixanh.org/image/cover/001-713.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-713.jpg
 tags:
   - viet thue
   - marketing
@@ -155,4 +155,4 @@ Tính năng chuyển đổi dữ liệu cho tiệm Spa thường sẽ bao gồm 
 
 Nếu bạn không biết bắt đầu từ đâu, hãy truy cập phần trợ giúp. Chắc chắn rằng, việc sử dụng phần mềm sẽ luôn có vấn đề, do vậy hãy tìm kiếm nhà cung cấp hỗ trợ và chăm sóc khách hàng dài hạn. Bằng cách đó, sẽ luôn có người hỗ trợ khi bạn có thắc mắc.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-510.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-510.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

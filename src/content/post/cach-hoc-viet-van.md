@@ -3,7 +3,7 @@ pubDatetime: 2021-03-29T10:10:00Z
 title: Hướng dẫn viết lách sáng tạo, đột phá nhiều ý tưởng
 description: Viết văn là một kỹ năng quý báu, không chỉ giúp chúng ta biểu đạt cảm xúc, tư tưởng mà còn là công cụ quan trọng trong giao tiếp và sáng tạo.
 featured: false
-image: https://banmaixanh.org/image/cover/001-335.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-335.jpg
 tags:
   - viet lach
   - ky nang viet
@@ -25,7 +25,7 @@ Lớp học [viết văn](https://nhavantuonglai.com/article) thường được
 
 – Lớp nâng cao: Dành cho những học viên đã có nền tảng vững chắc, giúp họ hoàn thiện kỹ năng viết, sáng tác các tác phẩm phức tạp hơn như tiểu thuyết, kịch bản, và các bài luận chuyên sâu.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-115.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-115.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Nội dung giảng dạy
 
@@ -53,7 +53,7 @@ Phương pháp học tập trong lớp học viết văn thường rất đa d�
 
 – Đọc và phân tích: Học viên sẽ được yêu cầu đọc các tác phẩm văn học, sau đó phân tích và thảo luận về các kỹ thuật viết, ý nghĩa và phong cách của tác giả. Điều này giúp họ hiểu sâu hơn về nghệ thuật viết văn và áp dụng vào bài viết của mình.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-116.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-116.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Lợi ích của lớp học viết văn
 
@@ -69,7 +69,7 @@ Lớp học viết văn mang lại nhiều lợi ích thiết thực cho học v
 
 – Mở rộng [cơ hội việc làm viết lách](https://nhavantuonglai.com/article): Kỹ năng viết tốt là một lợi thế lớn trong nhiều lĩnh vực nghề nghiệp, từ báo chí, truyền thông, marketing đến giáo dục và nghiên cứu. Học viên có thể áp dụng kỹ năng này vào công việc hiện tại hoặc tìm kiếm những cơ hội nghề nghiệp mới.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-117.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-117.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Kinh nghiệm từ các lớp học viết văn nổi tiếng
 
@@ -81,7 +81,7 @@ Nhiều lớp học viết văn nổi tiếng trên thế giới đã giúp đ�
 
 – Lớp học viết văn trực tuyến của Coursera: Coursera cung cấp nhiều khóa học viết văn trực tuyến từ các trường đại học hàng đầu như Stanford, University of Melbourne. Các khóa học này giúp học viên từ khắp nơi trên thế giới có cơ hội tiếp cận với các phương pháp giảng dạy hiện đại và nội dung phong phú.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-118.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-118.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Các bước để tham gia lớp học viết văn
 
@@ -95,7 +95,7 @@ Nhiều lớp học viết văn nổi tiếng trên thế giới đã giúp đ�
 
 – Trang bị công cụ: Đảm bảo bạn có các công cụ cần thiết như máy tính, sổ tay, phần mềm soạn thảo văn bản và tài liệu tham khảo. Các công cụ này sẽ hỗ trợ bạn trong quá trình học tập và thực hành viết.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-119.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-119.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Những thách thức khi học viết văn
 
@@ -107,10 +107,10 @@ Học viết văn không phải lúc nào cũng dễ dàng, bạn sẽ gặp ph�
 
 – Khó khăn trong việc duy trì động lực: Viết văn là một hành trình dài và đôi khi bạn có thể cảm thấy mất động lực. Hãy duy trì thói quen viết hàng ngày, tìm cảm hứng từ các tác phẩm văn học, và không ngừng nhắc nhở bản thân về mục tiêu ban đầu.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-120.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-120.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Kết luận
 
 [Lớp học viết văn](https://nhavantuonglai.com/article) là một môi trường lý tưởng để học viên phát triển kỹ năng viết lách, tư duy sáng tạo và khả năng giao tiếp. Với cấu trúc lớp học rõ ràng, nội dung giảng dạy phong phú, và phương pháp học tập đa dạng, học viên sẽ có cơ hội rèn luyện và hoàn thiện khả năng viết văn của mình. Bên cạnh đó, những lợi ích thiết thực như cải thiện tư duy, giảm căng thẳng, và mở rộng cơ hội nghề nghiệp càng làm cho việc tham gia lớp học viết văn trở nên đáng giá hơn bao giờ hết. Hãy bắt đầu hành trình viết văn của bạn ngay hôm nay và khám phá những tiềm năng sáng tạo vô hạn bên trong bạn.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-244.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-244.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

@@ -3,7 +3,7 @@ pubDatetime: 2022-02-21T10:10:00Z
 title: Bạn đã đánh giá lại chiến lược giá khách sạn của mình chưa?
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
 featured: false
-image: https://banmaixanh.org/image/cover/001-649.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-649.jpg
 tags:
   - viet thue
   - marketing
@@ -33,7 +33,7 @@ Cho nên, để định giá hiệu quả, bạn cần phải hiểu cách nó v
 
 Và đó là chính xác những gì được trình bày trong bài viết sau.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-015.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-015.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Tại sao các khách sạn cần chiến lược giá?
 
@@ -65,7 +65,7 @@ Hẳn câu trả lời thế nào bạn đã rõ.
 
 Tuy nhiên, nếu bạn nghĩ chiến lược giá này là không công bằng với khách hàng, thì bạn đã lầm. Bạn luôn có thể nâng cao trải nghiệm, bù đắp và xứng đáng với số tiền họ bỏ ra. Hơn nữa, chi phí vận hành khách sạn không hề nhỏ. Hãy lợi nhuận hóa mọi thứ để duy trì và mở rộng quy mô khách sạn của mình.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-016.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-016.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Làm thế nào để xác định chiến lược giá hiện tại là sai lầm?
 
@@ -89,7 +89,7 @@ Chính xác vấn đề ở đây, là phân tích thị trường khách sạn 
 
 Cho nên, nếu bạn chưa thực hiện bất kỳ khảo sát, phân tích thị trường nào, thì chắc chắn – khách sạn đang tụt hậu. Bởi không để ý đến đối thủ là một sai lầm lớn trong chiến lược định giá trong kinh doanh khách sạn.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-017.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-017.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Giá phòng không phù hợp với phân khúc
 
@@ -117,7 +117,7 @@ Khách sạn cần phải phân tích hoạt động của nó trong vài năm t
 
 Đồng thời, các con số này sẽ cho biết là mục tiêu kinh doanh mà trước đó đề ra có thực tế, có đạt được như mong muốn hay không. Nếu không, cần làm rõ đâu là nguyên do, sự cố nào khiến chúng không đạt như ý.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-018.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-018.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Không có chính sách hủy đặt phòng
 
@@ -151,4 +151,4 @@ Cách tốt nhất để [cải thiện và tăng doanh thu khách sạn](https:
 
 Khách sạn cần phải có hệ thống quản lý doanh thu, hoặc dịch vụ quản lý doanh thu trong khách sạn của mình. Sử dụng công cụ này, giúp bạn phân tích được dữ liệu nội bộ, đánh giá thị trường và nhu cầu của khách hàng… nhằm tối ưu giá và cải thiện phòng tồn.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-614.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-614.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>

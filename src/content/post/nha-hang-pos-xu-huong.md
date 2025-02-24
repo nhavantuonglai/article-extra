@@ -3,7 +3,7 @@ pubDatetime: 2023-02-08T10:10:00Z
 title: Tìm hiểu những xu hướng hiện tại và tương lai của hệ thống POS cho nhà hàng
 description: Tìm hiểu các chiến lược tiếp thị nhà hàng hiệu quả trong chuỗi bài viết sau của nhavantuonglai để áp dụng và đem lại hiệu quả thiết thực cho giải pháp của bạn.
 featured: false
-image: https://banmaixanh.org/image/cover/001-517.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-517.jpg
 tags:
   - viet thue
   - marketing
@@ -92,4 +92,4 @@ Xu hướng này có thể khó tăng độ phủ trong vài năm tới trong ng
 
 Hệ thống POS đang tạo điều kiện cho một số xu hướng mới trong ngành, từ tự đặt hàng cho đến đặt hàng bằng giọng nói, xác thực danh tính, hay không dùng tiền mặt. Để khai thác tối đa lợi ích từ hệ thống POS đem lại, đòi hỏi các giải pháp phải nắm bắt và đuổi kịp các xu hướng mới, cũng như chú ý đến sự thay đổi trong tương lai gần.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-610.jpg" alt="nha hang, am thuc." title="nha hang, am thuc." height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-610.jpg" alt="nha hang, am thuc." title="nha hang, am thuc." height=100% width=100%><figcaption><p></p></figcaption></figure>

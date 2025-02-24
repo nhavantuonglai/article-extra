@@ -3,7 +3,7 @@ pubDatetime: 2020-10-07T10:10:00Z
 title: Bài viết trên Instagram ngày 10 tháng 10 năm 2020
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - viet lach
   - doan van
@@ -22,4 +22,4 @@ những gì em đang hướng đến là hàm chứa mong muốn m
 
 đó cũng có thể coi là sự bù trừ khi không phải ai cũng có thể theo đuổi, có trọn mọi điều mình muốn. nhưng suy rộng ra, nó cũng là sự gặp gỡ, thúc đẩy nhau để thêm mạnh mẽ vào con đường đã chọn ở phía trước…
 
-<figure><img src="https://banmaixanh.org/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

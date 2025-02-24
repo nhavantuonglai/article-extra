@@ -3,7 +3,7 @@ pubDatetime: 2022-09-09T10:10:00Z
 title: Các phương pháp tiếp cận sáng tạo để kết nối với khách hàng B2B của bạn
 description: Thương mại điện tử đang phát triển và thế giới tiếp thị B2B cũng vậy. Nó đã thay đổi hoàn toàn cách chúng tôi tương tác với khán giả của mình.
 featured: false
-image: https://banmaixanh.org/image/cover/001-249.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-249.jpg
 tags:
   - b2b
   - marketing
@@ -185,4 +185,4 @@ Hãy nhớ rằng trong bối cảnh năng động này, những gì hoạt đ�
 
 Khi chúng ta kết luận, hãy biết rằng cuộc hành trình không thực sự kết thúc ở đây; nó chỉ dừng lại một chút. Thế giới tiếp thị B2B là một bánh xe không ngừng đổi mới và kết nối. Nắm lấy nó, thích nghi với nó và xem thương hiệu của bạn phát triển mạnh trong lĩnh vực khả năng thú vị này.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-216.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-216.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

@@ -3,7 +3,7 @@ pubDatetime: 2022-03-25T10:10:00Z
 title: Bài viết trên Instagram ngày 25 tháng 03 năm 2022
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-347.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-347.jpg
 tags:
   - viet lach
   - doan van
@@ -24,4 +24,4 @@ mình không rõ Sơn Trà tịnh viên đã có từ bao giờ, bởi từ lâu
 
 mình cũng không biết Sơn Trà tịnh viên sẽ tồn tại được thêm bao lâu nữa, bởi sư thầy đang ngày một già đi, và nơi đây cũng chỉ có sư với đàn chó quây quần; nên những khi đứng dưới tán trúc và nhìn xung quanh, nhìn vào thành quả mà sư gây dựng, mình thật mong những ngày còn ở Đà Nẵng, thì đây vẫn còn như lúc ban đầu mới ghé qua.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-132.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-132.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

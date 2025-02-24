@@ -3,7 +3,7 @@ pubDatetime: 2019-05-07T10:10:00Z
 title: Bài viết trên Instagram ngày 30 tháng 05 năm 2019
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - viet lach
   - doan van
@@ -20,4 +20,4 @@ trong cuộc trò chuyện trước lúc chia tay, có đứa mà mình coi vô 
 
 nhưng rồi cảm giác lạc lõng đến mức cô đơn lạ kỳ vẫn theo đuổi đến giờ, mình thấy lạc lõng khi không thể kết nối với các cộng sự trong công việc, khoảng cách làm mọi tâm tư đều trở nên mơ hồ, có lẽ một phần bởi sự cứng đầu mà mình tiếp tục theo đuổi, và một phần bởi mình không giỏi mở lòng hòa nhập cùng với mọi người…
 
-<figure><img src="https://banmaixanh.org/image/cover/001-221.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-221.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

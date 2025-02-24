@@ -3,7 +3,7 @@ pubDatetime: 2021-10-16T10:10:00Z
 title: Bom nguyên tử, cuộc lưu đày và thử thách về tình anh em
 description: Sự khác biệt trong cách suy nghĩ về việc ai nên kiểm soát những công nghệ mới đầy sức mạnh đã đẩy hai anh em đi theo những con đường khác nhau.
 featured: false
-image: https://banmaixanh.org/image/cover/001-765.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-765.jpg
 tags:
   - khoa hoc
   - sinh hoc
@@ -179,4 +179,4 @@ _Nếu chúng ta ngừng cố gắng hiểu mọi thứ, chúng ta sẽ chìm s�
 
 Để điều hướng mặt tối của khoa học, tôi nghĩ rằng sẽ cần chú ý sát sao đến tất cả những điều này. _Thế giới thực_ mà chúng ta đang đối mặt không phải là cách mà mọi thứ nhất định phải như vậy. Chúng ta không nên trở thành những kẻ đê tiện. Chúng ta không bao giờ được ngừng quan sát hoặc ngừng cố gắng hiểu rõ.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-626.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-626.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

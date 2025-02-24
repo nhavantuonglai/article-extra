@@ -3,7 +3,7 @@ pubDatetime: 2021-01-25T10:10:00Z
 title: Nhập môn bộ khuếch đại âm than chất lượng cao (audiophile)
 description: Bộ khuếch đại âm thanh là thiết bị quan trọng trong hệ thống âm thanh, giúp tăng cường tín hiệu âm thanh từ nguồn phát đến loa.
 featured: false
-image: https://banmaixanh.org/image/cover/001-532.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-532.jpg
 tags:
   - viet lach
   - thuong thuc am thanh
@@ -26,7 +26,7 @@ _Bộ khuếch đại âm thanh là thiết bị quan trọng trong hệ thống
 
 Mạch khuếch đại âm thanh là phần tử cơ bản trong bất kỳ bộ khuếch đại âm thanh nào, có nhiệm vụ tăng cường tín hiệu âm thanh từ nguồn phát. Mạch này bao gồm các linh kiện điện tử như transistor, op-amp, và các bộ phận khác.
 
-<figure><img src="https://banmaixanh.org/image/article/audiophile-01.jpg" alt="audiophile" title="audiophile" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/audiophile-01.jpg" alt="audiophile" title="audiophile" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
 ### Ưu điểm
 
@@ -74,7 +74,7 @@ Amply (amplifier) là một loại bộ khuếch đại âm thanh phổ biến, 
 
 – Người sử dụng tại gia: Phù hợp với hệ thống âm thanh gia đình, mang lại trải nghiệm nghe nhạc tuyệt vời.
 
-<figure><img src="https://banmaixanh.org/image/article/audiophile-02.jpg" alt="audiophile" title="audiophile" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/audiophile-02.jpg" alt="audiophile" title="audiophile" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
 ## Loa bluetooth
 
@@ -96,7 +96,7 @@ Loa bluetooth là thiết bị âm thanh không dây sử dụng công nghệ bl
 
 – Thời gian pin hạn chế: Cần sạc pin định kỳ để sử dụng.
 
-<figure><img src="https://banmaixanh.org/image/article/audiophile-03.jpg" alt="audiophile" title="audiophile" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/audiophile-03.jpg" alt="audiophile" title="audiophile" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
 ### Phù hợp với ai và tình huống nào
 
@@ -136,7 +136,7 @@ Khuếch đại tín hiệu âm thanh là quá trình tăng cường tín hiệu
 
 DAC (digital-to-analog converter) là thiết bị chuyển đổi tín hiệu âm thanh từ dạng số sang dạng analog. DAC được sử dụng để cải thiện chất lượng âm thanh từ các nguồn phát kỹ thuật số như máy tính, điện thoại, và đầu đĩa CD.
 
-<figure><img src="https://banmaixanh.org/image/article/audiophile-04.jpg" alt="audiophile" title="audiophile" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/audiophile-04.jpg" alt="audiophile" title="audiophile" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
 ### Ưu điểm
 
@@ -166,7 +166,7 @@ DAC (digital-to-analog converter) là thiết bị chuyển đổi tín hiệu �
 
 – Hiệu suất: Cả hai đều cung cấp hiệu suất cao, nhưng amply thường dễ sử dụng hơn.
 
-<figure><img src="https://banmaixanh.org/image/article/audiophile-05.jpg" alt="audiophile" title="audiophile" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/audiophile-05.jpg" alt="audiophile" title="audiophile" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
 – Giá cả: Amply thường có giá thành cao hơn do tính tiện lợi và tích hợp sẵn nhiều chức năng.
 
@@ -202,7 +202,7 @@ Trước khi mua bộ khuếch đại âm thanh, bạn cần xác định rõ nh
 
 Ngân sách cũng là yếu tố quan trọng. Bạn cần xác định số tiền có thể chi để lựa chọn bộ khuếch đại âm thanh phù hợp với nhu cầu và khả năng tài chính.
 
-<figure><img src="https://banmaixanh.org/image/article/audiophile-06.jpg" alt="audiophile" title="audiophile" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/audiophile-06.jpg" alt="audiophile" title="audiophile" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
 ### Thử trước khi mua
 
@@ -226,4 +226,4 @@ Denon là thương hiệu bộ khuếch đại âm thanh được nhiều ngư�
 
 Bộ khuếch đại âm thanh là thiết bị quan trọng giúp bạn tận hưởng âm nhạc và phim ảnh một cách tốt nhất. Việc lựa chọn loại bộ khuếch đại âm thanh phù hợp phụ thuộc vào nhu cầu, sở thích và ngân sách của mỗi người. Hy vọng qua bài viết này, bạn đã có được cái nhìn tổng quan về các loại bộ khuếch đại âm thanh phổ biến hiện nay và có thể lựa chọn được chiếc bộ khuếch đại âm thanh ưng ý nhất cho mình.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-211.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-211.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

@@ -3,7 +3,7 @@ pubDatetime: 2024-03-13T10:10:00Z
 title: Đôi khi, tuyệt vọng cũng là một phần của hạnh phúc
 description: Và rồi, họ sống bên nhau, hạnh phúc mãi về sau. Lật cuốn truyện cổ tích nào, hay nhớ về lời kể trước giờ đi ngủ mà ta thường ngủ trước khi chuyện đi quá nửa, đa số đoạn kết đều như vậy.
 featured: false
-image: https://banmaixanh.org/image/cover/001-321.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-321.jpg
 tags:
   - viet lach
   - doan van
@@ -23,4 +23,4 @@ Tiếp theo nữa, nếu hạnh phúc là quá trình thì mọi điều cấu t
 
 Vậy cho nên, biết vui biết buồn, biết lạc quan biết tuyệt vọng cũng là biết hạnh phúc là gì; khi can đảm chấp nhận vấn đề của bản thân và sẵn sàng vượt qua chúng cũng là lúc chúng ta sẵn sàng đón nhận hạnh phúc vào tầm tay. Bởi vậy, nếu trong lúc này bạn không thấy hạnh phúc, thì sai rồi, chỉ là chưa thấy mà thôi.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-321.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-321.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

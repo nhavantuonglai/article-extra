@@ -3,7 +3,7 @@ pubDatetime: 2020-11-07T10:10:00Z
 title: Bài viết trên Instagram ngày 20 tháng 11 năm 2020
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - viet lach
   - doan van
@@ -22,4 +22,4 @@ email gửi trước khi dọn dẹp và rời khỏi Đà Nẵng, mi
 
 và có lẽ, đó là lần cuối, là kênh cuối cùng mà mình có thể giao tiếp với bạn; bởi hiện tại, điều lãng mạn kia nay thành lãng xẹt, thành phố bạn sống thì nay đã chứa thêm mình, nhưng trong lòng mình thì bạn đã rời đi từ lúc nào rồi…
 
-<figure><img src="https://banmaixanh.org/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

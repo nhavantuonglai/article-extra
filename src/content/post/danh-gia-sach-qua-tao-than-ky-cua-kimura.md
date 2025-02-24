@@ -3,7 +3,7 @@ pubDatetime: 2022-01-05T10:10:00Z
 title: Quả táo thần kỳ của Kimura và câu chuyện về ý chí con người
 description: Thực hành tôn giáo giúp đời sống an lành, hạnh phúc, giác ngộ và mang lại năng lượng tích cực cho bản thân, giá trị đẹp cho cộng đồng.
 featured: false
-image: https://banmaixanh.org/image/cover/001-548.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-548.jpg
 tags:
   - ton giao
   - phat giao
@@ -43,4 +43,4 @@ Năm tiếp theo, cả vườn đã có một cây trổ bảy bông hoa, từ b
 
 Hành trình trồng quả ngọt của Kimura là một nỗ lực xứng đáng. Bởi ông không chỉ đối mặt với những khó khăn về mặt vật chất, tiền bạc trong quá trình làm việc. Mà còn là những khó khăn đến từ xung quanh, những tác động, lời nói khiến ông suýt chùn bước. Dường như rất khó để nói làm thế nào để sự cố gắng là không vô nghĩa. Nhưng nếu ta có thể kiên định và theo đuổi đến cùng, Thì chắc chắn rằng điều ấy đáng để tự hào khi nhìn lại.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-310.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-310.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

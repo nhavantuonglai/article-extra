@@ -3,7 +3,7 @@ pubDatetime: 2024-02-17T10:10:00Z
 title: Tìm hiểu câu châm ngôn write drunk, edit sober
 description: Viết lách say sưa, chỉnh sửa tỉnh táo là châm ngôn vô danh nổi tiếng. Dẫu vậy, nguồn gốc không quan trọng bằng ý nghĩa, khi đây là lời khích lệ hữu ích cho ai chập chưỡng bước vào nghề viết.
 featured: true
-image: https://banmaixanh.org/image/cover/001-752.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-752.jpg
 tags:
   - viet lach
   - ky nang viet
@@ -23,7 +23,7 @@ Câu nói _Viết lách say sưa, chỉnh sửa tỉnh táo_ (write drunk, edit 
 
 Thực ra, câu nói _Viết lách say sưa, chỉnh sửa tỉnh táo_ có nguồn gốc từ một nhân vật hư cấu trong tiểu thuyết _Reuben_ của Peter De Vries, xuất bản năm 1964. Trong cuốn sách này, Reuben, một nhà thơ được xây dựng hình tượng từ Dylan Thomas – một nhà thơ xứ Wales nổi tiếng với những bài thơ lãng mạn và đầy cảm xúc; đã đưa ra lời khuyên này cho một nhà văn trẻ. Reuben nói rằng: _Đôi khi tôi làm thơ khi đang say và chỉnh sửa chúng lúc tỉnh táo. Đó là cách duy nhất tôi có thể làm. Nếu tôi viết khi tỉnh táo, tôi sẽ chỉnh sửa lúc đang say, và đó là một thảm họa._ Nguyên văn: Sometimes I write drunk and revise sober, and sometimes I write sober and revise drunk. But you have to have both elements in creation – the Apollonian and the Dionysian, or spontaneity and restraint, emotion and discipline.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-082.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-082.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 Câu nói này sau đó được truyền bá rộng rãi và được gán cho nhiều tác giả nổi tiếng khác nhau, như Mark Twain, F. Scott Fitzgerald, Oscar Wilde, và tất nhiên là Hemingway. Tuy nhiên, không có bằng chứng nào cho thấy những tác giả này đã nói câu đó, và có thể họ cũng không đồng ý với điều ấy. Hemingway từng nói rằng: _Tôi đã có một bài học là không bao giờ uống (rượu) khi đang viết và tiết kiệm chúng lúc xong việc._ Nguyên văn: I have learned never to drink while, I_m working and to save it for after I_ve finished the day_s work.
 
@@ -35,7 +35,7 @@ Trong tiếng Việt, không có một cụm từ nào hoàn toàn tương tự 
 
 Những câu này không phải là thành ngữ cố định trong tiếng Việt nhưng chúng phản ánh tinh thần của việc sáng tạo một cách tự do và chỉnh sửa một cách nghiêm túc, tương tự như ý nghĩa của Viết lách say sưa, chỉnh sửa tỉnh táo (write drunk, edit sober) trong tiếng Anh.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-083.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-083.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Viết lách say sưa, chỉnh sửa tỉnh táo (write drunk, edit sober) nghĩa là gì?
 
@@ -47,7 +47,7 @@ Với nghĩa bóng, _viết lách say sưa, chỉnh sửa tỉnh táo_ mang tín
 
 Vì vậy, châm ngôn _Viết lách say sưa, chỉnh sửa tỉnh táo_ đơn thuần là sự gợi mở, không phải nguyên tắc nhất quán áp dụng cho tất cả mọi người. Mỗi nhà văn vốn dĩ sẽ có một cách viết với những chất liệu khác nhau, không ai giống ai; nên với bạn – điều quan trọng là phải tìm ra công thức, cảm hứng phù hợp nhằm phát huy hết khả năng và ý tưởng viết lách của bản thân.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-084.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-084.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Viết lách say sưa, chỉnh sửa tỉnh táo (write drunk, edit sober) bị phản đối như thế nào?
 
@@ -61,7 +61,7 @@ Hiểu theo lớp nghĩa đen, nhiều người dùng chất kích thích quá m
 
 Nhiều nhà văn nổi tiếng đa khẳng định rằng, _viết lách say sưa, chỉnh sửa tỉnh táo_ là lời khuyên viết lách tệ hại nhất họ từng nghe. Tiêu biểu như Stephen King đã thừa nhận rằng, cả công việc lẫn đời sống cá nhân của ông đã bị ảnh hưởng tiêu cực rất nhiều từ rượu và ma túy. Có một số tác phẩm được viết trong trạng thái _phê cần,_ khi hoàn tất thì ông không hiểu tại sao những dòng chữ ấy lại được viết ra, và cũng chẳng rõ ý đồ thật sự của tác phẩm ấy là gì. Phải đến khi quyết tâm cai nghiện vào 1987, ông mới có nhiều hơn những tác phẩm thành công và để đời.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-085.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-085.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Viết lách say sưa, chỉnh sửa tỉnh táo (write drunk, edit sober) hữu ích trong hành trình viết như thế nào?
 
@@ -73,7 +73,7 @@ Trên thực tế, châm ngôn _viết lách say sưa, chỉnh sửa tỉnh táo
 
 Ngoài ra, không nên đọc và hiểu _viết lách say sưa, chỉnh sửa tỉnh táo_ theo bề mặt câu chữ đơn thuần rằng phải say sưa thì mới viết tốt, thì bạn sẽ có thể kiểm soát hành vi và ngôn từ, không làm tổn thương bản thân và những người xung quanh vì những hành vi không kiểm soát. Trên thực tế cũng đã chứng minh, nhiều nhà văn vì say xỉn mà đã ảnh hưởng đến bản thân và người thương yêu xung quanh họ, có thể kể đến như là Jack Kerouac, Charles Bukowski, Edgar Allan Poe, và Dylan Thomas…
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-086.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-086.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ### Sử dụng rượu bia điều độ
 
@@ -91,4 +91,4 @@ Viết lách là quá trình sáng tạo và bạn có thể [cải thiện kỹ
 
 Như vậy, _viết lách say sưa, chỉnh sửa tỉnh táo_ đơn thuần là một châm ngôn khuyến khích sự sáng tạo trong viết lách, văn chương bằng sự rộng mở trong trí tưởng tượng và tâm hồn, chứ không đơn thuần là lời khuyên về uống rượu bia để viết tốt hơn. Đọc và hiểu đúng ngữ nghĩa của câu chữ ấy, sẽ giúp bạn viết tốt, hay hơn mà chẳng cần phải nhấp ngụm rượu nào trên môi.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-217.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-217.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

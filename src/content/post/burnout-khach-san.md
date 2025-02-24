@@ -3,7 +3,7 @@ pubDatetime: 2023-01-28T10:10:00Z
 title: Cách dập tắt tình trạng kiệt sức trong ngành khách sạn
 description: Những người làm trong ngành khách sạn có trách nhiệm đặc biệt để chăm sóc bản thân và đội ngũ của mình.
 featured: false
-image: https://banmaixanh.org/image/cover/001-444.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-444.jpg
 tags:
   - viet thue
   - marketing
@@ -27,7 +27,7 @@ Trước khi đi vào một số chi tiết cụ thể, tôi nghĩ rằng cần 
 
 Là một nhân viên, điều quan trọng là phải chịu trách nhiệm cá nhân để đảm bảo bạn tìm thấy sự cân bằng lành mạnh, giữ cho bạn luôn hứng thú với sứ mệnh của mình. Bạn cần nhận ra các triệu chứng và rung chuông cảnh báo để yêu cầu giúp đỡ (chuông cảnh báo ẩn dụ, không phải là chuông trên bàn tiếp tân của bạn). Điều này có thể khiến bạn cảm thấy như mình đang thất bại, nhưng một số người thành công nhất tại Mews là những người biết giới hạn của mình và truyền đạt chúng tốt. Chịu đựng trong im lặng không giúp ích được ai.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-066.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-066.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## 5 cách để giảm thiểu tình trạng kiệt sức trong nhân viên khách sạn
 
@@ -67,7 +67,7 @@ Giống như bạn không chỉ cung cấp cho khách hàng một căn phòng, b
 
 – Nền tảng lợi ích linh hoạt nơi bạn có thể mua bất cứ thứ gì bạn thích.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-067.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-067.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Luôn học hỏi
 
@@ -81,4 +81,4 @@ Tình trạng kiệt sức là một vòng luẩn quẩn. Dễ dàng hơn để 
 
 Tôi không nói rằng cocktail mỗi ngày là giải pháp (mặc dù có thể là như vậy), nhưng tất cả chúng ta nên nhắc nhở rằng những người cung cấp dịch vụ tiếp đãi cũng xứng đáng được hưởng sự chăm sóc 5 sao.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-300.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-300.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>

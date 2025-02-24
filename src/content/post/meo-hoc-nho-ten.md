@@ -3,7 +3,7 @@ pubDatetime: 2024-07-08T10:10:00Z
 title: Mèo học tên của những người bạn mèo của mình như thế nào?
 description: Mèo không có vẻ gì lắng nghe các cuộc trò chuyện của con người, nhưng thực tế là chúng có lắng nghe.
 featured: false
-image: https://banmaixanh.org/image/cover/001-547.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-547.jpg
 tags:
   - khoa hoc
   - tien hoa
@@ -28,7 +28,7 @@ Tuy nhiên, khả năng nhận thức của mèo còn vượt xa việc đọc n
 
 Đối với Takagi và các đồng nghiệp của cô, những nghiên cứu này cho thấy mèo đang nghe lén các cuộc trò chuyện của chúng ta, học hỏi từ ngôn ngữ con người. Các nhà nghiên cứu tin rằng mèo không chỉ đơn thuần nhận ra tên của những con mèo khác, mà chúng còn học được tên gọi đó tương ứng với gì. Nói cách khác, việc nhận ra một chuỗi âm thanh từ loài _khỉ không lông_ cung cấp thức ăn cho bạn là một chuyện, nhưng biết rằng loài khỉ đó đang nói về người bạn của bạn là một chuyện hoàn toàn khác.
 
-<figure><img src="https://banmaixanh.org/image/article/cho-meo-nho-ten-01.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/cho-meo-nho-ten-01.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
 Các nhà nghiên cứu đưa ra giả thuyết rằng mèo học cách liên kết tên với các con mèo khác bằng cách quan sát sự tương tác giữa chủ nhân của chúng và những người bạn mèo.
 
@@ -44,4 +44,4 @@ Khi động vật trải qua sự _vi phạm kỳ vọng,_ chúng sẽ điều t
 
 _Đây là bằng chứng đầu tiên cho thấy mèo nhà liên kết lời nói của con người với các đối tượng xã hội của chúng qua các trải nghiệm hằng ngày,_ các tác giả nghiên cứu viết. _Tuy nhiên, chúng tôi chưa thể xác định được cơ chế học tập. Vẫn là một câu hỏi mở về cách mèo học được tên và khuôn mặt của những con mèo khác._
 
-<figure><img src="https://banmaixanh.org/image/cover/001-111.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-111.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

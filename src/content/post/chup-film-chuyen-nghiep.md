@@ -3,7 +3,7 @@ pubDatetime: 2023-05-24T10:10:00Z
 title: 8 điều khi chụp ảnh film chuyên nghiệp phải biết
 description: Cuộn film CineStill 50D đã nhanh chóng trở thành một sản phẩm yêu thích trong cộng đồng nhiếp ảnh film.
 featured: false
-image: https://banmaixanh.org/image/cover/001-123.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-123.jpg
 tags:
   - affiliate
   - roll film
@@ -86,4 +86,4 @@ _Dodging_ là kỹ thuật giảm lượng ánh sáng tiếp xúc với giấy �
 
 Không chỉ vậy, một chuyên gia còn biết cách áp dụng các kỹ thuật sửa lỗi sau khi phim bị các vấn đề như xước hoặc đốm. Trong những trường hợp này, việc sử dụng các phương pháp thủ công để loại bỏ các lỗi trong quá trình in là điều cực kỳ quan trọng để tạo ra bức ảnh hoàn hảo. Điều này thể hiện sự tinh tế và sự am hiểu sâu sắc của nhiếp ảnh gia film trong việc làm chủ quy trình in ảnh thủ công và khả năng sáng tạo để khắc phục các khó khăn trong từng bước xử lý.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-714.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-714.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

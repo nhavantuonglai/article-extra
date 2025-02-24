@@ -3,7 +3,7 @@ pubDatetime: 2022-05-30T10:10:00Z
 title: Áp dụng mở rộng khách hàng để tối ưu doanh thu cho các khách sạn
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
 featured: false
-image: https://banmaixanh.org/image/cover/001-419.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-419.jpg
 tags:
   - viet thue
   - marketing
@@ -41,7 +41,7 @@ Phocuswright đã thực hiện một nghiên cứu về mở rộng khách hàn
 
 Số liệu trên cho thấy, nhu cầu tìm hiểu và sử dụng dịch vụ trong khách sạn là rất lớn, nhưng khả năng đáp ứng từ các khách sạn lại không hề tương xứng, nếu khách sạn của bạn nhạy cảm và tạo nên được khác biệt với các dịch vụ cung cấp, đấy sẽ là lợi thế cạnh tranh rõ ràng, thuyết phục được du khách tìm đến và đặt phòng khách sạn.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-002.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-002.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Chiến lược và bài học từ vé máy bay giá rẻ của các hãng hàng không
 
@@ -77,7 +77,7 @@ Du khách ưu tiên check in online, và các khách sạn không bắt kịp xu
 
 – Tiết kiệm thời gian, công sức cho nhân viên và giúp họ phục vụ khách đặt phòng tốt hơn.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-003.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-003.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## 4 bước xây dựng chiến lược mở rộng khách hàng tại khách sạn
 
@@ -93,4 +93,4 @@ Khi xây dựng chiến lược mở rộng khách hàng hiệu quả, đem lạ
 
 Mở rộng khách hàng thường bị nhầm lẫn với mở rộng quy mô, vì cách dùng từ tương đồng. Nhưng mở rộng quy mô chỉ đem về nhiều khách đặt phòng, còn mở rộng khách lại đem về nhiều lợi nhuận hơn cho khách sạn, và vế sau thật sự quan trọng và đáng lưu tâm hơn. Vậy cho nên, khi tìm hiểu và áp dụng các chiến lược, bạn nên cân nhắc và áp dụng cho phù hợp, nhằm đem lại hiệu quả tốt nhất có thể.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-304.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-304.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>

@@ -3,7 +3,7 @@ pubDatetime: 2022-08-02T10:10:00Z
 title: Lễ tân trực đêm và tầm quan trọng của nó trong ngành khách sạn
 description: Lễ tân trực đêm là quá trình khi một khách sạn đối chiếu các giao dịch tài chính hàng ngày của mình vào những giờ khuya hoặc sáng sớm.
 featured: false
-image: https://banmaixanh.org/image/cover/001-206.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-206.jpg
 tags:
   - viet thue
   - marketing
@@ -23,7 +23,7 @@ Hãy cùng khám phá lễ tân trực đêm bao gồm những gì, tại sao n�
 
 Lễ tân trực đêm là một quá trình quan trọng được sử dụng trong các khách sạn để đảm bảo sự chính xác tài chính, hiệu quả hoạt động, tuân thủ quy định và sự hài lòng của khách hàng. Bằng cách kiểm tra kỹ lưỡng các hoạt động và giao dịch hàng ngày của khách sạn trong những giờ ít hoạt động, các khách sạn có thể duy trì tính chính xác tài chính, giảm thiểu rủi ro và tối ưu hiệu suất.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-014.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-014.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Tại sao lễ tân trực đêm quan trọng trong ngành khách sạn?
 
@@ -57,7 +57,7 @@ Trước khi công nghệ tự động hóa ra đời, lễ tân trực đêm đ
 
 Với sự phát triển của công nghệ như Mews, các khách sạn hiện có thể tự động hóa lễ tân trực đêm vào những giờ khuya. Các kiểm toán tự động rút báo cáo, đối chiếu giao dịch tài chính, cập nhật tài khoản của khách và tạo báo cáo cần thiết. Tích hợp lễ tân trực đêm vào một hệ thống PMS giúp đồng bộ dữ liệu và báo cáo theo thời gian thực, giảm thiểu rủi ro do lỗi con người. Các khách sạn hưởng lợi từ hiệu quả hoạt động được cải thiện bằng cách tự động hóa các công việc thường xuyên.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-015.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-015.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Các bước quan trọng trong quá trình lễ tân trực đêm
 
@@ -95,7 +95,7 @@ Ví dụ, nếu một khách dự kiến nhận phòng vào ngày 1 tháng 8 nh�
 
 Các báo cáo của chúng tôi có thể được lọc theo ngày và giờ, cho phép bạn tùy chỉnh tần suất của chúng dựa trên quy trình làm việc của bạn. Ngoài ra, bạn có thể lên lịch báo cáo được gửi hàng giờ, hàng ngày hoặc hàng tuần đến bất kỳ địa chỉ email nào, loại bỏ nhu cầu in ấn và tạo điều kiện dễ dàng chia sẻ với nhóm của bạn.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-016.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-016.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Cách Koncept Hotels có được lợi ích từ việc không có lễ tân trực đêm
 
@@ -107,10 +107,10 @@ Daniel Hrkać, Trưởng Bộ Phận Vận Hành, Koncept Hotels
 
 Tự động hóa là rất quan trọng đối với Koncept Hotels, đặc biệt là trong các tài sản không có nhân viên, nơi không cần sự hiện diện vật lý để thực hiện các nhiệm vụ lễ tân trực đêm hoặc kiểm tra tài chính.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-017.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-017.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Chấp nhận một cách nghĩ mới
 
 Chỉ vì lễ tân trực đêm như chúng ta biết đã tồn tại từ lâu, không có nghĩa là đó là cách đúng hoặc tốt nhất để thực hiện. Thực tế là không phải vậy. Chúng tôi hiểu rằng thay đổi có thể hơi đáng sợ, nhưng đó là cách duy nhất để chúng tôi tiếp tục thúc đẩy ngành của chúng ta tiến về phía trước.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-300.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-300.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>

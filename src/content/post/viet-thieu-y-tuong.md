@@ -3,7 +3,7 @@ pubDatetime: 2021-03-09T10:10:00Z
 title: Làm thế nào để viết khi không có ý tưởng?
 description: Viết là một hoạt động sáng tạo và thú vị, nhưng cũng có những lúc bạn gặp phải tình trạng không có ý tưởng, bí ý hoặc mất cảm hứng.
 featured: false
-image: https://banmaixanh.org/image/cover/001-397.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-397.jpg
 tags:
   - viet lach
   - ky nang viet
@@ -31,7 +31,7 @@ Chuỗi bài viết [Làm chủ nghệ thuật viết lách](https://nhavantuong
 
 – Thực hiện kế hoạch và lịch trình của bạn một cách nhất quán. Đây là bước quan trọng nhất để tạo thói quen đọc sách. Bạn nên cố gắng đọc sách mỗi ngày, ít nhất là 15-30 phút, không để bị gián đoạn hoặc xao nhãng. Bạn nên coi việc đọc sách như một nghĩa vụ hoặc một niềm vui, không để bị áp lực hoặc căng thẳng. Bạn nên khen ngợi bản thân khi hoàn thành một cuốn sách hoặc đạt được một tiến bộ nhỏ.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-100.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-100.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Viết theo chủ đề
 
@@ -47,7 +47,7 @@ Viết theo chủ đề là một cách để giúp bạn có một hướng đi
 
 – Soạn thảo bài viết theo chủ đề của bạn. Bạn nên soạn thảo bài viết theo chủ đề của bạn theo một cấu trúc rõ ràng và hợp lý. Bạn nên chia bài viết của bạn thành các phần như: Tiêu đề, giới thiệu, thân bài, kết luận… Bạn nên sử dụng các thông tin và ý tưởng mà bạn đã thu thập, để trình bày nội dung và ý nghĩa của bài viết của bạn. Bạn nên truyền đạt được thông điệp và mục tiêu của bạn khi viết về chủ đề này.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-101.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-101.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Viết theo lời kể
 
@@ -63,7 +63,7 @@ Viết theo lời kể là một [kỹ năng viết bài](https://nhavantuonglai
 
 – Biên tập và xuất bản bài viết theo lời kể của bạn. Bạn nên biên tập và xuất bản bài viết theo lời kể của bạn, để kiểm tra và sửa lại các lỗi chính tả, ngữ pháp, câu chữ… Bạn nên đọc lại bài viết của bạn, để đảm bảo rằng nó có thể truyền đạt được nội dung, ý nghĩa, cảm xúc và bài học của những câu chuyện mà bạn đã kể lại.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-102.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-102.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Viết theo trò chơi
 
@@ -79,4 +79,4 @@ Viết theo trò chơi là một [cách viết hiệu quả](https://nhavantuong
 
 – Đánh giá và cải thiện kết quả của trò chơi. Bạn nên đánh giá và cải thiện kết quả của trò chơi, để bạn có thể nhận ra những điểm mạnh và điểm yếu của mình, cũng như những kỹ năng và khả năng sáng tạo của mình.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-300.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-300.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

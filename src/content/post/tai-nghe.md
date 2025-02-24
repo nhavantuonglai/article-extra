@@ -3,7 +3,7 @@ pubDatetime: 2021-02-13T10:10:00Z
 title: Nhập môn tai nghe để thưởng thức âm thanh (audiophile)
 description: Tai nghe là thiết bị quan trọng giúp chúng ta tận hưởng âm nhạc, xem phim, hoặc trò chuyện mà không làm phiền người khác.
 featured: false
-image: https://banmaixanh.org/image/cover/001-537.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-537.jpg
 tags:
   - viet lach
   - thuong thuc am thanh
@@ -26,7 +26,7 @@ _Tai nghe là thiết bị quan trọng giúp chúng ta tận hưởng âm nhạ
 
 Tai nghe in-ear, còn được gọi là tai nghe nhét tai, là loại tai nghe nhỏ gọn được đặt trực tiếp vào ống tai. Chúng thường đi kèm với các miếng đệm tai để tăng độ vừa vặn và cách âm.
 
-<figure><img src="https://banmaixanh.org/image/article/audiophile-01.jpg" alt="audiophile" title="audiophile" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/audiophile-01.jpg" alt="audiophile" title="audiophile" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
 ### Ưu điểm
 
@@ -54,7 +54,7 @@ Tai nghe in-ear, còn được gọi là tai nghe nhét tai, là loại tai nghe
 
 Tai nghe over-ear, hay tai nghe chụp tai, là loại tai nghe có kích thước lớn, bao trùm toàn bộ tai. Chúng thường có phần đệm tai dày và thoải mái.
 
-<figure><img src="https://banmaixanh.org/image/article/audiophile-02.jpg" alt="audiophile" title="audiophile" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/audiophile-02.jpg" alt="audiophile" title="audiophile" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
 ### Ưu điểm
 
@@ -70,7 +70,7 @@ Tai nghe over-ear, hay tai nghe chụp tai, là loại tai nghe có kích thư�
 
 – Giá thành cao: Tai nghe over-ear thường đắt hơn so với các loại tai nghe khác.
 
-<figure><img src="https://banmaixanh.org/image/article/audiophile-03.jpg" alt="audiophile" title="audiophile" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/audiophile-03.jpg" alt="audiophile" title="audiophile" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
 ### Phù hợp với ai và tình huống nào
 
@@ -92,7 +92,7 @@ Tai nghe không dây sử dụng công nghệ Bluetooth hoặc kết nối khôn
 
 – Công nghệ tiên tiến: Nhiều tai nghe không dây có tính năng chống ồn, điều khiển cảm ứng.
 
-<figure><img src="https://banmaixanh.org/image/article/audiophile-04.jpg" alt="audiophile" title="audiophile" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/audiophile-04.jpg" alt="audiophile" title="audiophile" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
 ### Nhược điểm
 
@@ -116,7 +116,7 @@ Tai nghe không dây sử dụng công nghệ Bluetooth hoặc kết nối khôn
 
 – Cách âm: Tai nghe in-ear cách âm tốt hơn nhờ miếng đệm tai.
 
-<figure><img src="https://banmaixanh.org/image/article/audiophile-05.jpg" alt="audiophile" title="audiophile" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/audiophile-05.jpg" alt="audiophile" title="audiophile" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
 ### Tai nghe in-ear so với tai nghe không dây
 
@@ -146,7 +146,7 @@ Trước khi mua tai nghe, bạn cần xác định rõ nhu cầu sử dụng c�
 
 – Yêu cầu cách âm tốt: Tai nghe in-ear sẽ giúp bạn cách ly tiếng ồn hiệu quả.
 
-<figure><img src="https://banmaixanh.org/image/article/audiophile-06.jpg" alt="audiophile" title="audiophile" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/audiophile-06.jpg" alt="audiophile" title="audiophile" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
 ### Ngân sách
 
@@ -174,4 +174,4 @@ Sennheiser là thương hiệu tai nghe được nhiều người yêu nhạc ch
 
 Tai nghe là thiết bị không thể thiếu trong cuộc sống hiện đại. Việc lựa chọn loại tai nghe phù hợp phụ thuộc vào nhu cầu, sở thích và ngân sách của mỗi người. Hy vọng qua bài viết này, bạn đã có được cái nhìn tổng quan về các loại tai nghe phổ biến hiện nay và có thể lựa chọn được chiếc tai nghe ưng ý nhất cho mình.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-211.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-211.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

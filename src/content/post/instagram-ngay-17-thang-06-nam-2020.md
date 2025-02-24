@@ -3,7 +3,7 @@ pubDatetime: 2020-06-07T10:10:00Z
 title: Bài viết trên Instagram ngày 17 tháng 06 năm 2020
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-343.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-343.jpg
 tags:
   - viet lach
   - doan van
@@ -28,4 +28,4 @@ mà thực sự, đến giờ chị đã thích Sư phạm đâu, hiền quá, l
 
 mà em yêu Sư phạm vậy, chắc nghe chuyện của chị chắc cảm giác buồn lắm nhỉ?
 
-<figure><img src="https://banmaixanh.org/image/cover/001-310.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-310.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

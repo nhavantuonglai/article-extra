@@ -3,7 +3,7 @@ pubDatetime: 2019-04-07T10:10:00Z
 title: Chúng ta thật sự có duyên để gặp lại nhau không?
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-343.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-343.jpg
 tags:
   - viet lach
   - doan van
@@ -26,4 +26,4 @@ bây giờ, có lẽ nó đã đoạn tuyệt với bụi hồng tra
 
 lúc ra về, giữa những lời nói mình ra rằng cứ đến, có duyên thì sẽ gặp thôi, hay là mình cứ làm như thế, với Nghĩa? mình không thể hẹn trước với nó, nhưng nếu như cứ lên, cứ hỏi, biết đâu duyên lại dẫn để tụi mình lại gặp nhau, để mình kể cho nó nghe về Quỳnh, và rồi mình sẽ lại gọi nó là _thầy._ để lắng nghe những bụi hồng trần biết đâu còn sót lại, trong tâm hồn lạc lõng và đầy vô định mà mình từng thấy, của nó?
 
-<figure><img src="https://banmaixanh.org/image/cover/001-215.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-215.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

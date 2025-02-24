@@ -3,7 +3,7 @@ pubDatetime: 2021-02-12T10:10:00Z
 title: Mô hình Pulse Code Modulation (PCM) trong nhạc số
 description: Pulse Code Modulation (PCM) là một trong những phương pháp phổ biến nhất để số hóa tín hiệu âm thanh.
 featured: false
-image: https://banmaixanh.org/image/cover/001-432.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-432.jpg
 tags:
   - viet lach
   - thuong thuc am thanh
@@ -200,4 +200,4 @@ Pulse Code Modulation (PCM) là một công nghệ quan trọng trong lĩnh vự
 
 Để tận hưởng âm thanh PCM một cách tốt nhất, người nghe cần chọn thiết bị hỗ trợ PCM, sử dụng file âm thanh PCM, và bảo trì thiết bị nghe nhạc thường xuyên. Hy vọng bài viết này đã cung cấp cho bạn những thông tin hữu ích về Pulse Code Modulation và cách tận hưởng âm nhạc với chất lượng cao nhất.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-211.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-211.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

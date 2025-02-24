@@ -3,7 +3,7 @@ pubDatetime: 2022-02-25T10:10:00Z
 title: 8 chiến lược hạn chế tình trạng hủy đặt phòng khách sạn
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
 featured: false
-image: https://banmaixanh.org/image/cover/001-357.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-357.jpg
 tags:
   - viet thue
   - marketing
@@ -35,7 +35,7 @@ Dù trong tình huống nào đi chăng nữa, việc hủy đặt phòng khách
 
 Việc hủy đặt phòng khách sạn cũng gây thiệt hại, ảnh hưởng trực tiếp đến khách sạn.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-025.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-025.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## 8 chiến lược giảm thiểu rủi ro hủy đặt phòng khách sạn
 
@@ -93,7 +93,7 @@ Chúng được gọi là hâm nóng bầu không khí trước khi du khách đ
 
 Thông qua các [phần mềm quản lý](https://nhavantuonglai.com/article), khách sạn cũng có thể tự động hóa các tác vụ, email nhắc lịch đặt phòng với du khách. giải pháp này sẽ giúp khách sạn tiết kiệm được rất nhiều thời gian, công sức và tiền bạc trong quá trình chăm sóc khách hàng tại khách sạn.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-026.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-026.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Cho phép đặt phòng quá công suất hiện có (overbooking)
 
@@ -107,4 +107,4 @@ Và cuối cùng, đó là linh hoạt, chủ động ứng phó mỗi khi du kh
 
 Tổng quan lại, hủy đặt phòng khách sạn là tình huống không ai muốn và các khách sạn cần tránh rủi ro này nhiều nhất có thể. Nhưng chúng luôn xảy ra và các khách sạn cần những phương án để giải quyết hiệu quả. Với tất cả thông tin từ bài viết, hy vọng các khách sạn biết có thể làm gì, và cần phải hành động ra sao mỗi khi có khách hủy đặt phòng tại khách sạn.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-304.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-304.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>

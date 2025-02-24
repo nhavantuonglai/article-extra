@@ -3,7 +3,7 @@ pubDatetime: 2024-10-26T10:10:00Z
 title: Cách để viết văn hội thoại chất lượng, hấp dẫn người đọc
 description: Để tạo ra những cuộc trò chuyện sống động và thuyết phục trong văn học, bạn cần phải viết đối thoại giống như cách con người thực sự giao tiếp và có thể thúc đẩy câu chuyện tiến lên.
 featured: false
-image: https://banmaixanh.org/image/cover/001-397.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-397.jpg
 tags:
   - viet lach
   - ky nang viet
@@ -31,7 +31,7 @@ Cuộc hội thoại tuyệt vời có thể tiết lộ câu chuyện hậu tr�
 
 Hội thoại là một phần quan trọng của bất kỳ tác phẩm văn học nào. Nó không chỉ giúp nhân vật có tiếng nói riêng, mà còn giúp tạo ra nhịp điệu, tăng cường cảm xúc và phát triển cốt truyện. Tuy nhiên, viết văn hội thoại không phải là một kỹ năng tự nhiên cho tất cả mọi người. Đôi khi bạn có thể gặp khó khăn trong việc tạo ra những cuộc trò chuyện sinh động và thuyết phục giữa các nhân vật của mình.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-109.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-109.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Quy tắc viết văn hội thoại
 
@@ -47,7 +47,7 @@ Hội thoại là một phần quan trọng của bất kỳ tác phẩm văn h�
 
 Nói một cách phân loại, các bài phát biểu dài là độc thoại, trong khi một đoạn hội thoại ngụ ý trao đổi hai hoặc nhiều giọng nói qua lại
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-110.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-110.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Judy Blume nói về cách viết văn hội thoại
 
@@ -61,7 +61,7 @@ Người viết có thể sử dụng hội thoại để làm sống động c�
 
 ‍Các tác giả viết cuộc hội thoại tuyệt vời bằng cách đọc hội thoại tuyệt vời. _Đọc, đọc và đọc, bạn sẽ tìm thấy những gì hội thoại tốt, những gì bạn nghĩ là hội thoại tốt, và những gì bạn nghĩ là hội thoại gỗ và không tốt lắm,_ Judy nói. _Và bạn sẽ học hỏi từ điều đó chỉ bằng cách đọc nó và đọc nó và đi đến cuốn sách tiếp theo và tìm thấy nó bởi vì nó ở đó. Nó có trong mọi cuốn tiểu thuyết. Có hội thoại._
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-111.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-111.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ### Sử dụng ngôn từ đơn giản
 
@@ -77,7 +77,7 @@ Người viết có thể sử dụng hội thoại để làm sống động c�
 
 Hãy chú ý đến cách các tác giả sử dụng ngôn ngữ, âm điệu, câu cú, dấu câu và các kỹ thuật khác để tạo ra những cuộc trò chuyện sống động và hấp dẫn. Bạn cũng có thể thử viết lại hoặc biến đổi một số đoạn hội thoại để xem bạn có thể làm cho chúng tốt hơn hay không.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-112.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-112.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ### Lắng nghe và ghi lại cuộc trò chuyện trong cuộc sống thực
 
@@ -91,7 +91,7 @@ Bạn không cần phải ghi lại từng chi tiết, chỉ cần ghi lại nh�
 
 Bạn cũng có thể thêm vào những chi tiết về ngôn ngữ và phong cách nói của các nhân vật, như giọng địa phương, từ ngữ đặc trưng, thói quen hay thái độ. Những thông tin này sẽ giúp bạn tạo ra các đoạn hội thoại phù hợp và thể hiện được bản chất của các nhân vật.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-113.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-113.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ### Đặt mình vào vị trí của các nhân vật và phóng tác từ họ
 
@@ -103,7 +103,7 @@ Một cách khác để viết văn hội thoại là đặt mình vào vị tr�
 
 Một cách để tránh viết văn hội thoại quá dài hoặc quá ngắn là hãy luôn kiểm tra xem nó có phục vụ cho mục đích của câu chuyện hay không. Hội thoại của bạn có giúp phát triển nhân vật, tạo ra xung đột, tiết lộ thông tin hay tăng cường cảm xúc hay không? Nếu không, bạn có thể cắt bỏ hoặc thêm vào những chi tiết cần thiết để làm cho nó hiệu quả hơn.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-114.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-114.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ### Sử dụng dấu câu và dấu ngoặc kép một cách chính xác
 
@@ -113,4 +113,4 @@ Một cách để tránh viết văn hội thoại quá dài hoặc quá ngắn 
 
 ‍Các từ chỉ hội thoại là các từ được sử dụng để chỉ ra ai là người nói và làm thế nào họ nói. Ví dụ: nói, hét, thì thầm, kể, trả lời, hỏi, khuyên, bảo, giải thích và còn nhiều từ khác. Các từ chỉ hội thoại có thể giúp bạn làm rõ người nói và tạo ra âm điệu cho hội thoại của bạn. Tuy nhiên, bạn cũng không nên lạm dụng chúng hoặc sử dụng chúng quá phức tạp trong [hành trình viết](https://nhavantuonglai.com/article) của bản thân.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-300.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-300.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

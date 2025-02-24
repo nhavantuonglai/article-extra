@@ -3,7 +3,7 @@ pubDatetime: 2021-08-07T10:10:00Z
 title: Bài viết trên Instagram ngày 25 tháng 08 năm 2021
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - viet lach
   - doan van
@@ -16,4 +16,4 @@ không thi thoảng cho lắm trong những tháng ngày ở đó, mình lại v
 
 nhưng trong một hôm nào đó, đang trên con dốc lớn dẫn ra ngoại ô, mình tự nhiên nhìn thấy những nhà kính còn chưa lên đèn vì trời đang sáng. dừng chân để nhìn ngắm, giữa muôn vàn lớp kính đang phủ lên đồi, mình chỉ thấy duy nhất một căn tròn vẹn. căn ấy nép nửa sau tán lá rừng, e ấp bên triền dốc nhỏ, gợi mình nhớ về những căn nhà kính cũ nát, hư hỏng trên con đường dốc dẫn lên đỉnh Bạch Mã. thoáng nhẹ chút, mình như dịch chuyển, quay về đoạn đó, với đôi chân rã rời, vì đi hoài đã mỏi…
 
-<figure><img src="https://banmaixanh.org/image/cover/001-103.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-103.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

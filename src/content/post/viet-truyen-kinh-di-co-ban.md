@@ -3,7 +3,7 @@ pubDatetime: 2021-03-10T10:10:00Z
 title: Hướng dẫn viết truyện kinh dị cơ bản
 description: Bạn đã sẵn sàng lao vào thế giới nham hiểm của những câu chuyện kinh dị lạnh thấu xương chưa? Hãy sẵn sàng giải phóng bóng tối sáng tạo của bạn.
 featured: false
-image: https://banmaixanh.org/image/cover/001-135.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-135.jpg
 tags:
   - viet lach
   - ky nang viet
@@ -27,7 +27,7 @@ Hãy sẵn sàng đón nhận bóng tối và phát huy tiềm năng của bạn
 
 Để thực sự nắm vững nghệ thuật kể chuyện kinh dị, điều quan trọng là phải hiểu được sức mạnh của nó đối với người đọc. Sợ hãi là một cảm xúc chung kết nối tất cả chúng ta, khiến những câu chuyện kinh dị trở nên dễ hiểu ở mức độ nguyên thủy. Bằng cách chạm vào nỗi sợ hãi của chúng ta, một nhà văn kinh dị lành nghề có thể tạo ra trải nghiệm nội tạng kéo dài rất lâu sau khi câu chuyện kết thúc.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-086.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-086.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Các yếu tố của một câu chuyện kinh dị lạnh thấu xương
 
@@ -39,7 +39,7 @@ Nỗi sợ hãi là cốt lõi của bất kỳ câu chuyện kinh dị hay nào
 
 Hồi hộp là một yếu tố quan trọng khác trong văn bản kinh dị. Đó là nghệ thuật khiến người đọc đứng ngồi không yên, dự đoán điều gì sẽ xảy ra tiếp theo. Bằng cách xây dựng sự căng thẳng và che giấu thông tin một cách có chiến lược, người viết có thể tạo ra cảm giác khó chịu khiến người đọc bị cuốn hút. Nắm vững nghệ thuật hồi hộp là chìa khóa để tạo ra một câu chuyện kinh dị thực sự rùng rợn.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-087.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-087.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ### Thiết lập sân khấu: Tạo bầu không khí ám ảnh
 
@@ -47,7 +47,7 @@ Tạo ra bầu không khí ám ảnh là điều cần thiết trong việc thi�
 
 Để tạo ra một khung cảnh có không khí, một nhà văn kinh dị phải sử dụng những mô tả sống động, thu hút các giác quan của người đọc. Bằng cách vẽ nên một bức tranh bằng ngôn từ, nhà văn có thể đưa người đọc vào tâm điểm của nỗi kinh hoàng. Việc sử dụng các chi tiết mang tính giác quan như âm thanh, mùi vị và kết cấu có thể nâng cao bầu không khí và khiến người đọc đắm chìm trong thế giới đáng sợ đang được tạo ra.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-088.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-088.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Những nhân vật sẽ ám ảnh giấc mơ của độc giả
 
@@ -57,7 +57,7 @@ Ngoài nhân vật chính, truyện kinh dị thường có nhân vật phản d
 
 Các nhân vật phụ trong một câu chuyện kinh dị cũng đóng một vai trò quan trọng. Họ có thể mang lại chiều sâu cảm xúc, đóng vai trò là nạn nhân tiềm năng hoặc thậm chí trở thành đồng minh bất ngờ. Mỗi nhân vật nên có tiếng nói và mục đích riêng, tạo thêm nhiều lớp phức tạp cho câu chuyện.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-089.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-089.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Lập kế hoạch cho những cơn ác mộng: Xây dựng sự căng thẳng và những khúc mắc
 
@@ -67,7 +67,7 @@ Nhịp độ của một câu chuyện kinh dị rất quan trọng trong việc
 
 Việc sử dụng các tình tiết xoắn xuýt cũng có thể nâng một câu chuyện kinh dị từ bình thường lên phi thường. Bằng cách phá vỡ sự mong đợi của độc giả và đưa ra những khám phá bất ngờ, nhà văn có thể để lại tác động lâu dài. Cho dù đó là một tiết lộ gây sốc về bản chất thực sự của một nhân vật hay một tình tiết thay đổi toàn bộ câu chuyện, thì một tình tiết bất ngờ được thực hiện tốt có thể là sự khác biệt giữa một câu chuyện kinh dị đáng quên và một câu chuyện thực sự đáng nhớ.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-090.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-090.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ### Tạo ra những cảnh và mô tả đáng sợ
 
@@ -92,10 +92,10 @@ Kết luận: Ôm lấy bóng tối và giải phóng tác giả kinh dị nội
 
 Chúc mừng. Bây giờ bạn đã mở khóa được bí mật để tạo ra những câu chuyện kinh dị rùng rợn. Bằng cách hiểu được sức mạnh của nỗi sợ hãi, nắm vững các yếu tố thiết yếu của cách kể chuyện kinh dị và trau dồi kỹ năng viết của mình, bạn đã sẵn sàng bộc lộ nội tâm nhà văn kinh dị của mình.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-091.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-091.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 Hãy nhớ rằng, chìa khóa để tạo ra những cơn ác mộng khó quên nằm ở khả năng khai thác nỗi sợ hãi sâu sắc nhất của độc giả và truyền tải những câu chuyện sẽ ám ảnh họ rất lâu sau khi họ lật trang cuối cùng. Ôm lấy bóng tối, thử nghiệm các kỹ thuật khác nhau và đừng bao giờ ngại vượt qua ranh giới của trí tưởng tượng của bạn.
 
 Bây giờ, hãy trang bị kiến thức và công cụ được cung cấp trong bài viết này, hãy tiếp tục và khiến độc giả của bạn khiếp sợ. Tạo ra những câu chuyện rùng rợn sẽ khiến họ run rẩy vì sợ hãi và háo hức chờ đợi tác phẩm gây ác mộng tiếp theo của bạn. Thế giới đang chờ đợi thương hiệu kinh dị độc đáo của bạn. Hãy ôm lấy nó và để bóng tối dẫn lối cho cây bút của bạn.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-213.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-213.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

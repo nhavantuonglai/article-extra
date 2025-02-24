@@ -3,7 +3,7 @@ pubDatetime: 2024-05-19T10:10:00Z
 title: Hướng dẫn tạo thẻ tiến trình bài viết trên Webflow
 description: Hướng dẫn thực hiện các thủ thuật công nghệ giúp bạn tiết kiệm thời gian, công sức và đầu tư vào những công việc hiệu quả hơn. Liên hệ info@nhavantuonglai.com để hỗ trợ thao tác.
 featured: false
-image: https://banmaixanh.org/image/cover/001-149.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-149.jpg
 tags:
   - websiteflow
   - website
@@ -71,4 +71,4 @@ Tại block text muốn hiển thị thẻ thời gian đọc bài viết trên 
 
 ## Bước 4: Tải lại trang và kiểm tra.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-139.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-139.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

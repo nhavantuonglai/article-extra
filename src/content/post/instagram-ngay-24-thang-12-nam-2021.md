@@ -3,7 +3,7 @@ pubDatetime: 2021-12-07T10:10:00Z
 title: Bài viết trên Instagram ngày 24 tháng 12 năm 2021
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - viet lach
   - doan van
@@ -18,4 +18,4 @@ cũng ở Phật giáo, việc thắp hương viếng chùa đầu năm đã th�
 
 nếu là người vô thần, hành vi sẽ dựa trên tiêu chuẩn đạo đức để quyết định. nhưng đó là cây thước kẻ đơn sắc, phải trái đúng sai không vùng xám. và trong một số trường hợp nhất định, nó trở nên cồng kềnh khi đánh giá, bởi lợi ích bản thân không đong đếm được bằng lợi ích tập thể. nếu là người theo đạo, vấn đề này được củng cố bằng sự khuôn mẫu của những tư tưởng khi truyền tải, và linh hoạt để áp dụng. nó là điều kiện cần để nhìn thấy sự hiện diện của một tôn giáo, bởi có thể bạn không xuất hiện ở nhà thờ vào dịp quan trọng, không ăn chay vào ngày rằm thì rằng nó không phải vấn đề quá lớn, vì đâu cứ phải thường xuyên cầu nguyện rồi đi lễ là tâm tốt, cuộc sống gặp nhiều phước lành. nhưng nếu bạn không tin vào sự tốt đẹp của việc tử tế, không thấy bình an khi từ chối điều sai trái, thì khó để xem bạn thuộc về một tôn giáo ấy.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-298.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-298.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

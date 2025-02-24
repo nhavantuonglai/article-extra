@@ -3,7 +3,7 @@ pubDatetime: 2019-09-07T10:10:00Z
 title: Bài viết trên Instagram ngày 25 tháng 09 năm 2019
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-343.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-343.jpg
 tags:
   - viet lach
   - doan van
@@ -22,4 +22,4 @@ nhưng dạo gần đây nhiều chuyện đã xảy ra, làm mình p
 
 và đột nhiên mình sợ phải tạm biệt thêm một ai đó, bởi lúc ấy tới rồi mình mới hay là mọi tình cảm và trân quý suốt bấy lâu mình đã thờ ơ nhiều lắm, và sự bao dung này không đủ để đón nhận và ôm trọn hết tình cảm mà mọi người đã dành cho.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-384.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-384.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

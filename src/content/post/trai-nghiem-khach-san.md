@@ -3,7 +3,7 @@ pubDatetime: 2022-07-30T10:10:00Z
 title: 5 nâng cấp để cải thiện trải nghiệm khách ở tại khách sạn
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
 featured: false
-image: https://banmaixanh.org/image/cover/001-548.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-548.jpg
 tags:
   - viet thue
   - marketing
@@ -23,7 +23,7 @@ Ngoài ra, việc bị phong tỏa, hạn chế đi lại khiến nhiều du kh�
 
 Làm thế nào để khắc phục vấn đề này trong bối cảnh hiện nay? Hãy thực hiện các thay đổi sau trong cách quản lý, vận hành để giải quyết.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-011.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-011.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## eLearning để đào tạo nhân viên
 
@@ -43,7 +43,7 @@ Phòng khách sạn thông minh cho phép khách đặt phòng điều khiển n
 
 Khách đặt phòng cũng có thể đặt vé tour, xem dự báo thời tiết hoặc đặt các chuyến tham quan có hướng dẫn với một vài cú click chuột. Các thiết bị như máy tính bảng, điện thoại cũng cho phép truyền sang TV, cho phép khách đặt phòng có thể xem nhiều nội dung hơn mà không phải trả thêm phí.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-012.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-012.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Quy trình đặt chỗ an toàn
 
@@ -61,7 +61,7 @@ SMS tự động, được cá nhân hóa có thể sử dụng để gửi tin 
 
 SMS cũng giúp quy trình đăng ký, thanh toán trở nên an toàn thông qua xác thực 2 yếu tố (SMS OTP). Khi đăng nhập website đặt phòng, một tin nhắn SMS chứa mã xác minh được gửi trực tiếp đến điện thoại của khách sạn, thông qua đó – mọi giao dịch sẽ trở nên an toàn và đảm bảo hơn.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-013.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-013.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Tự phục vụ thông qua thiết bị di động
 
@@ -71,4 +71,4 @@ Các chuỗi khách sạn lớn đã và đang áp dụng các quầy check in t
 
 Trải nghiệm khách hàng là một vấn đề quan trọng mà khách sạn cần đáp ứng, 5 nâng cấp được gợi ý trên đây sẽ là chìa khóa để khách sạn của bạn đem đến nhiều trải nghiệm mới mẻ, cân bằng với nguồn lực mà khách sạn đang có.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-314.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-314.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>

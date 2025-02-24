@@ -3,7 +3,7 @@ pubDatetime: 2023-07-11T10:10:00Z
 title: Ô Lâu nước chảy thành dòng và câu chuyện cổ vật dưới đáy sông
 description: Ô Lâu nước chảy thành dòng, khoét từng đoạn và bồi từng khúc, uốn lượn chia đất bên này của người sống và bên kia là người chết.
 featured: false
-image: https://banmaixanh.org/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - viet lach
   - doan van
@@ -22,4 +22,4 @@ Nguyên do là vì ngày trước, gốm làm ở phước tích hay làng gốm
 
 Theo thời gian, các làng gốm xưa nay không còn nữa, và gốm của ngày ấy giờ chẳng trở lại hình dạng đất sét ban đầu. Mọi vết tích của quá khứ vì thế được lưu giữ trong từng lần thuyền chìm thuyền hỏng, để khi người ta xếp những mẫu vật lên giá lại có cơ sở đối sánh, nghiên cứu xem tư duy thẩm mỹ từng thời ấy là thế nào.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-116.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-116.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

@@ -3,7 +3,7 @@ pubDatetime: 2022-01-16T10:10:00Z
 title: Trí tuệ nhân tạo đang cách mạng hóa ngành khách sạn như thế nào?
 description: Trong bài viết này, chúng ta sẽ khám phá cách trí tuệ nhân tạo đang thay đổi cách các khách sạn hoạt động và tương tác với khách hàng.
 featured: false
-image: https://banmaixanh.org/image/cover/001-731.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-731.jpg
 tags:
   - viet thue
   - marketing
@@ -101,4 +101,4 @@ Mặc dù vẫn còn những thách thức trong việc triển khai trí tuệ 
 
 Nếu bạn đang tìm kiếm các cách để cải thiện khách sạn của mình, giờ bạn đã biết trí tuệ nhân tạo có thể giúp bạn đạt được mục tiêu như thế nào.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-210.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-210.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>

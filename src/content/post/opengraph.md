@@ -3,7 +3,7 @@ pubDatetime: 2024-05-01T10:10:00Z
 title: Hướng dẫn cài đặt thẻ Open Graph trên website
 description: Thẻ Open Graph chuẩn SEO trên website là một giao thức cho phép các website chia sẻ thông tin với các mạng xã hội như Facebook, Twitter, Zalo… Liên hệ info@nhavantuonglai.com để hỗ trợ thao tác.
 featured: false
-image: https://banmaixanh.org/image/cover/001-573.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-573.jpg
 tags:
   - website
   - website builder
@@ -61,4 +61,4 @@ Cài đặt thẻ Open Graph là một việc làm quan trọng để giúp webs
 
 – Bạn cần kiểm tra lại các thẻ Open Graph đã được cài đặt đúng hay chưa bằng công cụ [Facebook Debugger](https://www.duplichecker.com/open-graph-generator.php). Công cụ này sẽ giúp bạn xem trước cách hiển thị của website khi chia sẻ trên Facebook, và phát hiện ra các lỗi hoặc cảnh báo nếu có.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-139.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-139.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

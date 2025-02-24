@@ -3,7 +3,7 @@ pubDatetime: 2021-03-07T10:10:00Z
 title: Bài viết trên Instagram ngày 19 tháng 03 năm 2021
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - viet lach
   - doan van
@@ -24,4 +24,4 @@ nhưng giấc mơ khi ấy chỉ là sự diễn giải đoạn kết, còn đo�
 
 khi kể lại một cơn ác mộng, mình không thể nào nhồi nhét sự tươi sáng thêm vào. nhưng khi nó gần như dần nhạt nhoà bởi hơn mười mấy năm chẳng xuất hiện tại, nay tự nhiên lại ghé gần đây ít hôm, thì phải viết ra kẻo nó lại nhạt nhoà, và rồi mình lại quên sự tồn tại của nó…
 
-<figure><img src="https://banmaixanh.org/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

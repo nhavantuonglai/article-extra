@@ -3,7 +3,7 @@ pubDatetime: 2024-01-21T10:10:00Z
 title: Bài viết trên Instagram ngày 21 tháng 01 năm 2024
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-343.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-343.jpg
 tags:
   - viet lach
   - doan van
@@ -20,4 +20,4 @@ mà cũng chưa hết, nếu đi vào rừng sâu và cách xa đường trải 
 
 mình nghĩ, cái gọi là kết nối với thiên nhiên là điều không dễ để thực hiện và nhìn thấy, nên những khi vào rừng, mình chỉ quan sát và cảm nhận, chứ chẳng dám hòa mình vào thế giới ấy theo đúng nghĩa của từ ngữ. dẫu đó chỉ là sự trải nghiệm bề mặt, không thật sự đi sâu và thật sự tìm hiểu đúng đắn, mình vẫn rất thích lên núi và đi bộ trong những con đường mòn người ta vạch ra từ trước; đó không chỉ là trải nghiệm khám phá đơn thuần, hay sự tách rời với thế giới đầy biến động ở ngoài kia, mà là thêm một lần mình xem thử cái thế giới ấy chúng sắc màu và sống động như thế nào theo thời gian.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-310.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-310.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

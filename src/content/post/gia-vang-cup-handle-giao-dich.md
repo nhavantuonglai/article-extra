@@ -3,7 +3,7 @@ pubDatetime: 2021-11-17T10:10:00Z
 title: Giao dịch mô hình Cup Handle ở biểu đồ giá vàng
 description: Chuỗi bài viết của nhavantuonglai về kinh doanh vàng bạc đá quý và quỹ đầu tư sẽ giúp nhà đầu tư khởi nghiệp hiệu quả.
 featured: false
-image: https://banmaixanh.org/image/cover/001-349.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-349.jpg
 tags:
   - viet thue
   - marketing
@@ -88,4 +88,4 @@ Cho nên, ngoài quan sát biểu đồ giá vàng, nhà đầu tư cũng cần 
 
 Trên đây là những kiến thức liên quan về mô hình Cup and Handle để các nhà đầu tư có thể theo dõi. Rõ ràng, đây không phải là mô hình dễ dàng quan sát bởi cần rất nhiều thời gian. Cho nên, những chiến thuật đầu tư hợp lý, sẽ đem lại những kết quả khả quan và chắc chắn cho nhà đầu tư hơn.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-349.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-349.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

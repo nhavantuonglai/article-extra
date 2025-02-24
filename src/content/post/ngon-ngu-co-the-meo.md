@@ -3,7 +3,7 @@ pubDatetime: 2021-04-10T10:10:00Z
 title: Đọc vị ngôn ngữ cơ thể của mèo (body language cat)
 description: Là cha mẹ mèo, bạn có thể háo hức muốn được giải thích ngôn ngữ cơ thể của mèo (body language cat).
 featured: false
-image: https://banmaixanh.org/image/cover/001-646.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-646.jpg
 tags:
   - viet lach
   - thu cung
@@ -16,7 +16,7 @@ _Là người chăm mèo, bạn có thể háo hức muốn được giải thí
 
 Nhiều người có thể nghĩ rằng đọc tâm trạng của mèo không phải là nhiệm vụ dễ dàng nhất. Tuy nhiên, có rất nhiều lợi ích khi học sự phức tạp của ngôn ngữ cơ thể mèo. Quan trọng nhất, bạn sẽ có thể hiểu được cảm xúc của bạn mình – cho dù họ đang hạnh phúc, vui tươi, lo lắng, tức giận hay bất kỳ tâm trạng nào ở giữa.
 
-<figure><img src="https://banmaixanh.org/image/article/cham-soc-cho-meo-097.jpg" alt="cham soc cho meo" title="cham soc cho meo" height=100% width=100%><figcaption><p>Hướng dẫn chăm sóc chó mèo đúng cách.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/cham-soc-cho-meo-097.jpg" alt="cham soc cho meo" title="cham soc cho meo" height=100% width=100%><figcaption><p>Hướng dẫn chăm sóc chó mèo đúng cách.</p></figcaption></figure>
 
 Bằng cách hiểu rõ hơn về cảm giác của mèo, bạn cũng có thể nhận ra chính xác hơn khi một tình huống cụ thể khiến chúng lo lắng. Trong trường hợp này, bạn có thể loại bỏ vật phẩm gây căng thẳng và giúp mèo bình tĩnh lại.
 
@@ -26,7 +26,7 @@ Tìm hiểu thêm về ngôn ngữ cơ thể của mèo có thể giúp bạn ph
 
 Một trong những phần biểu cảm nhất của mèo là đuôi của chúng. Bất kể chiều dài đuôi, loại lông và vị trí nghỉ ngơi tự nhiên, đuôi của mỗi mèo có thể tiết lộ khá nhiều về cảm giác của mèo – không nghi ngờ gì nữa, ngôn ngữ cơ thể đuôi cho một săn Mỹ là duy nhất.
 
-<figure><img src="https://banmaixanh.org/image/article/cham-soc-cho-meo-098.jpg" alt="cham soc cho meo" title="cham soc cho meo" height=100% width=100%><figcaption><p>Hướng dẫn chăm sóc chó mèo đúng cách.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/cham-soc-cho-meo-098.jpg" alt="cham soc cho meo" title="cham soc cho meo" height=100% width=100%><figcaption><p>Hướng dẫn chăm sóc chó mèo đúng cách.</p></figcaption></figure>
 
 Ví dụ, bất cứ khi nào bạn nhận thấy người bạn mèo của mình di chuyển đuôi qua lại, hãy chú ý đến tốc độ. Một nhịp độ chậm, nhịp độ đều qua lại thường chỉ ra rằng họ đang tập trung vào một cái gì đó, chẳng hạn như một món đồ chơi trên sàn nhà hoặc một con chim ngoài cửa sổ. Nếu đuôi của chúng búng hoặc di chuyển nhanh hơn, điều này có thể biểu thị rằng mèo của bạn đang cảm thấy kích động.
 
@@ -36,7 +36,7 @@ Khi mèo của bạn tương tác với mọi người, bao gồm cả chính b�
 
 Đôi khi, bạn có thể ở xung quanh mèo có đuôi ngốc nghếch. Chúng có thể xuất hiện gần như hoạt hình, hoặc chúng sẽ giống với tư thế mèo Halloween của một cái đuôi sưng húp và cong lưng. Mặc dù điều này đôi khi có thể xảy ra khi chúng đang chơi, nhưng nó thường xảy ra vì mèo của bạn cảm thấy khó chịu, thông qua sự tức giận hoặc sợ hãi.
 
-<figure><img src="https://banmaixanh.org/image/article/cham-soc-cho-meo-099.jpg" alt="cham soc cho meo" title="cham soc cho meo" height=100% width=100%><figcaption><p>Hướng dẫn chăm sóc chó mèo đúng cách.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/cham-soc-cho-meo-099.jpg" alt="cham soc cho meo" title="cham soc cho meo" height=100% width=100%><figcaption><p>Hướng dẫn chăm sóc chó mèo đúng cách.</p></figcaption></figure>
 
 ## Ngôn ngữ cơ thể của mèo: Vị trí tai
 
@@ -46,7 +46,7 @@ Thứ nhất, suốt cả ngày, tai mèo của bạn sẽ di chuyển và xoay 
 
 Khi mèo chỉ đi chơi, tai của chúng sẽ ở tư thế nghỉ ngơi, đôi khi còn được gọi là tư thế trung lập. Tai của họ sẽ chủ yếu hướng về phía trước. Điều này cho thấy mèo của bạn hài lòng và hạnh phúc. Ở một vị trí tương tự, một số mèo sẽ đưa tai hoàn toàn về phía trước và đưa chúng thẳng lên – đây là chúng đang cảnh giác. Cho dù một cái gì đó đã thu hút sự chú ý của họ và họ đang cố gắng lắng nghe, hoặc họ đang chơi, và tai của họ ở vị trí _vồ trước,_ góc này cho tai không biểu thị bất cứ điều gì tiêu cực.
 
-<figure><img src="https://banmaixanh.org/image/article/cham-soc-cho-meo-011.jpg" alt="cham soc cho meo" title="cham soc cho meo" height=100% width=100%><figcaption><p>Hướng dẫn chăm sóc chó mèo đúng cách.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/cham-soc-cho-meo-011.jpg" alt="cham soc cho meo" title="cham soc cho meo" height=100% width=100%><figcaption><p>Hướng dẫn chăm sóc chó mèo đúng cách.</p></figcaption></figure>
 
 Nếu bạn dành thời gian xung quanh mèo, chắc chắn bạn đã nhìn thấy những con có tai thấp hơn và sang một bên, có thể hướng ra ngoài. Điều này có thể báo hiệu rằng mèo không thoải mái trong môi trường hiện tại của chúng và với người hoặc động vật trong công ty của chúng. Những cảm xúc khác gắn liền với ngôn ngữ cơ thể này bao gồm lo lắng và sợ hãi, có thể dẫn đến sự hung dữ nếu mèo không được cung cấp không gian chúng cần.
 
@@ -58,7 +58,7 @@ Tai mèo cũng có thể nằm ngửa và phẳng trên đầu. Đây là mèo c
 
 Để giúp bạn xác định xem mèo của bạn có hạnh phúc hay không, bạn có thể quan sát nhiều điểm ngôn ngữ cơ thể và nhìn vào _bức tranh lớn._ Đôi tai hướng về phía trước, biểu cảm bình tĩnh trên khuôn mặt, đôi mắt dịu dàng và cái đuôi cao đều có thể được đọc là mèo hạnh phúc. Tất nhiên, mỗi mèo là duy nhất trong cách chúng thể hiện bản thân. Nếu người bạn thân nhất của bạn có giọng nói, bạn có thể nhận thấy rằng họ phát ra những tiếng hót líu lo, tiếng rên rỉ hoặc tiếng meo meo hạnh phúc khi họ có tâm trạng tốt.
 
-<figure><img src="https://banmaixanh.org/image/article/cham-soc-cho-meo-016.jpg" alt="cham soc cho meo" title="cham soc cho meo" height=100% width=100%><figcaption><p>Hướng dẫn chăm sóc chó mèo đúng cách.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/cham-soc-cho-meo-016.jpg" alt="cham soc cho meo" title="cham soc cho meo" height=100% width=100%><figcaption><p>Hướng dẫn chăm sóc chó mèo đúng cách.</p></figcaption></figure>
 
 ### Ngôn ngữ cơ thể của mèo lo lắng
 
@@ -71,7 +71,7 @@ Khi quan sát ngôn ngữ cơ thể của mèo, hãy để ý đến tư thế c
 Trong một số trường hợp, mèo của bạn có thể nhét tất cả bàn chân của chúng dưới mình và quấn chặt đuôi quanh cơ thể. Điều này đôi khi có thể chỉ ra rằng họ không thoải mái trong môi trường hiện tại của họ.
 
 
-<figure><img src="https://banmaixanh.org/image/article/cham-soc-cho-meo-012.jpg" alt="cham soc cho meo" title="cham soc cho meo" height=100% width=100%><figcaption><p>Hướng dẫn chăm sóc chó mèo đúng cách.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/cham-soc-cho-meo-012.jpg" alt="cham soc cho meo" title="cham soc cho meo" height=100% width=100%><figcaption><p>Hướng dẫn chăm sóc chó mèo đúng cách.</p></figcaption></figure>
 
 
 Nếu mèo của bạn đang ngủ trưa hoặc nằm dài dưới ánh nắng mặt trời và chúng bị lăn qua, để lộ bụng, đây là một dấu hiệu tốt cho thấy chúng cảm thấy hạnh phúc và thoải mái trong môi trường của chúng. Những cử chỉ nhỏ khác của mèo hạnh phúc bao gồm nhào chăn, cọ xát vào cánh tay hoặc chân của bạn và va vào đầu.
@@ -86,10 +86,10 @@ Ví dụ, đó là một niềm tin bình thường rằng nếu mèo đang từ
 
 Những chi tiết cấp tính này có thể thay đổi từ mèo này sang mèo khác, đặc biệt là vì các giống mèo khác nhau có cấu trúc khuôn mặt khác nhau (tức là Shorthair kỳ lạ so với Maine Coon). Với ý nghĩ đó, bạn hiểu mèo của mình nhất, và sau khi dành một khoảng thời gian dài sống và tương tác với chúng, không có gì lạ khi chăm thú cưng nhận ra những thay đổi phức tạp này ở mèo của họ.
 
-<figure><img src="https://banmaixanh.org/image/article/cham-soc-cho-meo-017.jpg" alt="cham soc cho meo" title="cham soc cho meo" height=100% width=100%><figcaption><p>Hướng dẫn chăm sóc chó mèo đúng cách.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/cham-soc-cho-meo-017.jpg" alt="cham soc cho meo" title="cham soc cho meo" height=100% width=100%><figcaption><p>Hướng dẫn chăm sóc chó mèo đúng cách.</p></figcaption></figure>
 
 Cùng với ngôn ngữ cơ thể độc đáo của chúng, mèo cũng thể hiện nhiều loại hành vi, một số trong đó có vẻ khá kỳ quặc. Tìm hiểu những lời giải thích đằng sau những thói quen kỳ quặc này.
 
 Một trong những cách tốt nhất để tìm hiểu thêm về ngôn ngữ cơ thể phổ biến của mèo là quan sát mèo của bạn. Lưu ý cách họ hành động khi họ cảm thấy thoải mái, thư giãn và sẵn sàng ngủ trưa. Ngôn ngữ cơ thể của họ trông như thế nào khi họ muốn chơi? Họ có trở nên lớn tiếng hơn không? Bạn thậm chí có thể chú ý đến cách mèo của bạn hành động xung quanh các thành viên khác nhau trong gia đình so với khi khách đến và tương tác với chúng. Mèo chắc chắn là những sinh vật nhỏ bí ẩn, nhưng đó là một phần của niềm vui khi có một con xung quanh – cuộc sống không bao giờ nhàm chán.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-649.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-649.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

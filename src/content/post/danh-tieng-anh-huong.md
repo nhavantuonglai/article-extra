@@ -3,7 +3,7 @@ pubDatetime: 2022-03-20T10:10:00Z
 title: Đánh giá trực tuyến ảnh hưởng như thế nào đến doanh thu khách sạn?
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
 featured: false
-image: https://banmaixanh.org/image/cover/001-229.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-229.jpg
 tags:
   - viet thue
   - marketing
@@ -37,7 +37,7 @@ Một khía cạnh khác, nghiên cứu của Proserpio và Zervas, Chevalier, D
 
 – Độ dài văn bản của mỗi phản hồi: Chứa nội dung, tinh thần mà khách sạn muốn gửi gắm. Đừng viết ngắn quá, khiến khách đặt phòng cảm thấy chúng là những phản hồi hời hợt, cho có. Cũng đừng viết dài, phóng đại thông tin, khiến người khách đọc và nghi ngờ về tính chính xác.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-097.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-097.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Ảnh hưởng của các đánh giá trực tuyến tích cực và tiêu cực
 
@@ -57,7 +57,7 @@ Các đánh giá tích cực còn tăng đến 73% lượng khách hàng trung t
 
 Đồng thời, nếu khách hàng của bạn phản hồi tích cực về những trải nghiệm, dịch vụ như phòng tắm, bể bơi, bữa sáng… thì bạn cũng có thể dựa vào chúng để quảng bá, làm nổi bật chúng trên hồ sơ giải pháp, kênh truyền thông để thu hút thêm nhiều khách hàng tiềm năng. Đây được xem là một cách đọc vị, và nắm bắt xu hướng hành vi của khách hàng.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-098.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-098.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Ảnh hưởng của những đánh giá trực tuyến tiêu cực
 
@@ -77,7 +77,7 @@ Tiếp nữa, chúng là cơ hội tiếp thị hiệu quả, chất lượng m�
 
 Và cuối cùng, đánh giá trực tuyến là cách tìm hiểu, nghiên cứu đổi thủ hiệu quả mà bạn không nên bỏ qua. Những dịch vụ nào của khách sạn đối thủ đang được ưa thích? Tại sao du khách lại chọn họ mà không phải bạn? Vấn đề mà họ đang gặp phải khi phục vụ khách là gì?Những câu trả lời mà bạn cần đều nằm trong các đánh giá trực tuyến, và bạn chỉ cần theo dõi để biết khách đặt phòng của họ (khách sạn đối thủ) đang nghĩ gì về họ.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-099.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-099.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Làm thế nào để khách hàng để lại đánh giá trực tuyến?
 
@@ -101,8 +101,8 @@ Và điều cuối cùng cần nhớ, là hãy đơn giản hóa thủ tục, đ
 
 Một cách hay mà bạn có thể áp dụng đó là xếp hạng sao cho những tiêu chí, khách đặt phòng chỉ cần cho sao với từng hạng mục cụ thể như dịch vụ, bữa ăn, vệ sinh… thay vì bắt họ phải viết ra những điều ấy.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-100.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-100.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 Đánh giá trực tuyến khách sạn có vai trò quan trọng trong việc quảng bá thương hiệu cho khách sạn của bạn, do vậy hãy đừng bỏ qua chúng mà hãy tận dụng để tăng cường cơ hội tiếp thị hiệu quả hơn.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-229.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-229.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>

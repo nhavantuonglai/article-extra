@@ -3,7 +3,7 @@ pubDatetime: 2024-10-22T10:10:00Z
 title: Ủy thác đầu tư chứng khoán là gì, có nên tham gia không?
 description: Chuỗi bài viết của nhavantuonglai về kinh doanh vàng bạc đá quý và quỹ đầu tư sẽ giúp nhà đầu tư khởi nghiệp hiệu quả.
 featured: false
-image: https://banmaixanh.org/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - viet thue
   - marketing
@@ -44,4 +44,4 @@ Giải pháp duy trì được đà tăng trưởng liên tục trong 2-3 năm v
 
 Ban lãnh đạo có tư duy chiến lược mới tốt, đặc biệt là những giải pháp có sự thay đổi Ban Lãnh Đạo với khát vọng lớn và tầm nhìn xa, minh bạch.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

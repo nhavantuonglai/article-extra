@@ -3,7 +3,7 @@ pubDatetime: 2023-04-05T10:10:00Z
 title: Chữa bệnh ở mèo tại nhà
 description: Thú cưng của chúng ta là một ân sủng cứu rỗi khi chúng ta bị mắc kẹt bên trong. Những cái đuôi vẫy vẫy hạnh phúc
 featured: false
-image: https://banmaixanh.org/image/cover/001-691.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-691.jpg
 tags:
   - viet lach
   - thu cung
@@ -22,7 +22,7 @@ Chúng ở đó khi chúng ta cần trút giận hoặc chỉ cần một cái �
 
 Nhưng bị mắc kẹt ở nhà với thú cưng của bạn cũng có thể đưa ra những thách thức của nó. Ở đây bạn có thể tìm thấy một số lời khuyên về cách giữ cho thú cưng của bạn vui vẻ và tham gia khi bạn bị mắc kẹt bên trong.
 
-<figure><img src="https://banmaixanh.org/image/article/cham-soc-cho-meo-043.jpg" alt="cham soc cho meo" title="cham soc cho meo" height=100% width=100%><figcaption><p>Hướng dẫn chăm sóc chó mèo đúng cách.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/cham-soc-cho-meo-043.jpg" alt="cham soc cho meo" title="cham soc cho meo" height=100% width=100%><figcaption><p>Hướng dẫn chăm sóc chó mèo đúng cách.</p></figcaption></figure>
 
 ## Tuân thủ thói quen của họ
 
@@ -40,7 +40,7 @@ Như nhà hành vi học Purina, Tiến sĩ Francois Martin nhắc nhở chúng 
 
 Cha mẹ, hãy thở phào nhẹ nhõm: con bạn có thể cần các hoạt động để lấp đầy ngày của chúng, nhưng mèo hoặc chó của bạn sẽ ổn, và thậm chí sẽ được hưởng lợi từ việc có thời gian yên tĩnh.
 
-<figure><img src="https://banmaixanh.org/image/article/cham-soc-cho-meo-042.jpg" alt="cham soc cho meo" title="cham soc cho meo" height=100% width=100%><figcaption><p>Hướng dẫn chăm sóc chó mèo đúng cách.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/cham-soc-cho-meo-042.jpg" alt="cham soc cho meo" title="cham soc cho meo" height=100% width=100%><figcaption><p>Hướng dẫn chăm sóc chó mèo đúng cách.</p></figcaption></figure>
 
 ## Hãy để họ nhai nó ra
 
@@ -54,7 +54,7 @@ Giữ dây thần kinh trong kiểm tra và chuyển năng lượng thần kinh 
 
 Bạn có thể không thể đưa chó đến công viên dành cho chó để tập thể dục, nhưng bạn vẫn có thể tìm cách lấy năng lượng của chúng ra ngoài. Ngay cả một chuyến đi đến hộp thư có thể cung cấp một chút tập thể dục. Nếu bạn bị mắc kẹt bên trong, hãy dọn dẹp một số đồ đạc để nhường chỗ cho một Trò chơi tìm nạp hoặc kéo co.
 
-<figure><img src="https://banmaixanh.org/image/article/cham-soc-cho-meo-041.jpg" alt="cham soc cho meo" title="cham soc cho meo" height=100% width=100%><figcaption><p>Hướng dẫn chăm sóc chó mèo đúng cách.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/cham-soc-cho-meo-041.jpg" alt="cham soc cho meo" title="cham soc cho meo" height=100% width=100%><figcaption><p>Hướng dẫn chăm sóc chó mèo đúng cách.</p></figcaption></figure>
 
 Hãy ra sân sau nếu bạn có và chơi một trò chơi rượt đuổi. Chúng tôi khuyên bạn nên sử dụng tập thể dục như một cách khác để củng cố lịch trình của thú cưng của bạn. Có kế hoạch các buổi chơi vào cùng một thời điểm mỗi ngày, điều này sẽ khuyến khích thú cưng của bạn tuân theo thói quen, đồng thời cung cấp sự kích thích về thể chất và tinh thần, cũng như thúc đẩy mối liên kết giữa người và động vật.
 
@@ -76,7 +76,7 @@ Không ai đánh giá cao một người bạn cùng phòng luôn gây ồn ào,
 
 Nếu bạn có con trong nhà, hãy để chúng tham gia vào việc giữ cho thú cưng của bạn hạnh phúc và khỏe mạnh trong nhà. Bây giờ là thời điểm tuyệt vời để củng cố nghi thức thú cưng tốt và giúp trẻ hiểu ngôn ngữ cơ thể của thú cưng. Nó cũng có thể là niềm vui để liên quan đến vật nuôi trong việc học tập của con bạn.
 
-<figure><img src="https://banmaixanh.org/image/article/cham-soc-cho-meo-044.jpg" alt="cham soc cho meo" title="cham soc cho meo" height=100% width=100%><figcaption><p>Hướng dẫn chăm sóc chó mèo đúng cách.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/cham-soc-cho-meo-044.jpg" alt="cham soc cho meo" title="cham soc cho meo" height=100% width=100%><figcaption><p>Hướng dẫn chăm sóc chó mèo đúng cách.</p></figcaption></figure>
 
 Trẻ em vẫn cần phải học, và thú cưng đã được chứng minh là giúp trẻ em trong một số lĩnh vực học tập (ví dụ: đọc). Nếu thú cưng có thể chấp nhận được, thì hãy thực hiện và khuyến khích các buổi đọc sách cho thú cưng như một phần của thói quen của con bạn. Tìm hiểu thêm về Lợi ích của chó và trẻ em lớn lên cùng nhau.
 
@@ -88,7 +88,7 @@ Bạn có thể thưởng thức mac và pho mát và quá nhiều bánh hạnh 
 
 Nếu bạn đang cho thú cưng ăn nhiều đồ ăn vặt hơn bình thường để thưởng cho chúng vì là người bạn đồng hành tuyệt vời như vậy (bởi vì hãy đối mặt với nó, chúng xứng đáng với điều đó), Hãy nhớ rằng không quá 10 phần trăm lượng calo hàng ngày của thú cưng nên đến từ các món ăn.
 
-<figure><img src="https://banmaixanh.org/image/article/cham-soc-cho-meo-045.jpg" alt="cham soc cho meo" title="cham soc cho meo" height=100% width=100%><figcaption><p>Hướng dẫn chăm sóc chó mèo đúng cách.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/cham-soc-cho-meo-045.jpg" alt="cham soc cho meo" title="cham soc cho meo" height=100% width=100%><figcaption><p>Hướng dẫn chăm sóc chó mèo đúng cách.</p></figcaption></figure>
 
 ## Tạo một điểm an toàn
 
@@ -106,4 +106,4 @@ Cung cấp đồ chơi vui nhộn mà chó hoặc mèo của bạn có quyền t
 
 Có một cách hiệu quả để loại bỏ bất kỳ năng lượng hủy diệt nào có thể có lợi cho cả thú cưng và giày da của bạn.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-516.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-516.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

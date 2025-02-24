@@ -3,7 +3,7 @@ pubDatetime: 2024-03-28T10:10:00Z
 title: Hướng dẫn chi tiết khắc phục vấn đề viết lách không bị bí ý tưởng
 description: Bí ý tưởng khi viết lách là vấn đề mà nhiều người viết gặp phải, từ nhà văn chuyên nghiệp đến người viết blog nghiệp dư.
 featured: false
-image: https://banmaixanh.org/image/cover/001-537.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-537.jpg
 tags:
   - viet lach
   - ky nang viet
@@ -29,7 +29,7 @@ Trước khi tìm cách khắc phục, bạn cần hiểu nguyên nhân dẫn đ
 
 – Môi trường không thuận lợi: Làm việc trong không gian không thoải mái hoặc nhiều phiền nhiễu.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-039.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-039.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Tạo thói quen viết hàng ngày
 
@@ -51,7 +51,7 @@ Viết lách đều đặn mỗi ngày giúp bạn duy trì và phát triển k�
 
 – Ghi chú lại những ý tưởng hay và cảm hứng bạn nhận được từ việc đọc.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-040.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-040.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Tham gia cộng đồng viết lách
 
@@ -73,7 +73,7 @@ Hiện nay có rất nhiều công cụ và ứng dụng hỗ trợ việc tìm 
 
 – Mind mapping tools: Các công cụ như MindMeister, XMind giúp bạn tổ chức và phát triển ý tưởng một cách trực quan.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-041.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-041.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Tự đặt câu hỏi và trả lời
 
@@ -87,7 +87,7 @@ Một cách hiệu quả để khơi nguồn ý tưởng là tự đặt ra các
 
 – Làm thế nào để áp dụng chủ đề này trong thực tế?
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-042.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-042.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Sử dụng phương pháp brainstorming
 
@@ -109,7 +109,7 @@ Brainstorming là một phương pháp sáng tạo giúp bạn ghi lại tất c
 
 – Thử viết các thể loại khác nhau như thơ, truyện ngắn, bài viết học thuật…
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-043.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-043.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Nghỉ ngơi và thư giãn
 
@@ -121,7 +121,7 @@ Brainstorming là một phương pháp sáng tạo giúp bạn ghi lại tất c
 
 – Thử các hoạt động sáng tạo khác như vẽ tranh, làm thủ công…
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-044.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-044.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Ghi lại ý tưởng ngay khi chúng xuất hiện
 
@@ -137,7 +137,7 @@ Tạo ra một lịch trình viết lách giúp bạn có kỷ luật hơn và d
 
 – Tự thưởng cho bản thân khi hoàn thành mục tiêu để tạo động lực.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-045.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-045.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Tự tạo cảm hứng từ cuộc sống hàng ngày
 
@@ -155,4 +155,4 @@ Làm sao để viết lách không bị bí ý tưởng? Câu trả lời nằm 
 
 Hy vọng bài viết này đã mang lại những thông tin hữu ích và giá trị cho bạn. Hãy bắt đầu áp dụng những chiến lược trên và khám phá sự sáng tạo không giới hạn trong viết lách.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-211.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-211.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

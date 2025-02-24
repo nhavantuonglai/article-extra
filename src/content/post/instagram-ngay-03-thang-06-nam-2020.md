@@ -3,7 +3,7 @@ pubDatetime: 2020-03-07T10:10:00Z
 title: Bài viết trên Instagram ngày 03 tháng 06 năm 2020
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - viet lach
   - doan van
@@ -20,4 +20,4 @@ tấm này là trong cuộn cine cuối cùng mà mình sẽ chụp, 
 
 đoạn này là Đức chụp, trong lần hẹn với chị Voi. chị thì đôi năm còn bạn chừng sáu tháng chưa gặp. đôi khi, chung một thành phố nhưng chẳng gặp nhau đâu, chỉ khi nào có một ai ghé ngang, thì lý do cho những cái hẹn mới thật tròn vẹn, thật là vui…
 
-<figure><img src="https://banmaixanh.org/image/cover/001-132.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-132.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

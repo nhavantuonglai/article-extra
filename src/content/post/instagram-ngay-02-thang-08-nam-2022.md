@@ -3,7 +3,7 @@ pubDatetime: 2022-08-02T10:10:00Z
 title: Bài viết trên Instagram ngày 02 tháng 08 năm 2022
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-321.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-321.jpg
 tags:
   - viet lach
   - doan van
@@ -22,4 +22,4 @@ quay trở lại đầu bài, thời điểm đó cũng là lúc mình vừa m�
 
 và cách cậu bạn kia chụp, tìm bắt những khoảnh khắc trong khung hình, khiến mình nhận ra sự cầu toàn dần tăng lên của bản thân trong những lần bấm máy, đôi khi khiến cảm hứng mà mình từng có lại không còn trọn vẹn như trước. chính xác hơn, chụp đơn giản là chụp, không nên hơn không nên kém.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-332.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-332.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

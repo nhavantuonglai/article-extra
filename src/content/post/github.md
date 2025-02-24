@@ -3,7 +3,7 @@ pubDatetime: 2024-05-25T10:10:00Z
 title: Tìm hiểu toàn diện về GitHub
 description: GitHub là dịch vụ lưu trữ cho phép các lập trình viên dễ dàng xây dựng và xuất bản website cá nhân.
 featured: false
-image: https://banmaixanh.org/image/cover/001-623.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-623.jpg
 tags:
   - webflow
   - website
@@ -50,4 +50,4 @@ Khi truy cập vào website, hãy kiểm tra xem tất cả các phần tử c�
 
 Sau khi xác nhận rằng website của bạn đã hoạt động như mong muốn, bạn có thể chia sẻ URL này với mọi người để họ có thể truy cập vào website của bạn. Đây là cách tốt nhất để giới thiệu bản thân hoặc dự án của bạn đến với cộng đồng, đồng thời nâng cao kỹ năng quản lý mã nguồn và xây dựng website của bạn.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-632.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-632.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

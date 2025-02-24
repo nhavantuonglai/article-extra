@@ -3,7 +3,7 @@ pubDatetime: 2023-07-28T10:10:00Z
 title: 10 thuyết âm mưu phổ biến nhất của Mỹ
 description: Một giả thuyết gần đây được đặt ra bởi các nhà nghiên cứu thực sự coi nói chuyện âm mưu là một cách để củng cố hiện trạng.
 featured: false
-image: https://banmaixanh.org/image/cover/001-428.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-428.jpg
 tags:
   - viet lach
   - thuyet am muu
@@ -112,4 +112,4 @@ Chỉ có khoảng 54% dân số thế giới đã nghe nói về Holocaust, the
 
 Với thực tế chính trị, không có gì ngạc nhiên khi chỉ có 8% số người được hỏi ở Trung Đông nghe nói về Holocaust và tin rằng mô tả của nó là đúng.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-514.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-514.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

@@ -3,7 +3,7 @@ pubDatetime: 2022-07-09T10:10:00Z
 title: Lợi ích và chi phí khi sử dụng hệ thống POS trong khách sạn
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
 featured: false
-image: https://banmaixanh.org/image/cover/001-727.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-727.jpg
 tags:
   - viet thue
   - marketing
@@ -41,7 +41,7 @@ Với hệ thống POS chạy trực tuyến, các khách sạn có thể linh h
 
 Hệ thống POS là hệ thống xử lý giao dịch, hóa đơn giữa du khách và khách sạn, để mọi giao dịch cộng vào hóa đơn tổng, giúp người mua thuận tiện và thoải mái mua sắm, và khách sạn cũng đơn giản hóa dòng tiền.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-099.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-099.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Kết luận
 ## Các loại hệ thống POS
@@ -76,7 +76,7 @@ Hệ thống POS kiot hay còn gọi là hệ thống POS tự phục vụ, đư
 
 Hệ thống POS đầu cuối là hệ thống yêu cầu thiết bị đầu cuối để thực hiện giao dịch, cập nhật dữ liệu lên hệ thống. Đây là giải pháp phổ biến, được nhiều nhà hàng, quán ăn lẫn khách sạn áp dụng để tính hóa đơn cho du khách; nhưng chúng vẫn cần đối chiếu thủ công để đảm bảo chính xác.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-100.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-100.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 #### Thiết bị phần cứng của hệ thống POS
 
@@ -96,7 +96,7 @@ Dù hệ thống POS cài đặt cục bộ hay vận hành trên đám mây, th
 
 Tùy vào điều kiện thực tế, quy mô cũng như nhu cầu triển khai, mà các khách sạn có thể linh hoạt áp dụng, sử dụng các phần cứng phù hợp để tạo nên hệ thống POS cho riêng khách sạn của mình.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-101.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-101.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Lợi ích khi sử dụng hệ thống POS trong khách sạn
 
@@ -140,7 +140,7 @@ Một lợi ích khác khi áp dụng hệ thống POS trong khách sạn, đó 
 
 Dựa trên những dữ liệu thu thập từ hệ thống POS, khách sạn có thể lập các bản báo cáo định kỳ như hàng ngày, hàng tuần… để theo dõi và đo lường. Rồi dựa vào đó để làm cơ sở, căn cứ đánh giá chất lượng kinh doanh của khách sạn nói chung, cũng như kinh doanh các điểm bán hàng trong khách sạn nói riêng.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-102.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-102.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Chi phí để triển khai hệ thống POS trong khách sạn là bao nhiêu?
 
@@ -154,4 +154,4 @@ Không phải hệ thống POS nào cũng cùng mức giá và chức năng, nga
 
 Như vậy, ta có thể thấy rõ là, hệ thống POS trong khách sạn quan trọng và hữu ích rất nhiều, giúp kế hoạch kinh doanh, bán hàng trong khách sạn triển khai được như ý, đem lại hiệu quả và tiện lợi cho du khách. Nên nếu khách sạn của bạn chưa sử dụng hệ thống POS, đây là lúc cân nhắc áp dụng, để khai thác và bán dịch vụ trong khách sạn được hiệu quả hơn.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-510.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-510.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>

@@ -3,7 +3,7 @@ pubDatetime: 2019-05-07T10:10:00Z
 title: Bài viết trên Instagram ngày 23 tháng 05 năm 2019
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - viet lach
   - doan van
@@ -20,4 +20,4 @@ dấu ấn từ sự khổ cực và tiếc nuối đó, ba mẹ mình lấy là
 
 dù được xem là động lực, nhưng chưa bao giờ mình nghĩ điều ấy là đúng đắn. thi mỗi thời một khác, nhưng chuyện cảm động mùa nào chẳng thiếu. những gia đình bán cả gia sản, gói gọn trong đàn bò đàn heo để hành trang của con thêm chắc chắn. những người cha người mẹ miệt mài đợi dưới cổng trường, đợi yên cả khi mưa ào nước ngập, đợi đến khi con ra mới chậm rãi rời đi… những chuyện như vậy không thiếu cảm xúc, cũng chẳng thừa chân thật. nhưng thi thoảng, nó khiến người ta quên việc hỏi nhau rằng: liệu, đại học có là con đường duy nhất, có là lựa chọn là mong muốn của những đứa con bé bỏng của mình hay không?
 
-<figure><img src="https://banmaixanh.org/image/cover/001-213.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-213.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

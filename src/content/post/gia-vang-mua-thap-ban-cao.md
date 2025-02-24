@@ -3,7 +3,7 @@ pubDatetime: 2021-11-27T10:10:00Z
 title: Bí quyết mua thấp bán cao bằng đường xu hướng trong biểu đồ giá vàng
 description: Chuỗi bài viết của nhavantuonglai về kinh doanh vàng bạc đá quý và quỹ đầu tư sẽ giúp nhà đầu tư khởi nghiệp hiệu quả.
 featured: false
-image: https://banmaixanh.org/image/cover/001-649.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-649.jpg
 tags:
   - viet thue
   - marketing
@@ -124,4 +124,4 @@ Tuy rằng có được sự an tâm, nhưng không gì là tuyệt đối, và 
 
 Như những gì trên đây đã chia sẻ, chúng ta đã cùng nhau tìm hiểu đường xu hướng, cách ứng dụng cũng như ưu nhược điểm của nó. Đường xu hướng đem đến cơ hội mua thấp bán cao rõ ràng cho các nhà đầu tư. Tuy nhiên, cần phải có những chiến thuật riêng biệt và chắc chắn. Cũng cần sự ổn định của thị trường để đảm bảo rằng mọi quyết định đầu tư sẽ xác đáng.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-304.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-304.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

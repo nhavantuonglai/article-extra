@@ -3,7 +3,7 @@ pubDatetime: 2023-03-10T10:10:00Z
 title: Tiêu chuẩn thành công trong công nghệ khách sạn
 description: Thẻ từ khách sạn, NFC, thẻ từ và thẻ RFID là các loại thẻ khác nhau giúp việc vào phòng khách sạn trở nên dễ dàng hơn.
 featured: false
-image: https://banmaixanh.org/image/cover/001-514.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-514.jpg
 tags:
   - viet thue
   - marketing
@@ -35,7 +35,7 @@ Nhưng đây chỉ là kết quả của một vấn đề lớn hơn.
 
 Trong ngành công nghiệp rộng lớn hơn, điều này đã xảy ra từ mười năm trước, nhưng chúng ta vẫn nói về nó trong ngành khách sạn. Chúng ta cần đi xa hơn cuộc trò chuyện này, vượt qua việc nói về đám mây và thay vào đó là xem công nghệ như một động lực kinh doanh lớn và như một giải pháp cho những vấn đề lớn nhất của chúng ta.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-066.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-066.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Cách nhìn nhận thay đổi về công nghệ
 
@@ -77,7 +77,7 @@ Công nghệ cũng có thể giúp bạn ở nhiều khía cạnh. Bạn có th�
 
 Chúng tôi thấy rằng nếu có cơ hội, một trong mười khách hàng sẽ nâng cấp hoặc mua thêm dịch vụ trước khi họ check-in. Điều này làm tăng giá trị đặt phòng của họ trước khi họ đặt chân vào khách sạn.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-067.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-067.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Doanh thu trên mỗi mét vuông khả dụng (RevPAM)
 
@@ -103,4 +103,4 @@ Tại Mews, chúng tôi luôn ám ảnh về thời gian những nhiệm vụ n�
 
 Tôi tự hào thông báo rằng các nhiệm vụ thường xuyên nhất trong Mews chỉ mất vài giây, không phải phút, và tất cả những cải tiến mà chúng tôi thực hiện trong năm qua đã mang lại một kết quả tiết kiệm thời gian khổng lồ là 46%. Điều đó có nghĩa là gần một nửa thời gian của nhân viên khách sạn được trả lại.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-314.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-314.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>

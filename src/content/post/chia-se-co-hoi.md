@@ -3,7 +3,7 @@ pubDatetime: 2023-04-03T10:10:00Z
 title: Tổng hợp các trang chia sẻ dự án, tập huấn, sự kiện, cơ hội dành cho giới trẻ
 description: Mình nghĩ, một con người năng động thì sẽ luôn muốn nhìn thấy những thứ năng động, bởi vậy,  Bài share này mình tổng hợp lại với mục đích chia sẻ với mọi người cái news feed mà mình đang nhìn hằng ngày.
 featured: false
-image: https://banmaixanh.org/image/cover/001-499.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-499.jpg
 tags:
   - viet lach
   - marketing
@@ -292,4 +292,4 @@ Internships & Jobs in Vietnam fb.com/groups/internships.vietnam/
 
 Biệt đội Trăng Đen fb.com/groups/bietdoitrangden/?fref=ts
 
-<figure><img src="https://banmaixanh.org/image/cover/001-214.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-214.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

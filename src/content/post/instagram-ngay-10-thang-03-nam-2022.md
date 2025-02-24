@@ -3,7 +3,7 @@ pubDatetime: 2022-03-10T10:10:00Z
 title: Bài viết trên Instagram ngày 10 tháng 03 năm 2022
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-323.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-323.jpg
 tags:
   - viet lach
   - doan van
@@ -22,4 +22,4 @@ mình không hay xem film Việt, nhưng mình nhớ lời anh đạo diễn Vũ
 
 tất nhiên, đó là con đường khó. nhưng tin mình đi, làm nội dung hợp thời nhưng không hợp thân là điều không bao giờ mình chọn.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

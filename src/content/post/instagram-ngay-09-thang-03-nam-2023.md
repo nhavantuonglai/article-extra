@@ -3,7 +3,7 @@ pubDatetime: 2023-03-09T10:10:00Z
 title: Bài viết trên Instagram ngày 09 tháng 03 năm 2023
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-125.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-125.jpg
 tags:
   - viet lach
   - doan van
@@ -16,4 +16,4 @@ khi bay về Đà Nẵng, ngoài những chuyện xảy ra trong chuyến đi h�
 
 với mỗi cách ấy, mình đều không thể yêu Huế đến nơi đến chốn, chỉ có thể là mỗi thứ một ít rồi quyện lại mà thành, và rất muốn được tập trung yêu nhiều nhất trong từng cách đã kể. mình cũng có những người bạn, được sống ở Huế nhưng không muốn sống tiếp ở Huế; được gặp gỡ và sống trong bầu không khí văn hóa nghệ thuật Huế để có thêm nhiều cơ hội tìm hiểu nhưng lại không hào hứng tìm hiểu. mình nghĩ rằng, đó đều nghiệp chướng mà tụi mình phải nhận; chúng không tốt cũng chẳng xấu, chỉ là tụi mình đều không hài lòng với hiện tại, và muốn một cái gì đó xa hơn. chỉ khác là, có một cái xa để được xa Huế, và một cái xa là để gần Huế hơn.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

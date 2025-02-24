@@ -3,7 +3,7 @@ pubDatetime: 2019-12-07T10:10:00Z
 title: Bài viết trên Instagram ngày 24 tháng 12 năm 2019
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - viet lach
   - doan van
@@ -22,4 +22,4 @@ mình thì khác Cua, khác ở chuyện cảm giác an toàn mà bạn nói th�
 
 nói gì đi, cầu mong điều đẹp đẽ nhất sẽ đến với mày cùng những người xung quanh ấy, cầu khấn xong bạn thấy mình đứng yên thì hỏi rồi nói. đoạn ấy tự nhiên lại thắc mắc, liệu khi suy nghĩ về bản thân, hay gia đình và cả những người mình thương rồi cầu xin thần thánh thì có chút nào hiệu nghiệm không? mà câu trả lời cho điều ấy mình thấy khó khăn quá, nhất là việc kiểm chứng rằng có một ai đó sẽ ban phát phước lành, chở che từ trên cao đâu.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-144.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-144.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

@@ -3,7 +3,7 @@ pubDatetime: 2021-03-07T10:10:00Z
 title: Bài viết trên Instagram ngày 08 tháng 03 năm 2021
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-323.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-323.jpg
 tags:
   - viet lach
   - doan van
@@ -22,4 +22,4 @@ bạn kể xong làm mình thấy thú vị vô cùng. hẳn mặc 
 
 với mình, kế hoạch ấy không to lớn cũng chẳng thay đổi điều gì hết, nó rất nhỏ bé và vô cùng cá nhân; nhưng cơ bản với bạn – bạn thấy vui, cảm nhận được niềm hạnh phúc, và vẫn vững tin vào nó; thì tại sao mình lại không dốc lòng mà ủng hộ cơ chứ?
 
-<figure><img src="https://banmaixanh.org/image/cover/001-310.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-310.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

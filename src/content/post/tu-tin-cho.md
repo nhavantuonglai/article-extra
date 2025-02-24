@@ -3,7 +3,7 @@ pubDatetime: 2021-04-22T10:10:00Z
 title: 4 lời khuyên hữu ích về cách xây dựng sự tự tin ở chó
 description: Chúng ta đều biết rằng những của chúng ta cần tập thể dục và thường nghĩ rằng đây chỉ là cuộc đi bộ hàng ngày của chúng.
 featured: false
-image: https://banmaixanh.org/image/cover/001-201.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-201.jpg
 tags:
   - viet lach
   - thu cung
@@ -47,7 +47,7 @@ Làm thế nào để xây dựng sự tự tin của một
 
 Một an toàn và tự tin là một hạnh phúc, và sự tự tin có thể tạo ra tất cả sự khác biệt trong sức khỏe tổng thể của người bạn thân chó của bạn. Dưới đây là một số cách bạn có thể giúp xây dựng sự tự tin cho chú chó của bạn và giúp đảm bảo chúng đang sống một cuộc sống hạnh phúc và khỏe mạnh.
 
-<figure><img src="https://banmaixanh.org/image/article/cham-soc-cho-meo-131.jpg" alt="cham soc cho meo" title="cham soc cho meo" height=100% width=100%><figcaption><p>Hướng dẫn chăm sóc chó mèo đúng cách.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/cham-soc-cho-meo-131.jpg" alt="cham soc cho meo" title="cham soc cho meo" height=100% width=100%><figcaption><p>Hướng dẫn chăm sóc chó mèo đúng cách.</p></figcaption></figure>
 
 ## Tạo không gian an toàn
 
@@ -59,7 +59,7 @@ Không bao giờ đặt họ vào những tình huống đáng sợ hoặc khi�
 
 Về cơ bản, cư xử như cha mẹ.
 
-<figure><img src="https://banmaixanh.org/image/article/cham-soc-cho-meo-132.jpg" alt="cham soc cho meo" title="cham soc cho meo" height=100% width=100%><figcaption><p>Hướng dẫn chăm sóc chó mèo đúng cách.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/cham-soc-cho-meo-132.jpg" alt="cham soc cho meo" title="cham soc cho meo" height=100% width=100%><figcaption><p>Hướng dẫn chăm sóc chó mèo đúng cách.</p></figcaption></figure>
 
 ## Đào tạo dựa trên phần thưởng
 
@@ -73,7 +73,7 @@ Bạn nên đưa chó con của bạn – hoặc – ra ngoài và về những 
 
 Tuy nhiên, họ cần những người bạn chó, và vì vậy việc tìm một lớp học dành cho chó con nơi có sự kết hợp giữa các bài tập huấn luyện và cơ hội chơi phù hợp, được quản lý tốt sẽ rất tốt cho sự tự tin chó của bạn – cũng như tham gia với bạn bè và gia đình để đi dạo hoặc chỉ đi chơi với những trưởng thành thân thiện của họ.
 
-<figure><img src="https://banmaixanh.org/image/article/cham-soc-cho-meo-133.jpg" alt="cham soc cho meo" title="cham soc cho meo" height=100% width=100%><figcaption><p>Hướng dẫn chăm sóc chó mèo đúng cách.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/cham-soc-cho-meo-133.jpg" alt="cham soc cho meo" title="cham soc cho meo" height=100% width=100%><figcaption><p>Hướng dẫn chăm sóc chó mèo đúng cách.</p></figcaption></figure>
 
 ## Công việc mũi và câu đố
 
@@ -81,7 +81,7 @@ Các bài tập xây dựng sự tự tin hữu ích khác cho chó có thể l�
 
 Nếu bạn nghĩ rằng sự tự tin chó của bạn đang giảm xuống hoặc chúng ngày càng trở nên phản ứng, hãy nói chuyện với một nhà hành vi được công nhận.
 
-<figure><img src="https://banmaixanh.org/image/article/cham-soc-cho-meo-135.jpg" alt="cham soc cho meo" title="cham soc cho meo" height=100% width=100%><figcaption><p>Hướng dẫn chăm sóc chó mèo đúng cách.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/cham-soc-cho-meo-135.jpg" alt="cham soc cho meo" title="cham soc cho meo" height=100% width=100%><figcaption><p>Hướng dẫn chăm sóc chó mèo đúng cách.</p></figcaption></figure>
 
 Hãy nhớ rằng để giúp của bạn có được nhiều sự tự tin, điều quan trọng hơn nhiều là cách bạn tương tác với chúng trong cuộc sống hàng ngày hơn là cách bạn thực hiện các bài tập cụ thể. Nói cách khác, xây dựng một mối quan hệ không giống như đào tạo, và như chúng ta đều biết, việc tạo ra một mối quan hệ đòi hỏi thời gian và sự kiên nhẫn. Cuối cùng, tất cả sẽ đáng giá vì bạn sẽ có được một thoải mái, an toàn hơn và tốt hơn nữa, người bạn tốt nhất của chó mà bạn luôn mơ ước.
 
@@ -105,8 +105,8 @@ Bây giờ bạn đã biết cách xây dựng sự tự tin ở một, đây l�
 
 – Cơ thể và đuôi thư giãn.
 
-<figure><img src="https://banmaixanh.org/image/article/cham-soc-cho-meo-134.jpg" alt="cham soc cho meo" title="cham soc cho meo" height=100% width=100%><figcaption><p>Hướng dẫn chăm sóc chó mèo đúng cách.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/cham-soc-cho-meo-134.jpg" alt="cham soc cho meo" title="cham soc cho meo" height=100% width=100%><figcaption><p>Hướng dẫn chăm sóc chó mèo đúng cách.</p></figcaption></figure>
 
 Điều quan trọng là chỉ ra rằng chó có thể thể hiện ngôn ngữ cơ thể khác nhau tùy thuộc vào giống hoặc tính cách của chúng, vì vậy những ví dụ này có thể không áp dụng cho tất cả các.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-239.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-239.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

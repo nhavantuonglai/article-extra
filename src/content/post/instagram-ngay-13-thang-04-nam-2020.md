@@ -3,7 +3,7 @@ pubDatetime: 2020-04-07T10:10:00Z
 title: Bài viết trên Instagram ngày 13 tháng 04 năm 2020
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - viet lach
   - doan van
@@ -18,4 +18,4 @@ còn bản thực tế thì đơn giản hơn, cầu này trước
 
 tuy thế, lúc chuyện ấy còn chưa đến thì nơi này vẫn là một lựa chọn lý tưởng cho mọi người ghé ngang lúc ban chiều, vừa dạo mát lại thong dong thể dục, và tiện nhất là để ngắm hoàng hôn trên biển. trong hình là trước khi nó diễn ra, còn diễn ra như thế nào xin đợi ảnh sau.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

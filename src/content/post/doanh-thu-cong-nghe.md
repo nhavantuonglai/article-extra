@@ -3,7 +3,7 @@ pubDatetime: 2022-04-06T10:10:00Z
 title: Công nghệ khách sạn giúp tăng doanh thu hiệu quả như thế nào?
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
 featured: false
-image: https://banmaixanh.org/image/cover/001-357.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-357.jpg
 tags:
   - viet thue
   - marketing
@@ -31,7 +31,7 @@ Trong bối cảnh hiện tại, công nghệ bạn đang sử dụng phải đ�
 
 Có thể rằng bạn sẽ phải cạnh tranh gay gắt với các kênh OTA, và các chuỗi khách sạn có ngân sách khổng lồ; nhưng điều đó không có nghĩa rằng – những khách sạn độc lập là không thể cạnh tranh. Cho nên, nếu bạn đang sử dụng các giải pháp mà mình đang có hiệu quả, thì đó chính là bước khởi đầu hoàn hảo.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-040.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-040.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Những hoạt động sử dụng công nghệ có thể áp dụng
 
@@ -69,7 +69,7 @@ Các phần mềm quản lý đặt phòng, [Booking Engine](https://nhavantuong
 
 An toàn là yêu cầu quan trọng hàng đầu trong thanh toán online. Bởi hơn bao giờ hết, công cụ đặt phòng cần phải đảm bảo an toàn, không rủi ro thì người dùng mới an tâm giao dịch, thanh toán. Quy trình thanh toán qua thẻ cũng cần tuân theo những quy chuẩn nhất định.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-041.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-041.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Website khách sạn
 
@@ -103,7 +103,7 @@ Các báo cáo gần đây cho thấy, 75% lưu lượng truy cập website đ�
 
 Thông qua Analytics, bạn sẽ thấy thông tin thống kê thiết bị truy cập chính của người dùng trên website mình là gì. Có thể rằng di động là ưu thế, nhưng cũng đừng quên là máy tính để bàn vẫn có vị trí quan trọng. Đặc biệt là tỷ lệ chuyển đổi, sẽ có sự khác biệt giữa tỷ lệ chuyển đổi trên di động, và máy tính để bàn. Nếu bạn thấy có gì đó bất thường, hãy kiểm tra ngay để khắc phục.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-042.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-042.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Bước 3: Làm thế nào để họ tìm thấy bạn?
 
@@ -131,10 +131,10 @@ Nhưng cũng tầm thời gian ấy, nếu họ ở _Thư viện,_ hoặc _Đị
 
 Cuối cùng, là tỷ lệ thoát trang. Hãy duy trì nó ở mức 20 đến 40%, và tỷ lệ này sẽ cao hơn trên di động.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-044.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-044.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Bước 5: Họ chuẩn bị đặt gì?
 
 Dù đối tác bán phòng của bạn là ai, cũng hãy kiểm tra báo cáo về công cụ đặt phòng của bạn thật cẩn thận để theo dõi những ưu đãi, chương trình nào đang hoạt động tốt và đem lại doanh thu để phát triển.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-307.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-307.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>

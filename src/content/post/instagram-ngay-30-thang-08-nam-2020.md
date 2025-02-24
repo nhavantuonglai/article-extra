@@ -3,7 +3,7 @@ pubDatetime: 2020-08-07T10:10:00Z
 title: Bài viết trên Instagram ngày 30 tháng 08 năm 2020
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - viet lach
   - doan van
@@ -20,4 +20,4 @@ mình được dạy rằng, giấc mơ là phản ánh những đi
 
 bởi vậy, nhiều khi tỉnh giấc, tỉnh táo hẳn vì những giấc mơ như thế, mình lại nhắn xem bạn có thật sự đang ổn, hay có đang cần mình vào những ngày này? mình không biết giải thích gì với bạn, nhưng mình biết bạn hiểu điều mình nói là gì. nếu bạn nói rằng bạn ổn, mình an lành mà ngủ tiếp. còn nếu bạn bảo không, thì mình biết điều đang chờ đón mình trong ngày mai sẽ là gì…
 
-<figure><img src="https://banmaixanh.org/image/cover/001-116.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-116.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

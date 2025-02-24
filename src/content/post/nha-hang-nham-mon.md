@@ -3,7 +3,7 @@ pubDatetime: 2023-02-02T10:10:00Z
 title: Làm thế nào để giảm thiểu rủi ro phục vụ nhầm món trong nhà hàng của bạn?
 description: Tìm hiểu các chiến lược tiếp thị nhà hàng hiệu quả trong chuỗi bài viết sau của nhavantuonglai để áp dụng và đem lại hiệu quả thiết thực cho giải pháp của bạn.
 featured: false
-image: https://banmaixanh.org/image/cover/001-649.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-649.jpg
 tags:
   - viet thue
   - marketing
@@ -80,4 +80,4 @@ Một nhà hàng được quản lý hiệu quả, là một hệ thống đư�
 
 Tổng kết lại, khi nhà hàng thay đổi cách quản lý, vận hành truyền thống, cũ kỹ để áp dụng các giải pháp công nghệ, thì rủi ro phục vụ nhầm, sai món cho thực khách cũng sẽ hạn chế, từ đó trải nghiệm và sự hài lòng của khách hàng được cải thiện, tăng dần theo từng lần ghé thăm.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-610.jpg" alt="nha hang, am thuc." title="nha hang, am thuc." height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-610.jpg" alt="nha hang, am thuc." title="nha hang, am thuc." height=100% width=100%><figcaption><p></p></figcaption></figure>

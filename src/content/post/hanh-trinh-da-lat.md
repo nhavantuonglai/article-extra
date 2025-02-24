@@ -3,7 +3,7 @@ pubDatetime: 2023-12-20T10:10:00Z
 title: Những ghi chép trong hành trình Đà Lạt
 description: Sau 2 năm ở Đà Nẵng, mình quyết định sẽ chuyển sang một thành phố khác, mình sẽ đến một nơi có khí hậu mát mẻ và có nhiều hoa, có nhiều dự định mình nghĩ sẽ khả thi nếu bắt đầu từ…
 featured: false
-image: https://banmaixanh.org/image/cover/001-297.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-297.jpg
 tags:
   - viet lach
   - doan van
@@ -115,4 +115,4 @@ Bạn mình kể, đèo lên Đà Lạt từ phía Nam là vô cùng nguy hiểm
 
 …
 
-<figure><img src="https://banmaixanh.org/image/cover/001-210.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-210.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

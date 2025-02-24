@@ -3,7 +3,7 @@ pubDatetime: 2021-05-07T10:10:00Z
 title: Bài viết trên Instagram ngày 09 tháng 05 năm 2021
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-323.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-323.jpg
 tags:
   - viet lach
   - doan van
@@ -26,4 +26,4 @@ cảm giác mệt mỏi lúc ban sáng, cái nằm dài muốn ngủ 
 
 vậy phải làm thế nào? anh bạn đồng nghiệp chọn rời đi, mình cũng đã thế hai lần, và bạn cũng nên vậy. điều đó không phải là chạy trốn, không dám đối mặt hay một điều tương tự khác; mà nó chỉ là sự quan tâm, tìm đến điều tốt đẹp hơn cho tinh thần của mình. đơn giản, chỉ như vậy mà thôi.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-310.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-310.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

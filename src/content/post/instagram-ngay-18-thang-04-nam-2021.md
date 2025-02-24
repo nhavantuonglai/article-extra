@@ -3,7 +3,7 @@ pubDatetime: 2021-04-07T10:10:00Z
 title: Bài viết trên Instagram ngày 18 tháng 04 năm 2021
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - viet lach
   - doan van
@@ -28,4 +28,4 @@ ở góc này nhìn vào ban sáng, sẽ thấy cả khung cảnh, cả
 
 còn nếu nhìn lúc ban chiều, những khi thành phố không còn gì để níu nên mình về nhà sớm, cả dòng sông sẽ được nhuộm màu của nắng, vàng ươm và mát dịu đến vô cùng.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

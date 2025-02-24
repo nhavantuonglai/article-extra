@@ -3,7 +3,7 @@ pubDatetime: 2021-02-07T10:10:00Z
 title: Bài viết trên Instagram ngày 19 tháng 02 năm 2021
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - viet lach
   - doan van
@@ -22,4 +22,4 @@ nên, khi sắp đầy năm rưỡi, mình lại đi tiếp, về lại Đà N�
 
 bạn khi thấy mình xuống Sài Gòn khi mới nghe lên Đà Lạt, đã hỏi rằng liệu định lông bông thế đến bao giờ? mình bảo nói lông bông cũng được, chẳng có gì là sai; nhưng mà nếu ở được thì ở, không được thì đi, mắc gì phải níu lại cho thêm mệt, mình không vì sợ người ta bảo lông bông mà không dám rời đi dù nơi ấy lắm vấn đề; và tại sao đi được mà không về được?
 
-<figure><img src="https://banmaixanh.org/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

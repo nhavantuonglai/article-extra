@@ -3,7 +3,7 @@ pubDatetime: 2021-04-16T10:10:00Z
 title: Say nắng ở mèo
 description: Say nắng ở mèo có thể phát triển do tiếp xúc quá nhiều với thời tiết ấm áp. Mèo, như chúng ta biết, thích ra ngoài và khám phá thế giới xung quanh.
 featured: false
-image: https://banmaixanh.org/image/cover/001-489.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-489.jpg
 tags:
   - viet lach
   - thu cung
@@ -46,7 +46,7 @@ Có một vài dấu hiệu kiệt sức do nhiệt ở mèo cần chú ý:
 
 Mèo không có khả năng đổ mồ hôi giống như con người. Chúng cũng có một bộ lông dày mà chúng không thể loại bỏ. Do đó, họ dễ bị say nắng hơn chúng ta. Một cách mà mèo kiểm soát nhiệt độ của chúng là tự liếm, có tác dụng làm mát khi nước bọt bay hơi.
 
-<figure><img src="https://banmaixanh.org/image/article/cham-soc-cho-meo-056.jpg" alt="cham soc cho meo" title="cham soc cho meo" height=100% width=100%><figcaption><p>Hướng dẫn chăm sóc chó mèo đúng cách.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/cham-soc-cho-meo-056.jpg" alt="cham soc cho meo" title="cham soc cho meo" height=100% width=100%><figcaption><p>Hướng dẫn chăm sóc chó mèo đúng cách.</p></figcaption></figure>
 
 Họ cũng sẽ tìm bóng râm vào những ngày ấm áp hơn. Tuy nhiên, say nắng ở mèo thậm chí có thể xảy ra trong thời tiết mát mẻ hơn, vì một số con mèo tìm kiếm sự ấm áp từ những nơi như nhà kính, nhà kính và nhà kho. Nếu con mèo của bạn bị mắc kẹt trong những thứ này, chúng có thể có nguy cơ bị say nắng.
 
@@ -70,7 +70,7 @@ Vào những ngày ấm áp, trước khi đi ngủ vào buổi tối, hãy ki�
 
 Duy trì con mèo của bạn ở một trọng lượng khỏe mạnh sẽ giúp đảm bảo rằng chúng vẫn khỏe mạnh trong suốt cuộc đời nhưng cũng sẽ làm giảm nguy cơ bị kiệt sức do nhiệt trong những tháng ấm hơn. Mèo thừa cân đấu tranh để giữ cho mình mát mẻ hơn trong những tháng ấm hơn, điều này khiến họ dễ bị say nắng hơn.
 
-<figure><img src="https://banmaixanh.org/image/article/cham-soc-cho-meo-057.jpg" alt="cham soc cho meo" title="cham soc cho meo" height=100% width=100%><figcaption><p>Hướng dẫn chăm sóc chó mèo đúng cách.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/cham-soc-cho-meo-057.jpg" alt="cham soc cho meo" title="cham soc cho meo" height=100% width=100%><figcaption><p>Hướng dẫn chăm sóc chó mèo đúng cách.</p></figcaption></figure>
 
 Bạn có thể sử dụng dụng cụ điều hòa cơ thể mèo để xem con mèo của bạn có cân nặng khỏe mạnh hay không.
 
@@ -92,7 +92,7 @@ Trong trường hợp say nắng mèo nghiêm trọng, có thể có tổn thư�
 
 Tùy thuộc vào mức độ nghiêm trọng của tình trạng mèo, bác sĩ thú y của bạn có thể yêu cầu giữ chúng qua đêm để theo dõi và chăm sóc liên tục. Con mèo của bạn sẽ được theo dõi chặt chẽ cho đến khi bác sĩ thú y của bạn vui vẻ cho chúng về nhà.
 
-<figure><img src="https://banmaixanh.org/image/article/cham-soc-cho-meo-058.jpg" alt="cham soc cho meo" title="cham soc cho meo" height=100% width=100%><figcaption><p>Hướng dẫn chăm sóc chó mèo đúng cách.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/cham-soc-cho-meo-058.jpg" alt="cham soc cho meo" title="cham soc cho meo" height=100% width=100%><figcaption><p>Hướng dẫn chăm sóc chó mèo đúng cách.</p></figcaption></figure>
 
 ## Có một số con mèo có nguy cơ say nắng cao hơn những con khác không?
 
@@ -110,4 +110,4 @@ Say nắng có thể ảnh hưởng đến tất cả các con mèo. Tuy nhiên,
 
 Mèo rất giỏi che giấu các vấn đề liên quan đến sức khỏe. Vì vậy, điều thực sự quan trọng là phải theo dõi hành vi tổng thể của chúng, cũng như nhiệt độ của chúng. Nhiều như mèo thích khám phá, giữ chúng trong những ngày đặc biệt nóng sẽ giúp ngăn ngừa nguy cơ say nắng.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-516.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-516.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

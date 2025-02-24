@@ -3,7 +3,7 @@ pubDatetime: 2023-04-15T10:10:00Z
 title: Sao y là gì?
 description: Sao y là một trong những dịch vụ được nhiều người tìm hiểu, dựa trên yêu cầu từ các cơ quan hành chính, hoặc phục vụ công việc liên quan.
 featured: false
-image: https://banmaixanh.org/image/cover/001-424.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-424.jpg
 tags:
   - viet thue
   - cong chung
@@ -20,7 +20,7 @@ _Sao y là một trong những dịch vụ được nhiều người tìm hiểu
 
 Sao y là một dịch vụ công được nhiều cá nhân, tổ chức sử dụng với nhiều nhu cầu khác nhau. Dù sử dụng dịch vụ, nhưng không phải ai cũng hiểu, biết chính xác dịch vụ này là gì. Những thắc mắc đó sẽ được giải đáp chi tiết trong bài sau.
 
-<figure><img src="https://banmaixanh.org/image/article/sao-y-01.jpg" alt="sao-y-ban-chinh" title="sao-y-ban-chinh" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/sao-y-01.jpg" alt="sao-y-ban-chinh" title="sao-y-ban-chinh" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
 ### Sao y bản chính là gì?
 
@@ -28,7 +28,7 @@ Sao y bản chính là hoạt động sao chép trực tiếp từ bản chính 
 
 Điều này thường được thực hiện bởi các cá nhân hoặc tổ chức không yêu cầu xác thực tính hợp pháp của tài liệu. Sao y bản chính được dùng trong các trường hợp nội bộ để chứng minh tính hợp pháp, pháp lý của tài liệu. Đây cũng là giải pháp tiết kiệm thời gian, công sức so với sao y công chứng.
 
-<figure><img src="https://banmaixanh.org/image/article/sao-y-02.jpg" alt="sao-y-ban-chinh" title="sao-y-ban-chinh" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/sao-y-02.jpg" alt="sao-y-ban-chinh" title="sao-y-ban-chinh" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
 ### Sao y công chứng
 
@@ -36,7 +36,7 @@ Sao y công chứng là hoạt động sao chép trực tiếp từ bản chính
 
 Quá trình này đòi hỏi sự can thiệp của công chứng viên để thực hiện. Sao y công chứng được sử dụng trong các giao dịch pháp lý, hợp đồng công việc, hồ sơ tuyển dụng hoặc các thủ tục hành chính cần chứng thực tài liệu. Giải pháp này đảm bảo tính pháp lý của tài liệu, giúp các hoạt động liên quan diễn ra minh bạch, hiệu quả.
 
-<figure><img src="https://banmaixanh.org/image/article/sao-y-03.jpg" alt="sao-y-ban-chinh" title="sao-y-ban-chinh" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/sao-y-03.jpg" alt="sao-y-ban-chinh" title="sao-y-ban-chinh" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
 ### Bản sao và sao y bản chính
 
@@ -46,7 +46,7 @@ Bản sao (copy) là một bản chép lại (có thể là viết tay) của t�
 
 – Sao y bản chính: Có sự xác nhận của cơ quan công chứng, đảm bảo tính chính xác so với bản gốc.
 
-<figure><img src="https://banmaixanh.org/image/article/sao-y-04.jpg" alt="sao-y-ban-chinh" title="sao-y-ban-chinh" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/sao-y-04.jpg" alt="sao-y-ban-chinh" title="sao-y-ban-chinh" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
 ### Dịch vụ sao y bản chính
 
@@ -62,7 +62,7 @@ Bên cạnh dịch vụ sao y công chứng cần bản gốc, một số phòng
 
 Là một tài liệu mang tính pháp lý, nên sao y bản chính cũng phải được thực hiện và tuân theo các quy định thông thường, nhằm đảm bảo việc thực hiện đúng quy định, tài liệu được công nhận và không khai thác, sử dụng tài liệu vào các mục đích xấu.
 
-<figure><img src="https://banmaixanh.org/image/article/sao-y-05.jpg" alt="sao-y-ban-chinh" title="sao-y-ban-chinh" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/sao-y-05.jpg" alt="sao-y-ban-chinh" title="sao-y-ban-chinh" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
 ### Sao y bản chính có cần công chứng không?
 
@@ -72,4 +72,4 @@ Một câu hỏi phổ biến là liệu _sao y bản chính có cần công ch�
 
 Qua bài viết này, chúng ta đã tìm hiểu khái niệm sao y là gì, cũng như các phân loại và mô tả chi tiết theo các từ khóa phụ liên quan. Hiểu rõ về sao y và các quy định liên quan sẽ giúp bạn dễ dàng hơn trong việc sử dụng dịch vụ này một cách hiệu quả và hợp pháp cũng như đặt niềm tin vào đúng phòng công chứng uy tín và chuyên nghiệp.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-410.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-410.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

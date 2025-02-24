@@ -3,7 +3,7 @@ pubDatetime: 2024-04-22T10:10:00Z
 title: Hướng dẫn xây dựng website bằng Astro
 description: Astro là một framework hiện đại giúp xây dựng các website  tĩnh nhanh chóng và hiệu quả.
 featured: false
-image: https://banmaixanh.org/image/cover/001-776.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-776.jpg
 tags:
   - google
   - google console
@@ -149,4 +149,4 @@ Quá trình triển khai này giúp bạn nhanh chóng và dễ dàng đưa ứn
 
 Với sự kết hợp của các công cụ mạnh mẽ từ Firebase và tính linh hoạt của Astro, bạn có thể dễ dàng xây dựng và triển khai các ứng dụng website hiệu quả. Nếu bạn có bất kỳ câu hỏi nào hoặc cần hỗ trợ thêm, đừng ngần ngại liên hệ với github/nhavantuonglai qua email [info@nhavantuonglai.com](mailto:info@nhavantuonglai.com).
 
-<figure><img src="https://banmaixanh.org/image/cover/001-449.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-449.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

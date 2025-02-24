@@ -3,7 +3,7 @@ pubDatetime: 2021-02-17T10:10:00Z
 title: Top 10 thiết bị âm thanh không thể thiếu cho audiophile
 description: Chọn một cặp tai nghe tốt có thể là một nhiệm vụ khó khăn, đặc biệt là khi thị trường hiện nay có vô số lựa chọn với nhiều tính năng và thiết kế khác nhau.
 featured: false
-image: https://banmaixanh.org/image/cover/001-503.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-503.jpg
 tags:
   - viet lach
   - thuong thuc am thanh
@@ -159,4 +159,4 @@ Hãy chọn mua thiết bị từ các Thương hiệu uy tín và kiểm tra k�
 
 Việc sở hữu những thiết bị âm thanh chất lượng cao không chỉ mang lại trải nghiệm nghe nhạc tuyệt vời mà còn thể hiện sự đam mê và đầu tư của bạn vào âm nhạc. Hy vọng rằng bài viết này sẽ giúp bạn hiểu rõ hơn về cách chọn các thiết bị âm thanh phù hợp với nhu cầu của mình và có được trải nghiệm âm nhạc hoàn hảo nhất.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-211.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-211.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

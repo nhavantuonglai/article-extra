@@ -3,7 +3,7 @@ pubDatetime: 2022-01-19T10:10:00Z
 title: Làm thế nào để bán phòng khách sạn hiệu quả cho khách sạn độc lập, vừa và nhỏ
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
 featured: false
-image: https://banmaixanh.org/image/cover/001-749.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-749.jpg
 tags:
   - viet thue
   - marketing
@@ -41,7 +41,7 @@ Ví dụ: [Website khách sạn](https://nhavantuonglai.com/article) lâu ngày 
 
 Khách sạn nên suy nghĩ về mô hình kinh doanh, xác định lợi thế cạnh tranh và những vấn đề ảnh hưởng tiêu cực đến doanh thu của khách sạn.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-029.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-029.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Xác định điểm mạnh của khách sạn là gì?
 
@@ -85,7 +85,7 @@ Bên cạnh xây dựng chiến lược đặt phòng, khách sạn cũng cần 
 
 – …
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-030.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-030.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Tối ưu hiển thị trên website khách sạn
 
@@ -123,7 +123,7 @@ Website khách sạn có thể thu hút lượt đặt phòng trực tiếp, ho�
 
 Một gợi ý khác là công cụ tạo website ([website builder](https://nhavantuonglai.com/article) cho khách sạn, với các module được thiết kế sẵn nên việc chỉnh sửa, thiết lập cũng rất nhanh chóng, dễ dàng.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-031.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-031.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Quản lý kênh bán phòng trực tuyến hiệu quả
 
@@ -165,7 +165,7 @@ Nếu doanh thu bán phòng thấp, hãy giảm bớt các ràng buộc tại kh
 
 Những chính sách này tương đối tự do và phần nào ảnh hưởng đến trải nghiệm của những khách đặt phòng khác. Vậy nên, hãy linh hoạt và áp dụng tùy hoàn cảnh, đảm bảo lợi ích hài hòa và không du khách nào cảm thấy khó chịu, phàn nàn.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-032.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-032.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Cross-selling và Upselling
 
@@ -193,4 +193,4 @@ Bên cạnh đó, khách sạn cũng có thể xây dựng, áp dụng các chí
 
 Tổng quan lại, các khách sạn độc lập, vừa và nhỏ có nhiều chiến lược, cách tiếp cận nhằm thu hút thêm lượt đặt phòng. Thông qua việc điều chỉnh dựa trên bối cảnh thực tế, khách sạn có thể tạo ra những chiến dịch bán phòng hiệu quả nhằm cải thiện thương hiệu, tăng doanh thu tổng thể cho khách sạn của mình.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-510.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-510.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>

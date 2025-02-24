@@ -3,7 +3,7 @@ pubDatetime: 2024-03-26T10:10:00Z
 title: Hướng dẫn cách viết tiểu thuyết cho người không chuyên
 description: Hướng dẫn cách viết tiểu thuyết hay, hoặc sửa lại truyện ngắn cho người không chuyên lẫn chuyên nghiệp, bởi lẽ việc biên tập.
 featured: false
-image: https://banmaixanh.org/image/cover/001-727.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-727.jpg
 tags:
   - viet lach
   - ky nang viet
@@ -17,7 +17,7 @@ _Cho dù bạn là một tiểu thuyết gia từng đoạt giải thưởng, m�
 
 Chuỗi bài viết [Làm chủ nghệ thuật viết lách](https://nhavantuonglai.com/tags/lam-chu-nghe-thuat-viet-lach) là những hướng dẫn căn bản giúp bạn làm chủ kỹ năng viết lách của bản thân.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-055.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-055.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Cách sửa, viết lại truyện ngắn
 
@@ -25,7 +25,7 @@ Hoàn thành bản thảo đầu tiên của một câu chuyện là một thàn
 
 Để đưa câu chuyện của bạn lên một tầm cao mới, quá trình tự [biên tập](https://nhavantuonglai.com/article/viet-lach-say-sua) của bạn phải đạt được một số mục tiêu dưới đây.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-056.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-056.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ### Thêm phiên bản phụ
 
@@ -39,7 +39,7 @@ Viết không phải là một quá trình có cấu trúc theo nghĩa là nhữ
 
 Khán giả muốn có những cốt truyện hấp dẫn, nhưng họ cũng muốn những nhân vật chi tiết trải qua sự thay đổi trong các sự kiện của một câu chuyện. Sử dụng bản nháp thứ hai để đảm bảo rằng nhân vật chính và các nhân vật phụ chính của bạn tuân theo các vòng cung nhân vật nhất quán đưa họ vào một cuộc hành trình trong suốt câu chuyện. Nếu câu chuyện của bạn được kể thông qua quan điểm của người thứ nhất (POV), điều này sẽ còn quan trọng hơn vì nó cũng sẽ ảnh hưởng đến lời kể của câu chuyện. Quá trình này sẽ liên quan đến việc biên tập bao nhiêu tùy thuộc vào mức độ kỹ lưỡng mà bạn đã giải quyết nhân vật trong bản nháp đầu tiên của cuốn tiểu thuyết của mình.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-057.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-057.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ### Theo dõi nhịp độ câu chuyện của bạn
 
@@ -49,7 +49,7 @@ Một điều có xu hướng hợp nhất các bản thảo đầu tiên đư�
 
 Khi một số người viết lần đầu tiên nghĩ về quá trình biên tập, họ chủ yếu nghĩ đến việc sửa ngữ pháp, chính tả, cú pháp và dấu câu. Những yếu tố này chắc chắn rất quan trọng – và chúng có danh mục riêng ở đây – nhưng những biên tập như vậy có xu hướng đi đến cuối quá trình. Rõ ràng là sẽ không có cuốn sách nào xuất bản bản cứng mà không đọc lại lỗi chính tả và lỗi ngữ pháp, nhưng trong những vòng sửa đổi đầu tiên, hãy hướng phần lớn năng lượng của bạn vào câu chuyện và nhân vật. Nếu bạn tự coi mình là [nhà văn giỏi](https://nhavantuonglai.com/article), đơn giản là không mạnh về các yếu tố như chính tả, ngữ pháp và dấu câu, hãy cân nhắc thuê một người hiệu đính bên ngoài để giúp bạn trong phần này của quá trình viết.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-058.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-058.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ### Tạo nên cái tôi riêng trong nội dung
 
@@ -63,7 +63,7 @@ Khi bạn đã hoàn thành bản nháp của mình, điều đầu tiên cần 
 
 Sau khi bạn đã thực hiện vòng biên tập đầu tiên của mình, hãy tìm kiếm phản hồi trung thực từ đôi mắt mới. Người đọc nghĩ gì về các nhân vật? Nó có cảm thấy thật không? Nhịp độ như thế nào? Nó có kéo ở một số nơi không? Đây là tất cả những lời chỉ trích quan trọng mà bạn sẽ cần phải tiến về phía trước. Nếu bạn hoàn toàn không thể tìm thấy ai đó sẵn sàng đọc bản thảo của bạn, hãy xem xét việc trả tiền cho ai đó để làm điều đó. Trên thực tế, một số nhà văn dày dạn kinh nghiệm vẫn thuê biên tập viên chuyên nghiệp của riêng họ để đọc qua tài liệu của họ trước khi gửi nó cho một nhà xuất bản. Một biên tập viên sách khách quan sẽ luôn nắm bắt được những điều mà tác giả không thể nhìn thấy khi hiệu đính và tự biên tập tác phẩm của chính họ.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-059.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-059.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Cách để viết tiểu thuyết hay
 
@@ -77,7 +77,7 @@ Cách viết tiểu thuyết hay là cần có một ý tưởng sáng tạo và
 
 Bạn nên đọc nhiều sách trong thể loại mà bạn muốn viết để hiểu được những quy luật, kỹ thuật và yếu tố hấp dẫn của thể loại đó. Bạn cũng nên phân tích những điểm mạnh và yếu của những tác phẩm tiêu biểu trong thể loại, để học hỏi và tránh lặp lại những sai lầm hay nhàm chán.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-060.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-060.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ### Chọn góc nhìn phù hợp cho câu chuyện
 
@@ -91,7 +91,7 @@ Bối cảnh là nơi mà câu chuyện diễn ra, bao gồm không gian, thời
 
 Nhân vật là linh hồn của cuốn tiểu thuyết, là người mang lại sự liên kết và quan tâm cho người đọc. Bạn nên tạo ra các nhân vật có tính cách, quá khứ, mục tiêu và xung đột riêng biệt, để làm cho họ trở nên thực và đa chiều. Nhân vật chính là người quan trọng nhất trong câu chuyện, là người phải đối mặt với các khó khăn và thử thách để đạt được mục tiêu của mình. Bạn nên để cho nhân vật chính có sự phát triển và thay đổi qua câu chuyện, để làm cho họ trở nên hấp dẫn và gây ấn tượng.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-061.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-061.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ### Xác định xung đột và mức độ căng thẳng cho câu chuyện
 
@@ -105,7 +105,7 @@ Khuôn khổ là cách mà bạn sắp xếp các sự kiện trong câu chuyệ
 
 Cấu trúc là cách mà bạn bố trí các sự kiện trong câu chuyện theo không gian và thời gian. Cấu trúc giúp bạn tạo ra sự mới lạ và bất ngờ cho người đọc, cũng như làm nổi bật được các yếu tố quan trọng trong câu chuyện của bạn. Bạn có thể sử dụng các cấu trúc thông dụng như tuần tự (theo trình tự từ đầu đến cuối), song song (theo hai hoặc nhiều dòng sự kiện diễn ra song song), hoặc xen kẽ (theo hai hoặc nhiều dòng sự kiện diễn ra xen kẽ).
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-062.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-062.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ### Quyết định cách viết tiểu thuyết hay của bạn
 
@@ -113,4 +113,4 @@ Cách viết tiểu thuyết cho người mới bắt đầu là phong cách ri�
 
 Như vậy, thông qua bài viết này, hy vọng các bạn đã biết cách để viết tiểu thuyết cho người mới bắt đầu, cũng như hiểu cách viết truyện ngắn lẫn cách viết truyện hay. Lưu ý rằng, cách để viết tiểu thuyết tốn nhiều thời gian và công sức hơn, đòi hỏi năng lực và thời gian đầu tư vào việc viết lách không chuyên của bản thân bạn.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-539.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-539.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

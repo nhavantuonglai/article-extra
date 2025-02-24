@@ -3,7 +3,7 @@ pubDatetime: 2022-08-14T10:10:00Z
 title: Bài viết trên Instagram ngày 14 tháng 08 năm 2022
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - viet lach
   - doan van
@@ -22,4 +22,4 @@ xong chuyện, mình kết luận với bạn rằng, bất kỳ tiệm nào b�
 
 vì vậy, có riêng mình một tiệm để thể hiện cá tính mình muốn thì cũng được; nhưng không có thì đâu sao, đâu nghĩa rằng chúng sẽ mãi không được nhìn thấy. sự hiện hữu của bạn, sự bày tỏ lòng quan tâm cùng niềm hạnh phúc với những thứ bạn đang hướng đến cũng là cách để tỏa ra những giá trị mà bạn muốn chia sẻ; đó có thể là cách khởi đầu hợp lý cho mọi dự tính bạn đang hướng đến, và hãy nên luôn như vậy.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

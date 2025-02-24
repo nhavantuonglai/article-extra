@@ -3,7 +3,7 @@ pubDatetime: 2020-05-07T10:10:00Z
 title: Bài viết trên Instagram ngày 07 tháng 05 năm 2020
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-323.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-323.jpg
 tags:
   - viet lach
   - doan van
@@ -24,4 +24,4 @@ lòng mình cũng mở để đón bạn bè mới vào để hie�
 
 mùa hè đó giờ nhìn lại thì cảm giác mọi thứ trôi qua nhanh, bởi vì mọi thứ như một cái chớp mắt, bởi mình vẫn nhớ vị ngọt của tô cháo đoạn đường gần nhà, vì mùi biển sau ngày dài sống trách nhiệm với công việc mà tìm đến để ngửi mà thêm tỉnh táo, và cả những quả chò rụng bên vệ đường đủ sức hấp dẫn để mình quay lại mà nhặt.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-310.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-310.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

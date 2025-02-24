@@ -3,7 +3,7 @@ pubDatetime: 2023-07-03T10:10:00Z
 title: Kinh doanh Spa cần chuẩn bị những gì?
 description: Tìm hiểu các chiến lược tiếp thị Spa hiệu quả trong chuỗi bài viết sau của nhavantuonglai để áp dụng và đem lại hiệu quả thiết thực cho giải pháp của bạn.
 featured: false
-image: https://banmaixanh.org/image/cover/001-249.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-249.jpg
 tags:
   - viet thue
   - marketing
@@ -223,4 +223,4 @@ Về cơ bản, [phần mềm quản lý Spa phù hợp](https://nhavantuonglai.
 
 Trên đây là những gợi ý cần thiết, và nên chuẩn bị khi các tiệm bắt đầu kinh doanh Spa mà bạn không nên bỏ qua. Tùy vào mô hình cụ thể, mà việc áp dụng cũng trở nên linh hoạt và chọn lọc cho cần thiết. Điều cần nhớ rằng, sẽ có vô vàn khó khăn và thử thách, nhưng cứ hãy kiên định và áp dụng mọi thứ mà bạn có, thì thành quả sẽ sớm hiện thực như bạn muốn.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-214.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-214.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

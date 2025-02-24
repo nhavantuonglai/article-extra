@@ -3,7 +3,7 @@ pubDatetime: 2021-10-09T10:10:00Z
 title: Tiền thân của Zoom
 description: Những lo ngại về quyền riêng tư và áp lực về ngoại hình của phụ nữ cùng với không gian sống của họ.
 featured: false
-image: https://banmaixanh.org/image/cover/001-724.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-724.jpg
 tags:
   - khoa hoc
   - sinh hoc
@@ -20,7 +20,7 @@ Dịch vụ gọi video như Zoom và FaceTime đã tạo ra một loạt trải
 
 Spaulding viết rằng, khi các ti vi đầu tiên đang được phát triển, Bell Laboratories đã làm việc với ý tưởng truyền tín hiệu hình ảnh hai chiều qua cáp điện thoại. Công ty thậm chí đã tạo ra một sản phẩm gọi video có tên Ikonophone vào năm 1930, nhưng chỉ được lắp đặt trong các văn phòng của AT&T, lúc đó là một trong những cổ đông của Bell.
 
-<figure><img src="https://banmaixanh.org/image/article/lich-su-cua-zoom-01.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/lich-su-cua-zoom-01.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
 Bước tiếp theo của các công ty trong ý tưởng này là Picturephone, được ra mắt tại Hội chợ Thế giới New York năm 1964. Thiết bị này có màn hình năm inch, camera, micro, và loa.
 
@@ -40,4 +40,4 @@ Cuối cùng, dĩ nhiên, Picturephone đã không thể thành công. Spaulding
 
 Tuy vậy, công nghệ loại Picturephone vẫn tiếp tục phát triển, chủ yếu dưới hình thức dịch vụ hội nghị truyền hình cho doanh nghiệp, cho đến khi tái xuất hiện như một công nghệ tiêu dùng dựa trên internet trong thế kỷ hai mươi mốt.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-556.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-556.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

@@ -3,7 +3,7 @@ pubDatetime: 2021-09-07T10:10:00Z
 title: Bài viết trên Instagram ngày 25 tháng 09 năm 2021
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - viet lach
   - doan van
@@ -18,4 +18,4 @@ những lần tạm biệt vậy, mình với bạn đều biết có ngày gặ
 
 sau này, lần cuối cùng mình ghé, mình chẳng hẹn ai để tạm biệt ở đấy cả. mình tự đến để tạm biệt quán, tạm biệt những gì quán đã dành cho tụi mình, và tạ, biệt thành phố nữa. ký ức và những gì đã gửi gắm ở đó, đôi chuyện đã thành hiện thực, một số khác thì chưa, và cũng nhiều điều sớm trôi vào quên lãng như lời tạm biệt chính mình.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-111.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-111.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

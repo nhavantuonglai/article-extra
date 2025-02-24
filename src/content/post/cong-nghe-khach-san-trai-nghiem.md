@@ -3,7 +3,7 @@ pubDatetime: 2025-01-16T10:10:00Z
 title: Công nghệ khách sạn tối ưu tạo nên trải nghiệm thân thiện như thế nào?
 description: Công nghệ có thể tối ưu trải nghiệm khách hàng, loại bỏ những rắc rối và điểm khó chịu, nhưng chính con người mới làm nên sự đặc biệt của ngành dịch vụ khách sạn.
 featured: false
-image: https://banmaixanh.org/image/cover/001-746.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-746.jpg
 tags:
   - viet thue
   - marketing
@@ -67,4 +67,4 @@ Bền vững hiện là ưu tiên hàng đầu cho cả khách hàng và khách 
 
 Bằng cách giảm tiêu thụ năng lượng, tối thiểu hóa chất thải và áp dụng các thực hành thân thiện với môi trường, khách sạn có thể mang đến trải nghiệm bền vững hơn mà không làm giảm sự thoải mái của khách hàng. Và khi nhu cầu về trải nghiệm lưu trú có ý thức với môi trường tăng lên, các khách sạn áp dụng công nghệ bền vững không chỉ đáp ứng kỳ vọng của khách mà còn đóng góp tích cực cho môi trường.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-511.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-511.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>

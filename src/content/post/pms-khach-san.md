@@ -3,7 +3,7 @@ pubDatetime: 2022-07-06T10:10:00Z
 title: Property Management System (PMS) là gì và tầm quan trọng trong khách sạn
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
 featured: false
-image: https://banmaixanh.org/image/cover/001-727.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-727.jpg
 tags:
   - viet thue
   - marketing
@@ -35,7 +35,7 @@ Có thể là quản lý khách sạn, nhân viên lễ tân, nhân viên dọn 
 
 Nhân viên lễ tân sử dụng PMS Hotel để tiếp nhận, sắp xếp và cập nhật thông tin đặt phòng, nhận phòng, trả phòng và thanh toán, cũng như tác yêu cầu từ khách đặt phòng đến các bộ phận như dọn dẹp, bếp, thuê xe… trong khách sạn. Có thể nói, nhân viên lễ tân đóng vai trò quan trọng – như cầu nối giữa khách đặt phòng và các bộ phận trong khách sạn, nên việc sử dụng, thao tác trên PMS Hotel là nhiều nhất.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-090.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-090.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Kết luận
 #### Nhân viên dọn dẹp
@@ -66,7 +66,7 @@ Vì vậy, nhiều khách sạn đang sử dụng PMS Hotel và cấp quyền ch
 
 Là người có chức vụ cao nhất, cấp Quản lý và điều hành khách sạn sử dụng PMS Hotel để giảm sát, đảm bảo sự thành công của hoạt động kinh doanh trong khách sạn thông qua các biểu mẫu báo cáo, như báo cáo tài chính, doanh thu hay KPI giao xuống cho từng nhân viên khách sạn… để họ có thể đưa ra các quyết định kinh doanh phù hợp, đáp ứng yêu cầu quản lý của khách sạn.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-090.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-090.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Kết luận
 ### Lợi ích khi khách sạn sử dụng PMS Hotel
@@ -91,7 +91,7 @@ Tính năng cơ bản và quan trọng nhất, PMS Hotel nào cũng có là tự
 
 Để làm được những điều đó, PMS Hotel cần phải hoạt động dựa trên nền tảng đám mây (cloud), tức vận hành trên một server nhất định chứ không phải cục bộ trên một phần cứng cố định tại khách sạn. Bởi lẽ, PMS Hotel trên nền tảng đám mây được xây dựng với những chuẩn, giao thức riêng, có thể tích hợp các API, giải pháp của bên thứ 3 như liệt kê dưới đây để vận hành đa năng, toàn diện và hiệu quả hơn.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-092.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-092.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Kết luận
 ### Trình quản lý kênh
@@ -132,7 +132,7 @@ Một số tài sản trí tuệ giải pháp (loại hình, công cụ, phần 
 
 Với từng khách sạn, sẽ có từng tài sản trí tuệ giải pháp phù hợp tương ứng, đáp ứng yêu cầu thực tế và kỳ vọng kinh doanh của từng khách sạn.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-092.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-092.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## PMS Hotel có những tính năng quan trọng nào?
 
@@ -170,7 +170,7 @@ Quản lý tài chính khách sạn là quản lý dòng tiền ở 3 nhóm chí
 
 – Quản lý và lựa chọn nhà cung cấp dịch vụ giao, nhận hàng.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-094.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-094.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Kết luận
 ### Quản lý điểm bán hàng (point of sales)
@@ -179,4 +179,4 @@ Quản lý tài chính khách sạn là quản lý dòng tiền ở 3 nhóm chí
 
 Việc sử dụng PMS Hotel cho POS khách sạn cũng giúp quản lý sản phẩm, điều chỉnh giá và tính toán doanh thu, biến động bán hàng hiệu quả và chắc chắn hơn. Do vậy, nếu khách sạn của bạn chưa có PMS Hotel, đây là thời điểm thích hợp để triển khai chúng.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-510.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-510.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>

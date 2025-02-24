@@ -3,7 +3,7 @@ pubDatetime: 2024-02-01T10:10:00Z
 title: Cách cải thiện kỹ năng đọc của bạn
 description: Khả năng đọc tốt có thể giúp bạn diễn giải và tìm thấy ý nghĩa trong mọi thứ bạn đọc, và khi bạn liên tục cải thiện các kỹ năng này.
 featured: false
-image: https://banmaixanh.org/image/cover/001-426.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-426.jpg
 tags:
   - viet lach
   - ky nang viet
@@ -23,7 +23,7 @@ Kỹ năng đọc là những khả năng liên quan đến khả năng của m�
 
 Kỹ năng đọc cũng có thể bao gồm nhiều khía cạnh quan trọng cùng hoạt động để phát triển kỹ năng đọc viết tổng thể, bao gồm khả năng hiểu, lưu loát, từ vựng và các chiến lược giúp người đọc diễn giải và tìm thấy ý nghĩa trong văn bản.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-051.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-051.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Khả năng đọc hiểu là gì?
 
@@ -39,7 +39,7 @@ Giải mã là một kỹ năng dựa vào khả năng của bạn trong việc 
 
 Lưu loát đề cập đến sự kết hợp của nhiều yếu tố khác nhau. Đầu tiên, nó tập trung vào khả năng đọc rõ ràng và trôi chảy của bạn. Lưu loát cũng tập trung vào khả năng giải mã từ vựng mới nhanh chóng khi đọc. Lưu loát là âm thanh của việc đọc, điều này có thể ảnh hưởng trực tiếp đến khả năng hiểu những gì bạn đọc. Ví dụ, khi một đứa trẻ trở nên lưu loát hơn trong việc đọc, chúng sẽ có thể nhanh chóng tìm thấy ý nghĩa và hiểu được những gì chúng đọc, góp phần vào việc hiểu văn bản.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-057.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-057.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ### Từ vựng
 
@@ -61,7 +61,7 @@ Có nhiều cách khác nhau để bạn có thể cải thiện kỹ năng đ�
 
 Một trong những cách hiệu quả nhất để xây dựng kỹ năng của bạn là thực hành. Phát triển kỹ năng đọc của bạn cuối cùng sẽ cần thực hành, và bạn có thể dành 10 đến 15 phút mỗi ngày để đọc. Bạn có thể đọc các bài báo tin tức, tiểu thuyết, tạp chí hoặc bất kỳ loại văn bản nào, miễn là bạn dành thời gian để thực hành kỹ năng đọc của mình.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-050.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-050.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ### Đặt mục tiêu đọc
 
@@ -87,7 +87,7 @@ Một phương pháp hiệu quả khác để cải thiện kỹ năng đọc c�
 
 Tương tự, việc tạo ra các biểu diễn trực quan như biểu đồ, bảng hoặc sơ đồ có thể làm rõ các chủ đề và ý tưởng và có thể giúp bạn hình thành suy luận từ việc đọc của mình. Ghi chú có thể rất có lợi cho các bài tập đọc hiểu như tóm tắt.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-053.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-053.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ### Áp dụng những gì bạn đọc bằng cách tóm tắt
 
@@ -95,4 +95,4 @@ Tóm tắt những gì bạn đọc cũng có thể cải thiện kỹ năng đ�
 
 Khi bạn phát triển kỹ năng đọc của mình, khả năng giao tiếp và khả năng tương tác với người khác và thực hiện trong sự nghiệp của bạn cũng có thể phát triển.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-514.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-514.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

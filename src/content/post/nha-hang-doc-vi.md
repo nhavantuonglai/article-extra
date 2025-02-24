@@ -3,7 +3,7 @@ pubDatetime: 2023-01-29T10:10:00Z
 title: Điều hành nhà hàng hiệu quả hơn bằng cách đọc vị thực khách
 description: Tìm hiểu các chiến lược tiếp thị nhà hàng hiệu quả trong chuỗi bài viết sau của nhavantuonglai để áp dụng và đem lại hiệu quả thiết thực cho giải pháp của bạn.
 featured: false
-image: https://banmaixanh.org/image/cover/001-649.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-649.jpg
 tags:
   - viet thue
   - marketing
@@ -110,4 +110,4 @@ Bạn thấy đó, đọc vị thực khách không khó, khó là ở việc ph
 
 Bằng cách sử dụng thành công tất cả kỹ thuật, công cụ được liệt kê ở trên để đọc vị thực khách hiệu quả, bạn có thể đáp ứng mọi nhu cầu, mong muốn và kỳ vọng của thực khách. Bạn cũng sẽ khiến họ cảm thấy hài lòng, thoải mái với trải nghiệm và muốn quay trở lại một lần nữa. Về lâu về dài, điều này giúp nhà hàng của bạn kinh doanh hiệu quả hơn, được nhiều người biết và tím đến. Đích cuối cùng của những điều này, chính là sự cải thiện và tăng trưởng doanh thu nhà hàng của bạn.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-649.jpg" alt="nha hang, am thuc." title="nha hang, am thuc." height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-649.jpg" alt="nha hang, am thuc." title="nha hang, am thuc." height=100% width=100%><figcaption><p></p></figcaption></figure>

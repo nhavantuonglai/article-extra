@@ -3,7 +3,7 @@ pubDatetime: 2023-01-28T10:10:00Z
 title: Tìm hiểu về những công nghệ mới giúp nhà hàng hoạt động tốt hơn
 description: Tìm hiểu các chiến lược tiếp thị nhà hàng hiệu quả trong chuỗi bài viết sau của nhavantuonglai để áp dụng và đem lại hiệu quả thiết thực cho giải pháp của bạn.
 featured: false
-image: https://banmaixanh.org/image/cover/001-517.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-517.jpg
 tags:
   - viet thue
   - marketing
@@ -86,4 +86,4 @@ Thực khách ngày nay rất khắt khe với những trải nghiệm, nhu cầ
 
 Vấn đề đặt ra là: bạn trong vai trò chủ nhà hàng, sẽ tiếp tục quản lý nhà hàng theo cách truyền thống, quen thuộc và không phải thay đổi nhiều, để các đối thủ vượt mặt; hay sẽ thay thế dần những chi tiết lạc hậu, áp dụng công nghệ tiên tiến, tạo nên sự cạnh tranh sòng phẳng với các nhà hàng trong khu vực?
 
-<figure><img src="https://banmaixanh.org/image/cover/001-610.jpg" alt="nha hang, am thuc." title="nha hang, am thuc." height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-610.jpg" alt="nha hang, am thuc." title="nha hang, am thuc." height=100% width=100%><figcaption><p></p></figcaption></figure>

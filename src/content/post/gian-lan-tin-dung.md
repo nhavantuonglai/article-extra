@@ -3,7 +3,7 @@ pubDatetime: 2023-04-25T10:10:00Z
 title: Tầm quan trọng của giao tiếp hiệu quả trong khách sạn
 description: Xu hướng công nghệ hiện tại giúp du khách dễ dàng đặt phòng và thanh toán trực tuyến hơn. Tuy nhiên, chúng cũng làm tăng các nguy cơ, rủi ro gian lận thanh toán trực tuyến trong khách sạn.
 featured: false
-image: https://banmaixanh.org/image/cover/001-683.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-683.jpg
 tags:
   - viet thue
   - marketing
@@ -25,7 +25,7 @@ Theo khảo sát từ Stripe, 64% chủ doanh nghiệp cho rằng chống gian l
 
 Với chủ khách sạn, gian lận thanh toán trực tuyến có thể gây ra nhiều hậu quả nghiêm trọng, như bồi hoàn thanh toán, tốn chi phí và mất doanh thu. Để chống gian lận và bảo vệ hoạt động kinh doanh, các khách sạn nên thực hiện các biện pháp chủ động để bảo vệ, bảo đảm quá trình thanh toán trực tuyến không gặp phải rủi ro, thất thoát ngoài tầm kiểm soát nào.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-078.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-078.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Các hình thức gian lận thanh toán trực tuyến phổ biến trong khách sạn
 
@@ -55,7 +55,7 @@ Gian lận kiểm tra thẻ xảy ra khi kẻ lừa đảo sử dụng thẻ tí
 
 Đặt phòng khách sạn là cách phổ biến để kiểm tra thẻ vì thẻ tín dụng được liên kết trong quá trình đặt phòng và trừ tiền sau khi hoàn tất việc ở. Khi khách sạn gặp tình huống này thì sẽ bị no show, dẫn đến doanh thu khách sạn bị ảnh hưởng.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-079.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-079.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Gian lận tài khoản khách hàng thân thiết
 
@@ -75,7 +75,7 @@ Hãy luôn yêu cầu du khách cung cấp giấy tờ tùy thân kèm ảnh t�
 
 Khách sạn nên lưu giữ tất cả email, tin nhắn đặt phòng, hóa đơn thanh toán lẫn thông báo hủy phòng dù dưới dạng bản in giấy hay số hóa để làm cơ sở đối chiếu, hỗ trợ khi du khách khiếu nại, yêu cầu bồi hoàn hoặc có vấn đề phát sinh liên quan đến gian lận thẻ tín dụng trong khách sạn.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-080.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-080.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Tạo chính sách chống gian lận và quy trình vận hành tiêu chuẩn
 
@@ -113,7 +113,7 @@ Thao tác thủ công trong khách sạn làm tăng rủi ro lỗi do sai sót t
 
 Khách sạn nên áp dụng công nghệ phát hiện gian lận trong khách sạn để đánh giá rủi ro giao dịch, gắn cờ (flag) hoạt động đáng ngờ và thẻ rủi ro cao; và phát cảnh báo với khách sạn về hoạt động đáng ngờ, tiềm ẩn nguy cơ lừa đảo thông qua thanh toán trực tuyến trong khách sạn.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-081.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-081.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Thiết bị đầu cuối EMV
 
@@ -135,8 +135,8 @@ Bên cạnh xử lý thanh toán với các biện pháp phòng chống và hạ
 
 Khi chuyển đổi và áp dụng công nghệ trong khách sạn, rủi ro về gian lận trực tuyến cũng sẽ tăng lên. Bởi vậy, khách sạn cần áp dụng các biện pháp phòng thủ, kiểm soát, bảo vệ khách sạn khỏi gian lận trực tuyến, cũng như cập nhật và áp dụng các công nghệ khách sạn mới ngay hôm nay để bảo vệ dữ liệu khách hàng, ngăn chặn gian lận và bảo vệ lợi nhuận của khách sạn.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-082.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-082.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 Phần mềm quản lý khách sạn Blue Jay Pms cung cấp giải pháp quản lý toàn diện, hiệu quả, bảo mật nâng cao giúp khách sạn vận hành hiệu quả, tránh các rủi ro bảo mật và gian lận thanh toán trong khách sạn. Khi áp dụng giải pháp phù hợp, khách sạn có thể cung cấp trải nghiệm thanh toán liền mạch, nâng cao trải nghiệm và niềm tin ở du khách.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-514.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-514.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>

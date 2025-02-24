@@ -3,7 +3,7 @@ pubDatetime: 2023-03-14T10:10:00Z
 title: Fake news và tin tức xuyên tạc khác nhau như thế nào?
 description: Với sự gia tăng của phương tiện truyền thông xã hội, chúng ta cũng đã thấy sự gia tăng của những cá nhân độc hại vũ khí hóa fake news và tin tức xuyên tạc cho mục đích xã hội.
 featured: false
-image: https://banmaixanh.org/image/cover/001-528.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-528.jpg
 tags:
   - viet lach
   - thuyet am muu
@@ -52,4 +52,4 @@ Troll: có những người sử dụng fake news và fake news để cố gắn
 
 Bằng cách nhận thức được những yếu tố này, bạn có thể thực hiện các bước để tránh fake news và tin xuyên tạc và thúc đẩy một xã hội dân chủ và tin tức hơn.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-523.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-523.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

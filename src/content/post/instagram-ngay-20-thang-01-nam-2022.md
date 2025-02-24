@@ -3,7 +3,7 @@ pubDatetime: 2022-01-20T10:10:00Z
 title: Bài viết trên Instagram ngày 20 tháng 01 năm 2022
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-321.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-321.jpg
 tags:
   - viet lach
   - doan van
@@ -22,4 +22,4 @@ với mình, cái quầng sáng ấy mang tính kế thừa của lịch sử, b
 
 nhưng trải nghiệm này đến đây là chưa hết, khi sương tùy lúc mà phủ trên đường đèo dài đến bao nhiêu. mình vẫn nhớ chuyến xe máy về nhà ăn Tết 4 năm trước, qua Hải Vân quan một đoạn rất dài mà sương vẫn còn đó. thời điểm ấy hẳn trời rất là lạnh, nhưng cũng hẳn là một trải nghiệm đầy lưu luyến của đất trời tạo nên.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-310.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-310.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

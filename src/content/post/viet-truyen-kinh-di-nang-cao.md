@@ -3,7 +3,7 @@ pubDatetime: 2024-06-11T10:10:00Z
 title: Hướng dẫn viết truyện kinh dị nâng cao
 description: Viết truyện kinh dị là một nghệ thuật đặc biệt trong viết lách, yêu cầu sự sáng tạo, khả năng xây dựng không khí và cách kể chuyện hấp dẫn.
 featured: false
-image: https://banmaixanh.org/image/cover/001-427.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-427.jpg
 tags:
   - viet lach
   - ky nang viet
@@ -27,7 +27,7 @@ Truyện [kinh dị](https://nhavantuonglai.com/article) là thể loại văn h
 
 – Khả năng kết nối cảm xúc: Một câu chuyện kinh dị hay có thể gây ra nhiều cảm xúc mạnh mẽ và lâu dài cho người đọc.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-076.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-076.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Các bước chuẩn bị để viết truyện kinh dị
 
@@ -47,7 +47,7 @@ Truyện [kinh dị](https://nhavantuonglai.com/article) là thể loại văn h
 
 – Sử dụng những yếu tố gây sợ hãi phổ biến: Bóng tối, sự cô đơn, và sự bất lực là những yếu tố thường xuyên xuất hiện trong truyện kinh dị.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-077.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-077.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Các bước viết truyện kinh dị
 
@@ -83,7 +83,7 @@ Truyện [kinh dị](https://nhavantuonglai.com/article) là thể loại văn h
 
 – Sự bất ngờ và giật gân: Cung cấp những tình huống bất ngờ và đảo lộn để giữ cho người đọc luôn trong trạng thái hồi hộp.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-078.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-078.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Các lưu ý khi viết truyện kinh dị
 
@@ -105,7 +105,7 @@ Truyện [kinh dị](https://nhavantuonglai.com/article) là thể loại văn h
 
 – Kích thích trí tưởng tượng: Để lại những khoảng trống và sự mơ hồ để người đọc tự suy nghĩ và tưởng tượng.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-079.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-079.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Các mẹo để viết truyện kinh dị thành công
 
@@ -127,7 +127,7 @@ Truyện [kinh dị](https://nhavantuonglai.com/article) là thể loại văn h
 
 – Đam mê: Hãy để đam mê dẫn dắt bạn và giúp bạn vượt qua những khó khăn trong quá trình viết.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-080.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-080.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Kết luận
 
@@ -135,4 +135,4 @@ Viết truyện [kinh dị](https://nhavantuonglai.com/article) là một hành 
 
 Việc viết truyện kinh dị yêu cầu bạn không chỉ có kỹ năng viết lách mà còn cần sự sáng tạo và hiểu biết về tâm lý con người. Bằng cách áp dụng các kỹ thuật và mẹo hướng dẫn trên, bạn sẽ có thể tạo ra những câu chuyện kinh dị độc đáo và hấp dẫn. Chúc bạn có những trải nghiệm viết truyện kinh dị thú vị và thành công.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-213.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-213.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

@@ -3,7 +3,7 @@ pubDatetime: 2021-09-17T10:10:00Z
 title: Những món ăn, nhà hàng Phú Quốc không nên bỏ qua khi du lịch ở địa điểm này
 description: Tìm hiểu các chiến lược tiếp thị nhà hàng hiệu quả trong chuỗi bài viết sau của nhavantuonglai để áp dụng và đem lại hiệu quả thiết thực cho giải pháp của bạn.
 featured: false
-image: https://banmaixanh.org/image/cover/001-651.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-651.jpg
 tags:
   - viet thue
   - marketing
@@ -77,4 +77,4 @@ Nhum biển hay còn gọi là nhím biển là đặc sản khoái khẩu của
 
 Cá mú nướng tại các nhà hàng Phú Quốc có nhiều hương vị hấp dẫn mà bạn không nên bỏ qua. Cá mú sẽ được đánh bắt ngay trong ngày, làm sạch và nướng trực tiếp trên than hồng. Thịt cá khi chín sẽ có mùi vị đặc trưng, ​​nhâm nhi với ly rượu sim thì còn gì bằng.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-681.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-681.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

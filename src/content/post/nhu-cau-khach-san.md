@@ -3,7 +3,7 @@ pubDatetime: 2022-06-06T10:10:00Z
 title: Làm thế nào để khách sạn bắt kịp nhu cầu ngày một tăng của du khách?
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
 featured: false
-image: https://banmaixanh.org/image/cover/001-749.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-749.jpg
 tags:
   - viet thue
   - marketing
@@ -55,7 +55,7 @@ Theo các khảo sát, trên 30% du khách mong muốn được tự do hủy, �
 
 Bên cạnh đó, du khách lớn tuổi cũng dần hiểu biết công nghệ, đặc biệt là mạng xã hội và thiết bị di động, nên các khách sạn cũng cần chú ý và linh hoạt đáp ứng nhóm du khách này.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-021.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-021.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Được quyền kiểm soát, chủ động
 
@@ -105,8 +105,8 @@ Khách sạn không chỉ nên áp dụng công nghệ khách sạn trong quản
 
 – …
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-022.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-022.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 Khi cung cấp những trải nghiệm trên, khách sạn không chỉ cải thiện hình ảnh, thương hiệu mà còn đem đến những trải nghiệm tích cực, thân thiện dành cho du khách. Từ đó, tăng khả năng đặt phòng trở lại, và thu hút thêm nhiều lượt đặt phòng mới.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-510.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-510.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>

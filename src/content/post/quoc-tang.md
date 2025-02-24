@@ -3,7 +3,7 @@ pubDatetime: 2023-08-11T10:10:00Z
 title: Tìm hiểu về ngày Quốc Tang trên toàn thế giới
 description: Vương quốc Anh xem thời gian quốc tang để phản ánh tâm trạng của công chúng và mức độ nghiêm trọng của sự kiện.
 featured: false
-image: https://banmaixanh.org/image/cover/001-531.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-531.jpg
 tags:
   - lich su
   - quoc tang
@@ -70,4 +70,4 @@ Quá trình tang lễ quốc gia và các nghi lễ quốc tang có thể có v�
 
 Nhưng khi các quốc gia để tang cho những người nổi tiếng và vĩ đại của họ, họ không chỉ đang tang thương cho một cá nhân. Họ đang để tang cho một biểu tượng. Họ đang nói lời chia tay với một thời kỳ vàng son hay một quá khứ đầy hoài niệm. Cái chết của một Nữ hoàng Elizabeth hay một Giáo hoàng John Paul II không chỉ đánh dấu sự kết thúc của một đời người; nó đánh dấu sự kết thúc của một thời đại. Ít nhất, đó là điều rất quan trọng và đối với đa số chúng ta, thường là nỗi buồn sâu sắc.
   
-<figure><img src="https://banmaixanh.org/image/cover/001-549.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-549.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

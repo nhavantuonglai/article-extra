@@ -3,7 +3,7 @@ pubDatetime: 2021-04-27T10:10:00Z
 title: Tuyển tập sách của Thiền sư Thích Nhất Hạnh
 description: Thiền sư Thích Nhất Hạnh, sáng lập Làng Mai, truyền cảm hứng Phật giáo dấn thân, khai sáng chánh niệm giúp tĩnh tâm, hạnh phúc, hòa hợp thiên nhiên.
 featured: true
-image: https://banmaixanh.org/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - viet lach
   - doan van
@@ -19,7 +19,7 @@ _Thiền sư Thích Nhất Hạnh, sáng lập Làng Mai, truyền cảm hứng 
 
 Tìm mua [Tuyển tập sách của Thiền sư Thích Nhất Hạnh](https://shope.ee/2q52sL8Etn) tại đây, hoặc tại [Tuyển tập sách của Thiền sư Thích Nhất Hạnh](https://shope.ee/7zn92I83dd).
 
-<figure><img src="https://banmaixanh.org/image/article/thich-nhat-hanh-0101.jpg" alt="Tuyển tập sách của Thiền sư Thích Nhất Hạnh." title="Tuyển tập sách của Thiền sư Thích Nhất Hạnh." height=100% width=100%><figcaption><p>Tuyển tập sách của Thiền sư Thích Nhất Hạnh.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/thich-nhat-hanh-0101.jpg" alt="Tuyển tập sách của Thiền sư Thích Nhất Hạnh." title="Tuyển tập sách của Thiền sư Thích Nhất Hạnh." height=100% width=100%><figcaption><p>Tuyển tập sách của Thiền sư Thích Nhất Hạnh.</p></figcaption></figure>
 
 Thiền sư Thích Nhất Hạnh là một nhà sư, nhà văn, nhà thơ, nhà giáo, nhà hoạt động xã hội và hòa bình nổi tiếng trên thế giới. Ông là người sáng lập tông phái Làng Mai, được coi là nguồn cảm hứng chính cho Phật giáo dấn thân. Ông cũng là người đưa ra khái niệm chánh niệm, một phương pháp tu tập và sống đời giúp con người tĩnh tâm, hạnh phúc và hòa hợp với bản thân, với mọi người và với thiên nhiên.
 
@@ -599,7 +599,7 @@ Kỳ thực mình chịu trách nhiệm lốn về những đau khổ của mìn
 
 Cụ Nguyễn Du thấy tu tâm là điều quan trọng phải làm. _Thiện căn ở tại lòng ta, Chữ tâm kia mới bằng ba chữ tài._ Một người có tâm lành, biết tu học thì sẽ hạnh phúc và mang lại hạnh phúc cho người khác nhiều hơn _(Bằng ba) những người có tài mà không có tâm lành._
 
-<figure><img src="https://banmaixanh.org/image/article/thich-nhat-hanh-0102.jpg" alt="Tuyển tập sách của Thiền sư Thích Nhất Hạnh." title="Tuyển tập sách của Thiền sư Thích Nhất Hạnh." height=100% width=100%><figcaption><p>Tuyển tập sách của Thiền sư Thích Nhất Hạnh.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/thich-nhat-hanh-0102.jpg" alt="Tuyển tập sách của Thiền sư Thích Nhất Hạnh." title="Tuyển tập sách của Thiền sư Thích Nhất Hạnh." height=100% width=100%><figcaption><p>Tuyển tập sách của Thiền sư Thích Nhất Hạnh.</p></figcaption></figure>
 
 ### Đạo Bụt nguyên chất
 
@@ -981,7 +981,7 @@ Hiện đại hóa đạo Phật tức là khai triển những tiềm lực c�
 
 Muốn tiêu diệt đạo Phật thì cũng không cần đàn áp, bởi vì có thể càng bị đàn áp sức sống của đạo Phật càng vươn mạnh. Muốn tiêu diệt đạo Phật thì phải tiêu diệt sinh khí đạo Phật. Mà muốn tiêu diệt sinh khí đạo Phật thì chỉ cần khen ngợi, khuyến khích tinh thần ỷ lại, bảo thủ, thói quen ôm ấp hình thức và sợ hãi thay đổi, sợ hãi sáng tạo. Bởi vì bất cứ sự thay đổi hay sáng tạo nào cũng hàm chứa những đớn đau của thời kỳ sinh nở. Trong một bài báo có nhan đề _Nói chuyện về vấn đề đóng góp,_ chúng tôi đã có dịp nói rõ rằng chúng tôi tin đạo Phật.
 
-<figure><img src="https://banmaixanh.org/image/article/thich-nhat-hanh-0103.jpg" alt="Tuyển tập sách của Thiền sư Thích Nhất Hạnh." title="Tuyển tập sách của Thiền sư Thích Nhất Hạnh." height=100% width=100%><figcaption><p>Tuyển tập sách của Thiền sư Thích Nhất Hạnh.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/thich-nhat-hanh-0103.jpg" alt="Tuyển tập sách của Thiền sư Thích Nhất Hạnh." title="Tuyển tập sách của Thiền sư Thích Nhất Hạnh." height=100% width=100%><figcaption><p>Tuyển tập sách của Thiền sư Thích Nhất Hạnh.</p></figcaption></figure>
 
 ### Truyện Kiều văn xuôi cho người trẻ
 
@@ -1189,4 +1189,4 @@ Sau mỗi câu chuyện được kể, ta thấy được tâm tình xúc độn
 
 Trên đây là tuyển tập sách của Thiền sư Thích Nhất Hạnh, với trí tuệ uyên thâm cùng khả năng diễn đạt phong phú, giàu cảm xúc, các tác phẩm của Thiền sư không chỉ có ý nghĩa về mặt học thuật mà còn đem lại giá trị về tinh thần, giúp người đọc thên minh định ý chí, học hiểu những đạo lý Phật pháp trong đời thường để từ đó áp dụng vào cuộc sống của bản thân.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-110.jpg" alt="Tuyển tập sách của Thiền sư Thích Nhất Hạnh." title="Tuyển tập sách của Thiền sư Thích Nhất Hạnh." height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-110.jpg" alt="Tuyển tập sách của Thiền sư Thích Nhất Hạnh." title="Tuyển tập sách của Thiền sư Thích Nhất Hạnh." height=100% width=100%><figcaption><p></p></figcaption></figure>

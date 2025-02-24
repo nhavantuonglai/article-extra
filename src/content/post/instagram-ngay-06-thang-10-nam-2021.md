@@ -3,7 +3,7 @@ pubDatetime: 2021-06-07T10:10:00Z
 title: Bài viết trên Instagram ngày 06 tháng 10 năm 2021
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - viet lach
   - doan van
@@ -18,4 +18,4 @@ mình phần nào cũng đồng ý, và mong điều bạn nói sẽ thành hi�
 
 chính vì thế, mình tin rằng sau khi dịch được kiểm soát và hàng người thưa dần, thì sẽ mãi lâu sau mới có những hàng người đi ngược lại. mọi người cần một khoảng nghỉ, cần thời gian để bình tâm, và xem liệu ở quê có phải là lựa chọn tốt hơn cho họ hay không. còn trong lúc này, được về quê an toàn là tốt hơn mọi điều có thể rồi.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

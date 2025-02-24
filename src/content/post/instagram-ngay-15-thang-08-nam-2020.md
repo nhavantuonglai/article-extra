@@ -3,7 +3,7 @@ pubDatetime: 2020-08-07T10:10:00Z
 title: Bài viết trên Instagram ngày 15 tháng 08 năm 2020
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - viet lach
   - doan van
@@ -22,4 +22,4 @@ họ cũng không làm gì ác cả. nhưng mình vẫn mong trong ý m
 
 nhưng mình biết chắc một điều: trái tim mình dẫu nhỏ nhưng còn chỗ chứa được, san sẻ được với nhiều người. mình có thể nghe, nhìn, chấp nhận những cảnh đời không may, để nó ở trái tim mình…
 
-<figure><img src="https://banmaixanh.org/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

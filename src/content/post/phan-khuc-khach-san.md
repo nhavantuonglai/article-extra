@@ -3,7 +3,7 @@ pubDatetime: 2022-01-02T10:10:00Z
 title: Làm thế nào để thu hút đúng khách với phân khúc thị trường khách sạn
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
 featured: false
-image: https://banmaixanh.org/image/cover/001-297.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-297.jpg
 tags:
   - viet thue
   - marketing
@@ -27,7 +27,7 @@ Những trải nghiệm mang tính cá nhân thường được xây dựng dự
 
 Những trải nghiệm mang tính cá nhân thường được xây dựng dựa trên hiểu biết về khách hàng.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-030.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-030.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Phân khúc thị trường khách sạn là gì?
 
@@ -55,7 +55,7 @@ Khách nhóm là tập hợp các du khách đi cùng nhau, mục đích chủ y
 
 Khách đặt qua bên thứ 3 là các cá nhân không đặt phòng như những hình thức nêu trên, họ đặt qua kênh OTA, đại lý bán phòng… nhằm hưởng chính sách giá, ưu đãi và các dịch vụ liên kết (bán vé máy bay, thuê xe…) của bên đó. Phân khúc thị trường này tập trung du khách có mục đích du lịch, vui chơi là chủ yếu.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-031.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-031.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Khác
 
@@ -71,7 +71,7 @@ Tuy vậy, các khách sạn rất cần phân loại các nhóm du khách, giú
 
 Ví dụ: Về hành vi đặt phòng, khách nhóm và khách qua đường có cách đặt phòng rất khác nhau. Với khách nhóm, họ thường đi theo đoàn, đặt trước và nhiều phòng cùng một lúc, và muốn nhận giá phòng ưu đãi nhất. Với khách qua đường, họ tự do hơn, có thể đặt trước hoặc đến trực tiếp khách sạn đặt, đa số lần đặt chỉ một phòng, và chấp nhận giá thấp nhất trong ngày ([best available rate](https://nhavantuonglai.com/article).
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-032.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-032.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## 6 lợi ích từ việc xác định phân khúc thị trường khách sạn
 
@@ -111,7 +111,7 @@ Khách sạn có thể dựa vào hành vi, quy tắc ứng xử của từng ph
 
 Ví dụ: Với khách nhóm, họ thường nhận và trả phòng cùng lúc, cho phép khách sạn chuẩn bị và sắp xếp nhân sự phù hợp, tránh việc quá tải hoặc không cung ứng kịp nhu cầu trong thực tế.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-034.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-034.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Quy trình xác định phân khúc thị trường phù hợp cho khách sạn
 
@@ -149,7 +149,7 @@ Khi phân loại, hãy đơn giản hóa các phân khúc, tránh thành quá nh
 
 Tạo, gán mã theo dõi tức là chỉ định một mã số, tên gọi cho các phân loại và đính kèm chúng cho mỗi du khách khi họ đặt phòng thành công. Mã theo dõi ảnh ánh nhóm phân loại của du khách, từ đó giúp việc đánh giá, đo lường trở nên hiệu quả hơn. Và cũng vì vậy, khách sạn nên tránh gán sai mã, bởi như thế sẽ khiến việc đánh giá trở nên sai lệch, không chính xác như mong muốn ban đầu nữa.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-035.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-035.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Theo dõi hiệu suất
 
@@ -213,7 +213,7 @@ Dựa vào dữ liệu đặt phòng, nhiều khách sạn xây dựng chân dun
 
 Lưu ý rằng, chân dung khách hàng mang tính đại diện, không phải tham số tuyệt đối. Điều này có nghĩa là, với từng phân khúc thị trường, từng tiêu chí sẽ có độ lệch nhất định, điều này là không đáng kể và khách sạn nên tập trung vào những tiêu chí cơ bản, chung nhất của phân khúc.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-036.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-036.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Xây dựng chiến lược giá
 
@@ -247,10 +247,10 @@ Với tất cả chiến lược nêu trên, khách sạn không nên bỏ qua v
 
 – Giải pháp Marketing số hóa (digital marketing), nhằm thu hút du khách trên các nền tảng số như metasearch, mạng xã hội, Ads… cùng các thông tin chi tiết về dữ liệu khách hàng thông qua Google Analytics để hiểu rõ hơn về hành vi của du khách.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-037.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-037.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Kết luận
 
 Như vậy, khi phân loại các nhóm du khách thành các phân khúc thị trường cụ thể, khách sạn có thể xây dựng những chiến lược bán phòng linh hoạt, phù hợp với từng nhóm đối tượng. Điều này hữu ích, và đem lại giá trị thực tế cho khách sạn, thể hiện qua doanh thu và lợi nhuận được cải thiện, tăng trưởng theo thời gian. Đồng thời với việc áp dụng các chiến lược, khách sạn cũng cần lưu ý áp dụng thêm công nghệ khách sạn nhằm khai thác sâu, mạnh mẽ hiệu quả từ các chiến lược đem lại.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-210.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-210.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>

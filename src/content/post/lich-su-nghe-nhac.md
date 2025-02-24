@@ -3,7 +3,7 @@ pubDatetime: 2021-02-04T10:10:00Z
 title: Lịch sử phát triển của thiết bị âm thanh dành cho audiophile
 description: Chọn một cặp tai nghe tốt có thể là một nhiệm vụ khó khăn, đặc biệt là khi thị trường hiện nay có vô số lựa chọn với nhiều tính năng và thiết kế khác nhau.
 featured: false
-image: https://banmaixanh.org/image/cover/001-441.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-441.jpg
 tags:
   - viet lach
   - thuong thuc am thanh
@@ -119,4 +119,4 @@ Công nghệ Hi-fi (High Fidelity) ra đời vào những năm 1950, đánh dấ
 
 Lịch sử phát triển của thiết bị âm thanh dành cho audiophile là một câu chuyện đầy thú vị và phong phú. Từ những bước tiến đầu tiên với máy quay đĩa và máy hát Edison, cho đến công nghệ Hi-fi và các thiết bị kỹ thuật số hiện đại, ngành công nghiệp âm thanh đã không ngừng tiến bộ để mang lại Chất lượng âm thanh tốt nhất cho người yêu nhạc. Những bước tiến trong công nghệ không dây, streaming
 
-<figure><img src="https://banmaixanh.org/image/cover/001-211.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-211.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

@@ -3,7 +3,7 @@ pubDatetime: 2023-02-01T10:10:00Z
 title: Làm thế nào để mở nhà hàng khi không có tiền?
 description: Tìm hiểu các chiến lược tiếp thị nhà hàng hiệu quả trong chuỗi bài viết sau của nhavantuonglai để áp dụng và đem lại hiệu quả thiết thực cho giải pháp của bạn.
 featured: false
-image: https://banmaixanh.org/image/cover/001-727.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-727.jpg
 tags:
   - viet thue
   - marketing
@@ -56,4 +56,4 @@ Giải pháp này không chỉ giúp bạn thực hiện ước mơ mở nhà h�
 
 Về cơ bản, đừng giới hạn bản thân trong những suy nghĩ, nếu bạn có kế hoạch mở nhà hàng thì hãy bắt tay vào thực hiện ngay và luôn với 5 gợi ý mở nhà hàng mà không có tiền được nêu ở trên. Nên nhớ rằng, khởi nghiệp luôn gian nan và bạn hãy sẵn sàng nhận thất bại, nhưng chúng không đồng nghĩa rằng bạn không phù hợp và không thể có cơ ngơi nhà hàng cho riêng mình.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-510.jpg" alt="nha hang, am thuc." title="nha hang, am thuc." height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-510.jpg" alt="nha hang, am thuc." title="nha hang, am thuc." height=100% width=100%><figcaption><p></p></figcaption></figure>

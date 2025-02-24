@@ -3,7 +3,7 @@ pubDatetime: 2021-04-07T10:10:00Z
 title: Bài viết trên Instagram ngày 24 tháng 04 năm 2021
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-343.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-343.jpg
 tags:
   - viet lach
   - doan van
@@ -20,4 +20,4 @@ cô bảo, lụa cô bán cho vui thôi, chứ kinh tế nhà cô ơ�
 
 cô nói hết cũng là lúc mình tạm biệt rồi đi tiếp. ý định lúc ban đầu theo đó vẫn nối tiếp trong lòng, nhưng rõ ràng – đó là sự ích kỷ cá nhân, luôn là vậy và không thể gì chối cãi; bởi những người đang ở đây, không chỉ là sự hiện diện trong một thành phố, mà còn tạo nên sự sống động cho chính nó – vốn đâu cần một chút tĩnh mịch như mình đang nhìn thấy vào lúc này đâu…
 
-<figure><img src="https://banmaixanh.org/image/cover/001-224.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-224.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

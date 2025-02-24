@@ -3,7 +3,7 @@ pubDatetime: 2022-02-10T10:10:00Z
 title: Bài viết trên Instagram ngày 10 tháng 02 năm 2022
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-117.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-117.jpg
 tags:
   - viet lach
   - doan van
@@ -24,4 +24,4 @@ nhưng nghĩ vậy thì xa xôi quá, xa cả quá khứ lẫn tương lai, còn
 
 đó là những trải nghiệm đơn giản và không thú vị, nhưng với mình vậy cũng đủ để sống cùng. chúng có lẽ khác trước, khi mình luôn tự hỏi đâu là cơ hội tốt nhất, nơi nào là phù hợp nhất. mà hiện tại thì những vấn đề ấy cũng quan trọng đó, nhưng quan trọng hơn thì vẫn là hiện tại mà thôi.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

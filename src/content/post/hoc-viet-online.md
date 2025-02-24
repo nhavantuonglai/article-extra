@@ -3,7 +3,7 @@ pubDatetime: 2024-02-13T10:10:00Z
 title: Hướng dẫn chi tiết học viết online hiệu quả
 description: Học viết online đã trở thành một xu hướng phổ biến và hiệu quả. Với sự phát triển của internet và các nền tảng học tập trực tuyến, bất kỳ ai cũng có thể trau dồi kỹ năng viết của mình.
 featured: false
-image: https://banmaixanh.org/image/cover/001-235.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-235.jpg
 tags:
   - viet lach
   - ky nang viet
@@ -37,7 +37,7 @@ Nhiều khóa học trực tuyến miễn phí hoặc có chi phí thấp hơn s
 
 Bạn tiết kiệm chi phí đi lại và sinh hoạt khi học tại nhà.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-104.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-104.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Chọn nền tảng học viết online
 
@@ -67,7 +67,7 @@ Cung cấp các khóa học từ các trường đại học hàng đầu thế 
 
 Các khóa học thường miễn phí, nhưng bạn có thể trả phí để nhận chứng chỉ hoàn thành.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-105.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-105.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ### Skillshare
 
@@ -91,7 +91,7 @@ Thực hiện bài tập: Luôn hoàn thành các bài tập được giao. Th�
 
 Tham gia diễn đàn thảo luận: Tham gia vào các diễn đàn thảo luận để trao đổi ý kiến với giáo viên và các học viên khác. Đây là cơ hội để bạn nhận được phản hồi và học hỏi từ những người khác.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-106.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-106.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ### Tự học và nâng cao kiến thức
 
@@ -105,7 +105,7 @@ Viết hàng ngày: Cố gắng viết mỗi ngày, dù chỉ là một đoạn 
 
 Thử thách bản thân: Tham gia các thử thách viết online như NaNoWriMo (National Novel Writing Month) để đặt ra mục tiêu cụ thể và thử thách bản thân.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-107.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-107.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Nguồn tài nguyên hỗ trợ học viết online
 
@@ -126,7 +126,7 @@ Reddit (r/writing, r/writingprompts): Các cộng đồng trên Reddit này là 
 
 Facebook groups (writing groups): Tham gia vào các nhóm viết lách trên Facebook để kết nối với những người viết khác và chia sẻ kinh nghiệm.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-108.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-108.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ### Công cụ hỗ trợ viết lách
 
@@ -154,7 +154,7 @@ Tham gia cuộc thi viết: Tham gia các cuộc thi viết online để thử t
 
 Đăng ký các dự án viết: Tham gia vào các dự án viết cộng đồng hoặc tự tạo cho mình một dự án viết cá nhân như viết một cuốn tiểu thuyết hay một bộ truyện ngắn.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-109.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-109.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Kết luận
 
@@ -162,4 +162,4 @@ Học viết online là một hành trình đầy thú vị và bổ ích, giúp
 
 [Viết lách sáng tạo](https://nhavantuonglai.com/article) không chỉ là một kỹ năng mà còn là một nghệ thuật. Hãy kiên trì và không ngừng học hỏi, bạn sẽ thấy mình không chỉ trở thành một người viết giỏi hơn mà còn là một người sáng tạo và sâu sắc hơn trong cách nhìn nhận thế giới. Chúc bạn thành công trên con đường học viết online.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-324.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-324.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

@@ -3,7 +3,7 @@ pubDatetime: 2024-02-07T10:10:00Z
 title: Làm sao để xây dựng nhân vật trong truyện khi viết lách?
 description: Xây dựng nhân vật đóng vai trò quan trọng trong cấu trúc truyện, chúng là xương sống của mạch truyện, bên cạnh cấu trúc nội dung. Bài viết sau cung cấp những thông tin hữu ích về xây dựng nhân vật.
 featured: false
-image: https://banmaixanh.org/image/cover/001-741.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-741.jpg
 tags:
   - viet lach
   - ky nang viet
@@ -43,7 +43,7 @@ Ngoài ra, bạn cũng có thể sử dụng các biện pháp khác để xây 
 
 – Cho nhân vật có sự phát triển và thay đổi qua câu chuyện.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-097.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-097.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Làm sao để tạo ra một nhân vật độc đáo?
 
@@ -73,7 +73,7 @@ Ngoài ra, bạn cũng có thể sử dụng các biện pháp khác để xây 
 
 – Bạn nên cho nhân vật có sự kế thừa và liên kết giữa các giai đoạn phát triển, để tạo ra một quá trình phát triển liền mạch và tự nhiên.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-098.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-098.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Các mô hình phát triển nhân vật phổ biến trong truyện là gì?
 
@@ -99,7 +99,7 @@ Mô hình nhân vật phụ là nhân vật không quan trọng lắm đối v�
 
 – Mô hình nhân vật phụ theo sự kiện là nhân vật phụ xuất hiện trong một hoặc một số sự kiện quan trọng của cốt truyện, để tạo ra sự bất ngờ, kịch tính hoặc biến cố cho nhân vật chính hoặc câu chuyện. Ở đây, nhà văn thường miêu tả những hành động và ảnh hưởng của nhân vật trong sự kiện đó. Ví dụ: Thầy bói trong Lão Hạc của Nam Cao, Bà Tiên trong Tấm Cám của dân gian, Gandalf trong Chúa tể của những chiếc nhẫn của J.R.R. Tolkien…
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-099.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-099.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ### Mô hình nhân vật phản diện
 
@@ -129,8 +129,8 @@ Xây dựng tính cách nhân vật là một công việc quan trọng trong [v
 
 – Xác định tài năng và khuyết điểm của nhân vật. Bạn cần biết nhân vật của bạn có những kỹ năng hay khả năng đặc biệt gì, họ có thể làm được điều gì mà người khác không thể. Bạn cũng cần biết nhân vật của bạn có những điểm yếu hay khiếm khuyết gì, họ không thể làm được điều gì mà người khác có thể. Tài năng và khuyết điểm của nhân vật sẽ giúp bạn tạo ra những ưu thế và khó khăn cho họ, cũng như thể hiện sự độc đáo và phức tạp của họ.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-100.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-100.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 Trên đây là những thông tin về xây dựng nhân vật trong truyện khi viết lách, hy vọng các bạn sẽ có những áp dụng phù hợp, giúp tác phẩm của mình trở nên hoàn thiện và thú vị hơn để [cải thiện kỹ năng viết lách](https://nhavantuonglai.com/article) của bản thân.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-510.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-510.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

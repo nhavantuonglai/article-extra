@@ -3,7 +3,7 @@ pubDatetime: 2019-03-07T10:10:00Z
 title: Bài viết trên Instagram ngày 03 tháng 11 năm 2019
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - viet lach
   - doan van
@@ -19,4 +19,4 @@ bởi là khi mình không thể nương nhờ ba mẹ trong từng
 
 là khi nghe bài mơ của Doãn Hoài Nam, bài hát đem đến cho mình sự phiêu lãng, trôi dạt rất nhiều về những ngày của tuổi trẻ. lúc ấy vẫn chưa dứt ra được cái cảm xúc rằng ngày ấy đã xa lắm, cái lần khóc ấy là của sự cô đơn và tiếc nuối. có lẽ đâu đó, trong cái dòng mà anh bạn mình viết, cũng có chút nào cô đơn hay tiếc nuối không chừng?
 
-<figure><img src="https://banmaixanh.org/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

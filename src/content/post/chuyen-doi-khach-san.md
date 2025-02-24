@@ -3,7 +3,7 @@ pubDatetime: 2023-03-07T10:10:00Z
 title: Câu chuyện các khách sạn chuyển đổi cấu trúc hoạt động
 description: Mọi người đều yêu thích một câu chuyện thành công. Trên thực tế, chúng tôi có hơn 100 câu chuyện như vậy trên trang khách hàng của mình.
 featured: false
-image: https://banmaixanh.org/image/cover/001-511.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-511.jpg
 tags:
   - viet thue
   - marketing
@@ -39,7 +39,7 @@ Những thành công của họ bao gồm:
 
 – Đọc câu chuyện của họ.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-047.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-047.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Paradise Resort Gold Coast: quyền năng thanh toán
 
@@ -59,7 +59,7 @@ Những thành công của họ bao gồm:
 
 – Đọc câu chuyện của họ.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-046.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-046.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Samesun: cách mạng từ xa
 
@@ -79,7 +79,7 @@ Những thành công của họ bao gồm:
 
 – Đọc câu chuyện của họ.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-040.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-040.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Zien Group: đại tu hoạt động
 
@@ -99,7 +99,7 @@ Những thành công của họ bao gồm:
 
 – Đọc câu chuyện của họ.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-084.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-084.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Capsule Hotel Switzerland: tiện ích cho khách hàng
 
@@ -109,7 +109,7 @@ Capsule Hotel Switzerland đã áp dụng công nghệ để mang đến một h
 
 Điều này có nghĩa là tại một khách sạn với hơn 140 khoang ngủ, họ chỉ cần một người mỗi ca làm việc, người này cũng có thể quản lý toàn bộ bộ phận F&B.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-020.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-020.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 Những thành công của họ bao gồm:
 
@@ -119,4 +119,4 @@ Những thành công của họ bao gồm:
 
 – Tự động hóa 100% thanh toán và không có chi phí bồi hoàn.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-314.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-314.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>

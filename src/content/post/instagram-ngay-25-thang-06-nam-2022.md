@@ -3,7 +3,7 @@ pubDatetime: 2022-06-25T10:10:00Z
 title: Bài viết trên Instagram ngày 25 tháng 06 năm 2022
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-121.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-121.jpg
 tags:
   - viet lach
   - doan van
@@ -22,4 +22,4 @@ với mình, những vết thương lòng mà người khác gây nên, dù vô 
 
 nên rằng, tha thứ một ai với những lỗi lầm của họ chỉ nên giới hạn khi chúng rộng bằng gang tay, còn tấm lòng bạn là gang rưỡi. việc tha thứ chỉ nên như vậy, chỉ nên ôm bằng sự bao dung có giới hạn, không nên rộng hơn, cũng không nên cố gắng giãn to hơn; và cũng đừng nghĩ quá về chuyện không thể tha thứ, bởi khi ấy – cũng là lúc chúng ta đang coi trọng cảm xúc, tinh thần và thân thể của mình hơn thảy mọi điều đang diễn ra trước mắt.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-100.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-100.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

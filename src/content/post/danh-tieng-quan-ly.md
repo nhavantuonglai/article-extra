@@ -3,7 +3,7 @@ pubDatetime: 2022-03-23T10:10:00Z
 title: Quản lý danh tiếng trực tuyến của khách sạn và những điều cần phải biết
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
 featured: false
-image: https://banmaixanh.org/image/cover/001-749.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-749.jpg
 tags:
   - viet thue
   - marketing
@@ -27,7 +27,7 @@ Các khách sạn tồn tại, hay lụi tàn là bởi danh tiếng, thương h
 
 Với danh tiếng trực tuyến, như trên mạng xã hội, các trang đặt phòng, đánh giá khách sạn… thì khách sạn ít có quyền kiểm soát các bài đăng, đánh giá của người dùng, điều này khiến chúng trở thành một trận địa lớn. Mọi người có thể thoải mái, tự do đưa ra các bình luận tích cực hoặc tiêu cực dù có thể họ chưa từng trải nghiệm. Vậy thì, làm thế nào để các khách sạn giữ hình ảnh tích cực, và nhận được những bình luận trung thực từ khách hàng.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-104.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-104.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Hiểu về quản lý danh tiếng trực tuyến khách sạn
 
@@ -73,7 +73,7 @@ Ngoài ra, danh tiếng trực tuyến khách sạn tích cực còn đem đến
 
 Nhiều du khách khi [lập kế hoạch cho chuyến đi](https://nhavantuonglai.com/article), họ sẽ [tham khảo trên Google](https://nhavantuonglai.com/article), so sánh các lựa chọn phòng với các khách sạn, đọc hết các bình luận để tìm ra đâu là lựa chọn tốt nhất. 72% khách hàng tin tưởng vào thương hiệu trực tuyến, cho nên duy trì và cải thiện chúng là điều nên làm và khó tránh khỏi trong thời đại số ngày nay.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-105.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-105.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Hậu quả của danh tiếng trực tuyến bị tổn hại
 
@@ -95,7 +95,7 @@ Ví dụ tỷ đô được nhắc đến nhiều nhất là vụ vi phạm dữ
 
 Ngoài ra, trên mạng thì bất kỳ ai cũng có thể trở thành nhà phê bình tiềm năng về thương hiệu của bạn. Đôi khi, chúng là những lời góp ý nên có, để bạn biết đâu là điều cần cải thiện và khắc phục. Nhưng đôi khi, chúng lại là những ác ý, bình luận thiếu căn cứ, hoặc mang tính phá hoại từ đối thủ. Dù thế nào đi chăng nữa, cũng không được phớt lờ chúng, bởi những ý kiến tiêu cực có thể dễ dàng lan truyền, và thổi bùng lên ngọn lửa hoài nghi, tức giận. Điều này là bởi các khách sạn nhỏ thường có ít đánh giá trực tuyến hơn, nên những bình luận tiêu cực dễ dàng tìm thấy hơn.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-107.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-107.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## 2 phương pháp quản lý danh tiếng khách sạn
 
@@ -153,8 +153,8 @@ Hiển thị các xu hướng, người nổi bật trên mạng xã hội trong
 
 hiển thị các đặc điểm mới nhất và mọi thời đại trên mạng xã hội, blog và tin tức. Một trong những tính năng hữu ích nhất của công cụ này là nó có thể giúp bạn xác định những người có ảnh hưởng đáng để cộng tác.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-108.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-108.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 Nội dung trực tuyến là rất đa dạng, và ngày càng đa dạng hơn nữa. Sẽ không khó kiểm soát và đảm bảo rằng mọi thứ đang thể hiện thông tin đúng như bạn muốn, nếu bạn hiểu cách vận hành, và có được những công cụ phù hợp trong tay. Cho nên, nếu bạn đang cố gắng xây dựng danh tiếng và thương hiệu cho khách sạn của mình, hãy bắt đầu ngay từ hôm nay.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-510.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-510.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>

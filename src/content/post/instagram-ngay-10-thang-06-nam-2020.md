@@ -3,7 +3,7 @@ pubDatetime: 2020-06-07T10:10:00Z
 title: Bài viết trên Instagram ngày 10 tháng 06 năm 2020
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-323.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-323.jpg
 tags:
   - viet lach
   - doan van
@@ -22,4 +22,4 @@ nên, sẽ không có một công thức chung nào cho những câu 
 
 bởi nếu bạn cứ sợ, cứ hoang mang trong những quyết định của mình, nó sẽ thành rào cản để chúng ta cảm nhận cuộc sống. nó kiểu như, khi bạn chạm đến thành quả trong cái ngưỡng an toàn mình muốn, lại cũng chưa chắc làm bạn vui khi bạn thử bước ra một chút rồi nhận lấy đắng cay vậy đó.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-310.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-310.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

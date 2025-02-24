@@ -3,7 +3,7 @@ pubDatetime: 2021-12-17T10:10:00Z
 title: Một sự thật lâu đời về cúm năm 1918 có thể đã sai
 description: Những người trẻ và khỏe không dễ chết như người già yếu, theo một phân tích mới.
 featured: false
-image: https://banmaixanh.org/image/cover/001-456.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-456.jpg
 tags:
   - khoa hoc
   - sinh hoc
@@ -46,4 +46,4 @@ _Các nhà nghiên cứu giải thích rằng, _Nguy cơ tử vong đối với 
 
 Đại dịch cúm năm 1918 cũng xảy ra vào thời điểm hàng triệu nam thanh niên trẻ tuổi Mỹ tập trung trong các trại lính và doanh trại trong và sau Thế chiến thứ nhất. Trong những điều kiện đông đúc này, họ có khả năng bị bệnh ở tỷ lệ cao hơn so với những người lớn tuổi. Ngay cả khi một tỷ lệ rất nhỏ trong số họ chết so với các cá nhân khác bị nhiễm bệnh, thì số ca tử vong của họ vẫn sẽ rất nhiều và đáng nhớ.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-642.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-642.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

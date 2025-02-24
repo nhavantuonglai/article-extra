@@ -3,7 +3,7 @@ pubDatetime: 2020-08-07T10:10:00Z
 title: Bài viết trên Instagram ngày 13 tháng 08 năm 2020
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - viet lach
   - doan van
@@ -22,4 +22,4 @@ những chuyện ấy có khi rất nhảm nhí, tầm phào với bạn, rằng
 
 vì vậy, mình vẫn cảm thấy may mắn, khi điều khác biệt với mọi người chỉ là thuận tay trái. và nhiều khi mình cũng chẳng biết làm gì hơn, ngoài việc vỗ về, và chấp nhận sự khác biệt mà bạn có…
 
-<figure><img src="https://banmaixanh.org/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

@@ -3,7 +3,7 @@ pubDatetime: 2021-12-03T10:10:00Z
 title: Vì sao vàng và chứng khoán tăng mạnh phiên đầu tuần?
 description: Chuỗi bài viết của nhavantuonglai về kinh doanh vàng bạc đá quý và quỹ đầu tư sẽ giúp nhà đầu tư khởi nghiệp hiệu quả.
 featured: false
-image: https://banmaixanh.org/image/cover/001-397.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-397.jpg
 tags:
   - viet thue
   - marketing
@@ -68,4 +68,4 @@ Cũng mới đây, khi Trung Quốc thông qua Dự luật an ninh đối với 
 
 Như vậy, ta có thể nhìn thấy rằng, giá vàng hôm nay cứ tăng sốc ngay đầu tuần. Số liệu trong những tuần gần đây đã chứng minh cực kỳ chân thực điều này. Nguyên do của vấn đề này đến cả từ trong nước lẫn thế giới, khi những biến động của tài chính vẫn còn âm ỉ. Điều này, thúc đẩy mỗi người dùng mua vàng nhiều trong dịp đầu tuần để quan sát các diễn biến, song song với việc tìm hiểu và lựa chọn đầu tư cho bản thân. Chính vì thế, không quá ngạc nhiên với tình huống này vẫn đang diễn ra trong bối cảnh giá vàng hay lên rồi xuống thất thường như hiện nay.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-300.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-300.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

@@ -3,7 +3,7 @@ pubDatetime: 2019-08-07T10:10:00Z
 title: Bài viết trên Instagram ngày 08 tháng 08 năm 2019
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - viet lach
   - doan van
@@ -18,4 +18,4 @@ mình vụt qua trung tâm thành phố, không thong thả và chẳng dửng d
 
 bạn mình kể, đèo lên Đà Lạt từ phía Nam là vô cùng nguy hiểm, tai nạn nhiều nên hãy cẩn trọng. nhưng lúc ấy, mình chẳng để tâm đến lưu ý bạn nhắc, bởi bận quan sát những biển số xe chạy phía trước, như đang tìm con số thân quen nơi thành phố dần lạ lẫm này. nhưng dẫu tìm có nát mắt, sự thân thuộc mình cần cũng chẳng được trọn vẹn chút nào.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

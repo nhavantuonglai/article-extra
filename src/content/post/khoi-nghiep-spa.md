@@ -3,7 +3,7 @@ pubDatetime: 2023-07-02T10:10:00Z
 title: Mở tiệm Spa nhỏ cần bao nhiêu tiền?
 description: Tìm hiểu các chiến lược tiếp thị Spa hiệu quả trong chuỗi bài viết sau của nhavantuonglai để áp dụng và đem lại hiệu quả thiết thực cho giải pháp của bạn.
 featured: false
-image: https://banmaixanh.org/image/cover/001-349.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-349.jpg
 tags:
   - viet thue
   - marketing
@@ -85,4 +85,4 @@ Tiền điện, nước, wifi…: Đây là những khoảng chi phí cố đị
 
 Tổng kết lại, chi phí mở tiệm Spa nhỏ là cần từ 300 – 500 triệu đồng, tùy vào mô hình Spa hướng đến. Nếu bạn mở tiệm Spa ngay tại nhà thì sẽ tiết kiệm được một khoảng đáng kể như là mặt bằng, điện nước… nhưng những chi phí khác thì vẫn phải tốn. Nếu bạn cảm thấy số tiền này là quá lớn, hãy bắt đầu từ những dịch vụ đơn lẻ, giảm số nhân viên cũng như không gian của tiệm. Những yếu tố trên đây chỉ mới là chi phí, để vận hành hiệu quả, thì bạn cũng cần tìm hiểu về cách quản lý Spa sao cho hiệu quả, đem lại doanh thu và thu hút được nhiều khách hàng.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-310.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-310.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

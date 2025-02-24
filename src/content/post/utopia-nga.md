@@ -3,7 +3,7 @@ pubDatetime: 2023-09-19T10:10:00Z
 title: Tại sao trí thức Nga lại có viễn cảnh utopia rất khác nhau?
 description: Những sự đối lập không thể vượt qua giữa các viễn cảnh đó giúp giải thích sự phát triển hạn chế của Nga và hé lộ tương lai đầy hủy diệt của đất nước này.
 featured: false
-image: https://banmaixanh.org/image/cover/001-227.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-227.jpg
 tags:
   - khoa hoc
   - lich su
@@ -124,4 +124,4 @@ Nhiều người trong số họ đã sẵn sàng và đủ dũng cảm để đ
 
 Mặc dù những tác phẩm của họ không bảo vệ được nước Nga trong thế kỷ 20, nhưng hy vọng rằng chúng sẽ định hướng sự phát triển của nhân loại trong tương lai.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-249.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-249.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

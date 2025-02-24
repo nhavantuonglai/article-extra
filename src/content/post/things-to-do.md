@@ -3,7 +3,7 @@ pubDatetime: 2022-07-23T10:10:00Z
 title: Những điều cần biết về Things To Do để bán phòng tốt hơn
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
 featured: false
-image: https://banmaixanh.org/image/cover/001-349.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-349.jpg
 tags:
   - viet thue
   - marketing
@@ -31,7 +31,7 @@ Với khả năng đặt phòng trực tiếp cùng những tính năng hỗ tr�
 
 – Tiếp cận hàng triệu người trên toàn thế giới.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-016.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-016.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Sự thay thế của Things To Do
 
@@ -65,7 +65,7 @@ Với các khách sạn, nhà quản lý kênh, đây là một cơ hội để 
 
 – Đa dạng hình thức thanh toán.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-018.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-018.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Với Things To Do, Google vẫn là nguồn bán phòng quan trọng nhất
 
@@ -99,7 +99,7 @@ Lưu ý quan trọng: Đừng chọn hệ thống đặt phòng một cách hờ
 
 Ngoài ra, chúng cũng liệt kê thông tin khách sạn nhiều lần, tự nhiên trên các nền tảng bán phòng trực tuyến, nền tảng tiếp thị được kết nối với khách sạn. Điều này gián tiếp cải thiện và tăng nhận diện thương hiệu cho khách sạn.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-019.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-019.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Nên khai thác Things To Do như thế nào để đem lại hiệu quả?
 
@@ -111,4 +111,4 @@ Ngoài ra, chúng cũng liệt kê thông tin khách sạn nhiều lần, tự n
 
 Things To Do sẽ là trận địa mới trong cuộc chiến bán phòng trực tuyến, nhanh nhạy, tức thời và hiểu đúng sẽ giúp các khách sạn nắm được thế thượng phong và tạo ra khác biệt.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-310.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-310.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>

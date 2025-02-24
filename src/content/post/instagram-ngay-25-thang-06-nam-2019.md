@@ -3,7 +3,7 @@ pubDatetime: 2019-06-25T10:10:00Z
 title: Gặp Hoàng Tử Bé trên hành trình
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - viet lach
   - doan van
@@ -21,4 +21,4 @@ anh chỉ dẫn mình đi vào nhà, lấy đá và nước ra để uống, có
 
 anh chị lại bắt chuyện và tụi mình kể với nhau về hành trình dẫn đến cuộc gặp gỡ này. trước lúc rời đi, anh đưa mình tấm danh thiếp, ở trên đó là Le Petit Prince – Hoàng Tử Bé. mình mỉm cười vì sự tình cờ đầy thú vị, khi đây cũng là cuốn truyện mình yêu thích, và một chút nào đó, đồng hành cùng mình trong một khoảng thời gian dài…
 
-<figure><img src="https://banmaixanh.org/image/cover/001-107.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-107.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

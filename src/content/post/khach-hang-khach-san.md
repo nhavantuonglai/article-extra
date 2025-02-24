@@ -3,7 +3,7 @@ pubDatetime: 2022-05-13T10:10:00Z
 title: 12 nhóm khách hàng trong khách sạn và cách đáp ứng mong đợi của họ
 description: Không thể phủ nhận rằng hiệu quả của chiến lược marketing của bạn phần lớn phụ thuộc vào việc bạn phân nhóm khách hàng trong khách sạn.
 featured: false
-image: https://banmaixanh.org/image/cover/001-205.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-205.jpg
 tags:
   - viet thue
   - marketing
@@ -31,7 +31,7 @@ Mục tiêu là thu hút số lượng khách lý tưởng càng nhiều càng t
 
 Khi bạn đã xác định được các nhân vật khách hàng liên quan, các nỗ lực quảng cáo, chiến lược phân phối và quản lý doanh thu của bạn sẽ được tập trung rõ ràng. Phân khúc khách hàng là chìa khóa để hiểu ai là đối tượng mục tiêu của bạn, giúp bạn tạo ra các thông điệp marketing, chiến lược giá cả và trải nghiệm khách hàng cá nhân hóa phù hợp với đúng đối tượng. Để hỗ trợ bạn trong quá trình này, chúng tôi đã tổng hợp danh sách các loại khách du lịch có thể đặt phòng tại cơ sở của bạn.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-135.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-135.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Các nhóm khách hàng trong khách sạn khác nhau
 
@@ -65,7 +65,7 @@ Du khách truyền thống là những người đi du lịch không thường x
 
 – Cách thu hút họ: Đối với du khách truyền thống, việc làm nổi bật các đặc điểm của vị trí khách sạn của bạn mà sẽ thu hút người đến thăm địa điểm trong vài ngày là rất quan trọng, ví dụ: _gần các điểm tham quan chính, chỉ cách sân bay mười phút, nằm ở khu trung tâm thành phố._ Tất cả các yếu tố này sẽ ảnh hưởng đến quyết định của khách. Họ muốn một vị trí thuận tiện, dễ tiếp cận và gần với tất cả mọi thứ.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-136.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-136.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Nhóm gia đình
 
@@ -87,7 +87,7 @@ Du khách cao cấp mong đợi nhiều hơn cho số tiền của họ và sẵ
 
 – Cách thu hút họ: Để thu hút loại khách này trong giai đoạn nghiên cứu kế hoạch chuyến đi của họ, nên làm nổi bật sự độc quyền của khách sạn của bạn. Bạn sẽ muốn làm nổi bật những gì làm cho khách sạn của bạn khác biệt và những trải nghiệm độc đáo mà bạn có thể cung cấp cho những khách này.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-137.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-137.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Du khách tiết kiệm
 
@@ -139,7 +139,7 @@ Những khách này tập trung vào sự phát triển thể chất, cảm xúc
 
 – Cách thu hút họ: Tạo gói sức khỏe và thể hình trọn gói. Họ có xu hướng ưu tiên các điểm đến và chỗ ở phù hợp với các giá trị và mục tiêu sức khỏe cá nhân của họ, vì vậy hãy thu hút họ bằng cách giới thiệu cam kết của khách sạn bạn đối với sức khỏe của khách hàng, cộng đồng địa phương và môi trường.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-138.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-138.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Khách VIP
 
@@ -163,7 +163,7 @@ sự thoải mái hơn.
 
 – Cách thu hút họ: Tập trung vào các tiện nghi như bếp nhỏ hoặc phòng rộng hơn. Cung cấp giá đặc biệt cho khách lưu trú dài hạn hoặc các gói bao gồm các dịch vụ bổ sung, làm cho việc lưu trú tại khách sạn của bạn hấp dẫn hơn so với việc chọn một căn hộ. Nhấn mạnh tính linh hoạt và sự tiện lợi khi lưu trú lâu dài tại khách sạn của bạn.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-139.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-139.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Kết luận
 
@@ -171,4 +171,4 @@ Hồ sơ khách là rất quan trọng để xác định các chiến lược q
 
 Khi bạn đã có sự rõ ràng này, việc sử dụng hồ sơ khách sẽ trở nên rất quan trọng trong việc nghiên cứu và xây dựng hồ sơ cho khách của bạn. Bạn có thể phát triển các hồ sơ lý tưởng cũng như các hồ sơ phản ánh dữ liệu PMS của bạn để xác định các chính sách phù hợp cho từng loại khách. Tuy nhiên, điều quan trọng là đảm bảo rằng các hồ sơ của bạn vẫn thực tế và chính xác, cung cấp nền tảng vững chắc cho sự phát triển của doanh nghiệp bạn.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-300.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-300.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>

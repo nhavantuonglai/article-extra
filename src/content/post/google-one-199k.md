@@ -3,7 +3,7 @@ pubDatetime: 2021-12-11T10:10:00Z
 title: Hướng dẫn nâng cấp Google One 3TB mỗi năm với giá 199k
 description: Tìm hiểu cách nâng cấp Google One 3TB giá 199k, chất lượng cao trong bài viết sau để áp dụng cho tài khoản của bạn.
 featured: false
-image: https://banmaixanh.org/image/cover/001-483.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-483.jpg
 tags:
   - google one
   - google drive
@@ -71,7 +71,7 @@ Khi đăng ký membership OWASP, ngoài các lợi ích liên quan đến nền 
 
 – Chọn Country of Residence: Việt Nam, giá gói dịch vụ sẽ còn 8$.
 
-<figure><img src="https://banmaixanh.org/image/article/google-one-05.jpg" alt="Hướng dẫn nâng cấp Google One 3TB mỗi năm với giá 200k." title="Hướng dẫn nâng cấp Google One 3TB mỗi năm với giá 200k." height="100%" width="100%"><figcaption><p>Hướng dẫn nâng cấp Google One 3TB mỗi năm với giá 200k.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/google-one-05.jpg" alt="Hướng dẫn nâng cấp Google One 3TB mỗi năm với giá 200k." title="Hướng dẫn nâng cấp Google One 3TB mỗi năm với giá 200k." height="100%" width="100%"><figcaption><p>Hướng dẫn nâng cấp Google One 3TB mỗi năm với giá 200k.</p></figcaption></figure>
 
 – Điền đầy đủ các trường thông tin, postal code mặc định là Hà Nội (100000).
 
@@ -79,7 +79,7 @@ Khi đăng ký membership OWASP, ngoài các lợi ích liên quan đến nền 
 
 – Điền thông tin thẻ thanh toán quốc tế, thông tin liên lạc.
 
-<figure><img src="https://banmaixanh.org/image/article/google-one-06.jpg" alt="Hướng dẫn nâng cấp Google One 3TB mỗi năm với giá 200k." title="Hướng dẫn nâng cấp Google One 3TB mỗi năm với giá 200k." height="100%" width="100%"><figcaption><p>Hướng dẫn nâng cấp Google One 3TB mỗi năm với giá 200k.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/google-one-06.jpg" alt="Hướng dẫn nâng cấp Google One 3TB mỗi năm với giá 200k." title="Hướng dẫn nâng cấp Google One 3TB mỗi năm với giá 200k." height="100%" width="100%"><figcaption><p>Hướng dẫn nâng cấp Google One 3TB mỗi năm với giá 200k.</p></figcaption></figure>
 
 ## Bước 4: Xác nhận thông tin membership OWASP nhận 3TB Google Drive (Google One), giá 199k
 
@@ -93,8 +93,8 @@ Kiểm tra thông tin tài khoản, lợi ích và đăng ký sử dụng dịch
 
 – Truy cập: [https://one.google.com/home](https://one.google.com/home).
 
-<figure><img src="https://banmaixanh.org/image/article/google-one-04.jpg" alt="Hướng dẫn nâng cấp Google One 3TB mỗi năm với giá 200k." title="Hướng dẫn nâng cấp Google One 3TB mỗi năm với giá 200k." height="100%" width="100%"><figcaption><p>Hướng dẫn nâng cấp Google One 3TB mỗi năm với giá 200k.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/google-one-04.jpg" alt="Hướng dẫn nâng cấp Google One 3TB mỗi năm với giá 200k." title="Hướng dẫn nâng cấp Google One 3TB mỗi năm với giá 200k." height="100%" width="100%"><figcaption><p>Hướng dẫn nâng cấp Google One 3TB mỗi năm với giá 200k.</p></figcaption></figure>
 
 – Kiểm tra dung lượng Google Drive (Google One) hiện tại.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-657.jpg" alt="Hướng dẫn nâng cấp Google One 3TB mỗi năm với giá 200k." title="Hướng dẫn nâng cấp Google One 3TB mỗi năm với giá 200k." height=100% width=100%><figcaption><p>Hướng dẫn nâng cấp Google One 3TB mỗi năm với giá 200k.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-657.jpg" alt="Hướng dẫn nâng cấp Google One 3TB mỗi năm với giá 200k." title="Hướng dẫn nâng cấp Google One 3TB mỗi năm với giá 200k." height=100% width=100%><figcaption><p>Hướng dẫn nâng cấp Google One 3TB mỗi năm với giá 200k.</p></figcaption></figure>

@@ -3,7 +3,7 @@ pubDatetime: 2021-12-07T10:10:00Z
 title: Bài viết trên Instagram ngày 28 tháng 12 năm 2021
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - viet lach
   - doan van
@@ -18,4 +18,4 @@ thế xong bạn bảo, thế để đó đọc cho, dù gì cũng có kinh nghi
 
 mình không trách bạn, nên cũng mong các bạn không trách mình. mình tha thứ cho sự lãng quên của bạn, và hy vọng những ai đó cũng lãng quên lời hứa để tha thứ cho mình. tụi mình không trách nhau, bởi chẳng có ai làm tròn điều mình nói cả. tụi mình tha thứ cho nhau, chắc là bởi vẫn muốn chơi cùng dài lâu.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-558.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-558.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

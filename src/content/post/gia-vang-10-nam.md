@@ -3,7 +3,7 @@ pubDatetime: 2021-11-12T10:10:00Z
 title: Tại sao biểu đồ giá vàng có thể tăng trong 10 năm tới?
 description: Chuỗi bài viết của nhavantuonglai về kinh doanh vàng bạc đá quý và quỹ đầu tư sẽ giúp nhà đầu tư khởi nghiệp hiệu quả.
 featured: false
-image: https://banmaixanh.org/image/cover/001-205.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-205.jpg
 tags:
   - viet thue
   - marketing
@@ -84,4 +84,4 @@ Vàng lúc này đây, trở thành một kênh đầu tư chắc chắn, an to�
 
 Tổng quan lại, biểu đồ giá vàng trong 10 năm tới có xu hướng tăng. Điều này đến từ cả những yếu tố khách quan nhưng biến động chính trị quốc tế, chính sách quốc gia. Mà cả những dư âm chủ quan như nhu cầu an toàn, bớt rủi ro khi đầu tư. Chính vì thế, có rất nhiều lý do để nhìn thấy rằng giá vàng sẽ sớm tăng.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-300.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-300.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

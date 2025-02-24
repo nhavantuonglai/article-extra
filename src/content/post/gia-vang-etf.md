@@ -3,7 +3,7 @@ pubDatetime: 2021-11-21T10:10:00Z
 title: Biểu đồ giá vàng phản ánh dòng chảy của ETF
 description: Chuỗi bài viết của nhavantuonglai về kinh doanh vàng bạc đá quý và quỹ đầu tư sẽ giúp nhà đầu tư khởi nghiệp hiệu quả.
 featured: false
-image: https://banmaixanh.org/image/cover/001-629.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-629.jpg
 tags:
   - viet thue
   - marketing
@@ -72,4 +72,4 @@ Còn ở khía cạnh chuyên gia, ngoài giá vàng ra thì dòng chảy của 
 
 Tổng quan lại, sức ảnh hưởng của ETF với biểu đồ giá vàng là quá rõ ràng. Nhưng việc quan sát biểu đồ giá vàng để rút ra những nhận định về thị trường là điều tất yếu. Để các nhà đầu tư có thể có cho mình những quyết định chuẩn xác, hợp lý hơn. Đặc biệt trong bối cảnh hiện tại mà giá vàng đang chịu nhiều tác động như hiện nay.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-514.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-514.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

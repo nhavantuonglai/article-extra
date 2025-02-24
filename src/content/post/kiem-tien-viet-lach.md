@@ -3,7 +3,7 @@ pubDatetime: 2021-04-18T10:10:00Z
 title: Viết lách kiếm tiền
 description: Viết lách kiếm tiền không chỉ là một công việc mà còn là một nghệ thuật. Với sự phát triển của công nghệ và internet, cơ hội cho các nhà văn và người viết nội dung ngày càng mở rộng.
 featured: false
-image: https://banmaixanh.org/image/cover/001-711.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-711.jpg
 tags:
   - viet lach
   - ky nang viet
@@ -27,7 +27,7 @@ Viết ebook hoặc sách và bán chúng trên các nền tảng như Amazon Ki
 
 [Freelancer viết lách](https://nhavantuonglai.com/article) (viết tự do) là một lĩnh vực rộng lớn với nhiều cơ hội. Bạn có thể viết bài cho các website, tạp chí, báo, hoặc viết nội dung cho các doanh nghiệp. Các website như Upwork, Freelancer, và Fiverr cung cấp nền tảng để bạn tìm kiếm công việc viết lách và kết nối với các khách hàng tiềm năng.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-092.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-092.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ### Viết Content SEO
 
@@ -47,7 +47,7 @@ Trước khi bắt đầu kiếm tiền từ việc viết lách, bạn cần x�
 
 Để thành công trong lĩnh vực viết lách, bạn cần liên tục học hỏi và [cải thiện kỹ năng viết lách](https://nhavantuonglai.com/article) của mình. Tham gia các [Khóa học viết blog](https://nhavantuonglai.com/article), đọc sách và nghiên cứu các tài liệu liên quan sẽ giúp bạn cải thiện kỹ năng viết. Ngoài ra, bạn cũng nên luyện tập viết mỗi ngày để rèn luyện kỹ năng và phát triển phong cách viết riêng.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-093.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-093.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ### Tìm kiếm cơ hội và kết nối
 
@@ -71,10 +71,10 @@ Khi làm việc với khách hàng, bạn sẽ phải đối mặt với áp l�
 
 Viết lách yêu cầu sự sáng tạo liên tục. Có những thời điểm bạn sẽ cảm thấy cạn kiệt ý tưởng và không biết viết gì. Để duy trì sự sáng tạo, hãy đọc nhiều sách, xem phim, và tham gia các hoạt động nghệ thuật để lấy cảm hứng. Ngoài ra, bạn cũng nên dành thời gian nghỉ ngơi và thư giãn để tái tạo năng lượng.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-094.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-094.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Kết Luận
 
 Viết lách kiếm tiền là một con đường đầy thách thức nhưng cũng không kém phần hấp dẫn. Nếu bạn có đam mê và quyết tâm, bạn có thể vượt qua các khó khăn và đạt được thành công. Hãy luôn học hỏi, nâng cao kỹ năng và tìm kiếm cơ hội để phát triển. Viết lách không chỉ mang lại thu nhập mà còn là một cách để bạn thể hiện bản thân và chia sẻ những câu chuyện, kiến thức của mình với thế giới.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-514.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-514.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

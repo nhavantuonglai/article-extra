@@ -3,7 +3,7 @@ pubDatetime: 2023-01-14T10:10:00Z
 title: Giới thiệu công cụ chuyển đổi chữ hoa thành chữ thường
 description: Công cụ chuyển đổi chữ hoa thành chữ thường là công cụ trực tuyến cho phép người dùng nhanh chóng thay văn bản từ chữ hoa sang chữ thường.
 featured: false
-image: https://banmaixanh.org/image/cover/001-533.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-533.jpg
 tags:
   - developer
   - javascript
@@ -38,4 +38,4 @@ Mới đây, nhavantuonglai đã chính thức ra mắt [công cụ chuyển đ�
 
 Để sử dụng, chỉ cần nhập văn bản thô cần chuyển đổi, sau đó bấm _Chuyển đổi_ thì ngay lập tức công cụ sẽ thống kê, đưa ra kết quả nhanh chóng để người dùng có thể sử dụng.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-164.jpg" alt="Ra mắt công cụ chuyển đổi văn bản Unicode." title="Ra mắt công cụ chuyển đổi văn bản Unicode." height=100% width=100%><figcaption></p>Ra mắt công cụ chuyển đổi văn bản Unicode.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-164.jpg" alt="Ra mắt công cụ chuyển đổi văn bản Unicode." title="Ra mắt công cụ chuyển đổi văn bản Unicode." height=100% width=100%><figcaption></p>Ra mắt công cụ chuyển đổi văn bản Unicode.</p></figcaption></figure>

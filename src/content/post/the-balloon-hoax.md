@@ -3,7 +3,7 @@ pubDatetime: 2006-01-29T10:10:00Z
 title: Edgar Allan Poe | Trò lừa bịp khinh khí cầu
 description: Edgar Allan Poe (1809 – 1849) là một trong những nhà văn, nhà thơ, và nhà phê bình văn học nổi tiếng nhất nước Mỹ.
 featured: false
-image: https://banmaixanh.org/image/cover/001-290.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-290.jpg
 tags:
   - edgar allan poe
   - thu vien
@@ -90,4 +90,4 @@ The Journal here ceases. Some particulars of the descent were communicated, howe
 
 This is unquestionably the most stupendous, the most interesting, and the most important undertaking, ever accomplished or even attempted by man. What magnificent events may ensue, it would be useless now to think of determining.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-299.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-299.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

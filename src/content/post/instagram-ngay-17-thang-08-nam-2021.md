@@ -3,7 +3,7 @@ pubDatetime: 2021-08-07T10:10:00Z
 title: Bài viết trên Instagram ngày 17 tháng 08 năm 2021
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - viet lach
   - doan van
@@ -20,4 +20,4 @@ dịch bệnh không thiên vị, chẳng loại trừ một ai trong cơn khát
 
 hàng thiết yếu, bản chất cũng giống như vai trò của tháp Maslow vậy. tầng đầu tiên, quan trọng nhất và cần được đảm bảo, là sức khỏe, là ăn uống. nhưng không phải ai, lúc nào nó cũng là thiết yếu; bởi có những người, ấy là hiển nhiên, không đáng quan trọng. nhưng cũng có những người khác, một nhu cầu cấp thiết tự nhiên xuất hiện, nó liệu có có được xem là thiết yếu hay không?mình thì khó trả lời lắm, bởi đúng sai vào lúc này, mọi thứ cũng cứ mơ hồ, nhạt nhòa như thế nào ấy…
 
-<figure><img src="https://banmaixanh.org/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

@@ -3,7 +3,7 @@ pubDatetime: 2021-11-13T10:10:00Z
 title: Vì sao giá vàng hôm nay trong nước luôn cao hơn thế giới?
 description: Chuỗi bài viết của nhavantuonglai về kinh doanh vàng bạc đá quý và quỹ đầu tư sẽ giúp nhà đầu tư khởi nghiệp hiệu quả.
 featured: false
-image: https://banmaixanh.org/image/cover/001-397.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-397.jpg
 tags:
   - viet thue
   - marketing
@@ -60,4 +60,4 @@ Bởi rằng lúc này đây, các dự đoán về giá vàng sẽ trở nên k
 
 Tổng quan lại, xu hướng chênh lệch của giá vàng trong nước và thế giới sẽ thay đổi cách những nhà đầu tư vào giá vàng. Qua đó cũng khiến vàng trở nên khó chơi, khó chiều và không tạo được thế cạnh tranh song song với các lựa chọn tài chính khác. Chính vì thế, lợi bất cập hại và người dùng cần một sự quan sát tỉnh táo không chỉ với việc giá vàng lên hay xuống, mà còn ở việc giá vàng trong nước chênh lệch như thế nào với giá vàng thế giới. Để qua đó, tối ưu lợi nhuận cho mỗi dự án đầu tư của chính mình và tránh đi những rủi ro không đáng có mà gặp phải trong quá trình thanh khoản vàng.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-300.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-300.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

@@ -3,7 +3,7 @@ pubDatetime: 2021-09-20T10:10:00Z
 title: Du lịch Phú Quốc và những điểm dừng chân nên ghé thăm
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
 featured: false
-image: https://banmaixanh.org/image/cover/001-653.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-653.jpg
 tags:
   - viet thue
   - marketing
@@ -70,4 +70,4 @@ Làng chài Hàm Ninh là một trong những ngôi làng cổ nhất ở Phú Q
 
 Danh sách trên đây là các gợi ý du lịch trải nghiệm Phú Quốc, chúng không thể hiện hết rõ các địa điểm, cạnh quan nổi bật tại Phú Quốc, nhưng chúng lại là gợi ý không thể không nhắc đến khi bạn cùng người yêu du lịch đến Phú Quốc. Cũng đừng quên đặt phòng tại AVS Hotel Phú Quốc, để nhận những ưu đãi, trải nghiệm tốt nhất khi du lịch tại hòn đảo xinh đẹp này.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-483.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-483.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

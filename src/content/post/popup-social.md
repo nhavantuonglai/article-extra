@@ -3,7 +3,7 @@ pubDatetime: 2024-05-03T10:10:00Z
 title: Hướng dẫn chèn popup social chat trên website bằng code
 description: Popup social chat (Plugin chat) là tính năng cho phép người dùng kết nối với quản trị viên website. Popup social chat (Plugin chat) giúp tăng tương tác, giải quyết những vấn đề mà người dùng gặp phải.
 featured: false
-image: https://banmaixanh.org/image/cover/001-649.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-649.jpg
 tags:
   - websiteflow
   - website
@@ -61,10 +61,10 @@ Một ứng dụng cho phép tạo ra popup social chat (plugin chat) thông min
 <div class="cta-action">
 
 <!  - – hotline zalo – ->
-<a href="https://zalo.me/088xxx7749" class="cta-zalo"><img src="https://banmaixanh.org/image/favicon/zalo.png" alt=" data-lazy-src="https://banmaixanh.org/image/favicon/zalo.png" class="lazyloaded_ data-was-processed=_true"><noscript><img src="https://banmaixanh.org/image/favicon/zalo.png" alt=""></noscript></a>
+<a href="https://zalo.me/088xxx7749" class="cta-zalo"><img src="https://banmaixanh.vercel.app/image/favicon/zalo.png" alt=" data-lazy-src="https://banmaixanh.vercel.app/image/favicon/zalo.png" class="lazyloaded_ data-was-processed=_true"><noscript><img src="https://banmaixanh.vercel.app/image/favicon/zalo.png" alt=""></noscript></a>
 
 <!  - – fanpage – ->
-<a href="https://www.facebook.com/100124394769344" class="cta-mes"><img src="https://banmaixanh.org/image/favicon/messenger.png" alt=" data-lazy-src="https://banmaixanh.org/image/favicon/messenger.png" class="lazyloaded_ data-was-processed=_true"><noscript><img src="https://banmaixanh.org/image/favicon/messenger.png" alt=""></noscript></a>
+<a href="https://www.facebook.com/100124394769344" class="cta-mes"><img src="https://banmaixanh.vercel.app/image/favicon/messenger.png" alt=" data-lazy-src="https://banmaixanh.vercel.app/image/favicon/messenger.png" class="lazyloaded_ data-was-processed=_true"><noscript><img src="https://banmaixanh.vercel.app/image/favicon/messenger.png" alt=""></noscript></a>
 
 <!  - – hotline tele – ->
 <a href="tel:088xxx7749" class="cta-call"><i class="fa fa-phone_ aria-hidden=_true"></i></a></div>
@@ -82,15 +82,15 @@ Một ứng dụng cho phép tạo ra popup social chat (plugin chat) thông min
 
 – Truy cập mục `Xem tất cả cài đặt`, ở góc trên bên phải màn hình.
 
-<figure><img src="https://banmaixanh.org/image/article/website-popup-social-chat-01.jpg" alt="website-popup-social-chat" height=100% width=100%><figcaption><p>website-popup-social-chat-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/website-popup-social-chat-01.jpg" alt="website-popup-social-chat" height=100% width=100%><figcaption><p>website-popup-social-chat-nhavantuonglai</p></figcaption></figure>
 
 – Truy cập mục `Plugin chat`.
 
-<figure><img src="https://banmaixanh.org/image/article/website-popup-social-chat-02.jpg" alt="website-popup-social-chat" height=100% width=100%><figcaption><p>website-popup-social-chat-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/website-popup-social-chat-02.jpg" alt="website-popup-social-chat" height=100% width=100%><figcaption><p>website-popup-social-chat-nhavantuonglai</p></figcaption></figure>
 
 ### Bước 2: Tùy chỉnh Plugin chat theo nhu cầu
 
-<figure><img src="https://banmaixanh.org/image/article/website-popup-social-chat-03.jpg" alt="website-popup-social-chat" height=100% width=100%><figcaption><p>website-popup-social-chat-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/website-popup-social-chat-03.jpg" alt="website-popup-social-chat" height=100% width=100%><figcaption><p>website-popup-social-chat-nhavantuonglai</p></figcaption></figure>
 
 ### Bước 3: Truy cập mục Thiết lập ở đầu trang
 
@@ -98,7 +98,7 @@ Một ứng dụng cho phép tạo ra popup social chat (plugin chat) thông min
 
 – Nếu nền tảng build website không được liệt kê, chọn `Tiêu chuẩn` để lấy script.
 
-<figure><img src="https://banmaixanh.org/image/article/website-popup-social-chat-04.jpg" alt="website-popup-social-chat" height=100% width=100%><figcaption><p>website-popup-social-chat-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/website-popup-social-chat-04.jpg" alt="website-popup-social-chat" height=100% width=100%><figcaption><p>website-popup-social-chat-nhavantuonglai</p></figcaption></figure>
 
 ### Bước 4: Chèn script vào thẻ _<body>_ của website
 
@@ -141,4 +141,4 @@ Cập nhật: Từ ngày 09/05/2024, bạn sẽ không truy cập được vào 
 
 Popup social chat (Plugin chat) là một tính năng hữu ích và hiệu quả cho website. Nó không chỉ giúp tăng tương tác và gắn kết giữa người dùng, mà còn giúp tăng uy tín, doanh thu và lợi nhuận cho website. popup social chat (plugin chat) là một xu hướng không thể bỏ qua trong thời đại số hóa và kết nối ngày nay.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-639.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-639.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

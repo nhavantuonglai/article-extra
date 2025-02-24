@@ -3,7 +3,7 @@ pubDatetime: 2023-12-14T10:10:00Z
 title: Bài viết trên Instagram ngày 14 tháng 11 năm 2023
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-100.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-100.jpg
 tags:
   - viet lach
   - doan van
@@ -22,4 +22,4 @@ nghĩ vớ vẩn vậy thêm vài điều rồi cũng chìm vào giấc ngủ, n
 
 sáng khi tỉnh giấc, ngoài cửa sổ nắng sớm đã chiều vàng cả góc tường tòa nhà đối diện. rõ ràng, chẳng có cơn bão nào đang đến cả, bởi mấy hôm nay đâu có tin báo bão nào.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

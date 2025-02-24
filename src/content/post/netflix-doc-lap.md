@@ -3,7 +3,7 @@ pubDatetime: 2023-01-03T10:10:00Z
 title: Top phim Netflix độc lập đáng xem nhất trong năm 2025
 description: Netflix là nền tảng phát hành phim trực tuyến, danh sách dưới đây là các top phim độc lập đáng xem nhất trong năm nay, với nhiều thể loại, nội dung hấp dẫn và thú vị.
 featured: false
-image: https://banmaixanh.org/image/cover/001-483.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-483.jpg
 tags:
   - netflix
   - dien anh
@@ -11,7 +11,7 @@ tags:
 
 _Netflix là nền tảng phát hành phim trực tuyến, danh sách dưới đây là các top phim độc lập đáng xem nhất trong năm nay, với nhiều thể loại, nội dung hấp dẫn và thú vị._
 
-<figure><img src="https://banmaixanh.org/image/article/netflix-01.jpg" alt="netflix-top-phim-doc-lap-dang-xem-nhat-trong-nam-nay" height=100% width=100%><figcaption><p>netflix-top-phim-doc-lap-dang-xem-nhat-trong-nam-nay-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/netflix-01.jpg" alt="netflix-top-phim-doc-lap-dang-xem-nhat-trong-nam-nay" height=100% width=100%><figcaption><p>netflix-top-phim-doc-lap-dang-xem-nhat-trong-nam-nay-nhavantuonglai</p></figcaption></figure>
 
 ## Calibre
 
@@ -103,4 +103,4 @@ Dựa trên tiểu thuyết của Stephen King, một người phụ nữ với 
 
 Tìm hiểu thêm: https://www.netflix.com/title/80128722.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-510.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-510.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

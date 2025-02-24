@@ -3,7 +3,7 @@ pubDatetime: 2022-02-27T10:10:00Z
 title: Bài viết trên Instagram ngày 27 tháng 02 năm 2022
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-122.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-122.jpg
 tags:
   - viet lach
   - doan van
@@ -22,4 +22,4 @@ dù mỗi người là một chuyện, một sắc thái được gửi gắm; n
 
 mình tin rằng không ai mạnh mẽ hoàn toàn, cũng chẳng ai yếu đuối trọn vẹn. thể hiện ra bên ngoài đầy cứng rắn, can trường chẳng có gì sai, bởi đó có thể là lựa chọn để đối mặt với cuộc sống. nhưng nếu mạnh mẽ được, cũng hãy chấp nhận rằng chúng ta yếu đuối được. và hẳn nhiên, cũng là ngược lại.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-120.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-120.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

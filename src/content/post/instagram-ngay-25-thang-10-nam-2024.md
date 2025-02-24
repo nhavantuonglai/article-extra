@@ -3,7 +3,7 @@ pubDatetime: 2024-10-25T10:10:00Z
 title: Bài viết trên Instagram ngày 25 tháng 10 năm 2024
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-721.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-721.jpg
 tags:
   - viet lach
   - doan van
@@ -20,4 +20,4 @@ thế nên là sau 2021, mình nghe nhạc như đi đường vòng, chẳng hà
 
 mình nghĩ rằng, khi lên sân khấu, họ (ca sĩ) là một ngôi sao, sáng và trong không tỳ vết dưới ánh đèn lẫn trong lòng nhiều người; còn khi xuống mặt đất, họ đơn thuần là một con người, với bao bất ổn khiếm khuyết như thường tình. về cá nhân, mình không đủ bao dung để chỉ nghe riêng nhạc, vì cảm xúc thường bị chi phối bởi những điều ngoài âm nhạc của họ; nhưng trong khoảnh khắc của sự chìm đắm luôn có, mình biết ơn và trân trọng lúc họ được là chính mình khi lên sân khấu.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-156.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-156.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

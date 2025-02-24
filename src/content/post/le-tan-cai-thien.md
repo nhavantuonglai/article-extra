@@ -3,7 +3,7 @@ pubDatetime: 2022-05-24T10:10:00Z
 title: 7 mẹo cải thiện hoạt động bộ phận lễ tân khách sạn
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
 featured: false
-image: https://banmaixanh.org/image/cover/001-685.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-685.jpg
 tags:
   - viet thue
   - marketing
@@ -33,7 +33,7 @@ Tuy nhiên, như bạn đã biết, bộ phận lễ tân chịu trách nhiệm 
 
 Vì vậy, làm thế nào bạn có thể đảm bảo rằng bạn đang làm mọi thứ có thể để tối ưu các hoạt động của bộ phận lễ tân? Chà, Bạn có thể bắt đầu với bảy mẹo này.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-078.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-078.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## 7 mẹo cải thiện hoạt động bộ phận lễ tân khách sạn
 
@@ -89,7 +89,7 @@ Công nghệ là công cụ thay đổi cuộc chơi cuối cùng để cải th
 
 Bạn có thể đã sử dụng các nền tảng công nghệ khác nhau cho một số nhiệm vụ nhất định, nhưng nếu bạn đã sẵn sàng nghiêm túc về việc chuyển đổi hoạt động của mình thì đã đến lúc xem xét [phần mềm chuyên dụng cho bộ phận lễ tân khách sạn](https://nhavantuonglai.com/article).
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-079.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-079.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Phần mềm cho lễ tân, tiền sảnh khách sạn là gì?
 
@@ -115,7 +115,7 @@ Tóm lại, phần mềm khách sạn có thể loại bỏ nhiều vấn đề 
 
 – Lưu giữ dữ liệu và hệ thống của bạn trên đám mây – tăng thêm tính bảo mật cho dữ liệu và hệ thống của bạn.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-080.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-080.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Hệ thống quản lý công việc lễ tân khách sạn
 
@@ -139,4 +139,4 @@ Khi quyết định chọn hệ thống nào, hãy nghĩ về những thách th�
 
 – Loại dịch vụ khách hàng nào có sẵn? Có được đào tạo không?
 
-<figure><img src="https://banmaixanh.org/image/cover/001-614.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-614.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>

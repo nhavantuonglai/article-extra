@@ -3,7 +3,7 @@ pubDatetime: 2023-07-21T10:10:00Z
 title: Bài viết trên Instagram ngày 21 tháng 07 năm 2023
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-417.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-417.jpg
 tags:
   - viet lach
   - doan van
@@ -20,4 +20,4 @@ và cuối cùng, là không ngừng nuôi dưỡng những niềm vui cho bản
 
 chung quy lại, để luôn giữ tâm hồn tươi sáng trong lành thì phải vừa có trách nhiệm lại vừa cân bằng cuộc sống bằng cách chia khoảng thời gian và không gian cho từng trải nghiệm. không nên ngó lơ hoặc buông thả một trong hai, vì nếu như vậy sẽ rất dễ hủy hoại bản thân cả về thể xác lẫn tinh thần.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

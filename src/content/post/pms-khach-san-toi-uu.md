@@ -3,7 +3,7 @@ pubDatetime: 2022-07-08T10:10:00Z
 title: 10 điều nên và không để tối ưu hệ thống PMS dựa trên nền tảng đám mây
 description: Ngày càng có nhiều nhà quản lý khách sạn từ bỏ các giải pháp lưu trữ cồng kềnh tại chỗ để chuyển sang hệ thống quản lý tài sản (PMS) dựa trên nền tảng đám mây.
 featured: false
-image: https://banmaixanh.org/image/cover/001-349.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-349.jpg
 tags:
   - viet thue
   - marketing
@@ -111,4 +111,4 @@ Nếu bạn vẫn chưa chuyển sang sử dụng PMS dựa trên đám mây, đ
   
 Vậy là bạn đã có một danh sách chi tiết, mặc dù chưa đầy đủ, về những điều nên và không nên khi sử dụng PMS dựa trên đám mây. Và vâng, có thể chúng tôi vừa lập kỷ lục về số lần nhắc đến từ _dựa trên đám mây_ trong một bài viết duy nhất.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-310.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-310.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>

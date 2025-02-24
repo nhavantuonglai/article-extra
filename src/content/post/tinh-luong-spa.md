@@ -3,7 +3,7 @@ pubDatetime: 2023-07-17T10:10:00Z
 title: Tính lương nhân viên Spa hiệu quả cần phải biết
 description: Tìm hiểu các chiến lược tiếp thị Spa hiệu quả trong chuỗi bài viết sau của nhavantuonglai để áp dụng và đem lại hiệu quả thiết thực cho giải pháp của bạn.
 featured: false
-image: https://banmaixanh.org/image/cover/001-649.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-649.jpg
 tags:
   - viet thue
   - marketing
@@ -105,4 +105,4 @@ Tiếp theo đó, chúng phải được thảo luận và thống nhất với 
 
 Cuối cùng thì, để có cách lương nhân viên Spa, tiệm cần phải hiểu rõ từng khoản lương, thưởng cũng như hoa hồng cho nhân viên. Hiểu, có những đối thoại rõ ràng, cũng như công cụ hỗ trợ tính lương hiện đại, mạnh mẽ, sẽ giúp tiệm tính lương nhân viên Spa phù hợp hơn.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-304.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-304.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

@@ -3,7 +3,7 @@ pubDatetime: 2025-01-06T10:10:00Z
 title: Điều chỉnh mức giá hoàn tiền tại khách sạn hiệu quả
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
 featured: false
-image: https://banmaixanh.org/image/cover/001-749.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-749.jpg
 tags:
   - viet thue
   - marketing
@@ -59,4 +59,4 @@ Dữ liệu đã chứng minh: các khách sạn chuyển sang mức giá không
 
 Như mọi khi, thay đổi tư duy là điều quan trọng. Hãy từ bỏ những giả định cũ về những gì khách hàng mong đợi và đặt doanh thu lên hàng đầu. Thay đổi đơn giản hơn bạn nghĩ; vậy điều gì đang ngăn cản bạn?
 
-<figure><img src="https://banmaixanh.org/image/cover/001-580.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-580.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>

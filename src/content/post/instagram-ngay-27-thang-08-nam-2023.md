@@ -3,7 +3,7 @@ pubDatetime: 2023-08-27T10:10:00Z
 title: Bài viết trên Instagram ngày 27 tháng 08 năm 2023
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - viet lach
   - doan van
@@ -20,4 +20,4 @@ trước khi kể tiếp chuyện này, mình rẽ ngang kể chuyện khác, l�
 
 dẫu vậy, quay lại với chuyện đầu bài, khi nhìn vào quán và xuyên cả quá trình hoạt động, gồm những tháng ngày người ta hay nhắc đến và cả những khoảnh khắc mình hiện diện ở đấy; mình từ từ từng chút mà cảm nhận được tinh thần, câu chuyện mà cô chủ quán muốn kể từ đời trước để lại. và khi cô không thể kể tiếp được nữa, một nỗi buồn tha thiết nhưng mơ hồ, không diễn tả hết thành lời và chẳng biết bày tỏ cùng ai trỗi dậy, cồn cào rồi lặng im từ lúc nào không hay.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-253.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-253.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

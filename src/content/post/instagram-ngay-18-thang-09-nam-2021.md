@@ -3,7 +3,7 @@ pubDatetime: 2021-09-07T10:10:00Z
 title: Bài viết trên Instagram ngày 18 tháng 09 năm 2021
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - viet lach
   - doan van
@@ -18,4 +18,4 @@ ra hiên ngồi trên xích đu hóng gió, dạo này đang cận kề Trung Th
 
 nhưng mà khi, chuyện đang say và nhịp đang lên, ánh đèn trong nhà đột nhiên sáng, tiếng tivi to nhỏ trong từng nhà. điện có lại thì chuyện đang kể cũng đâu cần thiết nữa, ai về nhà ấy, nhạc ngân lên với bao lời thoại khắp xóm, để con đường làng trở về với lặng yên. và chút nữa thôi, khi đèn điện sáng trở lại, xóm mình đang ở cũng sẽ lặng yên như cách ngày xưa từng lặng.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

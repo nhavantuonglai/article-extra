@@ -3,7 +3,7 @@ pubDatetime: 2023-10-22T10:10:00Z
 title: Bài viết trên Instagram ngày 22 tháng 10 năm 2023
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-124.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-124.jpg
 tags:
   - viet lach
   - doan van
@@ -22,4 +22,4 @@ nhưng cũng có thể, phần nào trong mình đã ngán nơi này, với nh�
 
 và sau cùng thì, mình vẫn cứ loay hoay với tất cả những nảy sinh trong đầu, khi không chắc những ký ức cũ cứ chực chờ ùa về là những ký ức chân thật đẹp đẽ, hay chỉ là những điều hối tiếc bởi không có trải nghiệm nào tương tự; khi không rõ là nên làm mới cuộc sống hiện tại ngay tại nơi này, hay bước sang một nơi khác để mọi thứ đều là mới mẻ như lúc ban đầu. mọi hình dung, mọi sự thay đổi của bản thân trong thời gian tới, có lẽ cũng chỉ để giải quyết những khúc mắc này mà thôi.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-215.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-215.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

@@ -3,7 +3,7 @@ pubDatetime: 2022-05-15T10:10:00Z
 title: Thẻ từ khách sạn hoạt động như thế nào?
 description: Thẻ từ khách sạn, NFC, thẻ từ và thẻ RFID là các loại thẻ khác nhau giúp việc vào phòng khách sạn trở nên dễ dàng hơn.
 featured: false
-image: https://banmaixanh.org/image/cover/001-552.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-552.jpg
 tags:
   - viet thue
   - marketing
@@ -23,7 +23,7 @@ Hãy cùng tìm hiểu chi tiết về thẻ khóa khách sạn để tìm ra gi
 
 Thẻ từ khách sạn có thể có dải từ tính, hoạt động với công nghệ Giao tiếp trường gần (NFC), hoặc được nhúng chip RFID (Nhận diện tần số radio). Mục tiêu là đơn giản hóa việc vào phòng khách sạn, thanh toán, chuyển giao thông tin và lưu trữ phiếu giảm giá. Thẻ từ khách sạn là một sự thay thế cho các chìa khóa truyền thống, thường an toàn hơn và mang lại sự tiện lợi hơn cho khách.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-147.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-147.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Thẻ từ khách sạn hoạt động như thế nào?
 
@@ -51,7 +51,7 @@ Thẻ RFID cho phép khách sạn vào phòng mà không cần chạm vào hệ 
 
 Khác với thẻ dải từ tính, thẻ RFID không thể dễ dàng bị sao chép, khiến chúng trở thành lựa chọn an toàn hơn. Trong trường hợp bị mất hoặc bị đánh cắp, quầy lễ tân có thể hủy kích hoạt thẻ từ xa. Đọc thêm về công nghệ sẽ giúp thay đổi an ninh khách sạn.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-149.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-149.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Thẻ dải từ tính
 
@@ -63,7 +63,7 @@ Những thẻ này cũng dễ bị sao chép hơn. Mặt khác, thẻ dải từ
 
 Như tên gọi của nó, thẻ lỗ có các mẫu lỗ đặc biệt được phát hiện bởi đầu đọc thẻ. Mặc dù ít được biết đến, những thẻ này cung cấp một cách đơn giản để khách truy cập vào các khu vực chung và phòng khách sạn.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-150.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-150.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Kết luận
 
@@ -71,4 +71,4 @@ Thẻ thông minh ngày càng trở nên phổ biến trong ngành khách sạn.
 
 Càng tích hợp công nghệ khách sạn thông minh, khách của bạn sẽ càng hài lòng hơn. Những bước nhỏ có thể đưa khách sạn của bạn đi xa, vì vậy đừng đánh giá thấp lợi ích của việc triển khai thẻ khóa khách sạn ngay hôm nay.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-314.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-314.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>

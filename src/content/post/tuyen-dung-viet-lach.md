@@ -3,7 +3,7 @@ pubDatetime: 2021-03-03T10:10:00Z
 title: Tìm hiểu về các cơ hội việc làm viết lách
 description: Khám phá các cơ hội việc làm viết lách từ truyền thống đến hiện đại, cũng như những kỹ năng cần thiết để thành công trong lĩnh vực này.
 featured: false
-image: https://banmaixanh.org/image/cover/001-424.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-424.jpg
 tags:
   - viet lach
   - ky nang viet
@@ -22,7 +22,7 @@ Một trong những cơ hội việc làm viết lách truyền thống nhất l
 
 Những người viết báo thường phải làm việc với áp lực thời gian lớn, phải liên tục cập nhật tin tức và viết bài theo yêu cầu của tòa soạn. Tuy nhiên, đây cũng là công việc mang lại nhiều trải nghiệm thú vị, khi bạn có cơ hội tiếp xúc với nhiều người, nhiều sự kiện và nhiều câu chuyện khác nhau.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-112.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-112.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Viết sách và tiểu thuyết
 
@@ -30,7 +30,7 @@ Viết sách và [tiểu thuyết](https://nhavantuonglai.com/article) là giấ
 
 Viết sách đòi hỏi sự kiên nhẫn, kỹ năng kể chuyện và khả năng duy trì động lực trong suốt quá trình sáng tác. Mặc dù việc xuất bản sách có thể gặp nhiều khó khăn, nhưng với sự hỗ trợ của các nền tảng tự xuất bản trực tuyến như Amazon Kindle, cơ hội cho các tác giả tự do ngày càng mở rộng.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-113.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-113.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Viết nội dung cho website và blog
 
@@ -46,7 +46,7 @@ Blogging cá nhân cũng là một hướng đi tiềm năng. Nếu bạn có ni
 
 Copywriter là người chuyên viết nội dung quảng cáo. Để thành công trong lĩnh vực này, bạn cần hiểu rõ về tâm lý khách hàng, biết cách tạo ra những thông điệp ngắn gọn, hấp dẫn và hiệu quả. Sự kết hợp giữa kỹ năng viết lách và kiến thức về tiếp thị sẽ giúp bạn tạo ra những chiến dịch quảng cáo thành công.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-114.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-114.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Viết kịch bản phim và truyền hình
 
@@ -60,7 +60,7 @@ Viết nội dung giáo dục và tài liệu hướng dẫn là lĩnh vực đ�
 
 Người viết nội dung giáo dục cần có khả năng nghiên cứu tốt, hiểu rõ về đối tượng học viên và biết cách thiết kế nội dung sao cho phù hợp với trình độ và nhu cầu học tập của họ. Đây là lĩnh vực có tiềm năng phát triển lớn trong bối cảnh giáo dục trực tuyến ngày càng phổ biến.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-115.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-115.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Viết sáng tạo tự do (freelance writing)
 
@@ -72,7 +72,7 @@ Người viết nội dung giáo dục cần có khả năng nghiên cứu tốt
 
 [Viết bài chuyên ngành và kỹ thuật](https://nhavantuonglai.com/article) là công việc đòi hỏi kiến thức sâu rộng trong một lĩnh vực cụ thể, chẳng hạn như công nghệ thông tin, y học, kỹ thuật, luật pháp, và nhiều lĩnh vực khác. Người viết phải có khả năng nghiên cứu, phân tích và truyền đạt thông tin phức tạp một cách dễ hiểu cho đối tượng đọc giả chuyên biệt.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-116.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-116.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 Công việc này bao gồm viết báo cáo kỹ thuật, tài liệu hướng dẫn sử dụng, bài báo khoa học, và các loại tài liệu chuyên môn khác. Đây là lĩnh vực có nhu cầu cao, đặc biệt trong các ngành công nghiệp và công nghệ tiên tiến.
 
@@ -86,7 +86,7 @@ Thứ ba là kỹ năng giao tiếp và hợp tác. Dù làm việc một mình 
 
 Cuối cùng là khả năng sáng tạo và linh hoạt. Viết lách không chỉ là việc tuân theo một công thức cố định mà còn là sự sáng tạo không ngừng để tạo ra những nội dung mới mẻ, hấp dẫn và có giá trị cho độc giả.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-117.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-117.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Tương lai của nghề viết lách
 
@@ -98,8 +98,8 @@ Trong tương lai, với sự phát triển không ngừng của công nghệ v�
 
 [Nghề viết lách](https://nhavantuonglai.com/article) mang lại nhiều cơ hội việc làm đa dạng và hấp dẫn cho những ai đam mê sáng tạo và có khả năng viết tốt. Từ viết báo, sách, nội dung trực tuyến đến viết kịch bản phim và tài liệu kỹ thuật, mỗi lĩnh vực đều có những đặc thù riêng và đòi hỏi những kỹ năng khác nhau.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-118.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-118.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 Để thành công trong nghề viết lách, ngoài khả năng viết, bạn cần trang bị cho mình những kỹ năng quan trọng như nghiên cứu, quản lý thời gian, giao tiếp và sáng tạo. Với sự phát triển không ngừng của công nghệ và nhu cầu về nội dung chất lượng, tương lai của nghề viết lách hứa hẹn sẽ còn nhiều tiềm năng phát triển và cơ hội việc làm hấp dẫn.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-246.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-246.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

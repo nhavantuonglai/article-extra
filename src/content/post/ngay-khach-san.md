@@ -3,7 +3,7 @@ pubDatetime: 2022-06-02T10:10:00Z
 title: Những xu hướng đặt phòng được tiết lộ trong khoảnh khắc Đặt phòng ngay
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
 featured: false
-image: https://banmaixanh.org/image/cover/001-517.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-517.jpg
 tags:
   - viet thue
   - marketing
@@ -31,7 +31,7 @@ Tư duy tìm kiếm của người dùng là _thương hiệu_ + _vị trí,_ đ
 
 Và không chỉ tìm kiếm, nhiều hành vi khác cũng được thực hiện trên mobile, bởi xu hướng đặt phòng khách sạn trên đây ngày một tăng, 31% khách du lịch và 53% khách doanh nhân xác nhận về điều này. Còn trên Google Hotel Ads, ½ traffic đổ về từ mobile, tăng gần 2.4 lần so với cùng kỳ năm ngoái.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-144.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-144.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Khách du lịch suy nghĩ gì trước khi ra quyết định?
 
@@ -63,7 +63,7 @@ Xu hướng tìm hiểu thông tin trước khi đặt phòng trên mobile ngày
 
 Điều này bởi 2 yếu tố, đầu tiên là phân vân mức giá khi đặt phòng trên mobile đã tốt nhất chưa; và tiếp sau là hiển thị hạn chế trên mobile và ứng dụng.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-145.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-145.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Phân vân giá khi đặt phòng trên mobile đã tốt nhất chưa
 
@@ -101,7 +101,7 @@ Mục tiêu của website là gì? [Tăng lượt đặt phòng](https://nhavant
 
 Virgin America là case study điển hình cho việc tập trung vào trải nghiệm trên mobile bằng CTA đơn giản nhưng rõ ràng: _Đặt vé máy bay._ Để tạo chỗ đứng và thu hút cho CTA này, Virgin America loại bỏ các thông tin, chi tiết không cần thiết để hướng mọi sự chú ý vào mục tiêu đó. Hiệu quả thu lại, tỷ lệ đặt vé máy bay tăng gấp đôi ở nhóm người dùng mobile so với trước đó.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-146.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-146.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Đảm bảo tốc độ tải của website
 
@@ -123,8 +123,8 @@ Chỉ vài cải thiện nhỏ trên [website khách sạn](https://nhavantuongl
 
 Vị trí CTA cũng đóng vai trò quan trọng không kém. Thông qua trang cuối cùng mà người đọc truy cập và click vào CTA, khách sạn sẽ biết nhu cầu, mong muốn của họ là như thế nào, để có thể bán phòng lại cho khách hàng cũ, ưu tiên khách hàng tiềm năng có tỷ lệ chuyển đổi cao – điều tạo nên nhiều giá trị hơn cho mỗi lượt đặt phòng thành công.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-147.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-147.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 Đầu năm 2016, bộ đếm phòng trống được triển khai thí điểm thông qua các quảng cáo nhắm mục tiêu tiềm năng đã đem lại hiệu quả vượt ngoài mong đợi. Sau vài tuần, chuyển đổi trên mobile của các nhóm quảng cáo này tăng đến 260% so với tháng trước và doanh thu tăng gấp 4 lần bán hàng trực tiếp thông qua click để gọi.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-610.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-610.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>

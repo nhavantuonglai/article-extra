@@ -3,7 +3,7 @@ pubDatetime: 2021-11-07T10:10:00Z
 title: Bài viết trên Instagram ngày 12 tháng 11 năm 2021
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - viet lach
   - doan van
@@ -24,4 +24,4 @@ căn phòng nhỏ sinh hoạt là nép sâu trong tòa nhà chính diện. mỗi
 
 và như đã viết, mình bị kéo về quá khứ khi nhắm mắt nghe Ca Huế. mình không biết trải nghiệm ấy có tương đồng với mọi người hay không. nhưng đôi lần thử nhìn xung quanh, và nhìn ra cửa sổ; mình thấy cách giữa căn phòng này và ngoài đường đang lấp lánh ánh đèn kia là khoảng tối của màn đêm. khoảng tối đó, nhỏ thôi, nhưng như là bức tường ngăn giữa hiện thực đầy hiện đại, và dấu ấn giàu chiêm nghiệm của lúc này. nên là, nếu ai nhìn và cũng nghĩ như mình vậy, hẳn họ dễ cùng trải nghiệm với mình rồi nhỉ.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

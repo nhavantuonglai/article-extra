@@ -3,7 +3,7 @@ pubDatetime: 2021-01-08T10:10:00Z
 title: Trevor Paglen và miền ảo giác của AI tạo sinh
 description: Liệu các mô hình ảo giác trong sản xuất hình ảnh dựa trên AI có khả năng làm chúng ta càng xa lạ, nếu không nói là bị cô lập, khỏi thế giới hay không?
 featured: false
-image: https://banmaixanh.org/image/cover/001-396.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-396.jpg
 tags:
   - ai
   - xu huong cong nghe
@@ -56,4 +56,4 @@ Trong việc làm sáng tỏ cơn mê tính toán điều khiển AI tạo sinh,
 
 Ảnh hưởng tích lũy và ngày càng gia tăng của AI lên cuộc sống của chúng ta và cách chúng ta sống đưa ra một lập luận mạnh mẽ về việc phát triển các phương pháp nghiên cứu, chẳng hạn như những phương pháp mà Paglen triển khai, được thiết kế để khuyến khích một phạm vi suy nghĩ phê phán từ bên trong thiết bị của AI. Thông qua việc phát triển các phương pháp này, chúng ta có thể đảm bảo rằng quá trình huấn luyện hệ thống (liên quan đến việc gắn nhãn và nhập dữ liệu, chẳng hạn) và các không gian tính toán (tiềm ẩn và thuật toán) của hệ thống được hiểu rõ hơn về bản chất thực sự của chúng: các phép tính xác suất thống kê, chứ không phải sự chắc chắn, nhưng vẫn định hình các khía cạnh quan trọng trong cách chúng ta nhận thức và sống trong thế giới ngày nay.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-527.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-527.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

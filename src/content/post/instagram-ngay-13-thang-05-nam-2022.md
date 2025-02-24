@@ -3,7 +3,7 @@ pubDatetime: 2022-05-13T10:10:00Z
 title: Bài viết trên Instagram ngày 13 tháng 05 năm 2022
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-121.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-121.jpg
 tags:
   - viet lach
   - doan van
@@ -20,4 +20,4 @@ nhưng nó thật sự là niềm vui, một sự kiên trì đáng ngưỡng m�
 
 bởi lẽ vậy, mình không nghĩ bất kỳ niềm vui, sở thích nào là nhạt nhẽo, nhàm chán hay vô bổ cả. tất cả chúng, tất cả những ai theo đuổi những niềm đam mê của riêng mình, cũng đều đang nhìn thấy và tìm kiếm thêm những thú vị ở trong đó. khi một ai chưa đủ kiên nhẫn, chưa dành nhiều thời gian nhìn sâu nhìn lâu vào những gì mà mọi người xung quanh đang theo đuổi từng ngày, họ sẽ gọi đó là nhạt nhẽo. nên đôi lúc, thái độ đó mới đúng là nhạt nhẽo.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

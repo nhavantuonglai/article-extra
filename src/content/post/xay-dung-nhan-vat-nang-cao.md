@@ -3,7 +3,7 @@ pubDatetime: 2024-02-09T10:10:00Z
 title: 10 lời khuyên xây dựng nhân vật khi viết lách
 description: Dưới đây là 10 lời khuyên xây dựng nhân vật khi viết lách. Lần đầu tiên đưa ra những đặc điểm và tính cách nhân vật hư cấu có vẻ gần như không thể khó khăn.
 featured: false
-image: https://banmaixanh.org/image/cover/001-548.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-548.jpg
 tags:
   - viet lach
   - ky nang viet
@@ -23,7 +23,7 @@ Chuỗi bài viết [Làm chủ nghệ thuật viết lách](https://nhavantuong
 
 Cho dù bạn là tiểu thuyết gia, nhà văn [truyện ngắn](https://nhavantuonglai.com/article) hay nhà [biên kịch](https://nhavantuonglai.com/article), bạn sẽ cần tạo ra những nhân vật đáng nhớ với những điểm mạnh và điểm yếu để tận dụng tối đa cốt truyện hấp dẫn và phong cách văn xuôi hùng hồn.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-120.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-120.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## 10 lời khuyên xây dựng nhân vật khi viết lách
 
@@ -37,7 +37,7 @@ Tạo một cốt truyện khi [viết tiểu thuyết](https://nhavantuonglai.c
 
 Một nhân vật phải phát triển xuyên suốt một câu chuyện. _Nhân vật phải thay đổi,_ nhà văn tiểu thuyết tội phạm Walter Mosley nhấn mạnh. _Nhân vật không nhất thiết phải trở nên tốt hơn. Nhân vật không nhất thiết phải trở nên tốt. Nó có thể ngược lại. Anh ta có thể bắt đầu tốt và trở nên xấu. Anh ta có thể bắt đầu hy vọng và kết thúc là một người bi quan. Nhưng anh ấy phải bị ảnh hưởng bởi thế giới mà chúng ta đang đọc._ Lên kế hoạch cho cốt truyện của bạn dựa trên mục tiêu của nhân vật và cách đạt được hoặc không đạt được chúng sẽ thay đổi họ như mọi người. Loại mẫu này có thể giúp neo câu chuyện của bạn.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-121.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-121.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ### Làm nghiên cứu
 
@@ -55,7 +55,7 @@ Nếu bạn thường viết các nhân vật từ một quan điểm cụ thể
 
 Để tạo ra những nhân vật đáng tin cậy, bạn cần phải cho họ những sai sót, bởi [khiếm khuyết của nhân vật](https://nhavantuonglai.com/article) sẽ tạo ra sự hoàn hảo cho tác phẩm. _Một, nó làm cho các nhân vật trở thành con người, chỉ theo mặc định, bởi vì mọi người đều nhận ra rằng tất cả chúng ta đều có sai sót và sai lầm,_ David nói. _Nhưng hai, nó mang lại cho bạn các yếu tố cốt truyện và cơ hội cốt truyện vì ai đó mắc lỗi. Tại sao? Bởi vì chúng có thiếu sót._
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-082.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-082.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ### Học hỏi từ những nhà văn giỏi
 
@@ -69,10 +69,10 @@ Phát triển nhân vật có thể tiến hành xuống một loạt các con �
 
 Hãy tự hỏi làm thế nào tính cách của một nhân vật phụ có thể cản trở động lực của nhân vật chính. _Một trong những cách tốt nhất, như tôi đã nói, để phát triển một nhân vật là đặt nhân vật đó trong mối quan hệ với một người khác,_ Walter nói. _Vì vậy, khi họ nói chuyện, khi họ chiến đấu, khi họ làm việc cùng nhau, chúng tôi tìm hiểu thêm về họ là ai và họ là gì._ Bạn thân, kẻ thù và người quen của nhân vật đều có thể có những tác động khác nhau đến hành vi của họ.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-084.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-084.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ### Thực hiện một cách tiếp cận tự nhiên
 
 Trong suốt câu chuyện và [hành trình viết](https://nhavantuonglai.com/article), hãy sẵn sàng để các nhân vật của bạn làm bạn ngạc nhiên nhiều như những người bạn biết trong cuộc sống thực. _Nếu bạn đang viết những nhân vật tốt, những nhân vật đáng tin cậy, những nhân vật vinh quang, lớn hơn cuộc sống, họ sẽ đảm nhận một cuộc sống,_ Neil nói. Tránh các nhân vật tĩnh bằng cách để bạn có cuộc sống và tính cách riêng của họ. Hãy để câu chuyện của họ đưa bạn đến nơi họ dẫn dắt.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-314.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-314.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

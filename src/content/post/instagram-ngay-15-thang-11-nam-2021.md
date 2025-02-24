@@ -3,7 +3,7 @@ pubDatetime: 2021-11-07T10:10:00Z
 title: Bài viết trên Instagram ngày 15 tháng 11 năm 2021
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - viet lach
   - doan van
@@ -24,4 +24,4 @@ ba mình từng kể chuyện, xưa nghèo lắm, tiền ăn không có thì l�
 
 nhưng nếu là thật, mình tưởng tượng lớp vôi bột sẽ hằn lên từng lớp sần sùi loang lổ, không làm tờ giấy mịn màng như lúc ban đầu. qua tay mình, những tờ giấy cũ kia cũng cũng chịu chung số phận như thế, cũng không còn mịn màng như trước đó. chỉ khác là, chuyện ba mình kể là bởi vì nghèo quá mà thành; còn chuyện mình làm, đơn giản là rảnh quá mà sinh hứng.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

@@ -3,7 +3,7 @@ pubDatetime: 2025-01-05T10:10:00Z
 title: Bài viết trên Instagram ngày 24 tháng 01 năm 2024
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-525.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-525.jpg
 tags:
   - viet lach
   - doan van
@@ -24,4 +24,4 @@ khi tiếng còi mãn cuộc những trận đấu ấy cất lên cũng là lú
 
 lúc ấy, mình thấy nổi bật lên những người đang cất niềm vui chung vì nhiệm vụ riêng, họ là các anh giao thông đang phân luồng dẫn lối vì sự an toàn và niềm hạnh phúc của mọi người. thoáng qua những gương mặt, mình thấy rõ sự tận tâm kiên nhẫn, và đôi nét mỉm cười hạnh phúc vì không phải cất lại cảm xúc để vui sau cùng.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-227.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-227.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

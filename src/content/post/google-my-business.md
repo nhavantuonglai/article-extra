@@ -3,7 +3,7 @@ pubDatetime: 2022-05-03T10:10:00Z
 title: Hướng dẫn đầy đủ về Google My Business cho các khách sạn
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
 featured: false
-image: https://banmaixanh.org/image/cover/001-749.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-749.jpg
 tags:
   - viet thue
   - marketing
@@ -43,7 +43,7 @@ Vì hiển thị theo từ khóa mà người dùng truy vấn, thì cũng đồ
 
 Nếu [Free Booking Link](https://nhavantuonglai.com/article) và [Google Hotel Ads](https://nhavantuonglai.com/article) cung cấp thông tin phòng, thì Google My Business lại giúp người dùng hình dung tổng quát, và có thêm thông tin về khách sạn. Theo một nghiên cứu, Google My Business giúp khách sạn tăng thêm 50% lưu lượng truy cập vào trang đích. Tóm lại, giúp khách sạn tăng cơ hội bán phòng trực tiếp.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-116.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-116.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Google My Business hữu ích như thế nào với các khách sạn?
 
@@ -75,7 +75,7 @@ Lợi ích thứ ba là tạo kết nối và tương tác với khách hàng, k
 
 Lưu ý: Khi thiết lập, bạn nên là người được ủy quyền quản lý, hoặc có thể tiếp cận các công cụ xác minh. Nếu bạn không thể, hay giao việc xác minh có người đó.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-117.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-117.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Xác minh hồ sơ Google My Business vừa đăng ký
 
@@ -127,7 +127,7 @@ Sau khi xác nhận quyền sở hữu mới, bạn phải đợi 7 ngày để 
 
 Cho nên, nếu bạn đang nhờ bên thứ ba can thiệp để lấy lại quyền sở hữu Google My Business của khách sạn, hãy kiên nhẫn đợi thêm 7 ngày sau khi thành công để hoàn tất thủ tục cấp quyền.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-118.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-118.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Gợi ý sử dụng Google My Business một cách hiệu quả nhất
 
@@ -157,7 +157,7 @@ Việc cập nhật thông tin cũng giúp tăng khả năng hiển thị Google
 
 Và cũng đừng quên tính năng Nhắn tin trên Google My Business, nhiều người nghĩ rằng chúng không cần thiết bởi đã có quá nhiều kênh liên lạc. Nhưng sự tồn tại của chúng không phải ngẫu nhiên, giúp du khách nhanh chóng đặt câu hỏi, và nhận được phản hồi ngay lập tức, làm tăng cơ hội đặt phòng trực tiếp cho khách sạn của bạn. Để kích hoạt tính năng này, từ trình quản lý Google My Business, bạn chọn _Messages,_ tiếp theo chọn _Share profile_ để bật tính năng tin nhắn.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-119.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-119.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Thêm hình ảnh, video
 
@@ -197,8 +197,8 @@ Google My Business cung cấp nhiều thông tin thú vị, giúp bạn tối ư
 
 Tất nhiên, những điều này muốn thành công thì cần mọi thứ mà bạn cung cấp trên Google My Business là chỉnh chu, ổn nhất có thể. Bởi chỉ cần một vài sự sơ sài, sai sót không đáng có, thì mọi kỳ vọng bạn đang hướng đến sẽ đều là ảo vọng, không thể nào hiện thực.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-120.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-120.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 Tóm lại, Google My Business là một chiến lược Marketing giá rẻ, hiệu quả cho khách sạn, khi chúng không chỉ miễn phí, lại dễ thực hiện, mà còn đem lại hiệu quả cao. Cho nên, nếu khách sạn cần hiện diện nhiều hơn trên mạng, đừng bỏ qua Google My Business, cũng như khai thác tối đa sức mạnh để nâng cao hiệu quả kinh doanh cho khách sạn.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-539.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-539.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>

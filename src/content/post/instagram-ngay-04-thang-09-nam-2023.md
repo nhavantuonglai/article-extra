@@ -3,7 +3,7 @@ pubDatetime: 2023-09-04T10:10:00Z
 title: Bài viết trên Instagram ngày 04 tháng 09 năm 2023
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-367.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-367.jpg
 tags:
   - viet lach
   - doan van
@@ -22,4 +22,4 @@ khi vào Sài Gòn, mình học theo những điều bạn kể vào đêm về 
 
 và khi sống ở Đà Nẵng, vì ở quá lâu nên mọi cơn mưa trên đều có hết. mình không đón nhận điều ấy bằng sự tổng kết mà bằng trải nghiệm, để mỗi lần nhìn vào từng cơn mưa trong từng kiểu, mình lại có dịp để nhớ về những kỷ niệm đẹp ở những nơi đã từng đi qua.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-310.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-310.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

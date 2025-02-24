@@ -3,7 +3,7 @@ pubDatetime: 2021-06-07T10:10:00Z
 title: Bài viết trên Instagram ngày 18 tháng 06 năm 2021
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - viet lach
   - doan van
@@ -26,4 +26,4 @@ hôm chia tay cây vừa trút lá,hôm chia tay ô cửa vẫn sáng đèn…nh
 
 quên được không những điều… đã bao giờ qua,quên được mỗi sáng mùa đông,nhìn ra ngày sương giá mềm,quên được không những điều ta chưa bao giờ…Việt Anh khi ấy như người bạn tri kỷ, hiểu và đồng cảm với nỗi niềm của Thu Phương gặp phải, rồi nhẹ nhàng xoa dịu bạn bằng lời hiển nhiên: quên được không những điều ta chưa bao giờ… từ đó, từ bài hát dành riêng cho bạn mình, mà thành bài hát cho mọi người; rồi tổn thương, đau đớn cũng sẽ vơi đi, và chúng ta cần học cách rũ mình, bỏ lại ngày hôm qua để đón nhận những ngày mới tươi đẹp hơn…
 
-<figure><img src="https://banmaixanh.org/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

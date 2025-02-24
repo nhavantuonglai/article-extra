@@ -3,7 +3,7 @@ pubDatetime: 2023-01-21T10:10:00Z
 title: Hướng dẫn quản lý kênh bán phòng trực tuyến khách sạn hiệu quả
 description: Theo nghiên cứu từ Google, 60% du khách tìm cảm hứng cho chuyến đi trên internet. Vậy cho nên, các khách sạn cần làm nổi bật thương hiệu với các gói giá, dịch vụ nhằm thu hút nhiều khách đặt phòng hơn nữa.
 featured: false
-image: https://banmaixanh.org/image/cover/001-649.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-649.jpg
 tags:
   - viet thue
   - marketing
@@ -27,7 +27,7 @@ Ngoài ra, khách sạn cũng cần lưu ý đến hiệu ứng Billboard – ph
 
 Bên cạnh đó, phân khúc khách sạn cũng ảnh hưởng phần nào đến hành vi đặt phòng của du khách. Cụ thể, với từng tệp khách hàng và vị trí địa lý riêng, họ sẽ có những kênh đặt phòng ưa thích riêng biệt. Chính vậy, khách sạn cần đảm bảo rằng các kênh bán trong thời điểm hiện tại bao quát, đảm bảo tiếp cận đến được đúng khách hàng tiềm năng của khách sạn. Nội dung này sẽ được trình bày chi tiết trong phần dưới của bài viết.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-033.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-033.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Các việc cần làm để quản lý kênh bán phòng trực tuyến hiệu quả
 
@@ -51,7 +51,7 @@ Trên thực tế, người dùng khi tìm kiếm thường truy cập từ 2 �
 
 Khi đa dạng hóa kênh bán phòng, khách sạn có thể tiếp cận nhiều nguồn đặt phòng, từ đó tăng lượt tiếp cận để cải thiện tỷ lệ đặt phòng. Muốn làm được điều đó, trước tiên khách sạn cần chú ý những đầu mục công việc nêu trên để đẩy lượng phòng tồn của khách sạn. Đó là danh sách phòng chưa được bán của khách sạn trên tất cả các kênh, nếu không bán được thì khách sạn sẽ chịu lỗ giá trị phòng của ngày hôm đó.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-035.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-035.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Tối ưu kênh kết hợp chiến lược kinh doanh
 
@@ -75,7 +75,7 @@ Khi áp dụng công nghệ, khách sạn có thể giải phóng sức lao đ�
 
 Các công cụ, công nghệ mà khách sạn có thể khai thác, áp dụng có thể kể đến như là: phần mềm quản lý khách sạn, hệ thống đặt phòng trung tâm, công cụ booking engine, công cụ channel manager… Chúng sẽ hữu ích trong việc kết nối các kênh bán phòng, đồng bộ giá và tối ưu việc quản lý khách sạn, quản lý kênh bán phòng. Đó là lý do tại sao tích hợp đồng bộ 2 chiều lại là tính năng quan trọng nhất trong các công cụ quản lý khách sạn hiện nay.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-037.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-037.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Các kênh bán phòng khách sạn cần chú ý
 
@@ -99,7 +99,7 @@ Mạng xã hội cũng là kênh giao tiếp quan trọng, hữu ích và đư�
 
 Đặt phòng qua điện thoại, hay tại quầy lễ tân là các hình thức đặt phòng mang tính truyền thống, nhưng chúng vẫn đóng vai trò quan trọng với các khách sạn. Tại Trung Quốc, dù các hình thức này chỉ đem lại 10% tổng lượt đặt phòng thì đó vẫn là lựa chọn hàng đầu của thế hệ cũ tại đây. Chúng cũng giúp khách sạn kiểm soát thông tin, mức giá cung cấp và dữ liệu khách hàng hiệu quả, bên cạnh tối ưu được chi phí hoa hồng cho khách sạn.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-031.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-031.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Công ty tour, du lịch lữ hành
 
@@ -109,4 +109,4 @@ Chính vì vậy, các khách sạn có thể liên kết để bán phòng vớ
 
 Như vậy, với các chiến lược và kênh bán phòng nêu trên, khách sạn có thể áp dụng những kênh và chiến lược phù hợp để đem lại hiệu quả như mục tiêu kinh doanh đề ra và đem lại hiệu quả thiết thực cho khách sạn.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-610.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-610.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>

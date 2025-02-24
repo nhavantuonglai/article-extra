@@ -3,7 +3,7 @@ pubDatetime: 2023-02-05T10:10:00Z
 title: Mọi điều cần biết về phần mềm quản lý nhà hàng
 description: Tìm hiểu các chiến lược tiếp thị nhà hàng hiệu quả trong chuỗi bài viết sau của nhavantuonglai để áp dụng và đem lại hiệu quả thiết thực cho giải pháp của bạn.
 featured: false
-image: https://banmaixanh.org/image/cover/001-649.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-649.jpg
 tags:
   - viet thue
   - marketing
@@ -100,4 +100,4 @@ Phần mềm quản lý nhà hàng cung cấp một bộ công cụ toàn diện
 
 Các phần mềm quản lý nhà hàng liên tục cải tiến và phát triển. Và khi các giải pháp ngày một phụ thuộc vào công nghệ, thì cần phải có nhiều hơn sự tích hợp giữa hệ thống POS, hồ sơ khách hàng, lịch sử giao dịch và những dữ liệu khác. Dù rằng bạn đang điều hành một quán cafe nhỏ, hay một bếp ảo nổi tiếng, điều quan trọng cần phải nhớ là luôn cập nhật những thay đổi mới nhất trong lĩnh vực này. Phần mềm quản lý nhà hàng phù hợp là phần mềm giúp tiết kiệm thời gian, tiền bạc bằng cách sắp xếp hợp lý các quy trình, hoạt động trong nhà hàng của bạn.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-300.jpg" alt="nha hang, am thuc." title="nha hang, am thuc." height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-300.jpg" alt="nha hang, am thuc." title="nha hang, am thuc." height=100% width=100%><figcaption><p></p></figcaption></figure>

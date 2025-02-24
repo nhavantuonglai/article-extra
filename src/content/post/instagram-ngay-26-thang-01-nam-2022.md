@@ -3,7 +3,7 @@ pubDatetime: 2022-01-26T10:10:00Z
 title: Bài viết trên Instagram ngày 26 tháng 01 năm 2022
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-121.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-121.jpg
 tags:
   - viet lach
   - doan van
@@ -20,4 +20,4 @@ sáng nay khi gặp bạn, tự nhiên nỗi lo sợ ấy xuất hiện. nói v�
 
 giờ thì năm sắp cùng và tháng gần tận, nhìn lại tình cảm bạn bè trong năm, mình không hối tiếc vì cách đối xử với xung quanh. đó là sự tiến triển so với năm trước, và những năm trước đó nữa. có lẽ, dần mình nhận ra điều gì quan trọng, đâu là tình cảm chân thật, của mình, của bạn, đã dành cho nhau.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-134.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-134.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

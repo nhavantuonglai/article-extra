@@ -3,7 +3,7 @@ pubDatetime: 2023-07-30T10:10:00Z
 title: Ai tin fake news? Nghiên cứu xác định 3 nhóm người
 description: Nghiên cứu gần đây đã thách thức những người tham gia nghiên cứu chọn tiêu đề tin tức thật từ những tiêu đề giả mạo. Kết quả cho thấy những người có xu hướng suy nghĩ ảo tưởng.
 featured: false
-image: https://banmaixanh.org/image/cover/001-549.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-549.jpg
 tags:
   - viet lach
   - thuyet am muu
@@ -60,4 +60,4 @@ Về phần mình, Bronstein đóng khung câu hỏi hóc búa này theo hướn
 
 Người tiêu dùng tin tức cẩn thận có thể làm quen với các website fake news đã biết, một số trong đó, giống như NBCnews.com.co, bắt chước các nguồn có uy tín. Cũng có thể có lợi khi sử dụng các website kiểm tra thông tin như Politifact hoặc Snopes khi bạn bắt gặp một câu chuyện có mùi tanh. Thật không may, nếu bạn có kế hoạch trích dẫn các website như vậy cho ai đó chia sẻ câu chuyện về cách 53.000 người chết bỏ phiếu ở Florida, đừng ngạc nhiên nếu chúng bị coi là _fake news._
 
-<figure><img src="https://banmaixanh.org/image/cover/001-314.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-314.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

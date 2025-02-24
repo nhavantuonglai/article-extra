@@ -3,7 +3,7 @@ pubDatetime: 2022-03-03T10:10:00Z
 title: Chi phí chuyển đổi trong khách sạn là gì?
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
 featured: false
-image: https://banmaixanh.org/image/cover/001-649.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-649.jpg
 tags:
   - viet thue
   - marketing
@@ -37,7 +37,7 @@ Tất nhiên, khách sạn cũng sẽ đối mặt với rủi ro, là những �
 
 Khi khách trả phòng, bạn hãy khuyến nghị họ để lại đánh giá để nhận ưu đãi cho lần đặt phòng kế tiếp, đặc biệt là những khách hàng thân thiện và hài lòng với [trải nghiệm tại khách sạn](https://nhavantuonglai.com/article) của bạn. Điều này giúp khách sạn của bạn có nhiều lượt đánh giá hơn, và chi phí cho mỗi lượt cũng sẽ không đáng kể so với lượt bán phòng thu về.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-034.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-034.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Giá trị khách sạn
 
@@ -75,7 +75,7 @@ Như vậy, kênh C đang làm doanh thu của khách sạn mỏng đi, bởi n�
 
 Cách để biết kênh bán phòng nào đang hoạt động kém hiệu quả, là thông qua phần mềm quản lý khách sạn, nhằm thu thập và tổng hợp toàn bộ số liệu của các kênh bán phòng và thấy đâu là kênh bán phòng có vấn đề để khắc phục, giải quyết.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-035.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-035.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Chuyển đổi người tìm phòng thành người đặt phòng
 
@@ -93,4 +93,4 @@ Thông qua các bài viết tập trung vào lợi ích, giá trị, ưu đãi d
 
 Khi chi phí bán ngày ngày một tăng, việc đánh giá hiệu quả của từng kênh bán phòng, hay ưu tiên bán phòng trực tiếp là điều cần thiết. Đặt những điều này trong bối cảnh thị trường đang hồi phục, nền kinh tế lại suy thoái và lạm phát, thì mỗi đồng kiếm được đều quý giá.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-617.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-617.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>

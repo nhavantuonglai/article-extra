@@ -3,7 +3,7 @@ pubDatetime: 2018-05-07T10:10:00Z
 title: Bài viết trên Instagram ngày 05 tháng 12 năm 2018
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - viet lach
   - doan van
@@ -20,4 +20,4 @@ nhưng điều mà bạn chẳng biết, rằng Hà Nội vẫn chỉ đẹp khi
 
 chuyến đi này, chuyến đi cuối cùng của tuổi trẻ, đã trọn vẹn theo một cách mà mình không thể nào quên được, khi trước đó mình sợ hãi – liệu chẳng còn ai, thì nơi này có còn hấp dẫn và đẹp đẽ trong lòng mình; hay chỉ còn lại là sự trống rỗng, vô định và không phải điều mình hướng đến?
 
-<figure><img src="https://banmaixanh.org/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

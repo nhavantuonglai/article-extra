@@ -3,7 +3,7 @@ pubDatetime: 2024-02-23T10:10:00Z
 title: Hướng dẫn viết truyện trinh thám nâng cao
 description: Viết truyện trinh thám là một nghệ thuật đòi hỏi sự tỉ mỉ, tư duy logic và khả năng sáng tạo cao.
 featured: false
-image: https://banmaixanh.org/image/cover/001-123.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-123.jpg
 tags:
   - viet lach
   - ky nang viet
@@ -19,7 +19,7 @@ _Viết truyện trinh thám là một nghệ thuật đòi hỏi sự tỉ mỉ
 
 Truyện trinh thám [kinh dị](https://nhavantuonglai.com/article) là một thể loại văn học tập trung vào việc giải quyết các bí ẩn, thường liên quan đến tội phạm hoặc các vụ án khó hiểu. Những câu chuyện này đòi hỏi sự logic, tư duy phản biện và kỹ năng giải quyết vấn đề của nhân vật chính, thường là một thám tử hoặc nhà điều tra tài ba.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-065.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-065.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Tại sao viết truyện trinh thám?
 
@@ -39,7 +39,7 @@ Truyện trinh thám [kinh dị](https://nhavantuonglai.com/article) là một t
 
 – Nghiên cứu về tội phạm học: Hiểu biết về tâm lý tội phạm, phương pháp điều tra và quy trình pháp lý sẽ giúp bạn xây dựng câu chuyện thực tế hơn.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-066.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-066.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ### Xây dựng ý tưởng
 
@@ -49,7 +49,7 @@ Truyện trinh thám [kinh dị](https://nhavantuonglai.com/article) là một t
 
 – Sử dụng các yếu tố kinh điển: Những đầu mối bí ẩn, những lời khai mâu thuẫn và những kẻ tình nghi đáng ngờ đều là những yếu tố cơ bản của truyện trinh thám.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-067.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-067.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Các bước viết truyện trinh thám
 
@@ -77,7 +77,7 @@ Truyện trinh thám [kinh dị](https://nhavantuonglai.com/article) là một t
 
 – Kết thúc hợp lý: Kết thúc câu chuyện bằng cách giải quyết tất cả các bí ẩn và để lại một cảm giác thỏa mãn cho người đọc.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-068.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-068.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ### Kỹ thuật viết lách
 
@@ -95,7 +95,7 @@ Truyện trinh thám [kinh dị](https://nhavantuonglai.com/article) là một t
 
 – Giữ sự nhất quán: Đảm bảo rằng mọi chi tiết trong câu chuyện đều nhất quán và không mâu thuẫn với nhau.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-069.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-069.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ### Sự bất ngờ
 
@@ -117,7 +117,7 @@ Truyện trinh thám [kinh dị](https://nhavantuonglai.com/article) là một t
 
 – Tham gia cộng đồng viết lách: Tham gia các [cộng đồng viết lách](https://nhavantuonglai.com/article), [diễn đàn viết lách](https://nhavantuonglai.com/article) và [Khóa học viết blog](https://nhavantuonglai.com/article) để nhận được phản hồi và cải thiện kỹ năng.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-070.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-070.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ### Viết và chỉnh sửa
 
@@ -131,7 +131,7 @@ Truyện trinh thám [kinh dị](https://nhavantuonglai.com/article) là một t
 
 – Đam mê: Hãy để đam mê dẫn dắt bạn và giúp bạn vượt qua những khó khăn trong quá trình viết.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-071.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-071.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Kết luận
 
@@ -139,4 +139,4 @@ Viết truyện trinh thám là một hành trình đầy thử thách nhưng c�
 
 Việc viết truyện trinh thám yêu cầu bạn không chỉ có kỹ năng viết lách mà còn cần sự sáng tạo và tư duy logic. Bằng cách áp dụng các kỹ thuật và mẹo hướng dẫn trên, bạn sẽ có thể tạo ra những câu chuyện trinh thám độc đáo và hấp dẫn. Chúc bạn có những trải nghiệm viết truyện trinh thám thú vị và thành công.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-213.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-213.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

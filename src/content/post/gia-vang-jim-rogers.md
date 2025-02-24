@@ -3,7 +3,7 @@ pubDatetime: 2021-11-26T10:10:00Z
 title: Điều gì khiến Jim Rogers cực kỳ lạc quan về biểu đồ giá vàng?
 description: Chuỗi bài viết của nhavantuonglai về kinh doanh vàng bạc đá quý và quỹ đầu tư sẽ giúp nhà đầu tư khởi nghiệp hiệu quả.
 featured: false
-image: https://banmaixanh.org/image/cover/001-649.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-649.jpg
 tags:
   - viet thue
   - marketing
@@ -86,4 +86,4 @@ Jim Rogers là một nhà đầu tư tài năng, lỗi lạc của Mỹ. Ông l�
 
 Jim quan điểm rằng khi đầu tư, chúng ta không nên phân bổ danh mục tài sản. Bởi điều này hạn chế đi rất nhiều cơ hội tối ưu lợi nhuận trên thị trường. Tuy rằng những lời khuyên của ông thường đi ngược với số đông, nhưng hiệu quả lại rất rõ ràng. Quantum Fund có lợi nhuận gấp 420 lần trong 10 năm, trở thành quỹ đầu cơ lớn nhất thế giới. Đây được xem là minh chứng hoàn hảo nhất cho những quan điểm đầu tư của ông.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-649.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-649.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

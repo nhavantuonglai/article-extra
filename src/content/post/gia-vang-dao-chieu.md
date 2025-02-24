@@ -3,7 +3,7 @@ pubDatetime: 2021-11-18T10:10:00Z
 title: Xu hướng đảo chiều, thoái lui trong biểu đồ giá vàng
 description: Chuỗi bài viết của nhavantuonglai về kinh doanh vàng bạc đá quý và quỹ đầu tư sẽ giúp nhà đầu tư khởi nghiệp hiệu quả.
 featured: false
-image: https://banmaixanh.org/image/cover/001-349.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-349.jpg
 tags:
   - viet thue
   - marketing
@@ -106,4 +106,4 @@ Dựa vào đường xu hướng, mà chúng ta có thể dự đoán liệu khi
 
 Nhìn chung, xu hướng đảo chiều, thoái lui phát ra những tín hiệu đặc trưng để nhà đầu tư nhìn nhận thị trường. Qua đó, có cho mình những sự phân tích, đánh giá hữu hiệu đầu tư hiệu quả hơn. Tuy nhiên, tiềm ẩn những rủi ro là điều không thể tránh khi nhận định sai 2 xu hướng này. Do vậy, với nhà đầu tư, cần lưu tâm đến điều này để xác định đúng xu hướng. Qua đó sẽ có những lựa chọn giao dịch phù hợp, chắc chắn và an toàn hơn.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-310.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-310.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

@@ -3,7 +3,7 @@ pubDatetime: 2021-02-07T10:10:00Z
 title: Bài viết trên Instagram ngày 02 tháng 06 năm 2021
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-321.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-321.jpg
 tags:
   - viet lach
   - doan van
@@ -22,4 +22,4 @@ với mình, Huế của 20 năm trước và của 3, 4 năm trước chẳ
 
 Huế vốn đã tự nhiên, nay lại thêm lành mạnh và cực kỳ sống động. tin vào những gì được đọc, cảm nhận trọn tận mắt thấy, chắc chỉ tầm đôi ba năm nữa, khi chính sách phát triển định hình rõ nét, kinh tế có lối đi phù hợp, thì nhiều giải pháp sẽ đến, và đời sống vật chất cải thiện hơn; khi ấy, cũng sẽ chẳng ai đang ở lại muốn rời đi, cả những người đã đi rồi cũng sẽ mong quay về với Huế, (trong đó có mình).
 
-<figure><img src="https://banmaixanh.org/image/cover/001-332.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-332.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

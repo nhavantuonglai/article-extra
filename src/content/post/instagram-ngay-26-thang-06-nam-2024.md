@@ -3,7 +3,7 @@ pubDatetime: 2024-05-26T10:10:00Z
 title: Bài viết trên Instagram ngày 26 tháng 06 năm 2024
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-124.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-124.jpg
 tags:
   - viet lach
   - doan van
@@ -22,4 +22,4 @@ bởi vậy khi nhận được tin họ chuẩn bị cưới, trong một lá t
 
 nhận được thư lúc ấy, mình chợt bật khóc, nước mắt chảy không vì buồn đau hay vụt mất bông hoa hồng từng là duy nhất; mà bởi thấy sao 7 năm qua mình sống hạnh phúc quá, hạnh phúc trong tình cảm chân thành từ một người hơn cả tri kỷ, họ thấu hiểu và bao dung hơn tất cả mọi điều mình có. hơn bao giờ hết, mình cảm thấy đó là một dư vị của tuổi trẻ rất khó quên, một cảm giác sống động mà suốt đường dài tiếp theo chắc sẽ khó để gặp lại.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-276.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-276.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

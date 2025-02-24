@@ -3,7 +3,7 @@ pubDatetime: 2021-04-18T10:10:00Z
 title: Chó mèo có bị trầm cảm không?
 description: Chó mèo có thể bị trầm cảm. Những người bạn lông lá của chúng ta trải qua những cảm xúc mạnh mẽ giống như chúng ta, bao gồm cả nỗi buồn.
 featured: false
-image: https://banmaixanh.org/image/cover/001-241.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-241.jpg
 tags:
   - viet lach
   - thu cung
@@ -16,7 +16,7 @@ Rất nhiều thứ có thể khiến mèo cảm thấy hơi thất vọng trong
 
 Mèo có thể bị một dạng trầm cảm mèo con vì nhiều lý do. Có một vài thay đổi hành vi của mèo Như Mèo của bạn ngủ thường xuyên hơn, chán ăn và mất hứng thú chơi, đó có thể là dấu hiệu cho thấy mèo của bạn đã bị trầm cảm. Luôn tìm kiếm lời khuyên thú y nếu bạn nhận thấy những thay đổi trong hành vi của mèo.
 
-<figure><img src="https://banmaixanh.org/image/article/cham-soc-cho-meo-080.jpg" alt="cham soc cho meo" title="cham soc cho meo" height=100% width=100%><figcaption><p>Hướng dẫn chăm sóc chó mèo đúng cách.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/cham-soc-cho-meo-080.jpg" alt="cham soc cho meo" title="cham soc cho meo" height=100% width=100%><figcaption><p>Hướng dẫn chăm sóc chó mèo đúng cách.</p></figcaption></figure>
 
 Chó mèo có thể bị trầm cảm. Những người bạn lông lá của chúng ta trải qua những cảm xúc mạnh mẽ giống như chúng ta, bao gồm cả nỗi buồn. Tìm hiểu các dấu hiệu trầm cảm của chó mèo và cách điều trị chúng.
 
@@ -32,7 +32,7 @@ Nhiều yếu tố gây trầm cảm cho chó mèo. Một số nguyên nhân ph�
 
 – Thay đổi môi trường: Câu lạc bộ chó mèo giống Mỹ lưu ý rằng những thay đổi đối với cuộc sống gia đình của chó mèo thường ảnh hưởng đến tâm trạng của chó mèo. Những thay đổi này bao gồm chuyển đến một ngôi nhà mới hoặc thêm một em bé mới hoặc thú cưng mới.
 
-<figure><img src="https://banmaixanh.org/image/article/cham-soc-cho-meo-081.jpg" alt="cham soc cho meo" title="cham soc cho meo" height=100% width=100%><figcaption><p>Hướng dẫn chăm sóc chó mèo đúng cách.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/cham-soc-cho-meo-081.jpg" alt="cham soc cho meo" title="cham soc cho meo" height=100% width=100%><figcaption><p>Hướng dẫn chăm sóc chó mèo đúng cách.</p></figcaption></figure>
 
 – Bệnh tật và chấn thương: Cả hai vấn đề sức khỏe thể chất và các vấn đề sức khỏe tâm thần đều là nguyên nhân tiềm ẩn gây trầm cảm ở chú chó mèo của bạn. Cái trước bao gồm đau mãn tính và bệnh tật, trong khi cái sau bao gồm lạm dụng, chấn thương hoặc ám ảnh.
 
@@ -46,7 +46,7 @@ Nhiều yếu tố gây trầm cảm cho chó mèo. Một số nguyên nhân ph�
 
 Nhiều mèo hướng ngoại, vì vậy có thể khó phát hiện ra những thay đổi như vậy trong hành vi của chúng. Tuy nhiên, khi bạn nhận thấy rằng mèo của bạn yên tĩnh hơn bình thường một chút hoặc dường như không quan tâm đến các hoạt động hàng ngày, hãy nhớ rằng đây có thể là dấu hiệu trầm cảm ở mèo. Nó cũng có thể là một dấu hiệu cho thấy mèo của bạn không khỏe về mặt y tế, vì vậy điều quan trọng là phải đặt lịch kiểm tra với bác sĩ thú y.
 
-<figure><img src="https://banmaixanh.org/image/article/cham-soc-cho-meo-082.jpg" alt="cham soc cho meo" title="cham soc cho meo" height=100% width=100%><figcaption><p>Hướng dẫn chăm sóc chó mèo đúng cách.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/cham-soc-cho-meo-082.jpg" alt="cham soc cho meo" title="cham soc cho meo" height=100% width=100%><figcaption><p>Hướng dẫn chăm sóc chó mèo đúng cách.</p></figcaption></figure>
 
 Mèo trong nhà cũng có thể bị trầm cảm, và có thể dễ dàng nhận thấy những thay đổi hành vi của chúng vì bạn có xu hướng nhìn thấy chúng thường xuyên hơn. Nếu mèo của bạn không còn tham gia vào các hoạt động hàng ngày mà chúng từng thích và chúng ngủ thường xuyên hơn, thì đây có thể là dấu hiệu của trầm cảm. Mèo có thể bị trầm cảm nếu mèo con mới được giới thiệu đến nhà hoặc lãnh thổ của chúng. Mèo có thể thể hiện điều này bằng cách rút lui khỏi việc ăn uống hoặc trở nên vắng mặt hơn trong các hoạt động hàng ngày. Mèo là sinh vật lãnh thổ và chúng sử dụng pheromone để đánh dấu lãnh thổ của chúng. Giới thiệu mèo con mới đến lãnh thổ của nó có thể khiến mèo của bạn cảm thấy như thể không gian của nó đã bị xâm chiếm. Mèo cũng có thể bỏ lỡ sự chú ý không phân chia của bạn.
 
@@ -60,7 +60,7 @@ Phát hiện sớm những thay đổi hành vi sẽ cho bạn cơ hội tốt n
 
 – Thay đổi hoặc thiếu thèm ăn: Một trong những dấu hiệu cảnh báo chính cho trầm cảm chó mèo là mất hứng thú ăn uống đột ngột hoặc dần dần. Chó cũng có thể trải nghiệm sự thay đổi khẩu vị và thích một loại thức ăn khác cho chó mèo hoặc thậm chí là thức ăn của con người.
 
-<figure><img src="https://banmaixanh.org/image/article/cham-soc-cho-meo-083.jpg" alt="cham soc cho meo" title="cham soc cho meo" height=100% width=100%><figcaption><p>Hướng dẫn chăm sóc chó mèo đúng cách.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/cham-soc-cho-meo-083.jpg" alt="cham soc cho meo" title="cham soc cho meo" height=100% width=100%><figcaption><p>Hướng dẫn chăm sóc chó mèo đúng cách.</p></figcaption></figure>
 
 ### Gãi quá nhiều
 
@@ -74,7 +74,7 @@ Trong một số trường hợp trầm cảm ở mèo, bạn có thể nhận t
 
 Điều quan trọng cần lưu ý là những thay đổi trong khẩu vị thường được gây ra bởi các vấn đề y tế, vì vậy nếu mèo của bạn thay đổi thói quen ăn uống, bạn nên đặt lịch kiểm tra với bác sĩ thú y.
 
-<figure><img src="https://banmaixanh.org/image/article/cham-soc-cho-meo-084.jpg" alt="cham soc cho meo" title="cham soc cho meo" height=100% width=100%><figcaption><p>Hướng dẫn chăm sóc chó mèo đúng cách.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/cham-soc-cho-meo-084.jpg" alt="cham soc cho meo" title="cham soc cho meo" height=100% width=100%><figcaption><p>Hướng dẫn chăm sóc chó mèo đúng cách.</p></figcaption></figure>
 
 ### Thay đổi về tiếng kêu
 
@@ -82,7 +82,7 @@ Một số mèo có thể cực kỳ lớn tiếng khi thể hiện cảm xúc c
 
 Điều quan trọng cần lưu ý là tiếng rú của mèo không phải lúc nào cũng biểu thị hạnh phúc – ngay cả những mèo không vui hoặc đau đớn cũng có thể rú lên.
 
-<figure><img src="https://banmaixanh.org/image/article/cham-soc-cho-meo-085.jpg" alt="cham soc cho meo" title="cham soc cho meo" height=100% width=100%><figcaption><p>Hướng dẫn chăm sóc chó mèo đúng cách.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/cham-soc-cho-meo-085.jpg" alt="cham soc cho meo" title="cham soc cho meo" height=100% width=100%><figcaption><p>Hướng dẫn chăm sóc chó mèo đúng cách.</p></figcaption></figure>
 
 ### Ngôn ngữ cơ thể
 
@@ -106,7 +106,7 @@ Có một số cách để điều trị trầm cảm chó mèo. Trong số các
 
 – Tính nhất quán: Chó cũng khao khát cấu trúc trong cuộc sống của chúng. Giữ một lịch trình thường xuyên của các hoạt động, thời gian cho ăn, và ngủ càng nhiều càng tốt. Giới thiệu thay đổi lịch trình dần dần.
 
-<figure><img src="https://banmaixanh.org/image/article/cham-soc-cho-meo-087.jpg" alt="cham soc cho meo" title="cham soc cho meo" height=100% width=100%><figcaption><p>Hướng dẫn chăm sóc chó mèo đúng cách.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/cham-soc-cho-meo-087.jpg" alt="cham soc cho meo" title="cham soc cho meo" height=100% width=100%><figcaption><p>Hướng dẫn chăm sóc chó mèo đúng cách.</p></figcaption></figure>
 
 ### Rất nhiều thời gian chơi
 
@@ -144,7 +144,7 @@ Tương tự như trầm cảm, mèo có thể cảm thấy stress sau khi thay 
 
 Nếu mèo của bạn đang gặp những triệu chứng này, bạn nên đến bác sĩ thú y để kiểm tra tình trạng sức khỏe tiềm ẩn và được hướng dẫn về việc kiểm soát sự stress của chúng.
 
-<figure><img src="https://banmaixanh.org/image/article/cham-soc-cho-meo-086.jpg" alt="cham soc cho meo" title="cham soc cho meo" height=100% width=100%><figcaption><p>Hướng dẫn chăm sóc chó mèo đúng cách.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/cham-soc-cho-meo-086.jpg" alt="cham soc cho meo" title="cham soc cho meo" height=100% width=100%><figcaption><p>Hướng dẫn chăm sóc chó mèo đúng cách.</p></figcaption></figure>
 
 ## Hành vi cưỡng chế ở mèo
 
@@ -168,7 +168,7 @@ Mèo bị trầm cảm hoặc stress có thể phát triển các hành vi cư�
 
 Các hành vi cưỡng chế có thể phát triển như một cơ chế đối phó, có thể giúp mèo giảm bớt lo lắng trong thời gian ngắn. Nếu hành vi đó không làm tổn thương họ hoặc làm gián đoạn gia đình của bạn, bạn có thể không cần phải can thiệp. Nếu không, bạn nên mang mèo đến bác sĩ thú y.
 
-<figure><img src="https://banmaixanh.org/image/article/cham-soc-cho-meo-089.jpg" alt="cham soc cho meo" title="cham soc cho meo" height=100% width=100%><figcaption><p>Hướng dẫn chăm sóc chó mèo đúng cách.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/cham-soc-cho-meo-089.jpg" alt="cham soc cho meo" title="cham soc cho meo" height=100% width=100%><figcaption><p>Hướng dẫn chăm sóc chó mèo đúng cách.</p></figcaption></figure>
 
 ### Chăm sóc mèo có hành vi cưỡng chế
 
@@ -188,7 +188,7 @@ Bác sĩ thú y của bạn có thể giúp bạn tìm ra cách tiếp cận đ�
 
 Bạn có thể nghe mọi người nói về những mèo đã chết vì trái tim tan vỡ sau một mất mát đau thương, như cái chết của người chăm sóc chúng hoặc một người bạn đồng hành của mèo. Bản thân trầm cảm không gây tử vong, nhưng nó có thể khiến sức khỏe của mèo suy giảm đến mức nguy hiểm. Ví dụ, mèo từ chối ăn hoặc uống có thể giảm cân không lành mạnh hoặc bị mất nước. Những vấn đề này thường có thể được ngăn ngừa bằng cách can thiệp sớm với sự giúp đỡ của bác sĩ thú y.
 
-<figure><img src="https://banmaixanh.org/image/article/cham-soc-cho-meo-020.jpg" alt="cham soc cho meo" title="cham soc cho meo" height=100% width=100%><figcaption><p>Hướng dẫn chăm sóc chó mèo đúng cách.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/cham-soc-cho-meo-020.jpg" alt="cham soc cho meo" title="cham soc cho meo" height=100% width=100%><figcaption><p>Hướng dẫn chăm sóc chó mèo đúng cách.</p></figcaption></figure>
 
 ## Khi nào cần tham khảo ý kiến bác sĩ thú y về trầm cảm chó mèo?
 
@@ -198,4 +198,4 @@ Tuy nhiên, cần lưu ý rằng có những người tự quảng cáo mình l�
 
 Luôn luôn tham khảo ý kiến bác sĩ thú y của bạn trước, người có thể giới thiệu bạn đến một chuyên gia như bác sĩ thú y được đào tạo nâng cao, được chứng nhận là nhà ngoại giao của Đại học Hành vi Thú y Hoa Kỳ.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-217.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-217.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

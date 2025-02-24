@@ -3,7 +3,7 @@ pubDatetime: 2021-11-28T10:10:00Z
 title: Giá vàng hôm nay ra sao trong những ngày cận lễ?
 description: Chuỗi bài viết của nhavantuonglai về kinh doanh vàng bạc đá quý và quỹ đầu tư sẽ giúp nhà đầu tư khởi nghiệp hiệu quả.
 featured: false
-image: https://banmaixanh.org/image/cover/001-397.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-397.jpg
 tags:
   - viet thue
   - marketing
@@ -62,4 +62,4 @@ Việc quan sát giá vàng trong những thời điểm gần sẽ rất hữu 
 
 Tổng quan lại, giá vàng hôm nay ra sao trong những ngày cận lễ hẳn các bạn cũng đã rõ. Giá vàng trong từng giai đoạn phản ánh nhu cầu lẫn xu hướng giá vàng đang phải chịu những tác động nào trên thị trường. Do đó, bên cạnh việc quan sát dòng chảy của giá vàng trong bối cảnh hiện tại, với mỗi nhà đầu tư cũng cần có cho mình những quan sát rộng hơn. Nhằm hiểu thị trường vàng đang dịch chuyển như thế nào để đối phó được trọn vẹn và chốt lời hiệu quả.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-397.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-397.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

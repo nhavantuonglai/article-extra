@@ -3,7 +3,7 @@ pubDatetime: 2021-12-02T10:10:00Z
 title: Những yếu tố tác động đến sự thay đổi của biểu đồ giá vàng
 description: Chuỗi bài viết của nhavantuonglai về kinh doanh vàng bạc đá quý và quỹ đầu tư sẽ giúp nhà đầu tư khởi nghiệp hiệu quả.
 featured: false
-image: https://banmaixanh.org/image/cover/001-349.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-349.jpg
 tags:
   - viet thue
   - marketing
@@ -64,4 +64,4 @@ Nhưng dù không thể thay thế cho nhau, thì giá trị nội tại của v
 
 Những lĩnh vực đầu tư trên phản ánh một điều cốt lõi rằng, vàng là tiêu điểm ở giữa. Để tác động rộng khắp lên tất cả các lĩnh vực đầu tư. Dù theo cách này hay cách khác, song hành hay đối chọi, nhưng sự thay đổi trên biểu đồ giá vàng. Cũng có phần góp sức của những lĩnh vực song hành khác trong hệ thống tài chính.
 
-‍<figure><img src="https://banmaixanh.org/image/cover/001-310.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+‍<figure><img src="https://banmaixanh.vercel.app/image/cover/001-310.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

@@ -3,7 +3,7 @@ pubDatetime: 2022-06-17T10:10:00Z
 title: Bài viết trên Instagram ngày 17 tháng 06 năm 2022
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - viet lach
   - doan van
@@ -22,4 +22,4 @@ khi đôi ba dòng chia sẻ chưa hết ý, tụi mình phải tạm biệt vì
 
 nói xong cũng là lúc tụi mình ra đến cổng, tìm đường có bậc thềm rồi đi xuống, hướng về phía mặt trời lặn mà tìm tới. nhưng hôm ấy nắng với mây thất thường, đoạn trời lặn cũng là lúc nó khuất sau mấy lớp mây. dẫu cảnh xám xịt không như ý, nhưng khi nhìn lên phía chùa và nghĩ đến anh khách người Bắc đang hứng khởi trong hành trình mới, mình lại thấy an ủi được đôi ba phần, coi như không bõ một chuyến lên chùa hôm ấy.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

@@ -3,7 +3,7 @@ pubDatetime: 2021-11-07T10:10:00Z
 title: Bài viết trên Instagram ngày 20 tháng 11 năm 2021
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - viet lach
   - doan van
@@ -18,4 +18,4 @@ nhưng cái gì nhiều quá cũng không tốt, hiền lành quá, nhẹ nhàng
 
 phải đến sau này, cuộc sống nhiều góc cạnh quá khiến mình bất an, nghĩ về những ngày tháng cũ mới thấy rõ ngày ấy đẹp đến thế nào. mà qua rồi thì niềm vui cũng đâu ở lại được lâu, luyến tiếc thì vậy chứ cũng không quay trở về được. bạn học của ngày đó nay phần nhiều đã ngheo nghiệp dạy, một số khác thì đi đường vòng để nuôi ước mơ nghề dạy. chỉ có mình, và thêm một vài bạn nữa, mới tìm kiếm niềm vui công việc trong một đam mê khác. như ngày như hôm nay, mình lại nhớ về các bạn, về mái trường chung đã cùng học, và đâu đó là cả kỷ niệm đáng nhớ. mong những điều ấy vẫn đang ở riêng một góc thật đẹp trong tim của mọi người.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

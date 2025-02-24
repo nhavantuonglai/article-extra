@@ -3,7 +3,7 @@ pubDatetime: 2019-08-07T10:10:00Z
 title: Bài viết trên Instagram ngày 10 tháng 08 năm 2019
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-323.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-323.jpg
 tags:
   - viet lach
   - doan van
@@ -20,4 +20,4 @@ mình nghĩ rằng, sống ở quê là một đặc quyền, bởi có nhiều 
 
 một bạn nào đó mà mình từng hẹn, rằng hôm nào thong thả thì cùn ngắm sao, rồi mình sẽ chỉ cho bạn từng chòm trên bầu trời. hẹn để đó rồi bạn đi đâu mất, quên luôn lời mình từng hẹn, nên cũng chẳng nhắc và lưu luyến làm gì. nếu nhỡ có gặp lại, hay bạn nhớ lời hẹn năm nào, mình sẽ kể bạn nghe về chòm 3 ngôi sao thẳng hàng, xem liệu nhìn xung quanh thì bạn có nhìn ra chàng hiệp sĩ nào đang hiện hữu hay không. nhưng chắc bạn sẽ không nhìn thấy, bởi nếu có thì lời hẹn năm nào bạn đâu dễ quên đến vậy.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-310.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-310.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

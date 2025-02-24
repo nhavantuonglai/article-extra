@@ -3,7 +3,7 @@ pubDatetime: 2022-03-22T10:10:00Z
 title: Làm thế nào để trả lời các đánh giá trực tuyến – Kinh nghiệm từ các quản lý khách sạn
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
 featured: false
-image: https://banmaixanh.org/image/cover/001-727.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-727.jpg
 tags:
   - viet thue
   - marketing
@@ -33,7 +33,7 @@ Chúng tôi giải quyết các đánh giá xấu theo cách tích cực – (th
 
 Điều quan trọng là coi mỗi đánh giá là một cách để bắt đầu cuộc trò chuyện với một khách cụ thể, người đã dành thời gian để liên hệ với khách sạn của bạn. Thật lịch sự khi đáp lại họ như một vị khách độc nhất. Cuối cùng, điều này sẽ dẫn đến sự hài lòng của khách hàng, giữ chân khách hàng và quảng cáo truyền miệng. Tất cả chỉ bằng cách dành một chút thời gian để đưa ra những phản hồi đó.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-119.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-119.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Trả lời tất cả các đánh giá – tốt, xấu và không cần thiết
 
@@ -53,7 +53,7 @@ _Điều quan trọng là phải trả lời. Đó là phép lịch sự._ và _
 
 Là một trong những công ty dẫn đầu toàn cầu về lĩnh vực đánh giá trực tuyến, Tripadvisor đã phát hiện ra rằng 65% khách du lịch đồng ý rằng họ có nhiều khả năng sẽ đặt phòng tại khách sạn đã phản hồi đánh giá của khách hơn là khách sạn chưa phản hồi.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-120.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-120.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Trả lời các đánh giá tích cực bằng lời cảm ơn
 
@@ -77,7 +77,7 @@ Mỗi đánh giá phải được phản hồi với sự đồng cảm vì mỗ
 
 Như đã đề cập ở trên, sự trung thực và chân thành khi tiếp cận những bình luận tiêu cực là điều tối quan trọng. Chúng tôi muốn khách hàng biết rằng chúng tôi đã lắng nghe họ, có ý định giải quyết vấn đề một cách tốt nhất có thể và rằng chúng tôi tôn trọng phản hồi của họ. Một lần nữa, điều quan trọng là phải trả lời từng đánh giá một cách riêng lẻ, tôn trọng và kịp thời.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-121.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-121.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Điểm hàng đầu mà mọi đánh giá nên bao gồm
 
@@ -93,8 +93,8 @@ Trả lời kịp thời phản hồi của khách hàng cho thấy mức độ 
 
 Hãy biết ơn và lịch sự, ngay cả khi họ đã đánh giá bạn không tốt. Bạn có thể (nhưng không nên) làm mất uy tín của người đánh giá nếu cần. Luôn kết thúc bằng những điều tích cực để những vị khách tương lai có thể coi giải pháp của bạn là một địa điểm đáng ghé thăm. Đây cũng là công cụ tiếp thị tốt nhất bạn có thể sử dụng, vì vậy hãy đề cập đến việc đặt phòng trực tiếp, truy cập website của chúng tôi và đăng ký nhận tin tức và ưu đãi. Chỉ là đề cập kỳ lạ, đặc biệt là trong đánh giá tốt. Sử dụng chúng để thúc đẩy giải pháp của bạn.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-122.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-122.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 Những mẹo này từ các chủ khách sạn có kinh nghiệm có thể giúp nhiệm vụ trả lời phản hồi của khách bớt khó khăn hơn một chút và chúng cũng cho thấy tầm quan trọng của việc tương tác với khách hàng dưới dạng phản hồi đánh giá. Khách hàng mong muốn được hài lòng bởi dịch vụ xuất sắc cả trong và sau thời gian lưu trú. Trả lời phản hồi của họ có thể giúp bạn làm điều đó, có thể biến một khách hàng hài lòng thành đại sứ thương hiệu hoặc giành lại một khách hàng không hài lòng chỉ bằng một vài ký tự.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-510.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-510.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>

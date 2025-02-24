@@ -3,7 +3,7 @@ pubDatetime: 2020-12-07T10:10:00Z
 title: Chuyện hoa lá cuối xuân ở Huế
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-343.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-343.jpg
 tags:
   - viet lach
   - doan van
@@ -24,4 +24,4 @@ cho nên, có thể nói rằng, dịp cuối xuân và đầu mù
 
 nên đã đôi khi, mình nhìn vào khung cảnh ấy từ cầu Trường Tiền, và cảm giác rằng đó là cái palette pha màu của người họa sĩ mang tên thiên nhiên, nhưng ông chẳng làm gì thêm cả, bởi tự nó cũng đã đẹp và mãn nhãn nhiều lắm rồi.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-310.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-310.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

@@ -3,7 +3,7 @@ pubDatetime: 2024-04-29T10:10:00Z
 title: Tìm hiểu toàn diện về Gitbook
 description: GitBook là một nền tảng tạo và quản lý tài liệu trực tuyến, được thiết kế để giúp người dùng dễ dàng biên soạn, chỉnh sửa và phát hành tài liệu.
 featured: false
-image: https://banmaixanh.org/image/cover/001-621.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-621.jpg
 tags:
   - webflow
   - website
@@ -25,7 +25,7 @@ GitBook là một nền tảng tạo và quản lý tài liệu trực tuyến, 
 
 GitBook được biết đến với giao diện đơn giản, thân thiện với người dùng, và khả năng tích hợp linh hoạt với nhiều công cụ và nền tảng khác nhau. Người dùng có thể dễ dàng chia sẻ tài liệu với nhóm làm việc, khách hàng, hoặc công chúng thông qua các liên kết trực tiếp, và có thể tùy chỉnh giao diện tài liệu để phù hợp với thương hiệu hoặc yêu cầu cụ thể của dự án. GitBook hỗ trợ đa ngôn ngữ, cho phép biên soạn tài liệu bằng nhiều ngôn ngữ khác nhau và xuất bản dưới dạng HTML, PDF, hoặc ePub.
 
-<figure><img src="https://banmaixanh.org/image/article/website-gitbook-01.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/website-gitbook-01.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
 ## Công dụng của GitBook
 
@@ -41,7 +41,7 @@ GitBook mang lại nhiều công dụng hữu ích cho người dùng, đặc bi
 
 – Xuất bản đa dạng định dạng: GitBook hỗ trợ xuất bản tài liệu dưới nhiều định dạng khác nhau, bao gồm HTML, PDF, ePub, và Markdown. Điều này giúp bạn dễ dàng chia sẻ tài liệu trên nhiều nền tảng hoặc lưu trữ dưới các định dạng phù hợp với yêu cầu của dự án.
 
-<figure><img src="https://banmaixanh.org/image/article/website-gitbook-02.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/website-gitbook-02.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
 ## Các công ty công nghệ, startup sử dụng GitBook như thế nào?
 
@@ -67,7 +67,7 @@ GitBook được sử dụng rộng rãi trong các công ty công nghệ, start
 
 – Bước 4: Quản lý tài liệu: Khi đã tạo hoặc theo dõi tài liệu, bạn có thể quản lý tài liệu của mình thông qua bảng điều khiển GitBook. Bạn có thể chỉnh sửa nội dung, thêm chương mục, xuất bản tài liệu, và chia sẻ với người khác. Nếu bạn theo dõi tài liệu của người khác, bạn sẽ nhận được thông báo khi có bất kỳ cập nhật nào.
 
-<figure><img src="https://banmaixanh.org/image/article/website-gitbook-03.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/website-gitbook-03.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
 ## Cách cài đặt GitBook lên website
 
@@ -101,4 +101,4 @@ GitBook là một công cụ mạnh mẽ và linh hoạt, mang lại nhiều l�
 
 Việc cài đặt và sử dụng GitBook không chỉ giúp cải thiện trải nghiệm người dùng trên website mà còn tăng cường khả năng quản lý và cập nhật nội dung một cách linh hoạt. Trong bối cảnh công nghệ phát triển không ngừng, GitBook chắc chắn sẽ tiếp tục là một công cụ quan trọng và được ưa chuộng bởi nhiều công ty và cá nhân trên toàn thế giới.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-639.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-639.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

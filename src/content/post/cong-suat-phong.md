@@ -3,7 +3,7 @@ pubDatetime: 2022-03-13T10:10:00Z
 title: Hiểu đúng về công suất phòng khi làm khách sạn
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
 featured: false
-image: https://banmaixanh.org/image/cover/001-548.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-548.jpg
 tags:
   - viet thue
   - marketing
@@ -29,7 +29,7 @@ Không sử dụng hết phòng, tiềm ẩn rủi ro về hao hụt tài nguyê
 
 Thường xuyên quá tải, sẽ dễ dẫn đến tình trạng [overbooking](https://nhavantuonglai.com/article), đây được xem là vấn đề nghiêm trọng, ảnh hưởng lớn đến uy tín và doanh thu của khách sạn. Bởi nó không chỉ là vấn đề về cách vận hành, mà còn là trải nghiệm của khách hàng, bởi nếu họ cảm thấy không thoải mái với việc đặt phòng và đến ở, thì sẽ không có chuyện quay trở lại.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-073.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-073.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Công thức tính công suất phòng chuẩn
 
@@ -85,8 +85,8 @@ Bạn đang tìm hiểu về công suất phòng? Đừng bỏ lỡ chuỗi bài
 
 – [Ứng dụng công nghệ để cải thiện doanh thu khi công suất phòng thấp](https://nhavantuonglai.com/article)
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-074.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-074.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 Do đó, các khách sạn cần tính toán công suất phòng dựa trên tiềm lực tài chính, khả năng thu hồi vốn và sinh lời trong bao lâu của khách sạn để đánh giá và xây dựng công suất phòng cho phù hợp với mô hình của mình. Việc xây dựng công suất phòng chính xác, sẽ giúp người quản lý chủ động hơn trong việc xây dựng những chính sách giá, dự trù những rủi ro trong quá trình vận hành, để hạn chế thấp nhất những tình huống không đáng có.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-339.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-339.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>

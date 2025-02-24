@@ -3,7 +3,7 @@ pubDatetime: 2019-09-07T10:10:00Z
 title: Bài viết trên Instagram ngày 28 tháng 09 năm 2019
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-321.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-321.jpg
 tags:
   - viet lach
   - doan van
@@ -28,4 +28,4 @@ vốn bản thân mình đã quen làm mọi thứ một mình, tưo
 
 nhưng nói thế nào thì, mình vẫn sẽ quay lại, không đi một mình – chán lắm luôn và cũng không phải sớm gần đây – cần thời gian để quên bớt vài điều không vui lúc ở trển đó. và cũng không tính sẽ định cư hay ở lại trên đó dài lâu – Huế vẫn thích hơn rất nhiều…
 
-<figure><img src="https://banmaixanh.org/image/cover/001-330.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-330.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

@@ -3,7 +3,7 @@ pubDatetime: 2021-02-07T10:10:00Z
 title: Bài viết trên Instagram ngày 28 tháng 02 năm 2021
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - viet lach
   - doan van
@@ -18,4 +18,4 @@ hình ảnh lúc ấy, làm mình nhớ đến những thanh tre nhỏ gắn tr�
 
 mình cũng được đọc đâu đó rằng, có một người dành cả chục năm liền, bỏ tiền ra nuôi cũng con thú sống lang bạt giữa lòng thành phố, bằng những miếng ngọt và tấm lòng thương ái. nghe chuyện ấy, thật sự mình không ngạc nhiên lắm, dù rằng nó hơi vô nghĩa và chẳng lợi lộc nào họ có thể hưởng. bởi lẽ, những chuyện như thế, những cách hành xử như vậy, mình được nghe và đọc nhiều, và chúng cũng chẳng nhập nhằng gì với sự đen tối trong góc khuất nào đang có ở nơi này.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-556.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-556.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

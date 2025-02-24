@@ -3,7 +3,7 @@ pubDatetime: 2021-03-07T10:10:00Z
 title: Bài viết trên Instagram ngày 14 tháng 03 năm 2021
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - viet lach
   - doan van
@@ -18,4 +18,4 @@ sau quá trình tìm kiếm những bông hoa hợp ý nhất rồi, mình sẽ 
 
 ở bước này, vị trí quan trọng hơn tính thẩm mỹ. bởi nếu kỳ công quá, việc giữ yên cho những lần ép tiếp theo, xếp chồng lên sau đó sẽ vô cùng gian nan. giữ yên chúng ngay trong tấm giấy, là đủ để tạo nên những bất ngờ nghệ thuật tiếp theo đó.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

@@ -3,7 +3,7 @@ pubDatetime: 2022-07-14T10:10:00Z
 title: Cách dùng review khách sạn để tăng lượt bán phòng
 description: Nhiều khách sạn tin rằng thời đại kỹ thuật số, công nghệ bùng nổ vừa là điềm lành lại vừa là cơn ác mộng cho việc kinh doanh khách sạn. Nhưng sự thật là, internet là một phần của cuộc sống, và đó không phải là điều chúng ta nên lo sợ.
 featured: false
-image: https://banmaixanh.org/image/cover/001-649.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-649.jpg
 tags:
   - viet thue
   - marketing
@@ -33,7 +33,7 @@ Chia sẻ lại các đánh giá tích cực dưới dạng ảnh chụp màn h�
 
 Để khuyến khích du khách chia sẻ phản hồi một cách trực quan và hiệu quả, hãy thống nhất các tiêu chuẩn như sử dụng hashtag, influencer… để tăng hiệu quả, thu về nhiều lượt đặt phòng trực tiếp.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-018.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-018.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Làm thế nào để khai thác đánh giá khách sạn nhằm tăng lượt bán phòng?
 
@@ -59,7 +59,7 @@ Nếu khách sạn lo ngại du khách không truy cập website, hãy chia sẻ
 
 Ở đây cũng cần nhắc đến các video review, chúng là cách tiếp cận tuyệt vời để thuyết phục khách hàng tiềm năng. Nên hãy để video review, trải nghiệm thực tế tại vị trí phù hợp trên website để tạo ấn tượng đúng lúc và kịp thời.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-019.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-019.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Trả lời các đánh giá trực tuyến tích cực lẫn đánh giá tiêu cực về khách sạn
 
@@ -99,7 +99,7 @@ Ví dụ, một khách đặt phòng cho khách sạn của bạn 4* trên TripA
 
 Với du khách đã đánh giá 4*, đó là sự ghi nhận thiện chí và họ hoàn toàn có thể quay lại thêm lần nữa. Với du khách chưa đặt phòng, dựa vào phản hồi mà họ biết sự cầu thị của khách sạn, và hình dung được điều gì đã được khắc phục.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-020.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-020.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Đạt được lợi thế cạnh tranh
 
@@ -129,8 +129,8 @@ Các đánh giá trực tuyến chứng minh sự tồn tại và uy tín của 
 
 Những đánh giá trực tuyến tích cực trên kênh OTA, Google và những nơi khác sẽ giúp khách sạn cải thiện thứ hạng hiển thị, mở rộng phạm vi tiếp cận du khách, từ đó đem lại nhiều lượt đặt phòng cho khách sạn của bạn hơn.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-100.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-100.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 Như vậy, các khách sạn có thể tăng lượt bán phòng khách sạn qua các đánh giá, chúng cũng là công cụ marketing hữu ích, hiệu quả mà khách sạn nên khai thác và tận dụng.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-614.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-614.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>

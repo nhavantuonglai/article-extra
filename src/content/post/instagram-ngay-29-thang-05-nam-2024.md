@@ -3,7 +3,7 @@ pubDatetime: 2024-05-29T10:10:00Z
 title: Bài viết trên Instagram ngày 29 tháng 05 năm 2024
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-754.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-754.jpg
 tags:
   - viet lach
   - doan van
@@ -22,4 +22,4 @@ khi tự nhìn vào gương, mình chưa bao giờ thấy trước mặt là m�
 
 hành trình đó rất dài với nhiều mâu thuẫn nảy sinh từ bản thân, nhưng như cách mình nghĩ về EQ vậy – mọi thứ đều có thể thay đổi, cải thiện và tốt dần lên; nên bản thân mình cũng sẽ như thế, rồi cũng sẽ tốt hơn của lúc này.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-145.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-145.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

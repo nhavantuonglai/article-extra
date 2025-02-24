@@ -3,7 +3,7 @@ pubDatetime: 2025-03-02T10:10:00Z
 title: 6 đặc điểm tạo nên nhà văn giỏi
 description: Bài viết này sẽ đi sâu vào những đặc điểm quan trọng giúp một nhà văn trở nên xuất sắc để bạn có thể áp dụng.
 featured: false
-image: https://banmaixanh.org/image/cover/001-397.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-397.jpg
 tags:
   - viet lach
   - ky nang viet
@@ -136,4 +136,4 @@ Trở thành một nhà văn giỏi không phải là điều dễ dàng, nhưng
 
 Tổng quan lại, viết lách là một quá trình cần nhiều sự kiên trì và ý tưởng, và một nhà văn giỏi hội tụ hết những điểm ấy. Vậy nên, ngay lúc này bạn muốn trở thành [nhà văn tương lai](https://nhavantuonglai.com), thì đã đến lúc bắt đầu với những ý tưởng nhỏ nhất, sự kiên trì cơ bản và một niềm tin bền vững vào hành trình mà mình đang theo đuổi.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-306.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-306.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

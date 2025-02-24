@@ -3,7 +3,7 @@ pubDatetime: 2020-10-07T10:10:00Z
 title: Bài viết trên Instagram ngày 20 tháng 10 năm 2020
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - viet lach
   - doan van
@@ -22,4 +22,4 @@ cho nên, khi một, hoặc cả hai cùng nảy sinh tình cảm thì n�
 
 với mình, mối quan hệ tốt là khi xác định được mục tiêu của mối quan hệ. nếu chúng ta cảm nhận được cảm xúc và mong muốn gắn kết, thì lựa chọn mối quan hệ lãng mạn là lối đi phù hợp. còn khi cần một mối quan hệ bền chặt, đủ niềm tin để mở lòng thì lựa chọn ở về phía bên kia. còn nếu không? hãy cứ tự nhiên mà lựa chọn, rồi sẽ biết điều gì là phù hợp với chính mình, với mối quan hệ mình cần theo đuổi…
 
-<figure><img src="https://banmaixanh.org/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

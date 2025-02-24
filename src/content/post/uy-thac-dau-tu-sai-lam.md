@@ -3,7 +3,7 @@ pubDatetime: 2024-03-17T10:10:00Z
 title: 3 sai lầm thường gặp khi ủy thác, đầu tư tài chính
 description: Chuỗi bài viết của nhavantuonglai về kinh doanh vàng bạc đá quý và quỹ đầu tư sẽ giúp nhà đầu tư khởi nghiệp hiệu quả.
 featured: false
-image: https://banmaixanh.org/image/cover/001-548.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-548.jpg
 tags:
   - viet thue
   - marketing
@@ -62,4 +62,4 @@ Như thế, những vấn đề thường gặp của nhà đầu tư, có thể
 
 Ủy thác đầu tư không hẳn là kênh mới mẻ, khi đã xuất hiện và được dùng từ rất lâu. Không chỉ là lựa chọn thú vị, phù hợp với đa số nhà đầu tư. Mà nó còn giải quyết đa số vấn đề gặp phải trong quá trình đầu tư. Chính vì thế, nếu là nhà đầu tư mới, hãy xem đây là lựa chọn hữu hiệu để bắt đầu.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-314.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-314.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

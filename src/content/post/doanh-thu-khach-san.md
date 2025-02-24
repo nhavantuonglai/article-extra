@@ -3,7 +3,7 @@ pubDatetime: 2022-04-04T10:10:00Z
 title: Làm thế nào để đạt được doanh thu khách sạn tốt nhất sau dịch bệnh
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
 featured: false
-image: https://banmaixanh.org/image/cover/001-227.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-227.jpg
 tags:
   - viet thue
   - marketing
@@ -85,7 +85,7 @@ Trong _sân chơi_ này, không chỉ có các ông lớn mà hiện nay đang c
 
 Sau khi dịch bệnh kết thúc, thị trường du lịch bắt đầu hoạt động trở lại, nhu cầu du lịch tăng, việc mở lại các kênh đặt phòng kênh OTA sẽ khách sạn thu hút được nhiều đặt phòng sớm nhiều hơn.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-026.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-026.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 #### Xây dựng chiến lược giá, chọn kênh trên kênh OTA phù hợp
 
@@ -123,7 +123,7 @@ Sau khi kết thúc dịch bệnh, tâm lý quan ngại di chuyển của khách
 
 Đối với các khách hàng là giải pháp thường xuyên đặt phòng công tác tại Khách sạn của bạn trước đây. Cần liên hệ lại để gửi chính sách giá mới đính kèm các khuyến mãi hấp dẫn để gia tăng thêm lượt đặt phòng trực tiếp tại khách sạn. Các chương trình đưa ra cần cá nhân hoá để các khách hàng giải pháp cảm thấy ấn tượng hơn với khách sạn. Nguồn khách hàng corporation sẽ mang lại nguồn doanh thu thường xuyên và ổn định cho khách sạn.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-027.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-027.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Đổi mới và cải thiện hình ảnh khách sạn
 
@@ -165,7 +165,7 @@ Như vậy, có thể thấy để cải thiện doanh thu cho khách sạn lâu
 
 Do ảnh hưởng của đại dịch bệnh đã làm cho ngành kinh doanh rơi vào khủng hoảng. Nguồn vốn của khách sạn không còn nhiều, do đó, khách sạn cần linh hoạt trong quá trình quản lý công việc của mình.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-028.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-028.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Những thiếu sót khi quản lý khách sạn theo kiểu truyền thống
 
@@ -187,8 +187,8 @@ Việc áp dụng một [phần mềm khách sạn trong việc quản lý](http
 
 Ví dụ: Trước đây bộ phận lễ tân cần thuê ít nhất 2 – 3 nhân viên lễ tân để xử lý việc check-in, check out cho khách, khi khách sạn sử dụng phần mềm quản lý việc làm thủ tục nhận phòng cho khách hàng được xử lý nhanh chóng và chỉ cần 1 nhân viên sử dụng được phần mềm chỉ mất vài phút để hoàn tất thủ tục cho khách hàng.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-029.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-029.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 Do đó, đối với khách sạn đang tư duy kinh doanh theo kiểu truyền thống cần phải điều chỉnh ngay và sử dụng phần mềm quản lý khách sạn để thay đổi chất lượng dịch vụ của khách sạn.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-210.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-210.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>

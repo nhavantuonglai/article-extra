@@ -3,7 +3,7 @@ pubDatetime: 2023-02-04T10:10:00Z
 title: Làm thế nào để giảm chi phí lao động cho nhà hàng của bạn?
 description: Tìm hiểu các chiến lược tiếp thị nhà hàng hiệu quả trong chuỗi bài viết sau của nhavantuonglai để áp dụng và đem lại hiệu quả thiết thực cho giải pháp của bạn.
 featured: false
-image: https://banmaixanh.org/image/cover/001-649.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-649.jpg
 tags:
   - viet thue
   - marketing
@@ -106,4 +106,4 @@ Các giải pháp này thường triển khai độc lập, hoặc được tín
 
 Với tất cả gợi ý nêu trên, các nhà hàng có thể áp dụng đồng thời nhằm đem lại những hiệu quả như mong muốn, để vừa cải thiện hiệu quả hoạt động, lại vừa tối ưu chi phí lao động cho nhà hàng và đem lại nhiều sự thay đổi tích cực.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-610.jpg" alt="nha hang, am thuc." title="nha hang, am thuc." height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-610.jpg" alt="nha hang, am thuc." title="nha hang, am thuc." height=100% width=100%><figcaption><p></p></figcaption></figure>

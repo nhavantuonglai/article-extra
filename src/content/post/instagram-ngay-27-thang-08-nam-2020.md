@@ -3,7 +3,7 @@ pubDatetime: 2020-08-07T10:10:00Z
 title: Bài viết trên Instagram ngày 27 tháng 08 năm 2020
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - viet lach
   - doan van
@@ -22,4 +22,4 @@ viết cũng như mọi kỹ năng khác, cần luyện tập và thực hành l
 
 mình cũng không nghĩ rằng văn hiện tại đã đủ tốt, khi bản thân vẫn nhận ra những vấn đề riêng của nó. mình đang cố gắng thay đổi, học cách để chỉnh chu và đi vào đúng trọng tâm hơn trước. đó có thể là 1 hành trình dài, nhưng cũng có thể là chuyến dạo chơi thú vị – nếu ngay hiện tại, mình sẵn lòng mà bước về phía nó…
 
-<figure><img src="https://banmaixanh.org/image/cover/001-275.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-275.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

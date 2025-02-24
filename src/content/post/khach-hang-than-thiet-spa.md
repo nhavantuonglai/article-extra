@@ -3,7 +3,7 @@ pubDatetime: 2023-07-16T10:10:00Z
 title: Chương trình khách hàng thân thiết của tiệm Spa là gì và làm thế nào để khai thác hiệu quả?
 description: Tìm hiểu các chiến lược tiếp thị Spa hiệu quả trong chuỗi bài viết sau của nhavantuonglai để áp dụng và đem lại hiệu quả thiết thực cho giải pháp của bạn.
 featured: false
-image: https://banmaixanh.org/image/cover/001-548.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-548.jpg
 tags:
   - viet thue
   - marketing
@@ -95,4 +95,4 @@ Thời gian diễn ra, điều khoản và thời điểm loại trừ, hình th
 
 Với những thông tin trên đây, bạn đã biết cách hoạt động của chương trình khách hàng thân thiết, hãy áp dụng linh hoạt vào chiến lược tiếp thị của tiệm, cũng như áp dụng những [công cụ công nghệ mới nhất để quản lý và vận hành tiệm](https://nhavantuonglai.com/article) hiệu quả hơn.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-317.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-317.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

@@ -3,7 +3,7 @@ pubDatetime: 2021-03-07T10:10:00Z
 title: Bài viết trên Instagram ngày 07 tháng 03 năm 2021
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-323.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-323.jpg
 tags:
   - viet lach
   - doan van
@@ -24,4 +24,4 @@ khi chị nói xong, mình ngạc nhiên và không hề giận chị. có thể
 
 suy cho cùng, Thư viện từng rất hữu hình, nhưng hiện tại thì điều ấy không còn quan trọng nữa. sự hữu hình ấy, tốt nhất là nên làm chất liệu để kể những câu chuyện khác. còn những gì là vô hình, thì mình, và những ai khác giữ riêng một góc cũng là được lắm rồi.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-310.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-310.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

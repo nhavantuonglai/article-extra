@@ -3,7 +3,7 @@ pubDatetime: 2021-11-22T10:10:00Z
 title: Hiệu quả đầu tư vào các quỹ ETF dựa trên những tiêu chí nào?
 description: Chuỗi bài viết của nhavantuonglai về kinh doanh vàng bạc đá quý và quỹ đầu tư sẽ giúp nhà đầu tư khởi nghiệp hiệu quả.
 featured: false
-image: https://banmaixanh.org/image/cover/001-483.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-483.jpg
 tags:
   - viet thue
   - marketing
@@ -62,4 +62,4 @@ Cho nên, cần hiểu rằg với từng danh mục đầu tư, sự tác độ
 
 Nhìn chung, nhà đầu tư cần xác động rõ những yếu tố tác động đến hiệu quả của quỹ đầu tư ETF. Điều này giúp việc xác định môi trường đầu tư, định vị phương pháp đầu tư. Để có thể ra quyết định được đúng đắn, hiệu quả và chắc chắn hơn bao giờ hết.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-539.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-539.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

@@ -3,7 +3,7 @@ pubDatetime: 2022-09-15T10:10:00Z
 title: Bài viết trên Instagram ngày 15 tháng 09 năm 2022
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - viet lach
   - doan van
@@ -20,4 +20,4 @@ theo thời gian, bà mất rồi ông cũng mất, ngôi nhà sụp xuống và
 
 niềm an ủi còn sót, là ngọn đồi của thuở nhỏ vẫn còn đó; những cánh đồng, khu vừng thay đổi thế nào thì vẫn giữ được màu xanh vốn có; ông bà dù mất thì vẫn chọn ở trên đồi, nơi hướng nhìn vẫn là cả vùng rộng ngập màu xanh. nên, những khi về nhà, mình tranh thủ dịp lên đồi thắp hương, xong ra phía trước bình phong, ngồi xuống bậc tam cấp mà lắng nghe những âm thanh vọng lại từ phía xa, tiếng máy đập lúa, tiếng xe chạy, tiếng người í ới gọi nhau… vang giữa vùng rộng mà vọng lên tận đỉnh đồi. những âm thanh ấy, khi nhắm mắt và lặng yên, cảm tưởng như được quay trở lại quá khứ, quay lại những trưa hè nằm trên giường và liếc mắt ra vườn, nhìn thấy cả vùng đầy cây và ngập tràn là nắng.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

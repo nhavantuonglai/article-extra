@@ -3,7 +3,7 @@ pubDatetime: 2020-04-07T10:10:00Z
 title: Bài viết trên Instagram ngày 23 tháng 04 năm 2020
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - viet lach
   - doan van
@@ -22,4 +22,4 @@ lên đường vào sài gòn với một trái tim trần trụi 
 
 mình nghĩ sách mình có chẳng là nhiều, đọc cũng chưa bao nhiêu. nhưng nếu so tới so lui thì mãi chẳng bao giờ biết mình tốt đẹp đến nhường nào. bởi thế nên khi vẫn còn muốn đọc thì cứ sắp xếp thời gian mà đọc thôi, như nhã nam viết trong câu slogan, bởi vì sách là thế giới.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-514.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-514.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

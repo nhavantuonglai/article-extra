@@ -3,7 +3,7 @@ pubDatetime: 2017-02-01T10:10:00Z
 title: Thám tử lừng danh Conan | Tập 131
 description: Thám tử lừng danh Conan tập 131 là tập truyện trinh thám sáng tác bởi Gosho Aoyama, ấn bản phát từ hành từ 1994 trên tạp chí Weekly Shōnen Sunday.
 featured: false
-image: https://banmaixanh.org/image/cover/001-131.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-131.jpg
 tags:
   - manga
   - gosho aoyama
@@ -24,345 +24,345 @@ Thám tử lừng danh Conan (名探偵コナン – Meitantei Conan) là một 
 
 ## Thám tử lừng danh Conan chương 1311
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0311-01.jpg" alt="Thám tử lừng danh Conan chương 1311." title="Thám tử lừng danh Conan chương 1311." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1311.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0311-01.jpg" alt="Thám tử lừng danh Conan chương 1311." title="Thám tử lừng danh Conan chương 1311." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1311.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0311-02.jpg" alt="Thám tử lừng danh Conan chương 1311." title="Thám tử lừng danh Conan chương 1311." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1311.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0311-02.jpg" alt="Thám tử lừng danh Conan chương 1311." title="Thám tử lừng danh Conan chương 1311." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1311.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0311-03.jpg" alt="Thám tử lừng danh Conan chương 1311." title="Thám tử lừng danh Conan chương 1311." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1311.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0311-03.jpg" alt="Thám tử lừng danh Conan chương 1311." title="Thám tử lừng danh Conan chương 1311." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1311.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0311-04.jpg" alt="Thám tử lừng danh Conan chương 1311." title="Thám tử lừng danh Conan chương 1311." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1311.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0311-04.jpg" alt="Thám tử lừng danh Conan chương 1311." title="Thám tử lừng danh Conan chương 1311." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1311.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0311-05.jpg" alt="Thám tử lừng danh Conan chương 1311." title="Thám tử lừng danh Conan chương 1311." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1311.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0311-05.jpg" alt="Thám tử lừng danh Conan chương 1311." title="Thám tử lừng danh Conan chương 1311." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1311.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0311-06.jpg" alt="Thám tử lừng danh Conan chương 1311." title="Thám tử lừng danh Conan chương 1311." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1311.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0311-06.jpg" alt="Thám tử lừng danh Conan chương 1311." title="Thám tử lừng danh Conan chương 1311." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1311.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0311-07.jpg" alt="Thám tử lừng danh Conan chương 1311." title="Thám tử lừng danh Conan chương 1311." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1311.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0311-07.jpg" alt="Thám tử lừng danh Conan chương 1311." title="Thám tử lừng danh Conan chương 1311." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1311.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0311-08.jpg" alt="Thám tử lừng danh Conan chương 1311." title="Thám tử lừng danh Conan chương 1311." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1311.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0311-08.jpg" alt="Thám tử lừng danh Conan chương 1311." title="Thám tử lừng danh Conan chương 1311." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1311.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0311-09.jpg" alt="Thám tử lừng danh Conan chương 1311." title="Thám tử lừng danh Conan chương 1311." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1311.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0311-09.jpg" alt="Thám tử lừng danh Conan chương 1311." title="Thám tử lừng danh Conan chương 1311." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1311.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0311-10.jpg" alt="Thám tử lừng danh Conan chương 1311." title="Thám tử lừng danh Conan chương 1311." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1311.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0311-10.jpg" alt="Thám tử lừng danh Conan chương 1311." title="Thám tử lừng danh Conan chương 1311." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1311.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0311-11.jpg" alt="Thám tử lừng danh Conan chương 1311." title="Thám tử lừng danh Conan chương 1311." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1311.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0311-11.jpg" alt="Thám tử lừng danh Conan chương 1311." title="Thám tử lừng danh Conan chương 1311." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1311.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0311-12.jpg" alt="Thám tử lừng danh Conan chương 1311." title="Thám tử lừng danh Conan chương 1311." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1311.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0311-12.jpg" alt="Thám tử lừng danh Conan chương 1311." title="Thám tử lừng danh Conan chương 1311." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1311.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0311-13.jpg" alt="Thám tử lừng danh Conan chương 1311." title="Thám tử lừng danh Conan chương 1311." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1311.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0311-13.jpg" alt="Thám tử lừng danh Conan chương 1311." title="Thám tử lừng danh Conan chương 1311." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1311.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0311-14.jpg" alt="Thám tử lừng danh Conan chương 1311." title="Thám tử lừng danh Conan chương 1311." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1311.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0311-14.jpg" alt="Thám tử lừng danh Conan chương 1311." title="Thám tử lừng danh Conan chương 1311." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1311.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0311-15.jpg" alt="Thám tử lừng danh Conan chương 1311." title="Thám tử lừng danh Conan chương 1311." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1311.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0311-15.jpg" alt="Thám tử lừng danh Conan chương 1311." title="Thám tử lừng danh Conan chương 1311." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1311.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0311-16.jpg" alt="Thám tử lừng danh Conan chương 1311." title="Thám tử lừng danh Conan chương 1311." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1311.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0311-16.jpg" alt="Thám tử lừng danh Conan chương 1311." title="Thám tử lừng danh Conan chương 1311." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1311.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0311-17.jpg" alt="Thám tử lừng danh Conan chương 1311." title="Thám tử lừng danh Conan chương 1311." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1311.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0311-17.jpg" alt="Thám tử lừng danh Conan chương 1311." title="Thám tử lừng danh Conan chương 1311." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1311.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0311-18.jpg" alt="Thám tử lừng danh Conan chương 1311." title="Thám tử lừng danh Conan chương 1311." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1311.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0311-18.jpg" alt="Thám tử lừng danh Conan chương 1311." title="Thám tử lừng danh Conan chương 1311." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1311.</p></figcaption></figure>
 
 ## Thám tử lừng danh Conan chương 1312
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0312-01.jpg" alt="Thám tử lừng danh Conan chương 1312." title="Thám tử lừng danh Conan chương 1312." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1312.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0312-01.jpg" alt="Thám tử lừng danh Conan chương 1312." title="Thám tử lừng danh Conan chương 1312." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1312.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0312-02.jpg" alt="Thám tử lừng danh Conan chương 1312." title="Thám tử lừng danh Conan chương 1312." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1312.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0312-02.jpg" alt="Thám tử lừng danh Conan chương 1312." title="Thám tử lừng danh Conan chương 1312." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1312.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0312-03.jpg" alt="Thám tử lừng danh Conan chương 1312." title="Thám tử lừng danh Conan chương 1312." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1312.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0312-03.jpg" alt="Thám tử lừng danh Conan chương 1312." title="Thám tử lừng danh Conan chương 1312." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1312.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0312-04.jpg" alt="Thám tử lừng danh Conan chương 1312." title="Thám tử lừng danh Conan chương 1312." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1312.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0312-04.jpg" alt="Thám tử lừng danh Conan chương 1312." title="Thám tử lừng danh Conan chương 1312." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1312.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0312-05.jpg" alt="Thám tử lừng danh Conan chương 1312." title="Thám tử lừng danh Conan chương 1312." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1312.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0312-05.jpg" alt="Thám tử lừng danh Conan chương 1312." title="Thám tử lừng danh Conan chương 1312." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1312.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0312-06.jpg" alt="Thám tử lừng danh Conan chương 1312." title="Thám tử lừng danh Conan chương 1312." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1312.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0312-06.jpg" alt="Thám tử lừng danh Conan chương 1312." title="Thám tử lừng danh Conan chương 1312." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1312.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0312-07.jpg" alt="Thám tử lừng danh Conan chương 1312." title="Thám tử lừng danh Conan chương 1312." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1312.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0312-07.jpg" alt="Thám tử lừng danh Conan chương 1312." title="Thám tử lừng danh Conan chương 1312." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1312.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0312-08.jpg" alt="Thám tử lừng danh Conan chương 1312." title="Thám tử lừng danh Conan chương 1312." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1312.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0312-08.jpg" alt="Thám tử lừng danh Conan chương 1312." title="Thám tử lừng danh Conan chương 1312." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1312.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0312-09.jpg" alt="Thám tử lừng danh Conan chương 1312." title="Thám tử lừng danh Conan chương 1312." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1312.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0312-09.jpg" alt="Thám tử lừng danh Conan chương 1312." title="Thám tử lừng danh Conan chương 1312." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1312.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0312-10.jpg" alt="Thám tử lừng danh Conan chương 1312." title="Thám tử lừng danh Conan chương 1312." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1312.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0312-10.jpg" alt="Thám tử lừng danh Conan chương 1312." title="Thám tử lừng danh Conan chương 1312." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1312.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0312-11.jpg" alt="Thám tử lừng danh Conan chương 1312." title="Thám tử lừng danh Conan chương 1312." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1312.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0312-11.jpg" alt="Thám tử lừng danh Conan chương 1312." title="Thám tử lừng danh Conan chương 1312." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1312.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0312-12.jpg" alt="Thám tử lừng danh Conan chương 1312." title="Thám tử lừng danh Conan chương 1312." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1312.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0312-12.jpg" alt="Thám tử lừng danh Conan chương 1312." title="Thám tử lừng danh Conan chương 1312." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1312.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0312-13.jpg" alt="Thám tử lừng danh Conan chương 1312." title="Thám tử lừng danh Conan chương 1312." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1312.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0312-13.jpg" alt="Thám tử lừng danh Conan chương 1312." title="Thám tử lừng danh Conan chương 1312." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1312.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0312-14.jpg" alt="Thám tử lừng danh Conan chương 1312." title="Thám tử lừng danh Conan chương 1312." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1312.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0312-14.jpg" alt="Thám tử lừng danh Conan chương 1312." title="Thám tử lừng danh Conan chương 1312." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1312.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0312-15.jpg" alt="Thám tử lừng danh Conan chương 1312." title="Thám tử lừng danh Conan chương 1312." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1312.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0312-15.jpg" alt="Thám tử lừng danh Conan chương 1312." title="Thám tử lừng danh Conan chương 1312." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1312.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0312-16.jpg" alt="Thám tử lừng danh Conan chương 1312." title="Thám tử lừng danh Conan chương 1312." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1312.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0312-16.jpg" alt="Thám tử lừng danh Conan chương 1312." title="Thám tử lừng danh Conan chương 1312." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1312.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0312-17.jpg" alt="Thám tử lừng danh Conan chương 1312." title="Thám tử lừng danh Conan chương 1312." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1312.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0312-17.jpg" alt="Thám tử lừng danh Conan chương 1312." title="Thám tử lừng danh Conan chương 1312." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1312.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0312-18.jpg" alt="Thám tử lừng danh Conan chương 1312." title="Thám tử lừng danh Conan chương 1312." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1312.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0312-18.jpg" alt="Thám tử lừng danh Conan chương 1312." title="Thám tử lừng danh Conan chương 1312." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1312.</p></figcaption></figure>
 
 ## Thám tử lừng danh Conan chương 1313
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0313-01.jpg" alt="Thám tử lừng danh Conan chương 1313." title="Thám tử lừng danh Conan chương 1313." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1313.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0313-01.jpg" alt="Thám tử lừng danh Conan chương 1313." title="Thám tử lừng danh Conan chương 1313." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1313.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0313-02.jpg" alt="Thám tử lừng danh Conan chương 1313." title="Thám tử lừng danh Conan chương 1313." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1313.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0313-02.jpg" alt="Thám tử lừng danh Conan chương 1313." title="Thám tử lừng danh Conan chương 1313." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1313.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0313-03.jpg" alt="Thám tử lừng danh Conan chương 1313." title="Thám tử lừng danh Conan chương 1313." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1313.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0313-03.jpg" alt="Thám tử lừng danh Conan chương 1313." title="Thám tử lừng danh Conan chương 1313." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1313.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0313-04.jpg" alt="Thám tử lừng danh Conan chương 1313." title="Thám tử lừng danh Conan chương 1313." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1313.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0313-04.jpg" alt="Thám tử lừng danh Conan chương 1313." title="Thám tử lừng danh Conan chương 1313." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1313.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0313-05.jpg" alt="Thám tử lừng danh Conan chương 1313." title="Thám tử lừng danh Conan chương 1313." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1313.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0313-05.jpg" alt="Thám tử lừng danh Conan chương 1313." title="Thám tử lừng danh Conan chương 1313." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1313.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0313-06.jpg" alt="Thám tử lừng danh Conan chương 1313." title="Thám tử lừng danh Conan chương 1313." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1313.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0313-06.jpg" alt="Thám tử lừng danh Conan chương 1313." title="Thám tử lừng danh Conan chương 1313." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1313.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0313-07.jpg" alt="Thám tử lừng danh Conan chương 1313." title="Thám tử lừng danh Conan chương 1313." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1313.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0313-07.jpg" alt="Thám tử lừng danh Conan chương 1313." title="Thám tử lừng danh Conan chương 1313." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1313.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0313-08.jpg" alt="Thám tử lừng danh Conan chương 1313." title="Thám tử lừng danh Conan chương 1313." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1313.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0313-08.jpg" alt="Thám tử lừng danh Conan chương 1313." title="Thám tử lừng danh Conan chương 1313." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1313.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0313-09.jpg" alt="Thám tử lừng danh Conan chương 1313." title="Thám tử lừng danh Conan chương 1313." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1313.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0313-09.jpg" alt="Thám tử lừng danh Conan chương 1313." title="Thám tử lừng danh Conan chương 1313." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1313.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0313-10.jpg" alt="Thám tử lừng danh Conan chương 1313." title="Thám tử lừng danh Conan chương 1313." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1313.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0313-10.jpg" alt="Thám tử lừng danh Conan chương 1313." title="Thám tử lừng danh Conan chương 1313." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1313.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0313-11.jpg" alt="Thám tử lừng danh Conan chương 1313." title="Thám tử lừng danh Conan chương 1313." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1313.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0313-11.jpg" alt="Thám tử lừng danh Conan chương 1313." title="Thám tử lừng danh Conan chương 1313." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1313.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0313-12.jpg" alt="Thám tử lừng danh Conan chương 1313." title="Thám tử lừng danh Conan chương 1313." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1313.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0313-12.jpg" alt="Thám tử lừng danh Conan chương 1313." title="Thám tử lừng danh Conan chương 1313." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1313.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0313-13.jpg" alt="Thám tử lừng danh Conan chương 1313." title="Thám tử lừng danh Conan chương 1313." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1313.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0313-13.jpg" alt="Thám tử lừng danh Conan chương 1313." title="Thám tử lừng danh Conan chương 1313." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1313.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0313-14.jpg" alt="Thám tử lừng danh Conan chương 1313." title="Thám tử lừng danh Conan chương 1313." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1313.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0313-14.jpg" alt="Thám tử lừng danh Conan chương 1313." title="Thám tử lừng danh Conan chương 1313." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1313.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0313-15.jpg" alt="Thám tử lừng danh Conan chương 1313." title="Thám tử lừng danh Conan chương 1313." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1313.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0313-15.jpg" alt="Thám tử lừng danh Conan chương 1313." title="Thám tử lừng danh Conan chương 1313." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1313.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0313-16.jpg" alt="Thám tử lừng danh Conan chương 1313." title="Thám tử lừng danh Conan chương 1313." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1313.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0313-16.jpg" alt="Thám tử lừng danh Conan chương 1313." title="Thám tử lừng danh Conan chương 1313." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1313.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0313-17.jpg" alt="Thám tử lừng danh Conan chương 1313." title="Thám tử lừng danh Conan chương 1313." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1313.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0313-17.jpg" alt="Thám tử lừng danh Conan chương 1313." title="Thám tử lừng danh Conan chương 1313." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1313.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0313-18.jpg" alt="Thám tử lừng danh Conan chương 1313." title="Thám tử lừng danh Conan chương 1313." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1313.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0313-18.jpg" alt="Thám tử lừng danh Conan chương 1313." title="Thám tử lừng danh Conan chương 1313." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1313.</p></figcaption></figure>
 
 ## Thám tử lừng danh Conan chương 1314
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0314-01.jpg" alt="Thám tử lừng danh Conan chương 1314." title="Thám tử lừng danh Conan chương 1314." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1314.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0314-01.jpg" alt="Thám tử lừng danh Conan chương 1314." title="Thám tử lừng danh Conan chương 1314." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1314.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0314-02.jpg" alt="Thám tử lừng danh Conan chương 1314." title="Thám tử lừng danh Conan chương 1314." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1314.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0314-02.jpg" alt="Thám tử lừng danh Conan chương 1314." title="Thám tử lừng danh Conan chương 1314." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1314.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0314-03.jpg" alt="Thám tử lừng danh Conan chương 1314." title="Thám tử lừng danh Conan chương 1314." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1314.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0314-03.jpg" alt="Thám tử lừng danh Conan chương 1314." title="Thám tử lừng danh Conan chương 1314." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1314.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0314-04.jpg" alt="Thám tử lừng danh Conan chương 1314." title="Thám tử lừng danh Conan chương 1314." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1314.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0314-04.jpg" alt="Thám tử lừng danh Conan chương 1314." title="Thám tử lừng danh Conan chương 1314." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1314.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0314-05.jpg" alt="Thám tử lừng danh Conan chương 1314." title="Thám tử lừng danh Conan chương 1314." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1314.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0314-05.jpg" alt="Thám tử lừng danh Conan chương 1314." title="Thám tử lừng danh Conan chương 1314." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1314.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0314-06.jpg" alt="Thám tử lừng danh Conan chương 1314." title="Thám tử lừng danh Conan chương 1314." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1314.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0314-06.jpg" alt="Thám tử lừng danh Conan chương 1314." title="Thám tử lừng danh Conan chương 1314." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1314.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0314-07.jpg" alt="Thám tử lừng danh Conan chương 1314." title="Thám tử lừng danh Conan chương 1314." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1314.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0314-07.jpg" alt="Thám tử lừng danh Conan chương 1314." title="Thám tử lừng danh Conan chương 1314." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1314.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0314-08.jpg" alt="Thám tử lừng danh Conan chương 1314." title="Thám tử lừng danh Conan chương 1314." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1314.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0314-08.jpg" alt="Thám tử lừng danh Conan chương 1314." title="Thám tử lừng danh Conan chương 1314." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1314.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0314-09.jpg" alt="Thám tử lừng danh Conan chương 1314." title="Thám tử lừng danh Conan chương 1314." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1314.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0314-09.jpg" alt="Thám tử lừng danh Conan chương 1314." title="Thám tử lừng danh Conan chương 1314." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1314.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0314-10.jpg" alt="Thám tử lừng danh Conan chương 1314." title="Thám tử lừng danh Conan chương 1314." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1314.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0314-10.jpg" alt="Thám tử lừng danh Conan chương 1314." title="Thám tử lừng danh Conan chương 1314." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1314.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0314-11.jpg" alt="Thám tử lừng danh Conan chương 1314." title="Thám tử lừng danh Conan chương 1314." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1314.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0314-11.jpg" alt="Thám tử lừng danh Conan chương 1314." title="Thám tử lừng danh Conan chương 1314." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1314.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0314-12.jpg" alt="Thám tử lừng danh Conan chương 1314." title="Thám tử lừng danh Conan chương 1314." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1314.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0314-12.jpg" alt="Thám tử lừng danh Conan chương 1314." title="Thám tử lừng danh Conan chương 1314." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1314.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0314-13.jpg" alt="Thám tử lừng danh Conan chương 1314." title="Thám tử lừng danh Conan chương 1314." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1314.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0314-13.jpg" alt="Thám tử lừng danh Conan chương 1314." title="Thám tử lừng danh Conan chương 1314." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1314.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0314-14.jpg" alt="Thám tử lừng danh Conan chương 1314." title="Thám tử lừng danh Conan chương 1314." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1314.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0314-14.jpg" alt="Thám tử lừng danh Conan chương 1314." title="Thám tử lừng danh Conan chương 1314." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1314.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0314-15.jpg" alt="Thám tử lừng danh Conan chương 1314." title="Thám tử lừng danh Conan chương 1314." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1314.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0314-15.jpg" alt="Thám tử lừng danh Conan chương 1314." title="Thám tử lừng danh Conan chương 1314." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1314.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0314-16.jpg" alt="Thám tử lừng danh Conan chương 1314." title="Thám tử lừng danh Conan chương 1314." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1314.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0314-16.jpg" alt="Thám tử lừng danh Conan chương 1314." title="Thám tử lừng danh Conan chương 1314." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1314.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0314-17.jpg" alt="Thám tử lừng danh Conan chương 1314." title="Thám tử lừng danh Conan chương 1314." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1314.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0314-17.jpg" alt="Thám tử lừng danh Conan chương 1314." title="Thám tử lừng danh Conan chương 1314." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1314.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0314-18.jpg" alt="Thám tử lừng danh Conan chương 1314." title="Thám tử lừng danh Conan chương 1314." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1314.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0314-18.jpg" alt="Thám tử lừng danh Conan chương 1314." title="Thám tử lừng danh Conan chương 1314." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1314.</p></figcaption></figure>
 
 ## Thám tử lừng danh Conan chương 1315
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0315-01.jpg" alt="Thám tử lừng danh Conan chương 1315." title="Thám tử lừng danh Conan chương 1315." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1315.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0315-01.jpg" alt="Thám tử lừng danh Conan chương 1315." title="Thám tử lừng danh Conan chương 1315." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1315.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0315-02.jpg" alt="Thám tử lừng danh Conan chương 1315." title="Thám tử lừng danh Conan chương 1315." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1315.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0315-02.jpg" alt="Thám tử lừng danh Conan chương 1315." title="Thám tử lừng danh Conan chương 1315." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1315.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0315-03.jpg" alt="Thám tử lừng danh Conan chương 1315." title="Thám tử lừng danh Conan chương 1315." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1315.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0315-03.jpg" alt="Thám tử lừng danh Conan chương 1315." title="Thám tử lừng danh Conan chương 1315." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1315.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0315-04.jpg" alt="Thám tử lừng danh Conan chương 1315." title="Thám tử lừng danh Conan chương 1315." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1315.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0315-04.jpg" alt="Thám tử lừng danh Conan chương 1315." title="Thám tử lừng danh Conan chương 1315." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1315.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0315-05.jpg" alt="Thám tử lừng danh Conan chương 1315." title="Thám tử lừng danh Conan chương 1315." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1315.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0315-05.jpg" alt="Thám tử lừng danh Conan chương 1315." title="Thám tử lừng danh Conan chương 1315." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1315.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0315-06.jpg" alt="Thám tử lừng danh Conan chương 1315." title="Thám tử lừng danh Conan chương 1315." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1315.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0315-06.jpg" alt="Thám tử lừng danh Conan chương 1315." title="Thám tử lừng danh Conan chương 1315." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1315.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0315-07.jpg" alt="Thám tử lừng danh Conan chương 1315." title="Thám tử lừng danh Conan chương 1315." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1315.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0315-07.jpg" alt="Thám tử lừng danh Conan chương 1315." title="Thám tử lừng danh Conan chương 1315." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1315.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0315-08.jpg" alt="Thám tử lừng danh Conan chương 1315." title="Thám tử lừng danh Conan chương 1315." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1315.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0315-08.jpg" alt="Thám tử lừng danh Conan chương 1315." title="Thám tử lừng danh Conan chương 1315." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1315.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0315-09.jpg" alt="Thám tử lừng danh Conan chương 1315." title="Thám tử lừng danh Conan chương 1315." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1315.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0315-09.jpg" alt="Thám tử lừng danh Conan chương 1315." title="Thám tử lừng danh Conan chương 1315." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1315.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0315-10.jpg" alt="Thám tử lừng danh Conan chương 1315." title="Thám tử lừng danh Conan chương 1315." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1315.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0315-10.jpg" alt="Thám tử lừng danh Conan chương 1315." title="Thám tử lừng danh Conan chương 1315." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1315.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0315-11.jpg" alt="Thám tử lừng danh Conan chương 1315." title="Thám tử lừng danh Conan chương 1315." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1315.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0315-11.jpg" alt="Thám tử lừng danh Conan chương 1315." title="Thám tử lừng danh Conan chương 1315." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1315.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0315-12.jpg" alt="Thám tử lừng danh Conan chương 1315." title="Thám tử lừng danh Conan chương 1315." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1315.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0315-12.jpg" alt="Thám tử lừng danh Conan chương 1315." title="Thám tử lừng danh Conan chương 1315." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1315.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0315-13.jpg" alt="Thám tử lừng danh Conan chương 1315." title="Thám tử lừng danh Conan chương 1315." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1315.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0315-13.jpg" alt="Thám tử lừng danh Conan chương 1315." title="Thám tử lừng danh Conan chương 1315." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1315.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0315-14.jpg" alt="Thám tử lừng danh Conan chương 1315." title="Thám tử lừng danh Conan chương 1315." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1315.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0315-14.jpg" alt="Thám tử lừng danh Conan chương 1315." title="Thám tử lừng danh Conan chương 1315." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1315.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0315-15.jpg" alt="Thám tử lừng danh Conan chương 1315." title="Thám tử lừng danh Conan chương 1315." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1315.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0315-15.jpg" alt="Thám tử lừng danh Conan chương 1315." title="Thám tử lừng danh Conan chương 1315." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1315.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0315-16.jpg" alt="Thám tử lừng danh Conan chương 1315." title="Thám tử lừng danh Conan chương 1315." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1315.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0315-16.jpg" alt="Thám tử lừng danh Conan chương 1315." title="Thám tử lừng danh Conan chương 1315." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1315.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0315-17.jpg" alt="Thám tử lừng danh Conan chương 1315." title="Thám tử lừng danh Conan chương 1315." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1315.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0315-17.jpg" alt="Thám tử lừng danh Conan chương 1315." title="Thám tử lừng danh Conan chương 1315." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1315.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0315-18.jpg" alt="Thám tử lừng danh Conan chương 1315." title="Thám tử lừng danh Conan chương 1315." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1315.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0315-18.jpg" alt="Thám tử lừng danh Conan chương 1315." title="Thám tử lừng danh Conan chương 1315." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1315.</p></figcaption></figure>
 
 ## Thám tử lừng danh Conan chương 1316
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0316-01.jpg" alt="Thám tử lừng danh Conan chương 1316." title="Thám tử lừng danh Conan chương 1316." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1316.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0316-01.jpg" alt="Thám tử lừng danh Conan chương 1316." title="Thám tử lừng danh Conan chương 1316." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1316.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0316-02.jpg" alt="Thám tử lừng danh Conan chương 1316." title="Thám tử lừng danh Conan chương 1316." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1316.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0316-02.jpg" alt="Thám tử lừng danh Conan chương 1316." title="Thám tử lừng danh Conan chương 1316." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1316.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0316-03.jpg" alt="Thám tử lừng danh Conan chương 1316." title="Thám tử lừng danh Conan chương 1316." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1316.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0316-03.jpg" alt="Thám tử lừng danh Conan chương 1316." title="Thám tử lừng danh Conan chương 1316." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1316.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0316-04.jpg" alt="Thám tử lừng danh Conan chương 1316." title="Thám tử lừng danh Conan chương 1316." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1316.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0316-04.jpg" alt="Thám tử lừng danh Conan chương 1316." title="Thám tử lừng danh Conan chương 1316." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1316.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0316-05.jpg" alt="Thám tử lừng danh Conan chương 1316." title="Thám tử lừng danh Conan chương 1316." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1316.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0316-05.jpg" alt="Thám tử lừng danh Conan chương 1316." title="Thám tử lừng danh Conan chương 1316." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1316.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0316-06.jpg" alt="Thám tử lừng danh Conan chương 1316." title="Thám tử lừng danh Conan chương 1316." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1316.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0316-06.jpg" alt="Thám tử lừng danh Conan chương 1316." title="Thám tử lừng danh Conan chương 1316." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1316.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0316-07.jpg" alt="Thám tử lừng danh Conan chương 1316." title="Thám tử lừng danh Conan chương 1316." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1316.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0316-07.jpg" alt="Thám tử lừng danh Conan chương 1316." title="Thám tử lừng danh Conan chương 1316." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1316.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0316-08.jpg" alt="Thám tử lừng danh Conan chương 1316." title="Thám tử lừng danh Conan chương 1316." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1316.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0316-08.jpg" alt="Thám tử lừng danh Conan chương 1316." title="Thám tử lừng danh Conan chương 1316." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1316.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0316-09.jpg" alt="Thám tử lừng danh Conan chương 1316." title="Thám tử lừng danh Conan chương 1316." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1316.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0316-09.jpg" alt="Thám tử lừng danh Conan chương 1316." title="Thám tử lừng danh Conan chương 1316." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1316.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0316-10.jpg" alt="Thám tử lừng danh Conan chương 1316." title="Thám tử lừng danh Conan chương 1316." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1316.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0316-10.jpg" alt="Thám tử lừng danh Conan chương 1316." title="Thám tử lừng danh Conan chương 1316." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1316.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0316-11.jpg" alt="Thám tử lừng danh Conan chương 1316." title="Thám tử lừng danh Conan chương 1316." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1316.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0316-11.jpg" alt="Thám tử lừng danh Conan chương 1316." title="Thám tử lừng danh Conan chương 1316." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1316.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0316-12.jpg" alt="Thám tử lừng danh Conan chương 1316." title="Thám tử lừng danh Conan chương 1316." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1316.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0316-12.jpg" alt="Thám tử lừng danh Conan chương 1316." title="Thám tử lừng danh Conan chương 1316." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1316.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0316-13.jpg" alt="Thám tử lừng danh Conan chương 1316." title="Thám tử lừng danh Conan chương 1316." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1316.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0316-13.jpg" alt="Thám tử lừng danh Conan chương 1316." title="Thám tử lừng danh Conan chương 1316." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1316.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0316-14.jpg" alt="Thám tử lừng danh Conan chương 1316." title="Thám tử lừng danh Conan chương 1316." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1316.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0316-14.jpg" alt="Thám tử lừng danh Conan chương 1316." title="Thám tử lừng danh Conan chương 1316." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1316.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0316-15.jpg" alt="Thám tử lừng danh Conan chương 1316." title="Thám tử lừng danh Conan chương 1316." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1316.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0316-15.jpg" alt="Thám tử lừng danh Conan chương 1316." title="Thám tử lừng danh Conan chương 1316." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1316.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0316-16.jpg" alt="Thám tử lừng danh Conan chương 1316." title="Thám tử lừng danh Conan chương 1316." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1316.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0316-16.jpg" alt="Thám tử lừng danh Conan chương 1316." title="Thám tử lừng danh Conan chương 1316." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1316.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0316-17.jpg" alt="Thám tử lừng danh Conan chương 1316." title="Thám tử lừng danh Conan chương 1316." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1316.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0316-17.jpg" alt="Thám tử lừng danh Conan chương 1316." title="Thám tử lừng danh Conan chương 1316." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1316.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0316-18.jpg" alt="Thám tử lừng danh Conan chương 1316." title="Thám tử lừng danh Conan chương 1316." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1316.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0316-18.jpg" alt="Thám tử lừng danh Conan chương 1316." title="Thám tử lừng danh Conan chương 1316." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1316.</p></figcaption></figure>
 
 ## Thám tử lừng danh Conan chương 1317
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0317-01.jpg" alt="Thám tử lừng danh Conan chương 1317." title="Thám tử lừng danh Conan chương 1317." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1317.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0317-01.jpg" alt="Thám tử lừng danh Conan chương 1317." title="Thám tử lừng danh Conan chương 1317." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1317.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0317-02.jpg" alt="Thám tử lừng danh Conan chương 1317." title="Thám tử lừng danh Conan chương 1317." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1317.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0317-02.jpg" alt="Thám tử lừng danh Conan chương 1317." title="Thám tử lừng danh Conan chương 1317." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1317.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0317-03.jpg" alt="Thám tử lừng danh Conan chương 1317." title="Thám tử lừng danh Conan chương 1317." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1317.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0317-03.jpg" alt="Thám tử lừng danh Conan chương 1317." title="Thám tử lừng danh Conan chương 1317." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1317.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0317-04.jpg" alt="Thám tử lừng danh Conan chương 1317." title="Thám tử lừng danh Conan chương 1317." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1317.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0317-04.jpg" alt="Thám tử lừng danh Conan chương 1317." title="Thám tử lừng danh Conan chương 1317." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1317.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0317-05.jpg" alt="Thám tử lừng danh Conan chương 1317." title="Thám tử lừng danh Conan chương 1317." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1317.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0317-05.jpg" alt="Thám tử lừng danh Conan chương 1317." title="Thám tử lừng danh Conan chương 1317." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1317.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0317-06.jpg" alt="Thám tử lừng danh Conan chương 1317." title="Thám tử lừng danh Conan chương 1317." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1317.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0317-06.jpg" alt="Thám tử lừng danh Conan chương 1317." title="Thám tử lừng danh Conan chương 1317." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1317.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0317-07.jpg" alt="Thám tử lừng danh Conan chương 1317." title="Thám tử lừng danh Conan chương 1317." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1317.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0317-07.jpg" alt="Thám tử lừng danh Conan chương 1317." title="Thám tử lừng danh Conan chương 1317." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1317.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0317-08.jpg" alt="Thám tử lừng danh Conan chương 1317." title="Thám tử lừng danh Conan chương 1317." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1317.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0317-08.jpg" alt="Thám tử lừng danh Conan chương 1317." title="Thám tử lừng danh Conan chương 1317." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1317.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0317-09.jpg" alt="Thám tử lừng danh Conan chương 1317." title="Thám tử lừng danh Conan chương 1317." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1317.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0317-09.jpg" alt="Thám tử lừng danh Conan chương 1317." title="Thám tử lừng danh Conan chương 1317." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1317.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0317-10.jpg" alt="Thám tử lừng danh Conan chương 1317." title="Thám tử lừng danh Conan chương 1317." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1317.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0317-10.jpg" alt="Thám tử lừng danh Conan chương 1317." title="Thám tử lừng danh Conan chương 1317." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1317.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0317-11.jpg" alt="Thám tử lừng danh Conan chương 1317." title="Thám tử lừng danh Conan chương 1317." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1317.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0317-11.jpg" alt="Thám tử lừng danh Conan chương 1317." title="Thám tử lừng danh Conan chương 1317." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1317.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0317-12.jpg" alt="Thám tử lừng danh Conan chương 1317." title="Thám tử lừng danh Conan chương 1317." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1317.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0317-12.jpg" alt="Thám tử lừng danh Conan chương 1317." title="Thám tử lừng danh Conan chương 1317." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1317.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0317-13.jpg" alt="Thám tử lừng danh Conan chương 1317." title="Thám tử lừng danh Conan chương 1317." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1317.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0317-13.jpg" alt="Thám tử lừng danh Conan chương 1317." title="Thám tử lừng danh Conan chương 1317." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1317.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0317-14.jpg" alt="Thám tử lừng danh Conan chương 1317." title="Thám tử lừng danh Conan chương 1317." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1317.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0317-14.jpg" alt="Thám tử lừng danh Conan chương 1317." title="Thám tử lừng danh Conan chương 1317." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1317.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0317-15.jpg" alt="Thám tử lừng danh Conan chương 1317." title="Thám tử lừng danh Conan chương 1317." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1317.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0317-15.jpg" alt="Thám tử lừng danh Conan chương 1317." title="Thám tử lừng danh Conan chương 1317." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1317.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0317-16.jpg" alt="Thám tử lừng danh Conan chương 1317." title="Thám tử lừng danh Conan chương 1317." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1317.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0317-16.jpg" alt="Thám tử lừng danh Conan chương 1317." title="Thám tử lừng danh Conan chương 1317." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1317.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0317-17.jpg" alt="Thám tử lừng danh Conan chương 1317." title="Thám tử lừng danh Conan chương 1317." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1317.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0317-17.jpg" alt="Thám tử lừng danh Conan chương 1317." title="Thám tử lừng danh Conan chương 1317." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1317.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0317-18.jpg" alt="Thám tử lừng danh Conan chương 1317." title="Thám tử lừng danh Conan chương 1317." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1317.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0317-18.jpg" alt="Thám tử lừng danh Conan chương 1317." title="Thám tử lừng danh Conan chương 1317." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1317.</p></figcaption></figure>
 
 ## Thám tử lừng danh Conan chương 1318
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0318-01.jpg" alt="Thám tử lừng danh Conan chương 1318." title="Thám tử lừng danh Conan chương 1318." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1318.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0318-01.jpg" alt="Thám tử lừng danh Conan chương 1318." title="Thám tử lừng danh Conan chương 1318." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1318.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0318-02.jpg" alt="Thám tử lừng danh Conan chương 1318." title="Thám tử lừng danh Conan chương 1318." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1318.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0318-02.jpg" alt="Thám tử lừng danh Conan chương 1318." title="Thám tử lừng danh Conan chương 1318." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1318.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0318-03.jpg" alt="Thám tử lừng danh Conan chương 1318." title="Thám tử lừng danh Conan chương 1318." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1318.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0318-03.jpg" alt="Thám tử lừng danh Conan chương 1318." title="Thám tử lừng danh Conan chương 1318." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1318.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0318-04.jpg" alt="Thám tử lừng danh Conan chương 1318." title="Thám tử lừng danh Conan chương 1318." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1318.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0318-04.jpg" alt="Thám tử lừng danh Conan chương 1318." title="Thám tử lừng danh Conan chương 1318." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1318.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0318-05.jpg" alt="Thám tử lừng danh Conan chương 1318." title="Thám tử lừng danh Conan chương 1318." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1318.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0318-05.jpg" alt="Thám tử lừng danh Conan chương 1318." title="Thám tử lừng danh Conan chương 1318." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1318.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0318-06.jpg" alt="Thám tử lừng danh Conan chương 1318." title="Thám tử lừng danh Conan chương 1318." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1318.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0318-06.jpg" alt="Thám tử lừng danh Conan chương 1318." title="Thám tử lừng danh Conan chương 1318." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1318.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0318-07.jpg" alt="Thám tử lừng danh Conan chương 1318." title="Thám tử lừng danh Conan chương 1318." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1318.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0318-07.jpg" alt="Thám tử lừng danh Conan chương 1318." title="Thám tử lừng danh Conan chương 1318." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1318.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0318-08.jpg" alt="Thám tử lừng danh Conan chương 1318." title="Thám tử lừng danh Conan chương 1318." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1318.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0318-08.jpg" alt="Thám tử lừng danh Conan chương 1318." title="Thám tử lừng danh Conan chương 1318." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1318.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0318-09.jpg" alt="Thám tử lừng danh Conan chương 1318." title="Thám tử lừng danh Conan chương 1318." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1318.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0318-09.jpg" alt="Thám tử lừng danh Conan chương 1318." title="Thám tử lừng danh Conan chương 1318." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1318.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0318-10.jpg" alt="Thám tử lừng danh Conan chương 1318." title="Thám tử lừng danh Conan chương 1318." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1318.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0318-10.jpg" alt="Thám tử lừng danh Conan chương 1318." title="Thám tử lừng danh Conan chương 1318." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1318.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0318-11.jpg" alt="Thám tử lừng danh Conan chương 1318." title="Thám tử lừng danh Conan chương 1318." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1318.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0318-11.jpg" alt="Thám tử lừng danh Conan chương 1318." title="Thám tử lừng danh Conan chương 1318." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1318.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0318-12.jpg" alt="Thám tử lừng danh Conan chương 1318." title="Thám tử lừng danh Conan chương 1318." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1318.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0318-12.jpg" alt="Thám tử lừng danh Conan chương 1318." title="Thám tử lừng danh Conan chương 1318." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1318.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0318-13.jpg" alt="Thám tử lừng danh Conan chương 1318." title="Thám tử lừng danh Conan chương 1318." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1318.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0318-13.jpg" alt="Thám tử lừng danh Conan chương 1318." title="Thám tử lừng danh Conan chương 1318." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1318.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0318-14.jpg" alt="Thám tử lừng danh Conan chương 1318." title="Thám tử lừng danh Conan chương 1318." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1318.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0318-14.jpg" alt="Thám tử lừng danh Conan chương 1318." title="Thám tử lừng danh Conan chương 1318." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1318.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0318-15.jpg" alt="Thám tử lừng danh Conan chương 1318." title="Thám tử lừng danh Conan chương 1318." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1318.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0318-15.jpg" alt="Thám tử lừng danh Conan chương 1318." title="Thám tử lừng danh Conan chương 1318." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1318.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0318-16.jpg" alt="Thám tử lừng danh Conan chương 1318." title="Thám tử lừng danh Conan chương 1318." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1318.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0318-16.jpg" alt="Thám tử lừng danh Conan chương 1318." title="Thám tử lừng danh Conan chương 1318." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1318.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0318-17.jpg" alt="Thám tử lừng danh Conan chương 1318." title="Thám tử lừng danh Conan chương 1318." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1318.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0318-17.jpg" alt="Thám tử lừng danh Conan chương 1318." title="Thám tử lừng danh Conan chương 1318." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1318.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0318-18.jpg" alt="Thám tử lừng danh Conan chương 1318." title="Thám tử lừng danh Conan chương 1318." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1318.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0318-18.jpg" alt="Thám tử lừng danh Conan chương 1318." title="Thám tử lừng danh Conan chương 1318." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1318.</p></figcaption></figure>
 
 ## Thám tử lừng danh Conan chương 1319
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0319-01.jpg" alt="Thám tử lừng danh Conan chương 1319." title="Thám tử lừng danh Conan chương 1319." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1319.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0319-01.jpg" alt="Thám tử lừng danh Conan chương 1319." title="Thám tử lừng danh Conan chương 1319." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1319.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0319-02.jpg" alt="Thám tử lừng danh Conan chương 1319." title="Thám tử lừng danh Conan chương 1319." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1319.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0319-02.jpg" alt="Thám tử lừng danh Conan chương 1319." title="Thám tử lừng danh Conan chương 1319." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1319.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0319-03.jpg" alt="Thám tử lừng danh Conan chương 1319." title="Thám tử lừng danh Conan chương 1319." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1319.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0319-03.jpg" alt="Thám tử lừng danh Conan chương 1319." title="Thám tử lừng danh Conan chương 1319." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1319.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0319-04.jpg" alt="Thám tử lừng danh Conan chương 1319." title="Thám tử lừng danh Conan chương 1319." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1319.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0319-04.jpg" alt="Thám tử lừng danh Conan chương 1319." title="Thám tử lừng danh Conan chương 1319." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1319.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0319-05.jpg" alt="Thám tử lừng danh Conan chương 1319." title="Thám tử lừng danh Conan chương 1319." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1319.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0319-05.jpg" alt="Thám tử lừng danh Conan chương 1319." title="Thám tử lừng danh Conan chương 1319." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1319.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0319-06.jpg" alt="Thám tử lừng danh Conan chương 1319." title="Thám tử lừng danh Conan chương 1319." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1319.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0319-06.jpg" alt="Thám tử lừng danh Conan chương 1319." title="Thám tử lừng danh Conan chương 1319." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1319.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0319-07.jpg" alt="Thám tử lừng danh Conan chương 1319." title="Thám tử lừng danh Conan chương 1319." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1319.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0319-07.jpg" alt="Thám tử lừng danh Conan chương 1319." title="Thám tử lừng danh Conan chương 1319." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1319.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0319-08.jpg" alt="Thám tử lừng danh Conan chương 1319." title="Thám tử lừng danh Conan chương 1319." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1319.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0319-08.jpg" alt="Thám tử lừng danh Conan chương 1319." title="Thám tử lừng danh Conan chương 1319." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1319.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0319-09.jpg" alt="Thám tử lừng danh Conan chương 1319." title="Thám tử lừng danh Conan chương 1319." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1319.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0319-09.jpg" alt="Thám tử lừng danh Conan chương 1319." title="Thám tử lừng danh Conan chương 1319." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1319.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0319-10.jpg" alt="Thám tử lừng danh Conan chương 1319." title="Thám tử lừng danh Conan chương 1319." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1319.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0319-10.jpg" alt="Thám tử lừng danh Conan chương 1319." title="Thám tử lừng danh Conan chương 1319." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1319.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0319-11.jpg" alt="Thám tử lừng danh Conan chương 1319." title="Thám tử lừng danh Conan chương 1319." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1319.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0319-11.jpg" alt="Thám tử lừng danh Conan chương 1319." title="Thám tử lừng danh Conan chương 1319." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1319.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0319-12.jpg" alt="Thám tử lừng danh Conan chương 1319." title="Thám tử lừng danh Conan chương 1319." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1319.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0319-12.jpg" alt="Thám tử lừng danh Conan chương 1319." title="Thám tử lừng danh Conan chương 1319." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1319.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0319-13.jpg" alt="Thám tử lừng danh Conan chương 1319." title="Thám tử lừng danh Conan chương 1319." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1319.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0319-13.jpg" alt="Thám tử lừng danh Conan chương 1319." title="Thám tử lừng danh Conan chương 1319." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1319.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0319-14.jpg" alt="Thám tử lừng danh Conan chương 1319." title="Thám tử lừng danh Conan chương 1319." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1319.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0319-14.jpg" alt="Thám tử lừng danh Conan chương 1319." title="Thám tử lừng danh Conan chương 1319." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1319.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0319-15.jpg" alt="Thám tử lừng danh Conan chương 1319." title="Thám tử lừng danh Conan chương 1319." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1319.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0319-15.jpg" alt="Thám tử lừng danh Conan chương 1319." title="Thám tử lừng danh Conan chương 1319." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1319.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0319-16.jpg" alt="Thám tử lừng danh Conan chương 1319." title="Thám tử lừng danh Conan chương 1319." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1319.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0319-16.jpg" alt="Thám tử lừng danh Conan chương 1319." title="Thám tử lừng danh Conan chương 1319." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1319.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0319-17.jpg" alt="Thám tử lừng danh Conan chương 1319." title="Thám tử lừng danh Conan chương 1319." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1319.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0319-17.jpg" alt="Thám tử lừng danh Conan chương 1319." title="Thám tử lừng danh Conan chương 1319." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1319.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0319-18.jpg" alt="Thám tử lừng danh Conan chương 1319." title="Thám tử lừng danh Conan chương 1319." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1319.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0319-18.jpg" alt="Thám tử lừng danh Conan chương 1319." title="Thám tử lừng danh Conan chương 1319." height=100% width=100%><figcaption><p>Thám tử lừng danh Conan chương 1319.</p></figcaption></figure>
 
 ## Tìm hiểu về truyện tranh Thám tử lừng danh Conan
 
@@ -418,4 +418,4 @@ Ngoài ra, nhavantuonglai thường xuyên tổ chức các sự kiện trực t
 
 Thám tử lừng danh Conan không chỉ là một bộ truyện tranh đơn thuần mà còn là một hiện tượng văn hóa có sức ảnh hưởng sâu rộng. Với cốt truyện hấp dẫn, những vụ án gay cấn và thông điệp ý nghĩa về công lý, series này đã và đang tiếp tục thu hút độc giả ở mọi lứa tuổi. Việc lựa chọn nhavantuonglai làm nền tảng để thưởng thức bộ truyện này là một quyết định sáng suốt, giúp bạn có được trải nghiệm đọc truyện tốt nhất với chất lượng hình ảnh cao, bản dịch chuyên nghiệp và nhiều tính năng tiện ích. Hãy bắt đầu hành trình khám phá thế giới của Conan ngay hôm nay và đắm chìm trong những câu chuyện trinh thám đầy lý thú này.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-131.jpg" alt="Thám tử lừng danh Conan tập 131." title="Thám tử lừng danh Conan tập 131." height=108% width=108%><figcaption><p>Conan tập 131.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-131.jpg" alt="Thám tử lừng danh Conan tập 131." title="Thám tử lừng danh Conan tập 131." height=108% width=108%><figcaption><p>Conan tập 131.</p></figcaption></figure>

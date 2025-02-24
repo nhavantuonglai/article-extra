@@ -3,7 +3,7 @@ pubDatetime: 2022-10-06T10:10:00Z
 title: Bài viết trên Instagram ngày 06 tháng 10 năm 2022
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-321.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-321.jpg
 tags:
   - viet lach
   - doan van
@@ -22,4 +22,4 @@ nhưng cũng rõ không kém, là chẳng ai muốn liên can đến cái chết
 
 dù không hệ thống hoá được giải pháp ấy, nhưng may mắn khi mình đã rủ bạn đợi xem xong Endgame (2019) rồi hẵng nghĩ đến chuyện bạn muốn. may mắn là vì, theo thời gian thì kế hoạch bạn nghĩ dần không cần thiết, và như đoạn mở đầu câu chuyện – tụi mình vẫn thân thiết như ngày nào.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-316.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-316.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

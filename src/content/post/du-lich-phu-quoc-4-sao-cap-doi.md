@@ -3,7 +3,7 @@ pubDatetime: 2021-09-15T10:10:00Z
 title: Top 5 khách sạn 4 sao Phú Quốc cho cặp đôi
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
 featured: false
-image: https://banmaixanh.org/image/cover/001-656.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-656.jpg
 tags:
   - viet thue
   - marketing
@@ -82,4 +82,4 @@ Wings Bungalow cách thị trấn tầm 3km, cách sân bay khoảng 6km. Wings 
 
 Nhân viên tại đây rất thân thiện, lịch sự và luôn hỗ trợ bạn. Nhân viên sử dụng tiếng Anh giao tiếp lưu loát mang lại sự hài lòng đối với du khách quốc tế.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-510.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-510.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

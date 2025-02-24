@@ -3,7 +3,7 @@ pubDatetime: 2022-12-23T10:10:00Z
 title: Giếng thở than
 description: Montague Rhodes James là tác giả nổi tiếng với những truyện ma kinh điển tiếng Anh, trong đó có tác phẩm Giếng thở than.
 featured: false
-image: https://banmaixanh.org/image/cover/001-600.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-600.jpg
 tags:
   - montague rhodes james
   - gieng tho than
@@ -84,4 +84,4 @@ Montague Rhodes James được đánh giá là cha đẻ của các thể loại
 
 Đọc [Giếng thở than, toàn tập](https://banmaixanh.org/ebook/gieng-tho-than.pdf) tại đây.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-429.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-429.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

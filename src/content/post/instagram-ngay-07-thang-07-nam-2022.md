@@ -3,7 +3,7 @@ pubDatetime: 2022-07-07T10:10:00Z
 title: Bài viết trên Instagram ngày 07 tháng 07 năm 2022
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-121.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-121.jpg
 tags:
   - viet lach
   - doan van
@@ -26,4 +26,4 @@ hiện tại, được chú ý và coi trọng. ở ngoài xã hội, giới tí
 
 vậy tiếp theo, sẽ là gì? sự hiện diện của Trần Đức Bo là câu trả lời. mình không chấp nhận được cậu ấy, bởi thật lố lăng, gây khó chịu. nhưng nếu, người khác chấp nhận được thì sẽ ra sao? họ sẽ xem đó là bình thường nhỉ. nếu Trần Đức Bo được chấp nhận, thì những người trong cộng đồng, cũng như thế nhỉ? đó là hành trình dài, phức tạp khác mà người trong cộng đồng LGBT cần kiên trì theo đuổi – để biến những bất thường thành bình thường.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

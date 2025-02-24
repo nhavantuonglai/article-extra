@@ -3,7 +3,7 @@ pubDatetime: 2021-04-04T10:10:00Z
 title: Tầm quan trọng của cover letter
 description: Khi nói đến việc tìm việc, hầu hết mọi người tập trung vào việc hoàn thiện sơ yếu lý lịch của họ và quên đi cover letter. Tuy nhiên, cover letter là một phần thiết yếu của quá trình tìm việc và có thể tạo ra tác động đáng kể đến cơ hội được tuyển dụng của bạn.
 featured: false
-image: https://banmaixanh.org/image/cover/001-357.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-357.jpg
 tags:
   - viet lach
   - ky nang viet
@@ -101,4 +101,4 @@ Mặc dù nhiều người có thể tin rằng cover letter không còn cần t
 
 Bằng cách nghiên cứu công ty và vị trí, giữ cho cover letter của bạn ngắn gọn và có liên quan, tùy chỉnh nó cho từng công việc và sử dụng giọng điệu chuyên nghiệp, bạn có thể viết một lá cover letter hiệu quả sẽ gây ấn tượng với nhà tuyển dụng tiềm năng và tăng cơ hội được tuyển dụng.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-306.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-306.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

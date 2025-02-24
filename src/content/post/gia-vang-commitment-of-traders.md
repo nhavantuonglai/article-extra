@@ -3,7 +3,7 @@ pubDatetime: 2021-11-15T10:10:00Z
 title: Commitment of Traders là gì và ảnh hưởng của nó đến biểu đồ giá vàng ra sao?
 description: Chuỗi bài viết của nhavantuonglai về kinh doanh vàng bạc đá quý và quỹ đầu tư sẽ giúp nhà đầu tư khởi nghiệp hiệu quả.
 featured: false
-image: https://banmaixanh.org/image/cover/001-499.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-499.jpg
 tags:
   - viet thue
   - marketing
@@ -100,4 +100,4 @@ Cho nên, với những nhà đầu tư chuyên nghiệp, sự biến động c�
 
 Như vậy, COT là một chỉ số rất quan trọng mà các nhà đầu tư cần lưu tâm theo dõi khi phân tích giá vàng. Bởi những thông tin mà nhà đầu tư có được từ COT, sẽ giúp việc chốt lời, thanh khoản diễn ra hợp lý hơn. Để rồi từ đó, các nhà đầu tư sẽ biết chắc chắn lúc nào nên chốt lời, lúc nào nên thanh khoản đầu tư cho phù hợp.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-317.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-317.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

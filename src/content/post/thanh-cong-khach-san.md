@@ -3,7 +3,7 @@ pubDatetime: 2022-07-20T10:10:00Z
 title: Để khởi nghiệp khách sạn thành công trong năm 2025
 description: Bạn đang muốn khởi nghiệp trong lĩnh vực khách sạn nhưng không biết bắt đầu từ đâu? Quy trình này có thể khá choáng ngợp, đặc biệt khi bạn bắt đầu từ con số 0.
 featured: false
-image: https://banmaixanh.org/image/cover/001-279.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-279.jpg
 tags:
   - viet thue
   - marketing
@@ -124,4 +124,4 @@ Kinh doanh khách sạn là một ngành phức tạp với nhiều yếu tố l
 
 Thời gian để thu hồi hoàn toàn khoản đầu tư ban đầu sẽ phụ thuộc vào việc bạn mua, thuê, hay xây dựng khách sạn từ đầu. Thông thường, bạn có thể bắt đầu thu lợi nhuận sau một vài năm. Thành công cũng phụ thuộc vào việc có một kế hoạch kinh doanh mạnh mẽ từ đầu và khả năng thích ứng với các tình huống thay đổi khi chúng xảy ra.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-210.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-210.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>

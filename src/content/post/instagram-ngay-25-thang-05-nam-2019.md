@@ -3,7 +3,7 @@ pubDatetime: 2019-05-07T10:10:00Z
 title: Bài viết trên Instagram ngày 25 tháng 05 năm 2019
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-343.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-343.jpg
 tags:
   - viet lach
   - doan van
@@ -20,4 +20,4 @@ Keanu Reeves là người trả lời cho mình tại sao dư âm ấy 
 
 đoạn ấy, mình không còn buồn bã với điều ai đó đã nói. bởi khi chúng ta lớn, điều vĩnh viễn mất đi, chỉ là thân xác chỉ là hình hài. điều vĩnh viễn còn tồn tại, chính là ký ức, là kỷ niệm – những điều mà khi càng lớn, càng được củng cố và càng sâu sắc dần theo năm tháng…
 
-<figure><img src="https://banmaixanh.org/image/cover/001-336.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-336.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

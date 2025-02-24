@@ -3,7 +3,7 @@ pubDatetime: 2024-06-10T10:10:00Z
 title: Bài viết trên Instagram ngày 10 tháng 07 năm 2020
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-324.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-324.jpg
 tags:
   - viet lach
   - doan van
@@ -22,4 +22,4 @@ mùa hè miền Trung có đặc sản là gió Lào, thổi giữa trưa hè l�
 
 những mùa hè tuổi thơ của mình trôi qua như thế, trôi đi cùng sự cơ cực của một thế hệ suốt đời chỉ làm nông, chăm chỉ và mãi mê với ruộng vườn nương rẫy; trôi theo cùng những cơn gió khô rít qua phên cửa mỏng, luồn vào trong cánh quạt mà phả thẳng vào mặt làm giật mình tỉnh giấc mơ trưa, để thấy chén chè đậu để một bên lặng lẽ nguội từ bao giờ.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-310.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-310.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

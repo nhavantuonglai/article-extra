@@ -3,7 +3,7 @@ pubDatetime: 2024-05-07T10:10:00Z
 title: Bài viết trên Instagram ngày 07 tháng 05 năm 2024
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-323.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-323.jpg
 tags:
   - viet lach
   - doan van
@@ -20,4 +20,4 @@ thêm lần công bằng mà nói thì, những chốn mình chọn trong nhữn
 
 dẫu rằng khi bước qua thành phố mới và làm quen với mọi điều của nơi ấy ngay lúc đầu, cảm giác thân thuộc và thoải mái luôn được mình ưu tiên chọn khi muốn đến nơi nào đó, nhưng chẳng có gì đáng phải phàn nàn khi bước ra khỏi vùng an toàn của những lựa chọn ấy để thử nhìn vào thành phố đang số theo một cách khác, bớt nhẹ nhàng và nhiều màu sắc hơn.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-121.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-121.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

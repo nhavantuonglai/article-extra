@@ -3,7 +3,7 @@ pubDatetime: 2024-02-05T10:10:00Z
 title: Tìm hiểu về ngôi thứ ba hạn chế trong viết lách
 description: Ngôi thứ ba hạn chế là một ngôi kể trong văn học nơi người kể chuyện không phải là một nhân vật trong câu chuyện mà là một người ngoài cuộc.
 featured: false
-image: https://banmaixanh.org/image/cover/001-233.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-233.jpg
 tags:
   - viet lach
   - ky nang viet
@@ -29,7 +29,7 @@ Ngôi kể thứ ba hạn chế cho phép câu chuyện phát triển xung quanh
 
 – Tăng cường sự bí ẩn: Với sự hạn chế thông tin, ngôi kể này có thể tạo ra yếu tố bí ẩn và sự hồi hộp, khi người đọc chỉ biết những gì mà nhân vật chính biết.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-058.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-058.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Khi nào sử dụng ngôi kể thứ ba hạn chế
 
@@ -49,7 +49,7 @@ Ngôi kể thứ ba hạn chế ảnh hưởng sâu sắc đến phong cách vă
 
 – Tập trung vào nhân vật: Ngôi kể này cho phép tác giả tập trung sâu vào sự phát triển của một nhân vật, giúp xây dựng nhân vật một cách chi tiết và phong phú.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-051.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-051.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Cách thể hiện ngôi kể thứ ba hạn chế trong văn học
 
@@ -61,7 +61,7 @@ Ngôi kể thứ ba hạn chế ảnh hưởng sâu sắc đến phong cách vă
 
 – Sử dụng ngôn ngữ phù hợp: Ngôn ngữ và giọng điệu của câu chuyện cần phù hợp với góc nhìn và tính cách của nhân vật chính.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-052.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-052.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Cách xây dựng nhân vật ngôi kể thứ ba hạn chế trong viết lách
 
@@ -73,7 +73,7 @@ Xây dựng nhân vật ngôi kể thứ ba hạn chế đòi hỏi sự tinh t�
 
 – Kết nối với cốt truyện: Nhân vật cần có mối liên hệ chặt chẽ với cốt truyện, mỗi hành động và quyết định của nhân vật cần góp phần vào sự phát triển của câu chuyện.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-054.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-054.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Cách khai thác ngôi kể thứ ba hạn chế hiệu quả?
 
@@ -85,7 +85,7 @@ Xây dựng nhân vật ngôi kể thứ ba hạn chế đòi hỏi sự tinh t�
 
 – Phản ánh tâm lý nhân vật: Tác giả cần phản ánh tâm lý và cảm xúc của nhân vật một cách chân thực, giúp người đọc dễ dàng đồng cảm và hiểu được nhân vật.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-056.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-056.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Mẹo để thành thạo ngôi kể thứ ba hạn chế
 
@@ -110,7 +110,7 @@ Việc tìm cảm hứng và ý tưởng khi viết ngôi kể thứ ba hạn ch
 
 – Sáng tạo tình huống: Tạo ra những tình huống thú vị và kịch tính, giúp nhân vật phát triển và câu chuyện trở nên hấp dẫn hơn.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-057.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-057.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Ví dụ về ngôi kể thứ ba hạn chế
 
@@ -146,4 +146,4 @@ Sal đứng trước một nhóm bạn thân nhất của Robert, bao quanh bở
 
 Ngôi kể thứ ba hạn chế là một ngôi kể độc đáo và đầy tiềm năng trong viết lách. Bằng cách sử dụng ngôi kể này, tác giả có thể tạo ra những câu chuyện gần gũi, hấp dẫn và đầy yếu tố bất ngờ. Việc hiểu và áp dụng linh hoạt các kỹ thuật viết lách sẽ giúp tác giả khai thác hiệu quả ngôi kể thứ ba hạn chế, tạo ra những tác phẩm văn học độc đáo và phong phú.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-514.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-514.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

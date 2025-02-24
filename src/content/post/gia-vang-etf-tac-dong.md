@@ -3,7 +3,7 @@ pubDatetime: 2021-11-24T10:10:00Z
 title: Tác động của quỹ ETF vào biểu đồ giá vàng
 description: Chuỗi bài viết của nhavantuonglai về kinh doanh vàng bạc đá quý và quỹ đầu tư sẽ giúp nhà đầu tư khởi nghiệp hiệu quả.
 featured: false
-image: https://banmaixanh.org/image/cover/001-349.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-349.jpg
 tags:
   - viet thue
   - marketing
@@ -82,4 +82,4 @@ Hiểu và biết tận dụng những sự thay đổi của biểu đồ giá 
 
 Do vậy, chúng ta cũng hẳn đã hình dung sức ảnh hưởng và ưu điểm của quỹ ETF với biểu đồ giá vàng. Rõ ràng, biểu đồ giá vàng vừa chịu ảnh hưởng bởi sự thay đổi của nguồn quỹ ETF. Và cũng từ nó mà việc đầu tư vào vàng trở nên đa dạng, linh động hơn rất nhiều.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-310.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-310.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

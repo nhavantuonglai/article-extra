@@ -3,7 +3,7 @@ pubDatetime: 2019-04-07T10:10:00Z
 title: Bài viết trên Instagram ngày 25 tháng 04 năm 2019
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - viet lach
   - doan van
@@ -20,4 +20,4 @@ những dịp về, chị cứ nói tranh thủ chút thời gian đe�
 
 đoạn trước chạy về, chị em nói chuyện được một chút rồi lấy máy ảnh ra chụp, ảnh này là chị xin phá ảnh, lần đầu cầm máy nên mình phải căn, chỉ từng chút rồi để chị bấm, may sao mọi thứ vẫn rõ ràng và đẹp đẽ – y như quán Phủi vậy.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-182.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-182.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

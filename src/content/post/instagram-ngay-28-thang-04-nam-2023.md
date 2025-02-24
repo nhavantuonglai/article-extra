@@ -3,7 +3,7 @@ pubDatetime: 2023-04-28T10:10:00Z
 title: Bài viết trên Instagram ngày 28 tháng 04 năm 2023
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-157.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-157.jpg
 tags:
   - viet lach
   - doan van
@@ -22,4 +22,4 @@ dù thế, không phải ai, lúc nào thì mọi chuyện cũng diễn ra đư�
 
 vốn dĩ, sự tồn tại của mình trong 5 năm trước hay ở hiện tại đều không gắn liền vai trò với chiếc phao cứu sinh, bởi mình chẳng làm được gì cả. mình chỉ là người xuất hiện ở đó, phát ra tín hiệu để các bạn mình không chơi vơi trong cô độc, và biết giữa thế giới thực ngoài kia và thế giới bên trong có sợi dây kết nối do mình tạo nên.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

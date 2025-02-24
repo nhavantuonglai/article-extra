@@ -3,7 +3,7 @@ pubDatetime: 2023-01-09T10:10:00Z
 title: Lời khuyên từ các giám đốc đào tạo để thích nghi với thời đại AI
 description: Trong cuộc khảo sát Tương lai việc làm năm 2023, chúng tôi đã hỏi các công ty rằng nhân viên sẽ cần những kỹ năng nào trong năm năm tới và họ sẽ chi tiền vào việc gì khi đào tạo nhân viên?
 featured: false
-image: https://banmaixanh.org/image/cover/001-229.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-229.jpg
 tags:
   - ai
   - xu huong cong nghe
@@ -60,4 +60,4 @@ Shannon Custard: Trong IKEA Retail, chúng tôi có một phong trào hiểu bi�
 
 Simon Brown: L&D tại Novartis đang hợp tác với các bên chủ chốt khác trong việc triển khai AI tạo ra trong toàn tổ chức (ví dụ: Chiến lược, CNTT, Rủi ro, Nhân sự). Phân khúc đối tượng rất quan trọng, vì có những nhu cầu khác nhau cho các đối tượng khác nhau. Các nhà lãnh đạo có thể cần hiểu biết về tác động chiến lược của AI tạo ra và cách nó có thể thay đổi năng suất hoặc tương lai của sản phẩm hoặc thị trường. Những người khác có thể cần hiểu khả năng ứng dụng của Generative AI để thực hiện các nhiệm vụ chính và thúc đẩy hiệu quả, tốc độ và tạo ra giá trị mới. Nhiều người có thể cần biết cách tận dụng tối đa các công cụ mới và việc sử dụng phát triển nhanh chóng trong các sản phẩm như Generative AI _đồng thí điểm._ Mọi người sẽ cần hiểu Generative AI là gì, tiềm năng của nó để ảnh hưởng đến tương lai của công việc và cách quản lý rủi ro liên quan đến nó.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-281.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-281.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

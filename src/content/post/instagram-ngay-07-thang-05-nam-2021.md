@@ -3,7 +3,7 @@ pubDatetime: 2021-05-07T10:10:00Z
 title: Bài viết trên Instagram ngày 07 tháng 05 năm 2021
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - viet lach
   - doan van
@@ -20,4 +20,4 @@ rồi mình cũng nam tiến, vào Sài Gòn. khi dừng chân ở đây, bạn 
 
 nay mình trở lại Đà Nẵng, con đường cũ của 3 năm trước, chò vẫn còn đó và rụng nhiều. chỉ khác là người ta quét gom lại một đám nhỏ bên góc đường. mình đi ngang thấy vậy rồi cũng lướt đi, vô tình như chưa từng có ký ức về chúng…
 
-<figure><img src="https://banmaixanh.org/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

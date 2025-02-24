@@ -3,7 +3,7 @@ pubDatetime: 2023-10-25T10:10:00Z
 title: 10 cách bảo mật dữ liệu, thông tin cá nhân trên mạng hiệu quả nhất 2024
 description: Dưới đây là 10 cách bảo mật dữ liệu, thông tin cá nhân trên mạng hiệu quả nhất 2024 để bảo vệ tốt bản thân trên mạng và tránh những rủi ro không đáng có.
 featured: false
-image: https://banmaixanh.org/image/cover/001-548.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-548.jpg
 tags:
   - viet lach
   - developer
@@ -99,4 +99,4 @@ Sử dụng phần mềm diệt virus uy tín là một trong những cách quan
 
 Những phương pháp này sẽ giúp bạn tăng cường bảo mật dữ liệu, thông tin cá nhân trong thời đại số và giảm thiểu nguy cơ bị tấn công hoặc lừa đảo. Bằng cách thực hiện các biện pháp phòng ngừa này, bạn có thể bảo vệ dữ liệu, thông tin cá nhân của mình khỏi các mối đe dọa trên mạng và duy trì an toàn trong môi trường trực tuyến.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-114.jpg" alt="Bảo vệ dữ liệu, thông tin cá nhân trên mạng." title="Bảo vệ dữ liệu, thông tin cá nhân trên mạng." height=100% width=100%><figcaption><p>Bảo vệ dữ liệu, thông tin cá nhân trên mạng.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-114.jpg" alt="Bảo vệ dữ liệu, thông tin cá nhân trên mạng." title="Bảo vệ dữ liệu, thông tin cá nhân trên mạng." height=100% width=100%><figcaption><p>Bảo vệ dữ liệu, thông tin cá nhân trên mạng.</p></figcaption></figure>

@@ -3,7 +3,7 @@ pubDatetime: 2025-01-12T10:10:00Z
 title: Hướng dẫn đầy đủ về quy định và quy tắc khách sạn
 description: Bạn càng chủ động, bạn càng an toàn. Có một số biện pháp đơn giản mà các nhà quản lý khách sạn có thể thực hiện để bảo vệ bản thân, doanh nghiệp và khách hàng của mình – hãy cùng khám phá chúng.
 featured: false
-image: https://banmaixanh.org/image/cover/001-747.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-747.jpg
 tags:
   - viet thue
   - marketing
@@ -73,4 +73,4 @@ Nếu phòng khách sạn không được thiết kế riêng để có bếp nh
 
 Chúng ta đã cùng tìm hiểu về quy định và quy tắc khách sạn, tại sao chúng quan trọng, và một số quy định phổ biến. Là một người quản lý khách sạn, trách nhiệm của bạn là đảm bảo an toàn cho khách hàng và nhân viên, đồng thời duy trì một môi trường sạch sẽ, trật tự và thoải mái dựa trên sự tôn trọng lẫn nhau. Quy định càng rõ ràng, thì việc thực thi thỏa thuận giữa khách sạn và khách hàng sẽ càng dễ dàng hơn.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-518.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-518.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>

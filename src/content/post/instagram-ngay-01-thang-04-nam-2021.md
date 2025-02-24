@@ -3,7 +3,7 @@ pubDatetime: 2021-01-07T10:10:00Z
 title: Bài viết trên Instagram ngày 01 tháng 04 năm 2021
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - viet lach
   - doan van
@@ -20,4 +20,4 @@ bởi nếu chúng ta ý thức về sự không tốt khi ở lại trong vòng
 
 nói như vậy để chia sẻ một điều rằng, đừng quá tự ti nếu bạn không dám bước ra khỏi vòng an toàn mà mình có; và cũng đừng tự hào vì đã sẵn sàng rời đi mà không chớp mắt. vì ở từng nơi mà bạn chọn, đều sẽ có vẻ đẹp và vấn đề trong giá trị mà chọn đã chọn để theo đuổi…
 
-<figure><img src="https://banmaixanh.org/image/cover/001-132.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-132.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

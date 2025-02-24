@@ -3,7 +3,7 @@ pubDatetime: 2023-04-16T10:10:00Z
 title: 8 thách thức chính khi bảo vệ dữ liệu khách sạn trong năm 2025
 description: Bảo vệ dữ liệu khách sạn là một nhiệm vụ khó khăn, đặc biệt khi hoạt động của khách sạn ngày càng trở nên số hóa hơn.
 featured: false
-image: https://banmaixanh.org/image/cover/001-551.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-551.jpg
 tags:
   - viet thue
   - marketing
@@ -25,7 +25,7 @@ Dữ liệu khách sạn có nhiều ứng dụng, từ tối ưu dịch vụ, c
 
 Hãy tưởng tượng khách sạn của bạn trở thành nạn nhân của một cuộc tấn công mạng. Điều gì sẽ xảy ra sau đó là việc quản lý khủng hoảng nghiêm trọng và các chiến dịch PR để cải thiện danh tiếng của bạn. Ngoài ra, còn có nguy cơ bị phạt và mất lợi nhuận do phải tạm dừng hoạt động để xử lý sự cố rò rỉ dữ liệu hoặc phải trả tiền cho luật sư để giải quyết một vụ kiện tiềm năng.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-059.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-059.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## 8 thách thức bảo vệ dữ liệu trong ngành khách sạn
 
@@ -47,7 +47,7 @@ Nhân viên hoặc bất kỳ ai có quyền truy cập vào hệ thống và d�
 
 Vì lý do này, hãy ưu tiên việc đào tạo nhân viên và hạn chế quyền truy cập mà không có xác thực đúng mức. Hãy cố gắng chỉ cho phép một số ít người có quyền truy cập vào thông tin quan trọng. Nhân viên càng nhận thức rõ về các giao thức bảo mật mạng, việc tránh các mối đe dọa từ bên trong càng dễ dàng hơn.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-060.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-060.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Thiết bị di động
 
@@ -71,7 +71,7 @@ Nhiều hệ thống trong ngành khách sạn được thuê ngoài – POS, PM
 
 Dữ liệu chắc chắn có vòng đời của nó. Một số khách sẽ không bao giờ quay lại với bạn, trong khi những người khác có thể chọn hủy bỏ quyền dữ liệu của họ. Do đó, bạn phải có một cách rõ ràng và an toàn để tiêu hủy thông tin nhạy cảm một cách thành công. Quy trình thu thập, lưu trữ, giữ lại và tiêu hủy dữ liệu phải được xác định rõ ràng để bạn có thể giảm thiểu rủi ro rò rỉ dữ liệu.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-061.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-061.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Kết luận
 
@@ -79,4 +79,4 @@ Chúng ta đã xem xét tầm quan trọng của việc bảo vệ dữ liệu k
 
 Là một khách sạn, bạn cũng nên thường xuyên thay đổi mật khẩu và sao lưu dữ liệu quan trọng. Bằng cách liên tục giám sát sự an toàn của dữ liệu, bạn đang bảo vệ danh tiếng của khách sạn.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-314.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-314.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>

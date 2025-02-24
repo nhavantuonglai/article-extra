@@ -3,7 +3,7 @@ pubDatetime: 2023-02-22T10:10:00Z
 title: Bài viết trên Instagram ngày 22 tháng 02 năm 2023
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - viet lach
   - doan van
@@ -22,4 +22,4 @@ và vì tốn quá nhiều thời gian để làm được, mình quyết địn
 
 nên khi một ai đó hỏi, liệu có nên phát triển sự nghiệp theo niềm đam mê không, mình vẫn thường khuyến khích là không, trừ khi biết họ đủ giỏi hoặc đủ kiên định để không dễ bỏ cuộc giữa chừng. còn những ai như mình, khi chưa đủ giỏi như những gì mình nghĩ, thì hãy nên thôi, hãy nên giữ chúng riêng một góc và tìm kiếm một thứ gì đó có thể làm tốt hơn.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

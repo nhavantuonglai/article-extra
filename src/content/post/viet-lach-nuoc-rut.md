@@ -3,7 +3,7 @@ pubDatetime: 2024-02-12T10:10:00Z
 title: Viết nước rút (writing sprints) là gì?
 description: Viết nước rút, hay writing sprints, là một phương pháp viết lách hiệu quả giúp nhà văn tăng năng suất.
 featured: false
-image: https://banmaixanh.org/image/cover/001-532.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-532.jpg
 tags:
   - viet lach
   - ky nang viet
@@ -22,7 +22,7 @@ Viết nước rút, hay còn gọi là writing sprints, là một kỹ thuật 
 
 Khái niệm này không chỉ hữu ích cho các nhà văn chuyên nghiệp mà còn cho các blogger, sinh viên, và bất kỳ ai cần hoàn thành một lượng lớn văn bản trong một thời gian giới hạn. Viết nước rút có thể được thực hiện một mình hoặc trong nhóm, và thường được hỗ trợ bởi các công cụ và kỹ thuật khác nhau để giúp người viết duy trì sự tập trung và động lực.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-110.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-110.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Viết nước rút có lợi cho nhà văn như thế nào?
 
@@ -36,7 +36,7 @@ Khái niệm này không chỉ hữu ích cho các nhà văn chuyên nghiệp m�
 
 – Cải thiện sự tập trung: Viết nước rút đòi hỏi bạn phải tập trung cao độ trong suốt khoảng thời gian viết. Điều này giúp cải thiện khả năng tập trung của bạn và có thể áp dụng vào các công việc khác.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-111.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-111.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Làm thế nào để viết nước rút hiệu quả?
 
@@ -54,7 +54,7 @@ Khái niệm này không chỉ hữu ích cho các nhà văn chuyên nghiệp m�
 
 – Tham gia cộng đồng viết lách: Tham gia vào các nhóm viết lách hoặc các sự kiện viết nước rút trực tuyến. Việc này không chỉ giúp bạn có thêm động lực mà còn cung cấp cơ hội để chia sẻ kinh nghiệm và học hỏi từ những người khác.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-112.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-112.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Các lưu ý khi viết nước rút
 
@@ -74,8 +74,8 @@ Khái niệm này không chỉ hữu ích cho các nhà văn chuyên nghiệp m�
 
 Viết nước rút, hay writing sprints, là một phương pháp viết lách hiệu quả giúp nhà văn tăng năng suất, cải thiện kỹ năng viết và giảm áp lực. Bằng cách lên kế hoạch trước, chọn thời gian và địa điểm phù hợp, đặt mục tiêu cụ thể và tránh chỉnh sửa trong quá trình viết, bạn có thể tận dụng tối đa lợi ích của viết nước rút.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-113.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-113.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 Hãy nhớ nghỉ ngơi hợp lý, chỉnh sửa sau và tập trung vào quá trình viết lách để đạt được kết quả tốt nhất. Tham gia các cộng đồng viết lách cũng là một cách tuyệt vời để học hỏi thêm kinh nghiệm và duy trì động lực viết lách. Viết nước rút không chỉ giúp bạn hoàn thành nhiều công việc hơn mà còn giúp bạn trở nên tự tin hơn trong khả năng viết lách của mình.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-211.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-211.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

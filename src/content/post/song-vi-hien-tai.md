@@ -3,7 +3,7 @@ pubDatetime: 2023-06-21T10:10:00Z
 title: Có những người chọn sống vì hiện tại, và có những người là tương lai
 description: Hôm rồi theo chân bạn lên núi Dinh ở Vũng Tàu, bạn nói bạn ở đây được ba tháng rồi, như một trải nghiệm và lựa chọn trong thời điểm hiện tại.
 featured: false
-image: https://banmaixanh.org/image/cover/001-483.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-483.jpg
 tags:
   - viet lach
   - doan van
@@ -39,4 +39,4 @@ Còn trong cái gửi gắm và mong đợi vào tương lai con cái của ngư
 
 Cho nên, mình cảm thấy rằng, dường như cuộc sống của hiện tại và cuộc sống của sau này, cái nào cũng xứng đáng để ta lựa chọn và nương theo, quan trọng là trong từng cuộc sống ấy mình có dám đánh đổi và lựa chọn, chấp nhận những điều đến và sẽ đến.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-517.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-517.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

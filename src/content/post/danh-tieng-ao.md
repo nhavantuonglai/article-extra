@@ -3,7 +3,7 @@ pubDatetime: 2022-03-21T10:10:00Z
 title: Vấn nạn đánh giá ảo – Quy mô và cách chống lại gian lận đánh giá trong ngành khách sạn
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
 featured: false
-image: https://banmaixanh.org/image/cover/001-482.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-482.jpg
 tags:
   - viet thue
   - marketing
@@ -37,7 +37,7 @@ Cảnh báo Red Badge chính là cách mà Tripadvisor thừa nhận đánh giá
 
 Nhưng chính Tripadvisor vẫn đang rất dễ dàng để những đánh giá ảo xuất hiện. Khác với Booking.com khi các thanh toán thường được xử lý bằng thẻ tín dụng và chỉ cho phép đánh giá từ du khách đã đặt phòng, thì Tripadvisor lại cho tất cả mọi người – ai cũng có thể để lại đánh giá, thậm chí là ngay sau khi đặt phòng và trước khi nhận phòng thì người dùng cũng có thể đánh giá về một khách sạn nào đó.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-101.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-101.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Các trang bán phòng làm thế nào để xác định đâu là đánh giá ảo?
 
@@ -61,7 +61,7 @@ Nếu các đánh giá được cung cấp từ các giải pháp chân chính, 
 
 Nói về điều này, đại diện của Tripadvisor từng chia sẻ: bằng cách xác định một mắt xích đánh giá ảo, chúng tôi có thể khám phá ra cả mạng lưới hoạt động gian lận, phi pháp; chúng như kéo một sợi tơ khỏi mạng nhện – giúp bạn có thể nhìn mọi thứ thông suốt hơn.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-102.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-102.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Với các trang đánh giá trực tuyến khác
 
@@ -93,7 +93,7 @@ Trong trường hợp Booking.com phát hiện hoặc biết được việc đ�
 
 Hành vi đánh giá ảo là bất hợp pháp ở nhiều quốc gia, do đó các hình phạt không chỉ từ các trang đánh giá trực tuyến. Chẳng hạn, vào năm 2018, một công ty đã bị bắt quả tang viết đánh giá ảo trên Tripadvisor và chủ sở hữu không chỉ bị yêu cầu bồi thường thiệt hại lên tới khoảng €8.000 mà còn bị kết án 9 tháng tù. Một công ty khác đã bị phạt 2,2 triệu USD vì chỉ chọn những đánh giá xấu, tiêu cực để đăng lên Tripadvisor trong khi bỏ qua các đánh giá tích cực khác.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-103.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-103.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Bạn có thể làm gì để ngăn chặn đánh giá giả mạo?
 
@@ -103,4 +103,4 @@ Cụ thể, nếu bắt gặp một đánh giá trực tuyến có vẻ đáng n
 
 Vấn nạn đánh giá ảo rõ ràng là một thách thức lớn đối với ngành khách sạn, ảnh hưởng đến [danh tiếng của khách sạn](https://nhavantuonglai.com/article) lẫn các trang đánh giá trực tuyến và việc ra quyết định của người tiêu dùng. Các trang đánh giá trực tuyến cũng đã nỗ lực đầu tư vào công nghệ và nhân sự để phát hiện và xóa các đánh giá ảo. Ngoài ra, chủ khách sạn và khách có thể đóng vai trò hạn chế vấn đề này bằng cách báo cáo các giá đáng ngờ mà họ gặp phải. Điều quan trọng đối với ngành khách sạn là tiếp tục hợp tác để giảm thiểu sự phổ biến của các bài đánh giá ảo nhằm đảm bảo rằng người tiêu dùng có thể tin tưởng vào các bài đánh giá trực tuyến mà họ đọc được.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-484.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-484.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>

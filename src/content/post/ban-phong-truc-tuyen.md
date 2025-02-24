@@ -3,7 +3,7 @@ pubDatetime: 2022-01-20T10:10:00Z
 title: Các kênh bán phòng trực tuyến quan trọng nhất của khách sạn
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
 featured: false
-image: https://banmaixanh.org/image/cover/001-540.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-540.jpg
 tags:
   - viet thue
   - marketing
@@ -29,7 +29,7 @@ Ngày nay, nhiều người gần như dựa hoàn toàn vào thiết bị di đ
 
 Để có thể có một website khách sạn hoạt động hiệu quả, bạn có thể đọc thêm về bài viết về [các tips cải thiện website khách sạn](https://nhavantuonglai.com/article) để tăng lượng booking từ các kênh bán phòng trực tuyến.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-033.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-033.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Các kênh bán phòng kênh OTA
 
@@ -49,7 +49,7 @@ Trong hầu hết các trường hợp, GDS sẽ phục vụ cho thị trường
 
 Nói chung, một hệ thống phân phối toàn cầu sẽ yêu cầu thanh toán một khoản phí thiết lập ban đầu nhỏ, sau đó là phí giao dịch cho mỗi lượt đặt trước. Đối với các khách sạn, thủ thuật là cân bằng giá phòng sao cho chúng đủ thấp để duy trì mối quan hệ tích cực với các đại lý du lịch và tạo ra các thông tin tùy chỉnh, nhưng đủ cao để bù đắp phí.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-034.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-034.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 Lợi ích chính của GDS là cơ hội thu hút nhu cầu từ khắp nơi trên thế giới. Một lần nữa, chìa khóa để thành công với kênh phân phối này là luôn cập nhật thông tin để tỷ lệ duy trì tính cạnh tranh.
 
@@ -57,4 +57,4 @@ Việc đặt phòng trực tuyến đang vượt qua nhiều loại hình khác
 
 Trên đây là ba kênh bán phòng trực tuyến chính mà khách sạn cần lưu ý – website khách sạn, kênh bán phòng trực tuyến kênh OTA và hệ thống phân phối toàn cầu. Hy vọng rằng khách sạn sẽ quản lý hệ thống bán phòng một cách hiệu quả để tăng tối đa lợi nhuận cho khách sạn.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-516.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-516.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>

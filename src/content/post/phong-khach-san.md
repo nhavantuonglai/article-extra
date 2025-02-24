@@ -3,7 +3,7 @@ pubDatetime: 2022-07-05T10:10:00Z
 title: Các loại phòng khác nhau trong ngành khách sạn là gì?
 description: Có rất nhiều loại phòng được thiết kế để cung cấp với các mức giá khác nhau nhằm áp dụng chiến lược doanh thu đa dạng.
 featured: false
-image: https://banmaixanh.org/image/cover/001-581.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-581.jpg
 tags:
   - viet thue
   - marketing
@@ -49,7 +49,7 @@ Nhiều khách sạn chọn tạo ra các loại phòng dựa trên các tiện 
 
 Mức độ sang trọng có thể được xác định bởi liệu đó là một phòng đơn giản, phòng kinh tế hoặc phòng ngân sách, phòng tầm trung, phòng sang trọng, hoặc thậm chí là một suite tổng thống, bao gồm những tầm nhìn đẹp nhất và các tiện nghi toàn diện nhất.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-088.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-088.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## 15 Loại phòng khách sạn khác nhau
 
@@ -99,7 +99,7 @@ Phòng tiêu chuẩn là lựa chọn kinh tế cơ bản nhất tại khách s�
 
 Loại phòng này dành cho những người có khuyết tật hoặc khả năng di chuyển hạn chế. Điều này có nghĩa là phòng tắm có thể truy cập bằng xe lăn, có tay vịn quanh khu vực tắm và nhà vệ sinh có thể tiếp cận bằng xe lăn. Phòng này cũng rộng rãi hơn, cung cấp đủ không gian để khách có thể di chuyển bằng khung đi bộ hoặc xe lăn.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-089.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-089.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Phòng có tầm nhìn ra biển (sea view room)
 
@@ -117,10 +117,10 @@ Phòng có tầm nhìn ra vườn sẽ cho phép khách hàng nhìn ra vườn h
 
 Phòng sang trọng là loại phòng thường có vị trí đắc địa, bao gồm các tiện nghi và tầm nhìn tốt nhất mà khách sạn của bạn có thể cung cấp. Vì sự kết hợp đặc biệt này, khách sạn có thể tính phí cao hơn nhiều cho loại phòng này.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-091.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-091.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Kết luận
 
 Chúng ta đã xem xét các loại đặc điểm khác nhau mà các chủ khách sạn sử dụng để xác định các loại phòng của họ, cũng như các loại phòng khác nhau trong khách sạn. Việc hiểu rõ những yếu tố nào định nghĩa một loại phòng là điều cực kỳ quan trọng, vì nó sẽ giúp bạn trong cả chiến lược quản lý kho phòng và doanh thu của mình.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-300.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-300.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>

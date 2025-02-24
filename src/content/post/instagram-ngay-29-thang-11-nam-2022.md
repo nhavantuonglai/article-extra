@@ -3,7 +3,7 @@ pubDatetime: 2022-11-29T10:10:00Z
 title: Bài viết trên Instagram ngày 29 tháng 11 năm 2022
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - viet lach
   - doan van
@@ -16,4 +16,4 @@ tính chưa xong thì như bị đánh úp, công ty dính dịch. văn phòng �
 
 thong thả vậy mà cũng đến hôm được ra ngoài, thêm vài hôm nữa thì mọi người trên văn phòng dần quay lại làm việc. ai cũng như cũ mà ai cũng thở phào nhẹ nhõm bởi đã qua cơn nạn. dù vậy, chẳng ai còn nhớ hôm nào đó đã bàn với nhau gì, đã tính ra sao về những cây Thông; và mình những hôm ấy cũng quên luôn chuyện phải đi mua Tùng Thơm, duy chỉ có ở ngoài đường – hôm mình nhận giấy hoàn thành cách ly rồi lấy xe chạy ra để hít thở không khí, bầu không khí Giáng Sinh vẫn ở đó, vẫn ngập tràn lung linh như chẳng hề có chuyện gì đã xảy ra.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-528.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-528.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

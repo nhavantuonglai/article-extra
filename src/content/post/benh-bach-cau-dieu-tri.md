@@ -3,7 +3,7 @@ pubDatetime: 2021-03-04T10:10:00Z
 title: Điều trị bệnh bạch hầu như thế nào?
 description: Điều trị bệnh bạch cầu phụ thuộc vào loại bệnh, giai đoạn bệnh và tình trạng sức khỏe của bệnh nhân.
 featured: false
-image: https://banmaixanh.org/image/cover/001-534.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-534.jpg
 tags:
   - y hoc
   - benh truyen nhiem
@@ -17,7 +17,7 @@ _Bệnh bạch cầu, hay còn gọi là leukemia, là một loại ung thư c�
 
 Bệnh bạch cầu, hay còn gọi là leukemia, là một loại ung thư của máu và tủy xương. Khi bị bệnh bạch cầu, tủy xương sản xuất quá nhiều bạch cầu bất thường, làm giảm khả năng sản xuất các tế bào máu bình thường. Điều này dẫn đến nhiều vấn đề sức khỏe nghiêm trọng và yêu cầu các phương pháp điều trị đặc biệt để kiểm soát bệnh.
 
-<figure><img src="https://banmaixanh.org/image/article/benh-bach-cau-01.jpg" alt="benh-bach-cau" title="benh-bach-cau" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/benh-bach-cau-01.jpg" alt="benh-bach-cau" title="benh-bach-cau" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
 ## Phân loại bệnh bạch cầu
 
@@ -43,7 +43,7 @@ Bệnh bạch cầu cấp tính phát triển nhanh chóng và cần điều tr�
 
 Bệnh bạch cầu mạn tính phát triển chậm hơn và có thể không cần điều trị ngay lập tức.
 
-<figure><img src="https://banmaixanh.org/image/article/benh-bach-cau-02.jpg" alt="benh-bach-cau" title="benh-bach-cau" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/benh-bach-cau-02.jpg" alt="benh-bach-cau" title="benh-bach-cau" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
 #### Bệnh bạch cầu lymphocytic mạn tính (CLL)
 
@@ -79,7 +79,7 @@ Hóa trị là phương pháp sử dụng thuốc để tiêu diệt tế bào u
 
 – Suy giảm miễn dịch: Hóa trị có thể làm giảm số lượng bạch cầu, làm tăng nguy cơ nhiễm trùng.
 
-<figure><img src="https://banmaixanh.org/image/article/benh-bach-cau-03.jpg" alt="benh-bach-cau" title="benh-bach-cau" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/benh-bach-cau-03.jpg" alt="benh-bach-cau" title="benh-bach-cau" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
 ### Xạ trị
 
@@ -103,7 +103,7 @@ Xạ trị sử dụng tia xạ để tiêu diệt tế bào ung thư. Xạ tr�
 
 Cấy ghép tủy xương, còn gọi là cấy ghép tế bào gốc, là quá trình thay thế tủy xương bị tổn thương bằng tủy xương khỏe mạnh từ người hiến tặng.
 
-<figure><img src="https://banmaixanh.org/image/article/benh-bach-cau-04.jpg" alt="benh-bach-cau" title="benh-bach-cau" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/benh-bach-cau-04.jpg" alt="benh-bach-cau" title="benh-bach-cau" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
 #### Cơ chế hoạt động
 
@@ -137,7 +137,7 @@ Liệu pháp miễn dịch sử dụng hệ miễn dịch của cơ thể để 
 
 Điều trị nhắm đích sử dụng các thuốc nhắm vào các phân tử cụ thể liên quan đến sự phát triển và phát tán của tế bào ung thư.
 
-<figure><img src="https://banmaixanh.org/image/article/benh-bach-cau-05.jpg" alt="benh-bach-cau" title="benh-bach-cau" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/benh-bach-cau-05.jpg" alt="benh-bach-cau" title="benh-bach-cau" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
 #### Cơ chế hoạt động
 
@@ -187,7 +187,7 @@ Hóa trị có thể được sử dụng để tiêu diệt tế bào ung thư 
 
 Lựa chọn phương pháp điều trị phụ thuộc vào nhiều yếu tố, bao gồm loại bệnh bạch cầu, giai đoạn bệnh, tuổi tác và tình trạng sức khỏe của bệnh nhân.
 
-<figure><img src="https://banmaixanh.org/image/article/benh-bach-cau-06.jpg" alt="benh-bach-cau" title="benh-bach-cau" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/benh-bach-cau-06.jpg" alt="benh-bach-cau" title="benh-bach-cau" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
 ### Tư vấn y khoa
 
@@ -201,4 +201,4 @@ Trong quá trình điều trị, có thể cần điều chỉnh phương pháp 
 
 Bệnh bạch cầu là một căn bệnh nghiêm trọng, nhưng với các phương pháp điều trị hiện đại và tiên tiến, nhiều bệnh nhân có thể kiểm soát và sống chung với bệnh một cách hiệu quả. Hiểu rõ về các phương pháp điều trị và tham khảo ý kiến từ các chuyên gia y tế sẽ giúp bệnh nhân và gia đình có những quyết định điều trị đúng đắn.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-211.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-211.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

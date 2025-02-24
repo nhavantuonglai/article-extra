@@ -3,7 +3,7 @@ pubDatetime: 2023-01-27T10:10:00Z
 title: Tìm hiểu dải tần âm thanh trong tai nghe
 description: Dải tần âm thanh là một trong những yếu tố quan trọng nhất quyết định chất lượng âm nhạc mà bạn nghe thấy.
 featured: false
-image: https://banmaixanh.org/image/cover/001-431.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-431.jpg
 tags:
   - viet lach
   - thuong thuc am thanh
@@ -142,4 +142,4 @@ Khi trải nghiệm âm nhạc qua các dải tần khác nhau, bạn sẽ cảm
 
 Dải tần âm thanh đóng vai trò quan trọng trong việc tạo nên chất lượng và trải nghiệm âm nhạc. Hiểu rõ về các dải tần bass, mid, và treb sẽ giúp bạn chọn lựa thiết bị âm thanh phù hợp và tận hưởng âm nhạc một cách trọn vẹn. Hy vọng bài viết này đã cung cấp cho bạn những thông tin hữu ích về dải tần âm thanh, ưu và nhược điểm của từng dải tần, và trải nghiệm thực tế khi nghe nhạc qua các dải tần này.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-211.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-211.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

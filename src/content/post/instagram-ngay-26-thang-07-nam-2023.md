@@ -3,7 +3,7 @@ pubDatetime: 2023-07-26T10:10:00Z
 title: Bài viết trên Instagram ngày 26 tháng 07 năm 2023
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - viet lach
   - doan van
@@ -22,4 +22,4 @@ yên lặng nghe rồi chị bảo, từng trải qua vậy nên thay vì chọn
 
 nói xong chị hỏi, thế nhắc về Hà Nội, ngoài những người bạn ở đó em còn gì để nhớ? mình thoạt im lặng rồi bảo, hỏi bất ngờ quá em chẳng biết ngoài điều ấy ra thì còn lại gì để nhớ. mà nói vậy thôi, chứ mình làm gì còn điều gì để nhớ về Hà Nội ngoài những người bạn ở đó đâu.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-268.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-268.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

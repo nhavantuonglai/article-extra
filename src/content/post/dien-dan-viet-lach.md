@@ -3,7 +3,7 @@ pubDatetime: 2021-04-07T10:10:00Z
 title: Tìm hiểu về những diễn đàn viết lách chất lượng cao
 description: Danh sách những diễn đàn viết lách chất lượng cao, nơi bạn có thể phát triển kỹ năng và kết nối với những người cùng đam mê.
 featured: false
-image: https://banmaixanh.org/image/cover/001-423.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-423.jpg
 tags:
   - viet lach
   - ky nang viet
@@ -28,7 +28,7 @@ Trên nhavantuonglai, bạn có thể tìm thấy các chuyên mục như:
 
 – [Cơ hội việc làm viết lách](https://nhavantuonglai.com/article): Thông tin về các cơ hội việc làm viết lách, từ các công ty tuyển dụng đến các dự án viết lách tự do.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-097.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-097.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Writers Helping Writers (writershelpingwriters.net)
 
@@ -54,7 +54,7 @@ Các chuyên mục chính trên Absolute Write Water Cooler bao gồm:
 
 – Tiếp thị sách: Các chiến lược tiếp thị sách hiệu quả, bao gồm sử dụng mạng xã hội và tiếp thị qua email.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-098.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-098.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Scribophile (scribophile.com)
 
@@ -80,7 +80,7 @@ Các chuyên mục chính trên NaNoWriMo bao gồm:
 
 – Community: Diễn đàn kết nối và chia sẻ kinh nghiệm giữa các nhà văn.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-099.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-099.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Reddit (reddit.com)
 
@@ -104,7 +104,7 @@ Các chuyên mục chính trên The Writer’s Digest Community bao gồm:
 
 – Tiếp thị sách: Các chiến lược tiếp thị sách hiệu quả, bao gồm sử dụng mạng xã hội và tiếp thị qua email.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-100.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-100.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Writing Forums (writingforums.org)
 
@@ -130,7 +130,7 @@ Các chuyên mục chính trên Mythic Scribes bao gồm:
 
 – Character Development: Các bài viết và thảo luận về phát triển nhân vật trong fantasy.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-101.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-101.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Creative Writing Forums (creativewritingforums.com)
 
@@ -148,8 +148,8 @@ Các chuyên mục chính trên Creative Writing Forums bao gồm:
 
 Các [diễn đàn viết lách](https://nhavantuonglai.com/article) chất lượng cao là nguồn tài nguyên quý giá cho những ai muốn cải thiện kỹ năng viết lách và phát triển sự nghiệp trong lĩnh vực này. Từ những hướng dẫn chi tiết về kỹ thuật viết, lời khuyên về xuất bản và tiếp thị sách, đến các cơ hội việc làm và cộng đồng viết lách, các diễn đàn này cung cấp mọi thứ bạn cần để trở thành một nhà viết lách thành công.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-102.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-102.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 Hãy dành thời gian khám phá và tham gia vào những diễn đàn viết lách mà nhavantuonglai đã giới thiệu ở trên. Chắc chắn bạn sẽ tìm thấy nhiều thông tin hữu ích và cảm hứng để tiếp tục hành trình viết lách của mình. Những diễn đàn như Nhà Văn Tương Lai, Absolute Write Water Cooler, và Scribophile không chỉ là nơi để học hỏi mà còn là nơi để bạn kết nối với những người cùng đam mê và tìm kiếm cơ hội nghề nghiệp. Hãy tận dụng các tài nguyên này để phát triển kỹ năng và sự nghiệp viết lách của bạn.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-246.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-246.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

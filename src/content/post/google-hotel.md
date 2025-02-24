@@ -3,7 +3,7 @@ pubDatetime: 2022-04-30T10:10:00Z
 title: Những gợi ý cho chủ khách sạn để tăng lượt đặt phòng với Google Hotel
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
 featured: false
-image: https://banmaixanh.org/image/cover/001-517.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-517.jpg
 tags:
   - viet thue
   - marketing
@@ -29,7 +29,7 @@ Google Hotels là công cụ tìm kiếm khách sạn, một phần của Google
 
 Ngoài chức năng cốt lõi là giúp người dùng tìm và đặt phòng khách sạn, [Google Hotels còn có giá trị như công cụ so sánh giá phòng](https://nhavantuonglai.com/article) và đánh giá chất lượng khách sạn. Nó cho phép người dùng xem xét các đánh giá, so sánh giá của các khách sạn khác nhau và thậm chí là cùng khách sạn mà giữa các nền tảng bán phòng khác nhau.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-103.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-103.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Google Hotels hoạt động như thế nào?
 
@@ -53,7 +53,7 @@ Kênh OTA là kênh bán phòng thay cho các khách sạn. Khi bán phòng thà
 
 Google Hotels là công cụ [ khách sạn](https://nhavantuonglai.com/article), hiểu đơn giản nó sẽ thu thập thông tin khách sạn từ tất cả các nền tảng, bao gồm cả kênh OTA và hiển thị thông tin trực quan như kênh OTA. Ngoài ra, khách sạn cũng có thể thông qua Google Hotels để giới thiệu về mình, đặt quảng cáo và thông tin về tình trạng phòng và thu hút đặt phòng khách sạn trực tiếp.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-104.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-104.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Ưu điểm của Google Hotel đối với chủ khách sạn là gì?
 
@@ -95,7 +95,7 @@ Nơi đầu tiên và có lẽ rõ ràng nhất mà quảng cáo khách sạn hi
 
 Google Hotels cũng sẽ hiển thị khách sạn trên Google Maps. Điều này có thể rất quan trọng, bởi nhiều du khách sử dụng Google Maps trước chuyến đi để hình dung về điểm đến là thế nào và tìm kiếm các khách sạn trong khu vực. Từ giao diện của Maps, họ cũng có thể đặt phòng khách sạn trực tiếp.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-105.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-105.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Trong trợ lý ảo Google (Google Assistant)
 
@@ -129,7 +129,7 @@ Google Hotels cho phép người dùng đánh giá trải nghiệm của các kh
 
 Đánh giá ảnh hưởng rất nhiều đến việc ra quyết định của người khác, bởi nó thực tế hơn lời quảng cáo mà khách sạn cung cấp.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-106.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-106.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Tìm hiểu về Google Travel Insights
 
@@ -137,4 +137,4 @@ Ngoài Google Hotels, còn nhiều dịch vụ khác của Google có thể mang
 
 Google Hotels là một phần của Google và nó đã được đánh giá cực kỳ tốt trong lĩnh vực du lịch và lữ hành. Bằng cách tận dụng tối đa những lợi ích mà nền tảng cung cấp, các khách sạn có thể cải thiện khả năng hiển thị trực tuyến, thu hút đặt phòng trực tiếp và phát triển hoạt động kinh doanh của họ.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-610.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-610.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>

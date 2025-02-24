@@ -3,7 +3,7 @@ pubDatetime: 2024-12-24T10:10:00Z
 title: Bài viết trên Instagram ngày 24 tháng 12 năm 2024
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-542.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-542.jpg
 tags:
   - viet lach
   - doan van
@@ -22,4 +22,4 @@ lập luận của 2 triết gia tuy đối lập, nhưng đều mang tinh thầ
 
 suy cho cùng, Giáng sinh không chỉ là dấu mốc với người theo đạo, là lễ hội lớn với người lương; mà còn là cơ hội để mỗi người tự soi chiếu niềm tin đạo đức cá nhân, để từng bước trở thành một người tốt đúng nghĩa.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-146.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-146.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

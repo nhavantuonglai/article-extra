@@ -3,7 +3,7 @@ pubDatetime: 2023-04-06T10:10:00Z
 title: Gợi ý 8 trò chơi trong nhà dành cho chó của bạn
 description: Chúng ta đều biết rằng những của chúng ta cần tập thể dục và thường nghĩ rằng đây chỉ là cuộc đi bộ hàng ngày của chúng.
 featured: false
-image: https://banmaixanh.org/image/cover/001-239.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-239.jpg
 tags:
   - viet lach
   - thu cung
@@ -16,7 +16,7 @@ tags:
 
 _Chúng ta đều biết rằng những của chúng ta cần tập thể dục và thường nghĩ rằng đây chỉ là cuộc đi bộ hàng ngày của chúng, nhưng chó cũng cần chơi và tương tác vui vẻ với chúng ta. Một số trong số này chúng ta có thể kết hợp vào thời gian ra ngoài và về thời gian, nhưng có rất nhiều điều khác bạn có thể làm trong nhà._
 
-<figure><img src="https://banmaixanh.org/image/article/cham-soc-cho-meo-065.jpg" alt="cham soc cho meo" title="cham soc cho meo" height=100% width=100%><figcaption><p>Hướng dẫn chăm sóc chó mèo đúng cách.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/cham-soc-cho-meo-065.jpg" alt="cham soc cho meo" title="cham soc cho meo" height=100% width=100%><figcaption><p>Hướng dẫn chăm sóc chó mèo đúng cách.</p></figcaption></figure>
 
 Một số ngày, khi thời tiết bên ngoài không hoàn hảo, hoặc khi bạn không muốn rời khỏi nhà (hoặc vì lý do nào đó, không thể rời khỏi nhà), điều quan trọng là phải có nhiều hoạt động trong nhà để giữ cho người bạn chó của bạn giải trí và cung cấp cơ hội làm giàu và gắn kết. Đó là nơi các trò chơi trong nhà dành cho chó xuất hiện, và trong khi bầu trời là giới hạn khi nói đến cơ hội chơi – và nó phụ thuộc vào những gì của bạn thích – chúng ta có thể nghĩ ra khá nhiều trò chơi thú vị để giúp bạn bắt đầu.
 
@@ -26,7 +26,7 @@ Chúng tôi tập hợp một danh sách tám trò chơi trong nhà thú vị d�
 
 Một trò chơi cổ điển có thể được điều chỉnh cho chó. Bắt đầu bằng cách để người bạn lông lá của bạn chờ đợi trong một phòng trong khi bạn chạy và trốn trong một phòng khác. Sau đó, gọi cho họ và xem họ có thể tìm thấy bạn không. Bắt đầu bằng cách làm cho nó thực sự đơn giản để họ hiểu rõ về nó – và luôn thưởng cho họ khi họ tìm thấy bạn.
 
-<figure><img src="https://banmaixanh.org/image/article/cham-soc-cho-meo-064.jpg" alt="cham soc cho meo" title="cham soc cho meo" height=100% width=100%><figcaption><p>Hướng dẫn chăm sóc chó mèo đúng cách.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/cham-soc-cho-meo-064.jpg" alt="cham soc cho meo" title="cham soc cho meo" height=100% width=100%><figcaption><p>Hướng dẫn chăm sóc chó mèo đúng cách.</p></figcaption></figure>
 
 Một khi của bạn hiểu được điều này và tìm thấy bạn ngay lập tức, bạn sẽ làm cho nó trở nên khó khăn hơn bằng cách trốn ở các vị trí khác nhau mỗi lần và sử dụng các phòng khác nhau. Điều này sẽ giúp họ tập trung vào bạn và nó cũng sẽ giúp bạn nhớ lại.
 
@@ -56,7 +56,7 @@ Những đồ chơi này được thiết kế để thử thách bộ não củ
 
 Tuy nhiên, hãy coi chừng của bạn đang thất vọng. Những trò chơi này có nghĩa là thú vị và có thể đạt được.
 
-<figure><img src="https://banmaixanh.org/image/article/cham-soc-cho-meo-061.jpg" alt="cham soc cho meo" title="cham soc cho meo" height=100% width=100%><figcaption><p>Hướng dẫn chăm sóc chó mèo đúng cách.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/cham-soc-cho-meo-061.jpg" alt="cham soc cho meo" title="cham soc cho meo" height=100% width=100%><figcaption><p>Hướng dẫn chăm sóc chó mèo đúng cách.</p></figcaption></figure>
 
 ## Tìm đồ chơi
 
@@ -70,7 +70,7 @@ Một số (đặc biệt là chó sục và những con được điều khiể
 
 Một số sẽ ngay lập tức thử và kéo nó – và nếu đúng như vậy, bạn biết trò chơi này sẽ là người chiến thắng với chú chó của bạn. Những người khác có thể bắt đầu ít tự tin hơn và mất một chút thời gian để hiểu rõ điều này. Kéo đồ chơi qua lại dọc theo sàn nhà _như một con rắn_ thường có thể khuyến khích chúng giữ nó và kéo nó đi.
 
-<figure><img src="https://banmaixanh.org/image/article/cham-soc-cho-meo-062.jpg" alt="cham soc cho meo" title="cham soc cho meo" height=100% width=100%><figcaption><p>Hướng dẫn chăm sóc chó mèo đúng cách.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/cham-soc-cho-meo-062.jpg" alt="cham soc cho meo" title="cham soc cho meo" height=100% width=100%><figcaption><p>Hướng dẫn chăm sóc chó mèo đúng cách.</p></figcaption></figure>
 
 Trong khi bạn có thể di chuyển nó xung quanh bên này sang bên kia và khuyến khích của bạn, hãy giữ cho việc kéo nhẹ nhàng của bạn và để của bạn ra lệnh mức độ kéo của trò chơi này. Một số sẽ thực sự kéo mạnh và cố gắng _giết_ đồ chơi, những người khác sẽ nhẹ nhàng hơn về nó – nhưng cũng thích nó nhiều như vậy. Chỉ kéo về phía sau và từ bên này sang bên kia – không bao giờ hướng lên trên.
 
@@ -86,10 +86,10 @@ Thiết lập một khóa học nhanh nhẹn DIY xung quanh nhà bằng cách s�
 
 Lấy ba cốc nhựa và một quả bóng tennis hoặc bất kỳ loại bóng nhỏ nào khác vừa vặn dưới cốc và điều đó không quá nhỏ (một thứ không gây nguy hiểm nghẹt thở). Đặt quả bóng dưới một trong những chiếc cốc và xáo trộn chúng xung quanh trước mặt của bạn. Nhiệm vụ của họ sẽ là đoán xem quả bóng ở đâu. Điều này cũng hoạt động hoàn hảo với các món ăn nếu của bạn không định hướng bóng.
 
-<figure><img src="https://banmaixanh.org/image/article/cham-soc-cho-meo-063.jpg" alt="cham soc cho meo" title="cham soc cho meo" height=100% width=100%><figcaption><p>Hướng dẫn chăm sóc chó mèo đúng cách.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/cham-soc-cho-meo-063.jpg" alt="cham soc cho meo" title="cham soc cho meo" height=100% width=100%><figcaption><p>Hướng dẫn chăm sóc chó mèo đúng cách.</p></figcaption></figure>
 
 Một biến thể bóng khác là có một hộp bánh nướng xốp và đặt các món ăn vào một số delves với một quả bóng tennis trên đầu. Công việc của của bạn là đánh hơi những con có đồ ăn vặt bên dưới chúng, sau đó lấy quả bóng ra bằng miệng hoặc chân để lấy chúng. Điều này hoạt động tốt hơn với những người sành ăn hơn là những người cuồng bóng – vì những lý do rõ ràng.
 
 Hãy nhớ rằng kích thích tinh thần cũng quan trọng như tập thể dục và các trò chơi trong nhà cho chó là một cách tuyệt vời để có được cả hai. Chúng cũng có thể là một trải nghiệm gắn kết thú vị cho bạn và người bạn lông lá của bạn, vì vậy hãy tìm một không gian an toàn và rõ ràng để chơi và tận hưởng niềm vui.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-239.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-239.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

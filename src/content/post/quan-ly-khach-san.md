@@ -3,7 +3,7 @@ pubDatetime: 2022-07-11T10:10:00Z
 title: Làm thế nào để quản lý khách sạn tốt hơn?
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
 featured: false
-image: https://banmaixanh.org/image/cover/001-297.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-297.jpg
 tags:
   - viet thue
   - marketing
@@ -33,7 +33,7 @@ Bán phòng là nguồn thu chính của khách sạn, khai thác không gian l�
 
 Khách sạn cũng cần cân bằng giữa việc kinh doanh và đem lại không gian cho khách hàng trải nghiệm. Quá tập trung vào bán hàng, mà quên đi trải nghiệm của khách hàng, thì họ sẽ không hào hứng quay lại, giới thiệu cho người khác lần sau.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-106.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-106.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Kiểm soát thu, chi chi tiết, tránh thất thoát
 
@@ -59,7 +59,7 @@ Có nhiều phương pháp để dự báo xu hướng khi quản trị khách s
 
 – Làm việc với các bộ phận: Lễ tân thường tiếp xúc khách đặt phòng, nên dễ dàng theo dõi và nhận biết sự thay đổi về nhu cầu đặt phòng, sử dụng dịch vụ. Các bộ phận khác cũng sẽ có những nhận định, dự báo mang tính chuyên môn trong công việc mình thực hiện. Người quản lý thu thập để tổng hợp, để đảm bảo dự báo của mình phù hợp với thực tế hơn.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-108.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-108.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Kết nối với các đối tác để hỗ trợ khách hàng tốt hơn, chủ động hơn
 
@@ -107,7 +107,7 @@ Bên cạnh đó, khách sạn cũng cần có cơ chế tiếp nhận ý kiến
 
 Tất nhiên rằng, sẽ có những rủi ro nhất định khi có những nhân viên _làm rầu nồi canh,_ ảnh hưởng đến uy tín của khách sạn. Việc của người quản lý lúc này, là thanh lọc, loại trừ và hạn chế những thành phần tiêu cực đó, để bộ máy nhân sự luôn vận hành đúng như những gì mình muốn.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-108.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-108.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Tạo cơ hội thăng tiến cho tất cả mọi người
 
@@ -147,7 +147,7 @@ Muốn giao tiếp chuẩn mực, lịch sự với khách hàng, nhân viên kh
 
 Môi trường làm việc trong khách sạn, từ lâu đã được xem là môi trường quốc tế, khi phải tiếp xúc với nhiều người, ở nhiều quốc gia khác nhau. Do vậy, đầu vào khi tuyển dụng, cần đảm bảo ngoại ngữ là yêu cầu bắt buộc, giúp khách sạn quản trị nhân sự, kết nối với khách hàng chất lượng và chuyên nghiệp hơn.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-109.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-109.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Sử dụng phần mềm quản lý khách sạn phù hợp giúp quản lý khách sạn tốt hơn
 
@@ -187,7 +187,7 @@ Thông qua các kênh bán phòng trực tuyến đang tích hợp trên phần 
 
 Những điều này giúp khách sạn của bạn được người đọc khám phá, tìm hiểu nhiều hơn về khách sạn để ra quyết định, lựa chọn đặt phòng trong hành trình của họ.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-110.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-110.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Kết luận
 
@@ -197,4 +197,4 @@ Ví dụ như quản lý nhân sự thì có thể tự học, tự cải thiệ
 
 Cho nên, nếu công việc quản lý khách sạn là điều bạn muốn thực hiện, hãy bắt tay vào tìm hiểu, và cải thiện dần từng kỹ năng, chuyên môn của mình; kinh nghiệm, cách vận hành của hệ thống sẽ dần được hoàn thiện, và việc quản lý khách sạn cũng trở nên ổn định và chuyên nghiệp hơn.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-210.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-210.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>

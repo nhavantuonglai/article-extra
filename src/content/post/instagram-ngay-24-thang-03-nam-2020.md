@@ -3,7 +3,7 @@ pubDatetime: 2020-03-07T10:10:00Z
 title: Bài viết trên Instagram ngày 24 tháng 03 năm 2020
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - viet lach
   - doan van
@@ -18,4 +18,4 @@ những điều ấy khiến mình cảm tưởng mọi người 
 
 kế hoạch về nhà, với đi lên Đà Lạt tháng sau coi như hủy, cuộn film đang chụp dở cũng để đó mà không biết khi nào có thể bấm tiếp, cả những cái hẹn sau tết của mình nữa – cũng không biết ngày nào mới có thể tự tin mà hẹn gặp. có lẽ mọi thứ vẫn cứ tiếp diễn, nhưng cái nhịp và thông điệp mà sự tiếp diễn ấy đem đến – đã khác, và dường như chẳng ai muốn đón nhận cả.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-225.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-225.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

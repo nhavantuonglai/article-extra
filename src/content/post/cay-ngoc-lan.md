@@ -3,7 +3,7 @@ pubDatetime: 2023-03-25T10:10:00Z
 title: Tìm hiểu về cây hoa ngọc lan
 description: Cây hoa ngọc lan, còn được gọi là Michelia alba, là một loại cây gỗ lớn, thuộc họ Magnoliaceae.
 featured: false
-image: https://banmaixanh.org/image/cover/001-685.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-685.jpg
 tags:
   - viet thue
   - cay trong
@@ -21,7 +21,7 @@ _Cây hoa ngọc lan, còn được gọi là Michelia alba, là một loại c�
 
 Cây hoa ngọc lan xuất phát từ Ấn Độ, còn được gọi là Michelia alba, hay Sứ Ngọc Lan, là một loại cây gỗ lớn, thuộc họ Magnoliaceae. Ngọc lan nổi tiếng với hoa trắng tinh khôi và hương thơm dịu nhẹ, tạo nên một vẻ đẹp độc đáo và quyến rũ. Cây ngọc lan không chỉ mang lại vẻ đẹp cho cảnh quan mà còn có ý nghĩa phong thủy đặc biệt, giúp cân bằng năng lượng, đem lại tài lộc và loại trừ tiêu cực.
 
-<figure><img src="https://banmaixanh.org/image/article/cay-hoa-ngoc-lan-08.jpg" alt="cay-hoa-ngoc-lan" title="cay-hoa-ngoc-lan" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/cay-hoa-ngoc-lan-08.jpg" alt="cay-hoa-ngoc-lan" title="cay-hoa-ngoc-lan" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
 Cây hoa ngọc lan còn là biểu tượng cho lòng nhân sự, tự tốt lành và hòa thuận, nên rất phù hợp để làm quà tặng tân gia, quà tặng hảo hữu hoặc quà tặng đồng nghiệp trong những dịp phù hợp.
 
@@ -31,7 +31,7 @@ Hoa ngọc lan có màu trắng hoặc vàng nhạt loài giống (ngọc lan tr
 
 Quả của cây hoa ngọc lan có hình dạng giống quả thông, bên trong chứa hạt nhỏ màu nâu.
 
-<figure><img src="https://banmaixanh.org/image/article/cay-hoa-ngoc-lan-07.jpg" alt="cay-hoa-ngoc-lan" title="cay-hoa-ngoc-lan" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/cay-hoa-ngoc-lan-07.jpg" alt="cay-hoa-ngoc-lan" title="cay-hoa-ngoc-lan" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
 ## Hướng dẫn chăm sóc và trồng cây hoa ngọc lan hiệu quả
 
@@ -45,7 +45,7 @@ Quả của cây hoa ngọc lan có hình dạng giống quả thông, bên tron
 
 – Nước tưới: Cây ngọc lan cần lượng nước vừa phải, không quá nhiều cũng không quá ít. Tưới nước đều đặn, giữ ẩm cho đất nhưng tránh ngập úng. Trong mùa hè, nên tưới nước mỗi buổi sáng chiều đều đặn, còn mùa đông thì chỉ cần tưới một buổi hoặc bỏ qua nếu trời mưa dài ngày.
 
-<figure><img src="https://banmaixanh.org/image/article/cay-hoa-ngoc-lan-01.jpg" alt="cay-hoa-ngoc-lan" title="cay-hoa-ngoc-lan" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/cay-hoa-ngoc-lan-01.jpg" alt="cay-hoa-ngoc-lan" title="cay-hoa-ngoc-lan" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
 ### Cách chăm sóc và bón phân cho cây hoa ngọc lan
 
@@ -57,13 +57,13 @@ Về cơ bản, cây hoa ngọc lan dễ trồng dễ chăm sóc, và cũng khô
 
 – Cắt tỉa: Thường xuyên cắt tỉa những cành lá khô, héo để cây thông thoáng và phát triển tốt hơn. Việc cắt tỉa cũng giúp cây hoa ngọc lan có hình dáng đẹp và gọn gàng hơn.
 
-<figure><img src="https://banmaixanh.org/image/article/cay-hoa-ngoc-lan-02.jpg" alt="cay-hoa-ngoc-lan" title="cay-hoa-ngoc-lan" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/cay-hoa-ngoc-lan-02.jpg" alt="cay-hoa-ngoc-lan" title="cay-hoa-ngoc-lan" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
 ## Đặc điểm phong thủy cây hoa ngọc lan
 
 Cây ngọc lan được xem là biểu tượng của sự thanh cao, tinh khiết và vẻ đẹp quý phái. Trồng cây hoa ngọc lan trong nhà hoặc vườn giúp mang lại sự bình yên, thịnh vượng và may mắn cho bạn. Ngọc lan còn có khả năng hấp thụ năng lượng tiêu cực, giúp tạo ra một môi trường sống trong lành và hài hòa.
 
-<figure><img src="https://banmaixanh.org/image/article/cay-hoa-ngoc-lan-03.jpg" alt="cay-hoa-ngoc-lan" title="cay-hoa-ngoc-lan" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/cay-hoa-ngoc-lan-03.jpg" alt="cay-hoa-ngoc-lan" title="cay-hoa-ngoc-lan" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
 ### Ý nghĩa phong thủy của cây hoa ngọc lan
 
@@ -79,7 +79,7 @@ Cây ngọc lan không chỉ có giá trị thẩm mỹ mà còn mang lại nhi�
 
 – Trồng trong chậu: Nếu không có diện tích lớn, bạn có thể trồng cây hoa ngọc lan trong chậu và đặt ở ban công, sân thượng hoặc phòng khách. Điều này vẫn giúp mang lại những lợi ích phong thủy tốt đẹp cho ngôi nhà.
 
-<figure><img src="https://banmaixanh.org/image/article/cay-hoa-ngoc-lan-04.jpg" alt="cay-hoa-ngoc-lan" title="cay-hoa-ngoc-lan" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/cay-hoa-ngoc-lan-04.jpg" alt="cay-hoa-ngoc-lan" title="cay-hoa-ngoc-lan" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
 ## Các loại cây hoa ngọc lan phổ biến
 
@@ -95,7 +95,7 @@ Ngọc lan vàng có hoa màu vàng nhạt, hương thơm ngọt ngào. Loại c
 
 Ngọc lan đỏ có hoa màu đỏ rực rỡ, tạo nên vẻ đẹp độc đáo và nổi bật. Đây là loại cây hoa ngọc lan hiếm gặp và thường được trồng trong các khu vườn lớn hoặc khu vực có điều kiện khí hậu phù hợp.
 
-<figure><img src="https://banmaixanh.org/image/article/cay-hoa-ngoc-lan-05.jpg" alt="cay-hoa-ngoc-lan" title="cay-hoa-ngoc-lan" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/cay-hoa-ngoc-lan-05.jpg" alt="cay-hoa-ngoc-lan" title="cay-hoa-ngoc-lan" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
 ## Mua cây hoa ngọc lan
 
@@ -107,7 +107,7 @@ Tùy vào từng địa phương mà bạn có thể tìm và mua cây hoa ngọ
 
 – Bán cây hoa ngọc lan: Nhiều cửa hàng cây cảnh, chợ hoa cũng cung cấp cây hoa ngọc lan đã trồng sẵn với nhiều kích thước và hình dáng khác nhau như Hoa Sen Việt, địa chỉ 573 Nguyễn Hữu Thọ, Thành phố Đà Nẵng.
 
-<figure><img src="https://banmaixanh.org/image/article/cay-hoa-ngoc-lan-10.jpg" alt="cay-hoa-ngoc-lan" title="cay-hoa-ngoc-lan" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/cay-hoa-ngoc-lan-10.jpg" alt="cay-hoa-ngoc-lan" title="cay-hoa-ngoc-lan" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
 ### Lưu ý khi mua cây hoa ngọc lan
 
@@ -117,7 +117,7 @@ Tùy vào từng địa phương mà bạn có thể tìm và mua cây hoa ngọ
 
 – Tham khảo giá cả: Nên tham khảo giá cả tại nhiều nơi trước khi quyết định mua để đảm bảo bạn mua được cây hoa ngọc lan với giá hợp lý, tránh trường hợp thách giá hoặc mua bị hớ.
 
-<figure><img src="https://banmaixanh.org/image/article/cay-hoa-ngoc-lan-06.jpg" alt="cay-hoa-ngoc-lan" title="cay-hoa-ngoc-lan" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/cay-hoa-ngoc-lan-06.jpg" alt="cay-hoa-ngoc-lan" title="cay-hoa-ngoc-lan" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
 ### Các loại cây hoa ngọc lan phổ biến trên thị trường
 
@@ -129,10 +129,10 @@ Tùy vào từng địa phương mà bạn có thể tìm và mua cây hoa ngọ
 
 Dựa vào nhu cầu, điều kiện trồng và chăm sóc thực tế mà bạn có thể chọn loại cây hoa ngọc lan phù hợp. Điều này cũng đồng nghĩa rằng, cần tính toán và xác định trước loại cây trồng để mua nhằm tránh sự bối rối, không biết nên chọn như thế nào cho phù hợp khi tìm, mua cây hoa ngọc lan.
 
-<figure><img src="https://banmaixanh.org/image/article/cay-hoa-ngoc-lan-09.jpg" alt="cay-hoa-ngoc-lan" title="cay-hoa-ngoc-lan" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/cay-hoa-ngoc-lan-09.jpg" alt="cay-hoa-ngoc-lan" title="cay-hoa-ngoc-lan" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
 ## Kết luận
 
 Cây hoa ngọc lan không chỉ là một loại cây cảnh đẹp mà còn mang lại nhiều lợi ích về phong thủy. Với hướng dẫn chăm sóc đúng cách, cây hoa ngọc lan sẽ phát triển khỏe mạnh, mang lại vẻ đẹp và may mắn cho ngôi nhà của bạn. Nếu bạn đang tìm kiếm một loại cây cảnh để trồng, cây hoa ngọc lan tại  Hoa Sen Việt, địa chỉ 573 Nguyễn Hữu Thọ, Thành phố Đà Nẵng là một lựa chọn lý tưởng, tuyệt vời để khởi đầu nhiều tài lộc và thịnh vượng cho gia đình của bạn.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-614.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-614.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

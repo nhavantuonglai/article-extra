@@ -3,7 +3,7 @@ pubDatetime: 2022-03-11T10:10:00Z
 title: 9 xu hướng công nghệ hàng đầu trong ngành khách sạn
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
 featured: false
-image: https://banmaixanh.org/image/cover/001-727.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-727.jpg
 tags:
   - viet thue
   - marketing
@@ -35,7 +35,7 @@ Một số công nghệ khách sạn phổ biến, được sử dụng nhiều 
 
 – Thực tế ảo tăng cường: Giúp du khách hình dung và biết trước trải nghiệm khi lưu trú tại khách sạn, hoặc áp dụng các trải nghiệm du lịch tại địa phương trước khi bắt đầu chính thức.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-068.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-068.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Tầm quan trọng của công nghệ khách sạn với các khách sạn là gì?
 
@@ -75,7 +75,7 @@ Từ 2017 thì Internet of Things (Internet kết nối vạn vật – IoT) đ�
 
 Tổng quan lại, IoT hướng đến những trải nghiệm chủ động, tự động dựa trên hành vi và nhu cầu của người dùng, giúp du khách thuận tiện và tận hưởng tốt nhất những dịch vụ tại khách sạn của bạn.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-069.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-069.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Check in, check out tự động
 
@@ -117,10 +117,10 @@ Sử dụng các công nghệ khách sạn, như Google Alert, phần mềm qu�
 
 Ngoài ra, các đánh giá trực tuyến cũng phản ánh nhu cầu, mong muốn của du khách, khách đặt phòng tại khách sạn, và là cơ sở để thăm do chất lượng cũng như trải nghiệm của các khách sạn đối thủ. Do vậy, việc phân loại, hệ thống nhằm sàng lọc những thông tin hữu ích, có giá trị về trải nghiệm người dùng tại khách sạn thông qua các đánh giá trực tuyến là điều nên làm.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-070.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-070.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Kết luận
 
 Tổng quan lại, công nghệ khách sạn là xu thế phát triển, được áp dụng sâu rộng và đem lại nhiều hiệu quả thiết thực cho các khách sạn khi vận hành. Nhưng cũng đừng quên rằng, không phải công nghệ nào cũng phù hợp, và đem lại hiệu quả như mong muốn, thế cho nên cần phải tìm hiểu và áp dụng một cách phù hợp, nhằm cải thiện hiệu suất hoạt động, và tạo nên những trải nghiệm tích cực cho khách đặt phòng.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-514.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-514.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>

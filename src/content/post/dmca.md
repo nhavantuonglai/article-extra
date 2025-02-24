@@ -3,7 +3,7 @@ pubDatetime: 2024-04-24T10:10:00Z
 title: Tìm hiểu về DMCA và cách để cài lên website
 description: DMCA, viết tắt của Digital Millennium Copyright Act, là hệ thống quản lý nội dung được phát triển để hỗ trợ các doanh nghiệp
 featured: false
-image: https://banmaixanh.org/image/cover/001-619.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-619.jpg
 tags:
   - websiteflow
   - website
@@ -20,7 +20,7 @@ DMCA, viết tắt của Digital Millennium Copyright Act (Đạo luật bản q
 
 DMCA không chỉ đơn thuần là một hệ thống lưu trữ và quản lý nội dung, mà nó còn bao gồm các tính năng bảo mật mạnh mẽ nhằm đảm bảo rằng nội dung số của người dùng được bảo vệ khỏi việc sao chép hoặc sử dụng trái phép. Với DMCA, người dùng có thể kiểm soát ai được phép truy cập, chỉnh sửa và phân phối nội dung của họ, từ đó bảo vệ quyền sở hữu trí tuệ và tối ưu quá trình quản lý nội dung số.
 
-<figure><img src="https://banmaixanh.org/image/article/website-dmca-01.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/website-dmca-01.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
 ## Công dụng của DMCA trong việc quản lý và bảo vệ nội dung số
 
@@ -158,4 +158,4 @@ Quá trình cài đặt và sử dụng DMCA cũng không quá phức tạp, v�
 
 Việc áp dụng DMCA không chỉ giúp bảo vệ bản quyền mà còn tạo điều kiện thuận lợi cho quá trình quản lý nội dung, tăng cường bảo mật, và tối ưu quy trình làm việc. Vì vậy, nếu bạn đang quản lý một website hoặc có nhu cầu bảo vệ nội dung số của mình, DMCA chắc chắn là một giải pháp đáng để xem xét và triển khai.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-639.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-639.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

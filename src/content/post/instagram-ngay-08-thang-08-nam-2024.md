@@ -3,7 +3,7 @@ pubDatetime: 2024-08-08T10:10:00Z
 title: Bài viết trên Instagram ngày 08 tháng 08 năm 2024
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-657.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-657.jpg
 tags:
   - viet lach
   - doan van
@@ -18,4 +18,4 @@ khi Đức báo tin sẵn sàng để lên đường, với mọi thứ trong h�
 
 sau khoảng thời gian dài đêm trường tăm tối và mọi thứ dần sáng trở lại, mình nảy sinh cảm giác như từng có trong giai đoạn trước lúc rời Sài Gòn, đó là cô đơn và mất kết nối với thành phố đang sống này; giờ đây, mình không còn hứng khởi những niềm vui như trước đó đã từng. thành phố này và thành phố kia vẫn luôn thế, một ngày mới vẫn bắt đầu trước lúc bình minh xuất hiện và kết thúc khi hoàng hôn đã tắt tự bao giờ, những con người ở đó và những điều xảy ra thì vẫn ngày nối ngày và đêm nối đêm; chỉ có điều, mình đâu tha thiết để tìm đến tận cùng vẻ đẹp của những thành phố nữa, khi bản thân đã trở nên nhàm chán trước lúc chán cái thành phố này.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-150.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-150.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

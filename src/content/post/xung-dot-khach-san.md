@@ -3,7 +3,7 @@ pubDatetime: 2022-06-20T10:10:00Z
 title: Làm thế nào để giải quyết các vấn đề xung đột của khách tại khách sạn của bạn?
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
 featured: false
-image: https://banmaixanh.org/image/cover/001-749.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-749.jpg
 tags:
   - viet thue
   - marketing
@@ -31,7 +31,7 @@ Rõ ràng, với các phản ánh chính xác, lỗi do khách sạn thì cần 
 
 Vấn đề đặt ra là, làm thế nào để các khách sạn giải quyết ổn thỏa chúng, nhưng không làm ảnh hưởng đến trải nghiệm thật sự của du khách. Đó là một chiến cân luôn trong trạng thái thiếu cân bằng, và khách sạn cần phải tinh tế trong việc giải quyết. Phần dưới đây là sự tinh tế mà khách sạn cần có, để giải quyết các vấn đề xung đột của khách tại khách sạn của bạn.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-017.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-017.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Làm thế nào để giải quyết các vấn đề xung đột của khách tại khách sạn của bạn?
 
@@ -61,7 +61,7 @@ _Cách giải quyết_
 
 Tiếp theo, nếu họ không hợp tác, hãy nhờ đến sự hỗ trợ của nhân viên an ninh – họ có quyền làm vậy khi có người gây rối trong khách sạn. Tuy nhiên, mọi việc cần thực hiện cẩn trọng, tránh gây hấn và tạo cớ cho họ gây chuyện nhiều hơn nữa.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-018.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-018.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Dựng chuyện để được giảm giá
 
@@ -95,7 +95,7 @@ Nếu du khách nhân nhượng, hãy giải thích thuật ngữ, tiếng lóng
 
 Tình huống này cũng thường xảy ra khi khách sạn sử dụng các cụm từ, chữ viết tắt theo nghĩa thông dụng, nhưng du khách lại hiểu sai, hiểu không đúng. Vì vậy, khi khách sạn sử dụng viết tắt, hãy đính kèm giải thích đầy đủ về ngữ nghĩa của từ ấy để tránh các hiểu lầm không nên có.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-019.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-019.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Coi các dịch vụ và tiện nghi trả phí là điều hiển nhiên
 
@@ -135,7 +135,7 @@ Cách đơn giản nhất là gọi nhân viên an ninh, yêu cầu họ hộ t�
 
 Còn nếu tình huống vượt tầm kiểm soát, hãy liên hệ cảnh sát và nhờ họ hỗ trợ. Rõ ràng, sự hỗn loạn và rắc rối từ khách say xỉn là điều không ai muốn, nhưng với tất cả những gì bạn đang thực hiện thì ngay sau đó tại khách sạn sẽ yên bình và không còn vấn đề nào phát sinh nữa.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-020.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-020.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Có phải khách hàng lúc nào cũng đúng?
 
@@ -145,4 +145,4 @@ Chính rủi ro từ những xung đột, rắc rối do du khách cố tình, �
 
 Và cuối cùng, bài viết này không phải cơ sở để khách sạn từ chối mọi yêu cần, phàn nàn chính đáng từ khách đặt phòng. Đôi khi một vài vấn đề phát sinh và khách sạn không thể kiểm soát hết được, việc nhận những phàn nàn và giải quyết chúng là cách ghi điểm tốt nhất, đảm bảo trải nghiệm tích cực cho du khách của bạn.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-510.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-510.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>

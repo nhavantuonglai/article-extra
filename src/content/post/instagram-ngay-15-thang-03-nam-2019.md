@@ -3,7 +3,7 @@ pubDatetime: 2019-03-07T10:10:00Z
 title: Bài viết trên Instagram ngày 15 tháng 03 năm 2019
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-343.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-343.jpg
 tags:
   - viet lach
   - doan van
@@ -24,4 +24,4 @@ lâu lắm rồi mới phải lội giữa những làn nước
 
 mùa mưa ở đây, dạo gần đây đem nhiều cảm giác về Huế, không biết đó là một tín hiệu nên cảm thấy lạc quan, hay nên chấp nhận.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-310.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-310.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

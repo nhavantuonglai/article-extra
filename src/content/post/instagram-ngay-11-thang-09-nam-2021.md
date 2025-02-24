@@ -3,7 +3,7 @@ pubDatetime: 2021-11-07T10:10:00Z
 title: Bài viết trên Instagram ngày 11 tháng 09 năm 2021
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - viet lach
   - doan van
@@ -18,4 +18,4 @@ có lẽ thì đường qua sông ngắn, và thuyền cũng nhỏ, nên chú kh
 
 nếu bạn chưa từng trải nghiệm, hãy nên thử một lần khi đến cồn Hến, hoặc ngược bên kia bờ sông mà sang. đường sang thì ngắn ngủi, trải nghiệm thú vị hay không cũng tùy người, nhưng mình tin rằng sẽ rất đáng nhớ và tuyệt vời cho ai chưa từng thử qua, ví dụ như vài vị khách đặc biệt mà mình gặp trên thuyền như thế nè.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

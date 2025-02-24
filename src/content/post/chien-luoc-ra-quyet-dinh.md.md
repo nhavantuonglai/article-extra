@@ -3,7 +3,7 @@ pubDatetime: 2023-11-02T10:10:00Z
 title: Casestudy Freakonomics và chiến lược ra quyết định khó khăn
 description: Một nghiên cứu được công bố gần đây đã yêu cầu mọi người đưa ra những lựa chọn khó khăn trong cuộc sống bằng cách lật một đồng xu. Những người tham gia đã đưa ra những quyết định này bên lề.
 featured: false
-image: https://banmaixanh.org/image/cover/001-523.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-523.jpg
 tags:
   - tam ly hoc
   - tam than hoc
@@ -22,7 +22,7 @@ Nhưng đây là một chiến lược đơn giản hơn: Khi bạn thiếu quy�
 
 Trong nghiên cứu, Levitt đã yêu cầu những người đang phải đối mặt với những quyết định khó khăn lật một đồng tiền kỹ thuật số trên website FreakonomicsExperiments.com, được tạo ra vào năm 2013. Việc tung đồng xu được chọn ngẫu nhiên, với một bên đại diện cho sự thay đổi, bên kia đại diện cho hiện trạng.
 
-<figure><img src="https://banmaixanh.org/image/article/casestudy-freakonomics-01.jpg" alt="casestudy-freakonomics" height=100% width=100%><figcaption><p>casestudy-freakonomics-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/casestudy-freakonomics-01.jpg" alt="casestudy-freakonomics" height=100% width=100%><figcaption><p>casestudy-freakonomics-nhavantuonglai</p></figcaption></figure>
 
 Ghi chú: Con số này trình bày tỷ lệ phần trăm người tham gia thực hiện thay đổi theo mốc khảo sát hai tháng theo xác suất thay đổi đã nêu của họ và kết quả của việc lật đồng xu. Trục dọc phản ánh tỷ lệ phần trăm số người được hỏi báo cáo thực hiện thay đổi. Các nhóm trục ngang theo khả năng trước đây đã nêu của họ về việc thực hiện thay đổi. Các câu trả lời được phân loại theo việc đồng xu xuất hiện trên đầu (thực hiện thay đổi) hay đuôi (không thay đổi).
 
@@ -30,7 +30,7 @@ Một số quyết định mà mọi người bị mắc kẹt: Tôi có nên b�
 
 Nghiên cứu đã yêu cầu hơn 20.000 người tham gia đưa ra bất kỳ quyết định nào mà việc tung đồng xu, và sau đó báo cáo lại về cách mọi thứ diễn ra sau hai và sáu tháng.
 
-<figure><img src="https://banmaixanh.org/image/article/casestudy-freakonomics-02.jpg" alt="casestudy-freakonomics" height=100% width=100%><figcaption><p>casestudy-freakonomics-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/casestudy-freakonomics-02.jpg" alt="casestudy-freakonomics" height=100% width=100%><figcaption><p>casestudy-freakonomics-nhavantuonglai</p></figcaption></figure>
 
 Tất nhiên, không phải ai cũng làm theo. Cuộc khảo sát kéo dài hai tháng cho thấy những người tham gia chọn thay đổi ít thường xuyên hơn so với dự đoán ban đầu. Tuy nhiên, sau sáu tháng, sự thiên vị này đối với việc không hành động đã biến mất.
 
@@ -52,4 +52,4 @@ _Nếu hối tiếc là sản phẩm của những quyết định mà người 
 
 Nhưng bạn cũng có thể sử dụng ngẫu nhiên hợp lý hơn một chút. Khi đối mặt với một quyết định khó khăn, bạn có thể lật một đồng xu và khi nhìn thấy kết quả, hãy chú ý xem bạn cảm thấy nhẹ nhõm hay sợ hãi. Nếu bạn cảm thấy nhẹ nhõm, đó có lẽ là con đường bạn nên chọn.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-517.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-517.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

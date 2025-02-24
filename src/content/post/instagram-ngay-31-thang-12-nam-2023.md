@@ -3,7 +3,7 @@ pubDatetime: 2023-12-31T10:10:00Z
 title: Bài viết trên Instagram ngày 31 tháng 12 năm 2023
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-120.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-120.jpg
 tags:
   - viet lach
   - doan van
@@ -22,4 +22,4 @@ bởi vậy, sang năm mới và điều mình muốn thay đổi ở bản thâ
 
 và cuối cùng, mình mong mọi người có thể tự đối xử với bản thân cũng như vậy, có thể đối mặt với cảm xúc tiêu cực chứ không chạy trốn trong những thú vui nửa vời hay trống rỗng, để có thể trọn vẹn chính mình trong mọi hoàn cảnh.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-286.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-286.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

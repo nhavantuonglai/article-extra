@@ -3,7 +3,7 @@ pubDatetime: 2022-03-27T10:10:00Z
 title: 7 lời khuyên về quản lý danh tiếng trực tuyến của khách sạn
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
 featured: false
-image: https://banmaixanh.org/image/cover/001-727.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-727.jpg
 tags:
   - viet thue
   - marketing
@@ -25,7 +25,7 @@ Việc xây dựng kênh truyền thông không giúp bạn chia sẻ, cập nh�
 
 Có 3 nguyên tắc cần nhớ khi xây dựng thương hiệu trên mạng xã hội, cụ thể như phần dưới đây.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-093.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-093.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Tính nhất quán
 
@@ -61,7 +61,7 @@ Nếu bạn nghĩ viết thiếu dấu thì không quan trọng? Đó là một 
 
 Nếu bạn nghĩ rằng việc đặt tên theo thương hiệu nổi tiếng, hoặc ăn theo những khách sạn nổi tiếng là một chiến lược xây dựng thương hiệu tốt, thì hãy ngưng lại. Chúng sẽ khiến khách hàng nhầm lẫn và khi phát hiện, họ sẽ bực dọc và không quay trở lại lần sau.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-094.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-094.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Đảm bảo diện mạo của thương hiệu
 
@@ -81,7 +81,7 @@ Khách sạn cũng nên thường xuyên cập nhật hồ sơ, bài viết trê
 
 Khi bạn không có một chiến lược để tiếp cận và phát triển thị trường, mọi nguồn lực sẽ dần hao tổn và lãng phí, khách hàng không hứng thú và đối thủ vượt lên trên.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-095.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-095.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Chủ động với các phản ứng
 
@@ -97,7 +97,7 @@ Danh tiếng trực tuyến của khách sạn không chỉ thể hiện qua nh�
 
 Nếu cảm thấy quá nhiều kênh để làm việc, hãy chọn ra các kênh quan trọng nhất – là những kênh đem lại khách hàng, hoặc doanh thu cho khách sạn để phát triển, nhắm [tối ưu doanh thu cho khách sạn](https://nhavantuonglai.com/article).
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-096.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-096.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Tối ưu hiển thị trên di động
 
@@ -125,7 +125,7 @@ Hãy luôn đồng cảm với khách hàng, bởi đó là nguyên tắc vàng 
 
 Cuối cùng, bạn sẽ thường xuyên gặp những trò troll, phá hoại từ đối thủ. Điểm khác biệt giữa troll, phá hoại là chúng khiến khách sạn của bạn trông thật tệ hại; còn những đánh giá tiêu cực cho bạn thấy điểm cần cải thiện và khắc phục. Điều cần nhớ, là không dây dưa cuộc thảo luận, chỉ nên trả lời tối đa 2 lần dù tích cực hay tiêu cực, và phớt lờ những chỉ trích thiếu khách quan, dẫn chứng.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-097.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-097.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Khảo sát ý kiến khách hàng
 
@@ -133,8 +133,8 @@ Và cuối cùng, hãy thực hiện những cuộc khảo sát, chúng sẽ gi�
 
 Để thuận tiện nhất, đừng bắt khách hàng trả lời khảo sát khi vừa check out, đôi khi lúc ấy là sát giờ bay, và bạn làm như vậy là phá hỏng trải nghiệm đã dày công xây dựng trước đó. Hãy đợi ít nhất 24 tiếng, và gửi khảo sát online kèm voucher giảm giá cho lần kế tiếp nếu họ hoàn thành khảo sát để khuyến khích họ thực hiện.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-098.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-098.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 Khách sạn nào cũng muốn tên mình được nhắc đến với những điều tích cực, dù không phải lúc nào điều ấy cũng có thể. Chúng yêu cầu một sự tập trung và cải thiện liên tục, nhằm đảm bảo mọi thứ vận hành trơn tru và ổn thỏa nhất. Với những công cụ và nguồn lực phù hợp, chắc chắn đấy là điều sẽ tạo nên khác biệt, và khiến khách hàng nhớ mãi về khách sạn của bạn.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-514.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-514.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>

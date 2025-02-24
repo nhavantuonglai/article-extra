@@ -3,7 +3,7 @@ pubDatetime: 2023-06-18T10:10:00Z
 title: Bài viết trên Instagram ngày 18 tháng 06 năm 2023
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - viet lach
   - doan van
@@ -22,4 +22,4 @@ nghe thế, mình hỏi bạn nghĩ sao về khoảng thời gian vô định c�
 
 bởi lẽ, ra trường và bắt đầu đi làm là một sự chuyển tiếp, cả đời sẽ có vô vàn sự chuyển tiếp như thế; và để quen, biết nên làm gì cho phải thì không phải ai cũng cần khoảng thời gian như nhau. ngay lúc này, bạn vẫn hoài nghi công việc hiện tại liệu là lựa chọn đúng, có hợp lý để toàn tâm toàn ý hay chưa? nhưng sự hoài nghi ấy, là tiền đề để tụi mình có thể nghĩ sâu sắc hơn và biết nên đi như thế nào cho phải lẽ.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

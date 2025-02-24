@@ -3,7 +3,7 @@ pubDatetime: 2022-04-13T10:10:00Z
 title: Tại sao khách lại không chọn khách sạn của bạn?
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
 featured: false
-image: https://banmaixanh.org/image/cover/001-605.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-605.jpg
 tags:
   - viet thue
   - marketing
@@ -23,7 +23,7 @@ Mùa du lịch cao điểm, Lễ Tết là [những thời điểm hốt bạc](
 
 Tuy rằng điều này có thể dễ dàng giải thích, nhưng lại khiến [khách đặt phòng cảm thấy khó chịu](https://nhavantuonglai.com/article) và không phải ai cũng sẵn lòng trả tiền nhiều hơn, đặc biệt là khi so sánh với mức giá trước đó mà họ có. Bên cạnh đó, nhiều khách sạn không tinh tế trong việc phát đi những thông điệp, khi trước đó họ giảm giá vào mùa vắng khách để kích cầu, và đưa mức giá trở lại bình thường lúc đông khách, làm khách hàng lầm tưởng rằng họ đang tăng giá.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-050.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-050.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Lễ tân không hỗ trợ tận tình
 
@@ -49,8 +49,8 @@ Quản lý, vận hành khách sạn là nền tảng để giúp cả hệ th�
 
 – Thông tin đặt phòng sai sót, tính giá sai. Có thể là lỗi khách quan vì quá tải, hoặc chủ quan là không đối chiếu, check thông tin trước khi chốt, khiến thông tin phòng đặt bị sai, nhầm lẫn… dễ gây nên bực tức, cảm giác không chuyên nghiệp, qua đó làm khách một đi và không quay trở lại.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-051.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-051.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 Những tình huống trên đây, người làm quản lý khách sạn có thể chủ động, né tránh ngay từ đầu bằng cách ứng dụng phần mềm quản lý khách sạn toàn diện, hiệu quả như giải pháp để tránh việc khách lại không chọn khách sạn của bạn. Bởi thông qua phần mềm này, bức tranh chung về cách vận hành, biến động của khách sạn sẽ được cập nhật, đồng bộ và thông báo với người chủ, quản lý mà qua đó họ sẽ có những quyết định, điều chỉnh phù hợp.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-510.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-510.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>

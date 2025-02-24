@@ -3,7 +3,7 @@ pubDatetime: 2022-03-25T10:10:00Z
 title: Những đánh giá trực tuyến tiêu cực về khách sạn và các ứng phó
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
 featured: false
-image: https://banmaixanh.org/image/cover/001-727.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-727.jpg
 tags:
   - viet thue
   - marketing
@@ -27,7 +27,7 @@ Một số nghiên cứu cũng chỉ ra rằng, với mỗi 1 đánh giá trực
 
 Một đánh giá trực tuyến được coi là xấu là khi chúng phản ánh chất lượng, trải nghiệm người dùng tại khách sạn không được như kỳ vọng, hay những vấn đề gặp phải không được đáp ứng, hỗ trợ triệt để. Đôi khi, các khách sạn đối thủ, hoặc ai căm ghét cũng để lại những đánh giá trực tuyến tiêu cực nhưng thiếu căn cứ, không có bằng chứng rõ ràng.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-111.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-111.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Khách đặt phòng thường phàn nàn vấn đề nào trong khách sạn?
 
@@ -65,7 +65,7 @@ Nhiều khách sạn phục vụ các bữa ăn cho khách đặt phòng, nhưng
 
 Bạn có thể thông qua nhà cung cấp thực phẩm độc lập để giải quyết, nếu trong khách sạn không có bộ phận chuyên trách. Nhưng hãy đảm bảo chất lượng và vệ sinh thực phẩm trước khi bàn giao cho khách đặt phòng.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-112.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-112.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Dịch vụ phòng chậm chạp
 
@@ -101,7 +101,7 @@ Các vấn đề liên quan đến thái độ thường được phản ánh nh
 
 – …
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-113.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-113.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Quảng cáo sai sự thật
 
@@ -165,8 +165,8 @@ Bạn có thể thực hiện các hành động sau để giải quyết vấn 
 
 Nếu vấn đề sẽ tạo ra sự xáo trộn, thay đổi trải nghiệm của toàn bộ khách đặt phòng, hãy thử nghiệm cục bộ để đo lường phản ứng rồi mở rộng, áp dụng cho toàn bộ khách sạn. Đôi khi, sự thiếu quen thuộc cũng gây nên trải nghiệm tệ, do vậy hãy cần đảm bảo rằng sự thay đổi ấy sẽ không khiến du khách quá bối rối, khó chịu.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-114.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-114.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 Trên đây là những điều mà bạn có thể làm để xử lý các đánh giá trực tuyến tiêu cực về khách sạn của bạn, chúng sẽ giải quyết được ngay vấn đề, nhưng giúp khách sạn của bạn tránh lặp lại sai lầm tương tự, và khắc phục phần nào vấn đề.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-510.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-510.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>

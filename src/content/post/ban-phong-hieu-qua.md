@@ -3,7 +3,7 @@ pubDatetime: 2022-01-18T10:10:00Z
 title: Quản lý kênh bán phòng khách sạn hiệu quả
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
 featured: false
-image: https://banmaixanh.org/image/cover/001-649.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-649.jpg
 tags:
   - viet thue
   - marketing
@@ -43,7 +43,7 @@ Tuy nhiên, có thể thấy rằng bán phòng thông qua các đại lý kênh
 
 – Và các công việc khác…
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-020.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-020.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Khó khăn thường gặp trong việc quản lý kênh bán phòng
 
@@ -89,7 +89,7 @@ Với tính năng giúp quản lý đồng bộ các kênh bán phòng ở trên
 
 Với những lợi ích đã nêu trên, có thể thấy việc ứng dụng hệ thống quản lý kênh bán phòng một cách hiệu quả sẽ giúp khách sạn tối doanh thu bán phòng trực tiếp và bán phòng qua kênh OTA. Việc sử dụng công cụ quản lý kênh cũng sẽ giúp khách sạn dễ dàng theo dõi và tổng hợp doanh thu đặt phòng từ từng kênh bán phòng. Từ đó, đánh giá hiệu quả bán phòng từng kênh và xây dựng các chiến lược kinh doanh nhằm thu hút đặt phòng.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-028.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-028.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Các tiêu chí lựa chọn công cụ quản lý kênh – vừa hiệu quả vừa đảm bảo chi phí
 
@@ -125,4 +125,4 @@ Việc sử dụng hệ thống quản lý khách sạn PMS có tích hợp vớ
 
 Khi khách sạn có càng nhiều kênh bán phòng, thì vai trò của việc quản lý càng quan trọng, khi ấy thì cần phải có giải pháp quản lý phù hợp, đáp ứng được nhu cầu vận hành và giải quyết những vấn đề xảy ra giữa các kênh. Lựa chọn đúng giải pháp, việc vận hành sẽ luôn được đảm bảo và giảm thiểu những rủi ro không đáng có.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-610.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-610.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>

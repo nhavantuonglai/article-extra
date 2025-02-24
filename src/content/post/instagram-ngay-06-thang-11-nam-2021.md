@@ -3,7 +3,7 @@ pubDatetime: 2021-06-07T10:10:00Z
 title: Bài viết trên Instagram ngày 06 tháng 11 năm 2021
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - viet lach
   - doan van
@@ -20,4 +20,4 @@ mình thì lại khác. lúc nhỏ, sống với ông bà nội, tối lại là
 
 đem điều ấy chia sẻ với bạn, bạn gật gù cũng có lẽ, nhưng mà – anh thích nhạc Trịnh không, em nghĩ người Huế hẳn ai cũng thích nhỉ? câu hỏi khiến mình bối rối, bởi chưa bao giờ nghĩ tới. thế mình có thích nghe Trịnh không, có thích nhã nhạc cung đình không? mà câu trả lời thế nào có là quan trọng không? ngẫm một chút, mình trả lời bạn – nhạc với anh như đứa trẻ trong gia đình sùng đạo với niềm tin vậy, đều là những điều không cần giải thích.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

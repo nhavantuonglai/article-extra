@@ -3,7 +3,7 @@ pubDatetime: 2021-07-26T10:10:00Z
 title: Khi thấy buồn, em cứ đến chơi…
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-321.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-321.jpg
 tags:
   - viet lach
   - doan van
@@ -24,4 +24,4 @@ còn hiện tại, bạn đã thành người đáng tin cậy, và an toàn đ�
 
 nhưng kể có vậy, mình vẫn giữ niềm tin về tình bạn mà chúng mình có, không phải bền chặt và trường tồn cùng năm tháng; mà là sinh ra, để thành những người bạn của nhau…
 
-<figure><img src="https://banmaixanh.org/image/cover/001-265.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-265.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

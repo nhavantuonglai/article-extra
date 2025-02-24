@@ -3,7 +3,7 @@ pubDatetime: 2019-07-07T10:10:00Z
 title: Bài viết trên Instagram ngày 19 tháng 07 năm 2019
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-343.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-343.jpg
 tags:
   - viet lach
   - doan van
@@ -24,4 +24,4 @@ tối hôm qua có một người hỏi mình, những người o
 
 và thực lòng, mình vẫn chưa sẵn sàng kết nối thật thân tình với ai ở đây một cách sâu sắc. bởi dấu ấn ở đà nẵng quá mạnh mẽ, mình lại sợ rằng một ngày nào đó không xa xôi, mình chẳng thể rời đi một cách bình yên được.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-310.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-310.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

@@ -3,7 +3,7 @@ pubDatetime: 2023-01-05T10:10:00Z
 title: Generative AI sẽ định hình cách chúng ta sáng tạo và làm việc như thế nào?
 description: Trong bối cảnh kỹ thuật số phát triển nhanh chóng ngày nay, sự kết hợp giữa sáng tạo và công nghệ đang định hình lại cách chúng ta làm việc hơn bao giờ hết.
 featured: false
-image: https://banmaixanh.org/image/cover/001-499.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-499.jpg
 tags:
   - ai
   - xu huong cong nghe
@@ -52,7 +52,7 @@ Các nhà công nghệ tại Zee, một tập đoàn truyền thông lớn của
 
 Các giải pháp vừa và nhỏ thường không đủ khả năng chi trả chi phí đại lý và thấy quy trình tạo quảng cáo rất phức tạp và chi phí cấm. Một số cũng đấu tranh với việc tìm đúng đối tượng để nhắm mục tiêu theo cách hiệu quả về chi phí. Zee đã tạo ra một nền tảng quảng cáo tự phục vụ để giúp các giải pháp như vậy sử dụng genAI để xây dựng các chiến dịch quảng cáo và xuất bản trên các nền tảng khác nhau một cách đơn giản hóa cao.
 
-<figure><img src="https://banmaixanh.org/image/article/ai-generative-tieu-chuan-01.jpg" alt="ai-generative-tieu-chuan" height=100% width=100%><figcaption><p>ai-generative-tieu-chuan-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/ai-generative-tieu-chuan-01.jpg" alt="ai-generative-tieu-chuan" height=100% width=100%><figcaption><p>ai-generative-tieu-chuan-nhavantuonglai</p></figcaption></figure>
 
 Những ví dụ này phản ánh kỳ vọng từ sách trắng của chúng tôi về cách các công ty sẽ sử dụng genAI. Trong ngành viễn thông, chúng tôi thấy rằng khoảng 65% thời gian làm việc của đại diện bán hàng và dịch vụ khách hàng bị ảnh hưởng bởi LLM theo một cách nào đó. Điều này cho phép họ đồng thời tăng sự hài lòng của khách hàng và cải thiện hiệu quả của họ – như được khám phá bởi các nhà lãnh đạo công nghệ của Accenture Paul R. Daugherty và H. James Wilson trong cuốn Radically Human: How New Technology Is Transforming Business and Shaping Our Future.
 
@@ -60,7 +60,7 @@ Những ví dụ này phản ánh kỳ vọng từ sách trắng của chúng t�
 
 Bao nhiêu thời gian làm việc được chạm vào bởi LLM trong các công việc viễn thông. Hình ảnh: Jobs of Tomorrow: Mô hình ngôn ngữ lớn và việc làm
 
-<figure><img src="https://banmaixanh.org/image/article/ai-generative-tieu-chuan-02.jpg" alt="ai-generative-tieu-chuan" height=100% width=100%><figcaption><p>ai-generative-tieu-chuan-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/ai-generative-tieu-chuan-02.jpg" alt="ai-generative-tieu-chuan" height=100% width=100%><figcaption><p>ai-generative-tieu-chuan-nhavantuonglai</p></figcaption></figure>
 
 Tương tự như vậy, các nhà phân tích tiếp thị và chuyên gia làm việc trong lĩnh vực truyền thông đã có gần 70% thời gian làm việc của họ tiếp xúc với LLM. Nếu các công ty hỗ trợ triển khai các công cụ genAI thông qua thiết kế lại quy trình, đầu tư kỹ năng và thay đổi văn hóa, nó có thể thúc đẩy hơn nữa năng suất và đổi mới. Nó cũng có thể trao quyền cho người lao động sử dụng genAI để xác định lại cách thức công việc được thực hiện trong chuỗi giá trị.
 
@@ -70,4 +70,4 @@ Bao nhiêu thời gian làm việc được chạm vào bởi LLM trong công vi
 
 Telefónica Brazil và Zee cho thấy genAI có thể biến đổi các ngành công nghiệp như thế nào. Thật vậy, genAI không chỉ là một công cụ cho ngày hôm nay, nó là nền tảng cho ngày mai. Tiềm năng của nó để định hình lại các ngành công nghiệp và tăng cường sự sáng tạo của con người sẽ là chìa khóa để thúc đẩy tăng trưởng, sáng tạo và đổi mới bền vững trong các ngành công nghiệp.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-281.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-281.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

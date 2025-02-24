@@ -3,7 +3,7 @@ pubDatetime: 2025-02-26T10:10:00Z
 title: Sự ám ảnh của thung lũng Silicon với AI như ám ảnh tôn giáo
 description: Sự cố chấp của thế giới công nghệ với trí tuệ nhân tạo đã sinh ra những niềm tin và nghi thức giống như tôn giáo – hoàn chỉnh với các vị thần kỹ thuật số.
 featured: false
-image: https://banmaixanh.org/image/cover/001-637.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-637.jpg
 tags:
   - khoa hoc
   - cong nghe
@@ -77,4 +77,4 @@ Nhưng chúng ta sợ hãi. Thật hấp dẫn khi chọn một con đường kh
 
 Greg M. Epstein phục vụ với tư cách là Tuyên úy Nhân văn tại Harvard & MIT, nơi ông tư vấn cho sinh viên, giảng viên và nhân viên về các mối quan tâm đạo đức và hiện sinh từ quan điểm nhân văn. Ông là tác giả của cuốn sách bán chạy nhất New York Times _Good Without God_ (William Morrow and Company) và _Tech Agnostic,_ mà bài viết này được chuyển thể từ đó.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-543.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-543.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

@@ -3,7 +3,7 @@ pubDatetime: 2021-04-20T10:10:00Z
 title: Những kỹ năng cần thiết giúp viết lách tốt hơn
 description: Viết lách là một nghệ thuật, nhưng cũng là một kỹ năng có thể học hỏi và trau dồi. Để viết lách tốt hơn, không chỉ cần có sự sáng tạo mà còn cần các kỹ năng cụ thể.
 featured: false
-image: https://banmaixanh.org/image/cover/001-132.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-132.jpg
 tags:
   - viet lach
   - ky nang viet
@@ -27,7 +27,7 @@ Cách nâng cao kỹ năng nghiên cứu:
 
 – Ghi chú có hệ thống: Khi nghiên cứu, hãy ghi chú một cách có hệ thống để dễ dàng tra cứu và sử dụng khi cần.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-071.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-071.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Kỹ năng tư duy phản biện
 
@@ -65,7 +65,7 @@ Cách viết rõ ràng và cô đọng:
 
 – Lọc bỏ các từ không cần thiết: Khi chỉnh sửa bài viết, hãy lọc bỏ các từ không cần thiết để làm cho bài viết của bạn cô đọng hơn.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-072.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-072.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Kỹ năng sáng tạo
 
@@ -103,7 +103,7 @@ Cách quản lý thời gian hiệu quả:
 
 – Tránh sao nhãng: Hãy tạo môi trường làm việc yên tĩnh và tránh các yếu tố gây sao nhãng như điện thoại, mạng xã hội.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-073.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-073.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Kỹ năng giao tiếp
 
@@ -129,7 +129,7 @@ Cách sử dụng công nghệ hiệu quả:
 
 – Tận dụng các công cụ hỗ trợ chỉnh sửa: Như đã đề cập, các công cụ như Grammarly, Hemingway Editor rất hữu ích trong việc chỉnh sửa bài viết.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-074.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-074.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Kỹ năng thấu hiểu độc giả
 
@@ -143,10 +143,10 @@ Cách thấu hiểu độc giả:
 
 – Viết theo phong cách phù hợp: Tùy thuộc vào đối tượng độc giả, hãy lựa chọn phong cách viết phù hợp để thu hút và giữ chân họ.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-075.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-075.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Kết luận
 
 Viết lách là một kỹ năng đòi hỏi sự kiên nhẫn và luyện tập không ngừng. Bằng cách nắm vững và cải thiện các kỹ năng trên, bạn có thể nâng cao khả năng viết lách của mình và tạo ra những bài viết chất lượng, gây ấn tượng mạnh mẽ với độc giả. Hãy bắt đầu từ những bước nhỏ, kiên trì và không ngừng học hỏi, bạn sẽ thấy khả năng viết lách của mình ngày càng tiến bộ.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-514.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-514.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

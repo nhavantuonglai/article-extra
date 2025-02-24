@@ -3,7 +3,7 @@ pubDatetime: 2023-12-12T10:10:00Z
 title: Tìm hiểu về writing process để cải thiện kỹ năng viết lách
 description: Từ chữ tượng hình cổ đại đến tiểu thuyết hiện đại, văn bản đã phát triển và thích nghi với các nền văn hóa và ngôn ngữ khác nhau.
 featured: false
-image: https://banmaixanh.org/image/cover/001-141.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-141.jpg
 tags:
   - viet lach
   - ky nang viet
@@ -27,7 +27,7 @@ Tương tự như việc [viết truyện trinh thám kinh dị](https://nhavant
 
 Với quan điểm cá nhân, tôi cho rằng viết nháp rất quan trọng trong hành trình viết. Thông thường, khi có ý tưởng và cần thể hiện chúng, tôi bắt đầu với một tờ giấy trắng, một file Word trống trơn và ghi ra từng ý một, lộn xộn và thiếu nhất quán, nhằm đảm bảo không sót điều gì của ý tưởng mà được ghi ra. Chúng sẽ là nền tảng cơ bản, giúp tôi định hình chính xác ý tưởng trông như thế nào, nên bắt đầu từ đâu, và đừng để sót chi tiết nào trong ý tưởng ấy.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-085.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-085.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ### Viết hoàn chỉnh – biến ý tưởng thành câu từ
 
@@ -43,7 +43,7 @@ Sau khi viết xong lần đầu, thì đã đến lúc sửa đổi. Đây là 
 
 Với bất kỳ nhà văn nào, đây luôn là giai đoạn khó khăn, bởi đòi hỏi ở họ nhiều sự kiên trì và nhẫn nại, nhưng nếu là một [nhà văn giỏi](https://nhavantuonglai.com/article) thì điều đó sẽ không làm khó được họ. Vậy nên, nếu bạn là một [nhà văn tương lai](https://nhavantuonglai.com) và đang trong hành trình khẳng định bản thân với nghề viết, hãy kiên trì và nhẫn nại nhiều nhất có thể.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-086.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-086.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ### Biên tập – hoàn thiện bản thảo tác phẩm tương lai
 
@@ -61,7 +61,7 @@ Là một [nhà văn tương lai](https://nhavantuonglai.com/article), tôi ít 
 
 Thách thức lớn nhất của người làm công việc sáng tạo là được công chúng chấp nhận thành quả, nhưng trước đó họ phải vượt qua rào cản lớn hơn – làm thế nào để không khiến bản thân tạo ra những sản phẩm trong lối mòn, thân thuộc đầy nhàm chán. Phải mất một thời gian thử và sai để tìm ra được cách cân bằng, xây dựng quy trình viết lách cho phù hợp với bản thân. Dưới đây là những lời khuyên cho những ai muốn tìm bản sắc cá nhân thông qua hành trình viết lách.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-087.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-087.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ### Xác định môi trường, không gian làm việc phù hợp
 
@@ -77,7 +77,7 @@ Với từng giai đoạn khi viết lách sẽ cần những mục tiêu cụ t
 
 Có rất nhiều [công cụ, tài nguyên hỗ trợ viết lách hiệu quả](https://nhavantuonglai.com/article). Việc bạn nên làm là cân nhắc, lựa chọn công cụ phù hợp để áp dụng trong quá trình viết lách của bản thân. Bạn cũng có thể sử dụng lời nhắc viết hoặc bài tập viết để có được [giải phóng sức sáng tạo](https://nhavantuonglai.com/article) khi viết lách.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-088.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-088.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Hành trình viết giúp cải thiện kỹ năng viết lách như thế nào?
 
@@ -99,7 +99,7 @@ Hành trình viết giúp quản lý thời gian viết lách hiệu quả, bằ
 
 Sau khi tìm hiểu về hành trình viết và lợi ích, hãy biết cách sử dụng chúng để cải thiện, nâng cao kỹ năng viết lách, dưới đây là hướng dẫn chi tiết.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-089.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-089.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ### Không chần chừ khi viết
 
@@ -115,7 +115,7 @@ Hành trình viết là sự hỗ trợ đắc lực giúp bạn hoàn thiện t
 
 Mỗi bước của hành trình viết đều quan trọng và nhảy cóc sang bước khác sẽ khiến tác phẩm cuối cùng của bạn trở nên kém hoàn thiện, chất lượng thấp hơn. Hãy chắc chắn và đảm bảo rằng, quá trình viết lách luôn tuân theo hành trình viết một cách nhất quán và chắc chắn.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-090.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-090.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ### Nhận phản hồi
 
@@ -137,7 +137,7 @@ Sơ đồ nội dung viết là kế hoạch tổng thể nhằm đạt được
 
 Sơ đồ nội dung viết nên được đính kèm những tài liệu tham khảo, ghi chú ý tưởng, hoặc trọng tâm cần nhắm đến khi triển khai nội dung. Những điều ấy sẽ giúp bạn viết hiệu quả, đảm bảo phát triển cốt truyện và nội dung đạt đúng kỳ vọng của bản thân.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-091.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-091.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Những thể loại viết phù hợp khi sử dụng hành trình viết
 
@@ -163,7 +163,7 @@ J.K. Rowling nổi tiếng đã sử dụng hành trình viết để tạo ra b
 
 Steve Jobs, người đồng sáng lập Apple, đã sử dụng hành trình viết để chuẩn bị cho sự ra mắt của chiếc iPhone đầu tiên. Ông đã dành nhiều tháng để suy nghĩ và lên kế hoạch cho bài thuyết trình, viết nháp và sửa đổi kịch bản, và thử thuyết trình trước khi chia sẻ chính thức. Điều này tạo ra màn giới thiệu thành công bậc nhất lịch sử, đưa ông trở thành nhà thuyết trình vĩ đại.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-092.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-092.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ### Pixar
 
@@ -173,4 +173,4 @@ Pixar, xưởng phim hoạt hình đứng sau những bộ phim nổi tiếng nh
 
 Hành trình viết là một hành trình, bởi vậy hãy nên lựa chọn cách viết phù hợp nhất với bản thân. Thông qua kinh nghiệm viết, tôi nhận ra rằng, các giai đoạn trong quá trình viết đều quan trọng như nhau, vừa đóng vai trò cầu nối lại đảm bảo kết cấu vững chắc cho tác phẩm. Đồng thời, sử dụng những công cụ trực quan sẽ rất hữu ích trong công việc viết lách, giúp bạn hoàn thiện tác phẩm đúng cách và đúng tiến độ, cũng như cải thiện kỹ năng viết của bản thân theo hướng tốt nhất có thể.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-365.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-365.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

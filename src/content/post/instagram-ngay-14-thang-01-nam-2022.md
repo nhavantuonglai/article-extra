@@ -3,7 +3,7 @@ pubDatetime: 2022-01-14T10:10:00Z
 title: Bài viết trên Instagram ngày 14 tháng 01 năm 2022
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-123.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-123.jpg
 tags:
   - viet lach
   - doan van
@@ -26,4 +26,4 @@ rồi khi vào Sài Gòn và dần dấn thân vào nghề viết, mình cũng n
 
 những điều ấy, nếu chọn một trải nghiệm đơn giản hơn để tiếp cận, thì có lẽ mình sẽ tốn rất nhiều thời gian, hoặc sẽ không bao giờ nhận ra sự tồn tại của chúng.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

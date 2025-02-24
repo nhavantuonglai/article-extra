@@ -3,7 +3,7 @@ pubDatetime: 2023-07-07T10:10:00Z
 title: Tại sao nên quản lý spa bằng phần mềm?
 description: Tìm hiểu các chiến lược tiếp thị Spa hiệu quả trong chuỗi bài viết sau của nhavantuonglai để áp dụng và đem lại hiệu quả thiết thực cho giải pháp của bạn.
 featured: false
-image: https://banmaixanh.org/image/cover/001-605.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-605.jpg
 tags:
   - viet thue
   - marketing
@@ -73,4 +73,4 @@ Việc kiểm soát, theo dõi dòng tiền cũng dễ dàng, hiệu quả hơn,
 
 Tổng quan lại, việc quản lý tiệm Spa khi có phần mềm quản lý, sẽ dễ dàng, trực quan, hiệu quả, và chính xác hơn. Giúp nhân viên tiết kiệm thời gian khi làm việc, giúp người quản lý có cái nhìn bao quát và đánh giá được tổng thể, giúp ra những quyết định đầu tư phù hợp và tạo đà cho tiệm phát triển nhanh chóng.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-510.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-510.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

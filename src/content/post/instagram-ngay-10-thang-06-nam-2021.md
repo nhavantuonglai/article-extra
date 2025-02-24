@@ -3,7 +3,7 @@ pubDatetime: 2021-06-07T10:10:00Z
 title: Bài viết trên Instagram ngày 10 tháng 06 năm 2021
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-323.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-323.jpg
 tags:
   - viet lach
   - doan van
@@ -18,4 +18,4 @@ khi trong một xã hội mà trắng đen lẫn lộn, và vùng 
 
 nhưng đã rất nhiều lần mình tự hỏi, nếu câu chuyện của người lạ là thật, và mình không giúp họ thì có ai khác giúp không; sâu xa hơn nữa, chính là cảm giác bị lừa bởi một người xa lạ, đối trọng với sự vô cảm của chính mình, thì cái nào đau thương hơn cái nào? câu trả lời cho những lần ấy, và cả tối nay nữa, cũng không khó để lựa chọn…
 
-<figure><img src="https://banmaixanh.org/image/cover/001-310.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-310.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

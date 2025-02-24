@@ -3,7 +3,7 @@ pubDatetime: 2023-07-25T10:10:00Z
 title: Một bí ẩn 62 năm tuổi của Nga (và thuyết âm mưu) đã được giải đáp
 description: Năm 1959, một nhóm chín người đi bộ đường dài Nga đã thiệt mạng trong một sự cố qua đêm ở dãy núi Ural. Những âm mưu về cái chết của họ.
 featured: false
-image: https://banmaixanh.org/image/cover/001-687.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-687.jpg
 tags:
   - viet lach
   - thuyet am muu
@@ -52,4 +52,4 @@ Gaume và Puzrin đi làm. Họ cung cấp bốn yếu tố quan trọng xác nh
 
 Vụ án đã khép lại? Có vẻ như vậy, mặc dù đừng mong đợi các thuyết âm mưu sẽ giảm bớt. Nghiên cứu tốt cần có thời gian – đôi khi là nhiều thế hệ. Chúng tôi liên tục tìm hiểu về môi trường của chúng tôi và sau đó áp dụng những bài học đó vào quá khứ. Mặc dù chúng ta không thể mong đợi mọi người hoài nghi chấp nhận những phát hiện này, nhưng từ vẻ ngoài của nghiên cứu này, một trường hợp 62 tuổi hiện đã đóng cửa.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-684.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-684.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

@@ -3,7 +3,7 @@ pubDatetime: 2025-02-15T10:10:00Z
 title: Hướng dẫn xây dựng website dựa trên mã nguồn mở
 description: nhavantuonglai.com được tạo nên từ mã nguồn mở, nên bài viết này sẽ hướng dẫn bạn cách tạo ra website tương tự, với toàn bộ mã nguồn của chính nó.
 featured: false
-image: https://banmaixanh.org/image/cover/001-779.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-779.jpg
 tags:
   - website
   - tao website
@@ -234,11 +234,11 @@ Quá trình tạo website dựa trên mã nguồn `\article-open` có thể th�
 
 Triển khai dự án trực tiếp qua Vercel là phương pháp nhanh chóng, đơn giản nhất để public website từ mã nguồn `\article-open.`
 
-<figure><img src="https://banmaixanh.org/image/article/ma-nguon-mo-01.jpg" alt="vercel-website-deploy-nhavantuonglai" title="vercel-website-deploy-nhavantuonglai" height=100% width=100%><figcaption><p>vercel-website-deploy-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/ma-nguon-mo-01.jpg" alt="vercel-website-deploy-nhavantuonglai" title="vercel-website-deploy-nhavantuonglai" height=100% width=100%><figcaption><p>vercel-website-deploy-nhavantuonglai</p></figcaption></figure>
 
 Đầu tiên, [đăng ký và đăng nhập Vercel](https://vercel.com/new) tại đây. Quá trình này yêu cầu tạo mới tài khoản Github, hoặc liên kết với tài khoản sẵn có để lưu trữ mã nguồn.
 
-<figure><img src="https://banmaixanh.org/image/article/ma-nguon-mo-04.jpg" alt="vercel-website-deploy-nhavantuonglai" title="vercel-website-deploy-nhavantuonglai" height=100% width=100%><figcaption><p>vercel-website-deploy-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/ma-nguon-mo-04.jpg" alt="vercel-website-deploy-nhavantuonglai" title="vercel-website-deploy-nhavantuonglai" height=100% width=100%><figcaption><p>vercel-website-deploy-nhavantuonglai</p></figcaption></figure>
 
 Sau đó, click vào _New project_ và chọn _Import git repository,_ và nhập url repository của dự án `\article-open` tại:
 
@@ -248,7 +248,7 @@ https://github.com/nhavantuonglai/article-open.git
 
 Dựa trên mã nguồn đầu vào, Vercel sẽ tạo repository mới cho bạn trong Github. Như vậy, website đã được deploy thành công.
 
-<figure><img src="https://banmaixanh.org/image/article/ma-nguon-mo-02.jpg" alt="vercel-website-deploy-nhavantuonglai" title="vercel-website-deploy-nhavantuonglai" height=100% width=100%><figcaption><p>vercel-website-deploy-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/ma-nguon-mo-02.jpg" alt="vercel-website-deploy-nhavantuonglai" title="vercel-website-deploy-nhavantuonglai" height=100% width=100%><figcaption><p>vercel-website-deploy-nhavantuonglai</p></figcaption></figure>
 
 Phương pháp này rất nhanh và đơn giản, phù hợp với những ai muốn trải nghiệm giao diện của `\article-open` ngay lập tức. Nhưng việc cập nhật rất hạn chế, và bảo trì mã nguồn cũng gặp khó khăn.
 
@@ -262,7 +262,7 @@ gh repo clone nhavantuonglai/article-open
 
 Sau đó, truy cập vào Vercel, đăng ký tài khoản hoặc lựa chọn đăng nhập bằng Github, rồi _Import repository_ tương tự như trên. Mã nguồn sẽ được lưu, quản lý và điều chỉnh trực tiếp trên tài khoản của bạn, giúp các cập nhật, bảo trì trở nên dễ dàng và thuận tiện. Tuy vậy, quá trình này tốn nhiều bước, và không phải ai lúc ban đầu cũng làm quen được.
 
-<figure><img src="https://banmaixanh.org/image/article/website-deploy-05.jpg" alt="vercel-website-deploy-nhavantuonglai" title="vercel-website-deploy-nhavantuonglai" height=100% width=100%><figcaption><p>vercel-website-deploy-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/website-deploy-05.jpg" alt="vercel-website-deploy-nhavantuonglai" title="vercel-website-deploy-nhavantuonglai" height=100% width=100%><figcaption><p>vercel-website-deploy-nhavantuonglai</p></figcaption></figure>
 
 Sau khi hoàn tất, bạn có thể truy cập vào _Domain_ để chỉnh lại subdomain mặc định, hoặc gán domain cá nhân vào.
 
@@ -288,12 +288,12 @@ http://localhost:4321/
 
 Để điều chỉnh, cập nhật các nội dung hiển thị trên website, bạn cần tìm đúng folder, file tương ứng như phần Cấu trúc thư mục dự án nêu trên để điều chỉnh, sau khi lưu thì giao diện website ở localhost cũng nhanh chóng được cập nhật, và nếu gặp lỗi thì sẽ báo tức thì.
 
-<figure><img src="https://banmaixanh.org/image/article/ma-nguon-mo-04.jpg" alt="vercel-website-deploy-nhavantuonglai" title="vercel-website-deploy-nhavantuonglai" height=100% width=100%><figcaption><p>vercel-website-deploy-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/ma-nguon-mo-04.jpg" alt="vercel-website-deploy-nhavantuonglai" title="vercel-website-deploy-nhavantuonglai" height=100% width=100%><figcaption><p>vercel-website-deploy-nhavantuonglai</p></figcaption></figure>
 
 Sau khi hoàn tất, bạn chỉ cần mở Github Desktop lên, commit các thay đổi rồi đợi deploy website, và như vậy, website đã được cập nhật thành công.
 
-<figure><img src="https://banmaixanh.org/image/article/vercel-website-deploy-01.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/vercel-website-deploy-01.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
 Hy vọng rằng bài hướng dẫn này sẽ giúp bạn hiểu rõ các bước tạo và quản lý website cá nhân trên Github và Vercel, với [mã nguồn mở](https://nhavantuonglai.com/article/ma-nguon-mo) của nhavantuonglai.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-524.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-524.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

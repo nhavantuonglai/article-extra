@@ -3,7 +3,7 @@ pubDatetime: 2024-12-07T10:10:00Z
 title: Bài viết trên Instagram ngày 07 tháng 12 năm 2024
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-527.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-527.jpg
 tags:
   - viet lach
   - doan van
@@ -22,4 +22,4 @@ những điều ấy đang diễn ra nên chưa có một thành quả rõ ràng
 
 đó cũng chính là hạn chế của việc tự học, khi quá trình thử – sai lúc học một điều mới sẽ diễn ra trường kỳ, tốn thời gian mò mẫm hơn. nên nếu một khi bạn tự học một điều mới, thì cần rất nhiều sự kiên nhẫn trong hành trình đó. kết quả sau cùng cho những điều ấy là, bạn biết tường tận những điều sai mà người khác mãi không hiểu tại sao nó lại sai.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-156.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-156.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

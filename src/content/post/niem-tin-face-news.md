@@ -3,7 +3,7 @@ pubDatetime: 2023-08-01T10:10:00Z
 title: Thấy fake news nhiều, tin fake news nhiều
 description: Tin tức giả mạo lan truyền như một loại virus. Vào năm 2019, các nhà nghiên cứu tại Stanford Engineering đã phân tích sự lan truyền của tin tức giả mạo như thể đó là một chủng Ebola.
 featured: false
-image: https://banmaixanh.org/image/cover/001-548.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-548.jpg
 tags:
   - viet lach
   - thuyet am muu
@@ -63,4 +63,4 @@ Wahlheim nói thêm:
 
 Fake news được sửa chữa bằng thông tin đã được kiểm chứng thực tế có thể cải thiện cả độ chính xác của trí nhớ và niềm tin vào thông tin thực.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-288.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-288.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

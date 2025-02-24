@@ -3,7 +3,7 @@ pubDatetime: 2021-09-25T10:10:00Z
 title: Địa điểm vui chơi nghỉ ngơi tại Phú Quốc mùa du lịch
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
 featured: false
-image: https://banmaixanh.org/image/cover/001-663.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-663.jpg
 tags:
   - viet thue
   - marketing
@@ -88,4 +88,4 @@ Bãi Dài là địa điểm hot tại Phú Quốc mà bạn phải đến trong
 
 AVS Hotel mong rằng những chia sẻ trên sẽ hữu ích trong chuyến du lịch Phú Quốc của bạn. Hy vọng bạn sẽ có được những khoảnh khắc đáng nhớ tại Phú Quốc và AVS Hotel Phú Quốc nhé!
 
-<figure><img src="https://banmaixanh.org/image/cover/001-483.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-483.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

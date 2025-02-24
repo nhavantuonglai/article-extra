@@ -3,7 +3,7 @@ pubDatetime: 2022-09-20T10:10:00Z
 title: Lịch sử thành lập nhà nước Israel và xung đột với người Palestine
 description: Nhà nước Israel được thành lập dựa trên cơ chế nào và nếu có thì những người có trách nhiệm đã lên kế hoạch đối phó với những người vốn đã sống ở mảnh đất đó như thế nào?
 featured: false
-image: https://banmaixanh.org/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - lich su
   - israel
@@ -255,4 +255,4 @@ Những lời đề nghị ở đây rất rõ ràng. Hoa Kỳ và Liên Xô đa
 
 – The American Journal of International Law, Vol. 42, No. 3 (Jul., 1948), pp. 620 – 627.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

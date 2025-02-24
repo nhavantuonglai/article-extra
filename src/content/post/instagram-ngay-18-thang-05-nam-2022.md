@@ -3,7 +3,7 @@ pubDatetime: 2022-05-18T10:10:00Z
 title: Bài viết trên Instagram ngày 18 tháng 05 năm 2022
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-121.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-121.jpg
 tags:
   - viet lach
   - doan van
@@ -22,4 +22,4 @@ nghe vậy rồi chợt nghĩ, thế 5 năm trước mình đã lên kế hoạc
 
 giờ thì cũng đã 5 năm đi làm fulltime, thêm vài ngày nữa là tròn 5 năm kể từ lúc bước chân vào Đà Nẵng để bắt đầu cuộc sống mới. mà thật sự thì, trong hiện tại, khi nghĩ về những gì muốn làm trong 5 năm nữa, mình vẫn thấy mông lung, bởi không biết chúng sẽ dẫn mình theo lối nào. nhưng đâu đó, mình không sợ nhiều lắm, bởi với những gì đã xảy ra trong 5 năm vừa qua, mình tin vào bản thân hơn một chút, tin vào những lối mình đi qua, và những ngã mình sắp rẽ đến.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

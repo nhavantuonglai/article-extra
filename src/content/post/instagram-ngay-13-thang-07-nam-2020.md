@@ -3,7 +3,7 @@ pubDatetime: 2020-07-07T10:10:00Z
 title: Bài viết trên Instagram ngày 13 tháng 07 năm 2020
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - viet lach
   - doan van
@@ -31,4 +31,4 @@ nhưng dẫu cảm xúc có buồn hay vui sau mỗi chuyến đi, thì có mộ
 
 đó chính là điều tích cực, mà không phải chuyến du hành nào cũng có thể đem lại.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

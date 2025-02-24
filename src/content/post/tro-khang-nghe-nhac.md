@@ -3,7 +3,7 @@ pubDatetime: 2021-02-23T10:10:00Z
 title: Tìm hiểu về trở kháng tai nghe
 description: Trở kháng tai nghe là một trong những thông số kỹ thuật quan trọng nhất để đánh giá hiệu suất của tai nghe.
 featured: false
-image: https://banmaixanh.org/image/cover/001-434.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-434.jpg
 tags:
   - viet lach
   - thuong thuc am thanh
@@ -246,4 +246,4 @@ Một quy tắc chung là trở kháng đầu ra của nguồn phát nên thấp
 
 Hiểu rõ về trở kháng tai nghe và các yếu tố liên quan giúp bạn chọn lựa và sử dụng tai nghe một cách hiệu quả nhất. Hy vọng bài viết này đã cung cấp cho bạn những thông tin cần thiết để nâng cao trải nghiệm nghe nhạc của mình.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-211.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-211.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

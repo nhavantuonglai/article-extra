@@ -3,7 +3,7 @@ pubDatetime: 2023-04-26T10:10:00Z
 title: 5 loại lừa đảo thẻ tín dụng tại khách sạn và cách ngăn chặn chúng
 description: Hãy cùng tìm hiểu những gì cấu thành một vụ lừa đảo thẻ tín dụng, các loại lừa đảo nhắm vào khách sạn và các chiến lược ngăn chặn hiệu quả.
 featured: false
-image: https://banmaixanh.org/image/cover/001-554.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-554.jpg
 tags:
   - viet thue
   - marketing
@@ -25,7 +25,7 @@ Lừa đảo thẻ tín dụng tại khách sạn xảy ra khi ai đó sử dụ
 
 Những vụ lừa đảo này đặt ra những thách thức lớn cho các khách sạn, dẫn đến mất doanh thu từ các khoản bồi hoàn và phí, và gây nguy cơ làm hỏng danh tiếng của họ. Khách hàng sẽ ít tin tưởng một khách sạn nơi mà thông tin cá nhân của họ bị xâm phạm.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-083.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-083.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Các loại lừa đảo thẻ tín dụng khác nhau tại khách sạn
 
@@ -51,7 +51,7 @@ Gian lận nội bộ có thể xảy ra khi một nhân viên khách sạn truy
 
 Lừa đảo điểm thưởng xảy ra khi ai đó truy cập vào thẻ điểm thưởng của khách khác và sử dụng nó để đặt phòng tại khách sạn, đổi quà hoặc trao đổi điểm. Vì các chương trình khách hàng thân thiết không được kiểm tra chặt chẽ như thẻ tín dụng, chúng dễ trở thành mục tiêu cho những kẻ lừa đảo. Loại gian lận này có thể dẫn đến mất lòng tin của khách hàng ngay cả khi cơ sở của bạn không phải là nguyên nhân gây ra, vì vậy việc giám sát các đặt phòng trong chương trình khách hàng thân thiết chặt chẽ như các đặt phòng thông thường là rất quan trọng.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-084.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-084.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Cách chống lại lừa đảo thẻ tín dụng
 
@@ -79,10 +79,10 @@ Thực hiện các quy trình nghiêm ngặt và đảm bảo nhân viên của 
 
 Đối với đăng ký trực tuyến, hãy sử dụng quét hoặc tải lên ID và chi tiết thẻ tín dụng để xác minh danh tính và thông tin thẻ tín dụng của khách. Sự cẩn trọng này giúp khách sạn của bạn ngăn chặn gian lận danh tính và đảm bảo tính chính xác của thông tin khách.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-087.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-087.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Kết luận
 
 Bây giờ bạn đã quen thuộc hơn với các loại lừa đảo thẻ tín dụng tại khách sạn, bạn có thể chuẩn bị tốt hơn để ngăn chặn chúng. Việc thường xuyên xem xét và cập nhật các quy trình bảo mật sẽ trang bị cho cơ sở của bạn để phát hiện bất thường hiệu quả hơn. Danh tiếng của bạn phụ thuộc vào mức độ cảnh giác của bạn, đặc biệt là trong việc bảo vệ dữ liệu nhạy cảm của khách hàng.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-314.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-314.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>

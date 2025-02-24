@@ -3,7 +3,7 @@ pubDatetime: 2021-04-07T10:10:00Z
 title: Bài viết trên Instagram ngày 06 tháng 04 năm 2021
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - viet lach
   - doan van
@@ -22,4 +22,4 @@ lấy cảm giác đó làm mốc, để đôi lần mở lòng v
 
 ấy thế mà nay, giữa nơi đầy nắng và gió lộng, giữa khung hình trong tầm mắt như 7 năm về trước; mình lại cảm thấy sao những gì mệt nhoài khó khăn của ngày trước ở đây lại nhạt nhoà, vu vơ vô thường quá. có phải vì những điều đúng đắn chỉ là nhất thời; hay khi đi đủ xa thì sẽ đủ biết gì là quan trọng nhất? suy nghĩ hiện lên vậy chứ mình chưa muốn tìm tận cùng câu trả lời, bởi vẫn đang toàn tâm tận hưởng nắng và gió của nơi này…
 
-<figure><img src="https://banmaixanh.org/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

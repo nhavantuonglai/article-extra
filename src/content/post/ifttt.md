@@ -3,7 +3,7 @@ pubDatetime: 2022-01-06T10:10:00Z
 title: Hướng dẫn cách tự động hóa nhiều tác vụ cùng IFTTT
 description: Bằng cách sử dụng IFTTT, người dùng có thể thực hiện các tác vụ mà trước đây phải thực hiện thủ công, như tự động gửi email, lên lịch đăng bài mạng xã hội.
 featured: false
-image: https://banmaixanh.org/image/cover/001-549.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-549.jpg
 tags:
   - viet lach
   - ifttt
@@ -24,7 +24,7 @@ IFTTT ra đời vào năm 2010 và nhanh chóng trở thành một công cụ h�
 
 Bằng cách sử dụng IFTTT, người dùng có thể thực hiện các tác vụ mà trước đây phải thực hiện thủ công, chẳng hạn như tự động gửi email khi nhận được tin nhắn mới, lưu trữ hình ảnh từ Instagram vào Google Drive, hay thậm chí là tắt đèn trong nhà khi bạn rời đi. IFTTT mở ra một thế giới không giới hạn cho sự sáng tạo và tối ưu, giúp bạn dễ dàng quản lý cuộc sống số một cách hiệu quả hơn.
 
-<figure><img src="https://banmaixanh.org/image/article/ifttt-05.jpg" alt="Hướng dẫn cách tự động hóa nhiều tác vụ cùng IFTTT." title="Hướng dẫn cách tự động hóa nhiều tác vụ cùng IFTTT." height=100% width=100%><figcaption></p>Hướng dẫn cách tự động hóa nhiều tác vụ cùng IFTTT.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/ifttt-05.jpg" alt="Hướng dẫn cách tự động hóa nhiều tác vụ cùng IFTTT." title="Hướng dẫn cách tự động hóa nhiều tác vụ cùng IFTTT." height=100% width=100%><figcaption></p>Hướng dẫn cách tự động hóa nhiều tác vụ cùng IFTTT.</p></figcaption></figure>
 
 ## IFTTT được khai thác, sử dụng để tự động hóa các tác vụ như thế nào?
 
@@ -38,7 +38,7 @@ IFTTT cũng rất hữu ích trong việc tự động hóa quy trình làm vi�
 
 Ngoài ra, IFTTT còn được sử dụng rộng rãi trong việc quản lý thiết bị nhà thông minh. Bạn có thể tự động hóa các hành động như bật tắt đèn, điều chỉnh nhiệt độ hoặc thậm chí là mở cửa garage khi bạn về nhà. Tất cả những điều này đều có thể được thực hiện một cách tự động dựa trên vị trí của bạn hoặc vào những thời điểm cụ thể trong ngày, giúp cuộc sống trở nên tiện lợi và dễ dàng hơn.
 
-<figure><img src="https://banmaixanh.org/image/article/ifttt-07.jpg" alt="Hướng dẫn cách tự động hóa nhiều tác vụ cùng IFTTT." title="Hướng dẫn cách tự động hóa nhiều tác vụ cùng IFTTT." height=100% width=100%><figcaption></p>Hướng dẫn cách tự động hóa nhiều tác vụ cùng IFTTT.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/ifttt-07.jpg" alt="Hướng dẫn cách tự động hóa nhiều tác vụ cùng IFTTT." title="Hướng dẫn cách tự động hóa nhiều tác vụ cùng IFTTT." height=100% width=100%><figcaption></p>Hướng dẫn cách tự động hóa nhiều tác vụ cùng IFTTT.</p></figcaption></figure>
 
 ## Các dịch vụ có thể tích hợp IFTTT
 
@@ -58,7 +58,7 @@ Một số dịch vụ phổ biến được tích hợp với IFTTT bao gồm:
 
 – Ứng dụng sức khỏe và thể thao: Các dịch vụ như Fitbit, Strava cũng có thể tích hợp với IFTTT, giúp bạn tự động theo dõi và ghi lại các hoạt động thể dục, gửi dữ liệu đến các ứng dụng khác hoặc nhận thông báo khi đạt được mục tiêu vận động.
 
-<figure><img src="https://banmaixanh.org/image/article/ifttt-06.jpg" alt="Hướng dẫn cách tự động hóa nhiều tác vụ cùng IFTTT." title="Hướng dẫn cách tự động hóa nhiều tác vụ cùng IFTTT." height=100% width=100%><figcaption></p>Hướng dẫn cách tự động hóa nhiều tác vụ cùng IFTTT.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/ifttt-06.jpg" alt="Hướng dẫn cách tự động hóa nhiều tác vụ cùng IFTTT." title="Hướng dẫn cách tự động hóa nhiều tác vụ cùng IFTTT." height=100% width=100%><figcaption></p>Hướng dẫn cách tự động hóa nhiều tác vụ cùng IFTTT.</p></figcaption></figure>
 
 Nhờ vào khả năng tích hợp phong phú của IFTTT, người dùng có thể tạo ra hàng ngàn kịch bản tự động hóa khác nhau, từ những tác vụ đơn giản trong cuộc sống hàng ngày đến những quy trình phức tạp trong công việc. Điều này giúp IFTTT trở thành một công cụ mạnh mẽ trong việc tối ưu thời gian và năng suất.
 
@@ -74,7 +74,7 @@ Việc tự động gửi email thông qua IFTTT không chỉ giúp bạn tiết
 
 Ngoài ra, bạn có thể kết hợp với các dịch vụ khác như Mailchimp để quản lý danh sách email và theo dõi hiệu quả của các email tự động này. Điều này không chỉ giúp bạn dễ dàng quản lý và tối ưu chiến dịch email marketing mà còn tạo ra một hệ thống tự động hóa mạnh mẽ và hiệu quả cho website của bạn.
 
-<figure><img src="https://banmaixanh.org/image/article/ifttt-01.jpg" alt="Hướng dẫn cách tự động hóa nhiều tác vụ cùng IFTTT." title="Hướng dẫn cách tự động hóa nhiều tác vụ cùng IFTTT." height=100% width=100%><figcaption></p>Hướng dẫn cách tự động hóa nhiều tác vụ cùng IFTTT.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/ifttt-01.jpg" alt="Hướng dẫn cách tự động hóa nhiều tác vụ cùng IFTTT." title="Hướng dẫn cách tự động hóa nhiều tác vụ cùng IFTTT." height=100% width=100%><figcaption></p>Hướng dẫn cách tự động hóa nhiều tác vụ cùng IFTTT.</p></figcaption></figure>
 
 _Applets_ được nhavantuonglai phát triển và tối ưu để nhận thông báo qua mail khi có bài viết mới trên các kênh báo chí, website, trang tin… bạn có thể sao chép và áp dụng để nhận bản tin cho riêng mình tại đây: [Automatic send email when article is published](https://ift.tt/VEvTyWz).
 
@@ -88,7 +88,7 @@ Việc tự động đăng bài lên fanpage không chỉ giúp bạn tiết ki�
 
 Ngoài ra, IFTTT còn cho phép bạn kết nối với nhiều mạng xã hội khác nhau, từ đó tối ưu việc phân phối nội dung trên nhiều nền tảng cùng lúc. Ví dụ, bạn có thể tạo các Applet để tự động đăng bài viết mới lên cả Facebook và Twitter, hoặc thậm chí là gửi bài đăng đến một nhóm trên LinkedIn. Việc này giúp bạn mở rộng phạm vi tiếp cận và tăng cơ hội tiếp xúc với nhiều đối tượng khách hàng tiềm năng hơn.
 
-<figure><img src="https://banmaixanh.org/image/article/ifttt-02.jpg" alt="Hướng dẫn cách tự động hóa nhiều tác vụ cùng IFTTT." title="Hướng dẫn cách tự động hóa nhiều tác vụ cùng IFTTT." height=100% width=100%><figcaption></p>Hướng dẫn cách tự động hóa nhiều tác vụ cùng IFTTT.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/ifttt-02.jpg" alt="Hướng dẫn cách tự động hóa nhiều tác vụ cùng IFTTT." title="Hướng dẫn cách tự động hóa nhiều tác vụ cùng IFTTT." height=100% width=100%><figcaption></p>Hướng dẫn cách tự động hóa nhiều tác vụ cùng IFTTT.</p></figcaption></figure>
 
 Việc tự động hóa đăng bài lên fanpage thông qua IFTTT là một phần quan trọng trong chiến lược marketing kỹ thuật số, giúp bạn giữ cho thương hiệu của mình luôn hoạt động và hiện diện trong tâm trí khách hàng. Điều này đặc biệt quan trọng trong thời đại số, khi việc cập nhật và duy trì sự hiện diện trực tuyến là yếu tố then chốt để thành công.
 
@@ -102,7 +102,7 @@ Việc quản lý và cập nhật nhiều website cùng một lúc có thể tr
 
 Một trong những lợi ích lớn nhất của việc tự động hóa này là nó giúp bạn duy trì sự liên kết giữa các website, từ đó tăng cường sức mạnh SEO cho toàn bộ hệ thống website của bạn. Các bài viết trên website vệ tinh thường chứa các link dẫn về website chính, giúp cải thiện thứ hạng của website chính trên các công cụ tìm kiếm như Google. Điều này đặc biệt hữu ích cho các doanh nghiệp hoặc blogger muốn nâng cao hiệu quả chiến lược SEO mà không cần đầu tư quá nhiều thời gian vào việc quản lý nội dung.
 
-<figure><img src="https://banmaixanh.org/image/article/ifttt-03.jpg" alt="Hướng dẫn cách tự động hóa nhiều tác vụ cùng IFTTT." title="Hướng dẫn cách tự động hóa nhiều tác vụ cùng IFTTT." height=100% width=100%><figcaption></p>Hướng dẫn cách tự động hóa nhiều tác vụ cùng IFTTT.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/ifttt-03.jpg" alt="Hướng dẫn cách tự động hóa nhiều tác vụ cùng IFTTT." title="Hướng dẫn cách tự động hóa nhiều tác vụ cùng IFTTT." height=100% width=100%><figcaption></p>Hướng dẫn cách tự động hóa nhiều tác vụ cùng IFTTT.</p></figcaption></figure>
 
 Ngoài ra, việc sử dụng IFTTT để tự động hóa đăng bài còn giúp bạn dễ dàng quản lý nội dung trên nhiều website một cách hiệu quả. Bạn không còn phải lo lắng về việc cập nhật nội dung trên từng website một cách thủ công, từ đó tiết kiệm thời gian và năng lượng để tập trung vào các nhiệm vụ quan trọng khác.
 
@@ -118,7 +118,7 @@ Không chỉ dừng lại ở việc nhận thông báo qua email hoặc tin nh�
 
 Nhận thông báo thời tiết hằng ngày qua IFTTT không chỉ giúp bạn chủ động hơn trong việc sắp xếp các kế hoạch cá nhân mà còn giúp bạn tối ưu các thiết bị nhà thông minh theo điều kiện thời tiết. Điều này đặc biệt hữu ích trong việc tiết kiệm năng lượng và nâng cao chất lượng cuộc sống.
 
-<figure><img src="https://banmaixanh.org/image/article/ifttt-04.jpg" alt="Hướng dẫn cách tự động hóa nhiều tác vụ cùng IFTTT." title="Hướng dẫn cách tự động hóa nhiều tác vụ cùng IFTTT." height=100% width=100%><figcaption></p>Hướng dẫn cách tự động hóa nhiều tác vụ cùng IFTTT.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/ifttt-04.jpg" alt="Hướng dẫn cách tự động hóa nhiều tác vụ cùng IFTTT." title="Hướng dẫn cách tự động hóa nhiều tác vụ cùng IFTTT." height=100% width=100%><figcaption></p>Hướng dẫn cách tự động hóa nhiều tác vụ cùng IFTTT.</p></figcaption></figure>
 
 IFTTT đã biến việc theo dõi thời tiết trở thành một nhiệm vụ dễ dàng và thuận tiện hơn nhiều, giúp bạn luôn cập nhật thông tin mới nhất mà không cần phải kiểm tra thủ công. Điều này đặc biệt quan trọng đối với những người có lịch trình bận rộn hoặc thường xuyên di chuyển, khi mà việc nắm bắt chính xác thông tin thời tiết có thể tạo ra sự khác biệt lớn trong việc quyết định trang phục hoặc phương tiện di chuyển trong ngày.
 
@@ -134,7 +134,7 @@ Việc thiết lập này trên IFTTT rất đơn giản nhưng mang lại nhi�
 
 – Quản lý dữ liệu tập luyện: Việc nhận email tự động cũng cho phép bạn lưu trữ thông tin tập luyện một cách có hệ thống. Bạn có thể sử dụng các công cụ quản lý email để phân loại các thông báo này, từ đó dễ dàng truy cập lại khi cần. Thông tin từ các email này cũng có thể được sử dụng để tạo ra các báo cáo tiến trình chi tiết, hỗ trợ bạn trong việc điều chỉnh kế hoạch tập luyện sao cho hiệu quả nhất.
 
-<figure><img src="https://banmaixanh.org/image/article/ifttt-08.jpg" alt="Hướng dẫn cách tự động hóa nhiều tác vụ cùng IFTTT." title="Hướng dẫn cách tự động hóa nhiều tác vụ cùng IFTTT." height=100% width=100%><figcaption></p>Hướng dẫn cách tự động hóa nhiều tác vụ cùng IFTTT.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/ifttt-08.jpg" alt="Hướng dẫn cách tự động hóa nhiều tác vụ cùng IFTTT." title="Hướng dẫn cách tự động hóa nhiều tác vụ cùng IFTTT." height=100% width=100%><figcaption></p>Hướng dẫn cách tự động hóa nhiều tác vụ cùng IFTTT.</p></figcaption></figure>
 
 Nhìn chung, việc sử dụng IFTTT để tự động gửi email sau khi hoàn thành một hoạt động trên Strava không chỉ giúp bạn nắm bắt thông tin một cách kịp thời mà còn nâng cao hiệu quả quản lý quá trình tập luyện. Điều này thực sự là một công cụ hữu ích cho những ai đang nghiêm túc theo đuổi mục tiêu thể thao và mong muốn có một hệ thống hỗ trợ tối ưu cho việc quản lý và theo dõi hoạt động cá nhân.
 
@@ -152,7 +152,7 @@ Việc thiết lập này trên IFTTT mang lại nhiều lợi ích đáng kể.
 
 – Quản lý thông tin: Các email thông báo từ IFTTT có thể được quản lý dễ dàng qua hộp thư đến của bạn. Bạn có thể tạo thư mục riêng để lưu trữ các thông báo này, giúp dễ dàng theo dõi và truy cập lại khi cần. Việc này giúp bạn xây dựng một kho lưu trữ thông tin phong phú, hỗ trợ đắc lực cho công việc nghiên cứu hoặc giải trí.
 
-<figure><img src="https://banmaixanh.org/image/article/ifttt-09.jpg" alt="Hướng dẫn cách tự động hóa nhiều tác vụ cùng IFTTT." title="Hướng dẫn cách tự động hóa nhiều tác vụ cùng IFTTT." height=100% width=100%><figcaption></p>Hướng dẫn cách tự động hóa nhiều tác vụ cùng IFTTT.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/ifttt-09.jpg" alt="Hướng dẫn cách tự động hóa nhiều tác vụ cùng IFTTT." title="Hướng dẫn cách tự động hóa nhiều tác vụ cùng IFTTT." height=100% width=100%><figcaption></p>Hướng dẫn cách tự động hóa nhiều tác vụ cùng IFTTT.</p></figcaption></figure>
 
 Việc sử dụng IFTTT để tự động gửi email khi YouTube có video mới với từ khóa chỉ định không chỉ giúp bạn tiết kiệm thời gian mà còn nâng cao hiệu quả trong việc theo dõi và quản lý thông tin. Đây là một công cụ mạnh mẽ dành cho những ai thường xuyên làm việc với YouTube và muốn nắm bắt mọi thay đổi một cách nhanh chóng và hiệu quả.
 
@@ -170,7 +170,7 @@ Việc tự động gửi email khi có bài đăng mới với hashtag chỉ đ
 
 – Quản lý thông báo hiệu quả: Các email thông báo từ IFTTT có thể được tổ chức và quản lý một cách dễ dàng trong hộp thư đến của bạn. Bạn có thể sử dụng các công cụ lọc hoặc tạo thư mục riêng để lưu trữ các thông báo này, giúp dễ dàng truy cập lại khi cần thiết. Điều này không chỉ giúp bạn theo dõi thông tin hiệu quả mà còn hỗ trợ trong việc tổng hợp và phân tích dữ liệu từ các tweet liên quan đến hashtag chỉ định.
 
-<figure><img src="https://banmaixanh.org/image/article/ifttt-10.jpg" alt="Hướng dẫn cách tự động hóa nhiều tác vụ cùng IFTTT." title="Hướng dẫn cách tự động hóa nhiều tác vụ cùng IFTTT." height=100% width=100%><figcaption></p>Hướng dẫn cách tự động hóa nhiều tác vụ cùng IFTTT.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/ifttt-10.jpg" alt="Hướng dẫn cách tự động hóa nhiều tác vụ cùng IFTTT." title="Hướng dẫn cách tự động hóa nhiều tác vụ cùng IFTTT." height=100% width=100%><figcaption></p>Hướng dẫn cách tự động hóa nhiều tác vụ cùng IFTTT.</p></figcaption></figure>
 
 Tóm lại, việc tự động gửi email khi Twitter xuất hiện một bài đăng với hashtag chỉ định thông qua IFTTT là một giải pháp tiện lợi và hiệu quả cho những ai muốn nắm bắt thông tin kịp thời và tiết kiệm thời gian. Điều này không chỉ hỗ trợ tốt trong công việc mà còn giúp bạn duy trì kết nối với những xu hướng và chủ đề mà mình quan tâm trên Twitter.
 
@@ -188,7 +188,7 @@ Trello là một công cụ quản lý công việc trực quan và linh hoạt,
 
 – Dễ dàng tùy chỉnh và mở rộng: Một trong những lợi ích lớn của việc sử dụng IFTTT là khả năng tùy chỉnh công thức phù hợp với nhu cầu cụ thể của bạn. Bạn có thể thêm các điều kiện hoặc thao tác bổ sung, chẳng hạn như gửi email nhắc nhở hoặc tự động gán trách nhiệm cho các thành viên trong nhóm. Điều này giúp bạn xây dựng một hệ thống quản lý SEO phù hợp với quy trình làm việc của mình.
 
-<figure><img src="https://banmaixanh.org/image/article/ifttt-11.jpg" alt="Hướng dẫn cách tự động hóa nhiều tác vụ cùng IFTTT." title="Hướng dẫn cách tự động hóa nhiều tác vụ cùng IFTTT." height=100% width=100%><figcaption></p>Hướng dẫn cách tự động hóa nhiều tác vụ cùng IFTTT.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/ifttt-11.jpg" alt="Hướng dẫn cách tự động hóa nhiều tác vụ cùng IFTTT." title="Hướng dẫn cách tự động hóa nhiều tác vụ cùng IFTTT." height=100% width=100%><figcaption></p>Hướng dẫn cách tự động hóa nhiều tác vụ cùng IFTTT.</p></figcaption></figure>
 
 Nhìn chung, việc tự động tạo task SEO trên Trello khi website xuất bản bài viết mới thông qua IFTTT là một giải pháp thông minh và hiệu quả. Nó không chỉ giúp tiết kiệm thời gian mà còn nâng cao chất lượng quản lý công việc, giúp đảm bảo rằng mọi nhiệm vụ SEO đều được thực hiện một cách đầy đủ và chính xác.
 
@@ -226,7 +226,7 @@ Một trong những lợi ích lớn nhất của việc sử dụng IFTTT trong
 
 – Nâng cao trải nghiệm người dùng: Bằng cách tự động hóa các quy trình marketing, bạn có thể cải thiện trải nghiệm của khách hàng và người dùng. Chẳng hạn, việc tự động gửi email xác nhận sau khi khách hàng thực hiện một hành động cụ thể trên website không chỉ giúp nâng cao dịch vụ khách hàng mà còn giúp tăng cường sự gắn kết với thương hiệu.
 
-<figure><img src="https://banmaixanh.org/image/article/ifttt-12.jpg" alt="Hướng dẫn cách tự động hóa nhiều tác vụ cùng IFTTT." title="Hướng dẫn cách tự động hóa nhiều tác vụ cùng IFTTT." height=100% width=100%><figcaption></p>Hướng dẫn cách tự động hóa nhiều tác vụ cùng IFTTT.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/ifttt-12.jpg" alt="Hướng dẫn cách tự động hóa nhiều tác vụ cùng IFTTT." title="Hướng dẫn cách tự động hóa nhiều tác vụ cùng IFTTT." height=100% width=100%><figcaption></p>Hướng dẫn cách tự động hóa nhiều tác vụ cùng IFTTT.</p></figcaption></figure>
 
 Nhìn chung, IFTTT là một công cụ mạnh mẽ giúp tự động hóa công việc marketing, từ việc cập nhật nội dung trên các nền tảng đến quản lý tiến độ công việc và tối
 
@@ -332,4 +332,4 @@ Việc khai thác và sử dụng IFTTT không chỉ giúp tiết kiệm thời 
 
 Tóm lại, IFTTT là một công cụ không thể thiếu cho những ai muốn đơn giản hóa các quy trình làm việc và tận dụng tối đa tiềm năng của công nghệ hiện đại. Hãy bắt đầu sử dụng IFTTT ngay hôm nay để khám phá những lợi ích mà nó có thể mang lại cho bạn và công việc của bạn.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-565.jpg" alt="Hướng dẫn cách tự động hóa nhiều tác vụ cùng IFTTT." title="Hướng dẫn cách tự động hóa nhiều tác vụ cùng IFTTT." height=100% width=100%><figcaption></p>Hướng dẫn cách tự động hóa nhiều tác vụ cùng IFTTT.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-565.jpg" alt="Hướng dẫn cách tự động hóa nhiều tác vụ cùng IFTTT." title="Hướng dẫn cách tự động hóa nhiều tác vụ cùng IFTTT." height=100% width=100%><figcaption></p>Hướng dẫn cách tự động hóa nhiều tác vụ cùng IFTTT.</p></figcaption></figure>

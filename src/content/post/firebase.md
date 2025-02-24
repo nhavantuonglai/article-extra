@@ -3,7 +3,7 @@ pubDatetime: 2024-04-25T10:10:00Z
 title: Giới thiệu và đánh giá hosting website Firebase
 description: Nếu bạn đang xây dựng một ứng dụng website full-stack với các framework hiện đại, được hiển thị bằng máy chủ như Angular và Next, hãy sử dụng Firebase App Hosting.
 featured: false
-image: https://banmaixanh.org/image/cover/001-751.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-751.jpg
 tags:
   - google
   - google console
@@ -125,4 +125,4 @@ Firebase là một nền tảng mạnh mẽ và đa năng, phù hợp với nhi�
 
 Với sự kết hợp của các công cụ mạnh mẽ từ Firebase và tính linh hoạt của Astro, bạn có thể dễ dàng xây dựng và triển khai các ứng dụng website hiệu quả. Nếu bạn có bất kỳ câu hỏi nào hoặc cần hỗ trợ thêm, đừng ngần ngại liên hệ với github/nhavantuonglai qua email [info@nhavantuonglai.com](mailto:info@nhavantuonglai.com).
 
-<figure><img src="https://banmaixanh.org/image/cover/001-449.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-449.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

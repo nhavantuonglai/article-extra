@@ -3,7 +3,7 @@ pubDatetime: 2021-11-20T10:10:00Z
 title: Chiến lược giao dịch bằng mô hình Double Bottom trong biểu đồ giá vàng
 description: Chuỗi bài viết của nhavantuonglai về kinh doanh vàng bạc đá quý và quỹ đầu tư sẽ giúp nhà đầu tư khởi nghiệp hiệu quả.
 featured: false
-image: https://banmaixanh.org/image/cover/001-349.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-349.jpg
 tags:
   - viet thue
   - marketing
@@ -90,4 +90,4 @@ Do đó, để tránh rủi ro này, nhà đầu tư cần phải cẩn trọng,
 
 Nhìn chung, mô hình Double Bottom cung cấp cho nhà đầu tư nhiều thông tin hữu hiệu và quan trọng. Để dựa theo đó mà mỗi nhà đầu tư xây dựng cho mình chiến lược giao dịch phù hợp. Tuy nhiên, bất kể có vấn đề gì, cũng hãy giữ vững tinh thần và tránh ra quyết định trong lúc vội vàng và thiếu thông tin.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-317.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-317.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

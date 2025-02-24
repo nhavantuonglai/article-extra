@@ -3,7 +3,7 @@ pubDatetime: 2021-03-03T10:10:00Z
 title: Tìm hiểu về bệnh bạch hầu
 description: Bạch hầu là bệnh nhiễm khuẩn, nhiễm độc cấp tính do vi khuẩn bạch hầu gây nên, tỷ lệ tử vong từ 5 đến 10%.
 featured: false
-image: https://banmaixanh.org/image/cover/001-536.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-536.jpg
 tags:
   - y hoc
   - benh truyen nhiem
@@ -17,7 +17,7 @@ _Bệnh bạch cầu, còn được gọi là bệnh bạch huyết, là một l
 
 Bệnh bạch cầu, còn được gọi là bệnh bạch huyết, là một loại ung thư của máu và tủy xương. Tủy xương là nơi sản xuất các tế bào máu, bao gồm cả bạch cầu, hồng cầu và tiểu cầu. Khi một người bị bệnh bạch cầu, tủy xương của họ sản xuất quá nhiều bạch cầu bất thường, làm giảm khả năng sản xuất các tế bào máu bình thường. Điều này có thể dẫn đến nhiều vấn đề sức khỏe nghiêm trọng.
 
-<figure><img src="https://banmaixanh.org/image/article/benh-bach-cau-01.jpg" alt="benh-bach-cau" title="benh-bach-cau" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/benh-bach-cau-01.jpg" alt="benh-bach-cau" title="benh-bach-cau" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
 ### Các loại bệnh bạch cầu
 
@@ -29,7 +29,7 @@ Bệnh bạch cầu, còn được gọi là bệnh bạch huyết, là một lo
 
 – Bệnh bạch cầu myeloid: ảnh hưởng đến các tế bào myeloid, một loại tế bào gốc trong tủy xương.
 
-<figure><img src="https://banmaixanh.org/image/article/benh-bach-cau-02.jpg" alt="benh-bach-cau" title="benh-bach-cau" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/benh-bach-cau-02.jpg" alt="benh-bach-cau" title="benh-bach-cau" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
 ## Cách bệnh bạch cầu lây nhiễm
 
@@ -47,7 +47,7 @@ Bệnh bạch cầu phát triển do những thay đổi hoặc đột biến tr
 
 – Các yếu tố môi trường khác: chẳng hạn như hút thuốc lá.
 
-<figure><img src="https://banmaixanh.org/image/article/benh-bach-cau-03.jpg" alt="benh-bach-cau" title="benh-bach-cau" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/benh-bach-cau-03.jpg" alt="benh-bach-cau" title="benh-bach-cau" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
 ## Triệu chứng và biến chứng bệnh bạch cầu
 
@@ -71,7 +71,7 @@ Bệnh bạch cầu có thể dẫn đến nhiều biến chứng nghiêm trọn
 
 – Xuất huyết nội tạng: do thiếu tiểu cầu.
 
-<figure><img src="https://banmaixanh.org/image/article/benh-bach-cau-04.jpg" alt="benh-bach-cau" title="benh-bach-cau" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/benh-bach-cau-04.jpg" alt="benh-bach-cau" title="benh-bach-cau" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
 ## Nguy cơ nhiễm bệnh bạch cầu xuất phát từ đâu
 
@@ -93,7 +93,7 @@ Hiện nay, chưa có phương pháp phòng ngừa hoàn toàn bệnh bạch c�
 
 – Thường xuyên kiểm tra sức khỏe: đặc biệt là đối với những người có nguy cơ cao.
 
-<figure><img src="https://banmaixanh.org/image/article/benh-bach-cau-05.jpg" alt="benh-bach-cau" title="benh-bach-cau" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/benh-bach-cau-05.jpg" alt="benh-bach-cau" title="benh-bach-cau" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
 ## Tại sao Việt Nam chưa loại trừ được bệnh bạch cầu
 
@@ -113,10 +113,10 @@ Mặc dù có nhiều nỗ lực trong việc kiểm soát và điều trị b�
 
 – Bảo vệ môi trường: giảm thiểu ô nhiễm và hạn chế tiếp xúc với hóa chất độc hại.
 
-<figure><img src="https://banmaixanh.org/image/article/benh-bach-cau-06.jpg" alt="benh-bach-cau" title="benh-bach-cau" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/benh-bach-cau-06.jpg" alt="benh-bach-cau" title="benh-bach-cau" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
 ## Kết luận
 
 Bệnh bạch cầu là một căn bệnh nguy hiểm nhưng có thể kiểm soát nếu được phát hiện và điều trị kịp thời. Hiểu biết về cách lây nhiễm, triệu chứng, biến chứng và cách phòng ngừa bệnh là rất quan trọng để bảo vệ sức khỏe của bản thân và cộng đồng. Mặc dù Việt Nam còn nhiều thách thức trong việc loại trừ bệnh bạch cầu, nhưng với sự nỗ lực chung của cộng đồng và hệ thống y tế, chúng ta có thể tiến gần hơn đến mục tiêu này.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-211.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-211.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

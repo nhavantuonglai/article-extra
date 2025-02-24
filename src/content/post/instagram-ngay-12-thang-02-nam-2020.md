@@ -3,7 +3,7 @@ pubDatetime: 2020-02-07T10:10:00Z
 title: Bài viết trên Instagram ngày 12 tháng 02 năm 2020
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - viet lach
   - doan van
@@ -20,4 +20,4 @@ dư âm là thứ mà người ta dùng để diễn tả cho những thứ còn
 
 giữa năm ấy, mình về Huế, gặp một người bạn xong nói chuyện. bạn mới chia tay một mối quan hệ, mối quan hệ mà những con người trong đó nhìn thấy được cả sự bất ổn, và mịt mờ khi đi cùng nhau. một chút nhè nhẹ, mình thấy câu chuyện của mình trong những lời bạn kể. hết chuyện kể, bạn nói giờ bạn ghét người cũ lắm, dù biết đó là điều không phải, nhưng bạn không thể dừng nghĩ xấu về người cũ, với vô vàn cảm xúc chẳng tích cực chút nào. mình nói rằng mình hiểu cảm xúc đấy của bạn, mình chẳng định khuyên nhủ hay nói điều gì, khi chính bản thân mình cũng phải xem đó là một lựa chọn để quên đi một hình ảnh vốn đã in sâu vào trong chính bản thân mình. kết thúc một câu chuyện buồn, là những vụn vỡ dọc đường quá khứ không thể nhìn lại…
 
-<figure><img src="https://banmaixanh.org/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

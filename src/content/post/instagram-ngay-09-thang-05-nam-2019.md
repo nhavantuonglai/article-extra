@@ -3,7 +3,7 @@ pubDatetime: 2019-05-07T10:10:00Z
 title: Bài viết trên Instagram ngày 09 tháng 05 năm 2019
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - viet lach
   - doan van
@@ -18,4 +18,4 @@ trong khoảnh khắc đang ngưng đọng lấy, mình thoáng cảm giác như
 
 dẫu biết rằng, khi càng tản ra, càng xa nhau, thì sự lưu luyến và gắn kết lại càng nhạt nhòa. nhưng nói thế nào thì, những ngày chúng mình đang vui, những cuộc hẹn ân tình vẫn cứ tiếp diễn…
 
-<figure><img src="https://banmaixanh.org/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

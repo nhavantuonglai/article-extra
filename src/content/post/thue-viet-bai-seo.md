@@ -3,7 +3,7 @@ pubDatetime: 2025-02-04T10:10:00Z
 title: Dịch vụ viết SEO để tăng độ phủ, cải thiện chuyển đổi trên website
 description: Không có một dòng chảy ổn định của khách hàng mới và khách hàng hiện tại mua sản phẩm và dịch vụ của doanh nghiệp bạn, doanh nghiệp của bạn sẽ gần như đứng yên.
 featured: false
-image: https://banmaixanh.org/image/cover/001-406.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-406.jpg
 tags:
   - viet lach
   - ky nang viet
@@ -171,4 +171,4 @@ Content sao chép gây nhầm lẫn cho các công cụ tìm kiếm vì một s�
 
 Cuối cùng, vấn đề thẩm quyền lại tiếp tục phát sinh. Nếu có hai hoặc nhiều phiên bản của content, công cụ tìm kiếm sẽ rất khó xác định phiên bản nào có tầm quan trọng hơn.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-225.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-225.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

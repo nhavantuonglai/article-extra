@@ -3,7 +3,7 @@ pubDatetime: 2021-10-07T10:10:00Z
 title: Bài viết trên Instagram ngày 21 tháng 08 năm 2021
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - viet lach
   - doan van
@@ -22,4 +22,4 @@ cũng trong suốt 3 năm vừa qua, và gần nhất là 1 năm trở lại, m�
 
 ví dụ như hôm nay, cafe về muộn nên đói bụng, đi sao mà lạc vào góc đường cũ của 3 năm trước, quán vẫn thế và mùi đầu đông vẫn như vậy, tận hưởng 4 cái trứng lộn một mình xong lại nhớ đến anh.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

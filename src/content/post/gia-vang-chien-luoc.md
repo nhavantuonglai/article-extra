@@ -3,7 +3,7 @@ pubDatetime: 2021-11-14T10:10:00Z
 title: 4 chiến lược đầu tư dựa trên biểu đồ giá vàng ai cũng cần biết
 description: Chuỗi bài viết của nhavantuonglai về kinh doanh vàng bạc đá quý và quỹ đầu tư sẽ giúp nhà đầu tư khởi nghiệp hiệu quả.
 featured: false
-image: https://banmaixanh.org/image/cover/001-622.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-622.jpg
 tags:
   - viet thue
   - marketing
@@ -76,4 +76,4 @@ Tuy nhiên, nhà đầu tư khi cân nhắc thực hiện phương pháp này, c
 
 Trên đây là 4 chiến lược đầu tư theo biểu đồ giá vàng hợp lý cho các nhà đầu tư tìm hiểu và lựa chọn. Khi tìm đến một chiến lược để thực hiện đầu tư, thì cần lưu tâm đến dòng vốn. Bởi đây là điều kiện tiên quyết để nhà đầu tư có thể đi dài và lâu. Cho nên, hãy xem những lựa chọn trên đây như cách để chúng ta tối ưu dòng vốn. Cũng như sẽ đem lại hiệu quả cho những lệnh giao dịch trên thị trường vàng.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-514.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-514.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

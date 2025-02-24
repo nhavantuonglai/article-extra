@@ -3,7 +3,7 @@ pubDatetime: 2019-08-07T10:10:00Z
 title: Bài viết trên Instagram ngày 20 tháng 08 năm 2019
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - viet lach
   - doan van
@@ -22,4 +22,4 @@ cuối tháng rồi, mình ngồi nói chuyện với đứa bạn ngư
 
 mà cũng thật sự lạ, mình vào đây không thể nào đổi giọng theo người miền Nam, chị quản lý cũ bảo đấy là một hạn chế, khi ở đây người ta có xu hướng nói giọng dễ nghe để làm việc tốt hơn. trở lại chuyện với bạn người Huế, bạn lúc ấy hỏi mình, mục tiêu của mình ở đây là gì? mình cũng nói rằng mục tiêu lớn nhất, ấy chính là rời khỏi nơi này – rời Sài Gòn để trở về lại Huế.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

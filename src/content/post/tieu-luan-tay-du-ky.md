@@ -3,7 +3,7 @@ pubDatetime: 2023-08-21T10:10:00Z
 title: Tài liệu của Ban biên tập NXB Nhân dân Văn học Bắc Kinh bàn về Tây Du Ký
 description: Tây Du Ký là một bộ tiểu thuyết thần thoại trường thiên, lãng mạn tích cực rất vĩ đại. Quá trình ra đời của bộ truyện này cũng giống như Tam quốc diền nghĩa và Thủy Hử.
 featured: false
-image: https://banmaixanh.org/image/cover/001-149.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-149.jpg
 tags:
   - ton giao
   - van hoa dai chung
@@ -136,4 +136,4 @@ Truyện _Tây Du Ký_ lưu truyền rộng rãi ở dân gian, có ảnh hưở
 
 _Tây Du Ký_ cũng ảnh hưởng đến những hình thức văn nghệ khác. Đặc biệt là hý kịch, đã lấy từng đoạn trong _Tây Du Ký_ ra viết thành bản. Nhiều gánh tuồng địa phương và tạp hý dân gian (múa rối, chiếu bóng…) đến nay vẫn còn giữ những tiết mục truyền lại về _Tây Du Ký._ Kinh kịch _Náo thiên cung_ không những là một tiết mục được nhân dân nước ta yêu thích, mà còn được nhân dân thế giới nhiệt liệt hoan nghênh.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-121.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-121.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

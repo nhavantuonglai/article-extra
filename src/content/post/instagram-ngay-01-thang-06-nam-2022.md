@@ -3,7 +3,7 @@ pubDatetime: 2022-06-01T10:10:00Z
 title: Bài viết trên Instagram ngày 01 tháng 06 năm 2022
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-128.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-128.jpg
 tags:
   - viet lach
   - doan van
@@ -24,4 +24,4 @@ vậy tóm lại thì, Huế có vẻ đẹp gì mà chẳng nơi nào có? vẻ
 
 khó không? hẳn rồi, đâu phải dễ, nên bởi thế cũng dễ tìm được ở nơi nào nữa đâu.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-132.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-132.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

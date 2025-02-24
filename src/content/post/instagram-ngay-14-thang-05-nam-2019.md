@@ -3,7 +3,7 @@ pubDatetime: 2019-05-07T10:10:00Z
 title: Bài viết trên Instagram ngày 14 tháng 05 năm 2019
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - viet lach
   - doan van
@@ -26,4 +26,4 @@ bàn tay đeo chiếc tất nào đi nữa, điều đó hầu như không quan 
 
 đúng là sự giác ngộ luôn sẵn ngay đây. đúng là nó chẳng cần tới bất kỳ sự nỗ lực nào, hay cũng đúng là chẳng có khả năng nào để giác ngộ. đúng là có thể mất tới hàng triệu năm, hay chỉ đơn thuần là vài phút giữa sự ra đời của một con người cho đến khi giác ngộ. tất cả điều đó đều đúng…
 
-<figure><img src="https://banmaixanh.org/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

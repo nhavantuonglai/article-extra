@@ -3,7 +3,7 @@ pubDatetime: 2022-03-18T10:10:00Z
 title: Các khách sạn xoay sở như thế nào trong thời kỳ dịch bệnh?
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
 featured: false
-image: https://banmaixanh.org/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - viet thue
   - marketing
@@ -25,7 +25,7 @@ Nhưng với bối cảnh hiện tại, sự chuẩn bị đã sẵn sàng nay l
 
 Rõ ràng, như các đợt dịch trước đây và cả hiện tại, mảng du lịch, lữ hành vẫn chịu nhiều tổn thất, vết thương nghiêm trọng từ dịch bệnh gây ra. Nếu tình trạng này duy trì đủ lâu, sẽ đủ mạnh mẽ để phát sản, hủy hoại các giải pháp vừa và nhỏ.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-086.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-086.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Giải pháp ứng phó, xoay chiều theo Covid 19 để tồn tại
 
@@ -37,8 +37,8 @@ Song song với đó, nhiều kế hoạch dài hạn được đưa ra, như b�
 
 Tất nhiên rằng, xét về mặt hiệu quả, những kế hoạch này sẽ phù hợp riêng với từng giải pháp, việc lựa chọn lối đi nào sẽ là sự cân nhắc, tính toán của riêng từng người quản lý. Nhưng nếu rằng thụ động ngồi đợi dịch kết thúc, bị động khi ra tình huống thì không sớm cũng muộn, giải pháp ấy sẽ không thể vượt qua những thách thức, khó khăn khắc nghiệt hơn.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-087.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-087.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 Chính vì thế, hãy xem như giai đoạn hiện tại là phép thử quan trọng, để đánh giá mức độ hiệu quả của trình độ vận hành, quản lý khách sạn; từ đó sẽ cung ứng những giải pháp phù hợp, giải quyết linh hoạt và xoay chiều theo Covid 19 để tồn tại.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-116.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-116.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>

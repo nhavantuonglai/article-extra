@@ -3,7 +3,7 @@ pubDatetime: 2021-03-27T10:10:00Z
 title: Hướng dẫn viết lách sáng tạo, đột phá nhiều ý tưởng
 description: Viết blog là một kỹ năng quan trọng trong thời đại số hiện nay, không chỉ giúp bạn thể hiện quan điểm cá nhân mà còn có thể trở thành một nguồn thu nhập ổn định.
 featured: false
-image: https://banmaixanh.org/image/cover/001-195.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-195.jpg
 tags:
   - viet lach
   - ky nang viet
@@ -27,7 +27,7 @@ Bước đầu tiên trong việc viết blog là lựa chọn nền tảng phù
 
 – Wix: Cung cấp giao diện kéo thả dễ sử dụng, phù hợp cho những ai muốn tạo blog nhanh chóng mà không cần nhiều kiến thức kỹ thuật.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-014.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-014.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Xây dựng nội dung chất lượng
 
@@ -41,7 +41,7 @@ Nội dung là yếu tố cốt lõi quyết định sự thành công của blo
 
 – Sử dụng hình ảnh và video: Hình ảnh và video không chỉ làm bài viết sinh động hơn mà còn giúp tăng thời gian người đọc ở lại trang. Hãy chọn hình ảnh chất lượng cao và video liên quan đến nội dung để tăng tính tương tác.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-015.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-015.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Tối ưu SEO
 
@@ -55,7 +55,7 @@ SEO (Search Engine Optimization) là kỹ thuật giúp bài viết của bạn 
 
 – Tốc độ tải trang: Tối ưu tốc độ tải trang bằng cách nén hình ảnh, sử dụng hosting chất lượng và giảm thiểu các plugin không cần thiết. Một trang tải nhanh không chỉ cải thiện trải nghiệm người dùng mà còn được Google đánh giá cao hơn.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-016.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-016.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Quảng bá blog
 
@@ -69,7 +69,7 @@ Sau khi đã có nội dung chất lượng và tối ưu SEO, bước tiếp th
 
 – Sử dụng các cộng đồng trực tuyến: Tham gia các diễn đàn, nhóm Facebook, Reddit để chia sẻ và thảo luận về bài viết của bạn. Hãy chắc chắn rằng bạn tuân thủ quy tắc của từng cộng đồng và không spam liên kết.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-017.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-017.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Kiếm tiền từ blog
 
@@ -83,7 +83,7 @@ Viết blog không chỉ là một sở thích mà còn có thể trở thành m
 
 – Tài trợ và hợp tác: Khi blog của bạn có lượng độc giả lớn, các thương hiệu sẽ sẵn sàng tài trợ hoặc hợp tác với bạn để quảng bá sản phẩm của họ. Hợp tác này thường bao gồm viết bài đánh giá, tổ chức giveaway hoặc các chiến dịch quảng bá trên mạng xã hội.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-018.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-018.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Các kỹ năng cần thiết để viết blog thành công
 
@@ -97,10 +97,10 @@ Viết blog không chỉ là một sở thích mà còn có thể trở thành m
 
 – Kỹ năng giao tiếp: Kỹ năng giao tiếp giúp bạn kết nối với độc giả, trả lời bình luận và xây dựng mối quan hệ với các blogger khác. Tham gia các sự kiện, hội thảo và các hoạt động cộng đồng để mở rộng mạng lưới quan hệ.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-019.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-019.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Kết luận
 
 Viết blog là một hành trình dài đòi hỏi sự kiên nhẫn, sáng tạo và nỗ lực không ngừng. Một khóa học viết blog bài bản sẽ cung cấp cho bạn những kiến thức và kỹ năng cần thiết để thành công. Từ việc lựa chọn nền tảng, xây dựng nội dung, tối ưu SEO đến cách quảng bá và kiếm tiền từ blog, mỗi bước đi đều quan trọng và đóng góp vào sự thành công của bạn. Hãy bắt đầu viết ngay hôm nay và không ngừng học hỏi, cải thiện để trở thành một blogger chuyên nghiệp và thành công.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-214.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-214.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

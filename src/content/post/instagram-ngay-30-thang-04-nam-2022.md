@@ -3,7 +3,7 @@ pubDatetime: 2022-04-30T10:10:00Z
 title: Bài viết trên Instagram ngày 30 tháng 04 năm 2022
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-124.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-124.jpg
 tags:
   - viet lach
   - doan van
@@ -18,4 +18,4 @@ mình không giải thích được tại sao lại thế, như cách sao chúng
 
 hiện tại, mình không còn cầm máy film để chụp hình nữa, máy cũ nay đã trao cho em, cùng với những gì mình cho là hiểu rõ nhất mỗi lần bấm chụp một tấm hình. đó có lẽ là sự kế thừa, hoặc thêm một cảm hứng khác mà mình đã gửi lại cho em, hoặc cũng là một điểm chung nay đã tìm thấy. điều tuyệt vời, đáng nhớ nhất sau chừng ấy thời gian, cũng chỉ gói gọn trong chừng ấy mà thôi.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-576.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-576.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

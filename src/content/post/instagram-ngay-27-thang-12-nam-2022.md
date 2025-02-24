@@ -3,7 +3,7 @@ pubDatetime: 2022-12-27T10:10:00Z
 title: Bài viết trên Instagram ngày 27 tháng 12 năm 2022
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - viet lach
   - doan van
@@ -20,4 +20,4 @@ như ông bà già trong đoạn trích trên, hẳn cũng đã nghĩ nhiều v�
 
 không biết trong khoảnh khắc ấy có diễn ra đúng như người ta nói hay không. dù sao thì, cũng hãy nên dành thời gian để tạo đoạn film như thế cho riêng mình, tua từ lúc bắt đầu cho đến hiện tại và xem cuộc sống ấy đã đủ làm mình hài lòng hay chưa. một đoạn film tua nhanh không tạo ra cảm giác cận kề cái chết, ngược lại, chúng hình thành sự chiêm nghiệm về cuộc sống và những trải nghiệm, để biết điều gì còn thiếu sót mà sống tiếp cho thêm phần trọn vẹn.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-182.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-182.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

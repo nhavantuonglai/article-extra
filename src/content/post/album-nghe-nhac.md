@@ -3,7 +3,7 @@ pubDatetime: 2023-01-18T10:10:00Z
 title: Những album nhạc nên có trong bộ sưu tập của một audiophile
 description: Một audiophile chân chính không chỉ quan tâm đến Chất lượng âm thanh mà còn yêu thích sưu tầm những album nhạc nổi tiếng.
 featured: false
-image: https://banmaixanh.org/image/cover/001-489.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-489.jpg
 tags:
   - viet lach
   - thuong thuc am thanh
@@ -125,4 +125,4 @@ Những album nhạc nổi tiếng không chỉ có giá trị về mặt âm th
 
 Việc sưu tầm những album nhạc nổi tiếng là một phần quan trọng trong cuộc sống của một audiophile. Những album này không chỉ mang lại trải nghiệm nghe nhạc tuyệt vời mà còn giúp tăng cường kiến thức và giá trị nghệ thuật. Hy vọng rằng qua bài viết này, bạn đã có thêm những gợi ý hữu ích để bổ sung vào bộ sưu tập âm nhạc của mình.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-211.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-211.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

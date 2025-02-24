@@ -3,7 +3,7 @@ pubDatetime: 2024-05-17T10:10:00Z
 title: Bài viết trên Instagram ngày 17 tháng 06 năm 2024
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-132.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-132.jpg
 tags:
   - viet lach
   - doan van
@@ -22,4 +22,4 @@ những điều chị kể làm mình nhớ đến đoạn trước lúc rời S
 
 ở phía ngược lại, cuộc đời mình thì vẫn son sắc vẫn nhiệm màu lắm, nên chỉ vài lần xước ở ngoài và đau trong lòng mà cảm tưởng như bầu trời sắp sụp xuống. vậy mới biết, phải ở trên con đường dài, đi lâu thật lâu thì mới biết được nỗi đau của mình là nhỏ bé đến nhường nào.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-246.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-246.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

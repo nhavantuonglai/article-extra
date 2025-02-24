@@ -3,7 +3,7 @@ pubDatetime: 2022-05-23T10:10:00Z
 title: 6 chìa khóa cải thiện hoạt động quầy lễ tân trong khách sạn
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
 featured: false
-image: https://banmaixanh.org/image/cover/001-727.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-727.jpg
 tags:
   - viet thue
   - marketing
@@ -39,7 +39,7 @@ Những thông tin mà bạn có thể tìm hiểu, nắm bắt về du khách c
 
 – …
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-074.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-074.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 Nhằm thu thập và quản lý thông tin khách hàng hiệu quả, khách sạn nên sử dụng [phần mềm quản lý khách hàng](https://nhavantuonglai.com/article), hoặc tính năng quản lý khách hàng trong phần mềm quản lý khách sạn. Cả 2 công cụ này đều có thể thu thập, cập nhật và lưu trữ hồ sơ khách hàng; phân loại và sàng lọc theo từng nhóm thông tin; cũng như truy xuất, cung cấp thông tin khi cần theo dõi, sử dụng.
 
@@ -73,7 +73,7 @@ Khách sạn nên trao quyền để nhân viên lễ tân tự tin ra quyết �
 
 Hãy đảm bảo rằng, khách sạn có một kế hoạch, lộ trình thăng tiến, phát triển năng lực phù hợp với các nhân viên, như kỹ năng quản lý thời gian, giao tiếp và phản hồi với khách hàng và đồng nghiệp…
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-075.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-075.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Ban hành Sổ tay hướng dẫn vận hành khách sạn cho quầy lễ tân
 
@@ -103,7 +103,7 @@ Học hỏi, nhân rộng cách làm việc của các nhân viên làm việc h
 
 Tham gia các khóa học, đào tạo nâng cao nghiệp vụ quầy lễ tân trong khách sạn. Không chỉ việc phát triển năng lực từ trong khách sạn, mà cũng cần phải tìm hiểu, học hỏi từ bên ngoài, để xem cách các khách sạn chuyên nghiệp, các nhân viên lễ tân tài năng đã và đang làm gì để tạo nên sự phấn khởi cho du khách khi nhận phòng.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-076.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-076.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Tìm hiểu và đề xuất du lịch trải nghiệm địa phương
 
@@ -143,7 +143,7 @@ Tự động hóa trong khách sạn cũng bao gồm thanh toán hóa đơn, tha
 
 Tổng quan lại, tự động hóa có thể áp dụng ở mọi lĩnh vực, mọi hoạt động trong khách sạn, giúp các công việc bớt nhàm chán và sai sót hơn, và thời gian dư thừa sẽ được dành cho những công việc có ích hơn.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-077.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-077.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Kết luận
 
@@ -159,4 +159,4 @@ Khách sạn cũng không nên sử dụng hồ sơ giấy, bảng tính Excel �
 
 Chúng cũng tạo nên mối liên kết bền chặt, sâu sắc giữa khách sạn, nhân viên và du khách, để tạo dựng và duy trì lòng trung thành ở phía du khách. Điều này sẽ gián tiếp khiến họ chi tiêu nhiều hơn, từ đó mà [cải thiện ADR khách sạn](https://nhavantuonglai.com/article) và có những đánh giá tốt hơn. Đó là tất cả những điều bạn cần làm, để có một quầy lễ tân khách sạn hoạt động chuyên nghiệp, và một khách sạn vận hành ổn định bền vững.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-514.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-514.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>

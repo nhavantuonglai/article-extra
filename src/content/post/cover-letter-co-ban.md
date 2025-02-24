@@ -3,7 +3,7 @@ pubDatetime: 2021-04-03T10:10:00Z
 title: Hướng dẫn cơ bản để viết cover letter hoàn hảo
 description: Khi nói đến cover letter, chúng thường là ấn tượng đầu tiên bạn tạo ra đối với một nhà tuyển dụng tiềm năng. Đó là cơ hội để bạn thể hiện kỹ năng, kinh nghiệm và tính cách của mình theo cách khiến bạn khác biệt với các ứng cử viên khác.
 featured: false
-image: https://banmaixanh.org/image/cover/001-349.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-349.jpg
 tags:
   - viet lach
   - ky nang viet
@@ -101,4 +101,4 @@ Nguyễn Kỳ Lân.
 
 Tạo ra cover letter hoàn hảo là một nghệ thuật cần có thời gian và công sức. Bằng cách làm theo các mẹo và ví dụ này, bạn có thể tạo một lá cover letter thể hiện kỹ năng, kinh nghiệm và tính cách của bạn và khiến bạn khác biệt với các ứng cử viên khác. Hãy nhớ điều chỉnh cover letter của bạn cho từng cover letter và đọc lại cẩn thận trước khi nộp. Với một lá cover letter được chế tác tốt, bạn có thể tạo ấn tượng đầu tiên mạnh mẽ và tăng cơ hội đạt được công việc mơ ước của mình.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-254.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-254.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

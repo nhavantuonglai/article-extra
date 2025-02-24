@@ -3,7 +3,7 @@ pubDatetime: 2021-01-07T10:10:00Z
 title: Bài viết trên Instagram ngày 25 tháng 01 năm 2021
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - viet lach
   - doan van
@@ -22,4 +22,4 @@ mình cứ thế, cứ đừng ngoài rìa và quan sát mọi người tung h�
 
 vậy, có gì là đọng lại, còn gì là lưu luyến lúc mình biến mất khỏi đây? trong một giây miệt mài với con chữ và ngoài kia vẫn đang náo nhiệt tiếng xe cộ, mình đã suy nghĩ điều ấy lúc nhìn vào những lá bơ. có phải chăng là những chậu bơ ngâm trong nước đang xanh rì, hay góc bàn làm việc đầy đặc trưng để nhìn vào là biết của ai, hoặc rộng hơn – là những con người ở nơi đây, là thành phố này chăng? thoáng vu vơ nghĩ, rồi mình cũng sớm miệt mài quay lại với con chữ, bởi đọng lại đơn điệu nhất, đơn giản là trọn cả khung hình này…
 
-<figure><img src="https://banmaixanh.org/image/cover/001-130.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-130.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

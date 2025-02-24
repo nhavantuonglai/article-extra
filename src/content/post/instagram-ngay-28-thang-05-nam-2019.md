@@ -3,7 +3,7 @@ pubDatetime: 2019-05-07T10:10:00Z
 title: Bài viết trên Instagram ngày 28 tháng 05 năm 2019
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-321.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-321.jpg
 tags:
   - viet lach
   - doan van
@@ -20,4 +20,4 @@ trong Man of Steel (2013), Clark Kent may mắn khi có người mẹ nuo�
 
 còn trong bản thân mình, những giai điệu nó làm rất tốt một việc, là cho mình thấy rằng dù niềm vui hay nỗi buồn, khi đã cất nhạc lên thì nó không còn đứng riêng một mình nữa, mình không buồn không lạc lõng một mình. nếu bạn không tin hãy nghe lấy một bài thật là buồn vào lúc đang buồn – nỗi buồn theo đó mà vơi đi rất, rất nhiều. và cả khi niềm vui đến, cũng sẽ như thế.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-257.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-257.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

@@ -3,7 +3,7 @@ pubDatetime: 2022-08-15T10:10:00Z
 title: 5 điều cần làm để website khách sạn của bạn luôn hoạt động như ý
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
 featured: false
-image: https://banmaixanh.org/image/cover/001-585.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-585.jpg
 tags:
   - viet thue
   - marketing
@@ -27,7 +27,7 @@ Tiếp theo, đảm bảo rằng link dẫn phải đến đúng trang [đặt p
 
 Và cũng đừng quên những ưu đãi cho khách đặt phòng. Không nhất thiết lúc nào cũng phải giảm giá, nhưng hãy luôn tìm lý do phù hợp cho các mã ưu đãi, và khiến họ (khách đặt phòng) cảm thấy nếu không đặt ngay bây giờ thì sẽ không bao giờ có một giá phòng tốt như thế.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-041.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-041.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Kiểm tra và sửa các liên kết bị hỏng
 
@@ -49,7 +49,7 @@ Kiểm tra xem thông tin liên hệ của bạn đã cập nhật chưa và có
 
 Thông tin liên lạc bao gồm số điện thoại, địa chỉ email và địa chỉ khách sạn, chúng phải được thể hiện rõ trên website của bạn, mọi người thường đặt chúng ở cuối trang và bạn cũng nên như vậy. Điều này giúp Google dễ dàng lập chỉ mục nội dung, và giúp người khác dễ dàng tìm thấy bạn và sẵn sàng quay lại khi cần hơn.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-042.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-042.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Đừng quên những mô tả ngắn
 
@@ -61,4 +61,4 @@ Khi nói đến việc hủy phòng, khách cần biết nơi cư trú của b�
 
 Điều quan trọng là đảm bảo rằng website của bạn đang thúc đẩy hoạt động kinh doanh và bạn đang làm mọi thứ có thể để [tối ưu website cho việc chuyển đổi](https://nhavantuonglai.com/article). Chúng tôi khuyên bạn nên lập một danh sách các nội dung cần kiểm tra thường xuyên trên website của mình và kiểm tra thường xuyên mỗi quý một lần, để bạn không bao giờ bị bỏ mặc với những thông tin lỗi thời tồn đọng quá lâu.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-514.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-514.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>

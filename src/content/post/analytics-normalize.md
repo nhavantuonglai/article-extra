@@ -3,7 +3,7 @@ pubDatetime: 2023-01-15T10:10:00Z
 title: Giới thiệu công cụ chuẩn hóa dữ liệu thô
 description: Công cụ chuẩn hóa dữ liệu thô là công cụ giúp xử lý và làm sạch dữ liệu trước khi đưa vào sử dụng khi lên bài SEO và chỉnh sửa file tiêu đề markdown.
 featured: false
-image: https://banmaixanh.org/image/cover/001-536.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-536.jpg
 tags:
   - developer
   - javascript
@@ -44,4 +44,4 @@ Mới đây, nhavantuonglai đã chính thức ra mắt [công cụ chuẩn hóa
 
 Để sử dụng, chỉ cần nhập văn bản thô cần chuyển đổi, sau đó bấm _Chuyển đổi_ thì ngay lập tức công cụ sẽ trả về kết quả là dữ liệu được chuẩn hóa.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-164.jpg" alt="Ra mắt công cụ chuẩn hóa dữ liệu thô." title="Ra mắt công cụ chuẩn hóa dữ liệu thô." height=100% width=100%><figcaption></p>Ra mắt công cụ chuẩn hóa dữ liệu thô.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-164.jpg" alt="Ra mắt công cụ chuẩn hóa dữ liệu thô." title="Ra mắt công cụ chuẩn hóa dữ liệu thô." height=100% width=100%><figcaption></p>Ra mắt công cụ chuẩn hóa dữ liệu thô.</p></figcaption></figure>

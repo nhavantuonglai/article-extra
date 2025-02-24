@@ -3,7 +3,7 @@ pubDatetime: 2020-09-07T10:10:00Z
 title: Bài viết trên Instagram ngày 24 tháng 09 năm 2020
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - viet lach
   - doan van
@@ -22,4 +22,4 @@ còn sự ẩn mình, với mình chính là chuyện ít ai biết đến nó. 
 
 chính vì thế, cứ mỗi lần vào chùa, hay đến Nhã Nam, hoặc lang thang trên một nẻo đường nào đó và gặp, mình cũng đều dừng chân mà ngắm. nhưng ngắm vậy thôi, chứ thành phố này tất bật quá, không đủ chậm để mình dừng đủ lâu, chụp sâu vào bên trong để nói rằng bông hoa này thú vị đến nhường nào. mà cũng có khi, là chưa đủ duyên để làm điều ấy…
 
-<figure><img src="https://banmaixanh.org/image/cover/001-147.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-147.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

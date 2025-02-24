@@ -3,7 +3,7 @@ pubDatetime: 2022-07-24T10:10:00Z
 title: Khách sạn thông minh là gì, lợi ích và làm thế nào để trở thành khách sạn thông minh?
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
 featured: false
-image: https://banmaixanh.org/image/cover/001-548.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-548.jpg
 tags:
   - viet thue
   - marketing
@@ -25,7 +25,7 @@ Khả năng kết nối giữa các thiết bị giúp người dùng điều kh
 
 _Trong khách sạn thông minh, khách sử dụng các thiết bị kết nối internet để tương tác và cá nhân hóa trải nghiệm._
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-023.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-023.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Tại sao mọi khách sạn nên trở thành khách sạn thông minh?
 
@@ -59,7 +59,7 @@ Như vậy, khách hàng có thể sử dụng các thiết bị thông minh tro
 
 Ví dụ, khách sạn biết được đâu là kênh truyền hình được ưa thích, vị trí phòng và cường độ ánh sáng ưa thích là gì, vị trí địa lý của khách và nhiệt độ phòng có ảnh hưởng ra sao… để có thể phục vụ các nhóm khách tương tự trong tương lai được tốt hơn.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-024.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-024.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Quản lý rủi ro thiết bị và bảo trì trước khi hỏng hóc
 
@@ -81,8 +81,8 @@ Loa thông minh và các sản phẩm như Alexa giúp các khách sạn nắm �
 
 Ví dụ, khách [tìm kiếm thông tin du lịch quanh khu vực](https://nhavantuonglai.com/article), thì có thể ra lệnh bằng giọng nói với loa thông minh có trong phòng và nhận lại các thông tin mới nhất được thu thập từ internet. Tương tự, trung tâm điều khiển thông minh (Smart Hubs) là nơi người dùng có thể phát nhạc (từ loa thông minh), thay đổi kênh truyền hình (từ Tivi thông minh) hoặc tắt đèn (từ đèn thông minh) bằng các câu lệnh đơn giản (bật nhạc lên, tắt đèn ngay…).
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-027.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-027.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 Khách sạn thông minh ngày càng trở nên phổ biến, lý do lớn nhất là khả năng tiết kiệm tiền cho khách sạn; thu hút nhiều khách đặt phòng, cải thiện trải nghiệm và tạo ra lòng trung thành của khách hàng rõ ràng hơn. Những nội dung trên đây là điều cần thiết để khách sạn hành động nhằm biến khách sạn của mình thành khách sạn thông minh và thu lợi từ mô hình này.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-310.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-310.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>

@@ -3,7 +3,7 @@ pubDatetime: 2025-02-02T10:10:00Z
 title: Dịch vụ viết bài social để tăng cường phạm vi khán giả trực tuyến của bạn
 description: Khi bạn thuê viết content social, bạn tiết kiệm thời gian và tiền bạc để tập trung vào những gì quan trọng nhất, là doanh nghiệp của bạn.
 featured: false
-image: https://banmaixanh.org/image/cover/001-620.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-620.jpg
 tags:
   - viet lach
   - ky nang viet
@@ -130,4 +130,4 @@ Trên một số nền tảng, có thể. Nếu bạn đăng trên Facebook, Twi
 
 Các tác giả của chúng tôi có thể làm điều đó. Hãy liên hệ với chúng tôi ngay hôm nay để tìm hiểu cách chúng tôi có thể đáp ứng nhu cầu content của bạn.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-246.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-246.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

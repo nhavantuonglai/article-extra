@@ -3,7 +3,7 @@ pubDatetime: 2021-02-11T10:10:00Z
 title: Hướng dẫn chọn tai nghe over-ear chất lượng cao
 description: Tai nghe over-ear là một trong những lựa chọn phổ biến nhất cho những người yêu thích âm nhạc và đòi hỏi chất lượng âm thanh cao.
 featured: false
-image: https://banmaixanh.org/image/cover/001-502.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-502.jpg
 tags:
   - viet lach
   - thuong thuc am thanh
@@ -159,4 +159,4 @@ Hãy chọn mua tai nghe từ các Thương hiệu uy tín và kiểm tra kỹ c
 
 Chọn tai nghe over-ear chất lượng cao đòi hỏi bạn phải cân nhắc nhiều yếu tố như Chất lượng âm thanh, tính năng, thiết kế và giá thành. Hy vọng rằng bài viết này sẽ giúp bạn hiểu rõ hơn về cách chọn tai nghe over-ear phù hợp với nhu cầu của mình và có được trải nghiệm âm nhạc tuyệt vời nhất.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-211.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-211.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

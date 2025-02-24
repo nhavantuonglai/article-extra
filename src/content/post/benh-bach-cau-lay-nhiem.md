@@ -3,7 +3,7 @@ pubDatetime: 2021-03-05T10:10:00Z
 title: Làm thế nào để phòng ngừa lây nhiễm bệnh bạch hầu
 description: Dù bệnh bạch cầu không phải là bệnh lây nhiễm, việc phòng ngừa và giảm nguy cơ mắc bệnh là rất quan trọng.
 featured: false
-image: https://banmaixanh.org/image/cover/001-539.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-539.jpg
 tags:
   - y hoc
   - benh truyen nhiem
@@ -17,7 +17,7 @@ _Bệnh bạch cầu, hay còn gọi là leukemia, là một loại ung thư c�
 
 Bệnh bạch cầu, hay còn gọi là leukemia, là một loại ung thư của máu và tủy xương. Khi mắc bệnh bạch cầu, tủy xương sản xuất quá nhiều bạch cầu bất thường, làm giảm khả năng sản xuất các tế bào máu bình thường. Điều này dẫn đến nhiều vấn đề sức khỏe nghiêm trọng và yêu cầu các phương pháp phòng ngừa đặc biệt để kiểm soát bệnh và ngăn ngừa lây nhiễm.
 
-<figure><img src="https://banmaixanh.org/image/article/benh-bach-cau-01.jpg" alt="benh-bach-cau" title="benh-bach-cau" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/benh-bach-cau-01.jpg" alt="benh-bach-cau" title="benh-bach-cau" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
 ## Hiểu biết về bệnh bạch cầu
 
@@ -55,7 +55,7 @@ Bệnh bạch cầu được chia thành nhiều loại khác nhau dựa trên t
 
 Bệnh bạch cầu không phải là bệnh lây nhiễm truyền thống như cúm hay viêm gan. Tuy nhiên, việc hiểu rõ nguyên nhân và các yếu tố nguy cơ giúp tăng cường các biện pháp phòng ngừa.
 
-<figure><img src="https://banmaixanh.org/image/article/benh-bach-cau-02.jpg" alt="benh-bach-cau" title="benh-bach-cau" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/benh-bach-cau-02.jpg" alt="benh-bach-cau" title="benh-bach-cau" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
 ### Nguyên nhân bệnh bạch cầu
 
@@ -77,7 +77,7 @@ Nguyên nhân chính xác của bệnh bạch cầu chưa được biết rõ, n
 
 – Hệ miễn dịch suy yếu: Người có hệ miễn dịch suy yếu, do các bệnh lý hoặc điều trị y khoa, có nguy cơ cao hơn.
 
-<figure><img src="https://banmaixanh.org/image/article/benh-bach-cau-06.jpg" alt="benh-bach-cau" title="benh-bach-cau" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/benh-bach-cau-06.jpg" alt="benh-bach-cau" title="benh-bach-cau" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
 ## Phòng ngừa lây nhiễm bệnh bạch cầu
 
@@ -95,7 +95,7 @@ Dù bệnh bạch cầu không phải là bệnh lây nhiễm, việc phòng ng�
 
 – Tuân thủ các biện pháp an toàn: Khi tiếp xúc với bức xạ trong môi trường làm việc, tuân thủ các biện pháp an toàn để giảm thiểu nguy cơ.
 
-<figure><img src="https://banmaixanh.org/image/article/benh-bach-cau-03.jpg" alt="benh-bach-cau" title="benh-bach-cau" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/benh-bach-cau-03.jpg" alt="benh-bach-cau" title="benh-bach-cau" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
 ### Duy trì lối sống lành mạnh
 
@@ -115,7 +115,7 @@ Dù bệnh bạch cầu không phải là bệnh lây nhiễm, việc phòng ng�
 
 Hiểu biết về bệnh bạch cầu và các biện pháp phòng ngừa là yếu tố quan trọng giúp giảm nguy cơ mắc bệnh.
 
-<figure><img src="https://banmaixanh.org/image/article/benh-bach-cau-05.jpg" alt="benh-bach-cau" title="benh-bach-cau" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/benh-bach-cau-05.jpg" alt="benh-bach-cau" title="benh-bach-cau" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
 ### Giáo dục cộng đồng
 
@@ -133,8 +133,8 @@ Hiểu biết về bệnh bạch cầu và các biện pháp phòng ngừa là y
 
 Phòng ngừa lây nhiễm bệnh bạch cầu không chỉ giúp giảm nguy cơ mắc bệnh mà còn góp phần bảo vệ sức khỏe cộng đồng. Hiểu biết về bệnh, nguyên nhân và các biện pháp phòng ngừa là yếu tố quan trọng giúp mọi người sống khỏe mạnh hơn.
 
-<figure><img src="https://banmaixanh.org/image/article/benh-bach-cau-04.jpg" alt="benh-bach-cau" title="benh-bach-cau" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/benh-bach-cau-04.jpg" alt="benh-bach-cau" title="benh-bach-cau" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
 Bằng cách duy trì lối sống lành mạnh, tránh tiếp xúc với hóa chất và bức xạ, và thực hiện các kiểm tra sức khỏe định kỳ, chúng ta có thể giảm nguy cơ mắc bệnh bạch cầu và cải thiện chất lượng cuộc sống.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-211.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-211.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

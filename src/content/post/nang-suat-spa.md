@@ -3,7 +3,7 @@ pubDatetime: 2023-07-05T10:10:00Z
 title: 17 gợi ý để cải thiện năng suất trong quản lý và tối ưu doanh thu Spa
 description: Tìm hiểu các chiến lược tiếp thị Spa hiệu quả trong chuỗi bài viết sau của nhavantuonglai để áp dụng và đem lại hiệu quả thiết thực cho giải pháp của bạn.
 featured: false
-image: https://banmaixanh.org/image/cover/001-297.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-297.jpg
 tags:
   - viet thue
   - marketing
@@ -203,4 +203,4 @@ Giải pháp là [phần mềm quản lý tiệm Spa miễn phí trong năm 2022
 
 Đặc biệt, phần mềm không yêu cầu cài đặt, chỉ cần có mạng là có thể vận hành, nên với bất kỳ thiết bị nào, ở bất kỳ đâu bạn cũng có thể quản lý được. Tìm hiểu thêm về [Giải pháp](https://nhavantuonglai.com/article).
 
-<figure><img src="https://banmaixanh.org/image/cover/001-214.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-214.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

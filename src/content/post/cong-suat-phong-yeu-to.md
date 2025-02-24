@@ -3,7 +3,7 @@ pubDatetime: 2022-03-16T10:10:00Z
 title: Các yếu tố ảnh hưởng đến công suất phòng khách sạn
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
 featured: false
-image: https://banmaixanh.org/image/cover/001-419.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-419.jpg
 tags:
   - viet thue
   - marketing
@@ -41,7 +41,7 @@ Chính sách giá phòng khi được triển khai chặt chẽ, sẽ tạo nên
 
 Do vậy, có thể xem chính sách giá, chính sách bán phòng là cách để người chủ, quản lý thể hiện sự quan tâm, đặt khách hàng lên vị hàng đầu khi phục vụ.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-080.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-080.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Gói bán phòng
 
@@ -63,7 +63,7 @@ Một khía cạnh khác của sự khác biệt, đó là tạo nên không gia
 
 Khi sự khác biệt được tạo ra, khách sạn cũng sẽ xây dựng được riêng cho mình phân khúc khách hàng phù hợp, đáp ứng những gì mà khách sạn mình có. Theo đó, công suất phòng sẽ dần được cải thiện, tăng trưởng tích cực. Nếu không thể đáp ứng được ngay, công suất phòng khách sạn sẽ chịu tác động, không cao như những gì người quản lý mong muốn.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-081.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-081.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Kênh bán phòng
 
@@ -89,8 +89,8 @@ Bạn đang tìm hiểu về công suất phòng? Đừng bỏ lỡ chuỗi bài
 
 – [Ứng dụng công nghệ để cải thiện doanh thu khi công suất phòng thấp](https://nhavantuonglai.com/article).
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-082.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-082.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 Như vậy, các yếu tố ảnh hưởng đến công suất phòng khách sạn, khách sạn đã được làm rõ. Xác định được những yếu tố này cũng như sự tác độngt của nó, sẽ giúp các chủ khách sạn có những điều chỉnh, cân nhắc để tối ưu công suất phòng hiệu quả hơn. Một trong số các giải pháp như vậy, đó là sử dụng PMS để quản lý toàn diện cho khách sạn, khách sạn.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-306.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-306.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>

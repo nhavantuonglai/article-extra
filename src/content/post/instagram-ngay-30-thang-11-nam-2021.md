@@ -3,7 +3,7 @@ pubDatetime: 2021-11-07T10:10:00Z
 title: Bài viết trên Instagram ngày 30 tháng 11 năm 2021
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - viet lach
   - doan van
@@ -22,4 +22,4 @@ sức mạnh ấy, không phân biệt nơi nào cả – dù trong rừng hay t
 
 nay thanh trà nhà mình đã già cỗi, không còn đơm hoa nhiều như trước; rừng cao su giờ cũng đã hạ, hòa cùng những cây bạch đàn cũ mà thành rừng cây mới. mùi trong vườn, mùi trong rừng mình từng có nay cũng thay bằng mùi vị khác, còn mùi trong ký ức thì chắc thêm một thời gian nữa là thay bằng mùi mới.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-512.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-512.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

@@ -3,7 +3,7 @@ pubDatetime: 2019-05-07T10:10:00Z
 title: Bài viết trên Instagram ngày 24 tháng 05 năm 2019
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - viet lach
   - doan van
@@ -20,4 +20,4 @@ mình không nhớ đã từng viết ra chưa, nhưng điều mình tì
 
 đến một lúc nào đó, đắm say hay cuồng nhiệt rồi cũng nhạt nhòa theo thời gian, điều đọng lại và quan trọng nhất của những ngày sau cùng ấy là sự kết nối. có thể cùng ngồi với nhau, vừa nói chuyện lại vừa lắng nghe nhau một cách thoải mái chân tình, mà cũng có khi là im lặng một cách bình an, thì đó nên là điều đáng xem là tuyệt vời hay sao?
 
-<figure><img src="https://banmaixanh.org/image/cover/001-223.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-223.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

@@ -3,7 +3,7 @@ pubDatetime: 2023-03-13T10:10:00Z
 title: Hiểu 5 loại phân biệt chủng tộc trực tuyến
 description: Phân biệt chủng tộc trực tuyến là một hình thức phân biệt đối xử diễn ra trên phương tiện truyền thông xã hội và các không gian kỹ thuật số khác khi ai đó đăng hoặc chia sẻ nội dung phân biệt.
 featured: false
-image: https://banmaixanh.org/image/cover/001-642.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-642.jpg
 tags:
   - fake news
   - niem tin
@@ -105,4 +105,4 @@ Phương tiện truyền thông xã hội, các công cụ AI và các không gi
 
 Bạn có thể báo cáo nội dung phân biệt chủng tộc và thông tin sai lệch cho hầu hết các nền tảng truyền thông xã hội bằng cách sử dụng các công cụ báo cáo của riêng họ.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-614.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-614.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

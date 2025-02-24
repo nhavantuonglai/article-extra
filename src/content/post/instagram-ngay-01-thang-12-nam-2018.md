@@ -3,7 +3,7 @@ pubDatetime: 2018-01-07T10:10:00Z
 title: Bài viết trên Instagram ngày 01 tháng 12 năm 2018
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - viet lach
   - doan van
@@ -22,4 +22,4 @@ chiều hôm ấy, mình hẹn bạn, cuộc hẹn cuối ở Hà Nội. trong n
 
 bạn từng đến Huế, có lẽ đó là niềm hy vọng duy nhất, len lỏi trong cuộc trò chuyện, cho những lần gặp gỡ mãi về sau này. hẳn nhiên rằng, mình biết bạn vẫn sẽ ở đó, chẳng đi đâu xa cả. nhưng thời gian dễ làm người ta thay đổi, biết một lúc nào đó, liệu bạn hay mình đâu có tha thiết những cuộc gặp gỡ – thì có phải chăng lúc này là điều tốt nhất mà chúng mình có?
 
-<figure><img src="https://banmaixanh.org/image/cover/001-132.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-132.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

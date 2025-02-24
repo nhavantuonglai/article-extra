@@ -3,7 +3,7 @@ pubDatetime: 2023-05-04T10:10:00Z
 title: Khách sạn có thể học hỏi được gì từ ngành hàng không để kinh doanh tốt hơn?
 description: Mặc dù ngành hàng không mới chỉ tồn tại trong một phần nhỏ thời gian so với khách sạn, họ đã tiến xa trong một số lĩnh vực.
 featured: false
-image: https://banmaixanh.org/image/cover/001-730.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-730.jpg
 tags:
   - viet thue
   - marketing
@@ -75,4 +75,4 @@ Lĩnh vực thứ hai là hiệu quả hoạt động. Xem xét cách các hãng
 
 Khả năng là khách sạn của bạn có thể mô phỏng những phần thành công nhất trong hoạt động của ngành hàng không đồng thời cải thiện những yếu tố khiến bạn cảm thấy bực bội. Vậy hãy bắt đầu: hãy đặt một chuyến đi và tìm cảm hứng. Điều này có thể giúp khách sạn của bạn _cất cánh._
 
-<figure><img src="https://banmaixanh.org/image/cover/001-210.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-210.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>

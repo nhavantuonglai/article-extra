@@ -3,7 +3,7 @@ pubDatetime: 2024-02-25T10:10:00Z
 title: Bài viết trên Instagram ngày 25 tháng 02 năm 2024
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - viet lach
   - doan van
@@ -22,4 +22,4 @@ nếu ở bên gia đình hoặc gặp gỡ bạn bè đã ở đó, thời gian
 
 và thêm những lần khác nữa, là những lần mình về nhưng không thăm nhà cũng chẳng gặp ai; và cũng chẳng ai trong số họ biết mình đang ở rất gần. những lần như vậy, chỉ có riêng mình và Huế, trong dòng thời gian cô đặc và chậm rãi nhất từng có; để mình đọc và hiểu nhiều hơn một lát cắt, một khoảng không bất chợt hiện ra trong tầm mắt.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-250.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-250.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

@@ -3,7 +3,7 @@ pubDatetime: 2020-01-07T10:10:00Z
 title: Bài viết trên Instagram ngày 16 tháng 01 năm 2020
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-343.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-343.jpg
 tags:
   - viet lach
   - doan van
@@ -18,4 +18,4 @@ nếu ai đó nói mình sẽ sớm khó chịu với khói bụi va�
 
 nhưng nói vậy, chứ thật lòng mình không chắc chắn sẽ yêu thành phố này, trái tim mình giờ đã quá chật chội và dường như thật ích kỷ để nhét thêm một điều gì khác vào đó. có lẽ rằng, nơi này với những gì đang có, mình sẽ vẫn cảm nhận như những gì mình đang cảm nhận, nhưng để nó đi vào lòng và khiến mình thổn thức khi kể về, sẽ khó, và mình sẽ không bao giờ muốn điều ấy xảy ra.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-310.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-310.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

@@ -3,7 +3,7 @@ pubDatetime: 2019-02-07T10:10:00Z
 title: Bài viết trên Instagram ngày 04 tháng 02 năm 2019
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-383.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-383.jpg
 tags:
   - viet lach
   - doan van
@@ -20,4 +20,4 @@ trưa hôm ấy, bạn về rồi để mình ở đại học Quốc gia, trư�
 
 mình nhớ về những giấc mơ trưa những ngày trực sách ở Sư phạm để rồi nó trở thành một niềm kiêu hãnh mỗi lúc nhắc đến, mình nhớ về chuyến đi thực tế mà lúc dừng chân ở đây, đêm bạn kéo ra thưởng thức món bún chả với nước chấm ngon nhất trần đời, hay những hôm đợi bạn tới dẫn đi chơi mà hẹn gặp nhau ở đây, trước khi đi thì đã lang thang khắp nơi nhìn ngắm những bạn đồng trang lứa với sách vở và cả ước mơ trên vai.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-310.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-310.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

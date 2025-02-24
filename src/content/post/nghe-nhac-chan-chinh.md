@@ -3,7 +3,7 @@ pubDatetime: 2021-01-20T10:10:00Z
 title: Audiophile chân chính là ai?
 description: Audiophile chân chính là những người có đam mê sâu sắc với âm nhạc và chất lượng âm thanh.
 featured: false
-image: https://banmaixanh.org/image/cover/001-538.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-538.jpg
 tags:
   - viet lach
   - thuong thuc am thanh
@@ -83,4 +83,4 @@ Audiophile chân chính là những người có đam mê sâu sắc với âm n
 
 Trở thành một audiophile chân chính không phải là một hành trình dễ dàng. Đòi hỏi sự đam mê, kiên nhẫn và không ngừng học hỏi. Audiophile chân chính không chỉ dừng lại ở việc nghe nhạc mà họ còn sống cùng âm nhạc, tìm kiếm sự hoàn hảo trong từng giai điệu, từng nốt nhạc. Hy vọng qua bài viết này, bạn đã có cái nhìn tổng quan về audiophile chân chính và biết cách để trở thành một người nghe nhạc thực thụ.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-211.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-211.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

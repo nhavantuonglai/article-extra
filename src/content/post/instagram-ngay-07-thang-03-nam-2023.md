@@ -3,7 +3,7 @@ pubDatetime: 2023-03-07T10:10:00Z
 title: Bài viết trên Instagram ngày 07 tháng 03 năm 2023
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-321.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-321.jpg
 tags:
   - viet lach
   - doan van
@@ -22,4 +22,4 @@ nhưng dù có rơi đến tận cùng, có chìm vào màn đêm đầy tăm t�
 
 dù giữ cách nghĩ ấy không phải là điều dễ dàng và có thể luôn nhìn thấy hiệu quả, bởi cả bản thân mình đôi khi cũng tự nghi hoặc là sao mãi mà vẫn chưa tươi sáng như mình mong đến vậy. nhưng lý do lớn nhất mình vẫn còn nghĩ thế, và luôn nghĩ vậy là sự an ủi mà chúng đem đến, như một cảm giác động viên, xoa dịu những tổn thương và khơi lên những niềm tin sắp sửa vụt tắt trong người.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-310.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-310.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

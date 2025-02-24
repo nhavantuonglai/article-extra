@@ -3,7 +3,7 @@ pubDatetime: 2024-04-17T10:10:00Z
 title: Bài viết trên Instagram ngày 17 tháng 04 năm 2024
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-427.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-427.jpg
 tags:
   - viet lach
   - doan van
@@ -20,4 +20,4 @@ tiếp sau đó, mình trồng cây trở lại, trồng nhiều và chăm kỹ 
 
 những bài mình học được, chúng sắp xếp để tuần tự đến trước sau, giúp mình thử sai từng dịp và biết phải làm thế nào cho hợp lý. vậy nên trong hiện tại, cái suy nghĩ tăm tối ban đầu nay cũng đã vơi đi ít nhiều, thế chỗ cho sự kiên nhẫn tin vào những điều mình đang nuôi dưỡng và chăm bón. bằng cái nhìn đơn thuần không đi vào sâu thẳm, mình thấy được sự tươi tốt đang dần phát triển thành, và cảm nhận rõ sức sống đã quay trở lại, trong căn phòng và cả trong tâm hồn.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-111.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-111.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

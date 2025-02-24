@@ -3,7 +3,7 @@ pubDatetime: 2021-10-07T10:10:00Z
 title: Bài viết trên Instagram ngày 13 tháng 10 năm 2021
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-323.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-323.jpg
 tags:
   - viet lach
   - doan van
@@ -22,4 +22,4 @@ lý do cho việc hữu hình, là mình luôn nghi ngại, rằng ký ức bả
 
 nên, cái chững đoạn đầu bài viết, cũng bởi mình nghĩ nay liên lạc dễ dàng quá, tầm hình chụp nhanh trong tầm mắt; khiến việc hữu hình những khoảnh khắc hay kỷ niệm của mọi người dần mờ nhạt và chẳng đáng lưu tâm nữa. mình nghĩ, ba mình cũng đang như vậy. nhưng mà không, tính cách đang có đôi khi là do người đi trước để lại. với mình, trong lần này, chính là niềm vui thích khi chạm vào những kỷ niệm đẹp đẽ và không thể nào muốn quên.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-310.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-310.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

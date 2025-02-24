@@ -3,7 +3,7 @@ pubDatetime: 2022-06-18T10:10:00Z
 title: Làm thế nào để khách sạn tránh overbooking?
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
 featured: false
-image: https://banmaixanh.org/image/cover/001-548.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-548.jpg
 tags:
   - viet thue
   - marketing
@@ -31,7 +31,7 @@ Các cách để giảm tình trạng overbooking tại khách sạn của bạn
 
 Rõ ràng, nếu khách sạn nhận được nhiều lượt đặt phòng thì là một điều tốt, nhưng nếu không thể đáp ứng hết các lượt đặt phòng ấy thì không tốt. Dưới đây là những giải pháp để khách sạn tránh overbooking, cũng như giải quyết các vấn đề gây ra bởi overbooking tại khách sạn.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-023.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-023.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Hợp tác với các khách sạn khác
 
@@ -49,7 +49,7 @@ Giải pháp của vấn đề này rất đơn giản, liên hệ xác nhận t
 
 Ở góc độ khách đặt phòng, việc này vừa đảm bảo rằng phòng họ đặt là thành công, lại vừa khiến họ biết rằng khách sạn đang theo dõi và đợi họ đến nhận phòng. Nên việc tìm một khách sạn khác, hoặc không đến nhận phòng sẽ khiến họ trở nên thô lỗ và hẳn họ sẽ không muốn người khác nghĩ như vậy.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-024.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-024.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Phân phối tỷ lệ phòng giữa bán trực tiếp và bán trực tuyến
 
@@ -69,7 +69,7 @@ Hiệu quả của giải pháp nằm ở việc, vừa giảm và hạn chế v
 
 Hiệu quả của giải pháp này nằm ở việc, vừa giảm và hạn chế việc khách hủy đặt phòng vào phút chót, bởi như vậy họ sẽ mất khoản tiền đặt cọc, khoản phí hủy phòng; lại vừa giúp khách sạn có thêm khoản thu, bù vào phòng trống không bán được.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-025.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-025.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Sử dụng công cụ quản lý khách sạn
 
@@ -81,8 +81,8 @@ Do vậy, để giải quyết thì khách sạn nên sử dụng công cụ qu�
 
 Hiệu quả của giải pháp có thể nhìn thấy một cách rõ ràng: tình trạng đặt phòng luôn được cập nhật và giúp tránh việc có nhiều người cùng đặt thành công 1 phòng bất kỳ.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-027.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-027.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 Overbooking ảnh hưởng tiêu cực đến uy tín của khách sạn, trải nghiệm của khách hàng và tâm lý của nhân viên khách sạn. Do vậy, áp dụng những giải pháp để giải quyết, hạn chế hay khắc phục vấn đề này là điều cần tính đến để phục vụ khách đặt phòng của khách sạn một cách tốt hơn, cũng như cải thiện doanh thu tổng thể cho khách của bạn.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-310.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-310.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>

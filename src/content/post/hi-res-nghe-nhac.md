@@ -3,7 +3,7 @@ pubDatetime: 2021-02-02T10:10:00Z
 title: Giới thiệu về công nghệ âm thanh Hi-res audio
 description: Chọn một cặp tai nghe tốt có thể là một nhiệm vụ khó khăn, đặc biệt là khi thị trường hiện nay có vô số lựa chọn với nhiều tính năng và thiết kế khác nhau.
 featured: false
-image: https://banmaixanh.org/image/cover/001-544.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-544.jpg
 tags:
   - viet lach
   - thuong thuc am thanh
@@ -119,4 +119,4 @@ Hi-res audio, viết tắt của High-Resolution Audio, là một tiêu chuẩn 
 
 Công nghệ âm thanh Hi-res audio đang ngày càng trở nên phổ biến và được ưa chuộng bởi khả năng tái tạo âm thanh chân thực và sống động. Với các thiết bị âm thanh Hi-res, người dùng có thể trải nghiệm nghe nhạc, xem phim và giải trí một cách tuyệt vời nhất. Hy vọng rằng bài viết này đã giúp bạn hiểu rõ hơn về công nghệ âm thanh Hi-res audio và cách chọn lựa các thiết bị âm thanh Hi-res phù hợp với nhu cầu của mình.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-211.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-211.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

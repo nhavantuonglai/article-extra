@@ -3,7 +3,7 @@ pubDatetime: 2023-04-11T10:10:00Z
 title: Tương lai của công nghệ dọn phòng khách sạn
 description: Dưới đây, chúng ta sẽ khám phá lý do tại sao bộ phận dọn phòng lại là điểm khởi đầu quan trọng.
 featured: false
-image: https://banmaixanh.org/image/cover/001-629.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-629.jpg
 tags:
   - viet thue
   - marketing
@@ -29,7 +29,7 @@ Cấu trúc của bộ phận dọn phòng bao gồm một Quản lý Dọn phò
 
 Hỗ trợ cho Quản lý Dọn phòng là các Trợ lý Quản lý Dọn phòng, người quản lý các hoạt động hàng ngày như dọn dẹp phòng và khu vực chung và xử lý các công việc thường xuyên. Ngoài ra, còn có một đội ngũ nhân viên giặt là chuyên trách, chịu trách nhiệm quản lý ga trải giường, khăn tắm, đồng phục và các mặt hàng khác cần giặt ủi, cũng như kiểm soát tồn kho.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-053.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-053.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Các thách thức chính trong bộ phận dọn phòng
 
@@ -49,7 +49,7 @@ Thường có một khoảng thời gian chờ đợi đáng kể giữa lúc ph
 
 Truyền thống, các giao diện giữa hệ thống quản lý tài sản và hệ thống điện thoại có nghĩa là các nhân viên dọn phòng phải quay số trên điện thoại để thông báo lễ tân khi phòng đã sẵn sàng. Tuy nhiên, với công nghệ hiện đại như nhận diện khuôn mặt và các giải pháp di động, tương lai của quản lý dọn phòng khách sạn nằm ở việc tận dụng công nghệ di động để tinh giản quy trình, giảm sử dụng tài nguyên và nâng cao trải nghiệm khách hàng. Về cơ bản, việc áp dụng công nghệ di động có thể tinh giản quy trình, giảm sử dụng tài nguyên và nâng cao trải nghiệm khách hàng.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-054.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-054.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Vấn đề nhân sự
 
@@ -70,7 +70,7 @@ Dọn phòng có thể được coi là hoạt động kém hiệu quả nhất 
 
 Thật sốc, hầu hết các khách sạn vẫn sử dụng bộ đàm để giao tiếp giữa lễ tân và bộ phận dọn phòng. Tuy nhiên, với công nghệ hiện có, các nhân viên dọn phòng có thể sử dụng điện thoại thông minh, có thể là của riêng họ, để đăng nhập vào hệ thống quản lý tài sản (PMS) và kiểm tra các phòng nào đã sẵn sàng để dọn dẹp, thay đổi trạng thái của phòng khi chúng đã được dọn dẹp và kiểm tra tên của khách trước khi gõ cửa. Các khách sạn cần dựa vào hệ thống của họ và biết rằng khi một phòng được kiểm tra, nó sẽ được báo cáo ngay lập tức cho lễ tân. Tính khả dụng tăng lên cho phép nhân viên lễ tân di chuyển các đặt phòng nhanh hơn mà không làm gián đoạn quy trình dọn phòng với việc ưu tiên lại liên tục.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-055.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-055.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## 10 công nghệ đang cách mạng hóa bộ phận dọn phòng
 
@@ -96,7 +96,7 @@ Một PMS như Mews có tích hợp phần mềm dọn phòng là lý tưởng �
 
 Danh sách kiểm tra kỹ thuật số tích hợp vào phần mềm dọn phòng PMS của bạn có thể giúp nhân viên chịu trách nhiệm về nhiệm vụ của họ, theo dõi những gì đã được hoàn thành và những gì vẫn còn cần phải làm. Điều này đảm bảo tuân thủ, cung cấp cho lễ tân ước lượng tốt hơn về tình trạng phòng và giúp quản lý các nhiệm vụ bảo trì hoặc yêu cầu của khách một cách hiệu quả hơn.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-056.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-056.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Máy dọn dẹp robot tự động
 
@@ -123,10 +123,10 @@ Tuy nhiên, khi triển khai bất kỳ công nghệ mới nào, đào tạo là
 
 Mặc dù các nhân viên dọn phòng thường bắt đầu lúc 8 giờ sáng, các báo cáo thường chỉ ra rằng hầu hết các phòng chỉ được trả lại vào khoảng 3 – 4 giờ chiều. Điều này trùng với thời gian mà các nhân viên dọn phòng kết thúc ca làm việc và nộp một tờ giấy với các phòng mà họ đã kiểm tra.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-057.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-057.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 Sự chậm trễ này dấy lên câu hỏi: nếu các nhân viên dọn phòng bắt đầu sớm như vậy, tại sao các phòng không được kiểm tra sớm hơn? Vấn đề nằm ở việc thiếu quyền truy cập vào ứng dụng di động của Mews bởi các nhân viên dọn phòng, điều này là do đào tạo nhân sự chưa đủ. Các giải pháp kỹ thuật đã tồn tại, nhưng chúng không phải lúc nào cũng được sử dụng hiệu quả. Tại Mews, chúng tôi phải hỗ trợ các khách sạn trong việc chuyển đổi sang công nghệ di động mới này.
 
 _Chúng tôi thấy rằng, tại các khách sạn mà ứng dụng Mews được sử dụng tích cực, khách hàng nhận phòng sớm hơn đáng kể,_ Matthijs tiếp tục.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-300.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-300.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>

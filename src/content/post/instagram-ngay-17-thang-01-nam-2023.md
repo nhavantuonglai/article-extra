@@ -3,7 +3,7 @@ pubDatetime: 2023-01-17T10:10:00Z
 title: Bài viết trên Instagram ngày 17 tháng 01 năm 2023
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-437.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-437.jpg
 tags:
   - viet lach
   - doan van
@@ -20,4 +20,4 @@ ví dụ, nếu bạn không thích ăn cay là lỡ ăn phải món bỏ quá n
 
 dù rằng với từng vấn đề sẽ có riêng từng cách diễn ra, và cũng nhiều hơn thế là số cách để vượt qua. nhưng bạn hoàn toàn có thể quy chiếu cách tiếp cận tương tự như đã nêu ở trên. điểm mấu chốt của chúng, chuyện đã qua thì thôi đừng dằn vặt, còn chuyện tương lai thì tránh không phạm phải sai lầm tương tự là được rồi.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

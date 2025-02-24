@@ -3,7 +3,7 @@ pubDatetime: 2024-02-11T10:10:00Z
 title: Đối mặt với nỗi sợ khi viết lách như thế nào?
 description: Viết nước rút, hay writing sprints, là một phương pháp viết lách hiệu quả giúp nhà văn tăng năng suất.
 featured: false
-image: https://banmaixanh.org/image/cover/001-534.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-534.jpg
 tags:
   - viet lach
   - ky nang viet
@@ -38,7 +38,7 @@ Nắm lấy và vượt qua nỗi sợ hãi của bạn bằng cách đặt lờ
 
 Trang giấy trắng trở nên ít đáng sợ hơn ngay khi bạn đặt các từ lên đó.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-114.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-114.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Ngừng trì hoãn
 
@@ -58,7 +58,7 @@ Bài viết của bạn sẽ không làm hài lòng tất cả mọi người v�
 
 Tuy nhiên, đừng bỏ qua những lời chỉ trích. Viết cũng giống như mọi thứ khác ở chỗ nó đòi hỏi phải thực hành. Bạn không cần phải xếp hạng # 1 trên Amazon hoặc lập danh sách bán chạy nhất lần đầu tiên của bạn (mặc dù tôi sẽ không tranh luận rằng điều đó sẽ tuyệt vời).
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-115.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-115.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 Bữa ăn đầu tiên bạn nấu không phải là một bữa ăn ngon. Lần đầu tiên bạn rê bóng rổ không phải ở cấp độ Lebron. Ai đó đã ở đó để chỉ ra những gì bạn đã làm sai và đưa bạn vào con đường đúng đắn. Họ đã dạy bạn làm thế nào để trở nên tốt hơn.
 
@@ -84,7 +84,7 @@ Chủ nghĩa hoàn hảo có thể kìm hãm bài viết sáng tạo của bạn
 
 Bạn đang viết để làm gì? Chúng tôi sẽ không bao giờ biết trừ khi bạn quyết định chia sẻ công việc của mình.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-116.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-116.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Đặt mục tiêu và tiến tới chúng
 
@@ -100,7 +100,7 @@ Những câu chuyện được hoàn thành một ngày tại một thời đi�
 
 Tất cả những điều này được thực hiện từng từ một, và bằng cách biến những nỗi sợ hãi thực sự và phi lý thành những nhiệm vụ có thể quản lý được.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-117.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-117.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Chấp nhận nỗi sợ viết
 
@@ -122,7 +122,7 @@ Nhân vật của bạn không có sự sang trọng khi ngồi trên băng gh�
 
 Đừng để nỗi sợ viết lách chiếm lấy cuộc sống viết lách của bạn. Quyết định tiến về phía trước, viết cuốn sách đó, gửi bản thảo đó. Quyết định và sau đó làm điều đó.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-118.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-118.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Yêu cầu giúp đỡ nếu bạn cần
 
@@ -136,7 +136,7 @@ Tương tự, nếu bạn cần giúp đỡ về nghiên cứu, đó thực sự
 
 Đừng để nỗi sợ yêu cầu giúp đỡ làm trì trệ bài viết của bạn.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-119.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-119.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Ôm lấy nỗi sợ hãi
 
@@ -154,4 +154,4 @@ Cần thêm động lực? Bạn đã xem chương trình Sách 100 ngày của 
 
 Điều gì khiến bạn sợ nhất về việc viết lách và / hoặc khía cạnh kinh doanh của việc viết lách? Một số bước bạn có thể thực hiện để vượt qua nỗi sợ hãi đó là gì?
 
-<figure><img src="https://banmaixanh.org/image/cover/001-211.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-211.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

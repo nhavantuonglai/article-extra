@@ -3,7 +3,7 @@ pubDatetime: 2019-05-07T10:10:00Z
 title: Bài viết trên Instagram ngày 05 tháng 07 năm 2019
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-383.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-383.jpg
 tags:
   - viet lach
   - doan van
@@ -18,4 +18,4 @@ những con đường tuyến tính đi qua mỗi lúc đi làm, đi khảo sát
 
 cả những con đường luôn sẵn sàng đặc kín người lúc mặt trời dần buông xuống, mình luôn có một cảm giác rằng dù nơi nào cũng thế, đêm người ta ở lại thành phố thì ít mà đổ về muôn nẻo ven đô là nhiều, Huế giờ cũng vậy và Đà Nẵng thì từ khi mình mới vào đã thấy rồi. giờ mình đã không còn ngột ngạt với khung cảnh ấy, khi tự cảm thấy rằng mình cũng là một phần trong dòng dịch chuyển ấy…
 
-<figure><img src="https://banmaixanh.org/image/cover/001-310.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-310.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

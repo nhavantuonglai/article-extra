@@ -3,7 +3,7 @@ pubDatetime: 2024-05-10T10:10:00Z
 title: Dùng hosting website miễn phí với Vercel
 description: Tìm hiểu cách sử dụng Vercel để hosting miễn phí, từ việc tạo tài khoản đến quản lý website sau khi triển khai.
 featured: false
-image: https://banmaixanh.org/image/cover/001-749.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-749.jpg
 tags:
   - google
   - google console
@@ -82,9 +82,9 @@ Sau khi hoàn tất đăng ký, bước tiếp theo là tạo và kết nối d�
 
 – Tạo dự án mới: Từ bảng điều khiển (dashboard) của Vercel, bạn nhấp vào nút _New Project._ Tại đây, bạn có thể chọn repository từ GitHub hoặc GitLab mà bạn muốn [triển khai](https://github.com/nhavantuonglai/nhavantuonglai-vn). Nếu dự án của bạn chưa có trên các nền tảng này, bạn có thể tạo repository mới và đẩy mã nguồn lên trước khi kết nối với Vercel.
 
-<figure><img src="https://banmaixanh.org/image/article/website-deploy-01.jpg" alt="vercel-website-deploy-nhavantuonglai" title="vercel-website-deploy-nhavantuonglai" height=100% width=100%><figcaption><p>vercel-website-deploy-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/website-deploy-01.jpg" alt="vercel-website-deploy-nhavantuonglai" title="vercel-website-deploy-nhavantuonglai" height=100% width=100%><figcaption><p>vercel-website-deploy-nhavantuonglai</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/image/article/website-deploy-02.jpg" alt="vercel-website-deploy-nhavantuonglai" title="vercel-website-deploy-nhavantuonglai" height=100% width=100%><figcaption><p>vercel-website-deploy-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/website-deploy-02.jpg" alt="vercel-website-deploy-nhavantuonglai" title="vercel-website-deploy-nhavantuonglai" height=100% width=100%><figcaption><p>vercel-website-deploy-nhavantuonglai</p></figcaption></figure>
 
 – Chọn framework và cấu hình dự án: Vercel sẽ tự động nhận diện framework mà bạn đang sử dụng trong dự án và đưa ra các tùy chọn cấu hình phù hợp. Bạn chỉ cần kiểm tra và điều chỉnh (nếu cần) trước khi tiếp tục.
 
@@ -98,11 +98,11 @@ Sau khi dự án đã được kết nối, bạn cần cấu hình các thiết
 
 – Triển khai website: Sau khi cấu hình xong, bạn nhấp vào nút _Deploy_ để tiến hành triển khai website. Quá trình này thường chỉ mất vài phút, và bạn có thể theo dõi tiến trình triển khai trực tiếp trên bảng điều khiển của Vercel.
 
-<figure><img src="https://banmaixanh.org/image/article/website-deploy-03.jpg" alt="vercel-website-deploy-nhavantuonglai" title="vercel-website-deploy-nhavantuonglai" height=100% width=100%><figcaption><p>vercel-website-deploy-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/website-deploy-03.jpg" alt="vercel-website-deploy-nhavantuonglai" title="vercel-website-deploy-nhavantuonglai" height=100% width=100%><figcaption><p>vercel-website-deploy-nhavantuonglai</p></figcaption></figure>
 
 – Kiểm tra và theo dõi: Sau khi triển khai xong, bạn có thể truy cập website qua domain mà bạn đã cấu hình trước đó. Vercel cung cấp một giao diện trực quan để bạn theo dõi hiệu suất và logs của website, giúp phát hiện và khắc phục sự cố nhanh chóng.
 
-<figure><img src="https://banmaixanh.org/image/article/website-deploy-04.jpg" alt="vercel-website-deploy-nhavantuonglai" title="vercel-website-deploy-nhavantuonglai" height=100% width=100%><figcaption><p>vercel-website-deploy-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/website-deploy-04.jpg" alt="vercel-website-deploy-nhavantuonglai" title="vercel-website-deploy-nhavantuonglai" height=100% width=100%><figcaption><p>vercel-website-deploy-nhavantuonglai</p></figcaption></figure>
 
 ### Bước 4: Quản lý website sau khi triển khai
 
@@ -114,7 +114,7 @@ Việc quản lý website sau khi triển khai là rất quan trọng để đ�
 
 – Sử dụng các tính năng nâng cao: Ngoài các tính năng cơ bản, Vercel còn cung cấp nhiều tính năng nâng cao như environment variables, serverless functions, và edge functions. Bạn có thể tận dụng các tính năng này để nâng cao khả năng xử lý và mở rộng của website.
 
-<figure><img src="https://banmaixanh.org/image/article/website-deploy-05.jpg" alt="vercel-website-deploy-nhavantuonglai" title="vercel-website-deploy-nhavantuonglai" height=100% width=100%><figcaption><p>vercel-website-deploy-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/website-deploy-05.jpg" alt="vercel-website-deploy-nhavantuonglai" title="vercel-website-deploy-nhavantuonglai" height=100% width=100%><figcaption><p>vercel-website-deploy-nhavantuonglai</p></figcaption></figure>
 
 ## Các giới hạn khi sử dụng Vercel làm hosting miễn phí
 
@@ -132,4 +132,4 @@ Vercel là một nền tảng mạnh mẽ và dễ sử dụng cho việc hostin
 
 Với sự kết hợp của các công cụ mạnh mẽ từ Vercel và tính linh hoạt của Astro, bạn có thể dễ dàng xây dựng và triển khai các ứng dụng website hiệu quả. Nếu bạn có bất kỳ câu hỏi nào hoặc cần hỗ trợ thêm, đừng ngần ngại liên hệ với github/nhavantuonglai qua email [info@nhavantuonglai.com](mailto:info@nhavantuonglai.com).
 
-<figure><img src="https://banmaixanh.org/image/cover/001-449.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-449.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

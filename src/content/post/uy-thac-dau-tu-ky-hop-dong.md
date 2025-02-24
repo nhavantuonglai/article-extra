@@ -3,7 +3,7 @@ pubDatetime: 2024-03-16T10:10:00Z
 title: Những điều cần biết khi ký hợp đồng ủy thác đầu tư
 description: Chuỗi bài viết của nhavantuonglai về kinh doanh vàng bạc đá quý và quỹ đầu tư sẽ giúp nhà đầu tư khởi nghiệp hiệu quả.
 featured: false
-image: https://banmaixanh.org/image/cover/001-540.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-540.jpg
 tags:
   - viet thue
   - marketing
@@ -68,4 +68,4 @@ Bên cạnh đó, cũng hãy đọc kỹ hợp đồng ủy thác. Bởi rằng,
 
 Hợp đồng ủy thác đầu tư đảm bảo lợi ích và nghĩa vụ cho nhà đầu tư được trọn vẹn. Do thế, nghiên cứu thật kỹ và lựa chọn quỹ đầu tư có hợp đồng. Sẽ là điều cần thiết và hỗ trợ cho quá trình đầu tư được sinh lời ổn định và chắc chắn.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-510.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-510.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

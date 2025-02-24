@@ -3,7 +3,7 @@ pubDatetime: 2020-08-07T10:10:00Z
 title: Bài viết trên Instagram ngày 24 tháng 08 năm 2020
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - viet lach
   - doan van
@@ -30,4 +30,4 @@ chuyện kể vậy, mình không biết thực hư được đến bao nhiêu, 
 
 thế nên, cứ mỗi lần chạy ngang qua, mình lúc nào phải đánh mắt mà nhìn sang con đường ở giữa, rồi tưởng tượng xem những lá thư tình trong hình hài chiếc máy bay trong tay kẻ đang yêu, xong chiếc phóng lên trời chiếc lại rơi xuống đất…
 
-<figure><img src="https://banmaixanh.org/image/cover/001-148.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-148.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

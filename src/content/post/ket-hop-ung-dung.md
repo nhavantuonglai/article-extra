@@ -3,7 +3,7 @@ pubDatetime: 2018-12-03T10:10:00Z
 title: LinkedIn kết hợp Tinder trong ứng dụng kết nối chuyên nghiệp
 description: Dù bạn muốn mở rộng mạng lưới trong một ngành công nghiệp mới, tìm kiếm đồng sáng lập và nhà đầu tư cho ý tưởng khởi nghiệp, hay đơn giản là muốn trò chuyện với một người mới
 featured: false
-image: https://banmaixanh.org/image/cover/001-116.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-116.jpg
 tags:
   - phat trien ban than
   - khoa hoc
@@ -57,4 +57,4 @@ _Tôi đã sử dụng ứng dụng Shapr để kết nối và hợp tác với
 
 Cách tiếp cận _kết nối ý nghĩa_ này là một cách hiệu quả để cải thiện việc kết nối mạng lưới, làm cho nó trở nên ý nghĩa, truyền cảm hứng và thú vị hơn. Công nghệ đã thay đổi sâu sắc cách chúng ta tìm kiếm việc làm. Vậy tại sao nó không thể ảnh hưởng đến cách chúng ta tạo ra những kết nối chuyên nghiệp, ý nghĩa?
 
-<figure><img src="https://banmaixanh.org/image/cover/001-439.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-439.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

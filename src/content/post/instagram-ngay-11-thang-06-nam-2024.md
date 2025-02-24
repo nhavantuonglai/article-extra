@@ -3,7 +3,7 @@ pubDatetime: 2024-06-11T10:10:00Z
 title: Bài viết trên Instagram ngày 11 tháng 06 năm 2024
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-722.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-722.jpg
 tags:
   - viet lach
   - doan van
@@ -20,4 +20,4 @@ vài tuần trước, bạn sắp ra nước ngoài nên hẹn gặp để tạm
 
 kể xong mình kết luận, hành trang mỗi chuyến đi luôn hàm chứa cá tính, danh tính của bản thân; vậy nên đừng bao giờ phân vân rồi bỏ lại tất cả, chúng không chỉ là vật dụng vô tri vô giác, mà còn là dấu vết của sự phát triển, là lời nhắc về những gì đã trải qua, đang trưởng thành, và bạn là ai; hãy cứ như mình, không đem được thì ký gửi để khi trở lại thì chúng vẫn ở đó, vẫn là ký ức mà mình từng thuộc về.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-145.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-145.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

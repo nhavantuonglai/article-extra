@@ -3,7 +3,7 @@ pubDatetime: 2019-06-07T10:10:00Z
 title: Bài viết trên Instagram ngày 27 tháng 06 năm 2019
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-321.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-321.jpg
 tags:
   - viet lach
   - doan van
@@ -26,4 +26,4 @@ nhưng Đà Lạt đối xử với mình không thật sự tố
 
 nên rồi mình quyết định sẽ ra đi, mình tiếp tục chạy xe xuống Sài Gòn, để tiếp tục cái điều mình đã dự định khi lên đường tới nơi này…
 
-<figure><img src="https://banmaixanh.org/image/cover/001-333.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-333.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

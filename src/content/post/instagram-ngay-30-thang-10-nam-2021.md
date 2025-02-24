@@ -3,7 +3,7 @@ pubDatetime: 2021-10-07T10:10:00Z
 title: Bài viết trên Instagram ngày 30 tháng 10 năm 2021
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - viet lach
   - doan van
@@ -20,4 +20,4 @@ xin đừng nghĩ cảm giác ấy là sự vô cảm, vì lòng trắc ẩn ri�
 
 nên, hãy cứ thấy may mắn, khi bản thân vẫn còn đó, mọi thứ xung quanh mình yêu thương vẫn đang tồn tại…
 
-<figure><img src="https://banmaixanh.org/image/cover/001-532.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-532.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

@@ -3,7 +3,7 @@ pubDatetime: 2021-03-01T10:10:00Z
 title: Đánh giá chất lượng các cuộn film phổ biến
 description: Đánh giá chất lượng film Ilford HP5+ 400 giúp nhiếp ảnh gia hình dung chất lượng, đáp ứng nhu cầu chụp ảnh và tạo trải nghiệm tích cực khi sử dụng.
 featured: false
-image: https://banmaixanh.org/image/cover/001-359.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-359.jpg
 tags:
   - affiliate
   - roll film
@@ -47,9 +47,9 @@ Cuộn film CineStill 50D được ra đời vào năm 2013, là sản phẩm c�
 
 Điểm đặc biệt của cuộn film này là lớp phủ chống halation (RemJet) đã được loại bỏ, cho phép người dùng có thể tráng rửa bằng quy trình C-41 thông thường. Điều này không chỉ giúp dễ dàng trong việc xử lý mà còn làm tăng khả năng linh hoạt trong việc sử dụng cho các máy ảnh film khác nhau. Từ khi ra mắt, CineStill 50D đã nhận được sự đón nhận nhiệt tình từ cộng đồng yêu thích chụp ảnh film, nhờ vào khả năng tái tạo màu sắc chân thực và chi tiết cao.
 
-<figure><img src="https://banmaixanh.org/image/article/cinestill-50-d-01.jpg" alt="CineStill 50D" height=100% width=100%><figcaption><p>CineStill 50D</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/cinestill-50-d-01.jpg" alt="CineStill 50D" height=100% width=100%><figcaption><p>CineStill 50D</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/image/article/cinestill-50-d-02.jpg" alt="CineStill 50D" height=100% width=100%><figcaption><p>CineStill 50D</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/cinestill-50-d-02.jpg" alt="CineStill 50D" height=100% width=100%><figcaption><p>CineStill 50D</p></figcaption></figure>
 
 Cuộn film CineStill 50D nổi bật với những thông số kỹ thuật ấn tượng, đáp ứng nhu cầu của cả những nhiếp ảnh gia khó tính nhất. Dưới đây là một số thông số chính của cuộn film này:
 
@@ -79,11 +79,11 @@ Cuộn film Superia XTRA 400 ra đời từ hãng FujiFilm, một trong những 
 
 – Hiện nay: Superia XTRA 400 tiếp tục được cải tiến và sử dụng rộng rãi bởi các nhiếp ảnh gia chuyên nghiệp và nghiệp dư trên toàn thế giới. Sự ổn định và chất lượng vượt trội của cuộn film này đã giúp nó trở thành lựa chọn hàng đầu trong nhiều năm qua.
 
-<figure><img src="https://banmaixanh.org/image/article/superia-x-tra-400-01.jpg" alt="Fujufilm Superia XTRA 400" height=100% width=100%><figcaption><p>Fujufilm Superia XTRA 400</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/superia-x-tra-400-01.jpg" alt="Fujufilm Superia XTRA 400" height=100% width=100%><figcaption><p>Fujufilm Superia XTRA 400</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/image/article/superia-x-tra-400-02.jpg" alt="Fujufilm Superia XTRA 400" height=100% width=100%><figcaption><p>Fujufilm Superia XTRA 400</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/superia-x-tra-400-02.jpg" alt="Fujufilm Superia XTRA 400" height=100% width=100%><figcaption><p>Fujufilm Superia XTRA 400</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/image/article/superia-x-tra-400-03.jpg" alt="Fujufilm Superia XTRA 400" height=100% width=100%><figcaption><p>Fujufilm Superia XTRA 400</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/superia-x-tra-400-03.jpg" alt="Fujufilm Superia XTRA 400" height=100% width=100%><figcaption><p>Fujufilm Superia XTRA 400</p></figcaption></figure>
 
 Superia XTRA 400 có những thông số kỹ thuật ấn tượng, giúp nó trở thành lựa chọn lý tưởng cho nhiều loại máy ảnh film và phong cách chụp ảnh khác nhau.
 
@@ -111,9 +111,9 @@ Kodak TriX 400 có một lịch sử phát triển phong phú, bắt đầu từ
 
 – 1990 – nay: TriX 400 tiếp tục được cải tiến và giữ vững vị trí là một trong những cuộn film đen trắng phổ biến nhất, được sử dụng rộng rãi trong các lĩnh vực nhiếp ảnh khác nhau.
 
-<figure><img src="https://banmaixanh.org/image/article/kodak-tri-x-400-01.jpg" alt="Kodak TriX 400" height=100% width=100%><figcaption><p>Kodak TriX 400</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/kodak-tri-x-400-01.jpg" alt="Kodak TriX 400" height=100% width=100%><figcaption><p>Kodak TriX 400</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/image/article/kodak-tri-x-400-02.jpg" alt="Kodak TriX 400" height=100% width=100%><figcaption><p>Kodak TriX 400</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/kodak-tri-x-400-02.jpg" alt="Kodak TriX 400" height=100% width=100%><figcaption><p>Kodak TriX 400</p></figcaption></figure>
 
 Kodak TriX 400 có những thông số kỹ thuật ấn tượng, giúp nó trở thành lựa chọn hàng đầu của nhiều nhiếp ảnh gia:
 
@@ -137,11 +137,11 @@ Kodak là một trong những thương hiệu nhiếp ảnh lâu đời và uy t
 
 Kodak Portra 800 được ra mắt nhằm đáp ứng nhu cầu của những nhiếp ảnh gia cần một cuộn film có độ nhạy sáng cao hơn, phù hợp cho việc chụp ảnh trong các điều kiện ánh sáng yếu mà vẫn giữ được chất lượng hình ảnh tốt. Được phát triển từ công nghệ tiên tiến của Kodak, Kodak Portra 800 nhanh chóng trở thành một trong những cuộn film được yêu thích và tin dùng bởi các nhiếp ảnh gia chuyên nghiệp và nghiệp dư trên toàn thế giới.
 
-<figure><img src="https://banmaixanh.org/image/article/kodak-portra-800-01.jpg" alt="Kodak Portra 800" height=100% width=100%><figcaption><p>Kodak Portra 800</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/kodak-portra-800-01.jpg" alt="Kodak Portra 800" height=100% width=100%><figcaption><p>Kodak Portra 800</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/image/article/kodak-portra-800-02.jpg" alt="Kodak Portra 800" height=100% width=100%><figcaption><p>Kodak Portra 800</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/kodak-portra-800-02.jpg" alt="Kodak Portra 800" height=100% width=100%><figcaption><p>Kodak Portra 800</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/image/article/kodak-portra-800-03.jpg" alt="Kodak Portra 800" height=100% width=100%><figcaption><p>Kodak Portra 800</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/kodak-portra-800-03.jpg" alt="Kodak Portra 800" height=100% width=100%><figcaption><p>Kodak Portra 800</p></figcaption></figure>
 
 Kodak Portra 800 có những thông số kỹ thuật ấn tượng, giúp nó trở thành lựa chọn hàng đầu của nhiều nhiếp ảnh gia:
 
@@ -167,11 +167,11 @@ Kodak là một trong những công ty tiên phong trong ngành công nghiệp n
 
 Kodak Portra 400 được ra mắt vào năm 1998 như một phần của dòng film Portra. Mục tiêu của Kodak là tạo ra một cuộn film có độ nhạy sáng cao, phù hợp cho việc chụp ảnh chân dung và phong cảnh trong nhiều điều kiện ánh sáng khác nhau. Đến nay, Kodak Portra 400 đã trở thành một trong những cuộn film màu phổ biến nhất, không chỉ vì chất lượng ảnh tuyệt vời mà còn vì khả năng linh hoạt và dễ sử dụng.
 
-<figure><img src="https://banmaixanh.org/image/article/kodak-portra-400-01.jpg" alt="Kodak Portra 400" height=100% width=100%><figcaption><p>Kodak Portra 400</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/kodak-portra-400-01.jpg" alt="Kodak Portra 400" height=100% width=100%><figcaption><p>Kodak Portra 400</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/image/article/kodak-portra-400-02.jpg" alt="Kodak Portra 400" height=100% width=100%><figcaption><p>Kodak Portra 400</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/kodak-portra-400-02.jpg" alt="Kodak Portra 400" height=100% width=100%><figcaption><p>Kodak Portra 400</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/image/article/kodak-portra-400-03.jpg" alt="Kodak Portra 400" height=100% width=100%><figcaption><p>Kodak Portra 400</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/kodak-portra-400-03.jpg" alt="Kodak Portra 400" height=100% width=100%><figcaption><p>Kodak Portra 400</p></figcaption></figure>
 
 Kodak Portra 400 có những thông số kỹ thuật ấn tượng, giúp nó trở thành lựa chọn hàng đầu của nhiều nhiếp ảnh gia:
 
@@ -209,11 +209,11 @@ Tuy nhiên, điểm khác biệt chính của cuộn film này là trong khi nó
 
 Kodak Portra 160 cũng đặc biệt ở chỗ bạn có thể chụp ở các tốc độ khác nhau từ ISO 50 đến 800 trên cùng một cuộn film và xử lý như tiêu chuẩn C41.
 
-<figure><img src="https://banmaixanh.org/image/article/kodak-portra-160-01.jpg" alt="Kodak Portra 160" height=100% width=100%><figcaption><p>Kodak Portra 160</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/kodak-portra-160-01.jpg" alt="Kodak Portra 160" height=100% width=100%><figcaption><p>Kodak Portra 160</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/image/article/kodak-portra-160-02.jpg" alt="Kodak Portra 160" height=100% width=100%><figcaption><p>Kodak Portra 160</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/kodak-portra-160-02.jpg" alt="Kodak Portra 160" height=100% width=100%><figcaption><p>Kodak Portra 160</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/image/article/kodak-portra-160-03.jpg" alt="Kodak Portra 160" height=100% width=100%><figcaption><p>Kodak Portra 160</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/kodak-portra-160-03.jpg" alt="Kodak Portra 160" height=100% width=100%><figcaption><p>Kodak Portra 160</p></figcaption></figure>
 
 Kodak Portra 160 có những thông số kỹ thuật nổi bật, giúp nó trở thành một lựa chọn lý tưởng cho việc chụp ảnh chân dung và phong cảnh. Dưới đây là một số thông số chính của cuộn film này:
 
@@ -251,11 +251,11 @@ Ilford HP5+ 400 là phim đen trắng tốc độ cao, hạt mịn, độ tươn
 
 Đó là độ phơi sáng rộng làm cho nó trở thành một lựa chọn tuyệt vời cho người mới bắt đầu, những người quay lại phim cũng như những người dùng chuyên nghiệp có kinh nghiệm hơn.
 
-<figure><img src="https://banmaixanh.org/image/article/ilford-hp-5-plus-400-01.jpg" alt="Ilford HP5+ 400" height=100% width=100%><figcaption><p>Ilford HP5+ 400</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/ilford-hp-5-plus-400-01.jpg" alt="Ilford HP5+ 400" height=100% width=100%><figcaption><p>Ilford HP5+ 400</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/image/article/ilford-hp-5-plus-400-02.jpg" alt="Ilford HP5+ 400" height=100% width=100%><figcaption><p>Ilford HP5+ 400</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/ilford-hp-5-plus-400-02.jpg" alt="Ilford HP5+ 400" height=100% width=100%><figcaption><p>Ilford HP5+ 400</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/image/article/ilford-hp-5-plus-400-03.jpg" alt="Ilford HP5+ 400" height=100% width=100%><figcaption><p>Ilford HP5+ 400</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/ilford-hp-5-plus-400-03.jpg" alt="Ilford HP5+ 400" height=100% width=100%><figcaption><p>Ilford HP5+ 400</p></figcaption></figure>
 
 Cuộn film Ilford HP5+ 400 nổi bật với những thông số kỹ thuật ấn tượng, phù hợp với nhiều nhu cầu chụp ảnh khác nhau. Dưới đây là một số thông số chính của cuộn film này:
 
@@ -285,9 +285,9 @@ CineStill đã loại bỏ lớp phủ chống halation (RemJet) của film đi�
 
 CineStill 800T là một cuộn film màu độc đáo cho các nhiếp ảnh gia tĩnh. Phim âm bản màu cân bằng vonfram tốc độ ISO 800 này dựa trên cùng một công nghệ hình ảnh chuyển động tiêu chuẩn vàng được sử dụng bởi các nhà quay phim hàng đầu trên thế giới. Được thiết kế cho các tình huống vonfram ánh sáng yếu khó khăn, cuộn film linh hoạt này phù hợp để sử dụng trong các tình huống ánh sáng khác nhau để đạt được nhiều kiểu dáng khác nhau.
 
-<figure><img src="https://banmaixanh.org/image/article/cinestill-800-t-01.jpg" alt="cinestill 800t" height=100% width=100%><figcaption><p>cinestill 800T</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/cinestill-800-t-01.jpg" alt="cinestill 800t" height=100% width=100%><figcaption><p>cinestill 800T</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/image/article/cinestill-800-t-02.jpg" alt="cinestill 800t" height=100% width=100%><figcaption><p>cinestill 800T</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/cinestill-800-t-02.jpg" alt="cinestill 800t" height=100% width=100%><figcaption><p>cinestill 800T</p></figcaption></figure>
 
 CineStill 800T sở hữu những thông số kỹ thuật ấn tượng, đáp ứng nhu cầu của các nhiếp ảnh gia chuyên nghiệp lẫn nghiệp dư. Dưới đây là một số thông số chính của cuộn film này:
 
@@ -313,11 +313,11 @@ Fujicolor 200 được giới thiệu lần đầu vào thập kỷ 1980, và đ
 
 Fujifilm Fujicolor 200 dành cho những ai đang tìm kiếm cuộn film chất lượng với khả năng tái tạo màu sắc tuyệt vời. Sản phẩm này có độ nhạy ISO 200, cung cấp mọi thứ từ tính linh hoạt và phim có độ linh hoạt cao với khả năng tái tạo màu sắc nâng cao đến độ sắc nét và hạt mịn, nhẹ nhàng.
 
-<figure><img src="https://banmaixanh.org/image/article/fujicolor-200-01.jpg" alt="Fujifilm Fujicolor 200" height=100% width=100%><figcaption><p>Fujifilm Fujicolor 200</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/fujicolor-200-01.jpg" alt="Fujifilm Fujicolor 200" height=100% width=100%><figcaption><p>Fujifilm Fujicolor 200</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/image/article/fujicolor-200-02.jpg" alt="Fujifilm Fujicolor 200" height=100% width=100%><figcaption><p>Fujifilm Fujicolor 200</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/fujicolor-200-02.jpg" alt="Fujifilm Fujicolor 200" height=100% width=100%><figcaption><p>Fujifilm Fujicolor 200</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/image/article/fujicolor-200-03.jpg" alt="Fujifilm Fujicolor 200" height=100% width=100%><figcaption><p>Fujifilm Fujicolor 200</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/fujicolor-200-03.jpg" alt="Fujifilm Fujicolor 200" height=100% width=100%><figcaption><p>Fujifilm Fujicolor 200</p></figcaption></figure>
 
 Cuộn film Fujicolor 200 nổi bật với những thông số kỹ thuật ấn tượng, phù hợp với nhiều nhu cầu chụp ảnh khác nhau. Dưới đây là một số thông số chính của cuộn film này:
 
@@ -351,9 +351,9 @@ Tuy nhiên, điểm khác biệt chính của cuộn film này là trong khi nó
 
 Ilford XP2 Super 400 cũng đặc biệt ở chỗ bạn có thể chụp ở các tốc độ khác nhau từ ISO 50 đến 800 trên cùng một cuộn film và xử lý như tiêu chuẩn C41.
 
-<figure><img src="https://banmaixanh.org/image/article/ilford-xp-2-super-400-01.jpg" alt="Ilford XP2 Super 400" height=100% width=100%><figcaption><p>Ilford XP2 Super 400</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/ilford-xp-2-super-400-01.jpg" alt="Ilford XP2 Super 400" height=100% width=100%><figcaption><p>Ilford XP2 Super 400</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/image/article/ilford-xp-2-super-400-01.jpg" alt="Ilford XP2 Super 400" height=100% width=100%><figcaption><p>Ilford XP2 Super 400</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/ilford-xp-2-super-400-01.jpg" alt="Ilford XP2 Super 400" height=100% width=100%><figcaption><p>Ilford XP2 Super 400</p></figcaption></figure>
 
 Ilford XP2 Super 400 có những thông số kỹ thuật nổi bật, giúp nó trở thành một lựa chọn phổ biến cho nhiều nhiếp ảnh gia. Dưới đây là một số thông số chính của cuộn film này:
 
@@ -379,13 +379,13 @@ XP2 SUPER cũng đặc biệt ở chỗ bạn có thể chụp ở các tốc đ
 
 ## Thông số kỹ thuật của các cuộn film phổ biến
 
-<figure><img src="https://banmaixanh.org/image/cover/001-214.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-214.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/image/cover/001-215.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-215.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/image/cover/001-216.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-216.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/image/cover/001-217.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-217.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
 – Nhũ tương hình ảnh chuyển động âm màu.
 
@@ -403,16 +403,16 @@ XP2 SUPER cũng đặc biệt ở chỗ bạn có thể chụp ở các tốc đ
 
 – Nhà máy cuộn, băng cassette mã DX.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-352.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-352.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/image/cover/001-355.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-355.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/image/cover/001-353.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-353.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/image/cover/001-249.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-249.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
 ## Kết luận chất lượng các cuộn film phổ biến
 
 Chất lượng các cuộn film phổ biến tương đối ổn định, đem lại dải màu sắc mịn màng, tương phản cao, giúp người dùng có những bức ảnh sinh động, bắt tốt các khoảnh khắc trong mỗi lần bấm máy. Đây sẽ là trải nghiệm thú vị mà bất kỳ ai khi chụp ảnh film đều kỳ vọng và nhận được khi sử dụng các cuộn film phổ biến để chụp hình.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-353.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-353.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

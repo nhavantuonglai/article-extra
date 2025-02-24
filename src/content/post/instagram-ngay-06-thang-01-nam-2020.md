@@ -3,7 +3,7 @@ pubDatetime: 2020-01-07T10:10:00Z
 title: Bài viết trên Instagram ngày 06 tháng 01 năm 2020
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - viet lach
   - doan van
@@ -18,4 +18,4 @@ mình hồi đấy cũng hay không thuộc bài, mà cả bây giơ
 
 mỗi khi nghĩ đến mình cứ có cảm giác rằng mình rất sợ điều ấy sẽ xảy ra, dù cho năm này qua tháng khác mình quên đi sự tồn tại của nó.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

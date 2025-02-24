@@ -3,7 +3,7 @@ pubDatetime: 2024-02-03T10:10:00Z
 title: Hướng dẫn viết luận văn đạt điểm cao
 description: Viết lách luận văn là một nhiệm vụ quan trọng và phức tạp mà hầu hết các sinh viên đại học và sau đại học phải đối mặt. Đó không chỉ là quá trình trình bày kết quả nghiên cứu mà còn là cơ hội để sinh viên chứng minh khả năng.
 featured: false
-image: https://banmaixanh.org/image/cover/001-331.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-331.jpg
 tags:
   - viet lach
   - ky nang viet
@@ -21,7 +21,7 @@ Luận văn là một bài [nghiên cứu khoa học](https://nhavantuonglai.com
 
 Luận văn không chỉ là yêu cầu để tốt nghiệp mà còn là cơ hội để sinh viên thể hiện năng lực nghiên cứu độc lập, khả năng tư duy phản biện và kỹ năng viết lách. Một luận văn tốt có thể mở ra nhiều cơ hội nghề nghiệp và học thuật cho tác giả.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-046.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-046.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Các bước cơ bản để viết luận văn
 
@@ -49,7 +49,7 @@ Cấu trúc luận văn: Đề cương giúp bạn tổ chức các ý tưởng 
 
 Sắp xếp ý tưởng: Sắp xếp các ý tưởng theo một trình tự logic và hợp lý, đảm bảo rằng mỗi phần đều liên kết chặt chẽ với nhau và đóng góp vào mục tiêu chung của luận văn.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-047.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-047.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Kỹ năng viết lách luận văn
 
@@ -83,7 +83,7 @@ Tóm tắt kết quả: Tóm tắt ngắn gọn các kết quả chính và nh�
 
 Đề xuất kiến nghị: Đưa ra các kiến nghị cho nghiên cứu tương lai hoặc ứng dụng thực tiễn của kết quả nghiên cứu.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-048.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-048.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Chỉnh sửa và hoàn thiện luận văn
 
@@ -113,7 +113,7 @@ Tìm hiểu và ứng dụng phương pháp mới: Luôn cập nhật và học 
 
 Thảo luận và trao đổi: Thảo luận và trao đổi với các chuyên gia và đồng nghiệp trong lĩnh vực của bạn để tìm kiếm lời khuyên và gợi ý.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-049.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-049.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Kết luận
 
@@ -121,4 +121,4 @@ Thảo luận và trao đổi: Thảo luận và trao đổi với các chuyên 
 
 Để viết được một luận văn xuất sắc, bạn cần chọn một đề tài có ý nghĩa và khả thi, lập kế hoạch nghiên cứu chi tiết, tìm kiếm và đánh giá tài liệu một cách cẩn thận, viết và chỉnh sửa cẩn thận từng phần của luận văn, và cuối cùng là trình bày kết quả một cách rõ ràng và logic. Hãy luôn kiên trì và nỗ lực, vì kết quả cuối cùng sẽ là phần thưởng xứng đáng cho tất cả những cố gắng của bạn.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-514.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-514.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

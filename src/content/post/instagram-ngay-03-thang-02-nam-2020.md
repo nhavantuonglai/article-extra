@@ -3,7 +3,7 @@ pubDatetime: 2020-02-07T10:10:00Z
 title: Bài viết trên Instagram ngày 03 tháng 02 năm 2020
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-321.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-321.jpg
 tags:
   - viet lach
   - doan van
@@ -20,4 +20,4 @@ cầu Bạch Hổ xây xong, câu cầu sắt vẫn được giữ lại như c�
 
 khi chạy qua, mình cố vừa giữ vững tay lái, vừa nhìn xuống, xuyên qua khe hở giữa những tấm thép mà nhìn dòng nước đang chậm rãi trôi. khi dừng lại, nhìn nhìn thấy hoàng hôn lẫn vào trong nhịp cầu sắt, từ tốn đi xuống bên kia đường chân trời. cũng có những lúc mình dừng lại, để tận hưởng sự run rẩy của cả cây cầu mỗi lúc đoàn tàu băng qua…
 
-<figure><img src="https://banmaixanh.org/image/cover/001-332.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-332.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

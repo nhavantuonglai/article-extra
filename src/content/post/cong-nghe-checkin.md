@@ -3,7 +3,7 @@ pubDatetime: 2022-02-11T10:10:00Z
 title: Áp dụng công nghệ để quy trình check in khách sạn trở nên hiệu quả hơn
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
 featured: false
-image: https://banmaixanh.org/image/cover/001-499.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-499.jpg
 tags:
   - viet thue
   - marketing
@@ -47,7 +47,7 @@ Sự tồn tại lâu dài của chúng phản ánh [kỳ vọng của du khách
 
 Thông thường, với từng khách sạn sẽ có từng quy định riêng về thời gian nhận, trả phòng. Nhưng đôi khi vì kế hoạch của du khách, mà lịch trình và thời gian check-in của họ sẽ thay đổi. Điều này đặt ra thách thức cho các khách sạn, là làm thế nào để du khách thoải mái nhận, trả phòng theo kế hoạch của họ; và nhân viên khách sạn không phải làm việc quá nhiều để đáp ứng điều này. Để giải quyết, các khách sạn xây dựng các chính sách check-in như một giải pháp để cân bằng lịch trình của du khách, và sự chuẩn bị của khách sạn.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-095.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-095.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Chính sách check-in khách sạn là gì?
 
@@ -69,7 +69,7 @@ Du khách đến từ khắp nơi trên toàn thế giới, đồng nghĩa rằn
 
 Trên thực tế, đây là một xu hướng không chỉ áp dụng với các khách sạn vừa và nhỏ, mà cả với các thương hiệu quy mô lớn, nổi tiếng như Hilton, Marriott và Intercontinental Hotels Group… Rõ ràng, đây là giải pháp hiệu quả để thúc đẩy doanh thu phụ trợ cho khách sạn của bạn.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-096.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-096.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Quầy lễ tân khách sạn: Có phải sắp lỗi thời?
 
@@ -101,7 +101,7 @@ Bằng cách gửi email trước khi du khách đến, bạn có thể đảm b
 
 Sau khi du khách check-in, khách sạn có thể gợi ý họ về những dịch vụ và tiện ích bổ sung. Thông qua quầy lễ tân, khách sạn có thể theo dõi và thu thập các lượt đặt mua, đăng ký sử dụng dịch vụ trong khách sạn và hệ thống lại thành một hóa đơn duy nhất cho khách đặt phòng.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-097.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-097.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Áp dụng các công nghệ mới hỗ trợ việc check-in khách sạn
 
@@ -167,7 +167,7 @@ Check-in 24/7 đặc biệt hữu ích và cần thiết cho đôi bên bởi:
 
 – Đáp ứng nhu cầu cho du khách quốc tế, khi họ phải làm quen với lệch múi giờ.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-098.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-098.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Tăng doanh thu trên mỗi phòng có sẵn (RevPAR)
 
@@ -197,7 +197,7 @@ Check-in khách sạn tự động không chỉ là đơn giản hóa quy trình
 
 – Giảm bớt thao tác, sự bận rộn thừa thãi trong khách sạn. Giúp sẽ giúp quầy lễ tân và cả khách sạn trông gọn gàng, chuyên nghiệp hơn. Chúng cũng đồng nghĩa rằng du khách mọi lúc cần sẽ được đáp ứng ngay lập tức.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-099.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-099.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Check-in khách sạn: Những điểm chính cần lưu ý
 
@@ -221,4 +221,4 @@ Check-in khách sạn tự động không chỉ là đơn giản hóa quy trình
 
 Như vậy, quy trình check-in khách sạn khi cải tiến, áp dụng các công nghệ khách sạn sẽ đem lại hiệu quả cho cả du khách lẫn khách sạn. Khi áp dụng công nghệ, khách sạn cũng được hưởng lợi nhiều nhất, tạo ra sức cạnh tranh tốt và bán phòng được hiệu quả hơn. Chính vì vậy, nếu các khách sạn vẫn áp dụng các phương thức check-in truyền thống, đã đến lúc thay đổi để phù hợp với xu thế chung hiện nay.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-514.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-514.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>

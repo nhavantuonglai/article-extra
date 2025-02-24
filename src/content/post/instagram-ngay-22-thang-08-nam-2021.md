@@ -3,7 +3,7 @@ pubDatetime: 2021-08-07T10:10:00Z
 title: Bài viết trên Instagram ngày 22 tháng 08 năm 2021
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-343.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-343.jpg
 tags:
   - viet lach
   - doan van
@@ -22,4 +22,4 @@ tranh tô xong cũng là lúc xe sắp xuất bến, giữa những cây bút m�
 
 nay người ở Huế để lại rất nhiều màu cho mình, khi chuẩn bị một hành trình dài phía trước. tự nhiên lời hẹn đổi màu bất chợt hiện về, chuyện cũng đã qua 5 năm có lẻ, màu ngày xưa mình đổi với bạn, nay đã trao cho em mình. những nét vẽ câu chuyện của ngày tháng đó, mình nhớ nhớ quên quên không rõ ràng, còn bạn – chẳng rõ nhớ được gì và có giữ lại cây màu nào của mình hay không?
 
-<figure><img src="https://banmaixanh.org/image/cover/001-310.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-310.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

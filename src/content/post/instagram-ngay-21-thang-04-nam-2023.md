@@ -3,7 +3,7 @@ pubDatetime: 2023-04-21T10:10:00Z
 title: Bài viết trên Instagram ngày 21 tháng 04 năm 2023
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-145.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-145.jpg
 tags:
   - viet lach
   - doan van
@@ -20,4 +20,4 @@ nên kể từ đó về sau, mình luôn hào hứng khi nghe người khác k�
 
 nhưng rõ ràng là, mình không thể nào khám phá được hết thế giới của một người. nhưng khi được mở lòng để dấn thân từng chút một vào thế giới ấy, mình lại thêm một cơ hội để hiểu về thế giới của họ. điều ấy với mình, quan trọng hơn tất cả mọi điều có thể nghĩ đến.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

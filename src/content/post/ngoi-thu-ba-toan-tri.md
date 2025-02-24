@@ -3,7 +3,7 @@ pubDatetime: 2024-02-06T10:10:00Z
 title: Ngôi kể thứ ba toàn tri là gì?
 description: Ngôi kể thứ ba toàn tri là một phong cách kể chuyện trong văn học, trong đó người kể chuyện có khả năng biết tất cả mọi điều về các nhân vật.
 featured: false
-image: https://banmaixanh.org/image/cover/001-232.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-232.jpg
 tags:
   - viet lach
   - ky nang viet
@@ -25,7 +25,7 @@ Ngôi kể thứ ba toàn tri là một phong cách kể chuyện trong văn h�
 
 – Sự linh hoạt: Người kể chuyện có thể tự do di chuyển giữa các nhân vật và sự kiện, tạo ra một dòng chảy mượt mà và hấp dẫn.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-048.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-048.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Ngôi kể thứ ba toàn tri ảnh hưởng đến phong cách văn học như thế nào?
 
@@ -37,7 +37,7 @@ Ngôi kể thứ ba toàn tri mang lại nhiều lợi ích và thách thức ch
 
 – Phát triển thế giới truyện: Ngôi kể thứ ba toàn tri cung cấp một cái nhìn toàn diện về thế giới trong truyện, từ cảnh quan đến văn hóa, giúp người đọc dễ dàng hòa mình vào bối cảnh câu chuyện.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-041.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-041.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Cách thể hiện ngôi kể thứ ba toàn tri trong văn học
 
@@ -49,7 +49,7 @@ Ngôi kể thứ ba toàn tri mang lại nhiều lợi ích và thách thức ch
 
 – Xây dựng các mối quan hệ: Tập trung vào việc xây dựng các mối quan hệ giữa các nhân vật để tạo nên một câu chuyện hấp dẫn và logic.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-043.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-043.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Cách xây dựng nhân vật ngôi kể thứ ba toàn tri trong viết lách
 
@@ -61,7 +61,7 @@ Xây dựng nhân vật trong ngôi kể thứ ba toàn tri đòi hỏi sự t�
 
 – Liên kết các nhân vật: Xây dựng các mối quan hệ giữa các nhân vật để tạo nên một mạng lưới tương tác phong phú và hấp dẫn.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-045.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-045.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Cách khai thác ngôi kể thứ ba toàn tri hiệu quả
 
@@ -73,7 +73,7 @@ Xây dựng nhân vật trong ngôi kể thứ ba toàn tri đòi hỏi sự t�
 
 – Tập trung vào điểm mạnh: Tận dụng lợi thế của ngôi kể thứ ba toàn tri để khám phá sâu rộng thế giới truyện và tâm lý nhân vật.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-041.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-041.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Làm thế nào để tìm cảm hứng, ý tưởng khi tạo ra ngôi kể thứ ba toàn tri
 
@@ -87,4 +87,4 @@ Tìm cảm hứng và ý tưởng khi viết ngôi kể thứ ba toàn tri có t
 
 Ngôi kể thứ ba toàn tri là một công cụ mạnh mẽ trong viết lách, mang lại nhiều khả năng sáng tạo và sự tự do cho tác giả. Bằng cách hiểu rõ và khai thác hiệu quả ngôi kể này, bạn có thể tạo ra những tác phẩm văn học sâu sắc và hấp dẫn, chinh phục trái tim của người đọc.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-514.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-514.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

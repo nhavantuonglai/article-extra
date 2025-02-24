@@ -3,7 +3,7 @@ pubDatetime: 2024-11-06T10:10:00Z
 title: Bài viết trên Instagram ngày 06 tháng 11 năm 2024
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-323.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-323.jpg
 tags:
   - viet lach
   - doan van
@@ -20,4 +20,4 @@ thật ra mình nghĩ, xấu hổ với bản thân vì những chuyện đã x�
 
 vậy nên mới có lẽ, trong chuyện kể đầu bài, mình thấy nó cỏn con tại chẳng ở trong trường hợp ở cậu bạn ấy, khi chợt thấy muôn ánh mắt ái ngại cười trừ sau câu nói từ mình. và cũng thật lòng mà kể, trong muôn vàn lần bộc phát hành động rồi tự thấy nó ngớ ngẩn, mình nhớ mãi về nó như một điều tiêu cực để rồi tự biết mà điều chỉnh bản thân mình.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-355.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-355.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

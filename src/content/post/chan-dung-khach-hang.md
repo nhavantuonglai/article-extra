@@ -3,7 +3,7 @@ pubDatetime: 2022-02-05T10:10:00Z
 title: Hướng dẫn xây dựng chân dung khách hàng trong khách sạn
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
 featured: false
-image: https://banmaixanh.org/image/cover/001-683.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-683.jpg
 tags:
   - viet thue
   - marketing
@@ -41,7 +41,7 @@ Bên cạnh đó, hiểu biết đầy đủ về chân dung khách hàng, cụ 
 
 Như vậy, xây dựng chân dung khách hàng trong khách sạn tạo ra nhiều giá trị và lợi ích thiết thực, giúp khách sạn kinh doanh hiệu quả hơn.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-072.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-072.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Tại sao khách sạn cần chân dung khách hàng?
 
@@ -135,7 +135,7 @@ Các [kênh bán phòng](https://nhavantuonglai.com/article), cả kênh bán ph
 
 Hãy sàng lọc, phân loại dữ liệu thu thập từ các kênh bán phòng để hoàn thiện nốt chân dung khách hàng của khách sạn, phản ánh đúng như biến động và thay đổi của thị trường lẫn nhu cầu của du khách để có sự điều chỉnh, áp dụng chiến lược cho hợp lý.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-071.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-071.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Phân loại và sắp xếp
 
@@ -165,4 +165,4 @@ Và nếu nguồn lực, dữ liệu hiện tại của khách sạn cho phép x
 
 Cuối cùng, ngành khách sạn là một lĩnh vực kinh doanh đầy cạnh tranh và khốc liệt. Muốn thành công phải tạo nên sự khác biệt, các công nghệ khách sạn và chiến lược bán phòng đột phá là chìa khóa để giải quyết những vấn đề này. Và xây dựng chân dung khách hàng là một trong những sự khác biệt như vậy, không chỉ để hiểu rõ khách hàng của bạn, mà còn phục vụ họ được tốt hơn.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-539.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-539.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>

@@ -3,7 +3,7 @@ pubDatetime: 2020-02-07T10:10:00Z
 title: Bài viết trên Instagram ngày 17 tháng 02 năm 2020
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-343.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-343.jpg
 tags:
   - viet lach
   - doan van
@@ -22,4 +22,4 @@ bởi vì thế, mình xem việc tiếp tục làm cộng đồng, vư
 
 nhưng trước những vấn đề, áp lực từ công việc ảnh hưởng đến cuộc sống thì mình đối mặt và xoa dịu dễ hơn bạn rất nhiều. người để lắng nghe những lời than thở, buông lơi sự mệt nhọc cũng chính là mình chứ không có ngược lại. mình xem đấy là một sự chuyển tiếp cần có, dù đoạn đầu sẽ đi chậm hơn, nhưng nếu đi lâu thì đấy là cách hóa giải những bất ổn trong lòng.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-310.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-310.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

@@ -3,7 +3,7 @@ pubDatetime: 2019-07-07T10:10:00Z
 title: Bài viết trên Instagram ngày 07 tháng 12 năm 2019
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - viet lach
   - doan van
@@ -26,4 +26,4 @@ cái khoảnh khắc ấy nó tự nhiên đến, tự nhiên như cách
 
 đoạn ấy, không đàn hát không ca từ tạm biệt, không hẹn một mai mình sẽ gặp lại, bạn khuất bóng sau cửa an ninh cũng là lúc mình bước mà không ngoảnh lại để ra nhà xe. cả bạn và mình những giây phút tiếp theo là cả một hành trình để quay trở lại cái nơi mình đang sống và có những điều thân thuộc.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

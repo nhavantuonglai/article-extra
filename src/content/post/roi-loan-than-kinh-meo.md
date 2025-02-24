@@ -3,7 +3,7 @@ pubDatetime: 2021-04-14T10:10:00Z
 title: Các vấn đề về rối loạn thần kinh ở mèo
 description: Nếu bạn có mèo sống trong nhà của bạn, tìm hiểu về các vấn đề thần kinh phổ biến ở mèo có thể hữu ích. Điều này có thể bao gồm nhận ra các triệu chứng.
 featured: false
-image: https://banmaixanh.org/image/cover/001-618.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-618.jpg
 tags:
   - viet lach
   - thu cung
@@ -21,7 +21,7 @@ _Nếu bạn có mèo sống trong nhà của bạn, tìm hiểu về các vấn
 
 Giống như con người, mèo cũng có thể bị ảnh hưởng bởi một số vấn đề về thần kinh. Não, tủy sống và dây thần kinh của mèo là một khu vực nhạy cảm của cơ thể, nhưng cùng nhau tạo thành một hệ thống phức tạp cung cấp các chức năng thiết yếu. Điều đó nói rằng, não, tủy sống và dây thần kinh đều có thể dễ dàng bị ảnh hưởng bởi chấn thương hoặc bị gián đoạn bởi các vấn đề sức khỏe, có thể dẫn đến vô số vấn đề khác.
 
-<figure><img src="https://banmaixanh.org/image/article/cham-soc-cho-meo-030.jpg" alt="cham soc cho meo" title="cham soc cho meo" height=100% width=100%><figcaption><p>Hướng dẫn chăm sóc chó mèo đúng cách.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/cham-soc-cho-meo-030.jpg" alt="cham soc cho meo" title="cham soc cho meo" height=100% width=100%><figcaption><p>Hướng dẫn chăm sóc chó mèo đúng cách.</p></figcaption></figure>
 
 Khi một rối loạn thần kinh ảnh hưởng đến não, điều này thường có thể dẫn đến các vấn đề khác, chẳng hạn như co giật. Ngoài ra, nếu tình trạng này tập trung vào tủy sống, chân tay của mèo thường bị ảnh hưởng, mặc dù điều này có thể dao động từ mất thăng bằng nhẹ đến tê liệt hoàn toàn. Cuối cùng, khi dây thần kinh của mèo bị ảnh hưởng bởi rối loạn, gần như bất kỳ khu vực nào trên cơ thể chúng đều có thể bị ảnh hưởng, cho dù miệng, mắt hay chân.
 
@@ -33,7 +33,7 @@ Viêm não là một tình trạng hiếm gặp nhưng có khả năng đe dọa
 
 ### Khối u não
 
-<figure><img src="https://banmaixanh.org/image/article/cham-soc-cho-meo-031.jpg" alt="cham soc cho meo" title="cham soc cho meo" height=100% width=100%><figcaption><p>Hướng dẫn chăm sóc chó mèo đúng cách.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/cham-soc-cho-meo-031.jpg" alt="cham soc cho meo" title="cham soc cho meo" height=100% width=100%><figcaption><p>Hướng dẫn chăm sóc chó mèo đúng cách.</p></figcaption></figure>
 
 Mèo có thể bị ảnh hưởng bởi một vài loại khối u não, có thể hiếm gặp nhưng vẫn là một vấn đề sức khỏe nghiêm trọng. Những khối u này có thể gây co giật, các vấn đề về thị lực, các vấn đề về thăng bằng, kiểu ngủ không đều và nhịp độ quá mức. Các lựa chọn điều trị thường bao gồm hóa trị, xạ trị hoặc phẫu thuật, nhưng bạn và bác sĩ thú y của bạn có thể thảo luận xem cái nào phù hợp nhất với nhu cầu của mèo.
 
@@ -45,7 +45,7 @@ Co giật nổi tiếng nhất và được gây ra bởi hoạt động điện
 
 IVDD xảy ra khi các đĩa đệm giữa các đốt sống của cột sống cứng lại. Mặc dù đây là một căn bệnh tương đối hiếm gặp khác, nhưng nó có thể trở nên nghiêm trọng, dẫn đến tê liệt chân sau. Về mặt kỹ thuật, mèo ở mọi lứa tuổi hoặc giống chó đều có thể bị ảnh hưởng bởi tình trạng này, nhưng nó thường xảy ra thường xuyên hơn ở mèo già. Trong trường hợp ít nghiêm trọng hơn, điều trị có thể bao gồm thuốc và thời gian nghỉ ngơi trước khi hoạt động thường xuyên được nối lại. Với những trường hợp nghiêm trọng hơn, phẫu thuật cắt bỏ laminectomy có thể là lựa chọn tốt hơn.
 
-<figure><img src="https://banmaixanh.org/image/article/cham-soc-cho-meo-032.jpg" alt="cham soc cho meo" title="cham soc cho meo" height=100% width=100%><figcaption><p>Hướng dẫn chăm sóc chó mèo đúng cách.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/cham-soc-cho-meo-032.jpg" alt="cham soc cho meo" title="cham soc cho meo" height=100% width=100%><figcaption><p>Hướng dẫn chăm sóc chó mèo đúng cách.</p></figcaption></figure>
 
 ### Rối loạn chức năng
 
@@ -55,7 +55,7 @@ Nhận thức Hội chứng này thường được mô tả là phiên bản m�
 
 Bệnh này có thể ảnh hưởng đến mèo ở bất kỳ giống hoặc tuổi nào. Nhiễm trùng tai thường mang lại nó, nhưng các khối u hoặc tiếp xúc với một số độc tố cũng có thể là một nguyên nhân cơ bản. Nó cũng phổ biến cho hầu hết các trường hợp bệnh tiền đình là vô căn, có nghĩa là nguyên nhân là không rõ. Các triệu chứng của bệnh này, thường bao gồm mất thăng bằng, không phối hợp, mắt không tự nguyện, nghiêng đầu và nôn mửa, tất cả đều có thể xuất hiện khá đột ngột. Vì nguyên nhân thường không được biết, điều trị bệnh tiền đình có thể phức tạp nhưng thường liên quan đến việc giảm ảnh hưởng của các triệu chứng hiện tại. Tin tốt về căn bệnh này là nó thường là ngắn hạn và sẽ giải quyết trong một vài tuần.
 
-<figure><img src="https://banmaixanh.org/image/article/cham-soc-cho-meo-033.jpg" alt="cham soc cho meo" title="cham soc cho meo" height=100% width=100%><figcaption><p>Hướng dẫn chăm sóc chó mèo đúng cách.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/cham-soc-cho-meo-033.jpg" alt="cham soc cho meo" title="cham soc cho meo" height=100% width=100%><figcaption><p>Hướng dẫn chăm sóc chó mèo đúng cách.</p></figcaption></figure>
 
 ### Hội chứng gây mê
 
@@ -65,7 +65,7 @@ Mặc dù nhiều vấn đề thần kinh ở mèo có chung các triệu chứn
 
 ## Điều gì gây ra các vấn đề thần kinh đột ngột ở mèo?
 
-<figure><img src="https://banmaixanh.org/image/article/cham-soc-cho-meo-034.jpg" alt="cham soc cho meo" title="cham soc cho meo" height=100% width=100%><figcaption><p>Hướng dẫn chăm sóc chó mèo đúng cách.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/cham-soc-cho-meo-034.jpg" alt="cham soc cho meo" title="cham soc cho meo" height=100% width=100%><figcaption><p>Hướng dẫn chăm sóc chó mèo đúng cách.</p></figcaption></figure>
 
 Vì nhiều loại vấn đề thần kinh khác nhau có thể ảnh hưởng đến người bạn mèo của bạn, nên cũng có thể có nhiều nguyên nhân khác nhau. Ngoài các điều kiện được đề cập ở trên, rối loạn thần kinh cũng có thể được gây ra thông qua chấn thương, chẳng hạn như chấn thương ở đầu hoặc tủy sống – tai nạn xe hơi là một ví dụ điển hình. Bên cạnh việc mắc phải một vấn đề về thần kinh tại một số thời điểm trong cuộc sống của chúng, mèo của bạn cũng có thể được sinh ra với một vấn đề. Trong trường hợp đó, nó sẽ được phân loại là một tình trạng bẩm sinh.
 
@@ -103,7 +103,7 @@ Tùy thuộc vào tình trạng của mèo, các triệu chứng này có thể 
 
 Vì nhiều vấn đề về thần kinh có xu hướng ảnh hưởng đến mèo già nhiều hơn, điều cần thiết là bạn không nên bỏ qua hành vi kỳ quặc của mèo cao cấp là _dấu hiệu của tuổi già._ Điều quan trọng không kém là theo dõi sức khỏe và hành vi của mèo trong suốt cuộc đời của chúng. Chỉ vì một tình trạng thường xảy ra ở mèo già không có nghĩa là nó vẫn không thể xuất hiện ở mèo con.
 
-<figure><img src="https://banmaixanh.org/image/article/cham-soc-cho-meo-035.jpg" alt="cham soc cho meo" title="cham soc cho meo" height=100% width=100%><figcaption><p>Hướng dẫn chăm sóc chó mèo đúng cách.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/cham-soc-cho-meo-035.jpg" alt="cham soc cho meo" title="cham soc cho meo" height=100% width=100%><figcaption><p>Hướng dẫn chăm sóc chó mèo đúng cách.</p></figcaption></figure>
 
 ## Những gì được thực hiện tại một cuộc kiểm tra thần kinh cho mèo?
 
@@ -117,7 +117,7 @@ Nếu các chuyên gia vẫn không biết vấn đề cơ bản là gì và tì
 
 Một vấn đề về thần kinh có thể có nghĩa là mèo của bạn sẽ cần dùng thuốc hàng ngày, thăm khám thú y thường xuyên và kiểm tra hàng năm. Xem chương trình bảo hiểm thú cưng nào có thể giúp trang trải các chi phí liên quan này.
 
-<figure><img src="https://banmaixanh.org/image/article/cham-soc-cho-meo-036.jpg" alt="cham soc cho meo" title="cham soc cho meo" height=100% width=100%><figcaption><p>Hướng dẫn chăm sóc chó mèo đúng cách.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/cham-soc-cho-meo-036.jpg" alt="cham soc cho meo" title="cham soc cho meo" height=100% width=100%><figcaption><p>Hướng dẫn chăm sóc chó mèo đúng cách.</p></figcaption></figure>
 
 ## Rối loạn thần kinh ở mèo có thể chữa khỏi được không?
 
@@ -137,8 +137,8 @@ Chăm sóc hỗ trợ có thể có nhiều hình thức, nhưng mục tiêu là
 
 Bạn và bác sĩ thú y của bạn, và bất kỳ chuyên gia nào khác mà bạn làm việc cùng, có thể tạo ra một kế hoạch điều trị phù hợp nhất với nhu cầu của mèo của bạn. Hãy nhớ rằng, điều cần thiết là tham khảo ý kiến bác sĩ thú y trước khi thực hiện bất kỳ thay đổi đáng kể nào đối với kế hoạch bữa ăn của mèo.
 
-<figure><img src="https://banmaixanh.org/image/article/cham-soc-cho-meo-037.jpg" alt="cham soc cho meo" title="cham soc cho meo" height=100% width=100%><figcaption><p>Hướng dẫn chăm sóc chó mèo đúng cách.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/cham-soc-cho-meo-037.jpg" alt="cham soc cho meo" title="cham soc cho meo" height=100% width=100%><figcaption><p>Hướng dẫn chăm sóc chó mèo đúng cách.</p></figcaption></figure>
 
 Quá trình ban đầu để tìm hiểu về chẩn đoán vấn đề thần kinh của mèo có thể không phải là dễ dàng nhất. Tuy nhiên, với sự điều trị thích hợp và kiến thức về cách quản lý tình trạng của người bạn mèo, bạn và người bạn thân nhất của bạn có thể học cách tiếp tục lối sống lành mạnh và hạnh phúc cùng nhau.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-516.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-516.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

@@ -3,7 +3,7 @@ pubDatetime: 2022-08-01T10:10:00Z
 title: Quản lý trải nghiệm khách hàng trong khách sạn là gì? Các giải pháp để áp dụng ngay hôm nay
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
 featured: false
-image: https://banmaixanh.org/image/cover/001-429.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-429.jpg
 tags:
   - viet thue
   - marketing
@@ -29,7 +29,7 @@ Khái niệm trải nghiệm khách hàng bắt đầu rộ lên từ cuốn The
 
 Những nội dung tiếp theo đây sẽ nói về những nguyên tắc cơ bản của trải nghiệm khách hàng, vai trò của công nghệ trong việc đáp ứng chúng, và những chiến lược để xây dựng lòng trung thành khách hàng, thu hút họ thường xuyên quay trở lại.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-043.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-043.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Các giai đoạn trải nghiệm khách hàng
 
@@ -55,7 +55,7 @@ Sẽ rất tốt nếu giữa kỳ vọng của khách hàng và những gì kh�
 
 Đây là thời điểm để khuyến khích khách hàng tiếp tục gắn bó, quay trở lại và tương tác trên các kênh đánh giá, mạng xã hội của khách sạn.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-045.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-045.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## 6 nguyên tắc về trải nghiệm khách hàng trong khách sạn
 
@@ -115,7 +115,7 @@ Trong giai đoạn vừa rồi, đa số khách lưu trú ở khách sạn phả
 
 Trước đây, để chăm sóc khách hàng, các khách sạn cần gặp gỡ hoặc kết nối trực tiếp, thì nay chỉ cần liên lạc qua điện thoại, hoặc các kênh kỹ thuật số như website, SMS, ứng dụng di động… với các tính năng hỗ trợ nâng cao như bot chat, AI, câu trả lời tự động… cung cấp tức thì câu trả lời cho khách hàng. Một lợi ích khác là khi sử dụng các nền tảng nhắn tin là nhanh chóng gửi tin tức, thông báo, hay khuyến mãi cho khách hàng để tăng cơ hội bán phòng, cũng như giúp khách hàng có những ưu đãi hấp dẫn.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-047.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-047.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Hệ thống PMS dựa trên đám mây
 
@@ -147,7 +147,7 @@ Khi khách làm thủ tục trả phòng, và trước khi họ rời đi, hãy 
 
 Khi mọi thứ diễn ra không như ý, hoặc kém xa kỳ vọng mà khách hàng cần, hãy kiểm tra và đảm bảo rằng đấy đúng là lỗi từ khách sạn. Thường xuyên lắng nghe khách hàng, thông cảm và xin lỗi những sai sót, cũng như đưa ra các giải pháp để giải quyết chúng là điều nên làm.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-049.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-049.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Đầu tư vào công nghệ
 
@@ -155,4 +155,4 @@ Hãy luôn cập nhật và sử dụng những tính năng mới nhất, của 
 
 Để cạnh tranh trong thị trường lưu trú, các [khách sạn không chỉ nên cạnh tranh về giá](https://nhavantuonglai.com/article), hay số lượng phòng mà còn cả trải nghiệm khách hàng khi đến ở. Đó là lý do để khách hàng lựa chọn, chấp nhận chi tiền nhiều hơn, nhằm có được nhiều kỷ niệm tốt hơn. Nếu không nhanh chóng thích nghi và đáp ứng sự thay đổi ấy, thì các khách sạn sẽ đối mặt với nguy cơ tụt hậu, bị bỏ lại phía sau.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-481.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-481.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>

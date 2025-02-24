@@ -3,7 +3,7 @@ pubDatetime: 2023-01-19T10:10:00Z
 title: Cách chọn loa bookshelf tốt nhất cho audiophile
 description: Loa bookshelf là một trong những thiết bị âm thanh phổ biến và được ưa chuộng nhất trong cộng đồng audiophile.
 featured: false
-image: https://banmaixanh.org/image/cover/001-534.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-534.jpg
 tags:
   - viet lach
   - thuong thuc am thanh
@@ -135,4 +135,4 @@ Bowers & Wilkins 606 S2 là dòng loa bookshelf cao cấp với âm thanh trong 
 
 Chọn loa bookshelf tốt nhất cho audiophile không phải là nhiệm vụ dễ dàng. Bạn cần cân nhắc nhiều yếu tố như kích thước, Chất lượng âm thanh, độ nhạy và trở kháng. Ngoài ra, việc kiểm tra thông số kỹ thuật và thử nghe trực tiếp cũng rất quan trọng. Hy vọng rằng bài viết này sẽ giúp bạn tìm được loa bookshelf phù hợp nhất với nhu cầu và sở thích của mình.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-211.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-211.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

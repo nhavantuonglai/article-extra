@@ -3,7 +3,7 @@ pubDatetime: 2023-01-22T10:10:00Z
 title: Tìm hiểu tính năng chống ồn trên tai nghe
 description: Ngày nay, tai nghe chống ồn trở thành một trong những sản phẩm công nghệ không thể thiếu đối với người dùng yêu thích âm nhạc.
 featured: false
-image: https://banmaixanh.org/image/cover/001-537.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-537.jpg
 tags:
   - viet lach
   - thuong thuc am thanh
@@ -105,4 +105,4 @@ Tai nghe chống ồn là một công nghệ tuyệt vời giúp cải thiện t
 
 Mặc dù tai nghe chống ồn giá rẻ có thể không mang lại trải nghiệm tốt như các mẫu cao cấp, nhưng vẫn có một số lựa chọn hợp lý với hiệu quả chống ồn và chất lượng âm thanh khá. Hy vọng bài viết này đã cung cấp cho bạn cái nhìn tổng quan và chi tiết về tai nghe chống ồn, giúp bạn đưa ra quyết định phù hợp nhất cho nhu cầu của mình.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-211.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-211.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

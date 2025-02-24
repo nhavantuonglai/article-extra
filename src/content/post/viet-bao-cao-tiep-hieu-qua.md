@@ -3,7 +3,7 @@ pubDatetime: 2024-03-25T10:10:00Z
 title: Con đường dẫn đến giao tiếp hiệu quả thông qua báo cáo
 description: Cho dù bạn là sinh viên, chuyên gia hay chủ doanh nghiệp, khả năng giao tiếp rõ ràng và chính xác là rất quan trọng để thành công.
 featured: false
-image: https://banmaixanh.org/image/cover/001-319.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-319.jpg
 tags:
   - viet lach
   - ky nang viet
@@ -23,7 +23,7 @@ Viết báo cáo là quá trình tạo một tài liệu trình bày thông tin 
 
 [Báo cáo](https://nhavantuonglai.com/article) có thể khác nhau về độ dài và độ phức tạp, từ bản tóm tắt một trang đến phân tích chi tiết kéo dài nhiều trang. Chúng cũng có thể được viết cho nhiều mục đích khác nhau, chẳng hạn như học thuật, kinh doanh hoặc pháp lý.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-001.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-001.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Tầm quan trọng của việc viết báo cáo
 
@@ -37,7 +37,7 @@ Trong tất cả các bối cảnh này, khả năng viết một báo cáo có 
 
 Bây giờ chúng ta đã hiểu tầm quan trọng của việc viết báo cáo, hãy khám phá một số mẹo và chiến lược để thành thạo kỹ năng này.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-002.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-002.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ### Hiểu đối tượng của bạn
 
@@ -53,7 +53,7 @@ Phần giới thiệu nên cung cấp một cái nhìn tổng quan về báo cá
 
 Sử dụng tiêu đề và tiêu đề phụ cũng có thể giúp sắp xếp báo cáo của bạn và giúp người đọc theo dõi dễ dàng hơn.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-003.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-003.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ### Hãy ngắn gọn và rõ ràng
 
@@ -83,7 +83,7 @@ Quire là một công cụ viết báo cáo mạnh mẽ có thể giúp bạn t�
 
 Quire cũng cho phép cộng tác, vì vậy bạn có thể làm việc với những người khác để tạo và chỉnh sửa báo cáo trong thời gian thực. Điều này có thể đặc biệt hữu ích cho các dự án nhóm hoặc khi làm việc với khách hàng.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-004.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-004.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ### Đào tạo viết báo cáo của cảnh sát
 
@@ -109,4 +109,4 @@ Bằng cách hiểu đối tượng của bạn, sử dụng định dạng có 
 
 Và với các công cụ như Quire và đào tạo viết báo cáo cảnh sát, bạn có thể nâng kỹ năng viết báo cáo của mình lên một tầm cao mới và đạt được thành công lớn hơn nữa.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-315.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-315.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

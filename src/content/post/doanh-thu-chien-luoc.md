@@ -3,7 +3,7 @@ pubDatetime: 2022-04-05T10:10:00Z
 title: Tìm hiểu về quản lý doanh thu khách sạn và những chiến lược hay nhất
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
 featured: false
-image: https://banmaixanh.org/image/cover/001-578.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-578.jpg
 tags:
   - viet thue
   - marketing
@@ -37,7 +37,7 @@ Các yếu tố ảnh hưởng đến doanh thu khách sạn, cụ thể:
 
 Ngoài ra, để quản lý phân khúc khách hàng hiệu quả, các khách sạn cần tham khảo yếu tố [siêu cá nhân hóa (hyper personalization) trong khách sạn](https://nhavantuonglai.com/article), tức chia nhỏ từng phân khúc, với những đặc điểm, thói quen và hành vi mua sắm khác nhau. Dựa vào những đặc điểm nêu trên, các khách sạn có thể xây dựng chân dung khách hàng với từng tiêu chí, thông tin cụ thể để áp dụng chiến lược tiếp cận, chiến lược giá cho phù hợp, đem lại hiệu quả như mong muốn. Ví dụ: với khách đặt phòng quay lại thì sẽ giảm giá, với khách kết hợp mục đích thì bán tour hoặc gói dịch vụ…
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-030.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-030.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Dự đoán nhu cầu đặt phòng của du khách
 
@@ -57,7 +57,7 @@ Quản lý năng suất bán phòng liên quan chặt chẽ đến quản lý ph
 
 – Phân phối phòng trên các kênh bán phòng là phân phối giới hạn số lượng phòng trên các kênh, dựa trên chi phí (chi phí vận hành, phí hoa hồng…) lẫn lượt đặt phòng đổ về từ các kênh. Mục đích là ưu tiên các kênh có lợi nhuận bán phòng tốt (chi phí thấp, lượt bán phòng cao).
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-031.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-031.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Quản lý phòng trống và tình trạng phòng
 
@@ -83,7 +83,7 @@ Bạn đã biết rằng đó là một ý tưởng tốt để dựa trên chi�
 
 Chiến lược giá động cho phép các khách sạn theo kịp thị trường và tối đa hóa tỷ lệ lấp đầy, cũng như các KPI quản lý doanh thu khách sạn khác (chúng ta sẽ nói thêm về chúng trong phần tiếp theo).
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-032.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-032.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Định giá mở (open pricing)
 
@@ -107,7 +107,7 @@ Khách sạn cũng có thể kết hợp nhiều chiến lược giá nhằm t�
 
 Dựa trên tình hình thực tế của khách sạn cũng như các chiến lược có thể áp dụng, khách sạn có thể xây dựng và tạo ra những chiến lược hữu ích, đáp ứng được nhu cầu và kỳ vọng vào doanh thu của khách sạn.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-033.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-033.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Quản lý doanh thu khách sạn gồm những công việc nào?
 
@@ -135,7 +135,7 @@ Quản lý và phát triển kênh bán phòng cần những chiến lược ph�
 
 Mục tiêu lớn nhất của bất kỳ hoạt động Marketing khách sạn nào đều nhằm tăng lượt bán phòng. Các công cụ được sử dụng nhằm tăng sự hiện diện, được nhiều du khách chú ý và giải phóng phòng trống khách sạn. Về hoạt động, chúng bao gồm các công việc như: nghiên cứu thị trường, tạo chiến dịch và ưu đãi, xây dựng và quản lý chương trình khách hàng thân thiết… Các hoạt động này thường không triển khai độc lập mà phối hợp, do bộ phận chuyên trách đảm nhận. Vì vậy mà vai trò của người quản lý doanh thu khách sạn là phối hợp, đảm bảo mọi hoạt động trên đều đem lại hiệu quả như ý cho khách sạn.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-034.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-034.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Các chỉ số KPI phổ biến trong quản lý doanh thu khách sạn
 
@@ -171,7 +171,7 @@ GOPPAR là chỉ số đo lợi nhuận của một khách sạn với giá tr�
 
 Dựa trên các chỉ số KPI như trên, người quản lý doanh thu khách sạn có thể đo lường, đánh giá hiệu quả công việc lẫn các hoạt động đang triển khai có đem lại kỳ vọng như mong muốn hay không. Đây sẽ là cơ sở để xây dựng tăng cường hoặc điều chỉnh các chiến lược thu hút, bán phòng trong hiện tại.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-035.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-035.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Các chiến lược quản lý doanh thu khách sạn
 
@@ -203,7 +203,7 @@ Bên cạnh đó, [tầm quan trọng của đặt phòng trực tiếp](https:/
 
 Để thúc đẩy lượt bán phòng trực tiếp, các khách sạn nên tập trung vào [hành trình trải nghiệm của du khách](https://nhavantuonglai.com/article), các ưu đãi độc quyền lẫn CTA thu hút, nổi bật.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-036.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-036.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Chú ý kênh đặt chỗ trên thiết bị di động
 
@@ -231,7 +231,7 @@ Gói đặt phòng động (dynamic packaging) là chiến lược cho phép du 
 
 Về lợi ích, khách sạn có thể cung cấp nhiều gói giá, dịch vụ khác nhau cho du khách, với mục tiêu cung cấp đa dạng các lựa chọn. Còn với du khách, họ có thể tiết kiệm thời gian và công sức, cũng như tiền bạc khi sử dụng gói đặt phòng động để mua nhiều dịch vụ, tiện ích trong cùng một lần thanh toán.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-037.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-037.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Triển khai các chương trình khách hàng thân thiết
 
@@ -249,7 +249,7 @@ Giảm giá phòng hay điểm thưởng chỉ là những chính sách khách h
 
 Đúng như tên gọi, lợi ích của phân tích cạnh tranh khách sạn là đánh giá khả năng cạnh tranh giữa khách sạn và các đối thủ, nhằm tìm ra, và tạo nên ưu thế khi cạnh tranh trên thị trường. Nó cũng giúp các khách sạn ngăn chặn các rủi ro về chiến lược giá, như đặt giá quá cao hay quá thấp; nhận diện sai vấn đề mà khách sạn đang gặp phải…
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-038.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-038.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Những thách thức về quản lý doanh thu trong ngành khách sạn
 
@@ -267,4 +267,4 @@ Quản lý doanh thu khách sạn và xây dựng các chiến lược quản l�
 
 Những vấn đề trên đây đều có thể giải quyết, khắc phục thông qua các công cụ, phần mềm phù hợp nhằm đem lại hiệu quả như khách sạn kỳ vọng. Ngoài ra, cũng cần tham khảo thêm các chiến lược, giải pháp bán phòng hiệu quả để khách sạn có được doanh thu như kỳ vọng.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-110.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-110.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>

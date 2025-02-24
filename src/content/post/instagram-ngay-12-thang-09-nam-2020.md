@@ -3,7 +3,7 @@ pubDatetime: 2020-12-07T10:10:00Z
 title: Bài viết trên Instagram ngày 12 tháng 09 năm 2020
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - viet lach
   - doan van
@@ -18,4 +18,4 @@ và buồn một chút là, mình của dạo gần đây đang ngán viết th�
 
 nhưng buồn là thế, chứ mình vẫn lạc quan, bởi xem đó là cuộc sống, là thử thách để đương đầu với nhiều thứ khó khăn ở phía trước hơn. Bởi nếu không sẵn sàng, khi một chuyện phiền muộn nào đó đến, bầu trời sẽ như sụp ngay trước mắt mất thôi…
 
-<figure><img src="https://banmaixanh.org/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

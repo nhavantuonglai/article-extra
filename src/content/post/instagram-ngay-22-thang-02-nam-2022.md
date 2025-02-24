@@ -3,7 +3,7 @@ pubDatetime: 2022-02-22T10:10:00Z
 title: Bài viết trên Instagram ngày 22 tháng 02 năm 2022
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-165.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-165.jpg
 tags:
   - viet lach
   - doan van
@@ -22,4 +22,4 @@ vốn dĩ, tư duy hình ảnh không khó, không trừu tượng như mọi ng
 
 và cuối cùng thì, khi một ai chưa biết nên bắt đầu chụp ảnh như thế nào, hoặc tìm đâu để ra cảm hứng, mình lại khuyên hãy dành thời gian để xem film; hãy xem và cảm nhận từng khung hình, chắt lọc cảnh quay rồi học theo nó, học để tạo ra những thước film như họ đang nhìn thấy.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

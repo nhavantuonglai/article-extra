@@ -3,7 +3,7 @@ pubDatetime: 2023-07-04T10:10:00Z
 title: Những điều cần biết về KPI Spa và cách khai thác KPI hiệu quả
 description: Tìm hiểu các chiến lược tiếp thị Spa hiệu quả trong chuỗi bài viết sau của nhavantuonglai để áp dụng và đem lại hiệu quả thiết thực cho giải pháp của bạn.
 featured: false
-image: https://banmaixanh.org/image/cover/001-249.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-249.jpg
 tags:
   - viet thue
   - marketing
@@ -228,4 +228,4 @@ Việc tính KPI dựa trên hiệu suất giúp nhà quản lý nhìn thấy ng
 
 15 KPI Spa được gợi ý trên đây, cũng như những cách tính, áp dụng KPI cho phù hợp với tiệm Spa sẽ giúp các tiệm Spa sàng lọc, và đánh giá việc kinh doanh hiện tại có đem lại hiệu quả hay không. Kết hợp với phần mềm quản lý Spa chuyên dụng, cũng như những chiến lược kinh doanh hiệu quả, sẽ giúp tiệm vận hành tốt hơn.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-210.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-210.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

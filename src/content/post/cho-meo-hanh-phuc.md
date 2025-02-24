@@ -3,7 +3,7 @@ pubDatetime: 2023-04-07T10:10:00Z
 title: 10 lời khuyên để giữ cho chó mèo hạnh phúc trong nhà
 description: Thú cưng của chúng ta là một ân sủng cứu rỗi khi chúng ta bị mắc kẹt bên trong. Những cái đuôi vẫy vẫy hạnh phúc.
 featured: false
-image: https://banmaixanh.org/image/cover/001-543.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-543.jpg
 tags:
   - viet lach
   - thu cung
@@ -38,7 +38,7 @@ Như nhà hành vi học Purina, Tiến sĩ Francois Martin nhắc nhở chúng 
 
 Cha mẹ, hãy thở phào nhẹ nhõm: con bạn có thể cần các hoạt động để lấp đầy ngày của chúng, nhưng mèo hoặc chó của bạn sẽ ổn, và thậm chí sẽ được hưởng lợi từ việc có thời gian yên tĩnh.
 
-<figure><img src="https://banmaixanh.org/image/article/cham-soc-cho-meo-081.jpg" alt="cham soc cho meo" title="cham soc cho meo" height=100% width=100%><figcaption><p>Hướng dẫn chăm sóc chó mèo đúng cách.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/cham-soc-cho-meo-081.jpg" alt="cham soc cho meo" title="cham soc cho meo" height=100% width=100%><figcaption><p>Hướng dẫn chăm sóc chó mèo đúng cách.</p></figcaption></figure>
 
 ## Hãy để họ nhai nó ra
 
@@ -60,7 +60,7 @@ Một cách tuyệt vời khác để làm thú cưng của bạn mệt mỏi l�
 
 _Cũng giống như con người, thú cưng trải nghiệm cái mà chúng ta gọi là Hiệu ứng Eureka, hoặc phản ứng cảm xúc để giải quyết vấn đề,_ Tiến sĩ Ragen McGowan, nhà hành vi học Purina, giải thích. _Khoảnh khắc ah ha đó khi cuối cùng bạn cũng tìm ra điều gì đó. Bạn cảm thấy một cảm xúc dâng trào tích cực. Thú cưng của chúng tôi cũng trải qua điều này._
 
-<figure><img src="https://banmaixanh.org/image/article/cham-soc-cho-meo-084.jpg" alt="cham soc cho meo" title="cham soc cho meo" height=100% width=100%><figcaption><p>Hướng dẫn chăm sóc chó mèo đúng cách.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/cham-soc-cho-meo-084.jpg" alt="cham soc cho meo" title="cham soc cho meo" height=100% width=100%><figcaption><p>Hướng dẫn chăm sóc chó mèo đúng cách.</p></figcaption></figure>
 
 Bạn cũng có thể sử dụng thời gian cho ăn như một cách để làm phong phú tinh thần cho ngày của thú cưng của bạn. Phân tán thức ăn của chúng xung quanh nhà và để chúng sử dụng khứu giác để tìm nó hoặc kết hợp một Đồ chơi giải đố vào thức ăn để cho chúng một chút thách thức về tinh thần.
 
@@ -82,7 +82,7 @@ Bạn có thể thưởng thức mac và pho mát và quá nhiều bánh hạnh 
 
 Đừng bắt đầu cho ăn phế liệu chỉ vì _bàn_ của bạn tình cờ là chiếc ghế dài của bạn. Tiếp tục lịch trình cho thú cưng của bạn ăn và tuân thủ việc cung cấp thức ăn thường xuyên của chúng càng nhiều càng tốt.
 
-<figure><img src="https://banmaixanh.org/image/article/cham-soc-cho-meo-083.jpg" alt="cham soc cho meo" title="cham soc cho meo" height=100% width=100%><figcaption><p>Hướng dẫn chăm sóc chó mèo đúng cách.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/cham-soc-cho-meo-083.jpg" alt="cham soc cho meo" title="cham soc cho meo" height=100% width=100%><figcaption><p>Hướng dẫn chăm sóc chó mèo đúng cách.</p></figcaption></figure>
 
 
 Nếu bạn đang cho thú cưng ăn nhiều đồ ăn vặt hơn bình thường để thưởng cho chúng vì là người bạn đồng hành tuyệt vời như vậy (bởi vì hãy đối mặt với nó, chúng xứng đáng với điều đó!), Hãy nhớ rằng không quá 10 phần trăm lượng calo hàng ngày của thú cưng nên đến từ các món ăn.
@@ -91,7 +91,7 @@ Nếu bạn đang cho thú cưng ăn nhiều đồ ăn vặt hơn bình thườn
 
 Thú cưng của bạn có thể cần một số không gian cá nhân để cảm thấy an toàn và thoải mái trong thời gian đột nhiên có nhiều người hơn xung quanh. Điều này đặc biệt đúng đối với mèo, nhưng chó cũng có thể được hưởng lợi từ việc có một "không gian an toàn" được chỉ định.
 
-<figure><img src="https://banmaixanh.org/image/article/cham-soc-cho-meo-085.jpg" alt="cham soc cho meo" title="cham soc cho meo" height=100% width=100%><figcaption><p>Hướng dẫn chăm sóc chó mèo đúng cách.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/cham-soc-cho-meo-085.jpg" alt="cham soc cho meo" title="cham soc cho meo" height=100% width=100%><figcaption><p>Hướng dẫn chăm sóc chó mèo đúng cách.</p></figcaption></figure>
 
 Nếu bạn nghĩ rằng thú cưng của bạn bị choáng ngợp bởi tất cả sự 'bên nhau' đột ngột, hãy đảm bảo rằng chúng có một không gian an toàn mà cả gia đình tôn trọng. Khi chúng ở trong đó, chúng nằm ngoài giới hạn, thậm chí có thể giúp coi chúng là 'vô hình' trong không gian đó.
 
@@ -101,10 +101,10 @@ Nếu bạn nghĩ rằng thú cưng của bạn bị choáng ngợp bởi tất 
 
 Để giữ cho thú cưng bận rộn và hạnh phúc trong thời gian mạo hiểm tìm đồ chơi mới là không khả thi, hãy suy nghĩ bên ngoài hộp với đồ chơi DIY và làm giàu.
 
-<figure><img src="https://banmaixanh.org/image/article/cham-soc-cho-meo-082.jpg" alt="cham soc cho meo" title="cham soc cho meo" height=100% width=100%><figcaption><p>Hướng dẫn chăm sóc chó mèo đúng cách.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/cham-soc-cho-meo-082.jpg" alt="cham soc cho meo" title="cham soc cho meo" height=100% width=100%><figcaption><p>Hướng dẫn chăm sóc chó mèo đúng cách.</p></figcaption></figure>
 
 Cung cấp đồ chơi vui nhộn mà chó hoặc mèo của bạn có quyền tiêu hủy. Đây có thể là một cái gì đó giống như một ống các tông với kibble ẩn bên trong, hoặc một chai nhựa họ có thể nhai qua để có được điều trị từ bên trong.
 
 Có một cách hiệu quả để loại bỏ bất kỳ năng lượng hủy diệt nào có thể có lợi cho cả thú cưng và giày da của bạn.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-516.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-516.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

@@ -3,7 +3,7 @@ pubDatetime: 2023-10-03T10:10:00Z
 title: Bài viết trên Instagram ngày 03 tháng 10 năm 2023
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-317.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-317.jpg
 tags:
   - viet lach
   - doan van
@@ -22,4 +22,4 @@ mùa thu sang và tháng 10 cũng vừa đến, trời thì âm u và mùa đôn
 
 còn lúc này? mình sẽ tận hưởng một mùa thu đang đến, với nhiều dư âm và mùi vị đặc trưng, quen thuộc khắp mọi nơi mình ghé qua.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

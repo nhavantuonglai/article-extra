@@ -3,7 +3,7 @@ pubDatetime: 2024-02-04T10:10:00Z
 title: Bài viết trên Instagram ngày 04 tháng 02 năm 2024
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - viet lach
   - doan van
@@ -22,4 +22,4 @@ cuối cùng, sự tồn tại của những làng quê trẻ không hẳn thừ
 
 nên với bất kỳ ai và trong bất kỳ thời điểm nào, bản thân họ cũng đều là người quan sát của một giai đoạn văn hóa, với những điều tồn tại, lụi tàn và phát triển. và như vậy, chẳng có một phong tục nào lỗi thời vì không còn phù hợp hay chẳng đúng hoàn cảnh nữa, mà liệu chúng sẽ được chấp nhận được đến bao lâu, dài đến nhường nào.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-255.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-255.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

@@ -3,7 +3,7 @@ pubDatetime: 2023-12-17T10:10:00Z
 title: Bài viết trên Instagram ngày 17 tháng 11 năm 2023
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-128.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-128.jpg
 tags:
   - viet lach
   - doan van
@@ -24,4 +24,4 @@ vì vậy mặt đất khô cằn bụi bặm buổi chiều sẽ ẩm ướt v�
 
 đoạn trên trích từ cuốn _Khúc hát của cây_ (David George Haskell), viết về thiên nhiên cây cối rất tình và sâu sắc.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

@@ -3,7 +3,7 @@ pubDatetime: 2022-04-07T10:10:00Z
 title: Bài viết trên Instagram ngày 04 tháng 07 năm 2022
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-383.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-383.jpg
 tags:
   - viet lach
   - doan van
@@ -22,4 +22,4 @@ chuyện trôi qua cũng gần 3 năm, mình nghĩ đã quên vì nó quá sức
 
 một hôm khác, quá là buồn, quá là mệt mỏi bởi có quá nhiều chuyện đang đè lên đầu, mình cũng muốn khóc để giải toả nhưng không được. dẫu thế, vẫn nhắn với bạn, mới khóc xong nè; đang nói chuyện vui bỗng bạn chùn xuống, bảo mệt lắm đúng không, khóc được thì cứ khóc đi. khi ấy, mình nói rằng khóc giờ hay không cũng không còn quan trọng nữa, bởi lời bạn nói là hơn tất cả những gì mình cần, hơn cả trận mưa xối xả đang ở trong lòng.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-310.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-310.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

@@ -3,7 +3,7 @@ pubDatetime: 2022-09-10T10:10:00Z
 title: Cung và cầu – nền tảng quan trọng của một nền kinh tế
 description: Chuỗi bài viết của nhavantuonglai về kinh doanh vàng bạc đá quý và quỹ đầu tư sẽ giúp nhà đầu tư khởi nghiệp hiệu quả.
 featured: false
-image: https://banmaixanh.org/image/cover/001-548.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-548.jpg
 tags:
   - viet thue
   - marketing
@@ -126,4 +126,4 @@ Nếu nhu cầu không đổi, lượng cung giảm thì dẫn đến tình tr�
 
 Như vậy, thị trường kinh tế vận hành qua việc cung – cầu thay đổi trên thị trường. Nắm rõ điều này, chúng ta sẽ nhận diện được sự thay đổi của thị trường sẽ diễn ra như thế nào.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-548.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-548.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

@@ -3,7 +3,7 @@ pubDatetime: 2023-01-23T10:10:00Z
 title: Đồ nhiên thảo
 description: Mình thích tùy bút cổ điển Nhật vì qua đó hiểu cách người Nhật giao tiếp mỗi ngày ngoài đường mà không cần nói lời nào.
 featured: false
-image: https://banmaixanh.org/image/cover/001-483.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-483.jpg
 tags:
   - thu vien
   - van hoc
@@ -49,4 +49,4 @@ _Nguyễn Nam Trân._
 
 Đọc [Đồ nhiên thảo, toàn tập](https://banmaixanh.org/ebook/do-nhien-thao.pdf) tại đây.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-510.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-510.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

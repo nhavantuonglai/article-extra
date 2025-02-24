@@ -3,7 +3,7 @@ pubDatetime: 2020-01-07T10:10:00Z
 title: Bài viết trên Instagram ngày 01 tháng 03 năm 2020
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - viet lach
   - doan van
@@ -18,4 +18,4 @@ thường thì, những hôm đi sớm ấy không giúp mình min
 
 nên những khi đó thấy tinh thần thoải mái và yêu đời hẳn. ví dụ như bức ảnh này, chạy thật sớm qua đoạn giao quận một để chụp bức ngược ánh ban mai. xa xa có toà nhà landmark lấp lửng giữa bầu trời mây, nhìn và tận hưởng thôi cũng vui không biết kể bao nhiêu cho hết.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-132.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-132.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

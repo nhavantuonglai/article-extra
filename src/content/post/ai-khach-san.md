@@ -3,7 +3,7 @@ pubDatetime: 2022-01-14T10:10:00Z
 title: Cách AI đang định hình ngành khách sạn
 description: Bạn cảm thấy thế nào khi ai đó nhắc đến AI? Nó có làm bạn sợ hãi hay phấn khích?
 featured: false
-image: https://banmaixanh.org/image/cover/001-516.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-516.jpg
 tags:
   - viet thue
   - marketing
@@ -39,7 +39,7 @@ Chúng tôi biết điều này là sự thật vì chúng tôi đã trải nghi
 
 Đầu tư vào giải pháp quản lý danh tiếng nên nằm trong danh sách ưu tiên hàng đầu của mọi nhà quản lý khách sạn. Tạo ra một dòng đánh giá tích cực đáng tin cậy sẽ quan trọng không kém việc chi tiền cho quảng cáo, và sẽ có lợi khi đi trước trong cuộc chơi này ngay từ bây giờ.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-026.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-026.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Chào đón cá nhân hóa
 
@@ -71,7 +71,7 @@ Khi khách hàng đến dùng bữa sáng, bạn có thể sử dụng điện t
 
 Điều thực sự thú vị là bạn có thể phân tích dữ liệu và thấy rằng vào 9:30 sáng Chủ Nhật, phòng ăn sáng trở nên rất bận rộn. Với thông tin này, bạn có thể thay đổi hành vi của khách hàng để giảm bớt áp lực đó. Trong các luồng check-in và check-out trực tuyến, bạn có thể đề xuất khách hàng đến ăn sáng sớm hơn, bằng cách thông báo cho họ về thời gian bận rộn thông thường hoặc qua các ưu đãi nhỏ như giảm giá 5%.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-027.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-027.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Báo cáo được tinh gọn
 
@@ -97,4 +97,4 @@ Tôi nói chuyện với rất nhiều người lo sợ rằng AI sẽ lấy đi
 
 Chúng ta không nên sợ AI. Tiềm năng to lớn của nó chính là điều làm cho thời điểm này trở nên thú vị đối với ngành khách sạn. Chúng ta chỉ mới nhìn thấy một cái nhìn thoáng qua về những gì nó có thể làm, và tôi rất mong chờ xem nó sẽ đưa chúng ta đến đâu trong năm tới.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-314.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-314.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>

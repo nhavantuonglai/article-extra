@@ -3,7 +3,7 @@ pubDatetime: 2019-04-07T10:10:00Z
 title: Bài viết trên Instagram ngày 06 tháng 04 năm 2019
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - viet lach
   - doan van
@@ -20,4 +20,4 @@ có lẽ một phần vì hồi nào làm nghiên cứu. đắm c
 
 mình tin sống và luôn cảm thấy vui với mọi điều mình làm, mọi điều mình đón nhận, là một thứ trải nghiệm hay ho và đáng để kỳ vọng hơn bất kỳ điều gì.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

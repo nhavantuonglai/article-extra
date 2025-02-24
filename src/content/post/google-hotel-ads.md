@@ -3,7 +3,7 @@ pubDatetime: 2022-05-01T10:10:00Z
 title: Google Ads và những lợi ích thiết thực cho khách sạn
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
 featured: false
-image: https://banmaixanh.org/image/cover/001-229.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-229.jpg
 tags:
   - viet thue
   - marketing
@@ -29,7 +29,7 @@ Cách giải quyết duy nhất để đảm bảo thứ hạng trên công cụ
 
 Về bản chất, Google Hotel Ads và Google Ads có tương đồng với nhau, khi cùng bỏ tiền ra để chạy các chiến dịch nhắm mục tiêu. Nhưng Google Hotel Ads đi vào chi tiết, và mục tiêu cụ thể là quảng bá khách sạn. Trong bài viết sau, hãy cùng tìm hiểu vì sao đây là kênh phân phối bán phòng quan trọng cho khách sạn, và nên bắt đầu như thế nào, cũng như một vài nhầm lẫn thường gặp về giải pháp này.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-107.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-107.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Google Hotel Ads là gì?
 
@@ -93,7 +93,7 @@ Bạn có thể nhìn thấy sự khác biệt thông qua hình minh họa ở d
 
 _Sự khác nhau giữa Google Ads và Google Hotel Ads._
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-108.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-108.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Sự khác biệt giữa kênh OTA, Google Hotel Ads và Tripadvisor là gì?
 
@@ -153,7 +153,7 @@ Một trải nghiệm đặt phòng tốt sẽ tăng tỷ lệ đặt phòng, b�
 
 _Một trải nghiệm đặt phòng tốt sẽ tăng tỷ lệ đặt phòng, bởi khách hàng có thiện cảm và tin tưởng khách sạn hơn._
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-109.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-109.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Website thân thiện với di động hơn
 
@@ -175,7 +175,7 @@ Google Business quan trọng không kém website khách sạn và các kênh OTA
 
 Có thể bạn đặt ngân sách cho chiến dịch là từng ngày, nhưng chi phí cho mỗi lần click chuột có thể tăng nhanh chóng và không có gì đảm bảo rằng lượng đặt phòng cũng sẽ tăng tương ứng. Cho nên, hãy theo dõi chặt chẽ [chiến lược bán phòng](https://nhavantuonglai.com/article) cũng như quảng cáo, đặt biệt là chi phí chuyển đổi, cụ thể là mỗi lượt đặt phòng sẽ tốn bao nhiêu tiền để có những điều chỉnh, tạm hoãn hoặc thay đổi cách chạy quảng cáo.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-100.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-100.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Làm thế nào để bắt đầu?
 
@@ -183,4 +183,4 @@ Nếu bạn đang là một khách sạn nhỏ lẻ, thì cần phải làm vi�
 
 Những gợi ý trên đây là những gì mà khách sạn cần biết về Google Hotel Ads, chúng sẽ hữu ích hơn nếu khách sạn có đối tác đồng hành, hỗ trợ tích cực cũng như một chiến lược dài hạn, và những đầu tư, chăm chút cho khách sạn để tăng thêm doanh thu, cải thiện thương hiệu cho khách sạn.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-519.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-519.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>

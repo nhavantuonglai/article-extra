@@ -3,7 +3,7 @@ pubDatetime: 2019-04-07T10:10:00Z
 title: Bài viết trên Instagram ngày 22 tháng 04 năm 2019
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-343.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-343.jpg
 tags:
   - viet lach
   - doan van
@@ -18,4 +18,4 @@ cái ồn ào, náo nhiệt và đầy đủ điện đèn, vô hi
 
 bạn kể mình, Huế nhìn chán thật nhỉ, nhỏ trong lòng bàn tay, đi tới rồi lui là hết, phố sá đóng cửa sớm, chẳng có khu phức hợp nào tầm cỡ, chẳng có gì là đặc sắc. mình ừ phải, Huế chán lắm, chán vô cùng chán cho những người thích sôi động. và cái sôi động nhất mà Huế từng có, từng đem đến, mà mình từng trải qua, nó chẳng bằng một góc và hơi lỗi với những gì mà hai đầu cầu cả nước đang thở một cách nhẹ nhàng từng ngày…
 
-<figure><img src="https://banmaixanh.org/image/cover/001-310.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-310.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

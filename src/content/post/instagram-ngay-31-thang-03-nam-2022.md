@@ -3,7 +3,7 @@ pubDatetime: 2022-03-31T10:10:00Z
 title: Bài viết trên Instagram ngày 31 tháng 03 năm 2022
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - viet lach
   - doan van
@@ -16,4 +16,4 @@ khuyên thật tình thế, bởi mình không muốn bạn lại giống nhữn
 
 trong hơn 3 năm qua, với 40 cuộn đã chụp (chưa tính vài cuộn đã hỏng), trên mười mấy triệu tiền mua film và tráng; mình nghĩ vậy đã đủ để (tạm) dừng lại mà tìm cảm hứng mới, trải nghiệm mới. quyết định này không thay đổi cách mình chia sẻ những điều đang, và sắp viết trong tương lai ở nơi này. kho ảnh film vẫn đủ cho thêm vài năm nữa, với tốc độ đăng như hiện tại. viết ra nhiều thế không phải có lý do, mà để nói rằng mình đã làm được, đã theo đuổi được, và sẽ sớm quay lại với những tấm ảnh film…
 
-<figure><img src="https://banmaixanh.org/image/cover/001-514.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-514.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

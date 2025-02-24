@@ -3,7 +3,7 @@ pubDatetime: 2020-07-07T10:10:00Z
 title: Bài viết trên Instagram ngày 30 tháng 07 năm 2020
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - viet lach
   - doan van
@@ -20,4 +20,4 @@ mình thì mình vẫn thích ở đây hơn, bởi vừa vặn như chiếc áo
 
 mà nói chuyện bạn bè đi xa, dạo này mình nghe nhiều, rồi các bạn đi nhiều quá. hành trình của các bạn, mình luôn ủng hộ bằng mọi cách; nhưng cảm xúc cá nhân thì, mình vẫn cứ hụt hẫng theo ngày tháng. bởi bạn đi rồi, đi hết, thì còn mấy ai đủ chân tình bên cạnh mình nữa. nhưng dù vậy, mình không cần bạn làm mình vui, cũng chẳng muốn đem nỗi buồn tới cho bạn; tụi mình vẫn cứ vậy, cứ sống trong cuộc đời mỗi đứa muốn, và vui cùng khi còn là bạn của nhau.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-262.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-262.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

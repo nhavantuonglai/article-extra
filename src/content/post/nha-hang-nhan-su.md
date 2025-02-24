@@ -3,7 +3,7 @@ pubDatetime: 2023-02-03T10:10:00Z
 title: Biến những thách thức về nhân sự của nhà hàng thành cơ hội
 description: Tìm hiểu các chiến lược tiếp thị nhà hàng hiệu quả trong chuỗi bài viết sau của nhavantuonglai để áp dụng và đem lại hiệu quả thiết thực cho giải pháp của bạn.
 featured: false
-image: https://banmaixanh.org/image/cover/001-649.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-649.jpg
 tags:
   - viet thue
   - marketing
@@ -82,4 +82,4 @@ Và cuối cùng, đừng quên liên lạc với các kênh truyền thông, c�
 
 Trong tương lai, ngành nhà hàng sẽ phải đối mặt với rất nhiều thách thức và khó khăn. Chủ sở hữu và quản lý nhà hàng cần nhanh, nhạy hơn để xây dựng các chiến lược truyền thông phù hợp với bối cảnh hiện tại. Nếu điều này được đáp ứng, thì khó khăn lớn nhất trong hiện tại – nhân sự – sẽ trở thành sức mạnh lớn nhất mà bạn có.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-304.jpg" alt="nha hang, am thuc." title="nha hang, am thuc." height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-304.jpg" alt="nha hang, am thuc." title="nha hang, am thuc." height=100% width=100%><figcaption><p></p></figcaption></figure>

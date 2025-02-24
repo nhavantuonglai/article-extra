@@ -3,7 +3,7 @@ pubDatetime: 2022-02-04T10:10:00Z
 title: Quản lý khách sạn trong mùa du lịch cao điểm
 description: Mùa du lịch cao điểm là khoảng thời gian trong năm khi nhu cầu cao nhất và tỷ lệ lấp đầy tăng vọt (hy vọng rằng doanh thu trên mỗi khách (RevPAM) cũng vậy).
 featured: false
-image: https://banmaixanh.org/image/cover/001-729.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-729.jpg
 tags:
   - viet thue
   - marketing
@@ -80,4 +80,4 @@ Khi thời gian eo hẹp, điều cuối cùng bạn muốn là phải dành hà
 
 Một giải pháp POS tích hợp cũng là một cách tiết kiệm thời gian quý giá trong các giai đoạn bận rộn nhất. Các lựa chọn như đặt hàng kỹ thuật số giúp giảm thời gian chờ đợi của khách, trong khi quản lý tồn kho trực tuyến giúp bạn theo dõi những gì còn sẵn. Khi đến lúc thanh toán, hãy đảm bảo hóa đơn có thể được ghi trực tiếp vào hồ sơ khách trong hệ thống PMS.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-210.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-210.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>

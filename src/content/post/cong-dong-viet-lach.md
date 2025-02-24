@@ -3,7 +3,7 @@ pubDatetime: 2021-04-02T10:10:00Z
 title: Tìm hiểu về những cộng đồng viết lách chất lượng cao
 description: Danh sách những cộng đồng viết lách chất lượng cao, nơi bạn có thể phát triển kỹ năng và kết nối với những người cùng đam mê.
 featured: false
-image: https://banmaixanh.org/image/cover/001-427.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-427.jpg
 tags:
   - viet lach
   - ky nang viet
@@ -28,7 +28,7 @@ Trên nhavantuonglai, bạn có thể tìm thấy các chuyên mục như:
 
 – [Cơ hội việc làm viết lách](https://nhavantuonglai.com/article): Thông tin về các cơ hội việc làm viết lách, từ các công ty tuyển dụng đến các dự án viết lách tự do.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-103.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-103.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Scribophile (scribophile.com)
 
@@ -46,7 +46,7 @@ Các chuyên mục chính trên Scribophile bao gồm:
 
 NaNoWriMo (National Novel Writing Month) là một tổ chức phi lợi nhuận thúc đẩy việc viết tiểu thuyết. Mặc dù nổi tiếng với sự kiện viết tiểu thuyết hàng năm vào tháng 11, NaNoWriMo còn có một cộng đồng trực tuyến hoạt động suốt năm, nơi các nhà văn có thể kết nối, chia sẻ kinh nghiệm và nhận được hỗ trợ.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-104.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-104.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 Các chuyên mục chính trên NaNoWriMo bao gồm:
 
@@ -68,7 +68,7 @@ Các chuyên mục chính trên Writers Helping Writers bao gồm:
 
 – Cộng đồng viết lách: Các bài viết và diễn đàn giúp nhà văn kết nối và chia sẻ kinh nghiệm với nhau.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-105.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-105.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Absolute Write Water Cooler (absolutewrite.com/forums)
 
@@ -82,7 +82,7 @@ Các chuyên mục chính trên Absolute Write Water Cooler bao gồm:
 
 – Tiếp thị sách: Các chiến lược tiếp thị sách hiệu quả, bao gồm sử dụng mạng xã hội và tiếp thị qua email.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-106.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-106.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Reddit (reddit.com)
 
@@ -106,7 +106,7 @@ Các chuyên mục chính trên The Writer’s Digest Community bao gồm:
 
 – Tiếp thị sách: Các chiến lược tiếp thị sách hiệu quả, bao gồm sử dụng mạng xã hội và tiếp thị qua email.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-107.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-107.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Writing Forums (writingforums.org)
 
@@ -120,7 +120,7 @@ Các chuyên mục chính trên Writing Forums bao gồm:
 
 – Publishing: Lời khuyên và kinh nghiệm về xuất bản sách.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-108.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-108.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Mythic Scribes (mythicscribes.com)
 
@@ -146,7 +146,7 @@ Các chuyên mục chính trên Creative Writing Forums bao gồm:
 
 – Writing Contests: Thông tin và tham gia vào các cuộc thi viết lách.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-109.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-109.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Critique Circle (critiquecircle.com)
 
@@ -172,7 +172,7 @@ Các chuyên mục chính trên Inkitt Writing Groups bao gồm:
 
 – Publishing Opportunities: Thông tin về các cơ hội xuất bản và cuộc thi viết lách.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-110.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-110.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## The Next Big Writer (thenextbigwriter.com)
 
@@ -190,8 +190,8 @@ Các chuyên mục chính trên The Next Big Writer bao gồm:
 
 Các [cộng đồng viết lách chất lượng cao](https://nhavantuonglai.com/article) là nguồn tài nguyên quý giá cho những ai muốn cải thiện kỹ năng viết lách và phát triển sự nghiệp trong lĩnh vực này. Từ những hướng dẫn chi tiết về kỹ thuật viết, lời khuyên về xuất bản và tiếp thị sách, đến các cơ hội việc làm và cộng đồng viết lách, các cộng đồng này cung cấp mọi thứ bạn cần để trở thành một nhà viết lách thành công.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-111.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-111.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 Hãy dành thời gian khám phá và tham gia vào những cộng đồng viết lách mà nhavantuonglai đã giới thiệu ở trên. Chắc chắn bạn sẽ tìm thấy nhiều thông tin hữu ích và cảm hứng để tiếp tục hành trình viết lách của mình. Những cộng đồng như Nhà Văn Tương Lai, Scribophile và Absolute Write Water Cooler không chỉ là nơi để học hỏi mà còn là nơi để bạn kết nối với những người cùng đam mê và tìm kiếm cơ hội nghề nghiệp. Hãy tận dụng các tài nguyên này để phát triển kỹ năng và sự nghiệp viết lách của bạn.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-246.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-246.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

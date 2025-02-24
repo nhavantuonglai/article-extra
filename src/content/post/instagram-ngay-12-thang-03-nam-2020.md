@@ -3,7 +3,7 @@ pubDatetime: 2020-03-07T10:10:00Z
 title: Bài viết trên Instagram ngày 12 tháng 03 năm 2020
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-323.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-323.jpg
 tags:
   - viet lach
   - doan van
@@ -26,4 +26,4 @@ nhưng mà, chú bảo, quen rồi, quen cái nhịp sống về đê
 
 nói đến đoạn đó thì cũng đến đoạn rẽ vào nhà, mình tạm biệt chú rồi để tiếng rao vọng phía sau lưng.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-310.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-310.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

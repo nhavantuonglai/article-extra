@@ -3,7 +3,7 @@ pubDatetime: 2023-02-05T10:10:00Z
 title: Bài viết trên Instagram ngày 05 tháng 02 năm 2023
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-324.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-324.jpg
 tags:
   - viet lach
   - doan van
@@ -22,4 +22,4 @@ nhưng nếu cho rằng, toàn bộ sự thay đổi ấy chỉ đến từ lòn
 
 bài viết đầu tiên của năm, dù hiểu hàm ý bài này theo cách nào đi chăng nữa, mình mong mọi người luôn có những khoảnh khắc, kỷ niệm đẹp bên những người bạn thương mến của mình. và mình cũng biết, khi một ai đó đọc bài này, sẽ cảm thấy như đang được nhắc đến, nếu có vậy thì có lẽ là đúng như vậy thật; nhưng cũng dù thế nào đi chăng nữa, mình vẫn nhớ về bạn, và sẵn dành một nụ cười chào nhau nếu tình cờ gặp ở đâu đó.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-310.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-310.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

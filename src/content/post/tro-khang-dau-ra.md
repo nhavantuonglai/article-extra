@@ -3,7 +3,7 @@ pubDatetime: 2021-02-24T10:10:00Z
 title: Tìm hiểu về trở kháng đầu ra của tai nghe
 description: Trở kháng đầu ra là một khái niệm quan trọng trong việc chọn lựa và sử dụng tai nghe.
 featured: false
-image: https://banmaixanh.org/image/cover/001-436.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-436.jpg
 tags:
   - viet lach
   - thuong thuc am thanh
@@ -196,4 +196,4 @@ Việc chọn tai nghe phù hợp với trở kháng đầu ra của thiết b�
 
 Hiểu rõ về trở kháng đầu ra và các yếu tố liên quan giúp bạn chọn lựa và sử dụng tai nghe một cách hiệu quả nhất. Hy vọng bài viết này đã cung cấp cho bạn những thông tin cần thiết để nâng cao trải nghiệm nghe nhạc của mình.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-211.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-211.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

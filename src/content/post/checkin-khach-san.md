@@ -3,7 +3,7 @@ pubDatetime: 2023-02-12T10:10:00Z
 title: 20 cách tốt nhất để chào đón khách tại khách sạn hoàn hảo
 description: Ấn tượng đầu tiên có thể quyết định thành bại của trải nghiệm khách hàng, và cách bạn chào đón khách là yếu tố quan trọng trong lần tiếp xúc đầu tiên tại khách sạn.
 featured: false
-image: https://banmaixanh.org/image/cover/001-518.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-518.jpg
 tags:
   - viet thue
   - marketing
@@ -39,7 +39,7 @@ Vì ấn tượng đầu tiên rất quan trọng, nên việc đảm bảo nhâ
 
 Về mặt tâm lý, khi nhân viên của bạn cảm thấy hài lòng về những gì họ đang mặc hoặc vẻ ngoài của họ, họ sẽ có cảm giác tự tin, điều này phản ánh trong công việc của họ. Điều này có thể giúp họ cung cấp dịch vụ tốt nhất và làm việc một cách suôn sẻ hơn, đơn giản vì họ cảm thấy tự tin và có thể đại diện cho thương hiệu của khách sạn một cách tốt nhất. Nếu phong cách và thương hiệu của khách sạn bạn là không chính thức hơn và một bộ đồng phục truyền thống không phù hợp, hãy đảm bảo rằng nhân viên có một bảng tên rõ ràng, dễ nhìn hoặc một vật dụng khác để ngay lập tức xác định họ.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-100.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-100.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Đặt câu hỏi
 
@@ -75,7 +75,7 @@ Với concierge kỹ thuật số, khách hàng có thể kiểm soát hoàn to�
 
 Bạn có thể bận rộn, nhưng bạn không bao giờ quá bận để cho khách hàng biết bạn cần bao lâu trước khi có thể phục vụ họ. Bằng cách cung cấp thời gian chờ đợi chính xác, khách hàng ít có khả năng trở nên thiếu kiên nhẫn và có thể quyết định xem họ có thời gian để làm những việc khác như nói chuyện với concierge hoặc đi vệ sinh trong khi chờ đợi hay không. Giao tiếp là chìa khóa để làm yên lòng khách hàng và đảm bảo rằng họ biết bạn quan tâm.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-101.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-101.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Thiết lập một kết nối giữa bạn và khách hàng
 
@@ -107,7 +107,7 @@ Không có gì tệ hơn việc phải chờ đợi để vào phòng sau một 
 
 Khách hàng có thể có những yêu cầu đặc biệt hoặc muốn chia sẻ về trải nghiệm của họ. Hãy sẵn sàng lắng nghe và đáp ứng những yêu cầu của họ. Lắng nghe là một phần quan trọng trong việc cung cấp dịch vụ tuyệt vời và giúp bạn hiểu rõ hơn về nhu cầu của khách hàng.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-102.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-102.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Đừng quên những điều nhỏ nhặt
 
@@ -125,4 +125,4 @@ Chào đón khách hàng không chỉ dừng lại ở việc nhận phòng. Hã
 
 Chào đón khách hàng là một phần quan trọng trong việc tạo ra trải nghiệm khách sạn hoàn hảo. Bằng cách thực hiện những phương pháp trên, bạn có thể đảm bảo rằng khách hàng của bạn sẽ cảm thấy được chào đón, thoải mái, và sẽ có một trải nghiệm đáng nhớ tại khách sạn của bạn.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-314.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-314.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>

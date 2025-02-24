@@ -3,7 +3,7 @@ pubDatetime: 2023-01-23T10:10:00Z
 title: Công nghệ blockchain hữu ích như thế nào trong ngành khách sạn?
 description: Công nghệ blockchain trong ngành khách sạn mang đến cơ hội lớn để tùy chỉnh trải nghiệm lưu trú và cung cấp dịch vụ tốt hơn.
 featured: false
-image: https://banmaixanh.org/image/cover/001-732.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-732.jpg
 tags:
   - viet thue
   - marketing
@@ -71,4 +71,4 @@ Ngành khách sạn phụ thuộc vào chuỗi cung ứng cho thực phẩm, đ�
 
 Công nghệ blockchain mang lại nhiều lợi ích và ứng dụng cho các khách sạn. Ngành khách sạn luôn thay đổi; công nghệ blockchain giúp các khách sạn giảm phụ thuộc vào bên thứ ba và các trung gian. Trong kỷ nguyên số, khi dữ liệu là tiền tệ mới, đảm bảo mức độ bảo mật cao hơn cho khách hàng là điều cơ bản. Nó có thể thúc đẩy hiệu suất của khách sạn và mang lại lợi thế cạnh tranh.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-210.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-210.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>

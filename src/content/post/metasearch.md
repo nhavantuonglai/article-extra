@@ -3,7 +3,7 @@ pubDatetime: 2022-05-28T10:10:00Z
 title: Metasearch và những điều cần biết trước khi triển khai
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
 featured: false
-image: https://banmaixanh.org/image/cover/001-349.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-349.jpg
 tags:
   - viet thue
   - marketing
@@ -27,7 +27,7 @@ Nhưng hãy lưu ý, Metasearch không bán phòng khách sạn, chuyến bay ha
 
 Và dù rằng, khi các khách sạn vừa và nhỏ đưa mình lên Metasearch thì sẽ được hưởng lợi nhất định, nhưng không có nghĩa nhận lại chỉ toàn lợi ích, mà cả những vấn đề đi kèm. Bài viết sau cung cấp một cái nhìn trực quan, giúp các khách sạn hiểu rõ hơn về vấn đề này.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-003.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-003.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Ai được hưởng lợi khi áp dụng Metasearch?
 
@@ -65,7 +65,7 @@ Khi Google [giới thiệu Google Hotel Ads](https://nhavantuonglai.com/article)
 
 Dù mọi thứ chỉ mới bắt đầu, nhưng tương lai có vẻ tươi sáng. Điều quan trọng cho việc tạo nên thành công trong dài hạn, tận dụng được tiềm năng thật sự của Metasearch để có nhiều lượt đặt phòng hơn, là dần ngừng phụ thuộc vào website đặt phòng của bên thứ 3 (Kênh OTA, đại lý bán phòng…) và [áp dụng công nghệ vào quản lý khách sạn](https://nhavantuonglai.com/article), như sử dụng phần mềm quản lý khách sạn từ giải pháp, cũng như [tích hợp Free Booking Link](https://nhavantuonglai.com/article) vào khách sạn của mình.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-004.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-004.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Bắt đầu ngành công nghiệp đặt phòng khách sạn
 
@@ -77,4 +77,4 @@ Kết luận lại, Metasearch là một giải pháp mà các khách sạn nên
 
 Nếu bạn không biết nên bắt đầu từ đâu, hãy liên hệ với giải pháp hoặc đọc thêm các bài viết liên quan đến chủ đề này để hiểu hơn.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-310.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-310.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>

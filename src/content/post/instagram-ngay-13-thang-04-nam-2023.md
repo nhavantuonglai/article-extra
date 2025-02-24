@@ -3,7 +3,7 @@ pubDatetime: 2023-04-13T10:10:00Z
 title: Bài viết trên Instagram ngày 13 tháng 04 năm 2023
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-167.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-167.jpg
 tags:
   - viet lach
   - doan van
@@ -22,4 +22,4 @@ suy cho cùng thì, mọi người và cả mình cũng như nhau, cũng đều 
 
 nhưng nói sao thì nói, chứ mình vẫn tin rằng ai cũng đáng nhận được những điều tử tế, không chỉ với những người họ cảm thấy xứng đáng để trao đi, mà với tất cả mọi người họ tiếp xúc trong thế giới riêng họ. mình cũng tin rằng, bản thân rồi sẽ gặp được một người như vậy, gặp được sự thiện lương vì người ta thật lòng muốn san sẻ; mà trước khi có được vậy, thì tất nhiên tự bản thân mình phải là người thiện lương trước đã.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

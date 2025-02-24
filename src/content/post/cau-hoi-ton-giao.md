@@ -3,7 +3,7 @@ pubDatetime: 2024-11-20T10:10:00Z
 title: 10 vạn câu hỏi về tôn giáo giúp bạn trở nên thông tuệ hơn
 description: Đời sống tu viện chắc chắn sẽ là điều đầu tiên xuất hiện trong đầu rồi. Nó cung cấp một nghề nghiệp mới cho những ai không muốn hoặc không thể lựa chọn con đường sự nghiệp khác.
 featured: true
-image: https://banmaixanh.org/image/cover/001-111.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-111.jpg
 tags:
   - viet lach
   - ton giao
@@ -232,4 +232,4 @@ Khi Lydia Child ở New England viết về Phật giáo vào thế kỷ 19, bà
 
 Vì vậy, để kết luận cho câu hỏi của bạn, tôi sẽ lập luận rằng Phật giáo là một triết lý thực tế so với một tôn giáo, với các vị thần, ma quỷ, các mặt phẳng tồn tại… là những khái niệm trừu tượng triết học phù hợp với khuôn mẫu của bất kỳ tôn giáo hoặc phi tôn giáo nào nhằm truyền đạt giáo lý và những tư duy cần thiết để đạt được mục tiêu ban đầu là _hạnh phúc_ thông qua Tính Không. Đây là cách mà người Mỹ bắt đầu giải thích đạo Phật vào thế kỷ 19 và đạo Phật đã có thể truyền bá khắp châu Á như thế nào. Nếu Phật giáo là một _tôn giáo_ tôn thờ các vị thần như Do Thái giáo độc thần hoặc các đền thờ đa thần của Hy Lạp, thì nó sẽ xung đột với tôn giáo đương thời và khả năng cao là không được chấp nhận. Khi người Hy Lạp coi Indra là Zeus, thì những người theo Thần đạo cũng có thể coi Amaterasu là Dainichi Nyorai (Đại Nhật Như Lai, _vị thần_ trung tâm của Phật giáo bí truyền, nhưng thực ra là đại diện của cái tôi đã giác ngộ). Tôi nghĩ rằng tất cả những điều này có liên kết với nhau để biện minh cho quan điểm của phương Tây coi Phật giáo là triết học hay tôn giáo. Tất nhiên, sự khác biệt giữa triết học và tôn giáo là một cuộc thảo luận hoàn toàn riêng biệt (nhưng có tính phê phán).
 
-<figure><img src="https://banmaixanh.org/image/cover/001-114.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-114.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

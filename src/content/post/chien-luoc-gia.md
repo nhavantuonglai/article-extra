@@ -3,7 +3,7 @@ pubDatetime: 2022-02-24T10:10:00Z
 title: 10 chiến lược định giá phòng khách sạn cần thực hiện trong năm 2024
 description: Giá phòng khách sạn là một trong những yếu tố, tiêu chí quan trọng trong quản lý kênh bán phòng khách sạn. Điều quan trọng cần giải quyết là cân bằng giữa trải nghiệm tích cực cho du khách, lẫn đem lại doanh thu hiệu quả cho khách sạn.
 featured: false
-image: https://banmaixanh.org/image/cover/001-683.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-683.jpg
 tags:
   - viet thue
   - marketing
@@ -25,7 +25,7 @@ Trong phần dưới đây, hãy cùng tìm hiểu những chiến lược đị
 
 Chiến lược giá là yếu tố quan trọng mà bất kỳ khách sạn nào cũng cần phải xem xét, tính toán khi xây dựng chiến lược cải thiện doanh thu. Để cạnh tranh hiệu quả, các khách sạn cũng hiểu tầm quan trọng của giá phòng trong ngành. Do vậy, nếu các khách sạn không muốn mất khách và cạnh tranh tốt hơn nữa, hãy xây dựng chiến lược giáp phù hợp. Chúng không chỉ là phương pháp để tăng ADR và RevPAR trong khách sạn, mà còn giúp lợi nhuận tổng thể được tăng.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-007.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-007.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Các bước cơ bản để thực hiện chiến lược giá cho khách sạn
 
@@ -81,7 +81,7 @@ Ví dụ: Nếu doanh thu khách sạn đạt cao nhất vào tháng 12 hàng n�
 
 Hoặc một ví dụ khác: Khi phân tích dữ liệu, bạn nhận thấy rằng hầu hết du khách đặt phòng hạng cơ bản hơn là sang trọng, vậy thì hãy tăng giá phòng hạng cơ bản, hoặc đưa chúng vào các gói và chương trình khuyến mãi để bán những phòng ấy được tốt hơn.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-008.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-008.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Định giá phòng dựa trên cạnh tranh thị trường
 
@@ -121,7 +121,7 @@ Thời điểm áp dụng lý tưởng nhất là lễ hội và kỳ nghỉ. B�
 
 Ví dụ: Khách có xu hướng ở lại lâu hơn trong kỳ nghỉ hè của học sinh, hoặc khách sạn nhận được booking đặt dài đêm, thì dựa trên những điều ấy mà khách sạn có thể đặt các gói lưu trú khác nhau cho số lượng đêm đặt phòng.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-009.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-009.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Định giá phòng dựa trên nhóm khách hàng
 
@@ -157,7 +157,7 @@ Nếu sử dụng đúng cách, chiến lược định giá phòng dựa trên 
 
 Ví dụ: Khách sạn gửi email đến tất cả hàng hàng với thông điệp: ưu đãi giảm giá khi đặt từ 2 đêm vào ngày sinh nhật khi đặt qua website khách sạn. Hoặc nếu du khách đi công tác, khách sạn có thể đưa họ vào danh sách đặc biệt để cung cấp mức giá hấp dẫn khi họ ghé thăm thành phố của bạn.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-101.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-101.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Những câu hỏi thường gặp khi xây dựng chiến lược định giá phòng
 
@@ -183,4 +183,4 @@ Quản lý khách sạn hiệu quả là khi áp dụng chiến lược phù h�
 
 Những chiến lược được nêu ở phần trên đây là những chiến lược hiệu quả nhất trong ngành khách sạn, được áp dụng và đem lại thành công cho nhiều khách sạn. Với việc áp dụng và điều chỉnh theo mô hình của khách sạn hiện tại, khách sạn của bạn cũng sẽ nhận được thành công tương tự.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-514.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-514.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>

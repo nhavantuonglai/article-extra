@@ -3,7 +3,7 @@ pubDatetime: 2022-03-15T10:10:00Z
 title: Ứng dụng công nghệ để cải thiện doanh thu khi công suất phòng thấp
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
 featured: false
-image: https://banmaixanh.org/image/cover/001-517.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-517.jpg
 tags:
   - viet thue
   - marketing
@@ -33,7 +33,7 @@ Thông qua công nghệ, khách sạn​ có thể giải quyết 2 vấn đề 
 
 Đây được xem là 2 vấn đề cơ bản, quan trọng mà người làm khách sạn​ nào cũng cần tính đến, bên cạnh vấn đề tài chính. Do đó, nếu các vấn đề này được giải quyết, chủ khách sạn​ sẽ có thêm nhiều khách hàng tiềm năng hơn, và quản lý vận hành hiệu quả hơn, những điều này gián tiếp thúc đẩy công suất phòng tăng, và từ đó doanh thu sẽ được cải thiện.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-078.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-078.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Các giải pháp công nghệ mà chủ khách sạn​ có thể áp dụng để tăng công suất phòng
 
@@ -89,7 +89,7 @@ PMS đóng vai trò cần thiết, và dần trở nên quan trọng trong nhi�
 
 – Tiết kiệm chi phí vận hành, thời gian làm việc cho cả chủ khách sạn​ và nhân viên.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-079.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-079.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 Với những lợi ích thiết thực nêu trên, không quá khó hiểu khi ngày càng nhiều khách sạn​ ứng dụng PMS vào việc vận hành, quản lý. Như sự lựa chọn của Asean Garden Homestay với giải pháp, thì theo anh Lộc – quản lý của khách sạn​ thì trước khi sử dụng PMS, việc triển khai kênh OTA gặp nhiều vướng mắc, khó khăn.
 
@@ -99,4 +99,4 @@ Quy mô của Asean Garden khách sạn​ là 10 phòng, có sức chứa trung
 
 Như vậy, việc ứng dụng công nghệ cải thiện công suất phòng thấp khi vận hành khách sạn​ đã đem lại nhiều thay đổi tích cực, giúp những người quản lý kiểm soát việc hành được chặt chẽ hơn, tiếp cận được nhiều khách hàng hơn, qua đó tối ưu công suất phòng, và đem về doanh thu như mong muốn.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-610.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-610.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>

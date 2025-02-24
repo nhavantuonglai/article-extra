@@ -3,7 +3,7 @@ pubDatetime: 2024-02-26T10:10:00Z
 title: Cách để phát triển tư duy viết lách
 description: Bài viết này sẽ khám phá các phương pháp và kỹ thuật để nâng cao tư duy sáng tạo trong viết lách hiệu quả hơn trong quá trình thực hành.
 featured: false
-image: https://banmaixanh.org/image/cover/001-137.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-137.jpg
 tags:
   - viet lach
   - ky nang viet
@@ -21,7 +21,7 @@ _Viết lách sáng tạo không chỉ là một kỹ năng mà còn là một h
 
 Một trong những cách hiệu quả nhất để khơi dậy sự [sáng tạo khi viết lách](https://nhavantuonglai.com/article) là quan sát và trải nghiệm thế giới xung quanh. Mọi thứ từ thiên nhiên, con người, văn hóa, cho đến những sự kiện hàng ngày đều có thể trở thành nguồn cảm hứng. Hãy luôn mang theo một cuốn sổ tay để ghi lại những ý tưởng, hình ảnh, và cảm xúc bất chợt.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-040.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-040.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ### Đọc sách và tiếp thu kiến thức mới
 
@@ -37,7 +37,7 @@ Tham gia vào các hoạt động nghệ thuật như xem phim, nghe nhạc, th�
 
 Brainstorming tự do là một kỹ thuật hiệu quả để phát triển ý tưởng mà không bị giới hạn bởi bất kỳ quy tắc nào. Hãy viết ra tất cả những ý tưởng xuất hiện trong đầu mà không cần phán xét hay kiểm soát. Điều này giúp bạn khám phá ra nhiều ý tưởng sáng tạo và bất ngờ.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-041.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-041.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ### Mind Mapping
 
@@ -53,7 +53,7 @@ Kỹ thuật _5 Why’s_ (5 lý do tại sao) là một phương pháp để kh�
 
 Nhân vật là yếu tố quan trọng trong một câu chuyện. Hãy dành thời gian để xây dựng nhân vật của bạn một cách chi tiết, từ ngoại hình, tính cách, đến quá khứ và động cơ. Một nhân vật sống động và chân thực sẽ làm cho câu chuyện của bạn trở nên hấp dẫn và thuyết phục hơn.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-042.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-042.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ### Tạo dựng bối cảnh
 
@@ -69,7 +69,7 @@ Cốt truyện là xương sống của câu chuyện. Hãy xây dựng một c�
 
 Từ ngữ chính xác giúp truyền đạt ý tưởng một cách rõ ràng và mạnh mẽ. Hãy lựa chọn từ ngữ phù hợp với ngữ cảnh và tránh sử dụng từ ngữ mơ hồ, trừu tượng. Từ ngữ chính xác còn giúp tạo nên giọng văn đặc trưng và phong cách riêng của bạn.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-043.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-043.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ### Sử dụng hình ảnh và biểu tượng
 
@@ -79,7 +79,7 @@ Hình ảnh và biểu tượng là những công cụ mạnh mẽ để tạo r
 
 Nhịp điệu và âm điệu là yếu tố quan trọng trong việc tạo ra sự hấp dẫn và lôi cuốn cho bài viết. Hãy chú ý đến nhịp điệu của câu văn, sử dụng các câu ngắn và dài một cách linh hoạt để tạo ra sự thay đổi và bất ngờ. Âm điệu của bài viết nên phù hợp với nội dung và cảm xúc bạn muốn truyền đạt.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-044.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-044.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Kỹ thuật viết và chỉnh sửa
 
@@ -95,7 +95,7 @@ Chỉnh sửa là một bước không thể thiếu để hoàn thiện bài vi
 
 Nhờ người khác đọc và góp ý cho bài viết của bạn là một cách hiệu quả để cải thiện chất lượng. Họ có thể phát hiện ra những lỗi mà bạn bỏ sót và đưa ra những gợi ý hữu ích. Hãy lắng nghe và xem xét các góp ý một cách cởi mở, nhưng cũng nên giữ lại phong cách và giọng văn riêng của mình.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-045.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-045.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Phát triển giọng văn và phong cách riêng
 
@@ -113,7 +113,7 @@ Khi đã tìm ra giọng văn của mình, hãy giữ phong cách viết nhất 
 
 Viết là một kỹ năng cần sự [luyện tập thường xuyên](https://nhavantuonglai.com/article) để trở nên thành thạo. Hãy dành thời gian viết hàng ngày, bất kể là viết nhật ký, viết blog hay viết truyện ngắn. Việc viết thường xuyên sẽ giúp bạn phát triển phong cách riêng và cải thiện kỹ năng viết một cách tự nhiên.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-046.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-046.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ### Đặt mục tiêu cụ thể
 
@@ -133,7 +133,7 @@ Hãy nghiên cứu tác phẩm của các [nhà văn vĩ đại](https://nhavant
 
 Tham gia các [khóa học viết lách](https://nhavantuonglai.com/article) tại các trường đại học, trung tâm đào tạo hoặc trực tuyến là cách tốt để nâng cao kỹ năng viết của bạn. Các khóa học này cung cấp kiến thức lý thuyết và thực hành, giúp bạn hiểu rõ hơn về quy trình viết và cách cải thiện bài viết của mình.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-047.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-047.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Đón nhận và học hỏi từ phản hồi
 
@@ -155,10 +155,10 @@ Tham gia các [diễn đàn viết lách](https://nhavantuonglai.com/article) tr
 
 Tìm một hoặc nhiều người đồng hành trong hành trình viết lách sẽ giúp bạn có thêm động lực và sự hỗ trợ. Bạn có thể cùng nhau viết, đọc và nhận xét tác phẩm của nhau, chia sẻ kinh nghiệm và học hỏi lẫn nhau. Một người đồng hành tốt sẽ giúp bạn vượt qua những khó khăn và thách thức trong quá trình viết.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-048.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-048.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Kết luận
 
 Phát triển [tư duy viết lách](https://nhavantuonglai.com/article) hữu hiệu đòi hỏi sự kết hợp giữa kỹ thuật, cảm hứng và kiên trì. Từ việc tìm kiếm nguồn cảm hứng, sử dụng các kỹ thuật brainstorming, phát triển câu chuyện, đến việc sử dụng ngôn ngữ và phong cách, tất cả đều đóng vai trò quan trọng trong việc nâng cao kỹ năng viết. Hãy luôn mở rộng kiến thức, lắng nghe phản hồi, và không ngừng thử nghiệm để phát triển phong cách riêng và kỹ năng viết của bạn. Viết lách không chỉ là một kỹ năng mà còn là một hành trình khám phá bản thân và thể hiện sáng tạo.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-211.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-211.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

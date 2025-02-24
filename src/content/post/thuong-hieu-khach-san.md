@@ -3,7 +3,7 @@ pubDatetime: 2022-07-26T10:10:00Z
 title: Quan hệ công chúng (PR) cho khách sạn và những gì cần biết
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
 featured: false
-image: https://banmaixanh.org/image/cover/001-649.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-649.jpg
 tags:
   - viet thue
   - marketing
@@ -29,7 +29,7 @@ PR là một phần quan trọng trong chiến lược tiếp thị khách sạn
 
 Ví dụ, tập trung vào khía cạnh nhận thức về giá, chiến dịch PR cho khách sạn tập trung vào thông điệp: giảm 25% giá phòng vào thứ 2 đầu tuần, không kèm điều kiện. Khi chiến dịch diễn ra và kéo dài, khách đặt phòng việc giảm 25% là hiển nhiên chứ không phải vì khuyến mãi.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-031.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-031.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## 5 giải pháp PR cho tiếp thị khách sạn
 
@@ -59,7 +59,7 @@ Khi khách sạn tổ chức các sự kiện, hoạt động cụ thể như kh
 
 Bên cạnh đó, các khách sạn cũng có thể tham gia các sự kiện, hội nghị dành cho khách sạn. Thông qua những sự kiện ấy, khách sạn của bạn có thể mở rộng mối quan hệ để hợp tác, tìm kiếm khách hàng tiềm năng, cũng như nâng cao nhận diện thương hiệu trên thị trường.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-032.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-032.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Ý tưởng nội dung PR cho khách sạn
 
@@ -93,10 +93,10 @@ Brian Povinelli, phó chủ tịch cấp cao mảng Brand, Loyalty, và Portfoli
 
 Chiến dịch này vừa là chiến dịch tuyển dụng đầy sáng tạo, vừa là cơ hội để PR cho khách sạn khi những người chiến thắng sẽ chia sẻ trải nghiệm của họ trong 300 ngày kế tiếp, với nhiều người theo dõi chuyến phiêu lưu của họ.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-033.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-033.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Kết luận
 
 PR cho khách sạn là công cụ [Marketing khách sạn hiệu quả](https://nhavantuonglai.com/article), để tăng độ phủ và kinh doanh tốt hơn. Khách sạn có thể sử dụng PR để kết nối và giao tiếp với khách hàng của mình thông qua những câu chuyện, nội dung thú vị. PR là giải pháp không thể thiếu để tiếp cận, và khiến khách hàng thiện cảm hơn về khách sạn của bạn. Cho nên, nếu trong hiện tại chưa áp dụng, thì đã đến lúc để nói bắt đầu.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-610.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-610.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>

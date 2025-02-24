@@ -3,7 +3,7 @@ pubDatetime: 2023-01-28T10:10:00Z
 title: Các định dạng file âm thanh phổ biến hiện nay
 description: Trong thế giới âm nhạc số, định dạng file âm thanh đóng vai trò quan trọng trong việc lưu trữ và phát lại âm thanh.
 featured: false
-image: https://banmaixanh.org/image/cover/001-432.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-432.jpg
 tags:
   - viet lach
   - thuong thuc am thanh
@@ -154,4 +154,4 @@ OGG mang lại chất lượng âm thanh tốt ở mức nén tương đối cao
 
 Các định dạng file âm thanh đóng vai trò quan trọng trong việc lưu trữ và phát lại âm thanh. Hiểu rõ về các định dạng file âm thanh như MP3, WAV, FLAC, AAC, và OGG sẽ giúp bạn chọn lựa phù hợp với nhu cầu sử dụng và thiết bị của mình. Hy vọng bài viết này đã cung cấp cho bạn những thông tin hữu ích về các định dạng file âm thanh, ưu và nhược điểm của chúng, và trải nghiệm thực tế khi sử dụng.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-211.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-211.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

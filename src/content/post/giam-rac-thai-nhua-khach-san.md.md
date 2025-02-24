@@ -3,7 +3,7 @@ pubDatetime: 2023-04-23T10:10:00Z
 title: 4 cách giảm nhựa trong khách sạn
 description: Có nhiều cách để giảm việc sử dụng nhựa trong khách sạn của bạn, và chúng ta sẽ xem xét chi tiết trong bài viết này.
 featured: false
-image: https://banmaixanh.org/image/cover/001-449.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-449.jpg
 tags:
   - viet thue
   - marketing
@@ -78,4 +78,4 @@ Hoặc, đặt các thùng đó trong phòng để khuyến khích khách hàng 
 
 Chúng ta đã khám phá những cách tốt nhất để giảm nhựa trong khách sạn vì mục đích môi trường. Những biện pháp thân thiện với môi trường này cũng có thể tiết kiệm chi phí và làm cho khách sạn của bạn hấp dẫn hơn đối với những loại khách hàng mới. Nhìn chung, bằng cách giảm nhựa, các khách sạn có thể chủ động thực hiện các bước để bảo vệ hành tinh trong khi tác động tích cực đến hoạt động kinh doanh.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-310.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-310.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>

@@ -3,7 +3,7 @@ pubDatetime: 2024-07-27T10:10:00Z
 title: Bài viết trên Instagram ngày 27 tháng 07 năm 2024
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-739.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-739.jpg
 tags:
   - viet lach
   - doan van
@@ -22,4 +22,4 @@ những trải nghiệm trên và thêm nhiều điều khác nữa, mình cảm
 
 thắc mắc ấy được giải đáp cách đây khoảng 1 năm, khi mẹ kể rằng sau mấy hồi chần chừ thì ba cũng chịu vào hội Cựu chiến binh của xã. ngạc nhiên tìm hiểu thì mình phát hiện, hội tồn tại trước là tạo không gian sinh hoạt cho các cụ, còn sau là để giáo dục truyền thống với lớp trẻ. nên là giờ, khi một cựu chiến binh mất đi thì những giá trị và cảm hứng từ họ vẫn còn đó, khi đã kịp trao truyền cho những chiến binh kế cận còn đang trẻ.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-267.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-267.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

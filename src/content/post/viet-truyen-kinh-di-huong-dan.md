@@ -3,7 +3,7 @@ pubDatetime: 2021-03-11T10:10:00Z
 title: Cách viết truyện trinh thám với 4 bước đơn giản
 description: Truyện trinh thám kinh dị là một hành trình kích thích trí óc bằng sự tò mò, sợ hãi và những điều không tưởng. Cách viết truyện trinh thám, kinh dị cũng cần sự sáng tạo và những nguyên tắc nhất định.
 featured: false
-image: https://banmaixanh.org/image/cover/001-249.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-249.jpg
 tags:
   - viet lach
   - ky nang viet
@@ -43,7 +43,7 @@ Một số truyện trinh thám kinh dị nổi tiếng có thể kể đến nh
 
 Như vậy, truyện trinh thám kinh dị là sự kết hợp giữa yếu tố ly kỳ và hấp dẫn, khiến độc giả phải luôn suy đoán _đâu là hung thủ thật sự_ của câu chuyện, và kết quả cuối cùng là kết luận được rút ra, giúp họ ngẫm nghĩ sâu sắc, nhìn nhận lại câu chuyện và hình thành thái độ, ý thức đúng đắn trong đời sống thực.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-081.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-081.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Cách viết truyện trinh thám kinh dị trong 4 bước
 
@@ -59,7 +59,7 @@ Còn nếu nhân vật chính của bạn là luật sư bào chữa, bạn ph�
 
 Việc nghiên cứu trước khi bắt tay vào viết truyện trinh thám kinh dị là yếu tố cần thiết, giúp thiết lập cối cảnh câu chuyện và những yếu tố chuyên môn trở nên đáng tin cậy, thuyết phục được người đọc về tính thực tế và hợp logic của câu chuyện. Sự nghiên cứu và tìm tòi cũng giúp bạn hiểu rõ hơn về bối cảnh, bản chất vai trò đảm nhận của từng nhân vật để [xây dựng tính cách, hành xử](https://nhavantuonglai.com/article) sao cho hợp lý.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-082.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-082.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ### Xây dựng tính phức tạp cho nhân vật
 
@@ -71,7 +71,7 @@ Harry Bosch trong truyện của Michael Connelly là một nhân vật tự ph�
 
 Cấu trúc, câu chuyện cho nhân vật trong truyện trinh thám kinh dị thường đặt giữa 2 yếu tố là _thiện_ và _ác._ Nhưng [một nhà văn giỏi](https://nhavantuonglai.com/article) là biết cách khám phá, làm rõ sự mơ hồ giữa 2 yếu tố ấy. Họ biết cách tạo ra một nhân vật với mặt tốt và xấu đan xen, những rào cản và vấn đề ảnh hưởng đến hành trình của nhân vật, cũng như những đức tính và khuyến khuyết luôn song hành. Sự phát triển của nhân vật chính là chìa khóa để tạo nên sự hấp dẫn, giá trị cho câu chuyện, khiến chúng trở nên hấp dẫn, thuyết phục và đáng nhớ. Vậy nên, hãy luôn tạo ra sự đa dạng và phức tạp nhưng đầy nhất quán cho nhân vật của bạn, có như vậy thì truyện trinh thám kinh dị mà bạn định viết mới thật sự thú vị để đọc.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-083.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-083.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ### Xây dựng câu chuyện cho nhân vật
 
@@ -83,7 +83,7 @@ Trong một vài truyện trinh thám kinh dị khác, đời sống của nhân
 
 Nếu bối cảnh câu chuyện thiếu đời sống thường ngày, nhân vật sẽ trở nên _mỏng_ và _nông_ hơn, khiến những cảm xúc và hành vi được bày tỏ trở nên thiếu thuyết phục và khó gây đồng cảm. Như vậy, chúng sẽ là chất liệu giúp tạo ra câu chuyện thú vị, hấp dẫn và ngập tràn cảm xúc cho truyện trinh thám kinh dị mà bạn đang tạo ra.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-084.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-084.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ### Dành thời lượng cho nhân vật phụ
 
@@ -95,7 +95,7 @@ Ví dụ, trong _A Time to Kill_ của John Grisham, nhân vật chính là lu�
 
 Một ví dụ khác là trong _The Firm_ của John Grisham, với hệ thống nhân vật phụ bao gồm các thư ký, kế toán và thực tập sinh. Họ đóng vai trò là cộng sự, đồng nghiệp cạnh tranh, đối thủ hoặc những nhân vật tiết lộ mấu chốt bất ngờ khiến câu chuyện được đẩy đến cao trào. Họ cũng phản ánh những vấn đề, áp lực, động lực lẫn mục tiêu mà người trong ngành luật phải đối mặt. Và đương nhiên, những rắc rối lẫn sự hỗ trợ, bất ngờ đầy toan tính trong hành trình nhân vật chính phát hiện ra rằng công ty mà anh ta đang làm thực chất là một tổ chức tội phạm. Câu chuyện dần bắt đầu khi anh ta trở thành mục tiêu săn đuổi của cả FBI lẫn tổ chức tội phạm, và trong hành trình ấy anh được giúp đỡ bởi thư ký Abby Sutherland, kế toán Eddie Lomax, và thực tập sinh Ray McDeere.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-085.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-085.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 Như vậy, hệ thống nhân vật phụ với những câu chuyện, diễn biến của họ sẽ làm mạch truyện chính trở nên hấp dẫn và thú vị, và nhân vật chính cũng được đặt trong những bối cảnh cụ thể, cần thiết để nêu bật lên giá trị và tinh thần mà tác giả muốn truyền tải.
 
@@ -243,4 +243,4 @@ Chỉnh sửa là bước cuối cùng nhưng không kém phần quan trọng đ
 
 Tổng quan lại, để viết truyện trinh thám kinh dị, bạn cần chuẩn bị bối cảnh, nhân vật chính và câu chuyện của họ, nhân vật phụ và tác động liên quan, bên cạnh động cơ và mục tiêu cốt lõi của tác phẩm. Một truyện trinh thám kinh dị hay phải hòa hợp được các yếu tố đó, được kết hợp linh hoạt và tạo ra sức hấp dẫn cụ thể cho tác phẩm.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-233.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-233.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

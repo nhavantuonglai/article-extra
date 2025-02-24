@@ -3,7 +3,7 @@ pubDatetime: 2021-12-05T10:10:00Z
 title: Đưa tin giá vàng hôm nay thì nhiều giải thích thì ít
 description: Chuỗi bài viết của nhavantuonglai về kinh doanh vàng bạc đá quý và quỹ đầu tư sẽ giúp nhà đầu tư khởi nghiệp hiệu quả.
 featured: false
-image: https://banmaixanh.org/image/cover/001-397.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-397.jpg
 tags:
   - viet thue
   - marketing
@@ -56,4 +56,4 @@ Hiện tại, có hai dạng đưa tin giá vàng kèm phân tích, bao gồm gi
 
 Như vậy, rõ ràng đưa tin giá vàng hôm nay thì nhiều giải thích thì ít là không nhận định chưa đủ cơ sở và không phải trang tin nào cũng như thế. Việc phân lọc thông tin, cập nhật riêng biệt từng nhóm nội dung sẽ là một lựa chọn phù hợp để mỗi một người dùng có cho mình những nhận định và phân tích cần thiết mỗi khi cần tìm hiểu giá vàng hiện nay đang diễn biến như thế nào.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-397.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-397.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

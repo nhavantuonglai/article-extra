@@ -3,7 +3,7 @@ pubDatetime: 2019-06-07T10:10:00Z
 title: Bài viết trên Instagram ngày 23 tháng 06 năm 2019
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - viet lach
   - doan van
@@ -20,4 +20,4 @@ sự lệch lạc trong cách nhìn nhận của người lớn, sự 
 
 nên nhiều lúc, mình không biết phải mở lời như thế nào với người cần phải mở lời, bởi nếu nói ra họ sẽ buồn nhiều lắm, nhưng nếu không nói ra thì họ lại tiếp làm mình trầy xước nhiều lắm. chính vì thế, với mình việc học cách lắng nghe và thấu hiểu chưa bao giờ phải cố gắng, bởi đó là điều cần để thấy cuộc sống này đáng tử tế thế nào…
 
-<figure><img src="https://banmaixanh.org/image/cover/001-211.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-211.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

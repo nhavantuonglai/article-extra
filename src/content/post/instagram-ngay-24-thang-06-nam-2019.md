@@ -3,7 +3,7 @@ pubDatetime: 2019-06-07T10:10:00Z
 title: Bài viết trên Instagram ngày 24 tháng 06 năm 2019
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - viet lach
   - doan van
@@ -22,4 +22,4 @@ có những cuốn ở phòng trọ cũ, mình lôi ra không phải
 
 có lẽ mình sẽ đợi, đến khi thật sự ổn định, ở đây hay ở nơi nào đó, thì mới nghĩ đến chuyện sách vở về chung một nhà, còn ở thời điểm này thì cứ đọc hết với mượn ké về đọc vậy.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-221.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-221.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

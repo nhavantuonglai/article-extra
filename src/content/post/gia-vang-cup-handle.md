@@ -3,7 +3,7 @@ pubDatetime: 2021-11-16T10:10:00Z
 title: Mô hình Cup and Handle trên biểu đồ giá vàng
 description: Chuỗi bài viết của nhavantuonglai về kinh doanh vàng bạc đá quý và quỹ đầu tư sẽ giúp nhà đầu tư khởi nghiệp hiệu quả.
 featured: false
-image: https://banmaixanh.org/image/cover/001-419.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-419.jpg
 tags:
   - viet thue
   - marketing
@@ -112,4 +112,4 @@ Bên cạnh đó, bạn cũng cần theo dõi dòng dịch chuyển của kinh t
 
 Với những thông tin trên đây, mong rằng các bạn đã biết cách đầu tư có hiệu quả, chất lượng hơn. Điều này sẽ giúp ích rất nhiều trong việc khôi phục dòng tiền cá nhân sau đợt dịch Covid 19 này. Bên cạnh đó, cũng đừng quá nóng vội mà đặt lệch giao dịch nhanh. Với mô hình Cup and Handle, thì điều quan trọng nhất chính là sự bình tĩnh, chậm rãi, chắn chắn.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-281.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-281.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

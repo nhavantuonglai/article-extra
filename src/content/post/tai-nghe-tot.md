@@ -3,7 +3,7 @@ pubDatetime: 2021-02-15T10:10:00Z
 title: Hướng dẫn cách chọn tai nghe tốt
 description: Chọn một cặp tai nghe tốt có thể là một nhiệm vụ khó khăn, đặc biệt là khi thị trường hiện nay có vô số lựa chọn với nhiều tính năng và thiết kế khác nhau.
 featured: false
-image: https://banmaixanh.org/image/cover/001-539.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-539.jpg
 tags:
   - viet lach
   - thuong thuc am thanh
@@ -155,4 +155,4 @@ Một số tính năng và công nghệ hiện đại như chống ồn chủ đ
 
 Chọn một cặp tai nghe tốt không phải là nhiệm vụ dễ dàng, nhưng với những gợi ý trên, hy vọng bạn sẽ tìm được cặp tai nghe phù hợp nhất với nhu cầu của mình. Hãy nhớ rằng, chất lượng âm thanh, sự thoải mái, tính năng và độ bền là những yếu tố quan trọng nhất khi chọn tai nghe. Chúc bạn tìm được cặp tai nghe ưng ý và tận hưởng âm nhạc một cách trọn vẹn nhất.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-211.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-211.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

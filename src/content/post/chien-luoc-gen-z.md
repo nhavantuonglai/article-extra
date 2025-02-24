@@ -3,7 +3,7 @@ pubDatetime: 2022-02-23T10:10:00Z
 title: 9 chiến lược thu hút du khách Gen Z trong ngành khách sạn
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
 featured: false
-image: https://banmaixanh.org/image/cover/001-517.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-517.jpg
 tags:
   - viet thue
   - marketing
@@ -47,7 +47,7 @@ Những việc cần làm, phải có bao gồm:
 
 Các khách sạn hiển thị tốt trên internet là các khách sạn thu hút tốt và được các du khách gen Z tìm kiếm, đặt phòng khách sạn. Ngoài ra, những trải nghiệm mang tính cộng đồng như thân thiện với môi trường, áp dụng văn hóa bản địa, hoặc các tiện nghi mang tính đặc trưng khác cũng thu hút và nằm trong sự lựa chọn của du khách gen Z.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-004.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-004.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Đánh giá trực tuyến
 
@@ -73,7 +73,7 @@ Những công nghệ khách sạn cơ bản và nâng cao mà khách sạn của
 
 – …
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-005.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-005.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Thân thiện với công việc lẫn thư giãn
 
@@ -137,10 +137,10 @@ Bởi vậy, khi một khách sạn không thực hành thân thiện với môi
 
 – …
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-006.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-006.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Kết luận
 
 Tóm lại, ngành khách sạn phải thay đổi và phát triển, nhằm thu hút du khách gen Z bởi trong tương lai gần – đây là nhóm khách hàng tiềm năng lớn nhất mà khách sạn của bạn chào đón. Điều quan trọng cần lưu ý rằng: Để thu hút được du khách gen Z, khách sạn phải phải thấu hiểu, và khai thác tốt sở thích, nhu cầu của họ. Không chỉ là những trải nghiệm độc đáo và khác biệt, khách sạn phải đồng hành cùng những trải nghiệm của họ, từ đó cung cấp nhiều hơn nữa những dịch vụ, tiện ích phù hợp.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-614.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-614.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>

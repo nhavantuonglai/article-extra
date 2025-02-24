@@ -3,7 +3,7 @@ pubDatetime: 2021-03-26T10:10:00Z
 title: Hướng dẫn học viết SEO chuyên nghiệp cho người không chuyên
 description: Trong thời đại kỹ thuật số hiện nay, sự hiện diện trực tuyến là yếu tố không thể thiếu đối với bất kỳ doanh nghiệp nào.
 featured: false
-image: https://banmaixanh.org/image/cover/001-110.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-110.jpg
 tags:
   - viet lach
   - ky nang viet
@@ -24,7 +24,7 @@ SEO (Search Engine Optimization) là quá trình tối ưu website để cải t
 
 Một website được tối ưu tốt không chỉ giúp tăng lưu lượng truy cập mà còn cải thiện trải nghiệm người dùng, tăng tỷ lệ chuyển đổi và cuối cùng là doanh thu cho doanh nghiệp. Việc viết nội dung chuẩn SEO là một phần không thể thiếu trong quá trình này, vì nội dung chất lượng cao và tối ưu sẽ giúp website của bạn được công cụ tìm kiếm đánh giá cao.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-001.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-001.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Khóa học viết SEO là gì?
 
@@ -40,7 +40,7 @@ Một website được tối ưu tốt không chỉ giúp tăng lưu lượng tr
 
 – Phân tích và đo lường hiệu quả SEO: Sử dụng các công cụ phân tích để theo dõi và cải thiện hiệu quả của chiến lược SEO.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-002.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-002.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Lợi ích của khóa học viết SEO
 
@@ -56,7 +56,7 @@ Tham gia khóa học viết SEO mang lại nhiều lợi ích đáng kể:
 
 – [Phát triển sự nghiệp](https://nhavantuonglai.com/article): Kỹ năng viết SEO là một trong những kỹ năng được các nhà tuyển dụng đánh giá cao. Nắm vững kỹ năng này có thể mở ra nhiều cơ hội nghề nghiệp trong lĩnh vực tiếp thị kỹ thuật số.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-003.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-003.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Nội dung chi tiết của khóa học viết SEO
 
@@ -72,7 +72,7 @@ Hiểu biết về các nguyên tắc cơ bản của SEO là nền tảng cho b
 
 – Tầm quan trọng của SEO: Tại sao việc tối ưu website lại quan trọng và nó có thể ảnh hưởng đến kinh doanh của bạn như thế nào.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-004.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-004.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ### Nghiên cứu từ khóa
 
@@ -97,7 +97,7 @@ tối ưu hình ảnh: Sử dụng thẻ alt và đặt tên tệp hình ảnh c
 
 – [Liên kết nội bộ](https://nhavantuonglai.com/article): Cách sử dụng liên kết nội bộ để điều hướng người dùng và phân phối sức mạnh SEO trên website của bạn.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-005.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-005.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ### Liên kết nội bộ và liên kết ngoài
 
@@ -117,7 +117,7 @@ Liên kết là một yếu tố quan trọng trong SEO. Trong phần này, bạ
 
 – Phân tích cạnh tranh: Nghiên cứu đối thủ cạnh tranh để hiểu rõ hơn về chiến lược SEO của họ và tìm ra cơ hội để cải thiện website của bạn.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-006.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-006.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Cách áp dụng kiến thức từ khóa học viết SEO
 
@@ -151,7 +151,7 @@ Kể chuyện là một trong những cách hiệu quả nhất để tạo ra n
 
 Hình ảnh và video không chỉ làm cho nội dung trở nên sinh động mà còn giúp giải thích các ý tưởng phức tạp một cách dễ hiểu. Hãy chắc chắn rằng bạn tối ưu hình ảnh và video cho SEO bằng cách sử dụng từ khóa trong tên tệp và thẻ alt.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-007.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-007.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ### Đa dạng hóa nội dung
 
@@ -163,4 +163,4 @@ Hình ảnh và video không chỉ làm cho nội dung trở nên sinh động m
 
 SEO không phải là một lĩnh vực dễ dàng, nhưng với sự kiên trì, nỗ lực và sáng tạo, bạn hoàn toàn có thể trở thành một chuyên gia viết SEO. Hãy bắt đầu hành trình của bạn ngay hôm nay và khám phá những cơ hội tuyệt vời mà SEO mang lại cho sự nghiệp và doanh nghiệp của bạn.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-246.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-246.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

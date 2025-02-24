@@ -3,7 +3,7 @@ pubDatetime: 2022-07-17T10:10:00Z
 title: 10 phương pháp hiệu quả để tăng RevPAR cho khách sạn của bạn
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
 featured: false
-image: https://banmaixanh.org/image/cover/001-249.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-249.jpg
 tags:
   - viet thue
   - marketing
@@ -47,7 +47,7 @@ Như vậy, ngày hôm đó, khách sạn đã thu về 80$ từ mỗi phòng. B
 
 Hãy suy nghĩ về điều này: Bạn muốn kiếm nhiều hơn hơn bằng cách tăng giá phòng nhưng ít khách, hay giảm giá để bán được nhiều phòng hơn? Bạn tự do lựa chọn quyết định cho vấn đề này.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-117.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-117.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Tầm quan trọng của RevPAR với khách sạn
 
@@ -93,7 +93,7 @@ Có thể bạn không biết, nhưng RevPAR tỷ lệ thuận với ADR của k
 
 Dựa trên những gợi ý này, khách sạn có thể áp dụng chính sách cho phù hợp, bằng cách xem xét các yếu tố khác nhau – bạn sẽ làm tăng doanh thu tổng thể nhưng không tăng RevPAR của khách sạn mình.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-118.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-118.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Cân bằng tỷ lệ lấp đầy của bạn và ADR
 
@@ -127,7 +127,7 @@ Ngoài ra, khách sạn cũng nên tăng cường khả năng chuyển đổi kh
 
 Khi mà lượng đặt phòng trực tiếp qua website đủ đảm bảo, khách sạn có thể dần giảm phụ thuộc vào các trang kênh OTA.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-119.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-119.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Giảm tỷ lệ hủy
 
@@ -167,7 +167,7 @@ Nếu chưa biết nên bắt đầu từ đâu, hãy tham khảo gợi ý từ 
 
 Khi đánh giá về khách sạn được phản hồi nhiệt tình, khách hàng sẽ có thêm niềm tin vào lựa chọn của họ và dễ dàng giúp tăng khả năng ra quyết định đặt phòng tại khách sạn của bạn.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-121.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-121.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Tăng cường Digital Marketing
 
@@ -195,7 +195,7 @@ Nếu khách sạn chưa có, hãy triển khai ngay lập tức, bởi đó là
 
 Điều quan trọng cần lưu ý, là phần thưởng cho khách hàng thân thiết phải có giá trị thiết thực, có khả năng sử dụng trong thực tế, ví dụ như giảm giá cho lần thuê tiếp theo, thay vì gom điểm rồi thưởng một lần. Khi xây dựng chiến lược hướng đến quyền lợi của khách hàng, họ sẽ quay trở lại và chọn khách sạn của bạn thay vì các thương hiệu khác.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-132.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-132.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Câu hỏi thường gặp
 
@@ -243,7 +243,7 @@ cũng phải cao hơn.
 
 – Thời gian lưu trú trung bình.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-141.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-141.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Kết luận
 
@@ -275,4 +275,4 @@ Lợi nhuận gộp từ hoạt động kinh doanh trên mỗi phòng có sẵn 
 
 Trên đây là các chỉ số để tính RevPAR, bên cạnh những chỉ số khác để tính hiệu suất vận hành khách sạn. Dựa theo đó, khách sạn có thể tính toán mức độ vận hành hiệu quả và cải thiện nó trong tương lai gần.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-214.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-214.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>

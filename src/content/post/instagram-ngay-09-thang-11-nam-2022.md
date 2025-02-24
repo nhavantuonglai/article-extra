@@ -3,7 +3,7 @@ pubDatetime: 2022-11-09T10:10:00Z
 title: Bài viết trên Instagram ngày 09 tháng 11 năm 2022
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - viet lach
   - doan van
@@ -20,4 +20,4 @@ vậy cho nên, anh an toàn trong công việc hiện tại, hay dám chấp nh
 
 tạm biệt anh khi vọng tiếng gọi chồng vào nấu cơm, mình chào và không quên chúc anh vững tin thêm chút nữa. mình không biết khi gặp lại anh sẽ nói gì, nhưng ngày ấy vẫn còn xa xôi; bởi túi mèo vẫn trông khá đẹp và bền, ít nhất là thêm vài năm.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

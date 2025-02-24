@@ -3,7 +3,7 @@ pubDatetime: 2021-11-07T10:10:00Z
 title: Bài viết trên Instagram ngày 11 tháng 12 năm 2021
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - viet lach
   - doan van
@@ -20,4 +20,4 @@ sau này, điều ấy dần trở nên gọn gàng, để mình diễn tả t�
 
 việc hạ thấp kỳ vọng của bản thân khi đón nhận thành quả, nhưng đề cao và chỉn chu trải nghiệm khi làm một điều gì đó, với mình là cách để cảm nhận sức mạnh mà điều ấy tạo ra – nhưng không đủ nặng để hình thành áp lực, khiến chúng ta dễ bị cuốn nhịp theo nó. điều này có thể sẽ không đúng với tất cả mọi người, trong mọi hành vi và mục tiêu hướng đến. nhưng khi một ai đó hỏi chuyện, mình đang sống và quyết định sống như thế nào; thì đó là câu trả lời đơn giản và duy nhất mình có.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

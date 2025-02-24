@@ -3,7 +3,7 @@ pubDatetime: 2020-12-07T10:10:00Z
 title: Bài viết trên Instagram ngày 19 tháng 12 năm 2020
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-343.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-343.jpg
 tags:
   - viet lach
   - doan van
@@ -24,4 +24,4 @@ mình chạy sang đồn Mang Cá trong thơ Tố Hữu, chạy qua nhu
 
 mình cứ chạy, cứ miệt mài đạp xe mà không dự tính gì. nếu có, chắc cũng chỉ là vừa chạy vừa hóng gió, lại thả trôi đầu óc và cho nó rời xa những căng thẳng bộn bề…
 
-<figure><img src="https://banmaixanh.org/image/cover/001-310.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-310.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

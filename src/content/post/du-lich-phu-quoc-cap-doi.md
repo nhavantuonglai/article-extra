@@ -3,7 +3,7 @@ pubDatetime: 2021-09-19T10:10:00Z
 title: Những gợi ý du lịch Phú Quốc cho cặp đôi không nên bỏ qua
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
 featured: false
-image: https://banmaixanh.org/image/cover/001-652.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-652.jpg
 tags:
   - viet thue
   - marketing
@@ -54,4 +54,4 @@ Nếu bạn và người thương thích phiêu lưu và khám phá, đừng b�
 
 Chưa hết đâu, bởi khi mặt trời tắt, trải nghiệm câu mực sẽ tiếp tục để khiến buổi tối trở nên hấp dẫn và vô cùng thú vị. Thành quả của chuyến đi câu có thể chế biến và thưởng thức ngay trên thuyền, tạo nên một trải nghiệm ẩm thực vô cùng đáng nhớ.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-510.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-510.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

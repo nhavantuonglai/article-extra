@@ -3,7 +3,7 @@ pubDatetime: 2023-07-15T10:10:00Z
 title: 7 cách để quản lý nhân viên tiệm Spa hiệu quả hơn
 description: Tìm hiểu các chiến lược tiếp thị Spa hiệu quả trong chuỗi bài viết sau của nhavantuonglai để áp dụng và đem lại hiệu quả thiết thực cho giải pháp của bạn.
 featured: false
-image: https://banmaixanh.org/image/cover/001-727.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-727.jpg
 tags:
   - viet thue
   - marketing
@@ -133,4 +133,4 @@ Cho nên, nếu bạn chưa tạo điều kiện cho nhân viên mình học t�
 
 Tựu trung lại, việc quản lý nhân viên của tiệm Spa không phải là điều dễ dàng như đi dạo trong công viên. Nhưng hãy luôn nhớ rằng, phúc lợi, tin tưởng, tạo cơ hội cho nhân viên là chìa khóa để quản lý, gìn giữ và thu hút nhân viên tài năng cho tiệm của mình. Các gợi ý trên đây, bạn có thể thực hiện riêng lẻ, hoặc linh hoạt kết hợp để đem lại hiệu quả như mong muốn, giúp hiệu suất công việc được cải thiện và doanh thu của tiệm tăng trưởng rõ ràng.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-514.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-514.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

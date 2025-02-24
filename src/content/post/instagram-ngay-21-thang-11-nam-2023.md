@@ -3,7 +3,7 @@ pubDatetime: 2023-12-21T10:10:00Z
 title: Bài viết trên Instagram ngày 21 tháng 11 năm 2023
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-132.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-132.jpg
 tags:
   - viet lach
   - doan van
@@ -22,4 +22,4 @@ nhưng sự hoài nghi ấy thường không tồn tại lâu, bởi tiếp câu
 
 vì vậy, viết với mình vừa là nguồn sống (theo đúng nghĩa), là sự kết nối với thế giới bên ngoài; mà cũng là sự chăm sóc tinh thần bên trong. có thể, không phải lúc nào mình cũng hạnh phúc để cảm nhận cuộc sống, nhưng mình vẫn miệt mài viết, viết hơn cả một thói quen.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

@@ -3,7 +3,7 @@ pubDatetime: 2019-07-07T10:10:00Z
 title: Bài viết trên Instagram ngày 21 tháng 07 năm 2019
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - viet lach
   - doan van
@@ -24,4 +24,4 @@ một hôm nọ, Hẻm sắp đóng cửa và mình vẫn chưa muốn về, ch�
 
 vốn, mình định dành cho chị sự bất ngờ, nhưng chị làm mình bất ngờ hơn khi chị đang ở Đà Nẵng. với rất nhiều sự tiếc nuối, mình tóm tắt hành trình, mục đích và mong ngóng một ngày nào đó, sẽ sớm gặp lại chị, không là câu tạm biệt thì cũng là hỏi han chân tình xem chị lúc ấy sống thế nào…
 
-<figure><img src="https://banmaixanh.org/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

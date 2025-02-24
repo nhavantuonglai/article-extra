@@ -3,7 +3,7 @@ pubDatetime: 2019-03-07T10:10:00Z
 title: Bài viết trên Instagram ngày 26 tháng 03 năm 2019
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-343.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-343.jpg
 tags:
   - viet lach
   - doan van
@@ -20,4 +20,4 @@ hay, học Sư Phạm, nên quen nhiều bạn theo nghề, mỗi khi ga
 
 quy chiếu vào bản thân, quan sát và lắng nghe những chuyện xung quanh, mình hao hao cảm nhận được điều ấy. nó dường như là sự đánh đổi, tạo nên những cá thể riêng biệt đầy sắc màu, và làm những giá trị của thế hệ cũ vừa xa xời, lại có chút gì đó để nuối tiếc…
 
-<figure><img src="https://banmaixanh.org/image/cover/001-330.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-330.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

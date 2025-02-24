@@ -3,7 +3,7 @@ pubDatetime: 2024-11-11T10:10:00Z
 title: Bài viết trên Instagram ngày 11 tháng 11 năm 2024
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-344.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-344.jpg
 tags:
   - viet lach
   - doan van
@@ -20,4 +20,4 @@ dẫu vậy, quẻ bói Kiều khi bói ra thì mình vẫn giữ cho riêng ch�
 
 có lẽ sâu xa đâu đó ở bên trong, mình vẫn là người vô thần, nên chưa sẵn sàng đón nhận một đức tin mới. mà nếu thế thật thì chắc cũng chẳng sao đâu nhỉ, vì mình vẫn sẵn lòng đắm chìm trong bầu không khí ngập tràn tôn giáo ở những nơi mình đi qua, ở những nơi mình được đặt chân đến, và trước mặt những người đang sẵn lòng san sẻ nhiều điều từ đức tin mà họ hướng đến.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-150.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-150.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

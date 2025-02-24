@@ -3,7 +3,7 @@ pubDatetime: 2023-02-09T10:10:00Z
 title: Tăng doanh thu nhà hàng của bạn với Công thức RevPASH
 description: Tìm hiểu các chiến lược tiếp thị nhà hàng hiệu quả trong chuỗi bài viết sau của nhavantuonglai để áp dụng và đem lại hiệu quả thiết thực cho giải pháp của bạn.
 featured: false
-image: https://banmaixanh.org/image/cover/001-205.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-205.jpg
 tags:
   - viet thue
   - marketing
@@ -112,4 +112,4 @@ Ngoài những giải pháp trên, các nhà hàng còn có thể áp dụng cô
 
 Tổng kết lại, RevPASH là một chỉ số quan trọng và hữu ích với các nhà hàng. Biết cách tính và khai thác chúng một cách có hiệu quả, sẽ đem lại nhiều lợi ích thiết thực cho nhà hàng của bạn.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-300.jpg" alt="nha hang, am thuc." title="nha hang, am thuc." height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-300.jpg" alt="nha hang, am thuc." title="nha hang, am thuc." height=100% width=100%><figcaption><p></p></figcaption></figure>

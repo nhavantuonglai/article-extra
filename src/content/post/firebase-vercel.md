@@ -3,7 +3,7 @@ pubDatetime: 2024-04-27T10:10:00Z
 title: Sự khác biệt giữa Firebase và Vercel là gì?
 description: Trong thế giới của các nhà phát triển website, việc lựa chọn nền tảng hosting miễn phí phù hợp có thể đóng vai trò quyết định trong sự thành công của một dự án.
 featured: false
-image: https://banmaixanh.org/image/cover/001-742.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-742.jpg
 tags:
   - google
   - google console
@@ -37,7 +37,7 @@ Vercel là một nền tảng cloud platform dành cho các nhà phát triển, 
 
 – Vercel Platform: Vercel cung cấp một môi trường triển khai mạnh mẽ cho các ứng dụng website tĩnh và dynamic, với tích hợp CDN tự động, HTTPS miễn phí, và nhiều tính năng giúp tối ưu hiệu suất website.
 
-<figure><img src="https://banmaixanh.org/image/article/website-deploy-05.jpg" alt="vercel-website-deploy-nhavantuonglai" title="vercel-website-deploy-nhavantuonglai" height=100% width=100%><figcaption><p>vercel-website-deploy-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/website-deploy-05.jpg" alt="vercel-website-deploy-nhavantuonglai" title="vercel-website-deploy-nhavantuonglai" height=100% width=100%><figcaption><p>vercel-website-deploy-nhavantuonglai</p></figcaption></figure>
 
 ## Cách triển khai, deploy website trên Firebase và Vercel
 
@@ -61,7 +61,7 @@ Triển khai trên Vercel cũng rất dễ dàng và được tự động hóa 
 
 – Triển khai tự động: Mỗi khi bạn đẩy (push) mã nguồn mới lên repository, Vercel sẽ tự động triển khai lại website của bạn. Bạn không cần phải thực hiện bất kỳ lệnh nào từ dòng lệnh, toàn bộ quá trình đều được Vercel tự động hóa.
 
-<figure><img src="https://banmaixanh.org/image/article/website-deploy-04.jpg" alt="vercel-website-deploy-nhavantuonglai" title="vercel-website-deploy-nhavantuonglai" height=100% width=100%><figcaption><p>vercel-website-deploy-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/website-deploy-04.jpg" alt="vercel-website-deploy-nhavantuonglai" title="vercel-website-deploy-nhavantuonglai" height=100% width=100%><figcaption><p>vercel-website-deploy-nhavantuonglai</p></figcaption></figure>
 
 ## Ưu điểm, nhược điểm khi sử dụng cơ bản của 2 nền tảng
 
@@ -97,7 +97,7 @@ Nhược điểm:
 
 – Không phù hợp cho mọi loại dự án: Vercel chủ yếu tối ưu cho các dự án sử dụng JavaScript và các framework phổ biến. Nếu bạn sử dụng công nghệ khác, Vercel có thể không phải là lựa chọn tốt nhất.
 
-<figure><img src="https://banmaixanh.org/image/article/website-deploy-03.jpg" alt="vercel-website-deploy-nhavantuonglai" title="vercel-website-deploy-nhavantuonglai" height=100% width=100%><figcaption><p>vercel-website-deploy-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/website-deploy-03.jpg" alt="vercel-website-deploy-nhavantuonglai" title="vercel-website-deploy-nhavantuonglai" height=100% width=100%><figcaption><p>vercel-website-deploy-nhavantuonglai</p></figcaption></figure>
 
 ## Ưu điểm, nhược điểm khi sử dụng nâng cao của 2 nền tảng
 
@@ -129,7 +129,7 @@ Nhược điểm:
 
 – Không có hỗ trợ trực tiếp cho backend truyền thống: Vercel chủ yếu tập trung vào các ứng dụng frontend và serverless, do đó nếu bạn cần triển khai một backend truyền thống (ví dụ như với Node.js hoặc PHP), Vercel không phải là lựa chọn tốt nhất.
 
-<figure><img src="https://banmaixanh.org/image/article/website-deploy-02.jpg" alt="vercel-website-deploy-nhavantuonglai" title="vercel-website-deploy-nhavantuonglai" height=100% width=100%><figcaption><p>vercel-website-deploy-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/website-deploy-02.jpg" alt="vercel-website-deploy-nhavantuonglai" title="vercel-website-deploy-nhavantuonglai" height=100% width=100%><figcaption><p>vercel-website-deploy-nhavantuonglai</p></figcaption></figure>
 
 ## Những vấn đề, hạn chế riêng của 2 nền tảng
 
@@ -147,7 +147,7 @@ này có thể gây khó khăn khi bạn cần tùy chỉnh sâu.
 
 – Giới hạn khi sử dụng framework không phổ biến: Vercel tối ưu cho các framework phổ biến, nhưng nếu bạn sử dụng một framework không phổ biến hoặc công nghệ tùy chỉnh, bạn có thể gặp khó khăn trong quá trình triển khai.
 
-<figure><img src="https://banmaixanh.org/image/article/website-deploy-01.jpg" alt="vercel-website-deploy-nhavantuonglai" title="vercel-website-deploy-nhavantuonglai" height=100% width=100%><figcaption><p>vercel-website-deploy-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/website-deploy-01.jpg" alt="vercel-website-deploy-nhavantuonglai" title="vercel-website-deploy-nhavantuonglai" height=100% width=100%><figcaption><p>vercel-website-deploy-nhavantuonglai</p></figcaption></figure>
 
 ## Chi phí, giá cả và lợi ích nhận được của 2 nền tảng
 
@@ -175,4 +175,4 @@ Firebase và Vercel đều là những nền tảng hosting miễn phí mạnh m
 
 Với sự kết hợp của các công cụ mạnh mẽ từ Vercel và tính linh hoạt của Astro, bạn có thể dễ dàng xây dựng và triển khai các ứng dụng website hiệu quả. Nếu bạn có bất kỳ câu hỏi nào hoặc cần hỗ trợ thêm, đừng ngần ngại liên hệ với github/nhavantuonglai qua email [info@nhavantuonglai.com](mailto:info@nhavantuonglai.com).
 
-<figure><img src="https://banmaixanh.org/image/cover/001-449.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-449.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

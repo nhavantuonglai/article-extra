@@ -3,7 +3,7 @@ pubDatetime: 2022-03-05T10:10:00Z
 title: Khách sạn của bạn phải trả bao nhiêu chi phí hoa hồng cho kênh OTA?
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
 featured: false
-image: https://banmaixanh.org/image/cover/001-349.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-349.jpg
 tags:
   - viet thue
   - marketing
@@ -37,7 +37,7 @@ Bạn hãy thử đóng vai mình là một khách hàng và tiến hành đặt
 
 Điều quan trọng là phải hiểu rằng kênh đặt phòng trực tiếp không tốn chi phí hoa hồng kênh OTA, nhưng nó không hẳn là miễn phí. Các chi phí cần để duy trì hệ thống đặt phòng trực tiếp đó là chi phí quản lý công cụ đặt phòng [Booking Engine](https://nhavantuonglai.com/article) và chi phí Marketing. Tương tự như kênh OTA, đánh giá chi phí bỏ ra so với giá trị doanh thu mang lại của các booking mà đặt phòng trực tiếp mang lại để xác định tầm quan trọng của nó trong việc bán phòng của bạn.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-038.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-038.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Trở thành một người tiếp thị kỹ thuật số chủ động
 
@@ -55,7 +55,7 @@ Khách có thể truy cập [website khách sạn](https://nhavantuonglai.com/ar
 
 Các yếu tố giúp tăng tỷ lệ chuyển đổi khách hàng trên website, khách sạn cần kiểm tra đó là: Website của khách sạn đã được tối ưu trên thiết bị di động chưa? Đặt phòng trên website khách sạn dễ dàng không? Cá nhân hóa các gói dịch vụ đi kèm? Tạo ra các gói ưu đãi dựa trên sở thích khách hàng, đặc biệt đối với khách hàng thân thiết? Thanh toán bằng công nghệ tích hợp trên website có an toàn không? Có thể check-in online không?
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-039.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-039.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Kết luận
 
@@ -65,4 +65,4 @@ Thay vào đó, hãy tập trung duy trì mối quan hệ với khách hàng b�
 
 Vấn đề quan trọng nữa là nhóm kênh bán phòng của bạn. Mỗi kênh có những đặc điểm riêng biệt. Khách sạn phải nhận thức sâu sắc về những đặc điểm của mỗi kênh và khai thác chúng cho phù hợp. Mục tiêu chính là sự kết hợp nhóm kênh bán phòng cung cấp nhiều khách hàng nhất với mức giá cao nhất, ổn định nhất và chi phí hoa hồng kênh OTA thấp nhất. Điều này trở nên khả thi nếu bạn lựa chọn đúng kỹ thuật công nghệ.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-310.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-310.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>

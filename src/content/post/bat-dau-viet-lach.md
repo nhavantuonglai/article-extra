@@ -3,7 +3,7 @@ pubDatetime: 2021-03-21T10:10:00Z
 title: Làm thế nào để bắt đầu viết lách?
 description: Viết bài chuyên nghiệp là một kỹ năng quan trọng, không chỉ trong các ngành nghề liên quan đến viết lách mà còn trong nhiều lĩnh vực khác nhau như kinh doanh, giáo dục, và truyền thông.
 featured: false
-image: https://banmaixanh.org/image/cover/001-141.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-141.jpg
 tags:
   - viet lach
   - ky nang viet
@@ -30,7 +30,7 @@ Có nhiều lý do khiến việc học viết lách trở nên quan trọng:
 
 – Phát triển sự sáng tạo: Viết lách là một hình thức thể hiện sáng tạo, giúp bạn khám phá và phát triển khả năng tưởng tượng và sáng tạo của mình.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-103.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-103.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Khóa học viết blog là gì?
 
@@ -46,7 +46,7 @@ Khóa học sẽ bắt đầu bằng việc giới thiệu những nguyên tắc
 
 – Phong cách viết: Tìm hiểu các phong cách viết khác nhau và cách lựa chọn phong cách phù hợp với đối tượng và mục tiêu viết của bạn.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-104.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-104.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ### Viết sáng tạo
 
@@ -68,7 +68,7 @@ Viết phi hư cấu tập trung vào việc viết các văn bản dựa trên 
 
 – Viết tự truyện và hồi ký: Học cách kể lại những câu chuyện đời thực, chia sẻ trải nghiệm cá nhân một cách chân thực và cuốn hút.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-105.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-105.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ### Viết chuyên nghiệp
 
@@ -102,7 +102,7 @@ Tham gia [Khóa học viết blog](https://nhavantuonglai.com/article) mang lạ
 
 Đọc nhiều sách, bài báo, tạp chí và các tài liệu khác giúp bạn mở rộng kiến thức và hiểu biết về nhiều lĩnh vực khác nhau. Điều này không chỉ giúp bạn cải thiện kỹ năng viết mà còn giúp bạn có được những ý tưởng mới và phong phú hơn.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-106.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-106.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ### Viết hàng ngày
 
@@ -124,7 +124,7 @@ Nhận phản hồi từ người khác là cách tốt nhất để cải thi�
 
 Sau khi hoàn thành [Khóa học viết blog](https://nhavantuonglai.com/article), điều quan trọng là bạn phải biết cách áp dụng kiến thức vào thực tế. Dưới đây là một số cách để bạn bắt đầu.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-107.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-107.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ### Viết blog
 
@@ -146,7 +146,7 @@ Nếu bạn đam mê viết lách và có ý tưởng cho một cuốn sách, đ
 
 Tham gia các cộng đồng viết lách trực tuyến hoặc trực tiếp giúp bạn kết nối với những người có cùng đam mê, chia sẻ ý tưởng và nhận được sự hỗ trợ từ cộng đồng. Bạn có thể tham gia các diễn đàn, nhóm viết lách trên mạng xã hội hoặc các câu lạc bộ viết lách.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-108.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-108.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Kết luận
 
@@ -154,4 +154,4 @@ Tham gia các cộng đồng viết lách trực tuyến hoặc trực tiếp gi
 
 Viết lách là một hành trình khám phá sức mạnh của ngôn từ. Hãy bắt đầu hành trình của bạn ngay hôm nay, và bạn sẽ khám phá ra những khả năng tiềm ẩn và những cơ hội tuyệt vời mà viết lách mang lại. Dù bạn là một người mới bắt đầu hay đã có kinh nghiệm, [Khóa học viết blog](https://nhavantuonglai.com/article) sẽ giúp bạn nâng cao kỹ năng, mở rộng kiến thức và phát triển bản thân. Hãy kiên trì, không ngừng học hỏi và luôn mở lòng đón nhận những thử thách mới. Chúc bạn thành công trên hành trình viết lách của mình.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-246.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-246.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

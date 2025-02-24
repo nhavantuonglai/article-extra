@@ -3,7 +3,7 @@ pubDatetime: 2020-04-07T10:10:00Z
 title: Bài viết trên Instagram ngày 05 tháng 04 năm 2020
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-383.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-383.jpg
 tags:
   - viet lach
   - doan van
@@ -22,4 +22,4 @@ chấp nhận những thiếu sót là một điều khác biẹ�
 
 cho nên, cũng vì thế mà không chịu đổi giọng, đổi đi rồi lỡ một mai không có lại được thì sao? và mình thật sự tin rằng với những gì mình có, là đang hướng bản thân mình trở thành một người lắng nghe nhiều hơn là chia sẻ.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-310.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-310.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

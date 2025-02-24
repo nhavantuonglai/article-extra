@@ -3,7 +3,7 @@ pubDatetime: 2020-10-07T10:10:00Z
 title: Bài viết trên Instagram ngày 09 tháng 10 năm 2020
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-323.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-323.jpg
 tags:
   - viet lach
   - doan van
@@ -24,4 +24,4 @@ sau này, ký ức rõ hơn thì mình vẫn nhớ là có vô vàn cơn mưa l�
 
 tất nhiên rằng những ký ức ấy thật là đẹp, bởi có vào lúc mình chưa ý thức được sự khác nghiệt của nó. sau này, đi học rồi dần đi xa nhà, xa Huế hơn, những lần mưa gió bão bùng quật ngang Huế như vừa rồi, những lần xả lũ để cứu đập như hiện tại, mình ước chi bản thân được trở lại ngày xưa cũ, để thôi trống trải và đầy bất an như thế này…
 
-<figure><img src="https://banmaixanh.org/image/cover/001-310.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-310.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

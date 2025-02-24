@@ -3,7 +3,7 @@ pubDatetime: 2021-02-25T10:10:00Z
 title: Mẹo bảo quản và vệ sinh thiết bị âm thanh
 description: Chọn một cặp tai nghe tốt có thể là một nhiệm vụ khó khăn, đặc biệt là khi thị trường hiện nay có vô số lựa chọn với nhiều tính năng và thiết kế khác nhau.
 featured: false
-image: https://banmaixanh.org/image/cover/001-548.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-548.jpg
 tags:
   - viet lach
   - thuong thuc am thanh
@@ -133,4 +133,4 @@ Mùa hè thường có độ ẩm cao và nhiệt độ nóng, có thể làm th
 
 Việc bảo quản và vệ sinh thiết bị âm thanh đúng cách không chỉ giúp tăng tuổi thọ của thiết bị mà còn đảm bảo Chất lượng âm thanh tốt nhất. Bằng cách thực hiện các bước vệ sinh đúng cách cho tai nghe, loa và amply, cũng như điều chỉnh phương pháp bảo quản theo mùa, bạn sẽ có thể duy trì hiệu suất và độ bền của thiết bị âm thanh trong thời gian dài. Hy vọng rằng bài viết này đã cung cấp cho bạn những thông tin hữu ích và chi tiết về cách bảo quản và vệ sinh thiết bị âm thanh một cách hiệu quả.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-211.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-211.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

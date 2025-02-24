@@ -3,7 +3,7 @@ pubDatetime: 2021-11-30T10:10:00Z
 title: Ngưỡng hỗ trợ và ngưỡng kháng cự là gì trong biểu đồ giá vàng?
 description: Chuỗi bài viết của nhavantuonglai về kinh doanh vàng bạc đá quý và quỹ đầu tư sẽ giúp nhà đầu tư khởi nghiệp hiệu quả.
 featured: false
-image: https://banmaixanh.org/image/cover/001-649.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-649.jpg
 tags:
   - viet thue
   - marketing
@@ -104,4 +104,4 @@ Quan sát biến động ngay sau đó, sẽ là lựa chọn tốt nhất cho c
 
 2 cách giao dịch khi giá vàng bật lại hay phá vỡ là tùy trường hợp cụ thể để thực hiện. Tuy nhiên, nhà đầu tư cần tránh phức tạp hóa đánh giá, như thế sẽ có nhiều hơn những rủi ro. Bên cạnh đó, 2 ngưỡng này không có giá trị tuyệt đối mà có thể thay thế, đảo chiều với nhau. Chính vì thế, khi quyết định giao dịch thì nhà đầu tư cần cẩn trọng và đánh giá toàn diện biểu đồ giá vàng. Để có cho mình những quyết định đúng đắn, hợp lý và chắc chắn nhất có thể.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-300.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-300.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

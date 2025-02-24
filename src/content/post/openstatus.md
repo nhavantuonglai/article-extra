@@ -3,7 +3,7 @@ pubDatetime: 2024-05-02T10:10:00Z
 title: Tìm hiểu toàn diện về Openstatus và cách để cài lên website
 description: Openstatus là một nền tảng mã nguồn mở được thiết kế để theo dõi trạng thái dịch vụ và hệ thống.
 featured: false
-image: https://banmaixanh.org/image/cover/001-619.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-619.jpg
 tags:
   - websiteflow
   - website
@@ -20,7 +20,7 @@ Openstatus là một nền tảng mã nguồn mở được thiết kế để t
 
 Openstatus không chỉ giúp quản lý các hệ thống phức tạp mà còn cung cấp khả năng hiển thị tình trạng hoạt động của hệ thống theo thời gian thực, giúp các tổ chức có thể nhanh chóng phát hiện và khắc phục sự cố, giảm thiểu thời gian chết và đảm bảo tính liên tục trong quá trình hoạt động.
 
-<figure><img src="https://banmaixanh.org/image/article/website-openstatus-01.jpg" alt="Tìm hiểu về Openstatus và cách để cài lên website." title="Tìm hiểu về Openstatus và cách để cài lên website." height=100% width=100%><figcaption><p>Tìm hiểu về Openstatus và cách để cài lên website.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/website-openstatus-01.jpg" alt="Tìm hiểu về Openstatus và cách để cài lên website." title="Tìm hiểu về Openstatus và cách để cài lên website." height=100% width=100%><figcaption><p>Tìm hiểu về Openstatus và cách để cài lên website.</p></figcaption></figure>
 
 ## Công dụng của Openstatus
 
@@ -48,7 +48,7 @@ Nhiều công ty công nghệ lớn trên thế giới đã và đang sử dụn
 
 – Quản lý dịch vụ nội bộ: Các tổ chức lớn với nhiều dịch vụ nội bộ cũng sử dụng [Openstatus](https://nhavantuonglai.com/article/openstatus) để giám sát và quản lý các dịch vụ này, từ các hệ thống email, server nội bộ đến các ứng dụng dùng chung.
 
-<figure><img src="https://banmaixanh.org/image/article/website-openstatus-02.jpg" alt="Tìm hiểu về Openstatus và cách để cài lên website." title="Tìm hiểu về Openstatus và cách để cài lên website." height=100% width=100%><figcaption><p>Tìm hiểu về Openstatus và cách để cài lên website.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/website-openstatus-02.jpg" alt="Tìm hiểu về Openstatus và cách để cài lên website." title="Tìm hiểu về Openstatus và cách để cài lên website." height=100% width=100%><figcaption><p>Tìm hiểu về Openstatus và cách để cài lên website.</p></figcaption></figure>
 
 ## Cách đăng ký, theo dõi Openstatus cho website của bạn
 
@@ -62,7 +62,7 @@ Việc đăng ký và bắt đầu sử dụng Openstatus rất đơn giản và
 
 4. Cấu hình cảnh báo: Bạn có thể thiết lập các quy tắc cảnh báo để nhận thông báo qua email hoặc SMS khi có sự cố xảy ra. Openstatus cho phép tùy chỉnh các mức cảnh báo dựa trên mức độ nghiêm trọng của sự cố.
 
-<figure><img src="https://banmaixanh.org/image/article/website-openstatus-03.jpg" alt="Tìm hiểu về Openstatus và cách để cài lên website." title="Tìm hiểu về Openstatus và cách để cài lên website." height=100% width=100%><figcaption><p>Tìm hiểu về Openstatus và cách để cài lên website.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/website-openstatus-03.jpg" alt="Tìm hiểu về Openstatus và cách để cài lên website." title="Tìm hiểu về Openstatus và cách để cài lên website." height=100% width=100%><figcaption><p>Tìm hiểu về Openstatus và cách để cài lên website.</p></figcaption></figure>
 
 ## Hướng dẫn cài đặt Openstatus lên website
 
@@ -76,7 +76,7 @@ Cài đặt Openstatus lên website giúp bạn theo dõi trạng thái của c�
 
 4. Kiểm tra và xác nhận: Sau khi hoàn tất cài đặt và cấu hình, bạn nên kiểm tra lại để đảm bảo rằng Openstatus hoạt động chính xác và có thể thu thập dữ liệu một cách chính xác.
 
-<figure><img src="https://banmaixanh.org/image/article/website-openstatus-04.jpg" alt="Tìm hiểu về Openstatus và cách để cài lên website." title="Tìm hiểu về Openstatus và cách để cài lên website." height=100% width=100%><figcaption><p>Tìm hiểu về Openstatus và cách để cài lên website.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/website-openstatus-04.jpg" alt="Tìm hiểu về Openstatus và cách để cài lên website." title="Tìm hiểu về Openstatus và cách để cài lên website." height=100% width=100%><figcaption><p>Tìm hiểu về Openstatus và cách để cài lên website.</p></figcaption></figure>
 
 ## Lợi ích khi cài Openstatus lên website
 
@@ -140,4 +140,4 @@ Openstatus là một công cụ mạnh mẽ và hữu ích cho việc quản lý
 
 Cài Openstatus lên website không chỉ giúp bạn theo dõi tình trạng hoạt động của website mà còn mang lại nhiều lợi ích vượt trội, từ cải thiện trải nghiệm người dùng đến tối ưu hiệu suất website.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-639.jpg" alt="Tìm hiểu về Openstatus và cách để cài lên website." title="Tìm hiểu về Openstatus và cách để cài lên website." height=100% width=100%><figcaption><p>Tìm hiểu về Openstatus và cách để cài lên website.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-639.jpg" alt="Tìm hiểu về Openstatus và cách để cài lên website." title="Tìm hiểu về Openstatus và cách để cài lên website." height=100% width=100%><figcaption><p>Tìm hiểu về Openstatus và cách để cài lên website.</p></figcaption></figure>

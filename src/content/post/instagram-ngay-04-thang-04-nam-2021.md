@@ -3,7 +3,7 @@ pubDatetime: 2021-04-07T10:10:00Z
 title: Bài viết trên Instagram ngày 04 tháng 04 năm 2021
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-383.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-383.jpg
 tags:
   - viet lach
   - doan van
@@ -28,4 +28,4 @@ bởi một điều đơn giản rằng, mình sợ nếu cứ q
 
 đó là điều buồn hơn cả mất đi cái ngữ giọng của quê mình…
 
-<figure><img src="https://banmaixanh.org/image/cover/001-310.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-310.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

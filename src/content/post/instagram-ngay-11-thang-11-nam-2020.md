@@ -3,7 +3,7 @@ pubDatetime: 2020-11-07T10:10:00Z
 title: Bài viết trên Instagram ngày 11 tháng 11 năm 2020
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-323.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-323.jpg
 tags:
   - viet lach
   - doan van
@@ -20,4 +20,4 @@ lần đầu tiên nhìn thấy bức hình, mình cảm giác có
 
 hai con người trong bức ảnh này mình biết mặt và gọi được tên, khi nhắn tin xin ảnh với họ. tuy thế, mình cảm nhận sẽ khó, để gặp lại – hay sẽ khó, để một lần nào đó nhìn thấy sự hao hao, từa tựa mà cả mình và bạn đều có khi đứng cạnh nhau…
 
-<figure><img src="https://banmaixanh.org/image/cover/001-310.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-310.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

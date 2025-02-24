@@ -3,7 +3,7 @@ pubDatetime: 2022-08-09T10:10:00Z
 title: Tìm hiểu về tự động hóa và cách áp dụng cho khách sạn của bạn
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
 featured: false
-image: https://banmaixanh.org/image/cover/001-282.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-282.jpg
 tags:
   - viet thue
   - marketing
@@ -29,7 +29,7 @@ Khách sạn có thể áp dụng nhiều hình thức tự động hóa nhằm 
 
 Tự động hóa trong khách sạn là tự động thực hiện các thao tác, công việc vốn thường được thực hiện thủ công, hoặc phải có sự can thiệp của con người.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-059.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-059.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Tự động hóa khách sạn có thể mang lại lợi ích cho khách sạn nhỏ của bạn?
 
@@ -61,7 +61,7 @@ Khi bạn không có nhiều thời gian và nguồn lực để kinh doanh khá
 
 Thông qua các công cụ, công nghệ khách sạn hiện hành, bạn có thể thu thập để hiểu rõ hơn về khách sạn của mình – đang hoạt động tốt đến đâu và trải nghiệm của du khách đang ở mức độ nào, nhằm đưa ra những đánh giá và đo lường, điều chỉnh thích hợp để tạo nên sự vận hành phù hợp, hiệu quả.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-058.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-058.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Kiểm soát toàn bộ hoạt động trong khách sạn
 
@@ -83,7 +83,7 @@ Tiếp theo, du khách có thể yêu cầu dịch vụ, hỗ trợ thông qua c
 
 Và cuối cùng, trong thời gian lưu trú lẫn khi du khách rời đi, khách sạn có thể thông qua thông tin liên lạc để yêu cầu họ [đánh giá trực tuyến](https://nhavantuonglai.com/article) hoặc thực hiện khảo sát về trải nghiệm tại khách sạn.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-056.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-056.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Các công cụ tự động hóa cho khách sạn
 
@@ -103,4 +103,4 @@ Phần mềm lễ tân là hệ thống trung tâm, là nơi kiểm soát và t�
 
 Như vậy, tự động hóa đem lại nhiều lợi ích và hiệu quả cho khách sạn khi áp dụng, vận hành. Việc cập nhật, khai thác các công cụ và công nghệ khách sạn để tự động hóa cũng đang là xu thế và khách sạn của bạn nên thực hiện để tạo nên những trải nghiệm tích cực, và cải thiện doanh thu cho khách sạn của mình.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-284.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-284.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>

@@ -3,7 +3,7 @@ pubDatetime: 2025-01-07T10:10:00Z
 title: 10 cách bảo vệ khách sạn khỏi các cuộc tấn công lừa đảo
 description: Bạn càng chủ động, bạn càng an toàn. Có một số biện pháp đơn giản mà các nhà quản lý khách sạn có thể thực hiện để bảo vệ bản thân, doanh nghiệp và khách hàng của mình – hãy cùng khám phá chúng.
 featured: false
-image: https://banmaixanh.org/image/cover/001-747.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-747.jpg
 tags:
   - viet thue
   - marketing
@@ -135,4 +135,4 @@ Lừa đảo và các cuộc tấn công mạng là thực tế không may của
 
 Hãy chủ động và cảnh giác, đó là bước đầu tiên quan trọng trong phòng tuyến bảo vệ của bạn. Sau đó, tuân theo 10 mẹo này và bạn sẽ tiến xa trong việc bảo vệ tài sản và khách hàng của mình khỏi các cuộc tấn công mạng trong tương lai.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-516.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-516.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>

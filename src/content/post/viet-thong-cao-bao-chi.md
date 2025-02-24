@@ -3,7 +3,7 @@ pubDatetime: 2025-02-06T10:10:00Z
 title: Dịch vụ viết thông cáo báo chí nâng tầm chuyên nghiệp cho doanh nghiệp
 description: Thông cáo báo chí là phần trong chiến lược quan hệ công chúng. Tuy nhiên, hầu hết mọi người không chắc chắn cách sử dụng chúng.
 featured: false
-image: https://banmaixanh.org/image/cover/001-417.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-417.jpg
 tags:
  - viet lach
  - ky nang viet
@@ -182,4 +182,4 @@ Bảy phần của một thông cáo báo chí bao gồm:
 
 Một cách bất ngờ, ngày tốt nhất để gửi thông cáo báo chí là thứ Năm khi tỷ lệ mở email có thể cao hơn 26%. Thời gian tốt nhất để gửi nội dung là từ 10 giờ sáng đến 2 giờ chiều. Các biên tập viên thường mở khoảng một phần ba email của họ trong khoảng thời gian này.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-236.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-236.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

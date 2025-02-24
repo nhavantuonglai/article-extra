@@ -3,7 +3,7 @@ pubDatetime: 2021-05-07T10:10:00Z
 title: Bài viết trên Instagram ngày 18 tháng 05 năm 2021
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-343.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-343.jpg
 tags:
   - viet lach
   - doan van
@@ -20,4 +20,4 @@ phản ứng hơi đạo đức giả nhỉ, xung quanh ai cũng vậy m
 
 đáng tiếc, không phải ai cũng cho phép bạn mình được quyết định. bởi nếu có, thì hôm ấy mình đã không thành kẻ bạc tình trong mắt bao người ở quán cà phê kia…
 
-<figure><img src="https://banmaixanh.org/image/cover/001-310.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-310.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

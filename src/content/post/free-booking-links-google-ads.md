@@ -3,7 +3,7 @@ pubDatetime: 2022-04-22T10:10:00Z
 title: Free Booking Links trong Google Hotel Ads và những điều khách sạn cần biết
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
 featured: false
-image: https://banmaixanh.org/image/cover/001-523.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-523.jpg
 tags:
   - viet thue
   - marketing
@@ -35,7 +35,7 @@ Cũng không có con số cụ thể, nhưng thông thường sẽ dao động t
 
 Không, các khách sạn dùng Free Booking Links sẽ không xuất hiện trên Google Maps. Ngoài Google Search, Free Booking Links chỉ xuất hiện ở Google Travel.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-075.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-075.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Làm thế nào để khách sạn của tôi xuất hiện trong Free Booking Links?
 
@@ -69,7 +69,7 @@ Khách sạn có nên kỳ vọng về công suất và lượt đặt phòng th
 
 Không chắc chắn. Một mặt, khách sạn sẽ nhận được nhiều truy cập hơn khi có thêm một kênh hiện thị bán phòng mới. Mặt khác, nó sẽ bị chiếm dụng lưu lượng từ _Ads – Featured option_ bằng cách nào đó. Nhưng tổng thể, khách sạn sẽ nhận được nhiều hơn lợi ích khi sử dụng Free Booking Links.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-077.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-077.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Kết luận
 
@@ -77,4 +77,4 @@ Google đang nhấn mạnh việc tăng cường tìm kiếm khách sạn trên 
 
 Cho nên, là chủ của khách sạn, 2 điều bạn cần lưu ý là: tích cực cập nhật và sử dụng các tính năng mới từ các nhà cung cấp, và tìm kiếm những đối tác tích hợp tốt nhất để cùng đồng hành thực hiện các giải pháp toàn diện đang có.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-523.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-523.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>

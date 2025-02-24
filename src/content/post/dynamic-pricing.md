@@ -3,7 +3,7 @@ pubDatetime: 2022-04-18T10:10:00Z
 title: Định giá động (Dynamic Pricing) trong ngành khách sạn là gì và tại sao nó lại quan trọng?
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
 featured: false
-image: https://banmaixanh.org/image/cover/001-517.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-517.jpg
 tags:
   - viet thue
   - marketing
@@ -41,7 +41,7 @@ Dù [kênh OTA đem lại nhiều lợi ích](https://nhavantuonglai.com/article
 
 Tất nhiên là như 2 mặt đối lập của một vấn đề, ưu điểm của kênh bán phòng trực tiếp lại là hạn chế của kênh OTA và ngược lại. Điều này đồng nghĩa rằng – các khách sạn nên linh hoạt áp dụng, triển khai nhiều kênh bán phòng để tối ưu nguồn lực, và đem lại hiệu quả tốt nhất cho khách sạn của mình.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-061.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-061.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Kênh OTA và bán phòng trực tiếp – Kênh nào tốt hơn cho các khách sạn?
 
@@ -61,7 +61,7 @@ Kênh OTA là kênh đặt phòng được ưu thích nhất, với cả du khá
 
 Trong thời đại phục hồi sau dịch, sự cạnh tranh là vô cùng khốc liệt, một đồng kiếm được là một đồng quý giá, nên việc chi tiền cho kênh OTA là một vấn đề đáng cân nhắc. Điều này không hề có với đặt phòng trực tiếp, khi mà 100% doanh thu bán phòng thì khách sạn được giữ lại, toàn quyền kiểm soát và phân bổ thành lợi nhuận thực tế, từ đó [tối ưu doanh thu khách sạn](https://nhavantuonglai.com/article) được tốt hơn.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-062.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-062.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Trải nghiệm khách hàng hiệu quả: kênh OTA và đặt phòng trực tiếp tương đồng
 
@@ -79,7 +79,7 @@ Trên kênh OTA, chương trình khách hàng thân thiết thường khá hạn
 
 Do vậy, để giữ chân khách hàng hiệu quả, khách sạn cần xây dựng chiến lược, [chính sách khách hàng thân thiết](https://nhavantuonglai.com/article) riêng biệt. Cụ thể, du khách khi đặt phòng tại khách sạn, thông tin sẽ được lưu trữ và ưu đãi cho lần đặt phòng tiếp theo, ví dụ giảm giá hoặc miễn phí dịch vụ (bữa sáng, nâng hạng phòng, check in sớm…). Điều này hoàn toàn có thể đáp ứng, nếu các khách sạn sử dụng Booking Engine từ các nền tảng quản lý khách sạn chuyên nghiệp như giải pháp.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-063.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-063.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Có chiến lược định giá động thông minh
 
@@ -97,7 +97,7 @@ Chìa khóa để cải thiện tỷ lệ lấp đầy phòng trống, tăng l�
 
 Chính sách hoàn hủy linh hoạt, liền mạch là cách tuyệt vời để thu hút du khách đặt phòng trực tiếp. Bởi lẽ, khi người dùng đặt phòng trên kênh OTA, họ sẽ phải chờ rất lâu để được hoàn tiền, và đây là hạn chế khiến việc đặt phòng trên kênh OTA không thật sự hấp dẫn với người thanh toán trước.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-064.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-064.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Tối ưu website khách sạn
 
@@ -105,4 +105,4 @@ Chính sách hoàn hủy linh hoạt, liền mạch là cách tuyệt vời đ�
 
 Tổng quan lại, với từng kênh bán phòng sẽ có từng ưu, nhược điểm riêng khi bán phòng khách sạn. Việc hiểu rõ những vấn đề, và khai thác hiệu quả lợi ích mà chúng đem lại là chìa khóa quan trọng để cải thiện công suất phòng, và bán phòng tốt hơn trên mọi nền tảng.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-517.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-517.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>

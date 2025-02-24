@@ -3,7 +3,7 @@ pubDatetime: 2021-12-21T10:10:00Z
 title: Mọi hành trình đều là thử thách vì luôn ẩn chứa mới mẻ
 description: Thực hành tôn giáo giúp đời sống an lành, hạnh phúc, giác ngộ và mang lại năng lượng tích cực cho bản thân, giá trị đẹp cho cộng đồng.
 featured: false
-image: https://banmaixanh.org/image/cover/001-229.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-229.jpg
 tags:
   - viet lach
   - trai nghiem
@@ -23,4 +23,4 @@ Sau 1 năm rưỡi trải nghiệm cuộc sống, câu trả lời nhận đư�
 
 Từ trải nghiệm của bản thân, mình chốt ý với bạn, mọi hành trình đều là thử thách vì luôn ẩn chứa mới mẻ, mọi nỗi lo đều vô căn cứ khi chưa trải nghiệm; và hãy nên giữ chặt niềm háo hức và cởi trói tinh thần để đón nhận hành trình phía trước, thành quả bạn nhận sẽ không chỉ là hợp hay không nữa đâu.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-281.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-281.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

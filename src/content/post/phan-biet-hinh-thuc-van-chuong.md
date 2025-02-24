@@ -3,7 +3,7 @@ pubDatetime: 2021-04-23T10:10:00Z
 title: Phân biệt các hình thức văn chương
 description: Viết là một công cụ mạnh mẽ cho phép chúng ta bày tỏ suy nghĩ, cảm xúc và ý tưởng của mình.
 featured: false
-image: https://banmaixanh.org/image/cover/001-349.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-349.jpg
 tags:
   - viet lach
   - ky nang viet
@@ -23,7 +23,7 @@ Trước khi chúng ta đi sâu vào các hình thức viết khác nhau, chúng
 
 Là nhà văn, trách nhiệm của chúng ta là sử dụng từ ngữ một cách khôn ngoan và hiệu quả. Và hiểu các loại văn bản khác nhau có thể giúp chúng ta làm điều đó.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-039.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-039.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ### Tiểu thuyết
 
@@ -37,7 +37,7 @@ Có nhiều thể loại phụ của văn bản hư cấu, bao gồm lãng mạn
 
 Viết phi hư cấu đòi hỏi nghiên cứu sâu rộng và kiểm tra thực tế để đảm bảo tính chính xác và độ tin cậy. Nó cũng thường liên quan đến kinh nghiệm và quan điểm cá nhân của người viết, làm cho nó trở thành một công cụ mạnh mẽ để chia sẻ kiến thức và hiểu biết sâu sắc với độc giả.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-040.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-040.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ### Thơ
 
@@ -63,7 +63,7 @@ Viết kỹ thuật là một loại văn bản tập trung vào việc giải t
 
 Viết kỹ thuật đòi hỏi kỹ năng nghiên cứu và tổ chức mạnh mẽ, cũng như khả năng chia nhỏ các ý tưởng phức tạp thành các phần dễ hiểu. Đó là một kỹ năng có giá trị trong thế giới ngày nay, nơi công nghệ và khoa học đóng một vai trò quan trọng trong cuộc sống hàng ngày của chúng ta.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-041.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-041.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Tài liệu kinh doanh
 
@@ -83,7 +83,7 @@ Bây giờ chúng ta đã khám phá các loại văn bản khác nhau, hãy nó
 
 Dưới đây là bốn loại câu chính và cách chúng có thể được sử dụng để tạo ra các đoạn văn bản hấp dẫn và có tác động.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-042.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-042.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ### Câu khai báo
 
@@ -113,7 +113,7 @@ Ví dụ, _Tôi không thể tin được!_
 
 Một cuốn tự truyện tương tự như viết phi hư cấu, vì nó dựa trên các sự kiện có thật và kinh nghiệm cá nhân. Tuy nhiên, nó cũng có thể kết hợp các yếu tố của văn bản hư cấu, chẳng hạn như đối thoại và ngôn ngữ mô tả, để làm cho câu chuyện hấp dẫn và hấp dẫn hơn.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-043.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-043.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Kết luận
 
@@ -121,4 +121,4 @@ Một cuốn tự truyện tương tự như viết phi hư cấu, vì nó dựa
 
 Cho dù bạn đang viết một cuốn tiểu thuyết, một bài báo hay một đề xuất kinh doanh, hãy nhớ sử dụng sức mạnh của từ ngữ một cách khôn ngoan và chọn đúng loại câu để tạo ra những tác phẩm hấp dẫn và có tác động. Chúc bạn viết vui vẻ.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-546.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-546.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

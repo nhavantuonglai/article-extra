@@ -3,7 +3,7 @@ pubDatetime: 2021-03-07T10:10:00Z
 title: Bài viết trên Instagram ngày 03 tháng 05 năm 2021
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-383.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-383.jpg
 tags:
   - viet lach
   - doan van
@@ -24,4 +24,4 @@ còn mới đây, Hội An đang có nhiều sự thay đổi tích cực. đầ
 
 và hiện tại, Hội An không chỉ là một thành phố, mà còn là một thông điệp về sự an toàn, tinh thần hồi sinh sau cơn bão lớn. nhìn nhận một cách tích cực, điều này giúp cho những gì vốn đã là bản sắc, là văn hóa của Hội An thì vẫn sẽ còn cơ hội duy trì, phát triển dài lâu…
 
-<figure><img src="https://banmaixanh.org/image/cover/001-332.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-332.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

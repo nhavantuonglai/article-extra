@@ -3,7 +3,7 @@ pubDatetime: 2022-06-05T10:10:00Z
 title: Cách để thu hút khách đặt phòng nhóm đến khách sạn của bạn
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
 featured: false
-image: https://banmaixanh.org/image/cover/001-649.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-649.jpg
 tags:
   - viet thue
   - marketing
@@ -29,7 +29,7 @@ Với đặt phòng nhóm công ty, đó là nhóm công tác, du lịch hoặc 
 
 Ví dụ về đặt phòng nhóm công ty: Một công ty cần tổ chức hội nghị kinh doanh, kéo dài trong 2 ngày kèm bữa tiệc tại khách sạn. Để đáp ứng yêu cầu này, khách sạn của bạn phải có hội trường, phòng họp và phòng ăn đáp ứng công suất lớn.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-150.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-150.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Tại sao các khách sạn nên nhấn mạnh vào việc đặt phòng theo nhóm?
 
@@ -45,7 +45,7 @@ Hiện nay, nhiều khách sạn đang tập trung bán phòng cho khách nhóm,
 
 Tổng quan lại, đặt phòng nhóm có tỷ suất hoàn vốn tốt hơn là đặt phòng riêng lẻ, vì vậy mà ngay cả khi khách sạn còn phòng trống sau khi nhận đặt phòng nhóm, thì cũng không phải quá bận tâm về doanh thu nhận được.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-151.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-151.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## 7 chiến lược để tăng đặt phòng nhóm cho khách sạn
 
@@ -75,7 +75,7 @@ Trung tâm Quản lý Hội nghị và Khách du lịch (Convention and Visitors
 
 Khi hợp tác với CVB, khách sạn của bạn vừa tăng uy tín và nhận diện, được nhiều du khách biết đến hơn mà không phải tốn khoản chi phí nào cho vấn đề này.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-152.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-152.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Thiết kế gói giá hấp dẫn
 
@@ -99,7 +99,7 @@ Dựa vào những thông tin trên, khách sạn có thể xây dựng chiến 
 
 Để thu hút đặt khách nhóm công ty, khách sạn nên đảm bảo khả năng và sẵn sàng tổ chức các sự kiện quy mô lớn, đông người tham gia, diễn ra trong nhiều ngày tại khách sạn. Chúng có thể là đám cưới, hội nghị khách hàng, hội nghị giải pháp… Đây là những cơ hội tuyệt vời để cải thiện doanh thu cho khách sạn.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-153.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-153.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Sử dụng phần mềm quản lý khách sạn mạnh mẽ, chuyên nghiệp
 
@@ -137,10 +137,10 @@ Sử dụng [phần mềm quản lý khách sạn](https://nhavantuonglai.com/ar
 
 Phần mềm quản lý khách sạn là công cụ tự động hóa các thao tác, hoạt động trong khách sạn, giúp khách sạn và nhân viên có thể tiết kiệm thời gian, công sức trong việc vận hành.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-154.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-154.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Kết luận
 
 Đặt phòng nhóm và đặt phòng khách lẻ đều là những phân khúc quan trọng của khách sạn. Tuy nhiên, các khách sạn không nên ưu tiên hay hạn chế các phân khúc, mà hãy kết hợp và tìm cách khai thác chúng hiệu quả, bằng những chiến thuật, công cụ và sự hợp tác với các bên thứ 3, giúp khai thác và bán phòng hiệu quả hơn.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-614.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-614.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>

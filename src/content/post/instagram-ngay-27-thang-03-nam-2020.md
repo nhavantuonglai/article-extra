@@ -3,7 +3,7 @@ pubDatetime: 2020-03-07T10:10:00Z
 title: Bài viết trên Instagram ngày 27 tháng 03 năm 2020
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-321.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-321.jpg
 tags:
   - viet lach
   - doan van
@@ -20,4 +20,4 @@ rồi sau đó biết Nghĩa với Tân lúc quá muộn màng, bi
 
 chỉ có điều, cỗ máy ấy không bao giờ trọn vẹn. mình chỉ có thể cảm nhận chứ không thể nào sống trọn trong từng khoảnh khắc cũ kỹ kia, thêm một lần nào khác.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-335.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-335.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

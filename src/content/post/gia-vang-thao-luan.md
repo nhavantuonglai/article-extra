@@ -3,7 +3,7 @@ pubDatetime: 2021-12-04T10:10:00Z
 title: Về giá vàng hôm nay có bao nhiêu thứ để bàn?
 description: Chuỗi bài viết của nhavantuonglai về kinh doanh vàng bạc đá quý và quỹ đầu tư sẽ giúp nhà đầu tư khởi nghiệp hiệu quả.
 featured: false
-image: https://banmaixanh.org/image/cover/001-235.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-235.jpg
 tags:
   - viet thue
   - marketing
@@ -68,4 +68,4 @@ Một khía cạnh khác mà hiện tại đang thúc đẩy giá vàng trên th
 
 Như vậy, ta có thể thấy rõ rằng giá vàng hôm nay có bao nhiêu thứ để bàn, và những vấn đề này cũng rất cấp thiết, quan trọng trong đời sống. Để từ đó mà những nhà đầu tư ở cấp độ vi mô, nhà hoạch định chính sách hay giải pháp ở cấp độ vĩ mô có cho mình những lựa chọn và bước đi phù hợp nhằm đem lại giá trị và lợi nhuận cao nhất trong những hoạt động trong lĩnh vực tài chính của bản thân mình.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-300.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-300.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

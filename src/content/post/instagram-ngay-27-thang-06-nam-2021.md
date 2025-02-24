@@ -3,7 +3,7 @@ pubDatetime: 2021-06-07T10:10:00Z
 title: Bài viết trên Instagram ngày 27 tháng 06 năm 2021
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-321.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-321.jpg
 tags:
   - viet lach
   - doan van
@@ -20,4 +20,4 @@ niềm nhỏ bé ấy, trong một lúc bình thường nào khác, sẽ như l�
 
 nên, chút âm nhạc, lời động viên, hay niềm an ủi dành cho nhau trong lúc này, sẽ luôn là điều cần thiết, cho người – để quên đi những gì đang phải đối mặt; và cho mình – để thấy rằng chúng ta luôn cần có nhau…
 
-<figure><img src="https://banmaixanh.org/image/cover/001-387.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-387.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

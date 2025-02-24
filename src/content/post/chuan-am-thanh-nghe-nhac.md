@@ -3,7 +3,7 @@ pubDatetime: 2021-01-23T10:10:00Z
 title: Tìm hiểu về các chuẩn công nghệ âm thanh như Dolby Atmos, DTSX
 description: Công nghệ âm thanh đã phát triển mạnh mẽ, mang lại trải nghiệm nghe nhạc và xem phim chất lượng cao hơn bao giờ hết.
 featured: false
-image: https://banmaixanh.org/image/cover/001-556.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-556.jpg
 tags:
   - viet lach
   - thuong thuc am thanh
@@ -111,4 +111,4 @@ Amply Hi-res Audio được thiết kế để cung cấp âm thanh tinh khiết
 
 Các chuẩn công nghệ âm thanh như Dolby Atmos và DTS:X đang mang lại những cải tiến đáng kể cho trải nghiệm âm thanh của người dùng. Từ tai nghe, loa đến amply, mỗi thiết bị đều có thể tận dụng những công nghệ này để cung cấp âm thanh chất lượng cao và sống động. Hy vọng rằng bài viết này đã cung cấp cho bạn những thông tin hữu ích về các chuẩn công nghệ âm thanh hiện đại, giúp bạn hiểu rõ hơn về chúng và có thể lựa chọn thiết bị âm thanh phù hợp cho nhu cầu của mình.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-211.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-211.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

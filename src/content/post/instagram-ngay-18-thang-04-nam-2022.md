@@ -3,7 +3,7 @@ pubDatetime: 2022-04-18T10:10:00Z
 title: Bài viết trên Instagram ngày 18 tháng 04 năm 2022
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - viet lach
   - doan van
@@ -22,4 +22,4 @@ cũng những dịp ấy, mình lại vài bạn đồng điệu mê sách, nh�
 
 sinh viên thì ai cũng biết là nghèo, nhưng sinh viên Sư phạm lại còn nghèo hơn nữa – bởi nhiều người chọn bước chân vào là để nhà đỡ tiền học phí mỗi kỳ; nên những cuốn sách bán rẻ trong thư viện mỗi lúc mở kho, là cả gia tài mà tụi mình phải rất may mắn mới có được. chỉ tiếc rằng, năm cuối cùng ở trường, cũng là thời điểm trường hoàn thành việc dỡ bỏ thư viện cũ, xây mới tòa nhà khang trang và rộng rãi hơn trước. nên những chuyện mà mình đang kể, sẽ mãi là ký ức và không thể nào tái hiện thêm một lần nào khác ở trường.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

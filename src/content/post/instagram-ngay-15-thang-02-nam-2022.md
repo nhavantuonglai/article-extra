@@ -3,7 +3,7 @@ pubDatetime: 2022-02-15T10:10:00Z
 title: Bài viết trên Instagram ngày 15 tháng 02 năm 2022
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - viet lach
   - doan van
@@ -24,4 +24,4 @@ dạo gần đây, mình bớt chỉnh và chỉ nhìn em, nhìn vào kỳ vọn
 
 nhưng các bạn biết không, mình quên rằng bản thân là một đứa cứng đầu, em kế mình cũng vậy, và bé út cũng tiềm tàng không kém; tụi mình cứ tự nhiên bước ra ngoài kia, vấp ngã rồi chạy về nhà khóc bù lu bù loa, rồi lại bước ra tiếp, cứ vậy mà dần trưởng thành. mình quên, đó là đứa em của mình; quên rằng, em sẽ nếm nhiều thất bại, sẽ phải khóc lóc nhiều, nhưng cũng tự tin vào bản thân em nhiều không kém.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

@@ -3,7 +3,7 @@ pubDatetime: 2019-05-07T10:10:00Z
 title: Bài viết trên Instagram ngày 13 tháng 05 năm 2019
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - viet lach
   - doan van
@@ -20,4 +20,4 @@ còn nếu xét ở một phạm vi rộng hơn, chúng ta có khái niệm khu�
 
 điều này xét trên phương diện cá nhân, thì dễ dàng để chúng ta cảm nhận, và nhận diện rõ chúng ta đang đeo khuôn mặt nào trong tình huống nào. nhưng khi bạn cần một tín hiệu để giải mã những cảm xúc, hành vi của bản thân mình trong từng tình huống ấy. thì chừng ấy khuôn mặt, là một sự phức tạp đáng kể…
 
-<figure><img src="https://banmaixanh.org/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

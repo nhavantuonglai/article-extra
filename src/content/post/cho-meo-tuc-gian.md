@@ -3,7 +3,7 @@ pubDatetime: 2024-07-09T10:10:00Z
 title: Chó của bạn có biết khi nào mèo của bạn tức giận không?
 description: Chúng ta đã biết rằng động vật có cảm xúc, và chúng có thể hiểu được cảm xúc của con người. Nhưng liệu chúng có hiểu được cảm xúc của nhau không?
 featured: false
-image: https://banmaixanh.org/image/cover/001-544.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-544.jpg
 tags:
   - khoa hoc
   - dong vat
@@ -54,4 +54,4 @@ Tất cả các loài đều phản ứng mạnh mẽ hơn trong mọi trường
 
 Trong một số tình huống, động vật đã phản chiếu cảm xúc mà chúng tiếp xúc, đặc biệt là cảm xúc tiêu cực. Các nhà nghiên cứu không trực tiếp kiểm tra loại lây lan cảm xúc này, điều đã từ lâu được coi là bước đầu tiên dẫn đến sự đồng cảm. Tuy nhiên, nghiên cứu của họ có thể sẽ thúc đẩy các nhà sinh học hành vi khác đánh giá trí thông minh cảm xúc và khả năng đồng cảm của các loài động vật này cũng như những loài khác.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-112.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-112.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

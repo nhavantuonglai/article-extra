@@ -3,7 +3,7 @@ pubDatetime: 2021-11-23T10:10:00Z
 title: Các rủi ro mà các quỹ đầu tư ETF có thể gặp trên thị trường
 description: Chuỗi bài viết của nhavantuonglai về kinh doanh vàng bạc đá quý và quỹ đầu tư sẽ giúp nhà đầu tư khởi nghiệp hiệu quả.
 featured: false
-image: https://banmaixanh.org/image/cover/001-483.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-483.jpg
 tags:
   - viet thue
   - marketing
@@ -68,4 +68,4 @@ Trong bối cảnh hiện tại, những vấn đề này thường thực và d
 
 Nhìn chung, những rủi ro mà các quỹ đầu tư ETF có thể gặp phải là rất nhiều. Tuy nhiên, những điều này có thể tránh nếu nhà đầu tư có sự quan sát tốt. Qua đó, phòng trừ và né tránh được phần nào những rủi ro khi đầu tư vào các quỹ đầu tư ETF.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-516.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-516.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

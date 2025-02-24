@@ -3,7 +3,7 @@ pubDatetime: 2021-06-07T10:10:00Z
 title: Bài viết trên Instagram ngày 25 tháng 06 năm 2021
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - viet lach
   - doan van
@@ -24,4 +24,4 @@ rõ ràng, quyết định lên tàu, đi vào vùng nghi nhiễm rồi sau (vô
 
 nên, khoảnh khắc dừng lại và nhìn về phía sau khi hoàng hôn sắp tắt, lúc đang hòa cùng bao người đi về phía cổng sân bay thành phố, lòng mình tự nhiên khó tả. lên được máy bay rồi, mình nhìn về phía ô cửa sổ, nhìn đèn đường và sóng biển dần mờ dưới những đám mây, tự nhiên mắt cứ cay cay và chợt cảm giác rằng, rồi một lúc nào đó – mình cũng sẽ sớm quay trở lại thành phố này. sẽ sớm thôi…
 
-<figure><img src="https://banmaixanh.org/image/cover/001-112.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-112.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

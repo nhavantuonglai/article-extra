@@ -3,7 +3,7 @@ pubDatetime: 2024-11-26T10:10:00Z
 title: Bài viết trên Instagram ngày 26 tháng 11 năm 2024
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-125.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-125.jpg
 tags:
   - viet lach
   - doan van
@@ -22,4 +22,4 @@ ví dụ, mình không thể quay ngược quá khứ, chuyên tâm nhiều hơn
 
 chấp nhận cuộc sống bản thân dần thu hẹp và cảm xúc bị chi phối theo ít nhiều mà trở nên đơn sắc, là một phần của hành trình trưởng thành, bởi nếu không có chúng – thì những điều trên chỉ đơn thuần dừng ở nghĩ, chứ thực hiện thì chắc hãy còn lâu.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-286.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-286.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

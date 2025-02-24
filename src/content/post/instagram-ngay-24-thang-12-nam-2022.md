@@ -3,7 +3,7 @@ pubDatetime: 2022-12-24T10:10:00Z
 title: Bài viết trên Instagram ngày 24 tháng 12 năm 2022
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-121.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-121.jpg
 tags:
   - viet lach
   - doan van
@@ -22,4 +22,4 @@ lại có những hôm khác, những hôm hẹn nhau đi chơi, có hôm lên c
 
 cũng bởi vậy, mình thích bầu không khí Giáng Sinh đem đến, đó là bầu không khí của tất cả mọi người, ai cũng có phần và ai cũng được nhận. với người theo Đạo, đó rõ là sự kiện quan trọng và dịp để họ hướng về. với người không theo, đó cũng là dịp để họ hướng về, hướng đến những người thương quý và bạn xung quanh. và như điều giản đơn, một ngày lễ thắp lên tình yêu thương, là ngày lễ dành cho mọi người.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-143.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-143.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

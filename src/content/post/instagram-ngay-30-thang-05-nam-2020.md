@@ -3,7 +3,7 @@ pubDatetime: 2020-05-07T10:10:00Z
 title: Bài viết trên Instagram ngày 30 tháng 05 năm 2020
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - viet lach
   - doan van
@@ -20,4 +20,4 @@ sự trọn vẹn ấy, khiến cho những lúc yếu lòng vì la
 
 nên lúc mình nói lời tạm biệt, mình chợt nhận ra nhiều người quý mình lắm, đến mức mà tấm chân tình của họ mình sẽ không bao giờ có thể phản hồi lại tương xứng. có lẽ những điều ấy đến vào khi mọi chuyện là tốt đẹp nhất, mình và bạn cứ nhớ nhau vì ký ức đẹp đẽ ấy, đọng lại như thế và nhắc, để chúng mình chẳng thể nào mà quên.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-251.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-251.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

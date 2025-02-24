@@ -3,7 +3,7 @@ pubDatetime: 2022-03-30T10:10:00Z
 title: Cách chọn địa điểm kinh doanh khách sạn để tạo nên thành công
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
 featured: false
-image: https://banmaixanh.org/image/cover/001-357.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-357.jpg
 tags:
   - viet thue
   - marketing
@@ -29,7 +29,7 @@ _Địa điểm kinh doanh khách sạn ảnh hưởng quan trọng đến hiệ
 
 Địa điểm tốt tạo nên xuất phát điểm tốt hơn, giúp khách sạn của bạn cạnh tranh bán phòng hiệu quả hơn so với các đối thủ trong cùng khu vực, cũng như hấp dẫn du khách khi họ có nhu cầu đặt phòng khách sạn.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-006.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-006.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Làm thế nào để chọn đúng địa điểm phù hợp khi khởi nghiệp khách sạn?
 
@@ -59,7 +59,7 @@ Giá trị mục tiêu là giá trị được ưu tiên trong hiện tại, đ�
 
 Giá trị mục tiêu ảnh hưởng đến kế hoạch phát triển doanh thu, giúp bạn bước đầu xác định sẽ tốn bao nhiêu thời gian để thu hồi vốn để có những sự thay đổi giá trị cho phù hợp. Ví dụ, trong hiện tại mục tiêu bạn hướng đến là bán phòng nhiều nhất có thể, để [nhanh chóng tạo ra doanh thu và lợi nhuận](https://nhavantuonglai.com/article); để sau đó phát triển theo những ý tưởng khởi nghiệp khách sạn tương ứng.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-007.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-007.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Thuê lại địa điểm, khách sạn đang kinh doanh tốt
 
@@ -91,7 +91,7 @@ Một số lưu ý khi chọn địa điểm gần các điểm du lịch:
 
 Nói chung là, đặt khách sạn gần các điểm du lịch không đảm bảo công suất phòng luôn được lấp đầy, nhưng nhìn chung sẽ thuận lợi hơn là không.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-008.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-008.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Gần các dịch vụ, tiện ích công cộng
 
@@ -101,4 +101,4 @@ Ngoài ra, bạn cũng cần cân nhắc khi đặt khách sạn gần với cá
 
 Chọn địa điểm kinh doanh khách sạn không hề khó, nếu bạn biết phải bắt đầu từ đâu và chuẩn bị những gì. Với những thông tin được chắt lọc, hệ thống như trên đây, hy vọng bước khởi đầu kinh doanh khách sạn của bạn sẽ gặp được nhiều suôn sẻ, thuận lợi.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-304.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-304.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>

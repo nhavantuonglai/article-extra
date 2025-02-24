@@ -3,7 +3,7 @@ pubDatetime: 2023-07-29T10:10:00Z
 title: 5 thuyết âm mưu phổ biến nhất của Nga
 description: Trong khi người Mỹ có thuyết âm mưu yêu thích của riêng họ, có thể cho chúng ta biết rất nhiều về cách họ nghĩ, nhiều người Nga cũng có xu hướng tin vào những trò tai quái toàn cầu.
 featured: false
-image: https://banmaixanh.org/image/cover/001-280.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-280.jpg
 tags:
   - viet lach
   - thuyet am muu
@@ -54,4 +54,4 @@ Mục tiêu chính của tổ chức này sẽ là quyền lực, giả sử 30%
 
 Thật thú vị, một tỷ lệ lớn hơn nhiều người già tin điều này, chỉ có 16% trong số 60+ người nghĩ rằng không có âm mưu như vậy. Khoảng 45% thanh niên từ 18 – 24 tuổi không tin vào bất kỳ trật tự thế giới nào như vậy, mang lại một số hy vọng cho lý thuyết này ít phổ biến hơn trong tương lai.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-114.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-114.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

@@ -3,7 +3,7 @@ pubDatetime: 2021-03-07T10:10:00Z
 title: Hướng dẫn chi tiết về viết lách và marketing nội dung
 description: Viết lách và marketing nội dung là hai yếu tố quan trọng giúp xây dựng và phát triển thương hiệu trên môi trường số.
 featured: false
-image: https://banmaixanh.org/image/cover/001-317.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-317.jpg
 tags:
   - viet lach
   - ky nang viet
@@ -47,7 +47,7 @@ Viết lách đóng vai trò quan trọng trong việc xây dựng và phát tri
 
 – Thân thiện với SEO: Sử dụng từ khóa hợp lý và đúng ngữ cảnh để tăng khả năng tìm thấy trên các công cụ tìm kiếm.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-040.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-040.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Marketing nội dung: chiến lược và phương pháp
 
@@ -65,7 +65,7 @@ Chiến lược marketing nội dung giúp bạn xác định mục tiêu, đố
 
 – Lên kế hoạch nội dung: Xác định các chủ đề, định dạng nội dung (bài viết, video, infographics…) và lịch đăng bài.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-041.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-041.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ### Phương pháp tạo nội dung chất lượng
 
@@ -79,7 +79,7 @@ Nội dung chất lượng là yếu tố quyết định sự thành công củ
 
 – Tạo nội dung đa dạng: Sử dụng nhiều định dạng nội dung khác nhau để giữ cho độc giả luôn hứng thú.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-042.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-042.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Kết hợp viết lách và marketing nội dung
 
@@ -107,7 +107,7 @@ Email marketing là công cụ hiệu quả để tiếp cận và giữ chân k
 
 – Viết nội dung ngắn gọn và rõ ràng: Tránh viết quá dài, tập trung vào thông tin chính và kêu gọi hành động rõ ràng.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-043.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-043.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ### Sử dụng mạng xã hội
 
@@ -131,7 +131,7 @@ Mạng xã hội là nền tảng quan trọng để quảng bá nội dung. Khi
 
 – Tỷ lệ mở và nhấp chuột trong email: Sử dụng các công cụ email marketing để theo dõi tỷ lệ mở và nhấp chuột của các email bạn gửi đi.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-044.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-044.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Các công cụ hỗ trợ viết lách và marketing nội dung
 
@@ -161,7 +161,7 @@ Có nhiều công cụ hữu ích giúp bạn viết lách và thực hiện mar
 
 – Moz: Công cụ phân tích SEO toàn diện, giúp bạn cải thiện thứ hạng website.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-045.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-045.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Kết luận
 
@@ -169,4 +169,4 @@ Viết lách và marketing nội dung là hai yếu tố quan trọng và không
 
 Hãy bắt đầu áp dụng những chiến lược trên và khám phá sự sáng tạo không giới hạn trong viết lách và marketing nội dung.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-211.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-211.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

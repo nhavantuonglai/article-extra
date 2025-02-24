@@ -3,7 +3,7 @@ pubDatetime: 2022-01-15T10:10:00Z
 title: Khách sạn có thể học hỏi được gì từ Airbnb để kinh doanh tốt hơn?
 description:  Hãy cùng xem xét những gì mà Airbnb đã học hỏi và những điểm khác biệt, ưu thế chính của từng loại hình lưu trú.
 featured: false
-image: https://banmaixanh.org/image/cover/001-734.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-734.jpg
 tags:
   - viet thue
   - marketing
@@ -67,4 +67,4 @@ Với các công cụ công nghệ ngày nay, việc giao tiếp với khách h�
 
 Có nhiều sự khác biệt đáng kể giữa Airbnb và khách sạn, cùng với những lợi thế tùy thuộc vào những gì khách hàng đang tìm kiếm. Một trong những bài học quan trọng nhất là các khách sạn có thể học hỏi nhiều từ nền tảng này, tận dụng những gì hoạt động tốt và khắc phục những điểm yếu để thu hút khách hàng tiềm năng về phía mình.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-210.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-210.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>

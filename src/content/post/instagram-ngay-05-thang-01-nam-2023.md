@@ -3,7 +3,7 @@ pubDatetime: 2023-01-05T10:10:00Z
 title: Bài viết trên Instagram ngày 05 tháng 01 năm 2023
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-325.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-325.jpg
 tags:
   - viet lach
   - doan van
@@ -22,4 +22,4 @@ lúc trước, khi phim ảnh và truyền hình xuất hiện, thông tin đư�
 
 dẫu vậy, chẳng gì tồn tại mà không có vai trò cụ thể, nỗi sợ mình mắc phải cũng thế mà thôi. mình nghĩ, lý do cho việc chúng dù thiếu căn cứ nhưng vẫn khiến mình nghĩ nhiều là cách để nhắc nhở, hối thúc nên làm nhiều hơn trong một thế giới biến động và thay đổi không ngừng.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-310.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-310.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

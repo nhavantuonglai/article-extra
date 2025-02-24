@@ -3,7 +3,7 @@ pubDatetime: 2023-08-12T10:10:00Z
 title: Bài viết trên Instagram ngày 12 tháng 08 năm 2023
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-527.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-527.jpg
 tags:
   - viet lach
   - doan van
@@ -18,4 +18,4 @@ nhưng ngạc nhiên là, nhắc đến thông chẳng mấy ai nhắc đến Hu
 
 đem suy nghĩ mà thắc mắc với người bạn sống lâu ở Đà Lạt, bạn nhìn rồi mỉm cười bảo, cậu biết lịch sử nhưng chưa hiểu về địa lý. thông ở Đà Lạt chưa cần sự thi vị để nổi tiếng, bởi riêng bản thân chúng cũng đã mang dấu ấn về lịch sử. các nhà nghiên cứu cho rằng, Đà Lạt là giao điểm thực vật của trục Trường Sơn và Ấn Độ – Đông Dương, nên hệ thực vật nơi này vô cùng phong phú và đa dạng. một trong số loài phân bổ rộng chính là thông. giai đoạn chiến tranh, thông ở Huế vì bom đạn mà điêu tàn; kết thúc rồi thì người ta mới lấy thông từ Đà Lạt đem về khôi phục. nên giờ thông ở Huế, nguồn cội chính là từ Đà Lạt. dù vậy, muốn tìm thông gốc Huế không khó, cứ lên Đà Nam Giao, ở đó vẫn còn vài cây sót lại từ quá khứ, mọc riêng lẻ sát bờ thành, lặng yên đứng giữa trời mà reo.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

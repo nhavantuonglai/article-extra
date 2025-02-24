@@ -3,7 +3,7 @@ pubDatetime: 2021-01-07T10:10:00Z
 title: Bài viết trên Instagram ngày 31 tháng 01 năm 2021
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - viet lach
   - doan van
@@ -18,4 +18,4 @@ dù trả lời là vậy, mình vẫn tìm được đôi góc yên bình, tĩn
 
 thi thoảng, những lần dừng ấy lại kéo thêm ai đang đi cũng dừng lại, tới hỏi xem hoa cỏ gì thú vị thế? những lần vậy, mình đều là không biết, trả lời thật lòng mà ra chứ không vì không muốn trò chuyện. cũng có lúc, có người gần đó lại bảo, cây này trồng khó lắm nè, 2 năm rồi hoa mới nở, chiết được giống xịn mà mấy cây kia khó sống quá… mình nghe bằng tất cả sự thú vị, xem đó như là cách để định nghĩa cuộc sống có gì thú vị khi bạn thắc mắc mỗi lúc nhắn tin hỏi thăm.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-595.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-595.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

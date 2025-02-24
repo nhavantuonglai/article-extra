@@ -3,7 +3,7 @@ pubDatetime: 2021-01-21T10:10:00Z
 title: Ảnh hưởng của chất lượng âm thanh đối với trải nghiệm nghe nhạc
 description: Chọn một cặp tai nghe tốt có thể là một nhiệm vụ khó khăn, đặc biệt là khi thị trường hiện nay có vô số lựa chọn với nhiều tính năng và thiết kế khác nhau.
 featured: false
-image: https://banmaixanh.org/image/cover/001-551.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-551.jpg
 tags:
   - viet lach
   - thuong thuc am thanh
@@ -121,4 +121,4 @@ Chất lượng âm thanh có ảnh hưởng lớn đến trải nghiệm nghe n
 
 Công nghệ Hi-Res Audio và các định dạng âm thanh lossless mang lại Chất lượng âm thanh cao nhất, trong khi môi trường nghe và cách bố trí thiết bị cũng ảnh hưởng không nhỏ đến trải nghiệm nghe nhạc. Bằng cách hiểu rõ các yếu tố này, bạn có thể tối ưu trải nghiệm nghe nhạc của mình và thưởng thức âm nhạc một cách trọn vẹn nhất.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-211.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-211.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

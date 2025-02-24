@@ -3,7 +3,7 @@ pubDatetime: 2024-12-12T10:10:00Z
 title: Bài viết trên Instagram ngày 12 tháng 12 năm 2024
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-512.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-512.jpg
 tags:
   - viet lach
   - doan van
@@ -22,4 +22,4 @@ khi bước vào một thư viện đơn thuần, có thể ở đó sẽ rất 
 
 nên ở khía cạnh cá nhân, tự bảo muốn trở thành thư viện hoàn chỉnh trước lúc phải lụi tàn, thì đó là mong ước để định hình con người mình sẽ phải trở thành. còn khi nhìn người khác, thì đó là cái nhìn muốn tìm hiểu như bước vào một thư viện với nhiều điều chưa được học, chưa thể hiểu hết.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-156.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-156.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

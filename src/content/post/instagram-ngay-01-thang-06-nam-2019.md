@@ -3,7 +3,7 @@ pubDatetime: 2019-01-07T10:10:00Z
 title: Bài viết trên Instagram ngày 01 tháng 06 năm 2019
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - viet lach
   - doan van
@@ -22,4 +22,4 @@ cuộc trà nước ngắn ngủi để xe nguội ấy, tụi mình chào nhau 
 
 vai trò của cuộc gặp ấy, vốn không quá sâu sắc trong lòng mình, nhưng phần nào đó, khiến mình chấp nhận rằng cuộc sống này, có quá nhiều người với nhiều số phận khác nhau, và bản thân họ – đôi khi tạo ra sự nghiệt ngã cho chính mình. nhưng cũng chính họ, chẳng chấp nhận những điều nghiệt ngã ấy, và gắng mà đổ lỗi cho người khác như điều hiển nhiên họ đang làm…
 
-<figure><img src="https://banmaixanh.org/image/cover/001-132.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-132.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

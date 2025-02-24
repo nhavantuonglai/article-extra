@@ -3,7 +3,7 @@ pubDatetime: 2024-02-22T10:10:00Z
 title: Làm thế nào để viết lách trở thành thói quen?
 description: Viết lách là một kỹ năng quan trọng trong cuộc sống hiện đại, không chỉ cho những người làm nghề viết, mà còn cho bất kỳ ai muốn giao tiếp hiệu quả, sáng tạo.
 featured: false
-image: https://banmaixanh.org/image/cover/001-511.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-511.jpg
 tags:
   - viet lach
   - ky nang viet
@@ -17,7 +17,7 @@ _Viết lách là một kỹ năng quan trọng trong cuộc sống hiện đạ
 
 Chuỗi bài viết [Làm chủ nghệ thuật viết lách](https://nhavantuonglai.com/tags/lam-chu-nghe-thuat-viet-lach) là những hướng dẫn căn bản giúp bạn làm chủ kỹ năng viết lách của bản thân.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-072.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-072.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Xác định mục tiêu và lý do của bạn khi viết lách
 
@@ -35,7 +35,7 @@ Bạn viết lách vì muốn gì? Bạn muốn cải thiện kỹ năng viết 
 
 – Time-bound (Có thời hạn): Mục tiêu của bạn nên là có thời hạn, tức là có một ngày bắt đầu và kết thúc rõ ràng. Bạn nên đặt ra những hạn chót cho bản thân, để tạo áp lực và tăng hiệu suất cho công việc. Bạn nên trả lời được các câu hỏi: Bạn sẽ bắt đầu viết vào khi nào? Bạn sẽ hoàn thành viết vào khi nào?
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-073.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-073.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Tạo một kế hoạch và lịch trình cho việc viết lách
 
@@ -51,7 +51,7 @@ Bạn nên xác định trước thời gian, địa điểm và phương pháp 
 
 – Sắp xếp các chủ đề và từ khóa theo thứ tự ưu tiên và khả thi. Bạn nên xem xét các yếu tố như: Mức độ quan trọng và khẩn cấp của các chủ đề; Mức độ khó khăn và thời gian cần thiết để hoàn thành các bài viết; Mức độ hấp dẫn và cạnh tranh của các từ khóa; Mức độ liên quan và phù hợp của các chủ đề với nhau.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-074.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-074.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Thực hiện kế hoạch và lịch trình của bạn một cách nhất quán
 
@@ -67,7 +67,7 @@ Sau khi bạn đã tạo một kế hoạch và lịch trình cho việc viết 
 
 – Soạn thảo và [biên tập bài viết](https://nhavantuonglai.com/article/viet-lach-say-sua) của bạn. Bạn nên dựa vào các thông tin mà bạn đã thu thập, để soạn thảo bài viết của bạn theo một cấu trúc rõ ràng và hợp lý. Bạn nên chia bài viết của bạn thành các phần như: Tiêu đề, giới thiệu, thân bài, kết luận… Bạn nên sử dụng các từ khóa chính và từ khóa dài một cách tự nhiên và hợp lý trong bài viết của bạn, để tối ưu cho công cụ tìm kiếm. Bạn nên biên tập lại bài viết của bạn để kiểm tra và sửa lại các lỗi chính tả, ngữ pháp, câu chữ… Bạn nên đọc lại bài viết của bạn để đảm bảo rằng nó có thể truyền đạt được ý định tìm kiếm của người dùng.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-075.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-075.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Đọc và phân tích các bài viết của người khác
 
@@ -83,4 +83,4 @@ Một cách hiệu quả để học hỏi và cải thiện kỹ năng viết l
 
 – So sánh và đánh giá [tác phẩm văn chương](https://nhavantuonglai.com/article) mà bạn đã đọc. Bạn nên so sánh và đánh giá tác phẩm văn chương mà bạn đã đọc, để có thể nhận ra những điểm mạnh và điểm yếu của nó, cũng như những ưu điểm và nhược điểm của kỹ thuật và phong cách viết của tác giả. Bạn nên so sánh và đánh giá tác phẩm văn chương dựa trên các tiêu chí như: Mục đích, ý nghĩa, thông điệp, cảm xúc, sự thuyết phục, sự sáng tạo, sự mới lạ…
 
-<figure><img src="https://banmaixanh.org/image/cover/001-610.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-610.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

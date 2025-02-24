@@ -3,7 +3,7 @@ pubDatetime: 2020-08-07T10:10:00Z
 title: Bài viết trên Instagram ngày 09 tháng 08 năm 2020
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - viet lach
   - doan van
@@ -18,4 +18,4 @@ nhưng, mình cũng nói với bạn rằng, có một điều mà cụ N. Tolst
 
 tuy câu trả lời dù là như thế nào, mình vẫn thấy có sự liên kết rõ ràng giữa khung cảnh của ngôi nhà với những gì người khác nhìn vào. không phải là giả tạo, hay vỏ bọc hoàn hảo tiềm ẩn những bất ổn. mà đó là sự thay đổi, gắn kết và yêu thương nhiều hơn. và một điều không thể tiếc hơn rằng, hình ảnh ấy tươi sáng, đáng để hòa mình hơn, khi mà mình dần rời xa nó…
 
-<figure><img src="https://banmaixanh.org/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

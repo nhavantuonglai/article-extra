@@ -3,7 +3,7 @@ pubDatetime: 2023-06-30T10:10:00Z
 title: 5 gợi ý cho các tiệm Spa cải thiện doanh thu khi mở cửa trở lại sau dịch
 description: Tìm hiểu các chiến lược tiếp thị Spa hiệu quả trong chuỗi bài viết sau của nhavantuonglai để áp dụng và đem lại hiệu quả thiết thực cho giải pháp của bạn.
 featured: false
-image: https://banmaixanh.org/image/cover/001-727.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-727.jpg
 tags:
   - viet thue
   - marketing
@@ -53,4 +53,4 @@ Tiệm cũng có thể bán kèm sản phẩm, như mỹ phẩm, bộ làm móng
 
 Đã đến lúc vận hành tiệm Spa thông minh và hiệu quả hơn. Với những gợi ý ở trên đây, cũng như sự trợ giúp của [phần mềm quản lý Spa](https://nhavantuonglai.com/article), bạn có thể tận dụng tối đa hiệu quả, và cải thiện doanh thu cho tiệm của mình. Tiệm có thể trông khác khi so với trước lúc Covid xuất hiện, nhưng đó cũng là cơ hội để tạo nên những điều bất ngờ tích cực.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-514.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-514.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

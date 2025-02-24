@@ -3,7 +3,7 @@ pubDatetime: 2023-12-06T10:10:00Z
 title: Liệu mèo có thể dạy chúng ta ý nghĩa của cuộc sống?
 description: Những suy nghĩ nào phải lướt qua bộ não mèo của cô ta khi cô ta uốn mình để liếm một chân hay quay tai về phía chiếc xe rác đang lao xuống phố?
 featured: false
-image: https://banmaixanh.org/image/cover/001-395.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-395.jpg
 tags:
   - viet lach
   - xa hoi hoc
@@ -67,4 +67,4 @@ Gray đưa ra một phương thuốc cho sự đau khổ của chúng ta. Mườ
 
 – Cảnh giác với bất kỳ ai hứa sẽ làm bạn hạnh phúc.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-556.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-556.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

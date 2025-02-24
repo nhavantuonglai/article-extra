@@ -3,7 +3,7 @@ pubDatetime: 2024-01-11T10:10:00Z
 title: Bài viết trên Instagram ngày 11 tháng 01 năm 2024
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - viet lach
   - doan van
@@ -20,4 +20,4 @@ mà bảo mèo hoang là vậy, chứ mình chẳng biết được bao nhiêu t
 
 nhưng mà, đâu chỉ trong không gian có lũ mèo hoang đang sống gần nhà, mà mọi nơi mình đi qua và có lũ mèo hoang sống ở đó, dù trong góc tường hay đoạn đường hẻm nhỏ ở vùng rìa của thành phố; thì chúng đều dạn dĩ không ngại người khi họ đến gần. bởi vậy, có những lúc chạy bộ và tình cờ gặp, mình không giấu nổi sự chú ý mà dừng lại, len lén tới thử vuốt ve thì chúng vẫn cứ lặng yên đợi bàn tay đưa đến.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

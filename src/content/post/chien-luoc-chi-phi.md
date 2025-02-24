@@ -3,7 +3,7 @@ pubDatetime: 2023-02-19T10:10:00Z
 title: Chiến lược tốt nhất để giảm chi phí vận hành khách sạn là gì?
 description: Cung cấp trải nghiệm khách hàng vượt trội và tạo lợi nhuận tốt cho khách sạn là mục tiêu của mọi khách sạn. Dẫu vậy, nhiều khách sạn ở các cấp độ đều đang phải vật lộn với chi phí vận hành khách sạn cao.
 featured: false
-image: https://banmaixanh.org/image/cover/001-683.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-683.jpg
 tags:
   - viet thue
   - marketing
@@ -43,7 +43,7 @@ Chi phí cố định là các khoản phí giống nhau, không thay đổi b�
 
 – …
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-011.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-011.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Chi phí biến đổi
 
@@ -87,7 +87,7 @@ Chi phí cho nhân sự, người lao động luôn chiếm một phần đáng 
 
 Trong bối cảnh nền kinh tế khó khăn như hiện tại, các khách sạn cũng không đứng ngoài vòng xoáy cắt giảm chi phí lao động. Cách tiếp cận phù hợp đó là cân nhắc dựa trên hiệu quả công việc, mức độ quan trọng và đem lại giá trị như thế nào cho khách sạn.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-012.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-012.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Sử dụng thiết bị tiết kiệm năng lượng
 
@@ -119,7 +119,7 @@ Các khách sạn phụ thuộc vào những nhà cung cấp bên ngoài để c
 
 Hãy nhớ rằng, những gì phù hợp với nhu cầu khách sạn của 3 năm trước thì chưa chắc cũng vậy trong hiện tại. Cân nhắc và đánh giá hiệu quả khi tiếp tục làm việc với các nhà cung cấp, hoặc đàm phán để có thỏa thuận mới cùng chi phí hợp lý hơn là điều cần thiết. Khi cân đối được thu chi và nguồn lực cho nhà cung cấp, khách sạn có thể tối ưu chi phí vận hành để tập trung vào những hạng mục đem lại hiệu quả, chuyển đổi tốt hơn.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-013.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-013.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Đánh giá hiệu quả khi sử dụng các giải pháp công nghệ trong khách sạn
 
@@ -177,10 +177,10 @@ Tuy nhiên, không gì là hoàn hảo, và giảm chi phí vận hành trong kh
 
 – …
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-014.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-014.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Kết luận
 
 Khi khách sạn áp dụng những điều chỉnh như trong danh sách này, hãy lưu ý theo dõi xem chúng có đem lại hiệu quả như bạn đang kỳ vọng hay không, và dựa trên những thay đổi (tích cực lẫn tiêu cực) mà điều chỉnh chiến lược cho phù hợp. Ngoài ra, khách sạn cũng nên tham khảo ý kiến từ các chuyên gia có kinh nghiệm trước khi áp dụng các thay đổi mới mẻ trong khách sạn của bạn.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-517.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-517.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>

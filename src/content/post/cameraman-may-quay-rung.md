@@ -3,7 +3,7 @@ pubDatetime: 2023-03-17T10:10:00Z
 title: Khi cameraman để chiếc máy quay rung
 description: Có một khoảnh khắc mà hôm nay khi bắt gặp, nó khiến mình nhớ đến trận chung kết AFF Cup 2008, ở đó có một khoảnh khắc ghi hình vô cùng nghiệp dư trên sóng truyền hình.
 featured: false
-image: https://banmaixanh.org/image/cover/001-578.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-578.jpg
 tags:
   - viet lach
   - doan van
@@ -23,4 +23,4 @@ Tiếng còi kết thúc trận cũng là lúc tan tầm, thang máy chạm xu�
 
 Và ngoài kia có rất nhiều người họ phải cất lại niềm vui chung vì nhiệm vụ riêng, vì sự an toàn và hạnh phúc của mọi người, nên hãy đi thật cẩn thận, hãy tạm quên đi những bức xúc mỗi lần nhìn thấy họ, hãy mỉm cười, và vui vẻ tuân theo sự chỉ dẫn, cho niềm vui và tận hưởng những điều đẹp đẽ đang có thêm trọn vẹn.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

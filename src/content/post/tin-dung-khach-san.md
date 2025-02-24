@@ -3,7 +3,7 @@ pubDatetime: 2022-07-29T10:10:00Z
 title: Cách sử dụng tín dụng tại khách sạn?
 description: Bạn có thể làm gì với tín dụng tại khách sạn? Khách sạn có thể nâng cao trải nghiệm của khách.
 featured: false
-image: https://banmaixanh.org/image/cover/001-503.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-503.jpg
 tags:
   - viet thue
   - marketing
@@ -25,7 +25,7 @@ Tín dụng tại khách sạn là số tiền mà khách có thể sử dụng 
 
 Các loại tín dụng này cảm giác như là _tiền miễn phí,_ khuyến khích khách chi tiêu nhiều hơn so với bình thường. Bạn cũng có thể khuyến khích chi tiêu thêm bằng cách cung cấp nâng cấp cho các tín dụng này với giá giảm. Ví dụ, hỏi khách của bạn liệu họ có sẵn sàng trả thêm 10 đô la để có một giờ massage thay vì 30 phút như trong phiếu giảm giá không. Đọc thêm về cách tăng doanh thu bổ sung.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-041.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-041.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## 8 cách sử dụng tín dụng tại khách sạn
 
@@ -53,7 +53,7 @@ Tín dụng cũng có thể thu hút những khách thường không chi thêm c
 
 Chương trình khách hàng thân thiết của khách sạn đảm bảo khách quay lại. Bạn có thể cung cấp tín dụng hoặc điểm để đặt các tiện nghi tại khách sạn hoặc giảm giá cho các lần lưu trú trong tương lai. Vì chi phí thu hút khách mới cao hơn nhiều so với việc giữ khách, việc thúc đẩy lòng trung thành là rất quan trọng, và các điểm này là cách tuyệt vời để làm điều đó.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-042.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-042.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Nâng cấp phòng
 
@@ -71,10 +71,10 @@ Các tour và hoạt động là một cách tuyệt vời khác để khách s�
 
 Tính linh hoạt và cung cấp nhiều cách để khách sử dụng tín dụng là yếu tố chính để thành công. Cung cấp các tùy chọn đa dạng dựa trên hồ sơ và sở thích của khách đảm bảo sự hài lòng của khách. Nó cũng đa dạng hóa nơi họ chi tiền tại cơ sở của bạn, vì vậy không phải tất cả đều đến từ một nơi.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-043.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-043.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Kết luận
 
 Chúng ta đã xem xét tín dụng tại khách sạn và cách khách sạn sử dụng chúng. Khi được tiếp cận một cách chiến lược, chúng có thể mang lại lợi ích cho cả khách và khách sạn. Khách nhận được giá trị gia tăng và _tiền miễn phí_ để chi tiêu tại chỗ, trong khi khách sạn đảm bảo việc sử dụng các tiện nghi và dịch vụ cụ thể. Chúng cũng có thể khuyến khích việc mua dịch vụ bổ sung thường xuyên bằng cách cung cấp chúng như một phần của các chương trình khuyến mãi, chương trình khách hàng thân thiết, hoặc gói đặc biệt. Tất cả đều là một phần của việc nâng cao trải nghiệm của khách.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-314.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-314.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>

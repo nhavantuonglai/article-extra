@@ -3,7 +3,7 @@ pubDatetime: 2022-06-19T10:10:00Z
 title: Overbooking nguy hiểm như thế nào?
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
 featured: false
-image: https://banmaixanh.org/image/cover/001-727.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-727.jpg
 tags:
   - viet thue
   - marketing
@@ -27,7 +27,7 @@ Overbooking là tình trạng phòng bán thành công vượt ngưỡng tối �
 
 Bên cạnh đó, nhiều khách sạn cũng xem đây là một giải pháp quản lý rủi ro, để tối ưu công suất đặt phòng, giảm tỷ lệ phòng trống trong những trường hợp nhất định. Overbooking như đã nói ở trên, thường được các khách sạn lựa chọn để tối ưu doanh thu bằng cách lấp trước khoảng trống với khách no-show. Tuy vậy, đây không phải là giải pháp hoàn hảo, tồn đọng những tiềm ẩn cực kỳ nguy hiểm cho việc vận hành.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-027.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-027.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Overbooking nguy hiểm như thế nào?
 
@@ -41,7 +41,7 @@ Có thêm một tình huống khác là khách no-show cao hơn ước lượng 
 
 Như vậy, Overbooking vừa có thể là tình huống ngoài dự liệu, hoặc cũng được toan tính từ trước. Tuy vậy, điều rõ ràng được thể hiện là, tình huống này dù có được toan tính hay không, thì ảnh hưởng tiêu cực vẫn nhiều hơn cả. Vậy làm thế nào để tránh Overbooking trong quản lý khách sạn?
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-028.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-028.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Hạn chế Overbooking như thế nào?
 
@@ -57,8 +57,8 @@ Như vậy, Overbooking vừa có thể là tình huống ngoài dự liệu, ho
 
 Ngoài ra, bạn cũng có thể tham khảo thêm [các giải pháp để khác phục, hạn chế tình trạng overbooking](https://nhavantuonglai.com/article) trong khách sạn của mình.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-029.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-029.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 Những dữ liệu này không khó để người quản lý có được, bởi với kinh nghiệm và sự phối hợp chặt chẽ giữa các phòng ban, thì thông tin sẽ được cung cấp đầy đủ, chính xác cho mọi người. Bên cạnh đó, những phần mềm quản lý toàn diện khách sạn cũng cung cấp vô cùng chính xác những biến động trong quá trình vận hành. Lựa chọn tốt nhất sẽ là lựa chọn giúp người quản lý giải quyết, tối ưu được nhiều vấn đề nhất trong quá trình vận hành.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-524.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-524.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>

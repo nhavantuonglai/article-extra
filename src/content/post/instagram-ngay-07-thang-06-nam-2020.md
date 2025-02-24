@@ -3,7 +3,7 @@ pubDatetime: 2020-06-07T10:10:00Z
 title: Bài viết trên Instagram ngày 07 tháng 06 năm 2020
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - viet lach
   - doan van
@@ -20,4 +20,4 @@ và rồi lúc sống đủ sâu như bạn dẫn dắt, khi mọi thứ ồn à
 
 cái nhịp này, bạn mình mỉm cười đơn giản, Sài Gòn mà. dễ sống quá, nên ai đến cũng được, nên gặp ai cũng hay. mà dễ dãi không chừng, để chẳng có gì mà tiếc với nuối, để chẳng có gì mà tha thiết với nhau nhiều. sống trong cái nhịp ấy, mình vừa trở nên lạc loài bởi cái giọng Huế không pha tạp và chẳng muốn pha tạp, và vừa thành lạc lõng vì không biết cách hòa cùng nhịp mà mọi người đang ngân vang.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

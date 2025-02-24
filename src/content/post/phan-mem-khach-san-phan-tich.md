@@ -3,7 +3,7 @@ pubDatetime: 2022-06-29T10:10:00Z
 title: Làm thế nào để phân tích hiệu quả kinh doanh bằng phần mềm quản lý khách sạn?
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
 featured: false
-image: https://banmaixanh.org/image/cover/001-649.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-649.jpg
 tags:
   - viet thue
   - marketing
@@ -29,7 +29,7 @@ Với tầm quan trọng của việc phân tích hiệu quả kinh doanh khách
 
 Giá trị lớn nhất của phần mềm quản lý khách sạn chính là công cụ theo dõi dữ liệu và hệ thống, báo cáo lại cho người quản lý. Doanh thu khách sạn, [công suất phòng](https://nhavantuonglai.com/article), thông tin chi tiết về khách hàng – đều được ghi lại và lưu trữ để thuận tiện xem xét lại sau này.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-068.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-068.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Hoạt động như thư viện với các công cụ báo cáo
 
@@ -45,7 +45,7 @@ Bạn cũng có thể áp dụng cách tiếp cận này với các chỉ số k
 
 Điều tuyệt vời hơn là gì bạn biết không? Mọi thứ đều được tự động hóa, phần mềm sẽ làm thay bạn một số việc, và vì vậy nên bạn sẽ tiết kiệm được kha khá thời gian để làm những việc khác.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-069.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-069.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Doanh thu
 
@@ -121,7 +121,7 @@ Cụ thể, dựa vào những thông tin này, khách sạn có thể xác đ�
 
 Gợi ý dành cho khách sạn: Chân dung khách hàng là điều quan trọng nhất. Trong phần mềm quản lý khách sạn, mục _Báo cáo khách đặt phòng_ sẽ có thông tin tóm tắt, chi tiết và quan trọng về khách đặt phòng. Bằng cách xem xét dữ liệu này, bạn có thể hiểu khách hàng thích gì và những điểm đến phổ biến. Dựa vào những thông tin đó, khách sạn có thể linh động điều chỉnh chính sách, dịch vụ của mình nhằm đáp ứng cho phù hợp.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-070.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-070.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Kết luận
 
@@ -133,4 +133,4 @@ Báo cáo khách sạn cung cấp rất nhiều thông tin quý giá, giúp khá
 
 Gợi ý dành cho khách sạn: Đừng chỉ đọc số liệu, hãy hành động. Cạnh tranh ngành khách sạn rất khốc liệt, nó là cấp số nhân. Muốn duy trì tính cạnh tranh thì hãy thay đổi liên tục.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-300.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-300.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>

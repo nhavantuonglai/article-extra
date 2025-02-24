@@ -3,7 +3,7 @@ pubDatetime: 2021-10-29T10:10:00Z
 title: Hướng dẫn viết kịch bản hiệu quả
 description: Viết kịch bản không chỉ đơn giản là việc đưa ra những lời thoại và hành động của nhân vật lên giấy. Đó là một quá trình sáng tạo phức tạp đòi hỏi sự kết hợp giữa nghệ thuật và kỹ thuật.
 featured: false
-image: https://banmaixanh.org/image/cover/001-115.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-115.jpg
 tags:
   - viet lach
   - ky nang viet
@@ -19,7 +19,7 @@ _Viết kịch bản không chỉ đơn giản là việc đưa ra những lời
 
 Kịch bản là bản kế hoạch chi tiết cho một tác phẩm điện ảnh, truyền hình, sân khấu hoặc thậm chí là trò chơi điện tử. Nó bao gồm các yếu tố như lời thoại của nhân vật, mô tả cảnh quay, hành động và các chỉ dẫn khác cho đạo diễn và diễn viên. Vai trò của kịch bản rất quan trọng vì nó là nền tảng để các thành viên trong đoàn làm phim hiểu rõ về nội dung và mục tiêu của tác phẩm.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-095.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-095.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Các yếu tố cơ bản của kịch bản
 
@@ -53,7 +53,7 @@ Môi trường và thời gian: Bối cảnh giúp tạo nên không khí và m�
 
 Tương tác với nhân vật: Bối cảnh ảnh hưởng đến hành động và cảm xúc của nhân vật. Ví dụ, một cảnh trong đêm mưa bão sẽ tạo ra cảm giác căng thẳng hơn so với một buổi sáng nắng đẹp.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-096.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-096.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Các kỹ năng cần thiết để viết kịch bản chất lượng
 
@@ -75,7 +75,7 @@ Viết nháp: Ban đầu, bạn có thể viết một bản nháp mà không c�
 
 Chỉnh sửa và hoàn thiện: Sau khi viết nháp, bạn cần dành thời gian để chỉnh sửa. Đây là quá trình quan trọng để cải thiện chất lượng của kịch bản. Chú ý đến lỗi ngữ pháp, sự rõ ràng và logic của câu chuyện, cũng như cách thể hiện của các nhân vật.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-097.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-097.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Quá trình sản xuất và cộng tác khi viết kịch bản
 
@@ -99,7 +99,7 @@ Sự từ chối: Một trong những thách thức lớn nhất của biên k�
 
 Áp lực thời gian: Viết kịch bản thường đi kèm với áp lực về thời gian. Đặc biệt khi dự án đã được khởi động, biên kịch phải làm việc với lịch trình nghiêm ngặt để đảm bảo tiến độ.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-098.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-098.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ### Cơ hội
 
@@ -107,10 +107,10 @@ Khả năng sáng tạo không giới hạn: Viết kịch bản là một lĩnh
 
 Tác động và ảnh hưởng: Một kịch bản hay có thể ảnh hưởng mạnh mẽ đến khán giả, tạo ra những cảm xúc sâu sắc và gợi suy ngẫm về các vấn đề xã hội, văn hóa.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-099.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-099.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Kết luận
 
 Viết kịch bản là một hành trình đầy thách thức nhưng cũng rất thú vị và bổ ích. Nó đòi hỏi sự kết hợp giữa nghệ thuật kể chuyện và kỹ thuật viết, sự sáng tạo không ngừng và khả năng hợp tác với các thành viên khác trong đoàn làm phim. Một kịch bản tốt không chỉ là nền tảng cho một tác phẩm điện ảnh, truyền hình hay sân khấu thành công mà còn là cách để biên kịch thể hiện cái nhìn và thông điệp của mình đến với khán giả. Để trở thành một biên kịch giỏi, hãy luôn trau dồi kỹ năng, học hỏi từ những kinh nghiệm và không ngừng thử thách bản thân với những ý tưởng mới mẻ.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-514.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-514.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

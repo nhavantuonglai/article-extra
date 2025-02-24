@@ -3,7 +3,7 @@ pubDatetime: 2023-12-05T10:10:00Z
 title: Bài viết trên Instagram ngày 05 tháng 12 năm 2023
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-167.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-167.jpg
 tags:
   - viet lach
   - doan van
@@ -16,4 +16,4 @@ lúc ấy, mình tưởng vì trải nghiệm với người Hà Nội chưa đ�
 
 dù không thể nghe để nhớ đủ nhiều những giọng Huế thân thuộc, thì điều an ủi cho riêng là mình vẫn giữ giọng Huế đặc trưng, không bị phai lẫn, cũng chẳng bị lai tạp thêm bớt theo thời gian. mình nghĩ, điều an ủi ấy đến từ sự cứng đầu vốn có, khi đã không thích đổi giọng, nói giọng dễ nghe với tất cả mọi người. còn riêng chuyện quên gần hết giọng của người Huế là thế nào, buồn thì buồn thật đấy, nhưng không sao cả, cứ tìm gặp, cứ nghe nhiều thì mình sẽ lại nhớ, sẽ phân biệt được giọng của từng người như trước vẫn thế mà thôi.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

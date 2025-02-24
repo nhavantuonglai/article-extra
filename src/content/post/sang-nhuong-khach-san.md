@@ -3,7 +3,7 @@ pubDatetime: 2022-07-19T10:10:00Z
 title: Sang nhượng khách sạn và những lưu ý cần phải biết khi tiến hành
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
 featured: false
-image: https://banmaixanh.org/image/cover/001-249.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-249.jpg
 tags:
   - viet thue
   - marketing
@@ -29,7 +29,7 @@ Khác với các hình thức kinh doanh bất động sản khác, khách sạn
 
 Thứ hai, thời gian lưu trú không cố định, phổ biến là ngắn ngày nên việc đảm bảo vệ sinh, làm mới không gian lẫn phòng ốc là điều vô cùng quan trọng. Nếu tài sản là chung cư và khách hàng là người ở dài hạn, việc dọn dẹp hay thay drap giường không bắt buộc thực hiện mỗi ngày – đôi khi điều ấy còn được xem là quá kỹ tính và tốn thời gian. Nhưng là khách sạn thì khác, bạn phải luôn trong trạng thái dọn dẹp, cung cấp mọi thứ mới nhất, sạch sẽ nhất cho khách hàng của mình.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-009.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-009.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Tùy vào loại hình khách sạn, mà chiến lược kinh doanh cũng sẽ khác nhau
 
@@ -71,7 +71,7 @@ RevPAR bổ sung cho ADR vì trong khi ADR chỉ xem xét giá trung bình của
 
 Với 2 chỉ số này, các khách sạn sau sang nhượng có thể cải thiện về dịch vụ, trải nghiệm khách hàng, chiến lược giá và các ưu đãi để thu hút, giữ chân khách hàng của mình.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-010.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-010.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### 2 điều kiện bên ngoài đánh giá tiềm năng sinh lời của khách sạn
 
@@ -95,7 +95,7 @@ Với nhóm khách du lịch, họ thường có xu hướng chi tiêu nhiều h
 
 Với nhóm khách công tác, họ thường có xu hướng chi tiêu ít hơn cho các dịch vụ và tiện nghi cá nhân như nhóm ở trên, nhưng quyết định đặt phòng lại dựa vào các dịch vụ tiện nghi giải pháp, như phòng họp, nhà hàng… Đặc điểm chung của nhóm này là có xu hướng ổn định, không bị ảnh hưởng nhiều bởi các điều kiện bên ngoài. Do vậy, khách công tác có thể mang lại doanh thu ổn định hơn cho khách sạn.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-011.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-011.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Quy trình 5 bước sang nhượng khách sạn
 
@@ -149,7 +149,7 @@ Ví dụ: Khách sạn có EBITDA là 500 triệu đồng, tỷ suất sinh lờ
 
 Dựa vào công thức này, bạn có thể ra giá cho khách sạn của mình để các đối tác tiềm năng tham khảo, tìm đến và thương lượng để đạt được con số hợp lý cùng đôi bên.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-012.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-012.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### 3 phương pháp định giá khách sạn
 
@@ -167,4 +167,4 @@ Tiếp theo, cùng tìm hiểu về 3 phương pháp định giá khách sạn, 
 
 Mua bán, sang nhượng khách sạn là một cuộc phiêu lưu với nhiều trải nghiệm thú vị. Chúng vừa có thể đem đến cho người mua lẫn người bán những cơ hội sinh lời thiết thực, nhưng cũng có khi tạo nên những rủi ro tài chính không đáng có. Dẫu thế, đây là giải pháp thuyết phục nhất để sở hữu, đầu tư và xây dựng một khách sạn theo ý mình muốn. Thế cho nên, đừng bỏ qua cơ hội khi tìm thấy khách sạn phù hợp đang sang nhượng, và cân nhắc những điều mà [Giải pháp](https://nhavantuonglai.com/article) đã chia sẻ trên đây để có được tài sản hàng mong ước và sinh lời từ chúng đầy hiệu quả.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-210.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-210.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>

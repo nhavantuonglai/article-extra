@@ -3,7 +3,7 @@ pubDatetime: 2024-10-20T10:10:00Z
 title: Trường hợp kỳ lạ của người phụ nữ sinh ra thỏ
 description: Năm 1726, London đã bị đánh lừa bởi một người phụ nữ nghèo và mù chữ tên là Mary Toft.
 featured: false
-image: https://banmaixanh.org/image/cover/001-441.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-441.jpg
 tags:
   - khoa hoc
   - lich su
@@ -26,7 +26,7 @@ Ngày nay, Mary Toft chỉ còn là một dòng chú thích trong những _kho l
 
 Harvey bắt đầu giảng dạy về vụ việc của Mary Toft cho sinh viên lịch sử đại học và sớm nhận ra rằng các nhà sử học đã bỏ qua rất nhiều điều quan trọng trong câu chuyện. _Không ai đặt nhiều câu hỏi về Mary và cuộc đời bà ấy,_ Harvey nói. Vì vậy, bà đã nghiên cứu các bản thú tội của Mary Toft, hiện đang được lưu trữ tại bộ sưu tập đặc biệt của Đại học Glasgow. Bà nhận thấy sự đau khổ của Mary được mô tả rất rõ ràng và cách Mary diễn đạt nỗi đau trong toàn bộ quá trình này thật cụ thể. Thay vì là một kẻ thao túng xuất sắc, Mary dường như đã bị lợi dụng. _Nhưng từ đầu đến cuối, bà ấy nói: Không phải tôi, không phải ý tưởng của tôi, có những người phụ nữ đã xúi giục tôi làm điều này,_ Harvey chia sẻ. _Tôi không chắc rằng bà ấy có bất kỳ quyền lực nào cả._
 
-<figure><img src="https://banmaixanh.org/image/article/tro-lua-sinh-tho-01.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/tro-lua-sinh-tho-01.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
 Mary Toft sinh năm 1703 tại Godalming, Surrey, cách London khoảng 40 dặm. Theo bài báo của Harvey _Thỏ, Đảng Whig và Thợ săn: Phụ nữ và Sự phản đối trong những Lần Sinh Đẻ Kỳ Quái của Mary Toft năm 1726,_ Godalming là một trong những khu vực nghèo nhất trong quận. Năm 17 tuổi, Mary kết hôn với Joshua Toft, một công nhân dệt len 18 tuổi, và sớm có hai đứa con. Mỗi sáng, Mary đi bộ hai tiếng để làm việc trên những cánh đồng trồng hoa bia, trải qua những ngày làm việc mệt mỏi trong một cuộc sống đầy khó khăn.
 
@@ -42,7 +42,7 @@ Bị cuốn hút bởi hiện tượng dường như mang tính siêu nhiên, b�
 
 Vào ngày 15 tháng 11, các nhà quý tộc đến nơi và biết được, thật tiện lợi, rằng Mary Toft vừa bắt đầu _chuyển dạ_ với con thỏ chết thứ 15. St. André và Molyneux sau đó đã chứng kiến thêm một vài lần _sinh_ nữa. Khi kiểm tra những con thỏ, người ta nhận thấy, như mong đợi, chúng không thể nào xuất phát từ cơ thể của Toft. Trong dạ dày của một con có chứa tàn dư của cỏ khô và cỏ xanh. Một số con trông như bào thai, trong khi những con khác có thể đã được ba tháng tuổi.
 
-<figure><img src="https://banmaixanh.org/image/article/tro-lua-sinh-tho-02.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/tro-lua-sinh-tho-02.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
 Tuy nhiên, St. André vô cùng hào hứng với khả năng này và lý giải mọi thứ, cho rằng những con thỏ được sinh ra đã chết và, trong một số trường hợp, bị chia thành nhiều phần vì những cơn co thắt khi sinh, theo nhà sử học người Anh Edward White trong _The Paris Review._ Vì vậy, St. André mang một trong những con thỏ ngâm về cho nhà vua.
 
@@ -54,7 +54,7 @@ Tuy nhiên, St. André vô cùng hào hứng với khả năng này và lý gi�
 
 Ngày 29 tháng 11, Toft được đưa đến một nhà tắm ở London để tiếp tục theo dõi. Tại đây, bà bị khám xét thường xuyên bởi tới 10 bác sĩ cùng lúc, tất cả đều là đàn ông, theo bài báo của Harvey _Những gì Mary Toft đã cảm nhận: Tiếng nói của phụ nữ, nỗi đau, quyền lực và cơ thể._
 
-<figure><img src="https://banmaixanh.org/image/article/tro-lua-sinh-tho-03.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/tro-lua-sinh-tho-03.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
 Toft không _sinh_ thêm con thỏ nào nữa và cũng có vẻ bị ốm nặng. Nhưng chính trong thời gian này, một người khuân vác bị bắt quả tang đang lén đưa một con thỏ vào phòng của Toft. Ông ta khai với Douglas rằng chị dâu của Toft, Margaret Toft, đã nhờ ông mua con thỏ nhỏ nhất mà ông có thể tìm được.
 
@@ -70,7 +70,7 @@ Thỏ rất phổ biến vào thời điểm đó và cũng là biểu tượng 
 
 Không thể khẳng định lý do tại sao Toft thực hiện trò lừa nguy hiểm và kỳ lạ này, nhưng Harvey không tin Toft là người chủ mưu chính. _Bà ấy là một phụ nữ trẻ, cực kỳ nghèo khổ, đến từ một thị trấn nhỏ, bị đưa đến London, luôn có những người đàn ông quý tộc quyền thế đi theo và giám sát,_ Harvey chia sẻ. _Tôi nghĩ bà ấy chỉ đóng vai trò chính trong một màn trình diễn do người khác dàn dựng._ Trong các lời thú nhận, Toft nhiều lần đổ lỗi cho những người khác: chồng bà, mẹ chồng, thậm chí là vợ của một người kéo đàn quay tay ở địa phương.
 
-<figure><img src="https://banmaixanh.org/image/article/tro-lua-sinh-tho-04.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/tro-lua-sinh-tho-04.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
 Khi trò lừa bị vạch trần, các tờ báo tha hồ chế giễu – đặc biệt là giới y khoa danh giá. _Đây là sự kiện truyền thông lớn nhất từ năm 1726 đến 1727,_ Russell nói. _Nó chắc chắn làm tổn hại danh tiếng của nghề y._ Tuy nhiên, Toft không thoát khỏi sự chỉ trích. Ngày 9 tháng 12, bà bị buộc tội là một _Kẻ gian trá khét tiếng và đê tiện_ và bị giam ở nhà tù Bridewell trong bốn tháng. Đám đông kéo đến để nhìn vào buồng giam có cửa hướng ra công cộng của bà. Cuối cùng, bà được thả mà không bị buộc tội và trở lại cuộc sống bình thường. Nhưng vị trí của bà trong lịch sử đã được xác lập. Khi qua đời năm 1763 ở tuổi 60, nhà thờ đã ghi chú: _Mary Toft, góa phụ, kẻ lừa đảo thỏ._
 
@@ -80,4 +80,4 @@ Câu chuyện của Toft vẫn là nguồn cảm hứng lớn. Russell thường
 
 Hình ảnh nổi tiếng nhất về Mary Toft là bức tranh của nhà châm biếm William Hogarth. Trong _Cunicularii_ – một cách chơi chữ từ tiếng Latin cho _thỏ_ (cuniculus) và _âm hộ_ (cunnus) – Hogarth mô tả cơ thể của Toft trong cơn chuyển dạ, bao quanh bởi các bác sĩ. Đó là một cảnh tượng đầy kịch tính, nhưng không mấy dễ chịu. Hogarth muốn chế giễu sự cả tin của các bác sĩ thời đó, nhiều người trong số họ tìm cách nổi tiếng nhờ những trường hợp kỳ lạ như vậy. Harvey, người sắp xuất bản một cuốn sách nhằm nhân văn hóa Toft, đã tiếp cận câu chuyện qua bức tranh này. _Bạn có thể thấy bà ấy đang đau đớn, nhưng nó gần như trông như bà ấy đang trải nghiệm niềm hân hoan,_ bà nói. _Dù thế nào đi nữa, đó là một tình huống vô cùng dễ tổn thương._
 
-<figure><img src="https://banmaixanh.org/image/cover/001-517.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-517.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

@@ -3,7 +3,7 @@ pubDatetime: 2022-08-08T10:10:00Z
 title: Các khách sạn nên sử dụng marketing truyền miệng như thế nào cho hiệu quả
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
 featured: false
-image: https://banmaixanh.org/image/cover/001-517.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-517.jpg
 tags:
   - viet thue
   - marketing
@@ -21,7 +21,7 @@ Chính vì vậy, không lạ khi nhiều khách sạn đẩy mạnh khai thác,
 
 Tuy nhiên, không nhiều khách sạn hiện nay thật sự hiểu, khai thác chúng có hiệu quả, bởi cho rằng Marketing truyền miệng là điều không thể kiểm soát được. Trên thực tế, họ vẫn có thể làm được.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-086.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-086.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Tại sao Marketing truyền miệng vẫn hiệu quả?
 
@@ -41,7 +41,7 @@ Xét trong góc độ khách hàng, Marketing truyền miệng đem đến cái 
 
 Trong ngành khách sạn, Marketing truyền miệng là sự kiểm chứng những thông điệp, quảng cáo về dịch vụ, hạng phòng của khách sạn. Tương tự như những điều trên, để khai thác tốt chúng, thì [trải nghiệm của du khách tại khách sạn](https://nhavantuonglai.com/article) phải luôn nhất quán, chân thực và tích cực. Có như vậy, họ mới sẵn sàng chia sẻ, lan tỏa và gợi ý chúng đến với người thân, bạn bè của họ.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-080.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-080.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Các khách sạn nên làm gì để Marketing truyền miệng đem lại hiệu quả?
 
@@ -87,7 +87,7 @@ Ví dụ, tặng khách đặt phòng chiếc bánh kem nhỏ nếu hôm check i
 
 Những điều này được gọi là [cá nhân hóa trải nghiệm tại khách sạn](https://nhavantuonglai.com/article), chúng thể hiện sự để ý, quan tâm của khách sạn với khách đặt phòng. Nếu điều này đủ khiến du khách ấn tượng và thích thú, họ sẽ không ngần ngại mà giới thiệu chúng với mọi người xung quanh.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-081.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-081.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Chiến lược Marketing truyền miệng cho khách sạn
 
@@ -111,7 +111,7 @@ Tiếp thị liên kết (Affiliate Marketing) cũng tương tự như trên, c�
 
 Affiliate Marketing có thể áp dụng cho các blogger, influencer… bởi khả năng tiếp cận và thuyết phục cao với fans của họ. Đây cũng là thị trường tiềm năng, đem lại doanh thu ước tính lên đến 8,2 tỷ USD vào năm 2022, và dự kiến còn tăng mạnh trong thời gian tới.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-084.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-084.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Kết luận
 
@@ -119,4 +119,4 @@ Trong các [chiến lược bán phòng](https://nhavantuonglai.com/article) hi�
 
 Sức mạnh của chiến lược Marketing truyền miệng trong khách sạn là vô cùng to lớn, nhiều tiềm năng để khai thác. Khi kinh doanh, các khách sạn không nên bỏ lỡ, đứng ngoài cuộc chơi khi không áp dụng chiến lược này. Bằng cách kết hợp nhiều chiến lược Marketing truyền miệng khác nhau, cũng như nhiều chiến lược tổng thể hơn, việc kinh doanh của khách sạn sẽ tăng trưởng đáng kể, bán được nhiều phòng hơn trước đó.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-616.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-616.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>

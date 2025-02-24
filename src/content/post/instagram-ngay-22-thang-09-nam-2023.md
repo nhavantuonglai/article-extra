@@ -3,7 +3,7 @@ pubDatetime: 2023-09-22T10:10:00Z
 title: Bài viết trên Instagram ngày 22 tháng 09 năm 2023
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-167.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-167.jpg
 tags:
   - viet lach
   - doan van
@@ -20,4 +20,4 @@ tiếp nữa, nguyên tắc không tạo rào cản, chúng khiến công việc
 
 sáng tạo trong khuôn khổ và những phép tắc cũng từ đó mà ra.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-214.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-214.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

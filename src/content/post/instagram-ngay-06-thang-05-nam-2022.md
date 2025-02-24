@@ -3,7 +3,7 @@ pubDatetime: 2022-05-06T10:10:00Z
 title: Bài viết trên Instagram ngày 06 tháng 05 năm 2022
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-321.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-321.jpg
 tags:
   - viet lach
   - doan van
@@ -20,4 +20,4 @@ cũng thêm một vài hôm và vài cuộc phỏng vấn khác, mình nghe phon
 
 mãi sau này, khi nhớ về khuôn mặt và ánh mắt của ba mẹ, khi kể kế hoạch nam tiến lúc sắp rời đi, mình lại thấy chúng tương đồng lạ kỳ với những gì từng thấy ở ngôi làng xa xôi nọ. phải thêm một thời gian dài nữa, mình mới nhận ra chúng, sự bối rối ấy – cũng chỉ vì không biết điều gì sẽ biến mất và điều gì để lại, trong mong muốn những đứa con sẽ ở gần mình hơn…
 
-<figure><img src="https://banmaixanh.org/image/cover/001-310.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-310.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

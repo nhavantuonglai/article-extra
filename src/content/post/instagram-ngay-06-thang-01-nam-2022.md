@@ -3,7 +3,7 @@ pubDatetime: 2022-01-06T10:10:00Z
 title: Bài viết trên Instagram ngày 06 tháng 01 năm 2022
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-323.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-323.jpg
 tags:
   - viet lach
   - doan van
@@ -20,4 +20,4 @@ _một dịp chung chuyến xe với đoàn khách đến Huế, anh tình cờ 
 
 tình cờ mấy hôm nay mọi người nói về _Thư tình gửi một người,_ mình chợt nhớ xưa cũng từng viết đôi lá thư (tình) gửi ai đó, là những dòng trên đây. sau mấy năm, người ta cũng đã sắp lấy chồng, và thư chẳng còn thơ như ngày nào đã viết. có lẽ vậy, mà khi đọc lại, mình cảm giác lạ lẫm, như chẳng phải của mình. điều duy nhất khiến mình nhận ra đây là văn tự viết, vì nhắc đến Huế rất nhiều, nhiều đến độ nếu lược qua những đoạn tình cảm dạt dào, thì đây vẫn là bức thư có thể gửi cho một ai khác. mình lược ra, để gửi đến ai đang nhớ Huế, như mình hiện tại.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-310.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-310.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

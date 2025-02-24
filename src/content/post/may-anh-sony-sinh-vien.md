@@ -3,7 +3,7 @@ pubDatetime: 2022-12-17T10:10:00Z
 title: Nên mua máy ảnh Sony nào cho hợp túi tiền?
 description: Với nhiều năm kinh nghiệm sử dụng máy ảnh Sony và làm việc với các sản phẩm của hãng, tôi đã thử nghiệm tất cả các mẫu trong danh sách này.
 featured: false
-image: https://banmaixanh.org/image/cover/001-257.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-257.jpg
 tags:
   - affiliate
   - may anh
@@ -205,4 +205,4 @@ Lựa chọn máy ảnh Sony phù hợp với túi tiền của sinh viên có t
 
 Nếu bạn không thích những gợi ý nêu trên, thì có thể tìm hiểu [máy ảnh Canon giá rẻ](https://nhavantuonglai.com/article/may-anh-canon-sinh-vien), cũng như [máy ảnh Nikon giá rẻ](https://nhavantuonglai.com/article/may-anh-nikon-sinh-vien) để có cho mình chiếc máy ảnh ưa ý và hợp túi tiền.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-251.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-251.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

@@ -3,7 +3,7 @@ pubDatetime: 2022-12-08T10:10:00Z
 title: Bài viết trên Instagram ngày 08 tháng 12 năm 2022
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-121.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-121.jpg
 tags:
   - viet lach
   - doan van
@@ -16,4 +16,4 @@ hồi hộp làm theo rồi thấp thỏm chờ đợi trong hy vọng, hôm nh�
 
 tấm hình này là chiếc máy film hiện tại, và cũng là chiếc máy thứ 3 của mình; đó là một chiếc máy đẹp và thao tác chụp khó như sự già đầu của nó, nhưng trải nghiệm chụp·rất tuyệt để mỗi khi cần thì mình lại không hề đắn đo để cẩm theo, và bỏ công chờ đợi thành quả sau mỗi lần kéo cần bấm nút chụp.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

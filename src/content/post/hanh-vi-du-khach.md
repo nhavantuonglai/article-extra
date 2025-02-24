@@ -3,7 +3,7 @@ pubDatetime: 2022-05-06T10:10:00Z
 title: Hành vi du khách là luôn nghĩ về chuyến đi
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
 featured: false
-image: https://banmaixanh.org/image/cover/001-548.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-548.jpg
 tags:
   - viet thue
   - marketing
@@ -71,7 +71,7 @@ Trước khi đặt phòng, khách du lịch thích thú với giường khách 
 
 – + 14% đối với tour du lịch.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-120.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-120.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 .jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Cách khi thác thông tin từ hành vi của khách du lịch
@@ -118,7 +118,7 @@ Từ đó, ta đi đến kết luận: khách du lịch đang cần một kỳ n
 
 Việc sử dụng dữ liệu ẩn danh như thế nào, vừa cho phép các thương hiệu khai thác thông tin hiệu quả, mà vẫn đảm bảo tính riêng tư và an toàn của dữ liệu cho khách du lịch.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-125.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-125.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Sự đa dạng của hành trình du lịch là cơ hội cho các nhà tiếp thị
 
@@ -136,10 +136,10 @@ Vì không có duy nhất một con đường để bán hàng, các thương hi
 
 Một trong những cách tốt nhất để thu hút khách du lịch khi họ bắt đầu hành trình là [thông qua tìm kiếm](https://nhavantuonglai.com/article) (từ khóa) khách sạn, thông tin du lịch. Hành vi tìm kiếm về điểm đến cụ thể cho thấy họ đang thu hẹp dần ý tưởng cho chuyến đi, ngay cả khi chưa thể giải quyết tất cả các vấn đề (đi bằng phương tiện gì, ở đâu, tham quan gì…) của chuyến đi ấy. Hành vi tìm kiếm của khách du lịch cũng giúp bạn trong vai trò nhà tiếp thị thử nghiệm và lặp lại thử nghiệm các chiến dịch, vì vậy bạn có thể thông qua thử nghiệm để tiếp cận nhiều khách du lịch hơn, và xác định đúng đối tượng hơn.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-125.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-125.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Máy học giữ vai trò trong quá trình nghiên cứu
 
 Máy học giúp bạn phân tích hàng triệu tương tác, sác thái chỉ trong vài giây và với chiến lược tiếp thị ML first (máy học là đầu tiên) có thể nhìn thấy kết quả của quá trình tiếp thị thương hiệu trong tương lai. Cũng với khả năng tự động điều chỉnh các thông điệp, cấu hình [quảng cáo cho các đối tượng khác nhau](https://nhavantuonglai.com/article), hay tiết kiệm thời gian cho giải pháp; máy học đang chứng tỏ vai trò và có thể giúp bạn kết nối với những người đang tìm kiếm giải pháp của bạn – dù họ có biết hay không.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-549.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-549.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>

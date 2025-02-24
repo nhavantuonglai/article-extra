@@ -3,7 +3,7 @@ pubDatetime: 2021-02-12T10:10:00Z
 title: Bài viết trên Instagram ngày 01 tháng 02 năm 2021
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-321.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-321.jpg
 tags:
   - viet lach
   - doan van
@@ -22,4 +22,4 @@ chúng ta ai cũng có câu chuyện của cuộc đời mình, nó có thú v�
 
 chính vì thế, khi ai đó trong hiện tại hỏi rồi sẽ làm gì tiếp theo, mình vẫn trả lời là sẽ tiếp tục đi theo nghiệp viết. có thể đi lòng vòng hay lắm lối rẽ trên đường như những lựa chọn trước đây đã bám víu, nhưng cái đích mà mình hướng tới, thì vẫn là viết và viết mà thôi…
 
-<figure><img src="https://banmaixanh.org/image/cover/001-335.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-335.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

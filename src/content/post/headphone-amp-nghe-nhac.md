@@ -3,7 +3,7 @@ pubDatetime: 2021-01-30T10:10:00Z
 title: Tìm hiểu các công nghệ âm thanh (audiophile) hiện nay
 description: Headphone AMP là thiết bị giúp khuếch đại tín hiệu âm thanh trước khi đến tai nghe, cải thiện chất lượng âm thanh.
 featured: false
-image: https://banmaixanh.org/image/cover/001-539.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-539.jpg
 tags:
   - viet lach
   - thuong thuc am thanh
@@ -94,4 +94,4 @@ Nên thử headphone AMP trước khi mua để đảm bảo rằng nó phù h�
 
 Headphone AMP là thiết bị quan trọng giúp nâng cao chất lượng âm thanh và mang lại trải nghiệm nghe nhạc tốt hơn. Bằng cách chọn loại headphone AMP phù hợp và sử dụng đúng cách, bạn có thể tận hưởng âm nhạc một cách trọn vẹn và trung thực. Hy vọng bài viết này đã cung cấp cho bạn những thông tin hữu ích về headphone AMP và các loại AMP phổ biến.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-211.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-211.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

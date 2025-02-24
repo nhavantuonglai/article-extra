@@ -3,7 +3,7 @@ pubDatetime: 2021-09-07T10:10:00Z
 title: Bài viết trên Instagram ngày 29 tháng 09 năm 2021
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - viet lach
   - doan van
@@ -22,4 +22,4 @@ may mắn là trước khi bạn rời khỏi nơi mình sống, thêm đôi l�
 
 à về tấm ảnh, các bạn cũng thừa rõ là mình hay đăng hình không liên quan, bởi không phải lúc nào cũng sẵn sàng chụp để viết đủ cho mọi chuyện. hôm nay tự nhiên thèm bánh ép, cũng sắp được về Huế nên gửi gắm chút tình thương thôi ạ.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-226.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-226.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

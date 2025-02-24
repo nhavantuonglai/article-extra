@@ -3,7 +3,7 @@ pubDatetime: 2022-05-05T10:10:00Z
 title: Hành trình du khách và những giai đoạn tìm đến khách sạn của bạn
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
 featured: false
-image: https://banmaixanh.org/image/cover/001-749.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-749.jpg
 tags:
   - viet thue
   - marketing
@@ -27,7 +27,7 @@ Mô hình bán phòng truyền thống sử dụng chiếc phễu để minh h�
 
 Tuy nhiên, với ngành dịch vụ, hành trình không chỉ nên dừng ở đó, mà nên cần thêm quá trình trải nghiệm sản phẩm và quay lại. Chính vì vậy, [hành trình trải nghiệm khách hàng](https://nhavantuonglai.com/article) là một vòng tròn, có tính chu kỳ và lặp lại, đôi khi diễn ra suốt cuộc đời của khách hàng.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-120.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-120.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Bản đồ hành trình du khách gồm những giai đoạn nào?
 
@@ -67,7 +67,7 @@ Sau khi hình thành ý tưởng, khách hàng sẽ cụ thể hóa kế hoạch
 
 – Nhắm mục tiêu khi chạy quảng cáo. Đầu tiên, khách sạn cần xây dựng chân dung khách hàng của khách sạn, họ là ai và đến từ đâu, nhu cầu như thế nào và thể hiện chúng trên mạng xã hội thông qua hành vi, tìm kiếm… ra sao. Tiếp theo, khi chạy quảng cáo hãy hệ thống hóa những thông tin đó, nhắm mục tiêu để các chiến dịch mà bạn đang triển khai sẽ phù hợp, tiếp cận đến đúng đối tượng hơn.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-121.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-121.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Đặt chỗ
 
@@ -85,7 +85,7 @@ Bước qua giai đoạn tiếp theo, các khách hàng dần thu hẹp lựa ch
 
 – Xác nhận thông tin đặt phòng. Sau khi khách hàng đặt phòng thành công, hãy gửi cho họ một email, SMS hay bất kỳ thông tin xác nhận đặt phòng nào có thể, vừa giúp họ biết phòng đã được đặt thành công, và những thông tin khách sạn tiếp nhận cũng là những thông tin mà họ cung cấp.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-122.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-122.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Đến ở, trải nghiệm thực tế
 
@@ -113,8 +113,8 @@ Sau khi khách hàng ở, họ sẽ rời đi và có những ấn tượng nh�
 
 – Duy trì liên lạc, gửi thông báo về các ưu đãi hiện có và phù hợp với họ.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-123.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-123.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 Giai đoạn trên là điểm cuối của hành trình khách hàng, nhưng không phải là điểm cuối của mối quan hệ giữa họ và khách sạn. Nếu bạn thực hiện tốt việc kết nối, quan tâm và đáp ứng nhu cầu của họ, giai đoạn Lên ý tưởng và Lập kế hoạch có thể được bỏ qua, để vòng lặp của hành trình khách hàng được duy trì nhiều hơn, sâu sắc hơn. Khi càng ngày càng nhiều khách hàng trong vòng lặp thân thiết như vậy, khách sạn sẽ tiết kiệm được nhiều chi phí hơn, và có được nhiều khách hàng trung thành hơn cho mình.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-719.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-719.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>

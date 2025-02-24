@@ -3,7 +3,7 @@ pubDatetime: 2024-10-04T10:10:00Z
 title: Bài viết trên Instagram ngày 04 tháng 10 năm 2024
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-268.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-268.jpg
 tags:
   - viet lach
   - doan van
@@ -20,4 +20,4 @@ nhưng vấn đề là, cảm xúc là thứ dễ thay đổi, và mọi ngườ
 
 để giải quyết khúc mắc này, cần chấp nhận và sẵn sàng cho sự thay đổi. những điều mình vốn dĩ tin, cho là đúng trong hiện tại cũng đã khác với những điều tương tự trong 5 năm trước; thì tương lai, là 5 hay 10 năm nữa cũng sẽ vậy mà thôi. chấp nhận thay đổi, đón nhận cái hiểu chính mình biến chuyển là một bước trong hành trình phát triển bản thân tốt và sâu sắc hơn nữa.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-312.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-312.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

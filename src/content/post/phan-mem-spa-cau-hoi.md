@@ -3,7 +3,7 @@ pubDatetime: 2023-07-09T10:10:00Z
 title: Những câu hỏi thường gặp về Phần mềm quản lý tiệm Spa
 description: Tìm hiểu các chiến lược tiếp thị Spa hiệu quả trong chuỗi bài viết sau của nhavantuonglai để áp dụng và đem lại hiệu quả thiết thực cho giải pháp của bạn.
 featured: false
-image: https://banmaixanh.org/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - viet thue
   - marketing
@@ -85,4 +85,4 @@ Phần mềm quản lý tiệm Spa trực tuyến thích hợp cho các tiệm l
 
 Hầu hết các phần mềm quản lý tiệm Spa hàng đầu, phổ biến hiện nay đề cung cấp ứng dụng cho di động để các chủ tiệm có thể quản lý lịch đặt hẹn ở bất kỳ lúc nào, ở bất kỳ đâu.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

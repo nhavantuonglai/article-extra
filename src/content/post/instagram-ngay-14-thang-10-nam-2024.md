@@ -3,7 +3,7 @@ pubDatetime: 2024-10-14T10:10:00Z
 title: Bài viết trên Instagram ngày 14 tháng 10 năm 2024
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-329.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-329.jpg
 tags:
   - viet lach
   - doan van
@@ -22,4 +22,4 @@ vào sâu hơn chút nữa, tiếng trên cao là ríu rít gọi bầy, hỏi n
 
 tận cùng của đường mòn, suối đâm xuyên rừng mà trước kia vẫn róc rách chảy thì nay đã cạn nước. rêu với cây con mới dần lộ lên giữa những lớp đá được mài nhẵn, chúng là kết quả của quá trình hạt từ phía rừng sâu trôi theo dòng nước rồi mắc kẹt lại. khi thành hình rồi rụng hạt, chúng lại tiếp nối hành trình cũ để tiếp tục lan rộng giống loài mỗi dịp đông về.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-335.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-335.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

@@ -3,7 +3,7 @@ pubDatetime: 2022-03-17T10:10:00Z
 title: Bảo trì khách sạn và những giải pháp tối ưu trong hệ thống khách sạn
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
 featured: false
-image: https://banmaixanh.org/image/cover/001-649.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-649.jpg
 tags:
   - viet thue
   - marketing
@@ -29,7 +29,7 @@ Khác với bộ phận dọn dẹp, quản lý vệ sinh là công việc công
 
 Bảo trì khách sạn là các tiêu chuẩn quản lý, phòng ngừa và khắc phục rủi ro từ trang thiết bị, cơ sở vật chất trong khách sạn gây ra, ảnh hưởng trực tiếp đến quá trình trải nghiệm của du khách khi đặt phòng tại khách sạn.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-082.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-082.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Tầm quan trọng của bảo trì trong khách sạn
 
@@ -47,7 +47,7 @@ Về cơ bản, bảo trì khách sạn gồm 2 nhóm chính: bảo trì khắc 
 
 Bảo trì sự cố là xử lý vấn đề xảy ra với các trang thiết bị, cơ sở vật chất trong khách sạn, hoặc khi chúng hoạt động không đúng công năng, bất thường so với dự kiến. Ví dụ: điện chập chờn, đèn yếu hoặc không sáng; nước rỉ từ phòng tắm hoặc không bật được bình nóng lạnh… Bảo trì khắc phục là điều tối kỵ trong khách sạn, bởi chúng đang ảnh hưởng trực tiếp đến trải nghiệm của khách hàng. Do vậy, khách sạn cần hạn chế tối đa tình huống này, thông qua bảo trì phòng ngừa.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-083.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-083.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Bảo trì phòng ngừa
 
@@ -82,7 +82,7 @@ Giải pháp đầu tiên và thiết thực nhất là sử dụng [phần mề
 
 Bên cạnh sử dụng chung với phần mềm quản lý khách sạn, bạn cũng có thể cân nhắc việc dùng các phần mềm độc lập, chuyên biệt cho việc bảo trì khách sạn. Lựa chọn này phù hợp nhất là khi bạn cần quản lý bảo trì khách sạn một cách chuyên nghiệp, đi sâu vào từng hệ thống và vấn đề của riêng từng thiết bị.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-084.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-084.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Phản ứng nhanh với các vấn đề xảy ra
 
@@ -100,8 +100,8 @@ Tuy đều là sự cố phát sinh, nhưng không phải vấn đề nào cũng
 
 Do vậy, khách sạn khi xây dựng đội ngũ bảo trì khách sạn thì cũng cần xây dựng những tiêu chí, phân cấp vấn đề để ưu tiên giải quyết khi cần. Điều này không chỉ hữu ích khi giúp đội ngũ nhân viên phân bổ thời gian, năng lực hợp lý để giải quyết những vấn đề cấp bách hoặc không trong khách sạn.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-085.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-085.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 Bộ phận bảo trì trong khách sạn được xem là thành công, khi không phải tham gia, giải quyết các yêu cầu liên quan đến khắc phục, giải quyết sự cố trong khách sạn. Cho nên, đây là lực lượng gần như vô hình, nhưng quan trọng lại không kém các bộ phận khác hiện có trong khách sạn.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-617.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-617.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>

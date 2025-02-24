@@ -3,7 +3,7 @@ pubDatetime: 2022-05-02T10:10:00Z
 title: Google Ads và hướng dẫn sử dụng cho các khách sạn để tăng đặt phòng trực tiếp
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
 featured: false
-image: https://banmaixanh.org/image/cover/001-429.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-429.jpg
 tags:
   - viet thue
   - marketing
@@ -31,7 +31,7 @@ Google Ads thân thiện và dễ dùng, các chiến dịch vì thế tạo ra 
 
 Khác với [Google Hotel Ads](https://nhavantuonglai.com/article), Google Ads tập trung vào nội dung bài viết, phù hợp để nâng cao nhận thức và cải thiện hành vi. Cho nên, tùy thuộc vào nhu cầu của khách sạn, mà lựa chọn loại hình chạy Ads cho phù hợp.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-110.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-110.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Các thuộc tính cơ bản của Google Ads
 
@@ -69,7 +69,7 @@ Mục tiêu chiến dịch phản ánh đối tượng mà bạn và Google cho 
 
 – Địa chỉ website: Tiếp cận những người truy cập vào địa chỉ website chỉ định, và bạn cũng có thể đặt quảng cáo của mình ở trên đó, phần này sẽ được trình bày ở bên dưới.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-111.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-111.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Từ khóa chiến dịch
 
@@ -91,7 +91,7 @@ Từ khóa (key word) là chìa khóa (key) để Google định vị đối tư
 
 _Khách sạn có thể nhập địa chỉ website khách sạn để Google Ads gợi ý những từ khóa phù hợp._
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-112.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-112.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Ngân sách chiến dịch
 
@@ -117,7 +117,7 @@ Về cơ bản, tổng ngân sách của chiến dịch không thay đổi, như
 
 _Minh họa ngân sách trung bình hằng ngày khi chạy Google Ads._
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-113.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-113.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Mạng lưới quảng cáo
 
@@ -143,7 +143,7 @@ Google Ads cũng cung cấp công cụ để theo dõi lượt chuyển đổi G
 
 – _Mức độ liên quan_ là sự liên quan giữa từ khóa và nội dung quảng cáo. Ví dụ, từ khóa sử dụng là _khách sạn Đà Nẵng ven biển 500k_ và nội dung hiển thị lại là khách sạn giải pháp ở cạnh sân bay với mức giá trên 2 triệu thì chắc chắn kết quả của chiến dịch sẽ không như hiệu quả mong muốn. Cũng tương tự như vậy với ngôn ngữ, giữa từ khóa và nội dung phải cùng ngôn ngữ thể hiện; ngoại lệ là các từ phổ biến như book, hotel, homestay… có thể sử dụng nhưng phải phù hợp với ngữ cảnh, như book phòng khách sạn Đà Nẵng, hotel đà nẵng…
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-115.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-115.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Kết luận
 
@@ -151,4 +151,4 @@ Google Ads cũng cung cấp công cụ để theo dõi lượt chuyển đổi G
 
 Sức mạnh của SEO là điều không cần phải bàn cãi, và luôn đem lại hiệu quả cho các khách sạn để cạnh tranh thứ hạng một cách tự nhiên. nhưng trên thực tế – chúng tốn nhiều thời gian, và phải kiên trì để gặt hái thành quả mà chỉ tốn chút ngân sách để chạy quảng cáo tạo ra. Cho nên, muốn tiếp cận nhiều hơn các khách hàng tiềm năng, và khiến họ chú ý, biết đến bạn thì Google Ads là điều không nên phớt lờ, và hãy nên bắt đầu ngay từ hôm nay.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-719.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-719.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>

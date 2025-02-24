@@ -3,7 +3,7 @@ pubDatetime: 2020-01-07T10:10:00Z
 title: Bài viết trên Instagram ngày 01 tháng 04 năm 2020
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - viet lach
   - doan van
@@ -22,4 +22,4 @@ Nghĩa của những ngày trước, hoặc rằng sinh lầm thơ
 
 tuy thế, Nghĩa có một chút may mắn hơn, là tiếng gọi thầy mà người khác dùng khi xưng hô, và chuyện cải cách giáo dục hằng mong mỏi nay đang diễn ra với chính bản thân nó.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-132.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-132.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

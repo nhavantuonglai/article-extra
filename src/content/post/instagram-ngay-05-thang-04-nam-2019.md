@@ -3,7 +3,7 @@ pubDatetime: 2019-04-07T10:10:00Z
 title: Bài viết trên Instagram ngày 05 tháng 04 năm 2019
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - viet lach
   - doan van
@@ -22,4 +22,4 @@ khi bạn đang nói chuyện còn mình thì chụp mèo, như chụp những c
 
 giữa những lúc nhiễu nhương của chùa chiền, cúng bái thế này thì những nơi lặng lẽ thật sự không dính dáng đến sự đời này thật sự quý.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

@@ -3,7 +3,7 @@ pubDatetime: 2021-02-20T10:10:00Z
 title: Hướng dẫn cách tối ưu âm thanh khi nghe nhạc
 description: Headphone driver là một trong những yếu tố quan trọng nhất quyết định chất lượng âm thanh của tai nghe.
 featured: false
-image: https://banmaixanh.org/image/cover/001-534.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-534.jpg
 tags:
   - viet lach
   - thuong thuc am thanh
@@ -105,4 +105,4 @@ _Tối ưu âm thanh là quá trình tinh chỉnh và cải thiện chất lư�
 
 Tối ưu âm thanh là một quá trình quan trọng để cải thiện trải nghiệm nghe nhạc. Từ việc chọn lựa thiết bị phù hợp, tối ưu vị trí đặt loa, xử lý âm học phòng nghe, đến việc sử dụng các công cụ hỗ trợ như DAC, amplifier và equalizer, tất cả đều góp phần mang lại âm thanh tốt nhất. Hy vọng bài viết này đã cung cấp cho bạn những thông tin hữu ích và chi tiết để tối ưu âm thanh trong từng trường hợp cụ thể. Hãy áp dụng các bước hướng dẫn này để có được trải nghiệm nghe nhạc tuyệt vời nhất.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-211.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-211.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

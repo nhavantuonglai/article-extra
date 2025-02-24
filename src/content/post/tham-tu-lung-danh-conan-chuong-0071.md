@@ -3,7 +3,7 @@ pubDatetime: 2004-04-11T10:10:00Z
 title: Thám tử lừng danh Conan | Chương 0071
 description: Thám tử lừng danh Conan chương 0071 là tập truyện trinh thám sáng tác bởi Gosho Aoyama, ấn bản phát từ hành từ 1994 trên tạp chí Weekly Shōnen Sunday.
 featured: false
-image: https://banmaixanh.org/image/cover/001-071.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-071.jpg
 tags:
   - manga
   - gosho aoyama
@@ -17,41 +17,41 @@ _Điểm đặc biệt của Thám tử lừng danh Conan là cách xây dựng 
 
 ## Case Closed (Thám tử lừng danh Conan) Chương 0071
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0071-01.jpg" alt="Conan chương 0071." title="Conan chương 0071." height=100% width=100%><figcaption></p>Conan chương 0071.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0071-01.jpg" alt="Conan chương 0071." title="Conan chương 0071." height=100% width=100%><figcaption></p>Conan chương 0071.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0071-02.jpg" alt="Conan chương 0071." title="Conan chương 0071." height=100% width=100%><figcaption></p>Conan chương 0071.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0071-02.jpg" alt="Conan chương 0071." title="Conan chương 0071." height=100% width=100%><figcaption></p>Conan chương 0071.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0071-03.jpg" alt="Conan chương 0071." title="Conan chương 0071." height=100% width=100%><figcaption></p>Conan chương 0071.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0071-03.jpg" alt="Conan chương 0071." title="Conan chương 0071." height=100% width=100%><figcaption></p>Conan chương 0071.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0071-04.jpg" alt="Conan chương 0071." title="Conan chương 0071." height=100% width=100%><figcaption></p>Conan chương 0071.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0071-04.jpg" alt="Conan chương 0071." title="Conan chương 0071." height=100% width=100%><figcaption></p>Conan chương 0071.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0071-05.jpg" alt="Conan chương 0071." title="Conan chương 0071." height=100% width=100%><figcaption></p>Conan chương 0071.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0071-05.jpg" alt="Conan chương 0071." title="Conan chương 0071." height=100% width=100%><figcaption></p>Conan chương 0071.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0071-06.jpg" alt="Conan chương 0071." title="Conan chương 0071." height=100% width=100%><figcaption></p>Conan chương 0071.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0071-06.jpg" alt="Conan chương 0071." title="Conan chương 0071." height=100% width=100%><figcaption></p>Conan chương 0071.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0071-07.jpg" alt="Conan chương 0071." title="Conan chương 0071." height=100% width=100%><figcaption></p>Conan chương 0071.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0071-07.jpg" alt="Conan chương 0071." title="Conan chương 0071." height=100% width=100%><figcaption></p>Conan chương 0071.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0071-08.jpg" alt="Conan chương 0071." title="Conan chương 0071." height=100% width=100%><figcaption></p>Conan chương 0071.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0071-08.jpg" alt="Conan chương 0071." title="Conan chương 0071." height=100% width=100%><figcaption></p>Conan chương 0071.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0071-09.jpg" alt="Conan chương 0071." title="Conan chương 0071." height=100% width=100%><figcaption></p>Conan chương 0071.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0071-09.jpg" alt="Conan chương 0071." title="Conan chương 0071." height=100% width=100%><figcaption></p>Conan chương 0071.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0071-10.jpg" alt="Conan chương 0071." title="Conan chương 0071." height=100% width=100%><figcaption></p>Conan chương 0071.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0071-10.jpg" alt="Conan chương 0071." title="Conan chương 0071." height=100% width=100%><figcaption></p>Conan chương 0071.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0071-11.jpg" alt="Conan chương 0071." title="Conan chương 0071." height=100% width=100%><figcaption></p>Conan chương 0071.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0071-11.jpg" alt="Conan chương 0071." title="Conan chương 0071." height=100% width=100%><figcaption></p>Conan chương 0071.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0071-12.jpg" alt="Conan chương 0071." title="Conan chương 0071." height=100% width=100%><figcaption></p>Conan chương 0071.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0071-12.jpg" alt="Conan chương 0071." title="Conan chương 0071." height=100% width=100%><figcaption></p>Conan chương 0071.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0071-13.jpg" alt="Conan chương 0071." title="Conan chương 0071." height=100% width=100%><figcaption></p>Conan chương 0071.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0071-13.jpg" alt="Conan chương 0071." title="Conan chương 0071." height=100% width=100%><figcaption></p>Conan chương 0071.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0071-14.jpg" alt="Conan chương 0071." title="Conan chương 0071." height=100% width=100%><figcaption></p>Conan chương 0071.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0071-14.jpg" alt="Conan chương 0071." title="Conan chương 0071." height=100% width=100%><figcaption></p>Conan chương 0071.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0071-15.jpg" alt="Conan chương 0071." title="Conan chương 0071." height=100% width=100%><figcaption></p>Conan chương 0071.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0071-15.jpg" alt="Conan chương 0071." title="Conan chương 0071." height=100% width=100%><figcaption></p>Conan chương 0071.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0071-16.jpg" alt="Conan chương 0071." title="Conan chương 0071." height=100% width=100%><figcaption></p>Conan chương 0071.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0071-16.jpg" alt="Conan chương 0071." title="Conan chương 0071." height=100% width=100%><figcaption></p>Conan chương 0071.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0071-17.jpg" alt="Conan chương 0071." title="Conan chương 0071." height=100% width=100%><figcaption></p>Conan chương 0071.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0071-17.jpg" alt="Conan chương 0071." title="Conan chương 0071." height=100% width=100%><figcaption></p>Conan chương 0071.</p></figcaption></figure>
 
-<figure><img src="https://banmaixanh.org/manga/gosho-aoyama/tham-tu-lung-danh-conan/0071-18.jpg" alt="Conan chương 0071." title="Conan chương 0071." height=100% width=100%><figcaption></p>Conan chương 0071.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/manga/gosho-aoyama/tham-tu-lung-danh-conan/0071-18.jpg" alt="Conan chương 0071." title="Conan chương 0071." height=100% width=100%><figcaption></p>Conan chương 0071.</p></figcaption></figure>
 
 ## Giới thiệu truyện Case Closed (Thám tử lừng danh Conan)
 
@@ -89,4 +89,4 @@ nhavantuonglai.com là một trong những website hàng đầu cung cấp các 
 
 Thám tử lừng danh Conan là một bộ truyện tranh xuất sắc, không chỉ hấp dẫn bởi các vụ án ly kỳ, hấp dẫn mà còn bởi những câu chuyện tình cảm, tình bạn đầy cảm động. Đọc Thám tử lừng danh Conan trên nhavantuonglai.com sẽ mang lại cho bạn những trải nghiệm tuyệt vời với chất lượng hình ảnh cao, dịch thuật tốt và nhiều tính năng tiện ích. Nếu bạn là một fan của thể loại trinh thám hoặc đơn giản là đang tìm kiếm một bộ truyện hấp dẫn để đọc, thì Thám tử lừng danh Conan trên nhavantuonglai.com chắc chắn là một lựa chọn không thể bỏ qua.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-071.jpg" alt="Conan chương 0071." title="Conan chương 0071." height=100% width=100%><figcaption><p>Conan chương 0071.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-071.jpg" alt="Conan chương 0071." title="Conan chương 0071." height=100% width=100%><figcaption><p>Conan chương 0071.</p></figcaption></figure>

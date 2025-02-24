@@ -3,7 +3,7 @@ pubDatetime: 2020-12-07T10:10:00Z
 title: Bài viết trên Instagram ngày 25 tháng 12 năm 2020
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-343.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-343.jpg
 tags:
   - viet lach
   - doan van
@@ -24,4 +24,4 @@ sau này, mình gặp bạn phượt Phật thủ mà đã từng kể,
 
 mình nghe vậy thì tất nhiên cũng chỉ biết vậy, không biết nói lại gì hơn. nhưng từ sau dịp gặp bạn, mình đỡ phần nào áp lực, đỡ cảm thấy vô nghĩa vì trống rỗng khi đứng trước tượng các ngài…
 
-<figure><img src="https://banmaixanh.org/image/cover/001-330.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-330.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

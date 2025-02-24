@@ -3,7 +3,7 @@ pubDatetime: 2022-01-17T10:10:00Z
 title: Apple Pay cải thiện trải nghiệm khách hàng của khách sạn bạn như thế nào?
 description: Nếu khách sạn của bạn chưa áp dụng Apple Pay, đã đến lúc xem xét phương thức thanh toán này để tối ưu quy trình thanh toán.
 featured: false
-image: https://banmaixanh.org/image/cover/001-733.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-733.jpg
 tags:
   - viet thue
   - marketing
@@ -69,4 +69,4 @@ Trong bài viết này, chúng ta đã xem xét Apple Pay cũng như các ứng 
 
 Tìm cách tích hợp Apple Pay vào trải nghiệm của khách tại khách sạn là một cách hiệu quả để tăng sự hài lòng của khách trong suốt hành trình với thương hiệu của bạn, cũng như tăng cơ hội bán thêm, từ đó nâng cao lợi nhuận của khách sạn. Áp dụng phương thức thanh toán này là lợi ích đôi bên cho cả khách và bạn.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-210.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-210.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>

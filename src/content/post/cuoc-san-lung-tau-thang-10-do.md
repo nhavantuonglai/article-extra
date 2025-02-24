@@ -3,7 +3,7 @@ pubDatetime: 2023-10-06T10:10:00Z
 title: Cuộc săn lùng tàu tháng 10 đỏ
 description: Cuộc săn lùng tàu tháng 10 Đỏ là tiểu thuyết tình báo của Tom Clancy (1984), được chuyển thể thành phim cùng tên năm 1990.
 featured: false
-image: https://banmaixanh.org/image/cover/001-397.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-397.jpg
 tags:
   - thu vien
   - van hoc
@@ -116,4 +116,4 @@ Trang tin của Hãng Ubisoft thì viết: _Tom Clancy là một tác giả có 
 
 Đọc [Cuộc săn lùng tàu tháng 10 đỏ, toàn tập](https://banmaixanh.org/ebook/cuoc-san-lung-tau-thang-10-do.pdf) tại đây.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-300.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-300.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

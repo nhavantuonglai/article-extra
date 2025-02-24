@@ -3,7 +3,7 @@ pubDatetime: 2024-05-09T10:10:00Z
 title: Hướng dẫn xuất bản website bằng Vercel
 description: Astro là một framework hiện đại giúp xây dựng các website tĩnh nhanh chóng và hiệu quả.
 featured: false
-image: https://banmaixanh.org/image/cover/001-737.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-737.jpg
 tags:
   - google
   - google console
@@ -66,7 +66,7 @@ Vercel là một nền tảng dịch vụ đám mây chuyên về triển khai v
 
 Vercel là một công cụ mạnh mẽ dành cho các nhà phát triển website hiện đại, giúp họ triển khai và quản lý các ứng dụng một cách dễ dàng và hiệu quả. Với các tính năng tiên tiến và khả năng tích hợp mạnh mẽ, Vercel không chỉ giúp tăng tốc độ phát triển mà còn cải thiện đáng kể hiệu suất và trải nghiệm người dùng.
 
-<figure><img src="https://banmaixanh.org/image/article/website-deploy-05.jpg" alt="vercel-website-deploy-nhavantuonglai" title="vercel-website-deploy-nhavantuonglai" height=100% width=100%><figcaption><p>vercel-website-deploy-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/website-deploy-05.jpg" alt="vercel-website-deploy-nhavantuonglai" title="vercel-website-deploy-nhavantuonglai" height=100% width=100%><figcaption><p>vercel-website-deploy-nhavantuonglai</p></figcaption></figure>
 
 ## Hướng dẫn deploy website chạy bằng Astro thông qua Vercel
 
@@ -76,7 +76,7 @@ Khi bạn tạo triển khai, Vercel sẽ tự động thêm URL được tạo 
 
 Bạn cũng có thể cho phép khách truy cập để lại phản hồi về Deployments của mình bằng cách thêm gói Thanh công cụ Vercel vào dự án của bạn.
 
-<figure><img src="https://banmaixanh.org/image/article/website-deploy-01.jpg" alt="vercel-website-deploy-nhavantuonglai" title="vercel-website-deploy-nhavantuonglai" height=100% width=100%><figcaption><p>vercel-website-deploy-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/website-deploy-01.jpg" alt="vercel-website-deploy-nhavantuonglai" title="vercel-website-deploy-nhavantuonglai" height=100% width=100%><figcaption><p>vercel-website-deploy-nhavantuonglai</p></figcaption></figure>
 
 ### Vercel CLI
 
@@ -177,7 +177,7 @@ Lệnh này sẽ bắt đầu quá trình triển khai. Bạn sẽ được hỏ
 
 Vercel sẽ tự động phát hiện cấu hình dự án Astro và hoàn tất việc triển khai. Sau khi quá trình hoàn tất, bạn sẽ nhận được một URL để truy cập website của mình.
 
-<figure><img src="https://banmaixanh.org/image/article/website-deploy-04.jpg" alt="vercel-website-deploy-nhavantuonglai" title="vercel-website-deploy-nhavantuonglai" height=100% width=100%><figcaption><p>vercel-website-deploy-nhavantuonglai</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/website-deploy-04.jpg" alt="vercel-website-deploy-nhavantuonglai" title="vercel-website-deploy-nhavantuonglai" height=100% width=100%><figcaption><p>vercel-website-deploy-nhavantuonglai</p></figcaption></figure>
 
 ### Git
 
@@ -241,7 +241,7 @@ Tóm tắt triển khai cung cấp tổng quan chi tiết về tất cả các k
 
 Để truy cập tóm tắt triển khai, hãy chọn triển khai của bạn từ tab Deployment của dự án. Trong Deployment Status, mở rộng tab Deployment Summary.
 
-<figure><img src="https://banmaixanh.org/image/article/vercel-website-deploy-01.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/vercel-website-deploy-01.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
 ## Thông tin nào có sẵn trong bản tóm tắt này?
 
@@ -336,4 +336,4 @@ Vercel hỗ trợ tích hợp mạnh mẽ với GitHub để tự động triể
 
 Với sự kết hợp của các công cụ mạnh mẽ từ Firebase và tính linh hoạt của Astro, bạn có thể dễ dàng xây dựng và triển khai các ứng dụng website hiệu quả. Nếu bạn có bất kỳ câu hỏi nào hoặc cần hỗ trợ thêm, đừng ngần ngại liên hệ với github/nhavantuonglai qua email [info@nhavantuonglai.com](mailto:info@nhavantuonglai.com).
 
-<figure><img src="https://banmaixanh.org/image/cover/001-449.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-449.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

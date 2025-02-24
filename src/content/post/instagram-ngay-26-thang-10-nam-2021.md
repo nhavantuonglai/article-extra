@@ -3,7 +3,7 @@ pubDatetime: 2021-10-07T10:10:00Z
 title: Bài viết trên Instagram ngày 26 tháng 10 năm 2021
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - viet lach
   - doan van
@@ -22,4 +22,4 @@ bạn mình trong những dòng thư qua lại, như đúc kết cho những đi
 
 cơ mà, dịch thì vẫn còn đó, sẽ luôn tạo ra khoảng cách về mặt vật lý, nhưng đừng vì vậy mà quên kết nối tinh thần với xung quanh, hãy gắng duy trì nó. bởi thật sự, bạn sẽ không biết những người quanh mình – họ cần bạn nhiều đến thế nào đâu.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-260.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-260.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

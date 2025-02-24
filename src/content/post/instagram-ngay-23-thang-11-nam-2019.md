@@ -3,7 +3,7 @@ pubDatetime: 2019-11-23T10:10:00Z
 title: Sống vì tương lai
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - viet lach
   - doan van
@@ -26,4 +26,4 @@ mình hỏi tiếp, một cuộc sống không có mục đích thì có
 
 nhưng rồi một ngày khi họ kiệt sức vì lao lực, họ đổ bệnh vì từng buông lơi, tiền họ kiếm được nay là để níu họ về lại sự khỏe mạnh. thì liệu lúc ấy nếu có chọn lại, liệu họ sẽ chọn sống vì thời khắc của hiện tại, hay là vì một tương lai mơ hồ mà mình không chắc chắn sẽ đến?
 
-<figure><img src="https://banmaixanh.org/image/cover/001-159.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-159.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

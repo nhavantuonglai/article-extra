@@ -3,7 +3,7 @@ pubDatetime: 2023-07-27T10:10:00Z
 title: Người Hy Lạp cổ đại đã nghĩ ra một cách để chống lại fake news
 description: Những người ngụy biện quan tâm đến việc đi đến những sự thật thực tế thông qua hùng biện hơn là một Sự thật tuyệt đối (Sophia). Kỹ thuật của họ đã bị Aristotle, Plato và Socrates chỉ trích.
 featured: false
-image: https://banmaixanh.org/image/cover/001-359.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-359.jpg
 tags:
   - viet lach
   - thuyet am muu
@@ -58,4 +58,4 @@ Một nền dân chủ lành mạnh, họ kết luận, nên thúc đẩy sự t
 
 Nước Mỹ không khỏe mạnh. Octavian hiện đại của chúng ta gây thiệt hại nhiều hơn so với in khẩu hiệu trên tiền xu. Chính quyền này đã giúp thúc đẩy các điều kiện xã hội thưởng cho sự phỉ báng hơn sự tò mò. Cho đến khi một cơ chế đặt câu hỏi về tuyên truyền được phát minh – có thể là về mặt công nghệ hoặc, nhiều khả năng, khởi động lại các hệ điều hành mà thiên nhiên đã ban tặng cho chúng ta – cuộc tranh luận mang tính xây dựng sẽ luôn có vẻ giống như lịch sử cổ đại.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-288.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-288.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

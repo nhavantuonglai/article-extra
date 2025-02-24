@@ -3,7 +3,7 @@ pubDatetime: 2020-01-07T10:10:00Z
 title: Bài viết trên Instagram ngày 01 tháng 07 năm 2020
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - viet lach
   - doan van
@@ -18,4 +18,4 @@ suốt hành trình, mình vẫn vững tay lái và cũng chẳng
 
 nhưng nếu có suy nghĩ lại, hay phải làm một hành trình đi ngược về nhà, mình sẽ chẳng chọn tiếp như thế nữa. một lần là được, một lần đủ an toàn là may mắn, và một trải nghiệm cũng sẽ thôi choáng chợp khi diễn ra đến hai lần.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-132.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-132.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

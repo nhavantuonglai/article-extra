@@ -3,7 +3,7 @@ pubDatetime: 2021-06-07T10:10:00Z
 title: Bài viết trên Instagram ngày 06 tháng 08 năm 2021
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - viet lach
   - doan van
@@ -18,4 +18,4 @@ chầm chậm chạy trước khi mặt trời cao quá tầm tay để tận h�
 
 bất chợt nghĩ ấy, hao hao nhân vật Nhĩ trong truyện của Nguyễn Minh Châu, bởi chẳng nơi nào trên cõi đất mà anh chưa đặt chân đến, nhưng những ngày cuối đời bị trói chân trên giường bệnh, lại buồn rằng chưa bao giờ đặt chân qua bãi đất bên kia sông. hao hao vậy thôi, chứ mình vẫn tự thấy may mắn, bởi được nhiều hơn một giây để đắm mình trong màn sương phủ đầy nắng trong ban sớm ở quê nhà…
 
-<figure><img src="https://banmaixanh.org/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

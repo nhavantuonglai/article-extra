@@ -3,7 +3,7 @@ pubDatetime: 2021-03-06T10:10:00Z
 title: Kinh nghiệm thực hành viết lách cho người không chuyên
 description: Viết lách không chỉ là việc sắp xếp các từ ngữ theo một thứ tự nhất định để truyền đạt thông tin, mà còn là một nghệ thuật, một kỹ năng cần được rèn luyện và phát triển theo thời gian.
 featured: false
-image: https://banmaixanh.org/image/cover/001-267.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-267.jpg
 tags:
   - viet lach
   - ky nang viet
@@ -21,7 +21,7 @@ _Viết lách không chỉ là việc sắp xếp các từ ngữ theo một th�
 
 Mỗi người viết lách đều có một lý do riêng để bắt đầu, có thể là niềm đam mê với từ ngữ, mong muốn chia sẻ kiến thức, hoặc thậm chí là mong muốn kiếm thêm thu nhập. Xác định mục đích viết lách của bạn sẽ giúp bạn giữ vững động lực và định hướng rõ ràng hơn trong quá trình viết.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-119.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-119.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ### Đọc nhiều và đọc sâu
 
@@ -41,7 +41,7 @@ Hiểu rõ đối tượng đọc giả của bạn là ai, họ có sở thích
 
 Trước khi bắt tay vào viết, hãy lập một kế hoạch chi tiết về những gì bạn muốn truyền đạt. Điều này bao gồm việc xác định chủ đề, lập dàn ý, và thu thập thông tin cần thiết. Một kế hoạch chi tiết sẽ giúp bạn viết bài mạch lạc và logic hơn.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-120.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-120.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ### Sử dụng ngôn ngữ đơn giản và rõ ràng
 
@@ -65,7 +65,7 @@ Mỗi đoạn văn trong bài viết nên tập trung vào một ý tưởng ch�
 
 Đoạn kết của bài viết nên tổng kết lại những điểm chính đã đề cập và để lại ấn tượng sâu sắc trong lòng người đọc. Bạn có thể kết thúc bằng một câu hỏi mở, một gợi ý hành động, hoặc một nhận định cá nhân để khuyến khích người đọc suy nghĩ và phản hồi.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-121.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-121.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Viết lách chuyên nghiệp: làm thế nào để nâng cao kỹ năng?
 
@@ -89,10 +89,10 @@ Tham gia vào các cộng đồng viết lách, cả trực tuyến và ngoại 
 
 Thế giới viết lách luôn thay đổi và phát triển, vì vậy bạn cần liên tục cập nhật kiến thức và kỹ năng của mình. Hãy theo dõi các xu hướng mới nhất trong lĩnh vực viết lách, tham gia các buổi hội thảo và hội nghị, và không ngừng rèn luyện kỹ năng của mình. Điều này sẽ giúp bạn luôn duy trì sự cạnh tranh và phát triển trong nghề viết lách.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-010.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-010.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Kết luận
 
 Viết lách là một hành trình dài đòi hỏi sự kiên nhẫn, đam mê và không ngừng học hỏi. Từ việc nắm vững các kỹ năng viết lách cơ bản, áp dụng những hướng dẫn viết lách hiệu quả, đến việc tích lũy kinh nghiệm viết lách và phấn đấu trở thành một người viết lách chuyên nghiệp, mỗi bước đi đều là một phần quan trọng của quá trình này. Hy vọng rằng bài viết này đã cung cấp cho bạn những kiến thức và động lực cần thiết để tiếp tục theo đuổi và phát triển sự nghiệp viết lách của mình. Hãy luôn tin tưởng vào bản thân và không ngừng cố gắng, bởi mỗi câu chữ bạn viết ra đều là một bước tiến trên con đường trở thành một nhà viết lách xuất sắc.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-514.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-514.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

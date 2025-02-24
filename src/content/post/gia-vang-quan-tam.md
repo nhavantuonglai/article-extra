@@ -3,7 +3,7 @@ pubDatetime: 2021-12-01T10:10:00Z
 title: Vì sao giá vàng hôm nay luôn được quan tâm cao?
 description: Chuỗi bài viết của nhavantuonglai về kinh doanh vàng bạc đá quý và quỹ đầu tư sẽ giúp nhà đầu tư khởi nghiệp hiệu quả.
 featured: false
-image: https://banmaixanh.org/image/cover/001-397.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-397.jpg
 tags:
   - viet thue
   - marketing
@@ -82,4 +82,4 @@ Song song với đó, những nhà đầu tư cần cẩn trọng và quan sát 
 
 Như thế, chúng ta đã hiểu được tại sao giá vàng lại thành một từ khóa dành được nhiều sự quan tâm của cộng đồng như thế. Bởi rằng đây là lựa chọn đang hấp dẫn và có nhiều tiềm năng khi thanh toản tốt, bên cạnh đó là giá trị thị trường của vàng đang lên và chưa có dấu hiệu hạ nhiệt.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-300.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-300.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

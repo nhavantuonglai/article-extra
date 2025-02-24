@@ -3,7 +3,7 @@ pubDatetime: 2022-07-07T10:10:00Z
 title: 8 chức năng của một PMS tốt
 description: Hãy cùng khám phá một số chức năng chính để hướng dẫn bạn trong việc chọn PMS phù hợp cho doanh nghiệp của mình.
 featured: false
-image: https://banmaixanh.org/image/cover/001-515.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-515.jpg
 tags:
   - viet thue
   - marketing
@@ -31,7 +31,7 @@ Quản lý đặt phòng là một trong những chức năng chính của PMS v
 
 Khi chọn PMS, hãy tìm một hệ thống cho phép bạn tự động hóa quy trình làm việc và quản lý đặt phòng từ điện thoại di động hoặc bất kỳ thiết bị nào khác, vì những người làm khách sạn hiện đại luôn di chuyển. Đảm bảo rằng các đặt phòng được hiển thị rõ ràng và có thể tìm kiếm dựa trên các tiêu chí khác nhau để tránh bỏ sót bất kỳ chi tiết nào. Đối với các đặt phòng nhóm, hãy đảm bảo rằng hệ thống có thể quản lý các nhóm lớn, bao gồm việc chặn phòng, gửi liên kết đặt phòng và xử lý thông tin thanh toán một cách hiệu quả.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-096.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-096.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Kết luận
 ## Quản lý giá
@@ -52,7 +52,7 @@ Tài sản của bạn có rất nhiều tiềm năng, vì vậy việc tìm ki�
 
 Với PMS phù hợp, bạn nên có khả năng quản lý các không gian này ở một nơi duy nhất. Điều này bao gồm các phòng sử dụng trong ngày, bãi đỗ xe, không gian làm việc chung được thuê theo ngày, giờ hoặc tháng, lưu trú dài hạn và các khách hàng thành viên sử dụng cơ sở mà không lưu trú tại chỗ. Càng quản lý tốt các nguồn thu đa dạng này, bạn càng dễ dàng khai thác các dòng doanh thu bổ sung này.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-097.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-097.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Kết luận
 ## Hiệu quả công việc
@@ -73,7 +73,7 @@ Khách hàng ngày càng am hiểu công nghệ, đó là lý do tại sao việ
 
 Vì năng suất của khách sạn là cốt lõi của lợi nhuận, việc có phần mềm giúp cho hoạt động của quầy lễ tân trở nên suôn sẻ nhất có thể là rất quan trọng. Công nghệ có thể tự động hóa các quy trình tốn thời gian, cho phép quầy lễ tân tập trung vào sự hài lòng của khách hàng. Một PMS nên cho phép quầy lễ tân dễ dàng quản lý việc thay đổi giá, xử lý các yêu cầu đặc biệt và ưu tiên các nhiệm vụ tạo ra doanh thu.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-098.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-098.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Kết luận
 ## Kết luận
@@ -82,4 +82,4 @@ Chúng tôi đã thảo luận về các chức năng của một PMS và nhữn
 
 Nếu bạn vẫn chưa chắc chắn về điều gì là tốt nhất cho mình, chúng tôi khuyên bạn nên xem qua hướng dẫn của chúng tôi về việc chuyển đổi PMS. Điều này sẽ giúp bạn tự tin và chuẩn bị tốt hơn để đưa ra lựa chọn sẽ thay đổi doanh nghiệp của bạn.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-314.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-314.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>

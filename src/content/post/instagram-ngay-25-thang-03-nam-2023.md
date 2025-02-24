@@ -3,7 +3,7 @@ pubDatetime: 2023-03-25T10:10:00Z
 title: Bài viết trên Instagram ngày 25 tháng 03 năm 2023
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-121.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-121.jpg
 tags:
   - viet lach
   - doan van
@@ -16,4 +16,4 @@ thêm một vài lần nhìn vào người khác và trò chuyện như vậy, m
 
 cách nghĩ này đem đến cho mình một suy nghĩ mới mẻ, rằng ít nhất thì tự ti về bản thân cũng không phải là điều xấu hoàn toàn. có thể rằng chúng thật sự đến từ cảm giác bản thân chưa đủ giỏi, thiếu tài năng hay thành quả nhận được chưa như kỳ vọng. nhưng mọi người đều có những mặt tích cực, tốt hơn đang chờ khai phá, cải thiện; nên có thể dựa đó để tạo nên động lực nhằm cải thiện, giúp bản thân tốt hơn mỗi ngày trong những khía cạnh khác của bản thân, để tốt lên mỗi ngày thì cũng là một điều nên làm.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-138.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-138.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

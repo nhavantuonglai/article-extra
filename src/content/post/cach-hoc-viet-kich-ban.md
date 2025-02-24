@@ -3,7 +3,7 @@ pubDatetime: 2021-03-28T10:10:00Z
 title: Hướng dẫn viết lách sáng tạo, đột phá nhiều ý tưởng
 description: Viết SEO (Search Engine Optimization) là một kỹ năng quan trọng trong thời đại kỹ thuật số, nơi mà sự hiện diện trực tuyến đóng vai trò then chốt.
 featured: false
-image: https://banmaixanh.org/image/cover/001-165.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-165.jpg
 tags:
   - viet lach
   - ky nang viet
@@ -26,7 +26,7 @@ _Viết SEO (Search Engine Optimization) là một kỹ năng quan trọng trong
 
 – Khóa nâng cao: Dành cho những người đã có nền tảng vững chắc, khóa học này giúp học viên hoàn thiện kỹ năng viết SEO, tối ưu website cho các thuật toán tìm kiếm mới nhất, và xây dựng chiến lược nội dung toàn diện.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-008.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-008.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Nội dung giảng dạy
 
@@ -44,7 +44,7 @@ Nội dung giảng dạy trong khóa học viết SEO rất phong phú và đa d
 
 – Phân tích và đo lường hiệu quả: Khóa học sẽ hướng dẫn học viên cách sử dụng các công cụ phân tích như Google Analytics và Google Search Console để theo dõi và đánh giá hiệu quả của chiến lược SEO, từ đó điều chỉnh và tối ưu cho phù hợp.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-009.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-009.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Phương pháp học tập
 
@@ -58,7 +58,7 @@ Phương pháp học tập trong khóa học viết SEO thường rất đa dạ
 
 – Đọc và phân tích: Học viên sẽ được yêu cầu đọc các bài viết chuẩn SEO nổi tiếng, sau đó phân tích và thảo luận về các kỹ thuật viết, cấu trúc và phong cách của tác giả. Điều này giúp họ hiểu sâu hơn về nghệ thuật viết SEO và áp dụng vào bài viết của mình.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-010.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-010.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Lợi ích của khóa học viết SEO
 
@@ -74,7 +74,7 @@ Khóa học viết SEO mang lại nhiều lợi ích thiết thực cho học vi
 
 – Giảm căng thẳng và tăng cường sáng tạo: Viết SEO là một hình thức thể hiện bản thân, giúp giải tỏa căng thẳng và kích thích sự sáng tạo. Nó cũng là một cách để học viên khám phá và hiểu rõ hơn về bản thân.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-011.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-011.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Kinh nghiệm từ các khóa học viết SEO nổi tiếng
 
@@ -86,7 +86,7 @@ Nhiều khóa học viết SEO nổi tiếng trên thế giới đã giúp đỡ
 
 – Khóa học viết SEO trực tuyến của Coursera: Coursera cung cấp nhiều khóa học viết SEO từ các trường đại học và tổ chức uy tín như University of California, Davis và University of Illinois. Các khóa học này giúp học viên từ khắp nơi trên thế giới có cơ hội tiếp cận với các phương pháp giảng dạy hiện đại và nội dung phong phú.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-012.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-012.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Các bước để tham gia khóa học viết SEO
 
@@ -112,10 +112,10 @@ Học viết SEO không phải lúc nào cũng dễ dàng, bạn sẽ gặp ph�
 
 – Khó khăn trong việc duy trì động lực: Viết SEO là một hành trình dài và đôi khi bạn có thể cảm thấy mất động lực. Hãy duy trì thói quen viết hàng ngày, tìm cảm hứng từ các bài viết nổi tiếng, và không ngừng nhắc nhở bản thân về mục tiêu ban đầu.
 
-<figure><img src="https://banmaixanh.org/image/article/viet-lach-013.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-013.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Kết luận
 
 Khóa học viết SEO là một môi trường lý tưởng để học viên phát triển kỹ năng viết, tư duy sáng tạo và khả năng giao tiếp. Với cấu trúc khóa học rõ ràng, nội dung giảng dạy phong phú, và phương pháp học tập đa dạng, học viên sẽ có cơ hội rèn luyện và hoàn thiện khả năng viết SEO của mình. Bên cạnh đó, những lợi ích thiết thực như cải thiện tư duy, giảm căng thẳng, và mở rộng cơ hội nghề nghiệp càng làm cho việc tham gia khóa học viết SEO trở nên đáng giá hơn bao giờ hết. Hãy bắt đầu hành trình viết SEO của bạn ngay hôm nay và khám phá những tiềm năng sáng tạo vô hạn bên trong bạn.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-246.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-246.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

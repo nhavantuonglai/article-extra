@@ -3,7 +3,7 @@ pubDatetime: 2023-05-23T10:10:00Z
 title: Bài viết trên Instagram ngày 23 tháng 05 năm 2023
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-427.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-427.jpg
 tags:
   - viet lach
   - doan van
@@ -22,4 +22,4 @@ với mình, đó không phải thái độ chạy trốn hay vứt bỏ mọi t
 
 đôi khi, đó là một phép thử với nhiều sai lầm, và bất ổn thì vẫn còn đó; nhưng bản chất thì chúng vẫn luôn là một con đường mới, một cuộc sống với thái độ mới, khác biệt hoàn toàn với việc đắm chìm trong những bất ổn, tự hại để quên những nỗi buồn không thể kiểm soát.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-212.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-212.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

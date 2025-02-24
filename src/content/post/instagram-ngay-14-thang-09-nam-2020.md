@@ -3,7 +3,7 @@ pubDatetime: 2020-09-07T10:10:00Z
 title: Bài viết trên Instagram ngày 14 tháng 09 năm 2020
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - viet lach
   - doan van
@@ -22,4 +22,4 @@ những hôm ở Đà Lạt, mà tối trước không quá bề bộn, mình l�
 
 nhưng nếu lỡ bạn không thể dậy sớm để ngắm sương sớm, cũng đừng buồn. hãy cứ men theo đường mòn, hoặc lối nào thoáng đãng để lên núi. lên đỉnh cao cao rồi nhìn xuống. xa xa là những khu nhà kính, những nông trại hay cả vùng nhấp nhô của mái nhà thành phố. ra vùng rìa như vậy, tách biệt một chút như thế, sẽ giúp bạn tận hưởng đúng sự thư thái và an lành, để có thể cảm nhận và sống trọn ở thành phố này hơn.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

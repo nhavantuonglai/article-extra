@@ -3,7 +3,7 @@ pubDatetime: 2020-12-07T10:10:00Z
 title: Bài viết trên Instagram ngày 23 tháng 12 năm 2020
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - viet lach
   - doan van
@@ -22,4 +22,4 @@ nhưng khi những kiến trúc thờ tự dễ tìm thấy ở một nơi nào 
 
 nếu lần sau bạn có ghé qua Chi Lăng, cũng hãy đi chậm rãi và ngẩng xíu đầu lên, nhìn những cột đèn – chúng vẫn luôn vững chãi và ổn định giữa thời tiết lẫn con người. những cột đèn ấy, với kiểu dáng rất riêng biệt, ít được thành phố thay mới vì chưa có dấu hiệu xuống cấp, vẫn đang ngầm tạo nên một dấu ấn hết sức riêng biệt trên Con đường di sản như cách người ta mỹ miều gọi Chi Lăng.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-157.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-157.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

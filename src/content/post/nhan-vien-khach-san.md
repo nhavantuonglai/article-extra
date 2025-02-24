@@ -3,7 +3,7 @@ pubDatetime: 2022-06-04T10:10:00Z
 title: Các vị trí nhân viên khách sạn và cách quản lý hiệu quả
 description: Quản lý thành công là nền tảng để tạo ra một đội ngũ có hiệu suất cao và cung cấp dịch vụ chất lượng nhất quán.
 featured: false
-image: https://banmaixanh.org/image/cover/001-531.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-531.jpg
 tags:
   - viet thue
   - marketing
@@ -25,7 +25,7 @@ Hãy cùng khám phá tầm quan trọng của việc xây dựng một đội n
 
 Nhân viên khách sạn là những người chịu trách nhiệm điều hành khách sạn của bạn. Từ những người phụ trách hoạt động hàng ngày, đến những gương mặt thân thiện ở quầy lễ tân chào đón khách và giúp chăm sóc nhu cầu của họ, đến nhân viên dọn phòng, quản lý và những người làm việc tại quầy bar hoặc nhà hàng của khách sạn   - tất cả đều đóng vai trò quan trọng.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-013.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-013.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Các vị trí nhân viên khách sạn
 
@@ -41,7 +41,7 @@ Nếu khách sạn của bạn không có dịch vụ concierge, nhân viên qu�
 
 Nhân viên dọn phòng là những người đảm bảo rằng khách sạn luôn sạch sẽ và được khử trùng thường xuyên. Ngoài việc dọn dẹp phòng hàng ngày, họ còn giữ cho các khu vực chung và các cơ sở khác trong khách sạn luôn sạch sẽ và gọn gàng. Vai trò này rất quan trọng để đảm bảo ấn tượng tích cực về khách sạn của bạn và có ảnh hưởng tích cực đến trải nghiệm của khách.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-014.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-014.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Nhân Viên Bảo Trì
 
@@ -81,7 +81,7 @@ Trong một ngành có tỷ lệ luân chuyển nhân viên lên đến 73,8%, v
 
 Nhân viên quầy lễ tân hạnh phúc với công việc của họ sẽ có nhiều khả năng tương tác tích cực với khách hàng và đảm bảo họ có trải nghiệm tốt nhất có thể. Họ sẽ yêu cầu phản hồi và thông báo cho khách về các chương trình giảm giá nếu họ đặt phòng tại chỗ cho chuyến đi tương lai. Tương tự, nhân viên nhà hàng khách sạn am hiểu sẽ có thể hiểu khách hàng tốt hơn. Nếu họ là những người sành rượu, họ sẽ gợi ý cho một loại rượu tốt hơn, hoặc nếu họ đang phân vân giữa món ăn chay và món bít tết, họ có thể khéo léo thuyết phục họ chọn món đắt tiền hơn.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-019.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-019.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Cách quản lý đội ngũ nhân viên khách sạn một cách hiệu quả
 
@@ -121,7 +121,7 @@ Tạo ra một cảm giác cộng đồng giữa toàn bộ nhân viên khách s
 
 Khi bạn đã có đội ngũ làm việc cùng nhau, bước tiếp theo là đảm bảo rằng bạn cung cấp phản hồi về cách họ đang làm. Đo lường các kết quả tích cực của họ. Khách sạn có nhận được đánh giá tốt hơn không? Doanh thu của bạn có đang tăng không? Sự minh bạch và việc cho nhân viên biết về các thành công chung mang lại cho họ một cảm giác mục đích và giúp họ cảm thấy được động viên bởi sứ mệnh của khách sạn. Họ sẽ làm việc cùng nhau tốt hơn để làm cho trải nghiệm của khách mượt mà hơn.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-018.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-018.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Kết luận
 
@@ -129,4 +129,4 @@ Nhân viên làm việc cùng nhau như một đội sẽ hiệu quả và năng
 
 Những bí quyết khác để quản lý đội ngũ nhân viên khách sạn xuất sắc là phân công nhiệm vụ, khuyến khích giao tiếp, sử dụng công cụ giúp hợp lý hóa hoạt động khách sạn và tạo cảm giác cộng đồng. Khách sạn của bạn chỉ phát triển nếu nhân viên của bạn phát triển, vì vậy việc cung cấp cho họ các công cụ để làm điều đó là hợp lý. Với một loạt các quy trình rõ ràng và các hoạt động được hệ thống hóa, bạn chắc chắn sẽ đảm bảo doanh thu tăng, đánh giá tốt và tỷ lệ giữ chân khách tốt hơn.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-300.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-300.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>

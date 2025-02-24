@@ -3,7 +3,7 @@ pubDatetime: 2022-05-12T10:10:00Z
 title: Chiến lược tiếp thị dựa theo siêu cá nhân hóa (hyper personalization) trong khách sạn
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
 featured: false
-image: https://banmaixanh.org/image/cover/001-357.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-357.jpg
 tags:
   - viet thue
   - marketing
@@ -31,7 +31,7 @@ Dữ liệu lớn sau khi được thu thập, sẽ được phân giải, sàng
 
 Tiếp thị cá nhân hóa là dựa trên dữ liệu khách hàng về một nhóm đối tượng, phân khúc nhất định để xây dựng cách tiếp cận, chiến lược tiếp thị và bán phòng, chiến lược giá… cho phù hợp.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-140.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-140.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Làm thế nào các khách sạn có thể khai thác dữ liệu siêu cá nhân hóa nhằm tiếp thị hiệu quả?
 
@@ -65,7 +65,7 @@ Cuối cùng, nhắm mục tiêu và tiếp thị đến từng nhóm khách hà
 
 Ngoài ra, khách sạn cũng có thể cung cấp các mức giá khác nhau cho các nhóm đối tượng khác nhau, dựa trên khả năng chi tiêu của họ. Ví dụ, dịch vụ massage cao cấp cho người chi tiêu cao là 500.000 đồng mỗi lượt, và dịch vụ cơ bản cho người chi tiêu thấp là 300.000 đồng mỗi lượt.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-131.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-131.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 #### Khách đặt phòng lần đầu và khách đặt phòng trở lại
 
@@ -115,7 +115,7 @@ Chiến lược tiếp cận
 
 Khi áp dụng chiến lược, cần lưu ý và đảm bảo rằng du khách có được trải nghiệm tích cực, thoải mái nhất. Cũng trong quá trình lưu trú, khách sạn có thể dựa vào trải nghiệm của họ để điều chỉnh và đáp ứng cho phù hợp.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-132.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-132.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 #### Khách du lịch so với khách doanh nhân
 
@@ -151,7 +151,7 @@ Với khách đặt phòng trực tuyến, hãy giới thiệu họ những ti�
 
 Tương tự như vậy với nhóm khách đặt phòng trực tiếp, hãy tiếp tục đề xuất và gợi ý họ đặt phòng qua website khách sạn trong những chuyến đi sắp tới. Áp dụng kèm với đó là chính sách khách hàng thân thiết nhằm đem đến nhiều trải nghiệm tích cực, thú vị cho du khách.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-134.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-134.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Kết luận
 
@@ -159,4 +159,4 @@ Nên lưu ý rằng, tránh vi phạm quyền riêng tư khi tiếp thị, đặ
 
 Tiếp thị siêu cá nhân hóa trong khách sạn nếu được thực hiện đúng cách, sẽ là công cụ đắc lực hỗ trợ tốt trong quá trình kinh doanh của khách sạn. Với dữ liệu thu thập và những chiến lược tiếp thị phù hợp, khách sạn có thể tiếp cận đúng đối tượng và cung cấp những trải nghiệm theo đúng mong muốn của họ. Từ đó, khách sạn có thể thu hút thêm khách đặt phòng mới, giữ chân khách đặt phòng cũ, cải thiện thương hiệu và tăng doanh thu tổng thể cho khách sạn.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-517.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-517.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>

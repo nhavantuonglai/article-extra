@@ -3,7 +3,7 @@ pubDatetime: 2021-11-25T10:10:00Z
 title: Giá vàng hôm nay ảnh hưởng sâu rộng đến thị trường như thế nào?
 description: Chuỗi bài viết của nhavantuonglai về kinh doanh vàng bạc đá quý và quỹ đầu tư sẽ giúp nhà đầu tư khởi nghiệp hiệu quả.
 featured: false
-image: https://banmaixanh.org/image/cover/001-419.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-419.jpg
 tags:
   - viet thue
   - marketing
@@ -66,4 +66,4 @@ Song song với đó, nhu cầu sử dụng vàng trong nhân dân là vô cùng
 
 Tổng quan lại, ảnh hưởng của giá vàng hôm nay ảnh hưởng sâu rộng đến kinh tế của toàn cầu, đặc biệt là trong cách lựa chọn đầu tư. Điều này vừa là cơ hội, vừa là thách thức của những nhà đầu tư trước sự biến động của toàn xã hội hiện nay. Do đó, việc quan sát diễn biến và lựa chọn điểm rơi phù hợp sẽ giúp người dùng có cho mình những quyết định đầu tư đúng đắn, phù hợp hơn.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-419.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-419.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

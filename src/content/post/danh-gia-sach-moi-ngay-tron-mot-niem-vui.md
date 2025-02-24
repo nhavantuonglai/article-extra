@@ -3,7 +3,7 @@ pubDatetime: 2023-01-01T10:10:00Z
 title: Mỗi ngày trọn một niềm vui cùng Nansen Osho
 description: Thực hành tôn giáo giúp đời sống an lành, hạnh phúc, giác ngộ và mang lại năng lượng tích cực cho bản thân, giá trị đẹp cho cộng đồng.
 featured: false
-image: https://banmaixanh.org/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - ton giao
   - phat giao
@@ -49,4 +49,4 @@ Trí huệ – Trưởng thành tới khi chết đi, ủng hộ tới khi chế
 
 Cuốn sách là một gợi ý thú vị, để mỗi người tìm thấy một chút chân lý trên con đường mình đi. Hành trình càng dài thì sẽ càng phức tạp. Nhưng không vì thế mà mình chùn bước hay lạc lõng, hãy giữ vững niềm tin và sự lạc quan để ngày mai lại tươi sáng hơn.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

@@ -3,7 +3,7 @@ pubDatetime: 2021-11-29T10:10:00Z
 title: Chỉ xem giá vàng hôm nay từ nguồn đáng tin?
 description: Chuỗi bài viết của nhavantuonglai về kinh doanh vàng bạc đá quý và quỹ đầu tư sẽ giúp nhà đầu tư khởi nghiệp hiệu quả.
 featured: false
-image: https://banmaixanh.org/image/cover/001-537.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-537.jpg
 tags:
   - viet thue
   - marketing
@@ -94,4 +94,4 @@ Còn nếu bạn cần một trang thông tin, vừa có giá vàng theo biểu 
 
 Tổng kết lại, việc tìm và chỉ xem giá vàng hôm nay từ nguồn đáng tin là một điều tất yếu. Nhằm giúp bạn tra cứu chính xác giá vàng hiện nay đang có xu hướng biến động như thế nào. Bên cạnh đó còn tránh đi những rủi ro không đáng có từ việc mua bán giá vàng từ các cơn sốt ảo từ thị trường vàng hiện nay.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-617.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-617.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

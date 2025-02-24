@@ -3,7 +3,7 @@ pubDatetime: 2020-02-07T10:10:00Z
 title: Bài viết trên Instagram ngày 19 tháng 02 năm 2020
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-343.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-343.jpg
 tags:
   - viet lach
   - doan van
@@ -28,4 +28,4 @@ bản thân mình xem mái tóc này như là viên gạch đầu tie�
 
 cho nên nói đơn giản thì, mái tóc là phép thử đầu tiên cho những sự quyết tâm mà mình đang theo đuổi, và thật may mắn khi phép thử ấy đang thành công.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-310.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-310.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

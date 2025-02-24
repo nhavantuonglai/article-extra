@@ -3,7 +3,7 @@ pubDatetime: 2022-07-13T10:10:00Z
 title: Hệ thống Reservation khách sạn hoạt động như thế nào?
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
 featured: false
-image: https://banmaixanh.org/image/cover/001-297.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-297.jpg
 tags:
   - viet thue
   - marketing
@@ -27,7 +27,7 @@ Hệ thống Reservation khách sạn có thể tích hợp với các công c�
 
 Hệ thống Reservation là công cụ được các khách sạn sử dụng nhằm mục đích cho phép du khách đặt phòng trực tuyến.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-111.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-111.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Các loại hệ thống Reservation trong ngành khách sạn
 
@@ -49,7 +49,7 @@ Khi sử dụng hệ thống Reservation trên nền website, khách sạn có t
 
 Hệ thống đặt phòng trung tâm (Central Reservation System – CRS) là một hệ thống Reservation trực tuyến, được các khách sạn sử dụng để quản lý phòng trống, giá và lịch sử đặt phòng. Chúng vừa có thể triển khai độc lập, hoặc kết hợp với các hệ thống khác, nên chúng thường được gọi chung cho hệ thống Reservation và các thuật ngữ liên quan.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-112.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-112.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Hệ thống Reservation cho khách sạn nhỏ
 
@@ -77,7 +77,7 @@ Hiện nay vẫn còn nhiều khách sạn nhỏ chưa sử dụng hệ thống 
 
 Khi áp dụng hệ thống Reservation, tình trạng phòng trống của khách sạn sẽ được cập nhật ngay lập tức khi nhận được lượt đặt, hủy phòng; không chỉ với một kênh, hệ thống mà với mọi kênh, hệ thống Reservation được kết nối. Điều này sẽ giúp khách sạn tiết kiệm được thời gian, công sức cho các hoạt động; và đồng thời giảm nguy cơ overbooking khi nhận đặt phòng khách sạn.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-113.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-113.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Các tính năng của hệ thống Reservation
 
@@ -113,7 +113,7 @@ Thông tin sẽ được chia sẻ, phản hồi hai chiều giữa Channel Mana
 
 Như đã nêu trên, hệ thống Reservation nên được tích hợp với các hệ thống khác để tăng cường hiệu quả hoặc khai thác tốt các tính năng. Ví dụ sẽ được nêu ở phần dưới đây.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-114.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-114.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Hệ thống Reservation tích hợp, hoạt động trên website khách sạn như thế nào?
 
@@ -127,7 +127,7 @@ Hệ thống lễ tân là trung tâm của tất cả hoạt động trong khá
 
 Bạn chỉ có thể quản lý khách sạn của mình hiệu quả và thành công khi có tất cả các dữ liệu cần thiết, quan trọng được cập nhật theo thời gian thực.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-115.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-115.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Các vấn đề thường gặp khi sử dụng hệ thống Reservation và cách giải quyết
 
@@ -171,7 +171,7 @@ Với nhà cung cấp phù hợp, việc triển khai hệ thống Reservation c
 
 Nếu có vấn đề hoặc nhu cầu tìm hiểu, bạn nên liên hệ và trao đổi để được hỗ trợ cài đặt, cấu hình hệ thống và đào tạo sử dụng sản phẩm. Tháng đầu tiên khi sử dụng là thời gian miễn phí, và khi hết tháng sẽ là lúc bạn quyết định có chi tiền để thành khách hàng của hệ thống Reservation hay không.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-116.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-116.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Tăng trưởng hoạt động kinh doanh khách sạn của bạn cùng hệ thống Reservation của giải pháp
 
@@ -191,4 +191,4 @@ Và nhiều hơn thế nữa những tính năng, lợi ích dành cho khách s�
 
 Cuối cùng, hệ thống Reservation sẽ tạo nên sự khác biệt và chuyên nghiệp cho khách sạn khi sử dụng, cũng như đem lại những hiệu quả thiết thực cho trải nghiệm khách hàng. Chính vì thế, đây là công cụ hữu hiệu, nên sử dụng khi bạn đang vận hành khách sạn, để cạnh tranh và tạo ra những trải nghiệm tích cực cho du khách khi lưu trú tại khách sạn của bạn.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-239.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-239.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>

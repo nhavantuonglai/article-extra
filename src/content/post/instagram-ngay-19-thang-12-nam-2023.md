@@ -3,7 +3,7 @@ pubDatetime: 2023-12-19T10:10:00Z
 title: Bài viết trên Instagram ngày 19 tháng 12 năm 2023
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
 featured: false
-image: https://banmaixanh.org/image/cover/001-117.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-117.jpg
 tags:
   - viet lach
   - doan van
@@ -20,4 +20,4 @@ nhưng một đặc điểm khác cần phải nói đến là tính đa dạng 
 
 bởi vậy, bảo tồn ngôn ngữ của một dân tộc thiểu số thì cũng chính là việc đang giữ gìn những giá trị văn hóa, lịch sử của dân tộc ấy khỏi bị biến dạng, lệch lạc trong ngôn ngữ đại chúng. đôi khi, điều ấy còn đáng sợ hơn việc bị mai một, quên lãng vào quá khứ. vậy nên, dù có những dự án mơ hồ về tính ứng dụng; hay lúc bạn mình bày tỏ dự định lên núi học tiếng người bản địa để hiểu hơn về một dân tộc xa lạ, mình đều hết lòng ủng hộ bởi hiểu rằng họ làm điều ấy mà đâu nghĩ gì cho bản thân.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-110.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

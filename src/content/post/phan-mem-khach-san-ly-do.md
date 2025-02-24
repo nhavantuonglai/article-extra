@@ -3,7 +3,7 @@ pubDatetime: 2022-06-26T10:10:00Z
 title: 6 lý do lựa chọn hệ thống phần mềm quản lý khách sạn tất cả trong một (all in one)
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
 featured: false
-image: https://banmaixanh.org/image/cover/001-222.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-222.jpg
 tags:
   - viet thue
   - marketing
@@ -33,7 +33,7 @@ Tăng lượng direct booking đòi hỏi một kế hoạch bán hàng có chi�
 
 Nhưng sẽ rất xứng đáng khi khách sạn bắt đầu nghĩ đến việc thúc đẩy nhiều lượt đặt phòng trực tiếp hơn, khiến direct booking trở thành một phần quan trọng trong nhóm kênh phân phối.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-059.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-059.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Tỉ lệ sinh lời sẽ được cải thiện đáng kể
 
@@ -53,10 +53,10 @@ Chẳng bao lâu nữa, khách từ mọi nơi trên thế giới sẽ đến kh
 
 Hệ thống tất cả trong một cung cấp cho bạn các nguồn lực cần thiết để tiếp cận với khách một cách trực tiếp và chuyên nghiệp. Những e-mail trước khi lưu trú cũng có thể cung cấp cho họ thông tin chi tiết bổ sung về khách sạn của bạn và khiến họ hào hứng với chuyến đi của mình. Các e-mail sau khi khách rời đi cho phép họ có cơ hội để lại phản hồi và có thể khuyến khích khách hàng quay lại.
 
-<figure><img src="https://banmaixanh.org/image/article/khach-san-060.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-060.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Bạn nhận được sự hỗ trợ nhanh chóng
 
 Một đội ngũ support tốt sẽ rất quan trọng trong việc bạn sử dụng phần mềm những lúc bạn cần. Sẽ rất lý tưởng nếu như phần mềm quản lý khách sạn bạn lựa chọn có một đội ngũ hỗ trợ tận tình, giải đáp thắc mắc một cách nhanh chóng những vấn đề bạn gặp phải.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-114.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-114.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>

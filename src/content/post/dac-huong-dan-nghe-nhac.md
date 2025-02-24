@@ -3,7 +3,7 @@ pubDatetime: 2021-01-26T10:10:00Z
 title: Hướng dẫn cài đặt và sử dụng DAC cho audiophile
 description: DAC (digital-to-analog converter) là thiết bị không thể thiếu đối với những người yêu thích âm thanh chất lượng cao.
 featured: false
-image: https://banmaixanh.org/image/cover/001-554.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-554.jpg
 tags:
   - viet lach
   - thuong thuc am thanh
@@ -147,4 +147,4 @@ Trước khi cài đặt DAC, bạn cần chuẩn bị các thiết bị và ph�
 
 DAC là thiết bị quan trọng giúp nâng cao Chất lượng âm thanh cho audiophile. Việc chọn lựa, cài đặt và sử dụng DAC đúng cách sẽ giúp bạn tận hưởng âm nhạc với chất lượng tốt nhất. Hy vọng rằng bài viết này đã cung cấp cho bạn những thông tin hữu ích về cách cài đặt và sử dụng DAC, cùng các loại DAC phổ biến trên thị trường. Chúc bạn có những trải nghiệm âm thanh tuyệt vời!
 
-<figure><img src="https://banmaixanh.org/image/cover/001-211.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-211.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

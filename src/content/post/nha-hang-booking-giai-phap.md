@@ -3,7 +3,7 @@ pubDatetime: 2023-01-26T10:10:00Z
 title: 11 giải pháp cải thiện mô hình đặt chỗ trước trong nhà hàng
 description: Tìm hiểu các chiến lược tiếp thị nhà hàng hiệu quả trong chuỗi bài viết sau của nhavantuonglai để áp dụng và đem lại hiệu quả thiết thực cho giải pháp của bạn.
 featured: false
-image: https://banmaixanh.org/image/cover/001-357.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-357.jpg
 tags:
   - viet thue
   - marketing
@@ -100,4 +100,4 @@ Tất nhiên, nhà hàng vẫn có thể quản lý bằng giấy và bút, tuy 
 
 Đặt chỗ trước trong nhà hàng là một công nghệ hiện đại, đem lại nhiều lợi ích cho nhà hàng. Cho nên, nếu bạn đang cần một sự thay đổi để tạo ra nhiều khác biệt, cụ thể là doanh thu cho nhà hàng thì đây là lúc để bắt đầu.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-304.jpg" alt="nha hang, am thuc." title="nha hang, am thuc." height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-304.jpg" alt="nha hang, am thuc." title="nha hang, am thuc." height=100% width=100%><figcaption><p></p></figcaption></figure>

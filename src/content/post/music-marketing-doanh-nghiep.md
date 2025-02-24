@@ -3,7 +3,7 @@ pubDatetime: 2022-12-27T10:10:00Z
 title: Tìm hiểu về Music Marketing và cách truyền thông bằng âm nhạc cho các giải pháp
 description: Music Marketing là việc sử dụng âm nhạc làm công cụ chính hoặc phụ trong các chiến dịch, dự án nhằm tiếp cận và thu hút người ngheu, với mục đích nâng cao nhận dạng thương hiệu và/hoặc tăng doanh số bán hàng.
 featured: false
-image: https://banmaixanh.org/image/cover/001-282.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-282.jpg
 tags:
   - viet lach
   - doan van
@@ -182,4 +182,4 @@ Music Marketing là một hình thức tiếp thị sử dụng âm nhạc làm 
 
 Trong thời đại số, âm nhạc không chỉ là một loại nghệ thuật có khả năng khuấy động cảm xúc và tạo ra những trải nghiệm cho người nghe, mà còn là một nguồn lực quý giá cho các giải pháp trong việc xây dựng và phát triển thương hiệu. Music Marketing là một xu hướng truyền thông mà các giải pháp nên khai thác, để tận dụng sức mạnh của âm nhạc trong việc giao tiếp và tương tác với khách hàng. Music Marketing cũng là một cách để các giải pháp thể hiện sự sáng tạo, độc đáo và khác biệt của mình, để tạo ra một ấn tượng khó quên và một mối liên kết bền vững với khách hàng.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-284.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-284.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

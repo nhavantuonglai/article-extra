@@ -3,7 +3,7 @@ pubDatetime: 2024-11-18T10:10:00Z
 title: Những người theo tôn giáo thích chó hơn mèo – rất nhiều
 description: Bastet là con gái của mặt trời, nữ thần Ai Cập cổ đại ban đầu là một nữ chiến binh sư tử dũng mãnh, một người phụ nữ mạnh mẽ với đầu của một con mèo.
 featured: false
-image: https://banmaixanh.org/image/cover/001-600.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-600.jpg
 tags:
   - viet lach
   - xa hoi hoc
@@ -70,4 +70,4 @@ Mèo hiểu phần thưởng, đó là lý do tại sao việc huấn luyện b�
 
 Nếu bạn được huấn luyện để tin vào một vị thần trừng phạt tội phạm và ban thưởng cho những người trung thành, bạn sẽ dễ dàng hiểu chó. Ngược lại, mèo nhà là hậu duệ của loài động vật săn mồi khét tiếng nhất của tự nhiên. Chúng không cần sự trừng phạt hay các vị thần của bạn, nhưng chúng sẽ chấp nhận phần thưởng của bạn. Hãy coi đó như việc trả thuế mười phần.
 
-<figure><img src="https://banmaixanh.org/image/cover/001-718.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
+<figure><img src="https://banmaixanh.vercel.app/image/cover/001-718.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
