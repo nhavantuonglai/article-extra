@@ -14,23 +14,23 @@ export const headerData = {
 			links: [
 				{
 					text: 'Đọc thêm',
-					href: 'https://nhavantuonglai.com/article',
+					href: '/article',
 				},
 				{
 					text: 'Viết lách',
-					href: 'https://nhavantuonglai.com/tags/viet-lach',
+					href: '/viet-lach',
 				},
 				{
 					text: 'Lập trình',
-					href: 'https://nhavantuonglai.com/tags/developer',
+					href: '/tags/developer',
 				},
 				{
 					text: 'Nghiên cứu',
-					href: 'https://nhavantuonglai.com/tags/nghien-cuu',
+					href: '/tags/nghien-cuu',
 				},
 				{
 					text: 'Văn chương',
-					href: 'https://nhavantuonglai.com/tags/van-hoc',
+					href: '/van-hoc',
 				},
 			],
 		},
@@ -40,31 +40,31 @@ export const headerData = {
 			links: [
 				{
 					text: 'Xem thêm',
-					href: 'https://nhavantuonglai.com/analytics',
+					href: 'https://nhavantuonglai.com//analytics',
 				},
 				{
 					text: 'Trợ lý Chat AI',
-					href: 'https://nhavantuonglai.com/analytics/integrate',
+					href: 'https://nhavantuonglai.com//analytics/integrate',
 				},
 				{
 					text: 'Radio trực tuyến',
-					href: 'https://nhavantuonglai.com/analytics/radio',
+					href: 'https://nhavantuonglai.com//analytics/radio',
 				},
 				{
 					text: 'Từ điển tiếng Anh',
-					href: 'https://nhavantuonglai.com/analytics/dictionary',
+					href: 'https://nhavantuonglai.com//analytics/dictionary',
 				},
 				{
 					text: 'Kiểm tra phạt nguội (Beta)',
-					href: 'https://nhavantuonglai.com/analytics/phat-nguoi',
+					href: 'https://nhavantuonglai.com//analytics/phat-nguoi',
 				},
 				{
 					text: 'Dịch phụ đề AI (Beta)',
-					href: 'https://nhavantuonglai.com/analytics/subtitle',
+					href: 'https://nhavantuonglai.com//analytics/subtitle',
 				},
 				{
 					text: 'Quét chữ trong ảnh (Beta)',
-					href: 'https://nhavantuonglai.com/analytics/ocr',
+					href: 'https://nhavantuonglai.com//analytics/ocr',
 				},
 			],
 		},
@@ -74,30 +74,30 @@ export const headerData = {
 			links: [
 				{
 					text: 'Xem thêm',
-					href: 'https://nhavantuonglai.com/services',
+					href: 'https://nhavantuonglai.com//services',
 				},
 				{
 					text: 'Viết bài chất lượng cao',
-					href: 'https://nhavantuonglai.com/services/copywriter',
+					href: 'https://nhavantuonglai.com//services/copywriter',
 				},
 				{
 					text: 'Thiết kế website',
-					href: 'https://nhavantuonglai.com/services/website',
+					href: 'https://nhavantuonglai.com//services/website',
 				},
 				{
 					text: 'Triển khai Marketing',
-					href: 'https://nhavantuonglai.com/services/marketing',
+					href: 'https://nhavantuonglai.com//services/marketing',
 				},
 				{
 					text: 'Triển khai SEO',
-					href: 'https://nhavantuonglai.com/services/seo',
+					href: '/services/seo',
 				},
 			],
 		},
 
 		{
 			text: 'Liên hệ',
-			href: 'https://nhavantuonglai.com/contact',
+			href: 'https://nhavantuonglai.com//contact',
 		},
 
 	],
@@ -119,19 +119,19 @@ export const footerData = {
 			links: [
 				{
 					text: 'Trợ lý Chat AI',
-					href: 'https://nhavantuonglai.com/analytics/integrate',
+					href: 'https://nhavantuonglai.com//analytics/integrate',
 				},
 				{
 					text: 'Từ điển tiếng Anh',
-					href: 'https://nhavantuonglai.com/analytics/dictionary',
+					href: 'https://nhavantuonglai.com//analytics/dictionary',
 				},
 				{
 					text: 'Radio trực tuyến',
-					href: 'https://nhavantuonglai.com/analytics/radio',
+					href: 'https://nhavantuonglai.com//analytics/radio',
 				},
 				{
 					text: 'Kiểm tra phạt nguội',
-					href: 'https://nhavantuonglai.com/analytics/phat-nguoi',
+					href: 'https://nhavantuonglai.com//analytics/phat-nguoi',
 				},
 			],
 		},
@@ -141,19 +141,19 @@ export const footerData = {
 			links: [
 				{
 					text: 'Viết lách',
-					href: 'https://nhavantuonglai.com/tags/viet-lach'
+					href: '/tags/viet-lach'
 				},
 				{
 					text: 'Viết thuê',
-					href: 'https://nhavantuonglai.com/tags/viet-thue'
+					href: '/tags/viet-thue'
 				},
 				{
 					text: 'Đoản văn',
-					href: 'https://nhavantuonglai.com/tags/doan-van'
+					href: '/tags/doan-van'
 				},
 				{
 					text: 'Nghiên cứu',
-					href: 'https://nhavantuonglai.com/tags/nghien-cuu'
+					href: '/tags/nghien-cuu'
 				},
 			],
 		},
@@ -163,19 +163,19 @@ export const footerData = {
 			links: [
 				{
 					text: 'Tôn giáo',
-					href: 'https://nhavantuonglai.com/tags/ton-giao'
+					href: '/tags/ton-giao'
 				},
 				{
 					text: 'Triết học',
-					href: 'https://nhavantuonglai.com/tags/triet-hoc'
+					href: '/tags/triet-hoc'
 				},
 				{
 					text: 'Khoa học',
-					href: 'https://nhavantuonglai.com/tags/khoa-hoc'
+					href: '/tags/khoa-hoc'
 				},
 				{
 					text: 'Tâm lý',
-					href: 'https://nhavantuonglai.com/tags/tam-ly-hoc'
+					href: '/tags/tam-ly-hoc'
 				},
 			],
 		},
@@ -185,19 +185,19 @@ export const footerData = {
 			links: [
 				{
 					text: 'Kỹ năng viết lách',
-					href: 'https://nhavantuonglai.com/tags/ky-nang-viet'
+					href: '/tags/ky-nang-viet'
 				},
 				{
 					text: 'Tối ưu website',
-					href: 'https://nhavantuonglai.com/tags/website'
+					href: '/tags/website'
 				},
 				{
 					text: 'Vũ trụ rộng lớn',
-					href: 'https://nhavantuonglai.com/tags/vu-tru'
+					href: '/tags/vu-tru'
 				},
 				{
 					text: 'Kỹ năng thông minh',
-					href: 'https://nhavantuonglai.com/tags/ky-nang'
+					href: '/tags/ky-nang'
 				},
 			],
 		},
@@ -208,17 +208,17 @@ export const footerData = {
 
 		{
 			text: 'Điều khoản',
-			href: 'https://nhavantuonglai.com/term'
+			href: '/term'
 		},
 
 		{
 			text: 'Chính sách',
-			href: 'https://nhavantuonglai.com/policy'
+			href: '/policy'
 		},
 
 		{
 			text: 'v25.02.16',
-			href: 'https://nhavantuonglai.com/version'
+			href: '/version'
 		},
 
 	],
@@ -246,7 +246,7 @@ export const footerData = {
 		{
 			ariaLabel: 'RSS',
 			icon: 'tabler:rss',
-			href: 'https://nhavantuonglai.com/rss.xml'
+			href: '/rss.xml'
 		},
 
 	],
