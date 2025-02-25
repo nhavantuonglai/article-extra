@@ -13,11 +13,11 @@ _Đà Lạt là thủ phủ tỉnh Lâm Đồng, nằm trên cao nguyên Lâm Vi
 
 ## Đà Lạt mùa nào đẹp?
 
-Khí hậu Đà Lạt mát mẻ quanh năm nhờ vị trí địa lý thuộc vùng cao của Tây Nguyên. Tháng 1-4 là mùa xuân nên phố núi rực rỡ sắc màu của rất nhiều loài hoa như [mai anh đào](https://nhavantuonglai.com/article), [ban trắng](https://nhavantuonglai.com/article), [phượng tím](https://nhavantuonglai.com/article)…
+Khí hậu Đà Lạt mát mẻ quanh năm nhờ vị trí địa lý thuộc vùng cao của Tây Nguyên. Tháng 1-4 là mùa xuân nên phố núi rực rỡ sắc màu của rất nhiều loài hoa như [mai anh đào](/article), [ban trắng](/article), [phượng tím](/article)…
 
 Tháng 5-9 là mùa hè đồng thời vào dịp cao điểm của du lịch khi du khách khắp nơi đi trốn nóng. Tuy nhiên, đây chính là mùa mưa ở Đà Lạt khiến mọi người đi lại luôn phải mang theo áo mưa hoặc ô.
 
-Tháng 10-12 Đà Lạt vào mùa khô và lạnh. Du khách đi dịp này sẽ có cơ hội ngắm [hoa dã quỳ](https://nhavantuonglai.com/article) nở rực vàng, những [đồi cỏ hồng](https://nhavantuonglai.com/article) lung linh trong sương sớm hoặc cảnh tượng mây phủ kín núi đồi ở ngoại ô.
+Tháng 10-12 Đà Lạt vào mùa khô và lạnh. Du khách đi dịp này sẽ có cơ hội ngắm [hoa dã quỳ](/article) nở rực vàng, những [đồi cỏ hồng](/article) lung linh trong sương sớm hoặc cảnh tượng mây phủ kín núi đồi ở ngoại ô.
 
 ## Di chuyển
 
@@ -37,9 +37,9 @@ Tại Đà Lạt, du khách thuê xe máy, ôtô, taxi hoặc sử dụng các �
 
 ## Lưu trú
 
-Tùy theo túi tiền và sở thích, du khách có thể lựa chọn từ dạng nhà nghỉ, [homestay](https://nhavantuonglai.com/article) cho đến khách sạn, khu nghỉ dưỡng, biệt thự cao cấp. Khách thích mua sắm ăn uống ở thành phố nên chọn ở gần trung tâm, nhưng với người yêu thiên nhiên tránh sự xô bồ hãy đặt phòng ở khu vực ngoại ô.
+Tùy theo túi tiền và sở thích, du khách có thể lựa chọn từ dạng nhà nghỉ, [homestay](/article) cho đến khách sạn, khu nghỉ dưỡng, biệt thự cao cấp. Khách thích mua sắm ăn uống ở thành phố nên chọn ở gần trung tâm, nhưng với người yêu thiên nhiên tránh sự xô bồ hãy đặt phòng ở khu vực ngoại ô.
 
-[Cắm trại sang chảnh](https://nhavantuonglai.com/article) (glamping) cũng là một xu hướng lưu trú mới của du khách hiện nay khi đến Đà Lạt. Hình thức này thích hợp với giới trẻ, các gia đình nhỏ đi vào dịp cuối tuần, kỳ nghỉ lễ để vừa muốn gần gũi thiên nhiên vừa có những tiện nghi cơ bản. Một số điểm phải kể tới như Twin Beans Farm, CampArt #MợJen, Dalat Camp…
+[Cắm trại sang chảnh](/article) (glamping) cũng là một xu hướng lưu trú mới của du khách hiện nay khi đến Đà Lạt. Hình thức này thích hợp với giới trẻ, các gia đình nhỏ đi vào dịp cuối tuần, kỳ nghỉ lễ để vừa muốn gần gũi thiên nhiên vừa có những tiện nghi cơ bản. Một số điểm phải kể tới như Twin Beans Farm, CampArt #MợJen, Dalat Camp…
 
 ## Điểm tham quan
 
@@ -47,19 +47,19 @@ Tùy theo túi tiền và sở thích, du khách có thể lựa chọn từ d�
 
 Đà Lạt được hình thành từ năm 1893, thời điểm bác sĩ Pháp Alexandre Yersin lần đầu đặt chân đến cao nguyên Lâm Viên. Từ giữa thập niên 1910 người Pháp đến Đà Lạt và xây dựng nơi này không chỉ thành một thiên đường nghỉ dưỡng mà còn là thành phố xinh đẹp với những biên thự, công sở, trường học, khách sạn…
 
-Nhiều công trình thời đó hiện trở thành điểm tham quan hấp dẫn du khách như Ga Đà Lạt với tuyến tàu du lịch [Đà Lạt – Trại Mát](https://nhavantuonglai.com/article), [Viện sinh học Tây Nguyên](https://nhavantuonglai.com/article) (Bảo tàng sinh học Tây Nguyên), [Bảo tàng Trà ](https://nhavantuonglai.com/article)ở Cầu Đất, Trường cao đẳng sư phạm Đà Lạt, Nhà thờ chính tòa Đà Lạt, Nhà thờ Domaine de Marie…
+Nhiều công trình thời đó hiện trở thành điểm tham quan hấp dẫn du khách như Ga Đà Lạt với tuyến tàu du lịch [Đà Lạt – Trại Mát](/article), [Viện sinh học Tây Nguyên](/article) (Bảo tàng sinh học Tây Nguyên), [Bảo tàng Trà ](/article)ở Cầu Đất, Trường cao đẳng sư phạm Đà Lạt, Nhà thờ chính tòa Đà Lạt, Nhà thờ Domaine de Marie…
 
-Hệ thống Dinh I, II, II thời vua Bảo Đại, [Dinh Tỉnh Trưởng](https://nhavantuonglai.com/article), Biệt điện Trần Lệ Xuân, Dinh Nguyễn Hữu Hào… cũng là điểm đến hấp dẫn với người yêu lịch sử và kiến trúc cổ. Ngoài ra, du khách có thể tham quan thêm các kiến trúc độc đáo như Biệt thự Hằng Nga, chùa _ve chai_ Linh Phước, chùa Linh Quy Pháp Ấn, hoặc Vườn ánh sáng Lumiere.
+Hệ thống Dinh I, II, II thời vua Bảo Đại, [Dinh Tỉnh Trưởng](/article), Biệt điện Trần Lệ Xuân, Dinh Nguyễn Hữu Hào… cũng là điểm đến hấp dẫn với người yêu lịch sử và kiến trúc cổ. Ngoài ra, du khách có thể tham quan thêm các kiến trúc độc đáo như Biệt thự Hằng Nga, chùa _ve chai_ Linh Phước, chùa Linh Quy Pháp Ấn, hoặc Vườn ánh sáng Lumiere.
 
 Điểm đến thiên nhiên
 
-Đà Lạt có rất nhiều điểm đến thiên nhiên để khám phá trong ngày hoặc 1-2 ngày như [vườn quốc gia Bidoup – Núi Bà](https://nhavantuonglai.com/article), hồ Tuyền Lâm, thác Datanla, Prenn, Voi, Pongour, hồ Suối Vàng…
+Đà Lạt có rất nhiều điểm đến thiên nhiên để khám phá trong ngày hoặc 1-2 ngày như [vườn quốc gia Bidoup – Núi Bà](/article), hồ Tuyền Lâm, thác Datanla, Prenn, Voi, Pongour, hồ Suối Vàng…
 
 Đối với những người mê săn mây, sương, hoàng hôn và cắm trại qua đêm trên núi thì đồi Đa Phú, Thiên Phúc Đức, Trọc, đồi chè Cầu Đất, đỉnh Hòn Bồ… là thích hợp nhất.
 
-Du khách có con nhỏ thích [khám phá các loài thú](https://nhavantuonglai.com/article) có thể ghé thăm vườn thú Zoodoo, Nông trại cún, Chika Farm…
+Du khách có con nhỏ thích [khám phá các loài thú](/article) có thể ghé thăm vườn thú Zoodoo, Nông trại cún, Chika Farm…
 
-Ngoài ra, vườn hoa thành phố, vườn [cẩm tú cầu](https://nhavantuonglai.com/article) ở Trại Mát, [vườn oải hương](https://nhavantuonglai.com/article) hồ Tuyền Lâm, làng hoa Vạn Thành… cũng là điểm check-in không thể bỏ qua ở Đà Lạt.
+Ngoài ra, vườn hoa thành phố, vườn [cẩm tú cầu](/article) ở Trại Mát, [vườn oải hương](/article) hồ Tuyền Lâm, làng hoa Vạn Thành… cũng là điểm check-in không thể bỏ qua ở Đà Lạt.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/du-lich-da-lat-198.jpg" alt="cam-nang-du-lich-da-lat" height=100% width=100%><figcaption><p>cam-nang-du-lich-da-lat-nhavantuonglai</p></figcaption></figure>
 
@@ -73,10 +73,10 @@ Bánh căn du nhập vào Đà Lạt từ các vùng miền khác, chế biến 
 
 Bánh tráng nướng làm từ bánh tráng đập thêm trứng gà, phô mai, pate gan, bò khô, mayonaise lên trên. Bánh nướng bếp than hồng thơm phức và nóng hổi. Chỉ vài phút là có một đĩa bánh đã cắt miếng ăn kèm tương ớt.
 
-[Lẩu gà lá é](https://nhavantuonglai.com/article) cũng là món du nhập nhưng làm du khách nào tới cũng khó lòng bỏ qua. Thịt gà ngon mềm, nấm ngọt, măng giòn và vị the nhẹ của lá é khiến thực khách khó quên, đặc biệt khi thưởng thức giữa tiết trời lành lạnh.
+[Lẩu gà lá é](/article) cũng là món du nhập nhưng làm du khách nào tới cũng khó lòng bỏ qua. Thịt gà ngon mềm, nấm ngọt, măng giòn và vị the nhẹ của lá é khiến thực khách khó quên, đặc biệt khi thưởng thức giữa tiết trời lành lạnh.
 
 Ngoài những món ăn đặc trưng trên, đến Đà Lạt du khách dạo chợ và những khu phố trung tâm sẽ tìm thấy từ món ăn vặt như súp cua, xôi, kem bơ, sữa đậu cho tới các loại bún riêu, bò, thịt nướng ống tre, ốc bươu nhồi thịt, nem nướng…
 
-Người mê cà phê sẽ nhận ra Đà Lạt cũng là thiên đường của đồ uống này. Không chỉ pha chế cà phê ngon, những hàng quán ở đây còn được không gian hấp dẫn với rất nhiều phong cách riêng. Du khách có thể thưởng thức [cà phê ẩn trong rừng](https://nhavantuonglai.com/article), [phong cách Nhật Bản](https://nhavantuonglai.com/article), [check-in với gương](https://nhavantuonglai.com/article)…
+Người mê cà phê sẽ nhận ra Đà Lạt cũng là thiên đường của đồ uống này. Không chỉ pha chế cà phê ngon, những hàng quán ở đây còn được không gian hấp dẫn với rất nhiều phong cách riêng. Du khách có thể thưởng thức [cà phê ẩn trong rừng](/article), [phong cách Nhật Bản](/article), [check-in với gương](/article)…
 
 <figure><img src="https://banmaixanh.vercel.app/image/cover/001-316.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

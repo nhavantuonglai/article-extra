@@ -35,9 +35,9 @@ Google One có 5 gói lưu trữ, bao gồm:
 
 Với gói 5TB và 10TB, người dùng chỉ có thể mua theo năm. Với tất cả các gói, nếu mua theo năm sẽ tiết kiệm 16% (tương đương trả 10 tháng).
 
-Ngoài ra, bạn cũng nên tham khảo cách [mua dung lượng Google One giá rẻ bằng cách chuyển vùng sang Thổ Nhĩ Kỳ](https://nhavantuonglai.com/article/google-one-tho-nhi-ky) để mua dung lượng Google One giá rẻ nhất.
+Ngoài ra, bạn cũng nên tham khảo cách [mua dung lượng Google One giá rẻ bằng cách chuyển vùng sang Thổ Nhĩ Kỳ](/article/google-one-tho-nhi-ky) để mua dung lượng Google One giá rẻ nhất.
 
-Để đảm bảo rằng bạn đã kết nối thành công, truy cập một website kiểm tra địa chỉ IP như [Công cụ tra cứu thông tin địa chỉ IP](https://nhavantuonglai.com/analytics/address) để xác nhận rằng địa chỉ IP của bạn hiện tại đang là của Thổ Nhĩ Kỳ.
+Để đảm bảo rằng bạn đã kết nối thành công, truy cập một website kiểm tra địa chỉ IP như [Công cụ tra cứu thông tin địa chỉ IP](/analytics/address) để xác nhận rằng địa chỉ IP của bạn hiện tại đang là của Thổ Nhĩ Kỳ.
 
 Hướng dẫn nhận 3TB Google Drive (Google One), giá 199k và các gói dung lượng khác trong bài dưới đây.
 
@@ -49,7 +49,7 @@ Mục tiêu chính của OWASP là cung cấp thông tin, công cụ và tài li
 
 OWASP cung cấp danh sách các lỗ hổng bảo mật phổ biến (OWASP Top 10) và các tài liệu hướng dẫn để giúp cải thiện bảo mật ứng dụng web.
 
-Khi đăng ký membership OWASP, ngoài các lợi ích liên quan đến nền tảng thì người dùng còn được tặng kèm 1 mail với định dạng username@owasp.org, có 3TB Google Drive [Google One giá 199k](https://nhavantuonglai.com/article/google-one-199k) mỗi năm (tương đương 8$).
+Khi đăng ký membership OWASP, ngoài các lợi ích liên quan đến nền tảng thì người dùng còn được tặng kèm 1 mail với định dạng username@owasp.org, có 3TB Google Drive [Google One giá 199k](/article/google-one-199k) mỗi năm (tương đương 8$).
 
 ## Yêu cầu chung để nhận 3TB Google Drive (Google One), giá 199k
 

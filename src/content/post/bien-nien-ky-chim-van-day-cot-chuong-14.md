@@ -234,137 +234,137 @@ Thế này thì nghiêm trọng đây. Kumiko biến mất, để lại toàn b�
 
 Tựa mình vào ghế, lơ đãng nghe thứ nhạc nền sạch sẽ đến khó chịu, tôi hình dung Kumiko đi trên tàu điện chật ních người, tay ôm áo váy vẫn còn nguyên móc áo gói trong túi nhựa của hiệu giặt. Tôi nhớ lại màu chiếc áo váy nàng mặc, mùi nước hoa sau tai nàng, tấm lưng mịn màng trắng muốt của nàng. Hẳn là tôi kiệt sức rồi. Tôi cảm thấy nếu nhắm mắt lại, tôi sẽ trôi đến nơi nào khác; tôi sẽ rơi vào một chỗ hoàn toàn khác.
 
-Đọc [Biên niên ký chim vặn dây cót, chương 01](https://nhavantuonglai.com/article/bien-nien-ky-chim-van-day-cot-chuong-01) tại đây.
+Đọc [Biên niên ký chim vặn dây cót, chương 01](/article/bien-nien-ky-chim-van-day-cot-chuong-01) tại đây.
 
-Đọc [Biên niên ký chim vặn dây cót, chương 02](https://nhavantuonglai.com/article/bien-nien-ky-chim-van-day-cot-chuong-02) tại đây.
+Đọc [Biên niên ký chim vặn dây cót, chương 02](/article/bien-nien-ky-chim-van-day-cot-chuong-02) tại đây.
 
-Đọc [Biên niên ký chim vặn dây cót, chương 03](https://nhavantuonglai.com/article/bien-nien-ky-chim-van-day-cot-chuong-03) tại đây.
+Đọc [Biên niên ký chim vặn dây cót, chương 03](/article/bien-nien-ky-chim-van-day-cot-chuong-03) tại đây.
 
-Đọc [Biên niên ký chim vặn dây cót, chương 04](https://nhavantuonglai.com/article/bien-nien-ky-chim-van-day-cot-chuong-04) tại đây.
+Đọc [Biên niên ký chim vặn dây cót, chương 04](/article/bien-nien-ky-chim-van-day-cot-chuong-04) tại đây.
 
-Đọc [Biên niên ký chim vặn dây cót, chương 05](https://nhavantuonglai.com/article/bien-nien-ky-chim-van-day-cot-chuong-05) tại đây.
+Đọc [Biên niên ký chim vặn dây cót, chương 05](/article/bien-nien-ky-chim-van-day-cot-chuong-05) tại đây.
 
-Đọc [Biên niên ký chim vặn dây cót, chương 06](https://nhavantuonglai.com/article/bien-nien-ky-chim-van-day-cot-chuong-06) tại đây.
+Đọc [Biên niên ký chim vặn dây cót, chương 06](/article/bien-nien-ky-chim-van-day-cot-chuong-06) tại đây.
 
-Đọc [Biên niên ký chim vặn dây cót, chương 07](https://nhavantuonglai.com/article/bien-nien-ky-chim-van-day-cot-chuong-07) tại đây.
+Đọc [Biên niên ký chim vặn dây cót, chương 07](/article/bien-nien-ky-chim-van-day-cot-chuong-07) tại đây.
 
-Đọc [Biên niên ký chim vặn dây cót, chương 08](https://nhavantuonglai.com/article/bien-nien-ky-chim-van-day-cot-chuong-08) tại đây.
+Đọc [Biên niên ký chim vặn dây cót, chương 08](/article/bien-nien-ky-chim-van-day-cot-chuong-08) tại đây.
 
-Đọc [Biên niên ký chim vặn dây cót, chương 09](https://nhavantuonglai.com/article/bien-nien-ky-chim-van-day-cot-chuong-09) tại đây.
+Đọc [Biên niên ký chim vặn dây cót, chương 09](/article/bien-nien-ky-chim-van-day-cot-chuong-09) tại đây.
 
-Đọc [Biên niên ký chim vặn dây cót, chương 10](https://nhavantuonglai.com/article/bien-nien-ky-chim-van-day-cot-chuong-10) tại đây.
+Đọc [Biên niên ký chim vặn dây cót, chương 10](/article/bien-nien-ky-chim-van-day-cot-chuong-10) tại đây.
 
-Đọc [Biên niên ký chim vặn dây cót, chương 11](https://nhavantuonglai.com/article/bien-nien-ky-chim-van-day-cot-chuong-11) tại đây.
+Đọc [Biên niên ký chim vặn dây cót, chương 11](/article/bien-nien-ky-chim-van-day-cot-chuong-11) tại đây.
 
-Đọc [Biên niên ký chim vặn dây cót, chương 12](https://nhavantuonglai.com/article/bien-nien-ky-chim-van-day-cot-chuong-12) tại đây.
+Đọc [Biên niên ký chim vặn dây cót, chương 12](/article/bien-nien-ky-chim-van-day-cot-chuong-12) tại đây.
 
-Đọc [Biên niên ký chim vặn dây cót, chương 13](https://nhavantuonglai.com/article/bien-nien-ky-chim-van-day-cot-chuong-13) tại đây.
+Đọc [Biên niên ký chim vặn dây cót, chương 13](/article/bien-nien-ky-chim-van-day-cot-chuong-13) tại đây.
 
-Đọc [Biên niên ký chim vặn dây cót, chương 14](https://nhavantuonglai.com/article/bien-nien-ky-chim-van-day-cot-chuong-14) tại đây.
+Đọc [Biên niên ký chim vặn dây cót, chương 14](/article/bien-nien-ky-chim-van-day-cot-chuong-14) tại đây.
 
-Đọc [Biên niên ký chim vặn dây cót, chương 15](https://nhavantuonglai.com/article/bien-nien-ky-chim-van-day-cot-chuong-15) tại đây.
+Đọc [Biên niên ký chim vặn dây cót, chương 15](/article/bien-nien-ky-chim-van-day-cot-chuong-15) tại đây.
 
-Đọc [Biên niên ký chim vặn dây cót, chương 16](https://nhavantuonglai.com/article/bien-nien-ky-chim-van-day-cot-chuong-16) tại đây.
+Đọc [Biên niên ký chim vặn dây cót, chương 16](/article/bien-nien-ky-chim-van-day-cot-chuong-16) tại đây.
 
-Đọc [Biên niên ký chim vặn dây cót, chương 17](https://nhavantuonglai.com/article/bien-nien-ky-chim-van-day-cot-chuong-17) tại đây.
+Đọc [Biên niên ký chim vặn dây cót, chương 17](/article/bien-nien-ky-chim-van-day-cot-chuong-17) tại đây.
 
-Đọc [Biên niên ký chim vặn dây cót, chương 18](https://nhavantuonglai.com/article/bien-nien-ky-chim-van-day-cot-chuong-18) tại đây.
+Đọc [Biên niên ký chim vặn dây cót, chương 18](/article/bien-nien-ky-chim-van-day-cot-chuong-18) tại đây.
 
-Đọc [Biên niên ký chim vặn dây cót, chương 19](https://nhavantuonglai.com/article/bien-nien-ky-chim-van-day-cot-chuong-19) tại đây.
+Đọc [Biên niên ký chim vặn dây cót, chương 19](/article/bien-nien-ky-chim-van-day-cot-chuong-19) tại đây.
 
-Đọc [Biên niên ký chim vặn dây cót, chương 20](https://nhavantuonglai.com/article/bien-nien-ky-chim-van-day-cot-chuong-20) tại đây.
+Đọc [Biên niên ký chim vặn dây cót, chương 20](/article/bien-nien-ky-chim-van-day-cot-chuong-20) tại đây.
 
-Đọc [Biên niên ký chim vặn dây cót, chương 21](https://nhavantuonglai.com/article/bien-nien-ky-chim-van-day-cot-chuong-21) tại đây.
+Đọc [Biên niên ký chim vặn dây cót, chương 21](/article/bien-nien-ky-chim-van-day-cot-chuong-21) tại đây.
 
-Đọc [Biên niên ký chim vặn dây cót, chương 22](https://nhavantuonglai.com/article/bien-nien-ky-chim-van-day-cot-chuong-22) tại đây.
+Đọc [Biên niên ký chim vặn dây cót, chương 22](/article/bien-nien-ky-chim-van-day-cot-chuong-22) tại đây.
 
-Đọc [Biên niên ký chim vặn dây cót, chương 23](https://nhavantuonglai.com/article/bien-nien-ky-chim-van-day-cot-chuong-23) tại đây.
+Đọc [Biên niên ký chim vặn dây cót, chương 23](/article/bien-nien-ky-chim-van-day-cot-chuong-23) tại đây.
 
-Đọc [Biên niên ký chim vặn dây cót, chương 24](https://nhavantuonglai.com/article/bien-nien-ky-chim-van-day-cot-chuong-24) tại đây.
+Đọc [Biên niên ký chim vặn dây cót, chương 24](/article/bien-nien-ky-chim-van-day-cot-chuong-24) tại đây.
 
-Đọc [Biên niên ký chim vặn dây cót, chương 25](https://nhavantuonglai.com/article/bien-nien-ky-chim-van-day-cot-chuong-25) tại đây.
+Đọc [Biên niên ký chim vặn dây cót, chương 25](/article/bien-nien-ky-chim-van-day-cot-chuong-25) tại đây.
 
-Đọc [Biên niên ký chim vặn dây cót, chương 26](https://nhavantuonglai.com/article/bien-nien-ky-chim-van-day-cot-chuong-26) tại đây.
+Đọc [Biên niên ký chim vặn dây cót, chương 26](/article/bien-nien-ky-chim-van-day-cot-chuong-26) tại đây.
 
-Đọc [Biên niên ký chim vặn dây cót, chương 27](https://nhavantuonglai.com/article/bien-nien-ky-chim-van-day-cot-chuong-27) tại đây.
+Đọc [Biên niên ký chim vặn dây cót, chương 27](/article/bien-nien-ky-chim-van-day-cot-chuong-27) tại đây.
 
-Đọc [Biên niên ký chim vặn dây cót, chương 28](https://nhavantuonglai.com/article/bien-nien-ky-chim-van-day-cot-chuong-28) tại đây.
+Đọc [Biên niên ký chim vặn dây cót, chương 28](/article/bien-nien-ky-chim-van-day-cot-chuong-28) tại đây.
 
-Đọc [Biên niên ký chim vặn dây cót, chương 29](https://nhavantuonglai.com/article/bien-nien-ky-chim-van-day-cot-chuong-29) tại đây.
+Đọc [Biên niên ký chim vặn dây cót, chương 29](/article/bien-nien-ky-chim-van-day-cot-chuong-29) tại đây.
 
-Đọc [Biên niên ký chim vặn dây cót, chương 30](https://nhavantuonglai.com/article/bien-nien-ky-chim-van-day-cot-chuong-30) tại đây.
+Đọc [Biên niên ký chim vặn dây cót, chương 30](/article/bien-nien-ky-chim-van-day-cot-chuong-30) tại đây.
 
-Đọc [Biên niên ký chim vặn dây cót, chương 31](https://nhavantuonglai.com/article/bien-nien-ky-chim-van-day-cot-chuong-31) tại đây.
+Đọc [Biên niên ký chim vặn dây cót, chương 31](/article/bien-nien-ky-chim-van-day-cot-chuong-31) tại đây.
 
-Đọc [Biên niên ký chim vặn dây cót, chương 32](https://nhavantuonglai.com/article/bien-nien-ky-chim-van-day-cot-chuong-32) tại đây.
+Đọc [Biên niên ký chim vặn dây cót, chương 32](/article/bien-nien-ky-chim-van-day-cot-chuong-32) tại đây.
 
-Đọc [Biên niên ký chim vặn dây cót, chương 33](https://nhavantuonglai.com/article/bien-nien-ky-chim-van-day-cot-chuong-33) tại đây.
+Đọc [Biên niên ký chim vặn dây cót, chương 33](/article/bien-nien-ky-chim-van-day-cot-chuong-33) tại đây.
 
-Đọc [Biên niên ký chim vặn dây cót, chương 34](https://nhavantuonglai.com/article/bien-nien-ky-chim-van-day-cot-chuong-34) tại đây.
+Đọc [Biên niên ký chim vặn dây cót, chương 34](/article/bien-nien-ky-chim-van-day-cot-chuong-34) tại đây.
 
-Đọc [Biên niên ký chim vặn dây cót, chương 35](https://nhavantuonglai.com/article/bien-nien-ky-chim-van-day-cot-chuong-35) tại đây.
+Đọc [Biên niên ký chim vặn dây cót, chương 35](/article/bien-nien-ky-chim-van-day-cot-chuong-35) tại đây.
 
-Đọc [Biên niên ký chim vặn dây cót, chương 36](https://nhavantuonglai.com/article/bien-nien-ky-chim-van-day-cot-chuong-36) tại đây.
+Đọc [Biên niên ký chim vặn dây cót, chương 36](/article/bien-nien-ky-chim-van-day-cot-chuong-36) tại đây.
 
-Đọc [Biên niên ký chim vặn dây cót, chương 37](https://nhavantuonglai.com/article/bien-nien-ky-chim-van-day-cot-chuong-37) tại đây.
+Đọc [Biên niên ký chim vặn dây cót, chương 37](/article/bien-nien-ky-chim-van-day-cot-chuong-37) tại đây.
 
-Đọc [Biên niên ký chim vặn dây cót, chương 38](https://nhavantuonglai.com/article/bien-nien-ky-chim-van-day-cot-chuong-38) tại đây.
+Đọc [Biên niên ký chim vặn dây cót, chương 38](/article/bien-nien-ky-chim-van-day-cot-chuong-38) tại đây.
 
-Đọc [Biên niên ký chim vặn dây cót, chương 39](https://nhavantuonglai.com/article/bien-nien-ky-chim-van-day-cot-chuong-39) tại đây.
+Đọc [Biên niên ký chim vặn dây cót, chương 39](/article/bien-nien-ky-chim-van-day-cot-chuong-39) tại đây.
 
-Đọc [Biên niên ký chim vặn dây cót, chương 40](https://nhavantuonglai.com/article/bien-nien-ky-chim-van-day-cot-chuong-40) tại đây.
+Đọc [Biên niên ký chim vặn dây cót, chương 40](/article/bien-nien-ky-chim-van-day-cot-chuong-40) tại đây.
 
-Đọc [Biên niên ký chim vặn dây cót, chương 41](https://nhavantuonglai.com/article/bien-nien-ky-chim-van-day-cot-chuong-41) tại đây.
+Đọc [Biên niên ký chim vặn dây cót, chương 41](/article/bien-nien-ky-chim-van-day-cot-chuong-41) tại đây.
 
-Đọc [Biên niên ký chim vặn dây cót, chương 42](https://nhavantuonglai.com/article/bien-nien-ky-chim-van-day-cot-chuong-42) tại đây.
+Đọc [Biên niên ký chim vặn dây cót, chương 42](/article/bien-nien-ky-chim-van-day-cot-chuong-42) tại đây.
 
-Đọc [Biên niên ký chim vặn dây cót, chương 43](https://nhavantuonglai.com/article/bien-nien-ky-chim-van-day-cot-chuong-43) tại đây.
+Đọc [Biên niên ký chim vặn dây cót, chương 43](/article/bien-nien-ky-chim-van-day-cot-chuong-43) tại đây.
 
-Đọc [Biên niên ký chim vặn dây cót, chương 44](https://nhavantuonglai.com/article/bien-nien-ky-chim-van-day-cot-chuong-44) tại đây.
+Đọc [Biên niên ký chim vặn dây cót, chương 44](/article/bien-nien-ky-chim-van-day-cot-chuong-44) tại đây.
 
-Đọc [Biên niên ký chim vặn dây cót, chương 45](https://nhavantuonglai.com/article/bien-nien-ky-chim-van-day-cot-chuong-45) tại đây.
+Đọc [Biên niên ký chim vặn dây cót, chương 45](/article/bien-nien-ky-chim-van-day-cot-chuong-45) tại đây.
 
-Đọc [Biên niên ký chim vặn dây cót, chương 46](https://nhavantuonglai.com/article/bien-nien-ky-chim-van-day-cot-chuong-46) tại đây.
+Đọc [Biên niên ký chim vặn dây cót, chương 46](/article/bien-nien-ky-chim-van-day-cot-chuong-46) tại đây.
 
-Đọc [Biên niên ký chim vặn dây cót, chương 47](https://nhavantuonglai.com/article/bien-nien-ky-chim-van-day-cot-chuong-47) tại đây.
+Đọc [Biên niên ký chim vặn dây cót, chương 47](/article/bien-nien-ky-chim-van-day-cot-chuong-47) tại đây.
 
-Đọc [Biên niên ký chim vặn dây cót, chương 48](https://nhavantuonglai.com/article/bien-nien-ky-chim-van-day-cot-chuong-48) tại đây.
+Đọc [Biên niên ký chim vặn dây cót, chương 48](/article/bien-nien-ky-chim-van-day-cot-chuong-48) tại đây.
 
-Đọc [Biên niên ký chim vặn dây cót, chương 49](https://nhavantuonglai.com/article/bien-nien-ky-chim-van-day-cot-chuong-49) tại đây.
+Đọc [Biên niên ký chim vặn dây cót, chương 49](/article/bien-nien-ky-chim-van-day-cot-chuong-49) tại đây.
 
-Đọc [Biên niên ký chim vặn dây cót, chương 50](https://nhavantuonglai.com/article/bien-nien-ky-chim-van-day-cot-chuong-50) tại đây.
+Đọc [Biên niên ký chim vặn dây cót, chương 50](/article/bien-nien-ky-chim-van-day-cot-chuong-50) tại đây.
 
-Đọc [Biên niên ký chim vặn dây cót, chương 51](https://nhavantuonglai.com/article/bien-nien-ky-chim-van-day-cot-chuong-51) tại đây.
+Đọc [Biên niên ký chim vặn dây cót, chương 51](/article/bien-nien-ky-chim-van-day-cot-chuong-51) tại đây.
 
-Đọc [Biên niên ký chim vặn dây cót, chương 52](https://nhavantuonglai.com/article/bien-nien-ky-chim-van-day-cot-chuong-52) tại đây.
+Đọc [Biên niên ký chim vặn dây cót, chương 52](/article/bien-nien-ky-chim-van-day-cot-chuong-52) tại đây.
 
-Đọc [Biên niên ký chim vặn dây cót, chương 53](https://nhavantuonglai.com/article/bien-nien-ky-chim-van-day-cot-chuong-53) tại đây.
+Đọc [Biên niên ký chim vặn dây cót, chương 53](/article/bien-nien-ky-chim-van-day-cot-chuong-53) tại đây.
 
-Đọc [Biên niên ký chim vặn dây cót, chương 54](https://nhavantuonglai.com/article/bien-nien-ky-chim-van-day-cot-chuong-54) tại đây.
+Đọc [Biên niên ký chim vặn dây cót, chương 54](/article/bien-nien-ky-chim-van-day-cot-chuong-54) tại đây.
 
-Đọc [Biên niên ký chim vặn dây cót, chương 55](https://nhavantuonglai.com/article/bien-nien-ky-chim-van-day-cot-chuong-55) tại đây.
+Đọc [Biên niên ký chim vặn dây cót, chương 55](/article/bien-nien-ky-chim-van-day-cot-chuong-55) tại đây.
 
-Đọc [Biên niên ký chim vặn dây cót, chương 56](https://nhavantuonglai.com/article/bien-nien-ky-chim-van-day-cot-chuong-56) tại đây.
+Đọc [Biên niên ký chim vặn dây cót, chương 56](/article/bien-nien-ky-chim-van-day-cot-chuong-56) tại đây.
 
-Đọc [Biên niên ký chim vặn dây cót, chương 57](https://nhavantuonglai.com/article/bien-nien-ky-chim-van-day-cot-chuong-57) tại đây.
+Đọc [Biên niên ký chim vặn dây cót, chương 57](/article/bien-nien-ky-chim-van-day-cot-chuong-57) tại đây.
 
-Đọc [Biên niên ký chim vặn dây cót, chương 58](https://nhavantuonglai.com/article/bien-nien-ky-chim-van-day-cot-chuong-58) tại đây.
+Đọc [Biên niên ký chim vặn dây cót, chương 58](/article/bien-nien-ky-chim-van-day-cot-chuong-58) tại đây.
 
-Đọc [Biên niên ký chim vặn dây cót, chương 59](https://nhavantuonglai.com/article/bien-nien-ky-chim-van-day-cot-chuong-59) tại đây.
+Đọc [Biên niên ký chim vặn dây cót, chương 59](/article/bien-nien-ky-chim-van-day-cot-chuong-59) tại đây.
 
-Đọc [Biên niên ký chim vặn dây cót, chương 60](https://nhavantuonglai.com/article/bien-nien-ky-chim-van-day-cot-chuong-60) tại đây.
+Đọc [Biên niên ký chim vặn dây cót, chương 60](/article/bien-nien-ky-chim-van-day-cot-chuong-60) tại đây.
 
-Đọc [Biên niên ký chim vặn dây cót, chương 61](https://nhavantuonglai.com/article/bien-nien-ky-chim-van-day-cot-chuong-61) tại đây.
+Đọc [Biên niên ký chim vặn dây cót, chương 61](/article/bien-nien-ky-chim-van-day-cot-chuong-61) tại đây.
 
-Đọc [Biên niên ký chim vặn dây cót, chương 62](https://nhavantuonglai.com/article/bien-nien-ky-chim-van-day-cot-chuong-62) tại đây.
+Đọc [Biên niên ký chim vặn dây cót, chương 62](/article/bien-nien-ky-chim-van-day-cot-chuong-62) tại đây.
 
-Đọc [Biên niên ký chim vặn dây cót, chương 63](https://nhavantuonglai.com/article/bien-nien-ky-chim-van-day-cot-chuong-63) tại đây.
+Đọc [Biên niên ký chim vặn dây cót, chương 63](/article/bien-nien-ky-chim-van-day-cot-chuong-63) tại đây.
 
-Đọc [Biên niên ký chim vặn dây cót, chương 64](https://nhavantuonglai.com/article/bien-nien-ky-chim-van-day-cot-chuong-64) tại đây.
+Đọc [Biên niên ký chim vặn dây cót, chương 64](/article/bien-nien-ky-chim-van-day-cot-chuong-64) tại đây.
 
-Đọc [Biên niên ký chim vặn dây cót, chương 65](https://nhavantuonglai.com/article/bien-nien-ky-chim-van-day-cot-chuong-65) tại đây.
+Đọc [Biên niên ký chim vặn dây cót, chương 65](/article/bien-nien-ky-chim-van-day-cot-chuong-65) tại đây.
 
-Đọc [Biên niên ký chim vặn dây cót, chương 66](https://nhavantuonglai.com/article/bien-nien-ky-chim-van-day-cot-chuong-66) tại đây.
+Đọc [Biên niên ký chim vặn dây cót, chương 66](/article/bien-nien-ky-chim-van-day-cot-chuong-66) tại đây.
 
 Đọc [Biên niên ký chim vặn dây cót, toàn tập](https://banmaixanh.vercel.app/ebook/bien-nien-ky-chim-van-day-cot.pdf) tại đây.
 

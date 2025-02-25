@@ -18,7 +18,7 @@ _Viết SEO (Search Engine Optimization) là một kỹ năng quan trọng trong
 
 ## Cấu trúc của khóa học viết SEO
 
-[Khóa học viết SEO](https://nhavantuonglai.com/article) thường được thiết kế để phù hợp với nhiều cấp độ, từ người mới bắt đầu đến những người đã có kinh nghiệm. Mỗi khóa học thường kéo dài từ vài tuần đến vài tháng, với các buổi học lý thuyết và thực hành đan xen nhau.
+[Khóa học viết SEO](/article) thường được thiết kế để phù hợp với nhiều cấp độ, từ người mới bắt đầu đến những người đã có kinh nghiệm. Mỗi khóa học thường kéo dài từ vài tuần đến vài tháng, với các buổi học lý thuyết và thực hành đan xen nhau.
 
 – Khóa cơ bản: Dành cho những người mới bắt đầu, khóa học này tập trung vào việc giới thiệu các khái niệm cơ bản về SEO, cách thức hoạt động của công cụ tìm kiếm, và các yếu tố cơ bản của một bài viết chuẩn SEO.
 
@@ -36,7 +36,7 @@ Nội dung giảng dạy trong khóa học viết SEO rất phong phú và đa d
 
 – Nghiên cứu từ khóa: Đây là một phần quan trọng trong viết SEO. Học viên sẽ học cách tìm kiếm và chọn lọc từ khóa phù hợp để tối ưu nội dung, sử dụng các công cụ nghiên cứu từ khóa và phân tích dữ liệu để xác định cơ hội từ khóa.
 
-– [Viết nội dung chuẩn SEO](https://nhavantuonglai.com/article): Học viên sẽ được hướng dẫn cách viết nội dung chất lượng cao, hấp dẫn người đọc và tối ưu cho công cụ tìm kiếm. Điều này bao gồm việc sử dụng từ khóa một cách tự nhiên, viết tiêu đề hấp dẫn, và tạo nội dung có giá trị cho người dùng.
+– [Viết nội dung chuẩn SEO](/article): Học viên sẽ được hướng dẫn cách viết nội dung chất lượng cao, hấp dẫn người đọc và tối ưu cho công cụ tìm kiếm. Điều này bao gồm việc sử dụng từ khóa một cách tự nhiên, viết tiêu đề hấp dẫn, và tạo nội dung có giá trị cho người dùng.
 
 – Tối ưu on-page: Đây là các kỹ thuật tối ưu trực tiếp trên website, bao gồm việc tối ưu tiêu đề, meta description, URL, hình ảnh và cấu trúc nội dung. Học viên sẽ học cách làm thế nào để website của mình trở nên thân thiện hơn với công cụ tìm kiếm.
 
@@ -64,13 +64,13 @@ Phương pháp học tập trong khóa học viết SEO thường rất đa dạ
 
 Khóa học viết SEO mang lại nhiều lợi ích thiết thực cho học viên, không chỉ trong việc viết lách mà còn trong các khía cạnh khác của cuộc sống và công việc.
 
-– Phát triển [kỹ năng viết lách](https://nhavantuonglai.com/article): Đây là lợi ích rõ ràng nhất. Học viên sẽ nắm vững các kỹ thuật viết SEO, từ đó viết ra những bài viết mạch lạc, hấp dẫn và có tính thương mại cao.
+– Phát triển [kỹ năng viết lách](/article): Đây là lợi ích rõ ràng nhất. Học viên sẽ nắm vững các kỹ thuật viết SEO, từ đó viết ra những bài viết mạch lạc, hấp dẫn và có tính thương mại cao.
 
-– Cải thiện [tư duy sáng tạo](https://nhavantuonglai.com/article): Viết SEO đòi hỏi sự sáng tạo và khả năng tư duy logic. Thông qua quá trình học tập và thực hành, học viên sẽ phát triển được những kỹ năng này.
+– Cải thiện [tư duy sáng tạo](/article): Viết SEO đòi hỏi sự sáng tạo và khả năng tư duy logic. Thông qua quá trình học tập và thực hành, học viên sẽ phát triển được những kỹ năng này.
 
 – Nâng cao khả năng giao tiếp: Kỹ năng viết tốt giúp học viên diễn đạt ý tưởng một cách rõ ràng và thuyết phục hơn, không chỉ trong văn bản mà còn trong giao tiếp hàng ngày.
 
-– Mở rộng [cơ hội việc làm viết lách](https://nhavantuonglai.com/article): Kỹ năng viết SEO là một lợi thế lớn trong nhiều lĩnh vực nghề nghiệp, từ marketing, quảng cáo, truyền thông đến phát triển nội dung số. Học viên có thể áp dụng kỹ năng này vào công việc hiện tại hoặc tìm kiếm những cơ hội nghề nghiệp mới.
+– Mở rộng [cơ hội việc làm viết lách](/article): Kỹ năng viết SEO là một lợi thế lớn trong nhiều lĩnh vực nghề nghiệp, từ marketing, quảng cáo, truyền thông đến phát triển nội dung số. Học viên có thể áp dụng kỹ năng này vào công việc hiện tại hoặc tìm kiếm những cơ hội nghề nghiệp mới.
 
 – Giảm căng thẳng và tăng cường sáng tạo: Viết SEO là một hình thức thể hiện bản thân, giúp giải tỏa căng thẳng và kích thích sự sáng tạo. Nó cũng là một cách để học viên khám phá và hiểu rõ hơn về bản thân.
 

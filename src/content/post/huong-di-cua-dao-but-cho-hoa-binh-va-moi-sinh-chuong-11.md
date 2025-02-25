@@ -285,27 +285,27 @@ Ngày:_
 
 Thư đến: Deer Park Monastery, 2499 Melru Lane, Escondido, CA 92026.
 
-Đọc [Hướng đi của đạo Bụt cho hòa bình và môi sinh, chương 01](https://nhavantuonglai.com/article/huong-di-cua-dao-but-cho-hoa-binh-va-moi-sinh-chuong-01) tại đây.
+Đọc [Hướng đi của đạo Bụt cho hòa bình và môi sinh, chương 01](/article/huong-di-cua-dao-but-cho-hoa-binh-va-moi-sinh-chuong-01) tại đây.
 
-Đọc [Hướng đi của đạo Bụt cho hòa bình và môi sinh, chương 02](https://nhavantuonglai.com/article/huong-di-cua-dao-but-cho-hoa-binh-va-moi-sinh-chuong-02) tại đây.
+Đọc [Hướng đi của đạo Bụt cho hòa bình và môi sinh, chương 02](/article/huong-di-cua-dao-but-cho-hoa-binh-va-moi-sinh-chuong-02) tại đây.
 
-Đọc [Hướng đi của đạo Bụt cho hòa bình và môi sinh, chương 03](https://nhavantuonglai.com/article/huong-di-cua-dao-but-cho-hoa-binh-va-moi-sinh-chuong-03) tại đây.
+Đọc [Hướng đi của đạo Bụt cho hòa bình và môi sinh, chương 03](/article/huong-di-cua-dao-but-cho-hoa-binh-va-moi-sinh-chuong-03) tại đây.
 
-Đọc [Hướng đi của đạo Bụt cho hòa bình và môi sinh, chương 04](https://nhavantuonglai.com/article/huong-di-cua-dao-but-cho-hoa-binh-va-moi-sinh-chuong-04) tại đây.
+Đọc [Hướng đi của đạo Bụt cho hòa bình và môi sinh, chương 04](/article/huong-di-cua-dao-but-cho-hoa-binh-va-moi-sinh-chuong-04) tại đây.
 
-Đọc [Hướng đi của đạo Bụt cho hòa bình và môi sinh, chương 05](https://nhavantuonglai.com/article/huong-di-cua-dao-but-cho-hoa-binh-va-moi-sinh-chuong-05) tại đây.
+Đọc [Hướng đi của đạo Bụt cho hòa bình và môi sinh, chương 05](/article/huong-di-cua-dao-but-cho-hoa-binh-va-moi-sinh-chuong-05) tại đây.
 
-Đọc [Hướng đi của đạo Bụt cho hòa bình và môi sinh, chương 06](https://nhavantuonglai.com/article/huong-di-cua-dao-but-cho-hoa-binh-va-moi-sinh-chuong-06) tại đây.
+Đọc [Hướng đi của đạo Bụt cho hòa bình và môi sinh, chương 06](/article/huong-di-cua-dao-but-cho-hoa-binh-va-moi-sinh-chuong-06) tại đây.
 
-Đọc [Hướng đi của đạo Bụt cho hòa bình và môi sinh, chương 07](https://nhavantuonglai.com/article/huong-di-cua-dao-but-cho-hoa-binh-va-moi-sinh-chuong-07) tại đây.
+Đọc [Hướng đi của đạo Bụt cho hòa bình và môi sinh, chương 07](/article/huong-di-cua-dao-but-cho-hoa-binh-va-moi-sinh-chuong-07) tại đây.
 
-Đọc [Hướng đi của đạo Bụt cho hòa bình và môi sinh, chương 08](https://nhavantuonglai.com/article/huong-di-cua-dao-but-cho-hoa-binh-va-moi-sinh-chuong-08) tại đây.
+Đọc [Hướng đi của đạo Bụt cho hòa bình và môi sinh, chương 08](/article/huong-di-cua-dao-but-cho-hoa-binh-va-moi-sinh-chuong-08) tại đây.
 
-Đọc [Hướng đi của đạo Bụt cho hòa bình và môi sinh, chương 09](https://nhavantuonglai.com/article/huong-di-cua-dao-but-cho-hoa-binh-va-moi-sinh-chuong-09) tại đây.
+Đọc [Hướng đi của đạo Bụt cho hòa bình và môi sinh, chương 09](/article/huong-di-cua-dao-but-cho-hoa-binh-va-moi-sinh-chuong-09) tại đây.
 
-Đọc [Hướng đi của đạo Bụt cho hòa bình và môi sinh, chương 10](https://nhavantuonglai.com/article/huong-di-cua-dao-but-cho-hoa-binh-va-moi-sinh-chuong-10) tại đây.
+Đọc [Hướng đi của đạo Bụt cho hòa bình và môi sinh, chương 10](/article/huong-di-cua-dao-but-cho-hoa-binh-va-moi-sinh-chuong-10) tại đây.
 
-Đọc [Hướng đi của đạo Bụt cho hòa bình và môi sinh, chương 11](https://nhavantuonglai.com/article/huong-di-cua-dao-but-cho-hoa-binh-va-moi-sinh-chuong-11) tại đây.
+Đọc [Hướng đi của đạo Bụt cho hòa bình và môi sinh, chương 11](/article/huong-di-cua-dao-but-cho-hoa-binh-va-moi-sinh-chuong-11) tại đây.
 
 Đọc [Hướng đi của đạo Bụt cho hòa bình và môi sinh, toàn tập](https://banmaixanh.vercel.app/ebook/huong-di-cua-dao-but-cho-hoa-binh-va-moi-sinh.pdf) tại đây.
 

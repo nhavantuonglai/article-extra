@@ -23,7 +23,7 @@ Thu hút đặt phòng là mục tiêu cơ bản khi xây dựng website, vì v�
 
 Đầu tiên, nút _Book now_ phải nổi bật, dễ tìm thấy và luôn hiển thị ở mọi trang con trong website. Điều này giúp khi khách đặt phòng có nhu cầu, họ sẽ luôn biết phải click vào đâu để đặt phòng nhanh chóng.
 
-Tiếp theo, đảm bảo rằng link dẫn phải đến đúng trang [đặt phòng trực tiếp](https://nhavantuonglai.com/article). Nếu bạn đã sử dụng Booking Engine, hãy tránh dẫn link đến các trang bán phòng trực tuyến khác, bởi như vậy vừa không khai thác được hiệu quả mà Booking Engine, lại vừa tốn thêm chi phí hoa hồng cho các kênh OTA.
+Tiếp theo, đảm bảo rằng link dẫn phải đến đúng trang [đặt phòng trực tiếp](/article). Nếu bạn đã sử dụng Booking Engine, hãy tránh dẫn link đến các trang bán phòng trực tuyến khác, bởi như vậy vừa không khai thác được hiệu quả mà Booking Engine, lại vừa tốn thêm chi phí hoa hồng cho các kênh OTA.
 
 Và cũng đừng quên những ưu đãi cho khách đặt phòng. Không nhất thiết lúc nào cũng phải giảm giá, nhưng hãy luôn tìm lý do phù hợp cho các mã ưu đãi, và khiến họ (khách đặt phòng) cảm thấy nếu không đặt ngay bây giờ thì sẽ không bao giờ có một giá phòng tốt như thế.
 
@@ -53,12 +53,12 @@ Thông tin liên lạc bao gồm số điện thoại, địa chỉ email và đ
 
 ## Đừng quên những mô tả ngắn
 
-Mô tả ngắn (small print, hay fine print) là những đoạn chú thích về một nội dung trong văn bản. Trên website, đặc biệt là [website khách sạn](https://nhavantuonglai.com/article), mô tả ngắn có tác dụng làm rõ hơn về các chính sách, ưu đãi hay thông tin phòng. Các thông tin này cần để luôn đảm bảo rằng khách đặt phòng hiểu đúng về chính sách, quyền lợi mà họ nhận được khi đặt phòng, vì vậy hãy liệt kê và thể hiện chúng ngay dưới mỗi bài viết, đề mục nội dung của website.
+Mô tả ngắn (small print, hay fine print) là những đoạn chú thích về một nội dung trong văn bản. Trên website, đặc biệt là [website khách sạn](/article), mô tả ngắn có tác dụng làm rõ hơn về các chính sách, ưu đãi hay thông tin phòng. Các thông tin này cần để luôn đảm bảo rằng khách đặt phòng hiểu đúng về chính sách, quyền lợi mà họ nhận được khi đặt phòng, vì vậy hãy liệt kê và thể hiện chúng ngay dưới mỗi bài viết, đề mục nội dung của website.
 
 Đối với các điều khoản & điều kiện, hãy cung cấp chi tiết về những vấn đề như thời gian nhận phòng và trả phòng, quy tắc của chỗ nghỉ và các khoản đặt cọc áp dụng.
 
 Khi nói đến việc hủy phòng, khách cần biết nơi cư trú của bạn cần thông báo trước những gì và liệu có bất kỳ khoản phí nào liên quan đến việc hủy phòng hay không.
 
-Điều quan trọng là đảm bảo rằng website của bạn đang thúc đẩy hoạt động kinh doanh và bạn đang làm mọi thứ có thể để [tối ưu website cho việc chuyển đổi](https://nhavantuonglai.com/article). Chúng tôi khuyên bạn nên lập một danh sách các nội dung cần kiểm tra thường xuyên trên website của mình và kiểm tra thường xuyên mỗi quý một lần, để bạn không bao giờ bị bỏ mặc với những thông tin lỗi thời tồn đọng quá lâu.
+Điều quan trọng là đảm bảo rằng website của bạn đang thúc đẩy hoạt động kinh doanh và bạn đang làm mọi thứ có thể để [tối ưu website cho việc chuyển đổi](/article). Chúng tôi khuyên bạn nên lập một danh sách các nội dung cần kiểm tra thường xuyên trên website của mình và kiểm tra thường xuyên mỗi quý một lần, để bạn không bao giờ bị bỏ mặc với những thông tin lỗi thời tồn đọng quá lâu.
 
 <figure><img src="https://banmaixanh.vercel.app/image/cover/001-514.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>

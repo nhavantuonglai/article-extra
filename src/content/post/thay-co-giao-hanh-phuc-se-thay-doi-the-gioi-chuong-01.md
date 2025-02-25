@@ -289,7 +289,7 @@ Tôi làm việc với những em mười hai tuổi có vấn đề về tâm t
 
 Trước hết, tôi phát minh ra một phương cách vừa làm vừa chơi. Tôi đưa ra một cái lông chim hay một tờ giấy. Tôi đặt một trong hai thứ này vào tay của một em, rồi mời em thổi nhẹ tờ giấy (hay chiếc lông chim), chỉ đủ nhẹ để cho tờ giấy (hay chiếc lông chim) nâng lên hoặc rung động, sau đó mời em từ từ thổi mạnh hơn để thấy tờ giấy (hay chiếc lông chim) bay đi. Em đó tuy không chú ý nhiều về hơi thở như chú ý về tờ giấy (hoặc chiếc lông chim), nhưng thực ra em cũng đang thực tập hơi thở.
 
-Đọc [Thầy cô giáo hạnh phúc sẽ thay đổi thế giới, chương 05](https://nhavantuonglai.com/article/thay-co-giao-hanh-phuc-se-thay-doi-the-gioi-chuong-01) tại đây.
+Đọc [Thầy cô giáo hạnh phúc sẽ thay đổi thế giới, chương 05](/article/thay-co-giao-hanh-phuc-se-thay-doi-the-gioi-chuong-01) tại đây.
 
 Đọc [Thầy cô giáo hạnh phúc sẽ thay đổi thế giới, toàn tập](https://banmaixanh.vercel.app/ebook/thay-co-giao-hanh-phuc-se-thay-doi-the-gioi.pdf) tại đây.
 

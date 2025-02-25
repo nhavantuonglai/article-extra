@@ -18,9 +18,9 @@ _Đọc vị thực khách đồng nghĩa là bạn hiểu thực khách đang m
 
 Customers Insight (thấu hiểu thực khách) là khái niệm trọng tâm trong việc quản lý khách hàng của mọi lĩnh vực kinh doanh, nhà hàng cũng không nằm ngoài ngoại lệ ấy. Customers Insight giúp người quản lý hiểu rõ hơn về hành vi, xu hướng, nhu cầu… của thực khách để xây dựng các chiến lược cho phù hợp, nhằm tạo sự chú ý và phục vụ họ được tốt hơn.
 
-Read Customers (đọc vị thực khách) cũng cùng mục đích như trên, nhưng cách tiếp cận lại khác. Customers Insight diễn ra trước khi thực khách đặt chân vào nhà hàng của bạn, với các chiến lược, chiến dịch nhằm [thu hút họ đến nhà hàng của bạn](https://nhavantuonglai.com/article). Read Customers lại diễn ra khi thực khách đặt chân vào quán, nhằm xác định tệp khách hàng, và dự đoán nhu cầu, hành vi… nhằm đáp ứng cho phù hợp.
+Read Customers (đọc vị thực khách) cũng cùng mục đích như trên, nhưng cách tiếp cận lại khác. Customers Insight diễn ra trước khi thực khách đặt chân vào nhà hàng của bạn, với các chiến lược, chiến dịch nhằm [thu hút họ đến nhà hàng của bạn](/article). Read Customers lại diễn ra khi thực khách đặt chân vào quán, nhằm xác định tệp khách hàng, và dự đoán nhu cầu, hành vi… nhằm đáp ứng cho phù hợp.
 
-Đọc vị thực khách trở nên quan trọng khi không phải vị khách nào cũng là khách hàng trong tệp của nhà hàng, không phải đối tượng thu hút bởi các chiến dịch trước đó của nhà hàng. Nói cách khác, đọc vị thực khách là cách ứng biến, đáp ứng nhu cầu của muôn vàn thể loại thực khách khi họ ghé thăm nhà hàng của bạn, để [trải nghiệm thực khách](https://nhavantuonglai.com/article) nhận luôn là tốt nhất và tích cực nhất có thể.
+Đọc vị thực khách trở nên quan trọng khi không phải vị khách nào cũng là khách hàng trong tệp của nhà hàng, không phải đối tượng thu hút bởi các chiến dịch trước đó của nhà hàng. Nói cách khác, đọc vị thực khách là cách ứng biến, đáp ứng nhu cầu của muôn vàn thể loại thực khách khi họ ghé thăm nhà hàng của bạn, để [trải nghiệm thực khách](/article) nhận luôn là tốt nhất và tích cực nhất có thể.
 
 Dù rằng, trong nhà hàng có rất nhiều khía cạnh quan trọng, từ chất lượng ẩm thực, tính chuyên nghiệp của nhân viên hay bài trí không gian… nhưng tất cả sẽ vô nghĩa nếu nhà hàng không có thực khách. Do vậy, hiểu và đọc vị thực khách là vấn đề quan trọng nhất mà nhà hàng cần quan tâm.
 
@@ -34,7 +34,7 @@ Tiếp theo, hãy nói về các cách để đọc vị thực khách để lin
 
 – Họ đến từ đâu, khách du lịch hay người địa phương? Khách du lịch hoặc thích vị quen thuộc hoặc vị đặc trưng của quán; còn khách địa phương chỉ thích vị đặc trưng của quán mà thôi.
 
-– Họ có đặt chỗ trước, hay tìm thông tin trên Google mà ghé đến? Nếu [đặt chỗ trước](https://nhavantuonglai.com/article), tức họ sành ẩm thực và biết chọn quán cho phù hợp. Còn nếu tìm thông tin thì họ không còn lựa chọn nào khả dĩ hơn.
+– Họ có đặt chỗ trước, hay tìm thông tin trên Google mà ghé đến? Nếu [đặt chỗ trước](/article), tức họ sành ẩm thực và biết chọn quán cho phù hợp. Còn nếu tìm thông tin thì họ không còn lựa chọn nào khả dĩ hơn.
 
 – Họ bận rộn cho công việc hay chuyến đi trong hôm nay? Nếu cho công việc, hãy gợi ý họ các món mát lành ngọt dịu; nếu là đi chơi, hãy gợi ý các món nhiều năng lượng, hoặc giúp họ ăn no.
 
@@ -74,7 +74,7 @@ Với từng thực khách, họ sẽ có từng mong đợi và nhu cầu khác
 
 ### Xác định phong cách
 
-Thực khách đang bước vào nhà hàng của bạn, họ là ai trong 4 nhóm phong cách ở trên? Bạn có thể xác định dựa vào cách họ tương tác, phản ứng với mọi thứ trong nhà hàng. Từ chọn vị trí, chỗ ngồi cho đến gọi món và phản hồi với các gợi ý, kiên nhẫn đến mức nào khi đợi món, hay chẳng may [phục vụ nhầm món](https://nhavantuonglai.com/article)… Thông tin thu thập được là sự sàng lọc cơ bản, để bạn biết nên tiếp cận và phản ứng như thế nào cho phù hợp.
+Thực khách đang bước vào nhà hàng của bạn, họ là ai trong 4 nhóm phong cách ở trên? Bạn có thể xác định dựa vào cách họ tương tác, phản ứng với mọi thứ trong nhà hàng. Từ chọn vị trí, chỗ ngồi cho đến gọi món và phản hồi với các gợi ý, kiên nhẫn đến mức nào khi đợi món, hay chẳng may [phục vụ nhầm món](/article)… Thông tin thu thập được là sự sàng lọc cơ bản, để bạn biết nên tiếp cận và phản ứng như thế nào cho phù hợp.
 
 ### Lựa chọn cách tiếp cận
 

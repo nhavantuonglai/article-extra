@@ -33,7 +33,7 @@ Google My Business là một danh thiếp trực tuyến, nơi tóm tắt và tr
 
 – Giá phòng, dịch vụ và các điều chỉnh về chính sách.
 
-– Liên kết với [các kênh bán phòng trực tuyến](https://nhavantuonglai.com/article) đang có, tự động hiển thị giá theo thời gian thực.
+– Liên kết với [các kênh bán phòng trực tuyến](/article) đang có, tự động hiển thị giá theo thời gian thực.
 
 – Nút điều hướng dẫn đến trang đích như liên kết đặt phòng, website khách sạn, hay kênh bán phòng…
 
@@ -41,15 +41,15 @@ Google My Business miễn phí đăng ký và quản lý, vận hành. Sau khi x
 
 Vì hiển thị theo từ khóa mà người dùng truy vấn, thì cũng đồng nghĩa rằng: chúng tác động tích cực đến việc tối ưu kết quả tìm kiếm (SEO) cho khách sạn, giúp khách hàng tiềm năng dễ dàng nhìn thấy và tương tác với khách sạn của bạn hơn.
 
-Nếu [Free Booking Link](https://nhavantuonglai.com/article) và [Google Hotel Ads](https://nhavantuonglai.com/article) cung cấp thông tin phòng, thì Google My Business lại giúp người dùng hình dung tổng quát, và có thêm thông tin về khách sạn. Theo một nghiên cứu, Google My Business giúp khách sạn tăng thêm 50% lưu lượng truy cập vào trang đích. Tóm lại, giúp khách sạn tăng cơ hội bán phòng trực tiếp.
+Nếu [Free Booking Link](/article) và [Google Hotel Ads](/article) cung cấp thông tin phòng, thì Google My Business lại giúp người dùng hình dung tổng quát, và có thêm thông tin về khách sạn. Theo một nghiên cứu, Google My Business giúp khách sạn tăng thêm 50% lưu lượng truy cập vào trang đích. Tóm lại, giúp khách sạn tăng cơ hội bán phòng trực tiếp.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-116.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ### Google My Business hữu ích như thế nào với các khách sạn?
 
-Lợi ích rõ thấy nhất của Google My Business là tăng lưu lượng truy cập vào nút hành động, như cuộc gọi, [website chính thức](https://nhavantuonglai.com/article), kênh bán phòng… Với một lượng truy cập lớn hơn, sẽ có nhiều lượt đặt phòng trực tiếp đổ về cho khách sạn.
+Lợi ích rõ thấy nhất của Google My Business là tăng lưu lượng truy cập vào nút hành động, như cuộc gọi, [website chính thức](/article), kênh bán phòng… Với một lượng truy cập lớn hơn, sẽ có nhiều lượt đặt phòng trực tiếp đổ về cho khách sạn.
 
-Lợi ích thứ hai là định vị, tạo ra kênh thông tin chính thức trong quá trình người dùng tìm kiếm trên mạng. Song song với Google My Business, ta còn có thêm Places on Maps (Apple), Bing Places for Business (Microsoft)… cũng đều cách hoạt động tương tự, khi hiển thị các giải pháp trên công cụ tìm kiếm, bản đồ trực tuyến của các nền tảng. Chúng sẽ giúp khách sạn [cải thiện và tăng nhận diện thương hiệu](https://nhavantuonglai.com/article), còn khách hàng biết đâu là kênh chính thức để tra cứu và liên lạc khi cần.
+Lợi ích thứ hai là định vị, tạo ra kênh thông tin chính thức trong quá trình người dùng tìm kiếm trên mạng. Song song với Google My Business, ta còn có thêm Places on Maps (Apple), Bing Places for Business (Microsoft)… cũng đều cách hoạt động tương tự, khi hiển thị các giải pháp trên công cụ tìm kiếm, bản đồ trực tuyến của các nền tảng. Chúng sẽ giúp khách sạn [cải thiện và tăng nhận diện thương hiệu](/article), còn khách hàng biết đâu là kênh chính thức để tra cứu và liên lạc khi cần.
 
 Lợi ích thứ ba là tạo kết nối và tương tác với khách hàng, khi giúp họ đánh giá trải nghiệm, cập nhật hình ảnh và đặt câu hỏi về khách sạn. Với một nội dung phong phú và đa chiều hơn, khách sạn cũng sẽ trở nên đáng tin cậy trong mắt mọi người.
 
@@ -151,7 +151,7 @@ Cho nên, nếu bạn đang nhờ bên thứ ba can thiệp để lấy lại qu
 
 Cập nhật thông tin không chỉ đơn giản là hình ảnh và giá phòng, mà chúng còn là giờ mở cửa, dịch vụ hay các chính sách mới.
 
-Nếu có một sự thay đổi đáng kể, hãy ngay lập tức cập nhật, chúng không mất quá nhiều thời gian, nhưng sẽ giúp mọi thông tin về khách sạn được nhất quán, tránh rủi ro hay các phản ứng không tích cực từ khách hàng, vì [chênh lệch giá phòng](https://nhavantuonglai.com/article) giữa Google My Business và thực tế.
+Nếu có một sự thay đổi đáng kể, hãy ngay lập tức cập nhật, chúng không mất quá nhiều thời gian, nhưng sẽ giúp mọi thông tin về khách sạn được nhất quán, tránh rủi ro hay các phản ứng không tích cực từ khách hàng, vì [chênh lệch giá phòng](/article) giữa Google My Business và thực tế.
 
 Việc cập nhật thông tin cũng giúp tăng khả năng hiển thị Google My Business, và cho khách hàng thấy rằng khách sạn đang hoạt động tích cực. Việc thường xuyên cập nhật cũng bao gồm: phản hồi các đánh giá, trả lời câu hỏi, tải lên các hình ảnh mới nhất…
 
@@ -161,13 +161,13 @@ Và cũng đừng quên tính năng Nhắn tin trên Google My Business, nhiều
 
 ### Thêm hình ảnh, video
 
-Đôi khi, [khách hàng không bị hấp dẫn về giá phòng khách sạn](https://nhavantuonglai.com/article), mà lại bị hấp dẫn bởi những tấm hình minh hoạt chất lượng, bởi chúng cho thấy giá trị thật sự của căn phòng, cũng như tính chân thật trong lời giới thiệu của khách sạn. Đó là một trong những lý do mà hình ảnh là điều cần thiết và nên có với mỗi hồ sơ khách sạn, bên cạnh việc thu hút nhiều lượt xem và nhấp chuột hơn, từ đó làm tăng lượt đặt phòng cho khách sạn hơn.
+Đôi khi, [khách hàng không bị hấp dẫn về giá phòng khách sạn](/article), mà lại bị hấp dẫn bởi những tấm hình minh hoạt chất lượng, bởi chúng cho thấy giá trị thật sự của căn phòng, cũng như tính chân thật trong lời giới thiệu của khách sạn. Đó là một trong những lý do mà hình ảnh là điều cần thiết và nên có với mỗi hồ sơ khách sạn, bên cạnh việc thu hút nhiều lượt xem và nhấp chuột hơn, từ đó làm tăng lượt đặt phòng cho khách sạn hơn.
 
 Ngoài nguồn ảnh chính chủ do khách sạn đăng tải, khách hàng cũng đều có thể đăng hình họ đã chụp về khách sạn. Chúng sẽ làm tăng thêm tính phong phú cho nội dung, và cũng đặt ra thách thức là không thể kiểm soát chất lượng, và tính chính xác. Nhưng dù thế, cũng đừng ngần ngại khuyến khích mọi người cập nhật hình ảnh mà họ chụp về khách sạn lên Google My Business, chúng sẽ khiến mọi thứ trở nên khách quan và chân thực hơn. Và người dùng ngày nay cần điều ấy rất nhiều.
 
 ### Cập nhật biện pháp phòng dịch
 
-Khi Covid vẫn chưa được kiểm soát một cách triệt để, và trong tương lai vẫn có thể sẽ có nhiều loại dịch bệnh nguy hiểm khác, thì việc [cập nhật các biện pháp, chính sách phòng dịch](https://nhavantuonglai.com/article) là điều cần thiết và chưa bao giờ lỗi thời. Việc cập nhật biện pháp, chính sách phòng dịch đem lại lợi ích ở cả 2 phía, khách sạn và khách hàng. Khi khách sạn sẽ trở nên an toàn và chuyên nghiệp, còn khách hàng biết được những quy định để lựa chọn và ứng xử cho phù hợp.
+Khi Covid vẫn chưa được kiểm soát một cách triệt để, và trong tương lai vẫn có thể sẽ có nhiều loại dịch bệnh nguy hiểm khác, thì việc [cập nhật các biện pháp, chính sách phòng dịch](/article) là điều cần thiết và chưa bao giờ lỗi thời. Việc cập nhật biện pháp, chính sách phòng dịch đem lại lợi ích ở cả 2 phía, khách sạn và khách hàng. Khi khách sạn sẽ trở nên an toàn và chuyên nghiệp, còn khách hàng biết được những quy định để lựa chọn và ứng xử cho phù hợp.
 
 Hãy trả lời các câu hỏi liên quan đến biện pháp phòng dịch, như là:
 

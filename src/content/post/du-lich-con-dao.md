@@ -9,7 +9,7 @@ tags:
   - du lich mien nam
 ---
 
-_Côn đảo là một quần đảo ngoài khơi Bà Rịa – Vũng Tàu. Quần đảo rộng 76 km2 này bao gồm 16 hòn đảo, lớn nhất là đảo Côn Sơn. Côn Đảo cách Vũng Tàu 185 km, cách Thành phố Hồ Chí Minh 230 km, cách Cần Thơ khoảng 83 km. Dịch vụ giao thông, lữ hành, lưu trú, ăn uống trên đảo phát triển khiến địa danh này ngày càng_ [_thăng hạng trên bản đồ du lịch_](https://nhavantuonglai.com/article).\_
+_Côn đảo là một quần đảo ngoài khơi Bà Rịa – Vũng Tàu. Quần đảo rộng 76 km2 này bao gồm 16 hòn đảo, lớn nhất là đảo Côn Sơn. Côn Đảo cách Vũng Tàu 185 km, cách Thành phố Hồ Chí Minh 230 km, cách Cần Thơ khoảng 83 km. Dịch vụ giao thông, lữ hành, lưu trú, ăn uống trên đảo phát triển khiến địa danh này ngày càng_ [_thăng hạng trên bản đồ du lịch_](/article).\_
 
 Bên cạnh du lịch tâm linh, về nguồn, nhiều du khách đang biết đến Côn Đảo là thiên đường nghỉ dưỡng, điểm phượt lý thú còn nhiều điều khám phá. Dưới đây là những gợi ý cho chuyến du lịch của bạn trên hòn đảo này.
 
@@ -17,17 +17,17 @@ Bên cạnh du lịch tâm linh, về nguồn, nhiều du khách đang biết đ
 
 Từ tháng 3 đến tháng 9 là thời gian đẹp nhất để khám phá Côn Đảo. Tuy còn trong mùa mưa nhưng lúc này biển êm, gió nhỏ ở các đảo phía Đông và Đông Bắc. Du khách nên thăm thú đảo xa vào ban ngày, nơi tràn ngập nắng vàng và trời xanh thích hợp lặn biển và chụp ảnh. Buổi chiều hay có mưa rào, thích hợp tham quan các di tích có mái che ở đảo lớn.
 
-Tháng 7-9 là mùa sinh sản của rùa biển. Thời gian còn lại, tháng 10 đến tháng 3 năm sau, là [mùa gió chướng](https://nhavantuonglai.com/article), vùng biển vịnh Côn Sơn có sóng lớn. Tuy nhiên, vùng biển phía Tây và Tây Nam đảo lớn vẫn êm, không mưa, do đó du khách có thể chuyển hướng tham quan sang khu vực này với cảnh quan thiên nhiên đẹp không kém.
+Tháng 7-9 là mùa sinh sản của rùa biển. Thời gian còn lại, tháng 10 đến tháng 3 năm sau, là [mùa gió chướng](/article), vùng biển vịnh Côn Sơn có sóng lớn. Tuy nhiên, vùng biển phía Tây và Tây Nam đảo lớn vẫn êm, không mưa, do đó du khách có thể chuyển hướng tham quan sang khu vực này với cảnh quan thiên nhiên đẹp không kém.
 
 ## Di chuyển
 
-Máy bay là phương tiện di chuyển ra Côn Đảo tiết kiệm thời gian nhất. Hiện [Bamboo Airways](https://nhavantuonglai.com/article) khai thác đường bay thẳng trong khoảng 2 giờ 30 phút giữa Côn Đảo với Hà Nội (từ 2,7 triệu đồng một chiều). Vietnam Airlines bay từ Thành phố Hồ Chí Minh (khoảng 1,3 triệu đồng một chiều), Cần Thơ (khoảng 1,7 triệu đồng một chiều) đến Côn Đảo và ngược lại. Mỗi chuyến khoảng 50 phút.
+Máy bay là phương tiện di chuyển ra Côn Đảo tiết kiệm thời gian nhất. Hiện [Bamboo Airways](/article) khai thác đường bay thẳng trong khoảng 2 giờ 30 phút giữa Côn Đảo với Hà Nội (từ 2,7 triệu đồng một chiều). Vietnam Airlines bay từ Thành phố Hồ Chí Minh (khoảng 1,3 triệu đồng một chiều), Cần Thơ (khoảng 1,7 triệu đồng một chiều) đến Côn Đảo và ngược lại. Mỗi chuyến khoảng 50 phút.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/du-lich-con-dao-143.jpg" alt="cam-nang-du-lich-con-dao" height=100% width=100%><figcaption><p>cam-nang-du-lich-con-dao-nhavantuonglai</p></figcaption></figure>
 
 Từ sân bay Côn Đảo về trung tâm thị trấn khoảng 15 km, bạn có thể đi xe máy, taxi hoặc xe chuyên chở của resort. Quãng đường này mất trung bình từ 20 đến 30 phút. Để đi nhanh hơn, bạn có thể chọn đường Cỏ Ống.
 
-Nếu không ngại đi [tàu biển ra Côn Đảo](https://nhavantuonglai.com/article), bạn có thể ghé Côn Đảo từ tháng 4 đến tháng 6, thời điểm biển êm nhất. Nhiều du khách thường chọn đi xe ra Vũng Tàu rồi tiếp tục ngồi tàu 5 tiếng ra Côn Đảo. Đường ngắn hơn là đi tàu từ cảng Trần Đề (Sóc Trăng) thằng ra đảo, chỉ mất 2 tiếng di chuyển, giảm hơn một nửa thời gian so với việc xuất phát từ [Vũng Tàu](/article/du-lich-vung-tau).
+Nếu không ngại đi [tàu biển ra Côn Đảo](/article), bạn có thể ghé Côn Đảo từ tháng 4 đến tháng 6, thời điểm biển êm nhất. Nhiều du khách thường chọn đi xe ra Vũng Tàu rồi tiếp tục ngồi tàu 5 tiếng ra Côn Đảo. Đường ngắn hơn là đi tàu từ cảng Trần Đề (Sóc Trăng) thằng ra đảo, chỉ mất 2 tiếng di chuyển, giảm hơn một nửa thời gian so với việc xuất phát từ [Vũng Tàu](/article/du-lich-vung-tau).
 
 Taxi giá từ 300.000 đồng đến 450.000 đồng một chuyến. Một số resort, khách sạn cung cấp xe đưa đón miễn phí hoặc thu phí mỗi chiều khoảng 50.000 đồng một người. Nếu đi đông, bạn nên liên hệ thuê ô tô riêng.
 
@@ -35,31 +35,31 @@ Trên đảo, bạn có thể di chuyển bằng taxi với giá khoảng 12.000
 
 ## Khách sạn
 
-Tùy mục đích chuyến đi, bạn có thể ở [resort, khách sạn hoặc nhà nghỉ](https://nhavantuonglai.com/article), xa hoặc gần trung tâm đảo. Nếu muốn nghỉ dưỡng, các resort, khách sạn cao cấp sát biển, sát rừng, có bãi biển riêng là lựa chọn tối ưu. Để tiện khám phá thị trấn và ra bến tàu từ sáng sớm, bạn nên lưu trú ở các khách sạn, homestay ở trung tâm đảo.
+Tùy mục đích chuyến đi, bạn có thể ở [resort, khách sạn hoặc nhà nghỉ](/article), xa hoặc gần trung tâm đảo. Nếu muốn nghỉ dưỡng, các resort, khách sạn cao cấp sát biển, sát rừng, có bãi biển riêng là lựa chọn tối ưu. Để tiện khám phá thị trấn và ra bến tàu từ sáng sớm, bạn nên lưu trú ở các khách sạn, homestay ở trung tâm đảo.
 
 Giá phòng ở Côn Đảo có nhiều mức, dao động từ 200.000 đồng đến hơn 10 triệu đồng. Du khách cũng có thể cắm trại dã ngoại qua đêm ở những nơi được ban quản lý điểm tham quan cho phép.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/du-lich-con-dao-144.jpg" alt="cam-nang-du-lich-con-dao" height=100% width=100%><figcaption><p>cam-nang-du-lich-con-dao-nhavantuonglai</p></figcaption></figure>
 
-Côn Đảo chưa phát triển nhiều khu nghỉ dưỡng nhưng có một resort 5 sao là [Six Senses](https://nhavantuonglai.com/article), nơi Brad Pitt và Angelina Jolie từng lưu trú trong chuyến đi nghỉ vào năm 2011. Khu nghỉ dưỡng có 50 biệt thự, hồ bơi vô cực, spa… phía sau là rừng xanh bát ngát, phía trước là bờ cát trắng trải dài. Giá phòng trung bình khoảng 15 triệu đồng.
+Côn Đảo chưa phát triển nhiều khu nghỉ dưỡng nhưng có một resort 5 sao là [Six Senses](/article), nơi Brad Pitt và Angelina Jolie từng lưu trú trong chuyến đi nghỉ vào năm 2011. Khu nghỉ dưỡng có 50 biệt thự, hồ bơi vô cực, spa… phía sau là rừng xanh bát ngát, phía trước là bờ cát trắng trải dài. Giá phòng trung bình khoảng 15 triệu đồng.
 
 ## Chơi đâu?
 
-Tùy thời gian, mục đích và phong cách du lịch, bạn có thể lựa chọn những điểm đến dưới đây cho kế hoạch [trong ngày](https://nhavantuonglai.com/article), [4 ngày 3 đêm](https://nhavantuonglai.com/article), hoặc [5 ngày 4 đêm](https://nhavantuonglai.com/article).
+Tùy thời gian, mục đích và phong cách du lịch, bạn có thể lựa chọn những điểm đến dưới đây cho kế hoạch [trong ngày](/article), [4 ngày 3 đêm](/article), hoặc [5 ngày 4 đêm](/article).
 
 Khám phá thiên nhiên
 
-_Hòn Bảy Cạnh_ và _Hòn Cau_ là hai điểm du lịch sinh thái ngoài khơi Côn Đảo quen thuộc, gồm các trải nghiệm [lặn ngắm san hô](https://nhavantuonglai.com/article), tham quan rừng ngập mặn, đúng mùa sẽ được xem rùa đẻ trứng, [thả rùa con về biển](https://nhavantuonglai.com/article).
+_Hòn Bảy Cạnh_ và _Hòn Cau_ là hai điểm du lịch sinh thái ngoài khơi Côn Đảo quen thuộc, gồm các trải nghiệm [lặn ngắm san hô](/article), tham quan rừng ngập mặn, đúng mùa sẽ được xem rùa đẻ trứng, [thả rùa con về biển](/article).
 
 Du khách có thể tự thuê cano ra đảo nhỏ, giá khoảng 2 – 5 triệu đồng một buổi. Để tiết kiệm chi phí, bạn nên đặt tour trong ngày gồm thả rùa về biển kết hợp lặn ngắm san hô Hòn Bảy Cạnh, giá 790.000 đồng một khách do công ty Con Dao Explorer khai thác.
 
-Ngoài ra, blogger Ngô Trần Hải An còn gợi ý cho những ai thích chinh phục tọa độ của [3 điểm đánh dấu lãnh hải Việt Nam](https://nhavantuonglai.com/article), nằm trên Hòn Bảy Cạnh, Hòn Tài Lớn và Hòn Bông Lan gần đó.
+Ngoài ra, blogger Ngô Trần Hải An còn gợi ý cho những ai thích chinh phục tọa độ của [3 điểm đánh dấu lãnh hải Việt Nam](/article), nằm trên Hòn Bảy Cạnh, Hòn Tài Lớn và Hòn Bông Lan gần đó.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/du-lich-con-dao-145.jpg" alt="cam-nang-du-lich-con-dao" height=100% width=100%><figcaption><p>cam-nang-du-lich-con-dao-nhavantuonglai</p></figcaption></figure>
 
 _Vịnh Đầm Tre_ nằm ở phía bắc đảo, kín gió, có rừng ngập mặn bao bọc xung quanh, là nơi chim yến làm tổ trong mùa sinh sản và nhiều loài sinh vật biển khác. Trên đường đi, du khách có thể dừng ngắm hoặc tắm tại bãi biển Lò Vôi, bãi biển Đất Dốc, mũi Chim Chim, vịnh Đông Bắc…
 
-_Bãi Đầm Trầu_ là bãi biển lặng sóng, nằm sát sân bay Côn Đảo, cách trung tâm đảo khoảng 15 km. Nơi đây thu hút nhiều du khách check-in cảnh tượng [máy bay hạ cánh sát đầu người](https://nhavantuonglai.com/article).
+_Bãi Đầm Trầu_ là bãi biển lặng sóng, nằm sát sân bay Côn Đảo, cách trung tâm đảo khoảng 15 km. Nơi đây thu hút nhiều du khách check-in cảnh tượng [máy bay hạ cánh sát đầu người](/article).
 
 _Mũi Tàu Bể_ nằm trên con đường độc đạo từ sân bay về thị trấn, được bao bọc bởi những phiến đá dựng đứng tạo thành vòng cung ôm biển. Nơi đây là điểm chụp ảnh _sống ảo_ kiểu mạo hiểm, đồng thời được coi là nơi ngắm bình minh đẹp nhất Côn Đảo.
 
@@ -107,7 +107,7 @@ _Đền thờ bà Phi Yến (An Sơn Miếu)_ là miếu thờ thứ phi của C
 
 _Chùa Núi Một (Vân Sơn Tự_) là ngôi chùa duy nhất trên đảo, được xây từ năm 1964. Chùa nằm trên núi cao với tầm nhìn 4 phía là rừng xanh, vịnh Côn Sơn, thị trấn và hồ sen An Hải.
 
-[Những cung đường trên đảo](https://nhavantuonglai.com/article) cũng có nhiều không gian đẹp như tuyến đường rợp bóng cây bàng, hoa muồng vàng và phượng đỏ vào mùa hè, các bụi hoa giấy hồng dọc đường, ngôi nhà xưa cũ, các mũi cầu tàu vươn ra biển, con đường ven biển sát vách núi đá…
+[Những cung đường trên đảo](/article) cũng có nhiều không gian đẹp như tuyến đường rợp bóng cây bàng, hoa muồng vàng và phượng đỏ vào mùa hè, các bụi hoa giấy hồng dọc đường, ngôi nhà xưa cũ, các mũi cầu tàu vươn ra biển, con đường ven biển sát vách núi đá…
 
 ## Đặc sản
 

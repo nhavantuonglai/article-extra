@@ -52,13 +52,13 @@ Khi được áp dụng vào việc quản lý đúng cách, phần mềm sẽ g
 
 _Tìm hiểu thêm:_
 
-– [Mở tiệm Spa nhỏ cần bao nhiêu tiền?](https://nhavantuonglai.com/article)
+– [Mở tiệm Spa nhỏ cần bao nhiêu tiền?](/article)
 
-– [Tại sao nên quản lý spa bằng phần mềm](https://nhavantuonglai.com/article)
+– [Tại sao nên quản lý spa bằng phần mềm](/article)
 
-– [Những câu hỏi thường gặp về Phần mềm quản lý tiệm Spa](https://nhavantuonglai.com/article)
+– [Những câu hỏi thường gặp về Phần mềm quản lý tiệm Spa](/article)
 
-– [Tại sao phần mềm quản lý Spa lại cần thiết?](https://nhavantuonglai.com/article)
+– [Tại sao phần mềm quản lý Spa lại cần thiết?](/article)
 
 ## Những điều cần phải có trong phần mềm quản lý Spa
 

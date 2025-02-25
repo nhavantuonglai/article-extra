@@ -159,15 +159,15 @@ Sự hiện diện của dòng tu thể nhập là một cần thiết căn bả
 
 Dù bảo thủ đến bao nhiêu đi nữa, các vị cũng phải công nhận rằng những tu viện như thế là nền móng cho sự tồn tại của đạo Phật chân thực. Xây dựng cho nếp sống thanh tịnh và giải thoát của một tu viện thể nhập, đó là miếng đất mà trên đó những người trong phái cũ và những người trong phái mới có thể đứng chung. Từ khởi điểm này, công trình hiện đại hóa đạo Phật sẽ được đẩy tới một cách tích cực và đầy tin tưởng, bởi vì chính công trình đã được đặt trên một nền tảng mà từ đó mọi truyền thống đạo Phật đã được phát sinh và nẩy nở.
 
-Đọc [Đạo phật hiện đại hóa, chương 01](https://nhavantuonglai.com/article/dao-phat-hien-dai-hoa-chuong-01) tại đây.
+Đọc [Đạo phật hiện đại hóa, chương 01](/article/dao-phat-hien-dai-hoa-chuong-01) tại đây.
 
-Đọc [Đạo phật hiện đại hóa, chương 02](https://nhavantuonglai.com/article/dao-phat-hien-dai-hoa-chuong-02) tại đây.
+Đọc [Đạo phật hiện đại hóa, chương 02](/article/dao-phat-hien-dai-hoa-chuong-02) tại đây.
 
-Đọc [Đạo phật hiện đại hóa, chương 03](https://nhavantuonglai.com/article/dao-phat-hien-dai-hoa-chuong-03) tại đây.
+Đọc [Đạo phật hiện đại hóa, chương 03](/article/dao-phat-hien-dai-hoa-chuong-03) tại đây.
 
-Đọc [Đạo phật hiện đại hóa, chương 04](https://nhavantuonglai.com/article/dao-phat-hien-dai-hoa-chuong-04) tại đây.
+Đọc [Đạo phật hiện đại hóa, chương 04](/article/dao-phat-hien-dai-hoa-chuong-04) tại đây.
 
-Đọc [Đạo phật hiện đại hóa, chương 05](https://nhavantuonglai.com/article/dao-phat-hien-dai-hoa-chuong-05) tại đây.
+Đọc [Đạo phật hiện đại hóa, chương 05](/article/dao-phat-hien-dai-hoa-chuong-05) tại đây.
 
 Đọc [Đạo phật hiện đại hóa, toàn tập](https://banmaixanh.vercel.app/ebook/dao-phat-di-vao-cuoc-doi.pdf) tại đây.
 

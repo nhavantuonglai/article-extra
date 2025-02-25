@@ -85,13 +85,13 @@ Những bài thiền tập mà chúng ta đã nói tới và bạn đã thử đ
 
 Phép buông thư toàn thân (total relaxation, deep relaxation) có thể được thực tập trong tư thế nằm. Bụt có dạy phép này trong kinh Niệm Thân. Ngài nói: _ví dụ có một bác nông dân khiêng một bao hạt giống, mở một đầu bao, và để cho các thứ hạt giống được trút ra trên sàn nhà. Và với con mắt còn tốt, bác nông dân nhận diện các loại hạt giống: đây là hạt mướp hương, đây là hạt mướp đắng, đây là hạt bí đao, đây là hạt bí rợ… Khi chúng ta nằm xuống, duỗi thẳng hai chân và hai tay, ta bắt đầu chú ý tới đỉnh đầu, rồi đem sự chú ý tới não bộ, rồi đem sự chú ý tới trán, biết đây là trán, rồi đem sự chú ý tới mắt, biết đây là mắt… cứ thế mà ta đem sự chú ý tới toàn thân, từ đỉnh đầu tới ngón chân._ Trong các bệnh viện có bộ quét (scanner) sử dụng quang tuyến X và kỹ thuật vi tính để làm cho các bộ phận trong cơ thể hiện rõ ra trên màn hình, khiến cho y sĩ thấy được những gì đang thực sự xảy ra cho các bộ phận cơ thể. Trong phép thực tập buông thư toàn thân, hành giả sử dụng tia sáng chánh niệm (thay vì quang tuyến X) để nhận diện từng bộ phận cơ thể, và lấy năng lượng chánh niệm để ôm ấp và làm thư giãn các bộ phận ấy. Thở vào tôi ý thức đây là hai mắt tôi, thở ra tôi mỉm cười thân thiện với hai mắt tôi… Thở vào tôi ý thức về trái tim tôi, thở ra tôi mỉm cười thân thiện với trái tim tôi… Năng lượng chánh niệm nhận diện, ôm ấp và giúp cho các bộ phận cơ thể buông thư… Nếu đi ngang một bộ phận có đau nhức hay yếu ốm, ta có thể dừng lại lâu hơn, và với năng lượng chánh niệm ta nhận diện và ôm ấp bộ phận ấy lâu hơn với rất nhiều ưu ái… Ta tự hứa sẽ hết lòng chăm sóc cho bộ phận ấy. Ví dụ hai lá phổi ta không được tốt, khi tiếp xúc với phổi bằng chánh niệm, ta tỏ lòng ưu ái với hai lá phổi, ta hứa ta sẽ ngưng hút thuốc, ta sẽ thực tập hô hấp không khí trong lành,… Khi tiếp xúc với trái tim, ta hứa ta sẽ ngưng uống rượu, hút thuốc, thức khuya, lo lắng,… Cơ thể được buông thư sẽ có nhiều khả năng để trị liệu. Ta không nên chỉ trông chờ vào thuốc men mà thôi. Cơ thể được buông thư thì sự trị liệu sẽ thành tựu được nhanh gấp mười lần. Mỗi ngày, ta tập phép buông thư toàn thân ít nhất một lần. Nằm trên bãi cỏ, ghế đá công viên hay sàn nhà, ta cũng có thể thực tập. Ta có thể thực tập chung trong gia đình, trong công sở hay trong học đường. Nếu bạn là cô giáo, thầy giáo hay cha mẹ, bạn có thể hướng dẫn học trò hay các con của bạn thực tập. Có những cuốn băng hướng dẫn thiền buông thư rất hay, bạn có thể sử dụng trong những buổi thực tập đầu. Sau đó bạn có thể tự mình hướng dẫn và hướng dẫn những người khác.
 
-Đọc [Thiền nam chỉ tập, chương 01](https://nhavantuonglai.com/article/chi-nam-thien-tap-chuong-01) tại đây.
+Đọc [Thiền nam chỉ tập, chương 01](/article/chi-nam-thien-tap-chuong-01) tại đây.
 
-Đọc [Thiền nam chỉ tập, chương 02](https://nhavantuonglai.com/article/chi-nam-thien-tap-chuong-02) tại đây.
+Đọc [Thiền nam chỉ tập, chương 02](/article/chi-nam-thien-tap-chuong-02) tại đây.
 
-Đọc [Thiền nam chỉ tập, chương 03](https://nhavantuonglai.com/article/chi-nam-thien-tap-chuong-03) tại đây.
+Đọc [Thiền nam chỉ tập, chương 03](/article/chi-nam-thien-tap-chuong-03) tại đây.
 
-Đọc [Thiền nam chỉ tập, chương 04](https://nhavantuonglai.com/article/chi-nam-thien-tap-chuong-04) tại đây.
+Đọc [Thiền nam chỉ tập, chương 04](/article/chi-nam-thien-tap-chuong-04) tại đây.
 
 Đọc [Thiền nam chỉ tập, toàn tập](https://banmaixanh.vercel.app/ebook/chi-nam-thien-tap.pdf) tại đây.
 

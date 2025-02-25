@@ -103,37 +103,37 @@ Khi đất và mặt nước bị nhiễm thuốc diệt sinh vật gây hại v
 
 Một lần nữa, chúng ta được gợi nhớ rằng trong tự nhiên mọi thứ đều không tồn tại riêng lẻ. Thế nên, để có thể hiểu rõ rằng sự ô nhiễm trên trái đất đang diễn ra như thế nào, chúng ta cần xem xét một nguồn tài nguyên cơ bản khác nữa, đó là đất.
 
-Đọc [Mùa xuân vắng lặng, chương 01](https://nhavantuonglai.com/article/mua-xuan-vang-lang-chuong-01) tại đây.
+Đọc [Mùa xuân vắng lặng, chương 01](/article/mua-xuan-vang-lang-chuong-01) tại đây.
 
-Đọc [Mùa xuân vắng lặng, chương 02](https://nhavantuonglai.com/article/mua-xuan-vang-lang-chuong-02) tại đây.
+Đọc [Mùa xuân vắng lặng, chương 02](/article/mua-xuan-vang-lang-chuong-02) tại đây.
 
-Đọc [Mùa xuân vắng lặng, chương 03](https://nhavantuonglai.com/article/mua-xuan-vang-lang-chuong-03) tại đây.
+Đọc [Mùa xuân vắng lặng, chương 03](/article/mua-xuan-vang-lang-chuong-03) tại đây.
 
-Đọc [Mùa xuân vắng lặng, chương 04](https://nhavantuonglai.com/article/mua-xuan-vang-lang-chuong-04) tại đây.
+Đọc [Mùa xuân vắng lặng, chương 04](/article/mua-xuan-vang-lang-chuong-04) tại đây.
 
-Đọc [Mùa xuân vắng lặng, chương 05](https://nhavantuonglai.com/article/mua-xuan-vang-lang-chuong-05) tại đây.
+Đọc [Mùa xuân vắng lặng, chương 05](/article/mua-xuan-vang-lang-chuong-05) tại đây.
 
-Đọc [Mùa xuân vắng lặng, chương 06](https://nhavantuonglai.com/article/mua-xuan-vang-lang-chuong-06) tại đây.
+Đọc [Mùa xuân vắng lặng, chương 06](/article/mua-xuan-vang-lang-chuong-06) tại đây.
 
-Đọc [Mùa xuân vắng lặng, chương 07](https://nhavantuonglai.com/article/mua-xuan-vang-lang-chuong-07) tại đây.
+Đọc [Mùa xuân vắng lặng, chương 07](/article/mua-xuan-vang-lang-chuong-07) tại đây.
 
-Đọc [Mùa xuân vắng lặng, chương 09](https://nhavantuonglai.com/article/mua-xuan-vang-lang-chuong-09) tại đây.
+Đọc [Mùa xuân vắng lặng, chương 09](/article/mua-xuan-vang-lang-chuong-09) tại đây.
 
-Đọc [Mùa xuân vắng lặng, chương 10](https://nhavantuonglai.com/article/mua-xuan-vang-lang-chuong-10) tại đây.
+Đọc [Mùa xuân vắng lặng, chương 10](/article/mua-xuan-vang-lang-chuong-10) tại đây.
 
-Đọc [Mùa xuân vắng lặng, chương 11](https://nhavantuonglai.com/article/mua-xuan-vang-lang-chuong-11) tại đây.
+Đọc [Mùa xuân vắng lặng, chương 11](/article/mua-xuan-vang-lang-chuong-11) tại đây.
 
-Đọc [Mùa xuân vắng lặng, chương 12](https://nhavantuonglai.com/article/mua-xuan-vang-lang-chuong-12) tại đây.
+Đọc [Mùa xuân vắng lặng, chương 12](/article/mua-xuan-vang-lang-chuong-12) tại đây.
 
-Đọc [Mùa xuân vắng lặng, chương 13](https://nhavantuonglai.com/article/mua-xuan-vang-lang-chuong-13) tại đây.
+Đọc [Mùa xuân vắng lặng, chương 13](/article/mua-xuan-vang-lang-chuong-13) tại đây.
 
-Đọc [Mùa xuân vắng lặng, chương 14](https://nhavantuonglai.com/article/mua-xuan-vang-lang-chuong-14) tại đây.
+Đọc [Mùa xuân vắng lặng, chương 14](/article/mua-xuan-vang-lang-chuong-14) tại đây.
 
-Đọc [Mùa xuân vắng lặng, chương 15](https://nhavantuonglai.com/article/mua-xuan-vang-lang-chuong-15) tại đây.
+Đọc [Mùa xuân vắng lặng, chương 15](/article/mua-xuan-vang-lang-chuong-15) tại đây.
 
-Đọc [Mùa xuân vắng lặng, chương 16](https://nhavantuonglai.com/article/mua-xuan-vang-lang-chuong-16) tại đây.
+Đọc [Mùa xuân vắng lặng, chương 16](/article/mua-xuan-vang-lang-chuong-16) tại đây.
 
-Đọc [Mùa xuân vắng lặng, chương 17](https://nhavantuonglai.com/article/mua-xuan-vang-lang-chuong-17) tại đây.
+Đọc [Mùa xuân vắng lặng, chương 17](/article/mua-xuan-vang-lang-chuong-17) tại đây.
 
 Đọc [Mùa xuân vắng lặng, toàn tập](https://banmaixanh.vercel.app/ebook/mua-xuan-vang-lang.pdf) tại đây.
 

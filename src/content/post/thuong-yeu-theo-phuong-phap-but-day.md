@@ -23,15 +23,15 @@ Tìm mua [Tuyển tập sách của Thiền sư Thích Nhất Hạnh](https://sh
 
 <figure><img src="https://info.nhavantuonglai.com/thich-nhat-hanh-02" alt="Tuyển tập sách của Thiền sư Thích Nhất Hạnh." title="Tuyển tập sách của Thiền sư Thích Nhất Hạnh." height=100% width=100%><figcaption><p>Tuyển tập sách của Thiền sư Thích Nhất Hạnh.</p></figcaption></figure>
 
-Đọc [Thương yêu theo phương pháp Bụt dạy, chương 01](https://nhavantuonglai.com/article/thuong-yeu-theo-phuong-phap-but-day-chuong-01) tại đây.
+Đọc [Thương yêu theo phương pháp Bụt dạy, chương 01](/article/thuong-yeu-theo-phuong-phap-but-day-chuong-01) tại đây.
 
-Đọc [Thương yêu theo phương pháp Bụt dạy, chương 02](https://nhavantuonglai.com/article/thuong-yeu-theo-phuong-phap-but-day-chuong-02) tại đây.
+Đọc [Thương yêu theo phương pháp Bụt dạy, chương 02](/article/thuong-yeu-theo-phuong-phap-but-day-chuong-02) tại đây.
 
-Đọc [Thương yêu theo phương pháp Bụt dạy, chương 03](https://nhavantuonglai.com/article/thuong-yeu-theo-phuong-phap-but-day-chuong-03) tại đây.
+Đọc [Thương yêu theo phương pháp Bụt dạy, chương 03](/article/thuong-yeu-theo-phuong-phap-but-day-chuong-03) tại đây.
 
-Đọc [Thương yêu theo phương pháp Bụt dạy, chương 04](https://nhavantuonglai.com/article/thuong-yeu-theo-phuong-phap-but-day-chuong-04) tại đây.
+Đọc [Thương yêu theo phương pháp Bụt dạy, chương 04](/article/thuong-yeu-theo-phuong-phap-but-day-chuong-04) tại đây.
 
-Đọc [Thương yêu theo phương pháp Bụt dạy, chương 05](https://nhavantuonglai.com/article/thuong-yeu-theo-phuong-phap-but-day-chuong-05) tại đây.
+Đọc [Thương yêu theo phương pháp Bụt dạy, chương 05](/article/thuong-yeu-theo-phuong-phap-but-day-chuong-05) tại đây.
 
 Đọc [Thương yêu theo phương pháp Bụt dạy, toàn tập](https://banmaixanh.vercel.app/ebook/thuong-yeu-theo-phuong-phap-but-day.pdf) tại đây.
 

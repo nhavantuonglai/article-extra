@@ -47,13 +47,13 @@ Bán nhiều phòng hơn với giá phù hợp.
 
 Tuy nhiên, không phải khách sạn nào cũng đạt được điều này. Bởi hoặc họ không có kinh nghiệm với vấn đề này, hoặc đơn giản là họ không quan tâm. Với đa số, thường đó là lý do đầu tiên.
 
-Nên, nếu một [khách sạn muốn có doanh thu tốt hơn](https://nhavantuonglai.com/article), đồng thời đảm bảo sự hài lòng của khách hàng, họ cần một chiến lược giá phù hợp.
+Nên, nếu một [khách sạn muốn có doanh thu tốt hơn](/article), đồng thời đảm bảo sự hài lòng của khách hàng, họ cần một chiến lược giá phù hợp.
 
-Tóm tắt thông tin: một chiến lược giá hiệu quả là chiến lược [cải thiện ADR](https://nhavantuonglai.com/article), RevPAR, doanh thu và tăng trưởng bán phòng.
+Tóm tắt thông tin: một chiến lược giá hiệu quả là chiến lược [cải thiện ADR](/article), RevPAR, doanh thu và tăng trưởng bán phòng.
 
 ## Điều gì xảy ra nếu chiến lược giá khách sạn hoạt động không hiệu quả?
 
-Bạn có đang mắc sai lầm trong [chiến lược giá khách sạn](https://nhavantuonglai.com/article) của mình không? Và bạn có đang tự hỏi – tình huống xấu nhất của vấn đề này là gì chưa?
+Bạn có đang mắc sai lầm trong [chiến lược giá khách sạn](/article) của mình không? Và bạn có đang tự hỏi – tình huống xấu nhất của vấn đề này là gì chưa?
 
 Hãy cùng thảo luận điều tệ nhất khi chiến lược sai lầm: đó là ảnh hưởng nghiêm trọng đến doanh thu của khách sạn.
 
@@ -75,7 +75,7 @@ Dưới đây, sẽ là những vấn đề để xác định các chiến lư�
 
 ### Không duy trì tỷ giá ngang giá
 
-Không duy trì tỷ giá ngang giá hay còn được gọi là [chênh lệch giá phòng](https://nhavantuonglai.com/article). Tỷ giá ngang giá là mức giá nhất quán trên tất cả các kênh bán phòng của khách sạn. Có nghĩa, giá hiển thị như nhau trên mọi kênh OTA, bất kể [hoa hồng khách sạn phải trả là bao nhiêu](https://nhavantuonglai.com/article).
+Không duy trì tỷ giá ngang giá hay còn được gọi là [chênh lệch giá phòng](/article). Tỷ giá ngang giá là mức giá nhất quán trên tất cả các kênh bán phòng của khách sạn. Có nghĩa, giá hiển thị như nhau trên mọi kênh OTA, bất kể [hoa hồng khách sạn phải trả là bao nhiêu](/article).
 
 Đây là một yếu tố nổi bật của chiến lược phân phối và định giá của khách sạn, nó tạo ra sự minh bạch về giá cho khách hàng và duy trì uy tín của thương hiệu.
 
@@ -93,7 +93,7 @@ Cho nên, nếu bạn chưa thực hiện bất kỳ khảo sát, phân tích th
 
 ### Giá phòng không phù hợp với phân khúc
 
-Một kiểu phòng có thể phù hợp với tất cả mọi người, nhưng không phù hợp với một mức giá. Giá cho khách đoàn, khách lẻ, theo nhóm… không bao giờ giống nhau. Chúng sẽ luôn khác biệt, về số lượng khách, [công suất phòng](https://nhavantuonglai.com/article), tỷ lệ hủy hay bất kỳ điều gì.
+Một kiểu phòng có thể phù hợp với tất cả mọi người, nhưng không phù hợp với một mức giá. Giá cho khách đoàn, khách lẻ, theo nhóm… không bao giờ giống nhau. Chúng sẽ luôn khác biệt, về số lượng khách, [công suất phòng](/article), tỷ lệ hủy hay bất kỳ điều gì.
 
 Ví dụ: Hotel Royale tính phí 80$ một phòng cho khách lẻ, nhưng khi cũng phòng ấy được đặt theo nhóm thì giá sẽ rẻ hơn. Lý do là bởi họ đặt nhiều hơn, và ở lại lâu hơn, thì khách sạn cũng có cơ hội bán thêm sản phẩm hơn thông qua nhóm khách lẻ này. Đó là lý do tại sao giá phòng cần được bán thấp hơn mức thông thường.
 
@@ -139,7 +139,7 @@ Vậy thì, khách sạn của bạn có đang áp dụng những chính sách n
 
 ### Không có chính sách giá đặc biệt cho khách hàng thân thiết
 
-Lòng trung thành của khách hàng cần được tôn trọng. Điều này cần áp dụng cho những khách quen, [khách hàng thân thiết với khách sạn](https://nhavantuonglai.com/article). Nếu họ đến khách sạn của bạn nhiều lần, bạn cần đảm bảo trải nghiệm của họ luôn nhất quán và tích cực. Nhưng có một thứ cần phải giảm – đó là giá phòng dành cho họ. Đó là mức giá đặc biệt, độc quyền chỉ những khách quen mới nhận được.
+Lòng trung thành của khách hàng cần được tôn trọng. Điều này cần áp dụng cho những khách quen, [khách hàng thân thiết với khách sạn](/article). Nếu họ đến khách sạn của bạn nhiều lần, bạn cần đảm bảo trải nghiệm của họ luôn nhất quán và tích cực. Nhưng có một thứ cần phải giảm – đó là giá phòng dành cho họ. Đó là mức giá đặc biệt, độc quyền chỉ những khách quen mới nhận được.
 
 Khi áp dụng chính sách này, bạn vừa tạo cảm giác được tôn trọng ở khách hàng thân thiết, vừa kích thích khách hàng mới quay trở lại để tiết kiệm hơn. Kết quả thì – khách sạn kiếm được nhiều tiền hơn.
 
@@ -147,7 +147,7 @@ Khi áp dụng chính sách này, bạn vừa tạo cảm giác được tôn tr
 
 Những điều trên giúp khách sạn nhận diện chiến lược giá là sai lầm, bước tiếp theo – là làm thế nào để khắc phục, cải thiện chúng.
 
-Cách tốt nhất để [cải thiện và tăng doanh thu khách sạn](https://nhavantuonglai.com/article) là kết hợp quản lý doanh thu. Đó là điều quan trọng và bạn không nên phủ nhận nó.
+Cách tốt nhất để [cải thiện và tăng doanh thu khách sạn](/article) là kết hợp quản lý doanh thu. Đó là điều quan trọng và bạn không nên phủ nhận nó.
 
 Khách sạn cần phải có hệ thống quản lý doanh thu, hoặc dịch vụ quản lý doanh thu trong khách sạn của mình. Sử dụng công cụ này, giúp bạn phân tích được dữ liệu nội bộ, đánh giá thị trường và nhu cầu của khách hàng… nhằm tối ưu giá và cải thiện phòng tồn.
 

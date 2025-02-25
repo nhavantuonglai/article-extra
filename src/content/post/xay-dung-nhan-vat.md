@@ -15,11 +15,11 @@ tags:
 
 _Xây dựng nhân vật đóng vai trò quan trọng trong cấu trúc truyện, chúng là xương sống của mạch truyện, bên cạnh cấu trúc nội dung. Bài viết sau cung cấp những thông tin hữu ích về xây dựng nhân vật trong truyện để các bạn áp dụng trong tác phẩm của mình._
 
-Chuỗi bài viết [Làm chủ nghệ thuật viết lách](https://nhavantuonglai.com/tags/lam-chu-nghe-thuat-viet-lach) là những hướng dẫn căn bản giúp bạn làm chủ kỹ năng viết lách của bản thân.
+Chuỗi bài viết [Làm chủ nghệ thuật viết lách](/tags/lam-chu-nghe-thuat-viet-lach) là những hướng dẫn căn bản giúp bạn làm chủ kỹ năng viết lách của bản thân.
 
 ## Làm sao để xây dựng nhân vật trong truyện của mình?
 
-Để xây dựng nhân vật trong truyện của mình trong [hành trình viết (writing process)](https://nhavantuonglai.com/article), bạn có thể tham khảo một số cách sau đây:
+Để xây dựng nhân vật trong truyện của mình trong [hành trình viết (writing process)](/article), bạn có thể tham khảo một số cách sau đây:
 
 – Bạn nên thiết lập vai trò của nhân vật trong câu chuyện, xác định họ là nhân vật chính, phản diện, phụ, cố vấn hay đối tượng yêu đương.
 
@@ -49,7 +49,7 @@ Ngoài ra, bạn cũng có thể sử dụng các biện pháp khác để xây 
 
 Để tạo ra một nhân vật độc đáo, bạn có thể tham khảo một số cách sau đây:
 
-– Bạn nên tạo ra một nhân vật có tính cách, ngoại hình, tên và danh tính riêng biệt, không trùng lặp hoặc tương đồng với các nhân vật khác, cũng đừng ngại tạo ra những [nhân vật khiếm khuyết](https://nhavantuonglai.com/article) bởi đó là cách làm nổi bật ý đồ tác phẩm tốt nhất.
+– Bạn nên tạo ra một nhân vật có tính cách, ngoại hình, tên và danh tính riêng biệt, không trùng lặp hoặc tương đồng với các nhân vật khác, cũng đừng ngại tạo ra những [nhân vật khiếm khuyết](/article) bởi đó là cách làm nổi bật ý đồ tác phẩm tốt nhất.
 
 – Bạn nên cho nhân vật có một mục tiêu, một mâu thuẫn và một sự phát triển qua câu chuyện, để khiến người đọc quan tâm đến hành trình của họ.
 
@@ -117,7 +117,7 @@ Mô hình nhân vật lấy vật trong truyện là mô hình nhân vật đư�
 
 ## Những lưu ý khi xây dựng tính cách nhân vật
 
-Xây dựng tính cách nhân vật là một công việc quan trọng trong [viết lách sáng tạo](https://nhavantuonglai.com/article), bởi tính cách nhân vật sẽ ảnh hưởng đến hành động, lời nói, suy nghĩ và cảm xúc của họ trong [câu chuyện](https://nhavantuonglai.com/article). Để xây dựng tính cách nhân vật, bạn có thể tham khảo những lưu ý sau:
+Xây dựng tính cách nhân vật là một công việc quan trọng trong [viết lách sáng tạo](/article), bởi tính cách nhân vật sẽ ảnh hưởng đến hành động, lời nói, suy nghĩ và cảm xúc của họ trong [câu chuyện](/article). Để xây dựng tính cách nhân vật, bạn có thể tham khảo những lưu ý sau:
 
 – Xác định vai trò và mục tiêu của nhân vật. Bạn cần biết nhân vật của bạn đóng vai gì trong câu chuyện, họ muốn gì và họ sẽ làm gì để đạt được mục tiêu đó. Vai trò và mục tiêu của nhân vật sẽ giúp bạn tạo ra những xung đột và thử thách cho họ, cũng như thể hiện quan điểm và giá trị của họ.
 
@@ -131,6 +131,6 @@ Xây dựng tính cách nhân vật là một công việc quan trọng trong [v
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-100.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
-Trên đây là những thông tin về xây dựng nhân vật trong truyện khi viết lách, hy vọng các bạn sẽ có những áp dụng phù hợp, giúp tác phẩm của mình trở nên hoàn thiện và thú vị hơn để [cải thiện kỹ năng viết lách](https://nhavantuonglai.com/article) của bản thân.
+Trên đây là những thông tin về xây dựng nhân vật trong truyện khi viết lách, hy vọng các bạn sẽ có những áp dụng phù hợp, giúp tác phẩm của mình trở nên hoàn thiện và thú vị hơn để [cải thiện kỹ năng viết lách](/article) của bản thân.
 
 <figure><img src="https://banmaixanh.vercel.app/image/cover/001-510.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

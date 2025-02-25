@@ -261,11 +261,11 @@ Trong chiến tranh Việt Nam, nhiều xóm làng bị bom đạn tàn phá. Đ
 
 Chúng ta phải ý thức được thực trạng của thế giới để biết rõ cần phải làm gì. Giữa những khó khăn nguy hiểm, nếu ta vẫn giữ được nụ cười và hơi thở chánh niệm, thì mọi người, mọi loài quanh ta sẽ hưởng được nhiều lợi lạc. Khi bước chân đi ta có tiếp xúc được một cách ngọt ngào với Trái Đất không? Trái Đất như một bà mẹ hiền, ta muốn thương yêu vỗ về với từng bước chân an vui tỉnh thức.Từng bước chân an lạc tỉnh thức, đó là điều ta phải thực tập mỗi ngày nếu ta muốn tiếp tục cuộc hành trình lâu dài.
 
-Đọc [An lạc từng bước chân, chương 01](https://nhavantuonglai.com/article/an-lac-tung-buoc-chan-chuong-01) tại đây.
+Đọc [An lạc từng bước chân, chương 01](/article/an-lac-tung-buoc-chan-chuong-01) tại đây.
 
-Đọc [An lạc từng bước chân, chương 02](https://nhavantuonglai.com/article/an-lac-tung-buoc-chan-chuong-02) tại đây.
+Đọc [An lạc từng bước chân, chương 02](/article/an-lac-tung-buoc-chan-chuong-02) tại đây.
 
-Đọc [An lạc từng bước chân, chương 03](https://nhavantuonglai.com/article/an-lac-tung-buoc-chan-chuong-03) tại đây.
+Đọc [An lạc từng bước chân, chương 03](/article/an-lac-tung-buoc-chan-chuong-03) tại đây.
 
 Đọc [An lạc từng bước chân, toàn tập](https://banmaixanh.vercel.app/ebook/an-lac-tung-buoc-chan.pdf) tại đây.
 

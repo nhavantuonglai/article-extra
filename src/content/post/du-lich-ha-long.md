@@ -29,7 +29,7 @@ Tại Hạ Long, nếu không có phương tiện cá nhân, có thể thuê xe 
 
 ## Khách sạn, homestay
 
-Lựa chọn lưu trú ở Hạ Long rất đa dạng, bao gồm khách sạn bình dân, khu nghỉ dưỡng, [homestay](https://nhavantuonglai.com/article), nhà nghỉ hoặc các du thuyền từ cao cấp tới bình dân. Giá thuê dao động từ vài trăm nghìn đến vài triệu đồng.
+Lựa chọn lưu trú ở Hạ Long rất đa dạng, bao gồm khách sạn bình dân, khu nghỉ dưỡng, [homestay](/article), nhà nghỉ hoặc các du thuyền từ cao cấp tới bình dân. Giá thuê dao động từ vài trăm nghìn đến vài triệu đồng.
 
 Thành phố Hạ Long phân chia thành hai khu vực là Bãi Cháy và Hòn Gai, bởi cầu Bãi Cháy. Phía Bãi Cháy tập trung nhiều khu du lịch, khách sạn, nhà hàng còn phía Hòn Gai chủ yếu là các khu dân cư.
 
@@ -41,17 +41,17 @@ Nếu chọn ở homestay thoải mái, giá dễ chịu hơn bạn có thể th
 
 ## Chơi gì
 
-Vịnh Hạ Long là di sản thế giới có vẻ đẹp tự nhiên hút hồn du khách trong và ngoài nước. Vịnh có hàng nghìn [đảo đá vôi](https://nhavantuonglai.com/article) lớn nhỏ với đủ hình thù nằm rải rác, tạo nên khung cảnh kỳ vĩ và khác biệt với phần còn lại của thế giới. Một lựa chọn phổ biến là đi tàu ngắm cảnh với các hành trình đi qua những điểm như hòn Gà Chọi, hòn Đỉnh Hương, hang Sửng Sốt, động Thiên Cung, đảo Titop…
+Vịnh Hạ Long là di sản thế giới có vẻ đẹp tự nhiên hút hồn du khách trong và ngoài nước. Vịnh có hàng nghìn [đảo đá vôi](/article) lớn nhỏ với đủ hình thù nằm rải rác, tạo nên khung cảnh kỳ vĩ và khác biệt với phần còn lại của thế giới. Một lựa chọn phổ biến là đi tàu ngắm cảnh với các hành trình đi qua những điểm như hòn Gà Chọi, hòn Đỉnh Hương, hang Sửng Sốt, động Thiên Cung, đảo Titop…
 
-Để trải nghiệm trọn vẹn nhất, bạn nên nghỉ dưỡng trên [du thuyền](https://nhavantuonglai.com/article). Bạn sẽ tận hưởng không gian yên tĩnh, không khí trong lành khi du ngoạn giữa vùng nước mênh mông của vùng vịnh kín, ít sóng và gió.
+Để trải nghiệm trọn vẹn nhất, bạn nên nghỉ dưỡng trên [du thuyền](/article). Bạn sẽ tận hưởng không gian yên tĩnh, không khí trong lành khi du ngoạn giữa vùng nước mênh mông của vùng vịnh kín, ít sóng và gió.
 
-Ở Hạ Long có nhiều [hãng tàu dịch vụ](https://nhavantuonglai.com/article) tiêu chuẩn 1 – 5 sao như Heritage Cruises, Paradise Cruise, Stellar of the Seas, Indochine, Scarlet Pearl Cruises, Orchid, Starlight Hạ Long, Dragon Legend…
+Ở Hạ Long có nhiều [hãng tàu dịch vụ](/article) tiêu chuẩn 1 – 5 sao như Heritage Cruises, Paradise Cruise, Stellar of the Seas, Indochine, Scarlet Pearl Cruises, Orchid, Starlight Hạ Long, Dragon Legend…
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/du-lich-ha-long-271.jpg" alt="cam-nang-du-lich-ha-long" height=100% width=100%><figcaption><p>cam-nang-du-lich-ha-long-nhavantuonglai</p></figcaption></figure>
 
 Trên những _khách sạn nổi,_ du khách còn được phục vụ bữa ăn sang trọng, tắm trong hồ bơi lộ thiên, ngắm cảnh biển đêm. Một số tour du thuyền lưu trú còn có các trải nghiệm như tập thái cực quyền buổi sáng, tắm biển, chèo thuyền kayak, câu mực đêm, tham quan các làng chài, trang trại ngọc trai, học nấu ăn…
 
-Đến Hạ Long, không chỉ đi du thuyền, ngồi thuyền nan du khách còn có thể ngắm vịnh từ trên cao khi [bay trực thăng](https://nhavantuonglai.com/article), thủy phi cơ. Du ngoạn bằng trực thăng hay thủy phi cơ sẽ mang lại cho bạn góc nhìn mới về cảnh đẹp trên toàn vịnh. Nếu chọn trực thăng Halong Heli Tours, du khách có thể đi tour ngắm cảnh 12 phút, 25 phút hoặc 40 phút, giá vé khoảng 1,9 đến 5,4 triệu đồng/người với hành trình qua Động Thiên Cung, Hang Đầu Gỗ, Đảo Rều, Bái Tử Long… Nếu chọn bay thủy phi cơ của Hàng Không Hải Âu, hành trình ngắm cảnh 25 phút giá 1,5 triệu đồng/người.
+Đến Hạ Long, không chỉ đi du thuyền, ngồi thuyền nan du khách còn có thể ngắm vịnh từ trên cao khi [bay trực thăng](/article), thủy phi cơ. Du ngoạn bằng trực thăng hay thủy phi cơ sẽ mang lại cho bạn góc nhìn mới về cảnh đẹp trên toàn vịnh. Nếu chọn trực thăng Halong Heli Tours, du khách có thể đi tour ngắm cảnh 12 phút, 25 phút hoặc 40 phút, giá vé khoảng 1,9 đến 5,4 triệu đồng/người với hành trình qua Động Thiên Cung, Hang Đầu Gỗ, Đảo Rều, Bái Tử Long… Nếu chọn bay thủy phi cơ của Hàng Không Hải Âu, hành trình ngắm cảnh 25 phút giá 1,5 triệu đồng/người.
 
 Bãi tắm Bãi Cháy, bãi biển nhân tạo nằm phía sau công viên Sun World được mở rộng ra biển gần 1 km so với trước đây. Bãi rộng, cát sạch thích hợp để tổ chức các trò chơi theo nhóm, tắm biển, tắm nắng hoặc đi dạo ngắm bình minh…
 
@@ -65,7 +65,7 @@ Núi Bài Thơ cao 200 m, được coi là điểm ngắm cảnh thú vị nhìn
 
 Từ năm 1468, khi vua Lê Thánh Tông cho khắc bài thơ lên vách núi, Truyền Đăng đuợc đổi thành tên gọi Bài Thơ. Nay nơi đây trở thành điểm du lịch nổi tiếng của Quảng Ninh.
 
-Do [đường lên núi Bài Thơ](https://nhavantuonglai.com/article) lọt thỏm trong ngõ nhỏ của các gia đình ở phố Hàng Nồi, phường Bạch Đằng, nên không phải ai cũng biết.
+Do [đường lên núi Bài Thơ](/article) lọt thỏm trong ngõ nhỏ của các gia đình ở phố Hàng Nồi, phường Bạch Đằng, nên không phải ai cũng biết.
 
 Thường du khách đến Hạ Long leo núi Bài Thơ do có bạn bè là người ở đây giới thiệu. Còn không, bạn cần hỏi đường người dân ở phố Hàng Nồi nếu muốn tự mình chinh phục.
 
@@ -101,11 +101,11 @@ Những món ngon nổi tiếng ở Hạ Long phần lớn chế biến từ h�
 
 Bún bề bề là món ăn sáng và trưa phổ biến ở Quảng Ninh, nhất là ở thành phố Hạ Long. Bề bề (còn gọi là tôm tích, tôm tít, tôm búa) là loài hải sản có nhiều ở vùng biển Hạ Long, có thịt chắc, thơm ngọt và giàu dinh dưỡng. Một tô bún có giá khoảng 30.000 – 40.000 đồng.
 
-[Bún cù kỳ](https://nhavantuonglai.com/article) là món ăn chỉ ở Quảng Ninh mới có. Con cù kỳ thân nhỏ cỡ cua đá nhưng nhiều vỏ dăm ít thịt, bù lại có đôi càng to và nhiều thịt. Do đó, càng cù kỳ là nguyên liệu chính để chế biến món ăn. Thịt cù kỳ ăn ngọt, vị khác hẳn thịt cua, được gỡ ra phi sơ qua với hành tỏi cho thơm, rồi được cho vào tô bún trắng cùng đôi càng đã đập vỏ sẵn.
+[Bún cù kỳ](/article) là món ăn chỉ ở Quảng Ninh mới có. Con cù kỳ thân nhỏ cỡ cua đá nhưng nhiều vỏ dăm ít thịt, bù lại có đôi càng to và nhiều thịt. Do đó, càng cù kỳ là nguyên liệu chính để chế biến món ăn. Thịt cù kỳ ăn ngọt, vị khác hẳn thịt cua, được gỡ ra phi sơ qua với hành tỏi cho thơm, rồi được cho vào tô bún trắng cùng đôi càng đã đập vỏ sẵn.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/du-lich-ha-long-277.jpg" alt="cam-nang-du-lich-ha-long" height=100% width=100%><figcaption><p>cam-nang-du-lich-ha-long-nhavantuonglai</p></figcaption></figure>
 
-Trứng, tiết hầm ngải cứu là món ăn vặt giàu dinh dưỡng thường được bán vào buổi xế chiều ở Hạ Long. [Tiết hầm ngải cứu](https://nhavantuonglai.com/article), trứng vịt lộn được những người sành ăn ở Hạ Long gợi ý nên thử khi đến thành phố này.
+Trứng, tiết hầm ngải cứu là món ăn vặt giàu dinh dưỡng thường được bán vào buổi xế chiều ở Hạ Long. [Tiết hầm ngải cứu](/article), trứng vịt lộn được những người sành ăn ở Hạ Long gợi ý nên thử khi đến thành phố này.
 
 Chất ngọt từ những miếng tiết vuông vắn làm lá ngải cứu đắng trở nên dịu vị hơn khi hầm chung, còn lá ngải khiến tiết bớt tanh. Các quán ăn còn thêm quả trứng vịt lộn vào bát tiết hầm. Giá thành rẻ, 10.000 – 20.000 đồng mỗi phần. Để thưởng thức món ăn này, thực khách nên tìm đến chợ cột 3, chợ Hạ Long 1, 2.
 
@@ -131,7 +131,7 @@ Một số nhà hàng ăn ngon ở khu vực Bãi Cháy là Hồng Hạnh, Phư�
 
 Nếu có thời gian khám phá xa hơn và muốn đồ ăn ngon, chế biến mộc mạc, bạn hãy tới khu Quảng Yên, xã Thống Nhất, huyện Hoành Bồ. Quán bia ngoài trời có Khải Hương Garden, Cường Cá… dọc đường biển.
 
-Phố biển Hạ Long hiện có nhiều các [quán cà phê](https://nhavantuonglai.com/article) view đẹp và độc đáo. Một số địa điểm cho du khách tham khảo là Sky Bar, Cam Cafe, 1990 Coffee house, Old Town cafe, cafe Thông Zeo ngàn chín…
+Phố biển Hạ Long hiện có nhiều các [quán cà phê](/article) view đẹp và độc đáo. Một số địa điểm cho du khách tham khảo là Sky Bar, Cam Cafe, 1990 Coffee house, Old Town cafe, cafe Thông Zeo ngàn chín…
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/du-lich-ha-long-280.jpg" alt="cam-nang-du-lich-ha-long" height=100% width=100%><figcaption><p>cam-nang-du-lich-ha-long-nhavantuonglai</p></figcaption></figure>
 

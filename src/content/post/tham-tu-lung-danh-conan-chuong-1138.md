@@ -13,7 +13,7 @@ tags:
   - detective conan
 ---
 
-_Điểm đặc biệt của Thám tử lừng danh Conan là cách xây dựng các vụ án phức tạp, hấp dẫn, kết hợp cùng những tình tiết ly kỳ, đầy bất ngờ. Mỗi vụ án đều được tác giả chăm chút kỹ lưỡng, từ cách thức gây án, động cơ, đến quá trình suy luận và phá án của Conan. Những yếu tố này không chỉ tạo nên sự hấp dẫn mà còn kích thích tư duy logic của người đọc, khiến họ không thể rời mắt khỏi trang truyện. Cùng tìm hiểu điều đó trong [Conan chương 1138](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-1138) dưới đây._
+_Điểm đặc biệt của Thám tử lừng danh Conan là cách xây dựng các vụ án phức tạp, hấp dẫn, kết hợp cùng những tình tiết ly kỳ, đầy bất ngờ. Mỗi vụ án đều được tác giả chăm chút kỹ lưỡng, từ cách thức gây án, động cơ, đến quá trình suy luận và phá án của Conan. Những yếu tố này không chỉ tạo nên sự hấp dẫn mà còn kích thích tư duy logic của người đọc, khiến họ không thể rời mắt khỏi trang truyện. Cùng tìm hiểu điều đó trong [Conan chương 1138](/article/tham-tu-lung-danh-conan-chuong-1138) dưới đây._
 
 ## Case Closed (Thám tử lừng danh Conan) Chương 1138
 

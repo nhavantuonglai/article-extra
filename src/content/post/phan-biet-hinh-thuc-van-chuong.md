@@ -33,7 +33,7 @@ Có nhiều thể loại phụ của văn bản hư cấu, bao gồm lãng mạn
 
 ### Phi hư cấu
 
-[Viết lách phi hư cấu](https://nhavantuonglai.com/article) dựa trên các sự kiện, con người và sự kiện có thật. Kiểu viết này có thể có nhiều hình thức, chẳng hạn như tiểu sử, hồi ký, tiểu luận và tin bài.
+[Viết lách phi hư cấu](/article) dựa trên các sự kiện, con người và sự kiện có thật. Kiểu viết này có thể có nhiều hình thức, chẳng hạn như tiểu sử, hồi ký, tiểu luận và tin bài.
 
 Viết phi hư cấu đòi hỏi nghiên cứu sâu rộng và kiểm tra thực tế để đảm bảo tính chính xác và độ tin cậy. Nó cũng thường liên quan đến kinh nghiệm và quan điểm cá nhân của người viết, làm cho nó trở thành một công cụ mạnh mẽ để chia sẻ kiến thức và hiểu biết sâu sắc với độc giả.
 
@@ -67,13 +67,13 @@ Viết kỹ thuật đòi hỏi kỹ năng nghiên cứu và tổ chức mạnh 
 
 ## Tài liệu kinh doanh
 
-[Viết kinh doanh](https://nhavantuonglai.com/article) là một loại văn bản được sử dụng trong môi trường chuyên nghiệp để truyền đạt thông tin, ý tưởng và đề xuất. Nó có thể có nhiều hình thức, chẳng hạn như email, báo cáo, thuyết trình và tài liệu tiếp thị.
+[Viết kinh doanh](/article) là một loại văn bản được sử dụng trong môi trường chuyên nghiệp để truyền đạt thông tin, ý tưởng và đề xuất. Nó có thể có nhiều hình thức, chẳng hạn như email, báo cáo, thuyết trình và tài liệu tiếp thị.
 
 Viết kinh doanh hiệu quả là điều cần thiết để giao tiếp rõ ràng và hiệu quả tại nơi làm việc. Nó đòi hỏi sự hiểu biết sâu sắc về đối tượng mục tiêu, cũng như khả năng truyền đạt thông tin một cách ngắn gọn và thuyết phục.
 
 ## Ấn phẩm học thuật
 
-[Viết luận văn](https://nhavantuonglai.com/article) là một loại văn bản được sử dụng trong môi trường giáo dục, chẳng hạn như bài tiểu luận, tài liệu nghiên cứu và luận văn. Nó đòi hỏi nghiên cứu sâu rộng, tư duy phê phán và khả năng trình bày các lập luận và bằng chứng một cách có cấu trúc và logic.
+[Viết luận văn](/article) là một loại văn bản được sử dụng trong môi trường giáo dục, chẳng hạn như bài tiểu luận, tài liệu nghiên cứu và luận văn. Nó đòi hỏi nghiên cứu sâu rộng, tư duy phê phán và khả năng trình bày các lập luận và bằng chứng một cách có cấu trúc và logic.
 
 Viết học thuật là một kỹ năng quan trọng để học sinh phát triển, vì nó không chỉ giúp họ truyền đạt ý tưởng của mình một cách hiệu quả mà còn dạy họ cách suy nghĩ chín chắn và phân tích thông tin.
 
@@ -117,7 +117,7 @@ Một cuốn tự truyện tương tự như viết phi hư cấu, vì nó dựa
 
 ## Kết luận
 
-[Kỹ năng viết](https://nhavantuonglai.com/article) là một công cụ mạnh mẽ cho phép chúng ta thể hiện bản thân và kết nối với người khác. Bằng cách hiểu các loại văn bản khác nhau và cách sử dụng chúng một cách hiệu quả, chúng ta có thể trở thành những nhà văn linh hoạt và có tác động hơn.
+[Kỹ năng viết](/article) là một công cụ mạnh mẽ cho phép chúng ta thể hiện bản thân và kết nối với người khác. Bằng cách hiểu các loại văn bản khác nhau và cách sử dụng chúng một cách hiệu quả, chúng ta có thể trở thành những nhà văn linh hoạt và có tác động hơn.
 
 Cho dù bạn đang viết một cuốn tiểu thuyết, một bài báo hay một đề xuất kinh doanh, hãy nhớ sử dụng sức mạnh của từ ngữ một cách khôn ngoan và chọn đúng loại câu để tạo ra những tác phẩm hấp dẫn và có tác động. Chúc bạn viết vui vẻ.
 

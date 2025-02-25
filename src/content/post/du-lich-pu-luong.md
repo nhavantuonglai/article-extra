@@ -33,7 +33,7 @@ Bên cạnh đó, du khách thích nghỉ dưỡng sang chảnh cũng có nhiề
 
 Nằm trên cung đường từ Mai Châu tới Pù Luông, Son Bá Mười là 3 bản vùng cao thuộc xã Lũng Cao, huyện Bá Thước, có khí hậu ôn hòa, nhiệt độ 18 – 22 độ C. Nơi đây khá biệt lập với bên ngoài nên đến nay còn lưu giữ nhiều tập tục của người Thái cổ, nhà sàn truyền thống mang nhiều nét đặc thù của dân địa phương. Vượt qua những con dốc cao và khúc khuỷu, du khách dừng chân ở Son Bá Mười sẽ được tận hưởng nhịp sống thanh bình giữa khung cảnh thiên nhiên hùng vĩ.
 
-Đi sâu hơn vào vùng lõi khu bảo tồn Pù Luông, bản Hiêu nổi tiếng với thác Hiêu có dòng nước trong và mạnh, chảy thành nhiều tầng lớp thu hút du khách tới tắm mát. Dưới chân thác là những _bể tắm_ tự nhiên, nước trong suốt, mát lạnh [mùa hè](https://nhavantuonglai.com/article) và ấm mùa đông. Ngoài tắm thác, bạn cũng hãy ghé thăm đồi cọ, ruộng bậc thang, rừng nguyên sinh.
+Đi sâu hơn vào vùng lõi khu bảo tồn Pù Luông, bản Hiêu nổi tiếng với thác Hiêu có dòng nước trong và mạnh, chảy thành nhiều tầng lớp thu hút du khách tới tắm mát. Dưới chân thác là những _bể tắm_ tự nhiên, nước trong suốt, mát lạnh [mùa hè](/article) và ấm mùa đông. Ngoài tắm thác, bạn cũng hãy ghé thăm đồi cọ, ruộng bậc thang, rừng nguyên sinh.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/du-lich-pu-luong-516.jpg" alt="cam-nang-du-lich-pu-luong" height=100% width=100%><figcaption><p>cam-nang-du-lich-pu-luong-nhavantuonglai</p></figcaption></figure>
 
@@ -43,7 +43,7 @@ Ngoài ra, du khách đừng quên trải nghiệm đi bộ đường dài qua n
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/du-lich-pu-luong-517.jpg" alt="cam-nang-du-lich-pu-luong" height=100% width=100%><figcaption><p>cam-nang-du-lich-pu-luong-nhavantuonglai</p></figcaption></figure>
 
-Đỉnh Pù Luông cao khoảng 1.700 m, là một trong những đỉnh núi dân trekking yêu thích chinh phục vì đường lên núi khá dốc với nhiều đoạn hiểm trở, quanh co. Mất khoảng 6 tiếng trong điều kiện thời tiết tốt để leo tới [đỉnh Pù Luông](https://nhavantuonglai.com/article). Đứng trên đỉnh Pù Luông, bạn có thể chiêm ngưỡng trọn vẹn phong cảnh nên thơ của núi rừng, cánh đồng, thung lũng ở dưới chân núi.
+Đỉnh Pù Luông cao khoảng 1.700 m, là một trong những đỉnh núi dân trekking yêu thích chinh phục vì đường lên núi khá dốc với nhiều đoạn hiểm trở, quanh co. Mất khoảng 6 tiếng trong điều kiện thời tiết tốt để leo tới [đỉnh Pù Luông](/article). Đứng trên đỉnh Pù Luông, bạn có thể chiêm ngưỡng trọn vẹn phong cảnh nên thơ của núi rừng, cánh đồng, thung lũng ở dưới chân núi.
 
 Du khách có thể dựng trại trên đỉnh để ăn uống nghỉ ngơi qua đêm hoặc mang theo đồ ăn trưa, giữa chiều trở về nghỉ tối ở bản Đôn. Khi leo núi nên mặc quần áo dài, mũ, giày leo núi, thuốc chống muỗi, vắt, nước uống, đồ ăn chống đói… Nếu chưa có nhiều kinh nghiệm leo núi, các khu nghỉ cũng cung cấp tour riêng đi trong ngày hoặc 2 ngày 1 đêm.
 

@@ -49,7 +49,7 @@ Trong khu vực huyện Phú Lộc có rất nhiều điểm đến để du kh�
 
 Vườn quốc gia Bạch Mã
 
-[Vườn quốc gia Bạch Mã](https://nhavantuonglai.com/article) cách trung tâm thị trấn Lăng Cô khoảng 30 km. Địa hình ở vườn quốc gia là đồi núi và sườn dốc. Đỉnh Bạch Mã cao 1.450 m, là địa điểm lý tưởng cho nhiều du khách thích trekking. Nếu có thời gian, bạn có thể trekking toàn bộ cung trong 2-3 ngày, hoặc vừa kết hợp trekking và đi xe ôtô lên đỉnh trong khoảng 6-7 tiếng.
+[Vườn quốc gia Bạch Mã](/article) cách trung tâm thị trấn Lăng Cô khoảng 30 km. Địa hình ở vườn quốc gia là đồi núi và sườn dốc. Đỉnh Bạch Mã cao 1.450 m, là địa điểm lý tưởng cho nhiều du khách thích trekking. Nếu có thời gian, bạn có thể trekking toàn bộ cung trong 2-3 ngày, hoặc vừa kết hợp trekking và đi xe ôtô lên đỉnh trong khoảng 6-7 tiếng.
 
 Hải Vọng Đài trên đỉnh, thác Đỗ Quyên, Ngũ Hồ với năm hồ nước đẹp nhất rừng Bạch Mã, những con suối trong và mát… là những địa điểm không thể bỏ qua trên hành trình trekking. Bạn có thể nghỉ đêm ở bên ngoài cửa vườn, trong một villa cổ kiểu Pháp trên đường lên đỉnh hay cắm trại trong khu vực vườn quốc gia.
 

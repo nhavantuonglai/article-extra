@@ -87,7 +87,7 @@ Hãy đảm bảo rằng trải nghiệm để lại đánh giá của khách h�
 
 ### Tự động hóa quy trình thu thập
 
-Thao tác thủ công khiến bạn tốn nhiều thời gian hơn, là hiệu quả không được đảm bảo bằng. Hãy sử dụng [phần mềm quản lý tiệm Spa](https://nhavantuonglai.com/article) để quản lý lịch đặt chỗ online. Trong quy trình vận hành của phần mềm, ngay sau 3 ngày theo lịch hẹn, nếu khách hàng chưa đánh giá thì phần mềm sẽ gửi tin nhắn mời đánh giá. Điều này giúp bạn có nhiều đánh giá hơn, và cũng tiết kiệm thời gian khi vận hành hơn.
+Thao tác thủ công khiến bạn tốn nhiều thời gian hơn, là hiệu quả không được đảm bảo bằng. Hãy sử dụng [phần mềm quản lý tiệm Spa](/article) để quản lý lịch đặt chỗ online. Trong quy trình vận hành của phần mềm, ngay sau 3 ngày theo lịch hẹn, nếu khách hàng chưa đánh giá thì phần mềm sẽ gửi tin nhắn mời đánh giá. Điều này giúp bạn có nhiều đánh giá hơn, và cũng tiết kiệm thời gian khi vận hành hơn.
 
 ### Tặng kèm mã khuyến mãi
 
@@ -107,7 +107,7 @@ Hãy cùng tham khảo các cách để bài đánh giá phát huy hiệu quả,
 
 Tiệm Spa của bạn có bao nhiêu kênh mạng xã hội, nội dung thường ngày sẽ là gì? Kiểu tóc và móc tay mới, hoạt động tại tiệm? Hãy cập nhật thêm những phản hồi, đánh giá của khách hàng khi sử dụng dịch vụ tại tiệm. Đó là người thật việc thật để chứng minh khả năng đáp ứng của tiệm với từng nhu cầu của khách hàng.
 
-Thông qua [phần mềm quản lý tiệm Spa](https://nhavantuonglai.com/article), bạn có thể quản lý toàn bộ các đánh giá, phân loại và xuất bản chúng trên mạng xã hội. Với một số phần mềm, cũng sẽ cung cấp thêm các biểu mẫu đồ họa để minh họa cho bài viết, giúp nội dung thêm trực quan và hấp dẫn. Đó là lý do tại sao nhiều tiệm đang [sử dụng phần mềm quản lý Spa để vận hành được tốt hơn](https://nhavantuonglai.com/article).
+Thông qua [phần mềm quản lý tiệm Spa](/article), bạn có thể quản lý toàn bộ các đánh giá, phân loại và xuất bản chúng trên mạng xã hội. Với một số phần mềm, cũng sẽ cung cấp thêm các biểu mẫu đồ họa để minh họa cho bài viết, giúp nội dung thêm trực quan và hấp dẫn. Đó là lý do tại sao nhiều tiệm đang [sử dụng phần mềm quản lý Spa để vận hành được tốt hơn](/article).
 
 ### Kết hợp đánh giá vào quảng cáo hiện có
 

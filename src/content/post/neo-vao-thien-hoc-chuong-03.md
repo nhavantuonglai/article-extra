@@ -185,17 +185,17 @@ Long Đàm chắc cũng đã nhận thấy, sau câu nói này của Đạo Tín
 
 Sau mỗi lần nhảy trượt qua như vậy, người hành giả lại cần phải chuyên tâm hơn, đốt sáng ngọn đèn giới định của mình hơn, để cho ý thức cảnh giác được linh mẫn hơn. Như thế mới mong không còn bước trượt những lầm kế tiếp. Mỗi khi một con sào đưa ra, một là ta nắm được, hai là ta không nắm được. Không thể có một giây phút chần chờ, ngập ngừng. Chần chờ và ngập ngừng là dấu hiệu của sự chưa chín, chưa thành. Lúc đó ta không nên tiếc nuối, ngẩn ngơ. Hãy trở lại đời sống thường nhật với nhiều chăm lo và ý thức hơn. Hồi Trí Bảo thiền sư (thiền sư Việt Nam, phái Vô Ngôn Thông) còn chưa giác ngộ, có một hôm bị một vị tăng hỏi: _Sinh từ đâu tới, chết đi về đâu?_ – Trí Bảo còn đang vận dụng sự suy nghĩ để trả lời thì vị tăng kia cười nói: _Thời gian suy nghĩ, mây bay ngàn dặm._ Tâm tư chưa chín, những cố gắng kia chẳng có nghĩa lý gì.
 
-Đọc [Nẻo vào thiền học, chương 01](https://nhavantuonglai.com/article/neo-vao-thien-hoc-chuong-01) tại đây.
+Đọc [Nẻo vào thiền học, chương 01](/article/neo-vao-thien-hoc-chuong-01) tại đây.
 
-Đọc [Nẻo vào thiền học, chương 02](https://nhavantuonglai.com/article/neo-vao-thien-hoc-chuong-02) tại đây.
+Đọc [Nẻo vào thiền học, chương 02](/article/neo-vao-thien-hoc-chuong-02) tại đây.
 
-Đọc [Nẻo vào thiền học, chương 03](https://nhavantuonglai.com/article/neo-vao-thien-hoc-chuong-03) tại đây.
+Đọc [Nẻo vào thiền học, chương 03](/article/neo-vao-thien-hoc-chuong-03) tại đây.
 
-Đọc [Nẻo vào thiền học, chương 04](https://nhavantuonglai.com/article/neo-vao-thien-hoc-chuong-04) tại đây.
+Đọc [Nẻo vào thiền học, chương 04](/article/neo-vao-thien-hoc-chuong-04) tại đây.
 
-Đọc [Nẻo vào thiền học, chương 05](https://nhavantuonglai.com/article/neo-vao-thien-hoc-chuong-05) tại đây.
+Đọc [Nẻo vào thiền học, chương 05](/article/neo-vao-thien-hoc-chuong-05) tại đây.
 
-Đọc [Nẻo vào thiền học, chương 06](https://nhavantuonglai.com/article/neo-vao-thien-hoc-chuong-06) tại đây.
+Đọc [Nẻo vào thiền học, chương 06](/article/neo-vao-thien-hoc-chuong-06) tại đây.
 
 Đọc [Nẻo vào thiền học, toàn tập](https://banmaixanh.vercel.app/ebook/neo-vao-thien-hoc.pdf) tại đây.
 

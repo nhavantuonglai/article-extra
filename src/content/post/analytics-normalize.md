@@ -40,7 +40,7 @@ Xuất phát nhu cầu quản lý dữ liệu thô và cần công cụ hỗ tr�
 
 ## nhavantuonglai ra mắt công cụ chuẩn hóa dữ liệu thô
 
-Mới đây, nhavantuonglai đã chính thức ra mắt [công cụ chuẩn hóa dữ liệu thô](https://nhavantuonglai.com/analytics/normalize) ngay trên website, giúp người dùng có thể nhanh chóng chuẩn hóa sử dụng dữ liệu cho các mục đích khác nhau của bản thân.
+Mới đây, nhavantuonglai đã chính thức ra mắt [công cụ chuẩn hóa dữ liệu thô](/analytics/normalize) ngay trên website, giúp người dùng có thể nhanh chóng chuẩn hóa sử dụng dữ liệu cho các mục đích khác nhau của bản thân.
 
 Để sử dụng, chỉ cần nhập văn bản thô cần chuyển đổi, sau đó bấm _Chuyển đổi_ thì ngay lập tức công cụ sẽ trả về kết quả là dữ liệu được chuẩn hóa.
 

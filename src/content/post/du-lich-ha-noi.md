@@ -13,7 +13,7 @@ _Những công trình từ thời Pháp thuộc, hàng quán vỉa hè bày bán
 
 ## Hà Nội mùa nào đẹp
 
-Thời gian lý tưởng nhất để du lịch Hà Nội là vào mùa thu từ tháng 8 đến tháng 11 và mùa xuân từ tháng 3 đến tháng 4. Không ít người cho rằng [mùa thu](https://nhavantuonglai.com/article) là lúc tiết trời đẹp nhất trong năm ở Hà Nội, với bầu trời xanh trong, gió heo may se se lạnh, lá vàng rơi, mùi hoa sữa thoảng… Mùa xuân về tiết trời ấm áp, đường phố như thay áo mới khi cây cối đâm chồi nảy lộc, [muôn hoa đua nở](https://nhavantuonglai.com/article)…
+Thời gian lý tưởng nhất để du lịch Hà Nội là vào mùa thu từ tháng 8 đến tháng 11 và mùa xuân từ tháng 3 đến tháng 4. Không ít người cho rằng [mùa thu](/article) là lúc tiết trời đẹp nhất trong năm ở Hà Nội, với bầu trời xanh trong, gió heo may se se lạnh, lá vàng rơi, mùi hoa sữa thoảng… Mùa xuân về tiết trời ấm áp, đường phố như thay áo mới khi cây cối đâm chồi nảy lộc, [muôn hoa đua nở](/article)…
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/du-lich-ha-noi-290.jpg" alt="cam-nang-du-lich-ha-noi" height=100% width=100%><figcaption><p>cam-nang-du-lich-ha-noi-nhavantuonglai</p></figcaption></figure>
 
@@ -21,13 +21,13 @@ Thời gian lý tưởng nhất để du lịch Hà Nội là vào mùa thu từ
 
 Hà Nội được ví như trái tim của Việt Nam, do đó du khách có thể di chuyển thuận lợi đến thủ đô bằng máy bay, tàu hỏa, xe khách, ôtô riêng hay xe máy từ các tỉnh thành khác.
 
-Để di chuyển trong thành phố, bạn có thể đi ôtô, xe máy hay xe đạp. Nhưng trải nghiệm sẽ thi vị hơn nếu bạn ngồi xích lô ngắm 36 phố phường, đi tour [môtô ba bánh](https://nhavantuonglai.com/article) hay [vespa cổ](https://nhavantuonglai.com/article). Một gợi ý đáng cân nhắc khác là xe buýt hai tầng, giá vé từ 130.000 – 599.000 đồng.
+Để di chuyển trong thành phố, bạn có thể đi ôtô, xe máy hay xe đạp. Nhưng trải nghiệm sẽ thi vị hơn nếu bạn ngồi xích lô ngắm 36 phố phường, đi tour [môtô ba bánh](/article) hay [vespa cổ](/article). Một gợi ý đáng cân nhắc khác là xe buýt hai tầng, giá vé từ 130.000 – 599.000 đồng.
 
 ## Lưu trú
 
 Hà Nội có nhiều lựa chọn lưu trú cho du khách như nhà nghỉ bình dân, homestay, khách sạn, resort… phù hợp với túi tiền và sở thích. Nếu đi dạo trong phố cổ, bạn có thể thuê từ giường kiểu _Tây balo_ với những phòng dorm tập thể khoảng 100.000 đồng một đêm, cho đến khách sạn cao cấp giá 3.000.000 – 5.000.000 đồng một đêm.
 
-Một số khách sạn đặc biệt phải kể đến như [Sofitel Legend Metropole Hà Nội](https://nhavantuonglai.com/article) mang nét kiến trúc thời thuộc địa Pháp, chỉ cách Nhà hát Lớn vài bước chân là [Hilton Hanoi Opera](https://nhavantuonglai.com/article), Apricot Hotel ngay bên bờ hồ Hoàn Kiếm, khách sạn nổi tiếng với view ngắm hồ Tây là [Sheraton Hà Nội](https://nhavantuonglai.com/article) và [InterContinental Hanoi Westlake](https://nhavantuonglai.com/article), Lotte Hotel Hanoi trên tầng cao của tòa Lotte Center 65 tầng…
+Một số khách sạn đặc biệt phải kể đến như [Sofitel Legend Metropole Hà Nội](/article) mang nét kiến trúc thời thuộc địa Pháp, chỉ cách Nhà hát Lớn vài bước chân là [Hilton Hanoi Opera](/article), Apricot Hotel ngay bên bờ hồ Hoàn Kiếm, khách sạn nổi tiếng với view ngắm hồ Tây là [Sheraton Hà Nội](/article) và [InterContinental Hanoi Westlake](/article), Lotte Hotel Hanoi trên tầng cao của tòa Lotte Center 65 tầng…
 
 ## Khám phá
 
@@ -35,7 +35,7 @@ Một số khách sạn đặc biệt phải kể đến như [Sofitel Legend Me
 
 Hoàng thành Thăng Long
 
-Hoàng thành Thăng Long là di sản văn hóa thế giới nằm giữa lòng Hà Nội và đã có bề dày lịch sử hơn 1300 năm. Nơi đây chứa đựng những di tích, di vật độc đáo, minh chứng cho [lịch sử](https://nhavantuonglai.com/article) của Thăng Long – Hà Nội và lịch sử dân tộc Việt Nam trải qua nhiều thời đại. Địa chỉ: 19C Hoàng Diệu, Điện Bàn, Ba Đình.
+Hoàng thành Thăng Long là di sản văn hóa thế giới nằm giữa lòng Hà Nội và đã có bề dày lịch sử hơn 1300 năm. Nơi đây chứa đựng những di tích, di vật độc đáo, minh chứng cho [lịch sử](/article) của Thăng Long – Hà Nội và lịch sử dân tộc Việt Nam trải qua nhiều thời đại. Địa chỉ: 19C Hoàng Diệu, Điện Bàn, Ba Đình.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/du-lich-ha-noi-291.jpg" alt="cam-nang-du-lich-ha-noi" height=100% width=100%><figcaption><p>cam-nang-du-lich-ha-noi-nhavantuonglai</p></figcaption></figure>
 
@@ -53,7 +53,7 @@ Không chỉ đơn thuần bắc qua hai bờ sông Hồng, cầu Long Biên cò
 
 Chùa Trấn Quốc
 
-Nằm trên hòn đảo phía đông Hồ Tây, [chùa Trấn Quốc](https://nhavantuonglai.com/article) từng vào top những ngôi chùa đẹp nhất thế giới. Chùa có lịch sử 1.500 năm, là trung tâm Phật giáo của kinh thành Thăng Long vào thời Lý và Trần. Công trình được công nhận là Di tích lịch sử văn hóa cấp quốc gia năm 1962. Năm 2003, chùa tổ chức khánh thành Bảo tháp Lục độ đài sen cao 15 m, 11 tầng.
+Nằm trên hòn đảo phía đông Hồ Tây, [chùa Trấn Quốc](/article) từng vào top những ngôi chùa đẹp nhất thế giới. Chùa có lịch sử 1.500 năm, là trung tâm Phật giáo của kinh thành Thăng Long vào thời Lý và Trần. Công trình được công nhận là Di tích lịch sử văn hóa cấp quốc gia năm 1962. Năm 2003, chùa tổ chức khánh thành Bảo tháp Lục độ đài sen cao 15 m, 11 tầng.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/du-lich-ha-noi-294.jpg" alt="cam-nang-du-lich-ha-noi" height=100% width=100%><figcaption><p>cam-nang-du-lich-ha-noi-nhavantuonglai</p></figcaption></figure>
 
@@ -91,7 +91,7 @@ Bảo tàng
 
 Điểm đến không thể bỏ qua khi tới bất cứ thành phố nào chính là các bảo tàng, di tích lịch sử. Một trong những nơi được du khách check-in nhiều nhất chính là bảo tàng Dân tộc học. Bảo tàng Dân tộc học hiện lưu giữ và trưng bày 15.000 hiện vật, 42.000 phim tư liệu, tranh ảnh và hàng nghìn tài liệu khác về 54 dân tộc Việt Nam.
 
-Bên cạnh đó, du khách cũng tìm đến [bảo tàng Phụ nữ Việt Nam](https://nhavantuonglai.com/article), bảo tàng Hà Nội, bảo tàng Lịch sử Quốc gia hay [nhà tù Hỏa Lò](https://nhavantuonglai.com/article), di tích Cột cờ Hà Nội… để tìm hiểu văn hóa, lịch sử của thành phố.
+Bên cạnh đó, du khách cũng tìm đến [bảo tàng Phụ nữ Việt Nam](/article), bảo tàng Hà Nội, bảo tàng Lịch sử Quốc gia hay [nhà tù Hỏa Lò](/article), di tích Cột cờ Hà Nội… để tìm hiểu văn hóa, lịch sử của thành phố.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/du-lich-ha-noi-298.jpg" alt="cam-nang-du-lich-ha-noi" height=100% width=100%><figcaption><p>cam-nang-du-lich-ha-noi-nhavantuonglai</p></figcaption></figure>
 
@@ -105,7 +105,7 @@ Múa rối nước: là nghệ thuật sân khấu du khách nên xem khi tới 
 
 Nghe ca trù: Ca trù có nguồn gốc từ thế kỷ 11, phong cách mang nhiều nét giống nghi lễ geisha của Nhật Bản và các màn trình diễn opera. Ban đầu, ca trù được xem là thú vui giải trí cho giới quý tộc trong hoàng cung, sau đó, đi vào không gian văn hóa chung của Hà Nội thời hiện đại. Ca trù có năm không gian trình diễn chính: Ca trù cửa đình (hát ở cửa đình tế thần), ca trù cửa quyền (thưởng thức ca trù của giới quyền chức), ca trù tại gia, ca trù hát thi, ca trù ca quán. Du khách có thể nghe ca trù tại Câu lạc bộ Ca Trù Hà Nội ở 42 hàng Bạc, Ca Trù Thăng Long 146 Từ Hoa.
 
-Show thực cảnh: Tinh hoa Bắc Bộ là vở diễn thực cảnh trên sân khấu ở [chùa Thầy](https://nhavantuonglai.com/article), dưới chân núi Thầy, xã Sài Sơn, huyện Quốc Oai, Hà Nội. Vở diễn diễn ra trên mặt hồ nước rộng 4.300 mét vuông, đưa du khách du hành vào đời sống của nông dân Bắc Bộ qua những màn biểu diễn âm thanh, ánh sáng. Phần lớn diễn viên tham gia thực cảnh là những nông dân của huyện Quốc Oai.
+Show thực cảnh: Tinh hoa Bắc Bộ là vở diễn thực cảnh trên sân khấu ở [chùa Thầy](/article), dưới chân núi Thầy, xã Sài Sơn, huyện Quốc Oai, Hà Nội. Vở diễn diễn ra trên mặt hồ nước rộng 4.300 mét vuông, đưa du khách du hành vào đời sống của nông dân Bắc Bộ qua những màn biểu diễn âm thanh, ánh sáng. Phần lớn diễn viên tham gia thực cảnh là những nông dân của huyện Quốc Oai.
 
 Ngoài vở diễn, du khách còn có thể trải nghiệm trực tiếp văn hóa truyền thống Bắc Bộ ở phía bên ngoài sân khấu với những quán xá bán bánh giò, bánh tẻ, bánh nếp, xôi gói lá sen lá chuối, kẹo lạc, kẹo dồi. Khách du lịch có thể mua và ngồi ăn giữa những chiếc ghế nhỏ giữa vườn trong tiếng nhạc quan họ.
 
@@ -117,7 +117,7 @@ Ngắm toàn cảnh Hà Nội từ trên cao: Đến Hà Nội, bạn không th�
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/du-lich-ha-noi-300.jpg" alt="cam-nang-du-lich-ha-noi" height=100% width=100%><figcaption><p>cam-nang-du-lich-ha-noi-nhavantuonglai</p></figcaption></figure>
 
-Phố đi bộ: Hàng tuần, [phố đi bộ Hồ Gươm](https://nhavantuonglai.com/article) mở từ 18h thứ Sáu đến hết Chủ nhật, thu hút đông đảo cả người dân lẫn du khách nước ngoài. Không gian này có rất nhiều hoạt động vui chơi, giải trí, cho đến biểu diễn nghệ thuật đường phố. Đừng quên trải nghiệm _food tour_ quanh phố đi bộ.
+Phố đi bộ: Hàng tuần, [phố đi bộ Hồ Gươm](/article) mở từ 18h thứ Sáu đến hết Chủ nhật, thu hút đông đảo cả người dân lẫn du khách nước ngoài. Không gian này có rất nhiều hoạt động vui chơi, giải trí, cho đến biểu diễn nghệ thuật đường phố. Đừng quên trải nghiệm _food tour_ quanh phố đi bộ.
 
 Phố bia: Trong phố cổ, đặc biệt là ở Tạ Hiện, Bảo Khánh, Lương Ngọc Quyến, luôn có nhiều chỗ cho bạn uống bia hoặc các loại đồ uống được pha chế hấp dẫn. Đây cũng là một trong những nơi vui chơi về đêm sầm uất bậc nhất ở thủ đô.
 
@@ -143,17 +143,17 @@ Bún: Người Hà Nội có rất nhiều món bún. Đặc sắc nhất là b�
 
 Nói đến đặc sản chính gốc lâu đời ở Hà Nội không thể không nhắc đến _bún thang._ Người Hà thành đã khéo léo chế biến những thực phẩm thừa sau dịp Tết thành một món bún cầu kỳ, tinh tế. Một tô bún thang có giá 30.000 – 50.000 đồng. Hiện nay, ở Hà Nội chỉ còn ít nơi bán bún thang, như quán Bà Đức (Cầu Gỗ), quán Ngọc Tuyền (Đào Tấn), quán Thuận Lý (Hàng Hòm)…
 
-_Bún chả_ – món thường được ăn vào bữa trưa. Giống món bún thịt nướng ở miền Nam và miền Trung, nhưng chả ăn bún của người Hà Nội tẩm ướp cầu kỳ hơn. Ai thích hương vị xưa thì có thể đến quán [bún chả](https://nhavantuonglai.com/article) ở Hàng Mã và Hàng Đồng. Người thích bún chả kẹp tre thì tìm lên chợ Bưởi, chợ Đồng Xuân. Hay ghé sang hàng bún ở Ngọc Khánh, Giảng Võ, Lê Văn Hưu, Hàng Mành cũng đều là những quán nổi tiếng ở Hà Nội.
+_Bún chả_ – món thường được ăn vào bữa trưa. Giống món bún thịt nướng ở miền Nam và miền Trung, nhưng chả ăn bún của người Hà Nội tẩm ướp cầu kỳ hơn. Ai thích hương vị xưa thì có thể đến quán [bún chả](/article) ở Hàng Mã và Hàng Đồng. Người thích bún chả kẹp tre thì tìm lên chợ Bưởi, chợ Đồng Xuân. Hay ghé sang hàng bún ở Ngọc Khánh, Giảng Võ, Lê Văn Hưu, Hàng Mành cũng đều là những quán nổi tiếng ở Hà Nội.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/du-lich-ha-noi-303.jpg" alt="cam-nang-du-lich-ha-noi" height=100% width=100%><figcaption><p>cam-nang-du-lich-ha-noi-nhavantuonglai</p></figcaption></figure>
 
 _Bún mọc_ ở Hà Nội có giá 20.000 – 40.000 đồng. Món bún này thường được bán ở các hàng bún sườn, bún dọc mùng, bún bung… Một số địa chỉ ngon nổi tiếng ở Hà Nội phải kể đến quán chị Loan (đầu phố Điện Biên Phủ), Hàng Lược, Hàng Trống, Cầu Gỗ, ngõ 18 Hàm Long…
 
-Tìm [_bún ốc_](https://nhavantuonglai.com/article) ở Hà Nội không khó, thực khách có thể đến hàng bún ở Hai Bà Trưng, Đặng Dung, Hòe Nhai để ăn bún nóng. Một bát bún ốc có khoảng 6-7 miếng ốc, chan nước dùng riêu cua, topping bắp bò, giò tai, đôi khi cả trứng vịt lộn.
+Tìm [_bún ốc_](/article) ở Hà Nội không khó, thực khách có thể đến hàng bún ở Hai Bà Trưng, Đặng Dung, Hòe Nhai để ăn bún nóng. Một bát bún ốc có khoảng 6-7 miếng ốc, chan nước dùng riêu cua, topping bắp bò, giò tai, đôi khi cả trứng vịt lộn.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/du-lich-ha-noi-304.jpg" alt="cam-nang-du-lich-ha-noi" height=100% width=100%><figcaption><p>cam-nang-du-lich-ha-noi-nhavantuonglai</p></figcaption></figure>
 
-Một phiên bản khác là [bún ốc nguội](https://nhavantuonglai.com/article) hay bún ốc chấm. Một số quán nổi tiếng là quán bún ốc cô Xuân ở Ô Quan Chưởng, hay gánh bún ốc ở đầu ngã tư Bùi Thị Xuân, cũng có thể là gánh bún ốc cô Giang nổi tiếng trên phố Lương Ngọc Quyến. Giá mỗi bát thường từ 30.000 đến 40.000 đồng.
+Một phiên bản khác là [bún ốc nguội](/article) hay bún ốc chấm. Một số quán nổi tiếng là quán bún ốc cô Xuân ở Ô Quan Chưởng, hay gánh bún ốc ở đầu ngã tư Bùi Thị Xuân, cũng có thể là gánh bún ốc cô Giang nổi tiếng trên phố Lương Ngọc Quyến. Giá mỗi bát thường từ 30.000 đến 40.000 đồng.
 
 _Bún bung_ là món ăn bình dân của người Hà Nội. Không ai biết chính xác thời điểm xuất hiện, nhưng vào những năm 1990, món bún này được bán nhiều ở các vỉa hè thủ đô. _Bung_ là từ để gọi các món phải đun lâu với nhiều nước. Bún bung ở Hà Nội có giá từ 30.000 đồng một tô. Món ăn này thường được kết hợp bán ở các hàng bún sườn, bún mọc. Một số địa điểm được thực khách Hà Nội hay tìm đến là các quán ở phố Cầu Gỗ, bà Minh (Đống Đa)…
 
@@ -183,7 +183,7 @@ Ngoài các món ăn nổi tiếng khắp thế giới, Hà Nội còn sở hữ
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/du-lich-ha-noi-309.jpg" alt="cam-nang-du-lich-ha-noi" height=100% width=100%><figcaption><p>cam-nang-du-lich-ha-noi-nhavantuonglai</p></figcaption></figure>
 
-Cà phê là một nét đặc trưng ở Hà Nội, với nhiều quán lâu đời ở phố cổ. [Cà phê trứng](https://nhavantuonglai.com/article) là một trong những đặc sản của Hà Nội làm từ trứng đánh bông lên hòa quyện cùng cà phê Việt. Cà phê trứng có màu hơi vàng đựng trong một tách nhỏ. Thực khách luôn có thêm một chiếc thìa con để thưởng thức bọt kem bên trên giống như _món khai vị_ trước khi uống cà phê bên dưới. Cà phê trứng ngon có tiếng phải kể tới quán Đinh, Giảng, Cà phê Phố Cổ, Loading T, All Day Coffee… Giá mỗi cốc từ 25.000 đồng.
+Cà phê là một nét đặc trưng ở Hà Nội, với nhiều quán lâu đời ở phố cổ. [Cà phê trứng](/article) là một trong những đặc sản của Hà Nội làm từ trứng đánh bông lên hòa quyện cùng cà phê Việt. Cà phê trứng có màu hơi vàng đựng trong một tách nhỏ. Thực khách luôn có thêm một chiếc thìa con để thưởng thức bọt kem bên trên giống như _món khai vị_ trước khi uống cà phê bên dưới. Cà phê trứng ngon có tiếng phải kể tới quán Đinh, Giảng, Cà phê Phố Cổ, Loading T, All Day Coffee… Giá mỗi cốc từ 25.000 đồng.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/du-lich-ha-noi-310.jpg" alt="cam-nang-du-lich-ha-noi" height=100% width=100%><figcaption><p>cam-nang-du-lich-ha-noi-nhavantuonglai</p></figcaption></figure>
 
@@ -195,7 +195,7 @@ Ngoài ô mai, bánh cốm, trà sen, du khách đến Hà Nội có thể tìm 
 
 Cốm: Hương cốm làng Vòng từ lâu cũng làm nên nét quyến rũ rất riêng cho ẩm thực thủ đô. Tuy nhiên do chỉ có vào mùa thu nên bánh cốm Hàng Than là lựa chọn thay thế hoàn hảo với nhiều du khách. Bánh cốm canh dẻo quánh bên ngoài, lớp nhân đậu xanh quyện dừa béo ngậy bên trong, thoang thoảng hương thơm tự nhiên của bưởi.
 
-Trà sen: [Trà sen Tây Hồ](https://nhavantuonglai.com/article) chắc chắn sẽ là món quà quý dành cho người thân và bạn bè sau khi ghé thăm Hà Nội. Bởi ướp trà sen là cả nghệ thuật với rất nhiều thời gian, công sức. Những cánh chè khô sau khi đã được tuyển chọn từ loại ngon nhất, sẽ được ướp 5-7 lần cùng gạo sen (hạt trắng trên đầu nhị sen) cho thấm hương ngấm vị. Sen được ướp phải là loại được trồng trong các đầm ở Hồ Tây như Nhật Tân, Quảng Bá bởi thơm và cho nhiều gạo nhất.
+Trà sen: [Trà sen Tây Hồ](/article) chắc chắn sẽ là món quà quý dành cho người thân và bạn bè sau khi ghé thăm Hà Nội. Bởi ướp trà sen là cả nghệ thuật với rất nhiều thời gian, công sức. Những cánh chè khô sau khi đã được tuyển chọn từ loại ngon nhất, sẽ được ướp 5-7 lần cùng gạo sen (hạt trắng trên đầu nhị sen) cho thấm hương ngấm vị. Sen được ướp phải là loại được trồng trong các đầm ở Hồ Tây như Nhật Tân, Quảng Bá bởi thơm và cho nhiều gạo nhất.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/du-lich-ha-noi-311.jpg" alt="cam-nang-du-lich-ha-noi" height=100% width=100%><figcaption><p>cam-nang-du-lich-ha-noi-nhavantuonglai</p></figcaption></figure>
 

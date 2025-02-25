@@ -255,43 +255,43 @@ Có một người hay nổi giận khi nghe người khác nói những điều
 
 Bốn sự thật hay Tám con đường là sự đúc kết từ kinh nghiệm thực tập, chúng không đến từ một đấng Thượng đế, và cũng không phải do một tự viện đề ra. Bốn sự thật là một sự kiện đạo đức có thể được chấp nhận bởi bất cứ ai. Dù là Phật tử hay không phải là Phật tử thì đó cũng vẫn là sự thật. Dù ta có tin vào Bụt hay không tin vào Bụt thì đó cũng là sự thật. Ngay trong bài thuyết pháp đầu tiên của mình, đức Thích Ca đã đề ra một nền đạo đức, một con đường. Nó rất thiết thực và không có tính siêu hình. Nó đưa chúng ta trở về với thực trạng của chính bản thân để mà hiểu, để mà thấy được con đường giúp ta chuyển hóa. Con đường này không dùng để suy nghĩ mà phải đem ra áp dụng. Mà hễ áp dụng thì sẽ có kết quả.
 
-Đọc [Con đã có đường đi, chương 01](https://nhavantuonglai.com/article/con-da-co-duong-di-chuong-01) tại đây.
+Đọc [Con đã có đường đi, chương 01](/article/con-da-co-duong-di-chuong-01) tại đây.
 
-Đọc [Con đã có đường đi, chương 02](https://nhavantuonglai.com/article/con-da-co-duong-di-chuong-02) tại đây.
+Đọc [Con đã có đường đi, chương 02](/article/con-da-co-duong-di-chuong-02) tại đây.
 
-Đọc [Con đã có đường đi, chương 03](https://nhavantuonglai.com/article/con-da-co-duong-di-chuong-03) tại đây.
+Đọc [Con đã có đường đi, chương 03](/article/con-da-co-duong-di-chuong-03) tại đây.
 
-Đọc [Con đã có đường đi, chương 04](https://nhavantuonglai.com/article/con-da-co-duong-di-chuong-04) tại đây.
+Đọc [Con đã có đường đi, chương 04](/article/con-da-co-duong-di-chuong-04) tại đây.
 
-Đọc [Con đã có đường đi, chương 05](https://nhavantuonglai.com/article/con-da-co-duong-di-chuong-05) tại đây.
+Đọc [Con đã có đường đi, chương 05](/article/con-da-co-duong-di-chuong-05) tại đây.
 
-Đọc [Con đã có đường đi, chương 06](https://nhavantuonglai.com/article/con-da-co-duong-di-chuong-06) tại đây.
+Đọc [Con đã có đường đi, chương 06](/article/con-da-co-duong-di-chuong-06) tại đây.
 
-Đọc [Con đã có đường đi, chương 07](https://nhavantuonglai.com/article/con-da-co-duong-di-chuong-07) tại đây.
+Đọc [Con đã có đường đi, chương 07](/article/con-da-co-duong-di-chuong-07) tại đây.
 
-Đọc [Con đã có đường đi, chương 09](https://nhavantuonglai.com/article/con-da-co-duong-di-chuong-09) tại đây.
+Đọc [Con đã có đường đi, chương 09](/article/con-da-co-duong-di-chuong-09) tại đây.
 
-Đọc [Con đã có đường đi, chương 10](https://nhavantuonglai.com/article/con-da-co-duong-di-chuong-10) tại đây.
+Đọc [Con đã có đường đi, chương 10](/article/con-da-co-duong-di-chuong-10) tại đây.
 
-Đọc [Con đã có đường đi, chương 11](https://nhavantuonglai.com/article/con-da-co-duong-di-chuong-11) tại đây.
+Đọc [Con đã có đường đi, chương 11](/article/con-da-co-duong-di-chuong-11) tại đây.
 
-Đọc [Con đã có đường đi, chương 12](https://nhavantuonglai.com/article/con-da-co-duong-di-chuong-12) tại đây.
+Đọc [Con đã có đường đi, chương 12](/article/con-da-co-duong-di-chuong-12) tại đây.
 
-Đọc [Con đã có đường đi, chương 13](https://nhavantuonglai.com/article/con-da-co-duong-di-chuong-13) tại đây.
+Đọc [Con đã có đường đi, chương 13](/article/con-da-co-duong-di-chuong-13) tại đây.
 
-Đọc [Con đã có đường đi, chương 14](https://nhavantuonglai.com/article/con-da-co-duong-di-chuong-14) tại đây.
+Đọc [Con đã có đường đi, chương 14](/article/con-da-co-duong-di-chuong-14) tại đây.
 
-Đọc [Con đã có đường đi, chương 15](https://nhavantuonglai.com/article/con-da-co-duong-di-chuong-15) tại đây.
+Đọc [Con đã có đường đi, chương 15](/article/con-da-co-duong-di-chuong-15) tại đây.
 
-Đọc [Con đã có đường đi, chương 16](https://nhavantuonglai.com/article/con-da-co-duong-di-chuong-16) tại đây.
+Đọc [Con đã có đường đi, chương 16](/article/con-da-co-duong-di-chuong-16) tại đây.
 
-Đọc [Con đã có đường đi, chương 17](https://nhavantuonglai.com/article/con-da-co-duong-di-chuong-17) tại đây.
+Đọc [Con đã có đường đi, chương 17](/article/con-da-co-duong-di-chuong-17) tại đây.
 
-Đọc [Con đã có đường đi, chương 18](https://nhavantuonglai.com/article/con-da-co-duong-di-chuong-18) tại đây.
+Đọc [Con đã có đường đi, chương 18](/article/con-da-co-duong-di-chuong-18) tại đây.
 
-Đọc [Con đã có đường đi, chương 19](https://nhavantuonglai.com/article/con-da-co-duong-di-chuong-19) tại đây.
+Đọc [Con đã có đường đi, chương 19](/article/con-da-co-duong-di-chuong-19) tại đây.
 
-Đọc [Con đã có đường đi, chương 20](https://nhavantuonglai.com/article/con-da-co-duong-di-chuong-20) tại đây.
+Đọc [Con đã có đường đi, chương 20](/article/con-da-co-duong-di-chuong-20) tại đây.
 
 Đọc [Con đã có đường đi, toàn tập](https://banmaixanh.vercel.app/ebook/con-da-co-duong-di.pdf) tại đây.
 

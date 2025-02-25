@@ -56,7 +56,7 @@ Với các loài thực vật và hoa có tiết diện nhỏ, hoặc khi ép v�
 
 ### Ép tiêu bản lá
 
-Khi ép [tiêu bản thực vật hoa lá](https://nhavantuonglai.com/article/tieu-ban-thuc-vat-hoa-kho#bao-quan-tieu-ban-thuc-vat-hoa-kho), cần chú ý sắp xếp tiêu bản sao cho phản ánh đúng quá trình sinh trưởng và cách mọc tự nhiên của loài.
+Khi ép [tiêu bản thực vật hoa lá](/article/tieu-ban-thuc-vat-hoa-kho#bao-quan-tieu-ban-thuc-vat-hoa-kho), cần chú ý sắp xếp tiêu bản sao cho phản ánh đúng quá trình sinh trưởng và cách mọc tự nhiên của loài.
 
 – Sắp xếp tự nhiên: Đặt lá lên giấy sao cho thể hiện được cách mọc của lá (mọc đối, mọc cách…).
 
@@ -64,7 +64,7 @@ Khi ép [tiêu bản thực vật hoa lá](https://nhavantuonglai.com/article/ti
 
 ### Ép tiêu bản nguyên cây
 
-Với mục đích ép [tiêu bản thực vật](https://nhavantuonglai.com/article/tieu-ban-thuc-vat-hoa-kho#cach-lam-tieu-ban-thuc-vat-hoa-kho) nguyên cây, cần chú ý sắp xếp sao cho phản ánh đúng chiều sinh trưởng của cây.
+Với mục đích ép [tiêu bản thực vật](/article/tieu-ban-thuc-vat-hoa-kho#cach-lam-tieu-ban-thuc-vat-hoa-kho) nguyên cây, cần chú ý sắp xếp sao cho phản ánh đúng chiều sinh trưởng của cây.
 
 – Chiều sinh trưởng: Đặt cây theo chiều mọc từ dưới đất lên, mọc bò ngang hoặc rũ xuống, tùy thuộc vào loài cây.
 
@@ -78,11 +78,11 @@ Với mục đích ép [tiêu bản thực vật](https://nhavantuonglai.com/art
 
 ## Sử dụng trí tưởng tượng trong việc sắp xếp
 
-Việc sắp xếp và định vị [tiêu bản thực vật hoa khô](https://nhavantuonglai.com/article/tieu-ban-thuc-vat-hoa-kho) cũng cần sử dụng trí tưởng tượng để hình dung mẫu tiêu bản khi hoàn thành sẽ trông như thế nào. Dưới đây là một số ví dụ cụ thể:
+Việc sắp xếp và định vị [tiêu bản thực vật hoa khô](/article/tieu-ban-thuc-vat-hoa-kho) cũng cần sử dụng trí tưởng tượng để hình dung mẫu tiêu bản khi hoàn thành sẽ trông như thế nào. Dưới đây là một số ví dụ cụ thể:
 
 ### Hoa hồng và các loài hoa có nhiều cánh
 
-Với các loài hoa như hoa hồng có nhiều cánh, việc ép [tiêu bản thực vật hoa khô](https://nhavantuonglai.com/article/tieu-ban-thuc-vat-hoa-kho#ban-tieu-ban-thuc-vat-kho) theo chiều sinh trưởng (theo chiều dọc) sẽ không đẹp bằng ép theo chiều nở của bông hoa (theo chiều ngang).
+Với các loài hoa như hoa hồng có nhiều cánh, việc ép [tiêu bản thực vật hoa khô](/article/tieu-ban-thuc-vat-hoa-kho#ban-tieu-ban-thuc-vat-kho) theo chiều sinh trưởng (theo chiều dọc) sẽ không đẹp bằng ép theo chiều nở của bông hoa (theo chiều ngang).
 
 – Chiều ngang: Đặt hoa theo chiều ngang để thể hiện rõ các cánh hoa và cấu trúc của bông hoa.
 
@@ -118,7 +118,7 @@ Trong quá trình ép tiêu bản, cần tránh làm dập cánh hoa và lá câ
 
 ## Quy tắc định vị các lớp tiêu bản
 
-Quá trình định vị và bảo quản các mẫu [tiêu bản thực vật hoa khô](https://nhavantuonglai.com/article/tieu-ban-thuc-vat-hoa-kho#tieu-ban-thuc-vat-hoa-kho-tim-hieu) là một công đoạn quan trọng trong việc nghiên cứu và lưu trữ các mẫu vật. Để đảm bảo chất lượng của các mẫu tiêu bản, người thực hiện cần tuân thủ những quy tắc và hướng dẫn cụ thể. Bài viết này sẽ trình bày chi tiết về quy tắc định vị các lớp tiêu bản, từ việc chọn lựa vật liệu cho đến cách xếp chồng các lớp sao cho hợp lý và tiết kiệm không gian.
+Quá trình định vị và bảo quản các mẫu [tiêu bản thực vật hoa khô](/article/tieu-ban-thuc-vat-hoa-kho#tieu-ban-thuc-vat-hoa-kho-tim-hieu) là một công đoạn quan trọng trong việc nghiên cứu và lưu trữ các mẫu vật. Để đảm bảo chất lượng của các mẫu tiêu bản, người thực hiện cần tuân thủ những quy tắc và hướng dẫn cụ thể. Bài viết này sẽ trình bày chi tiết về quy tắc định vị các lớp tiêu bản, từ việc chọn lựa vật liệu cho đến cách xếp chồng các lớp sao cho hợp lý và tiết kiệm không gian.
 
 ### Các lớp tiêu bản cơ bản
 
@@ -148,7 +148,7 @@ Ngoài việc tuân thủ các quy tắc về định vị các lớp tiêu bả
 
 ### Ghi chép và chụp ảnh mẫu tiêu bản
 
-Nếu bạn là sinh viên khoa Dược hoặc đang trong quá trình nghiên cứu, việc ghi chép và chụp ảnh mẫu [tiêu bản thực vật hoa khô](https://nhavantuonglai.com/article/tieu-ban-thuc-vat-hoa-kho) trước, trong và sau quá trình ép là rất quan trọng.
+Nếu bạn là sinh viên khoa Dược hoặc đang trong quá trình nghiên cứu, việc ghi chép và chụp ảnh mẫu [tiêu bản thực vật hoa khô](/article/tieu-ban-thuc-vat-hoa-kho) trước, trong và sau quá trình ép là rất quan trọng.
 
 – Ghi chú chi tiết: Ghi chép cụ thể các thông tin về mẫu vật, bao gồm tên loài, thời điểm thu thập, và quá trình xử lý.
 

@@ -23,7 +23,7 @@ Tìm mua [Tuyển tập sách của Thiền sư Thích Nhất Hạnh](https://sh
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/thich-nhat-hanh-0102.jpg" alt="Tuyển tập sách của Thiền sư Thích Nhất Hạnh." title="Tuyển tập sách của Thiền sư Thích Nhất Hạnh." height=100% width=100%><figcaption><p>Tuyển tập sách của Thiền sư Thích Nhất Hạnh.</p></figcaption></figure>
 
-Đọc [Để có một tương lai, chương 01](https://nhavantuonglai.com/article/de-co-mot-tuong-lai-chuong-01) tại đây.
+Đọc [Để có một tương lai, chương 01](/article/de-co-mot-tuong-lai-chuong-01) tại đây.
 
 Đọc [Để có một tương lai, toàn tập](https://banmaixanh.vercel.app/ebook/de-co-mot-tuong-lai.pdf) tại đây.
 

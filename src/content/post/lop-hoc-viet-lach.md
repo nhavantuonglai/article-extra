@@ -18,7 +18,7 @@ _Trong một thế giới ngày càng phát triển và phụ thuộc vào truy�
 
 ## Tại sao viết lách quan trọng?
 
-[Viết lách](https://nhavantuonglai.com/article) không chỉ đơn thuần là việc sắp xếp từ ngữ để truyền đạt ý tưởng; nó còn là một công cụ mạnh mẽ để giao tiếp, sáng tạo và thể hiện bản thân. Những lý do dưới đây làm nổi bật tầm quan trọng của viết lách:
+[Viết lách](/article) không chỉ đơn thuần là việc sắp xếp từ ngữ để truyền đạt ý tưởng; nó còn là một công cụ mạnh mẽ để giao tiếp, sáng tạo và thể hiện bản thân. Những lý do dưới đây làm nổi bật tầm quan trọng của viết lách:
 
 – Truyền đạt ý tưởng hiệu quả: Một người có kỹ năng viết tốt có thể truyền đạt ý tưởng rõ ràng và thuyết phục, điều này rất quan trọng trong môi trường làm việc và học tập.
 
@@ -48,7 +48,7 @@ Khóa học thường bắt đầu bằng việc giới thiệu những nguyên 
 
 ### Viết lách sáng tạo
 
-[Viết lách sáng tạo](https://nhavantuonglai.com/article) là một phần quan trọng trong lớp học viết lách, giúp học viên khám phá và phát triển khả năng sáng tạo của mình. Nội dung này bao gồm:
+[Viết lách sáng tạo](/article) là một phần quan trọng trong lớp học viết lách, giúp học viên khám phá và phát triển khả năng sáng tạo của mình. Nội dung này bao gồm:
 
 – Viết truyện ngắn và tiểu thuyết: Học cách xây dựng cốt truyện, phát triển nhân vật và sử dụng các kỹ thuật văn học để tạo ra những câu chuyện hấp dẫn.
 
@@ -58,7 +58,7 @@ Khóa học thường bắt đầu bằng việc giới thiệu những nguyên 
 
 ### Viết phi hư cấu
 
-[Viết phi hư cấu](https://nhavantuonglai.com/article) tập trung vào việc viết các văn bản dựa trên sự thật và thông tin thực tế. Nội dung này bao gồm:
+[Viết phi hư cấu](/article) tập trung vào việc viết các văn bản dựa trên sự thật và thông tin thực tế. Nội dung này bao gồm:
 
 – Viết báo cáo và bài nghiên cứu: Học cách thu thập, phân tích và trình bày thông tin một cách logic và có hệ thống.
 
@@ -70,7 +70,7 @@ Khóa học thường bắt đầu bằng việc giới thiệu những nguyên 
 
 ### Viết chuyên nghiệp
 
-[Viết chuyên nghiệp](https://nhavantuonglai.com/article) là kỹ năng quan trọng trong môi trường công việc. Lớp học viết lách sẽ giúp bạn:
+[Viết chuyên nghiệp](/article) là kỹ năng quan trọng trong môi trường công việc. Lớp học viết lách sẽ giúp bạn:
 
 – Viết email và thư từ: Học cách viết email và thư từ một cách chuyên nghiệp, lịch sự và hiệu quả.
 
@@ -126,7 +126,7 @@ Sau khi hoàn thành lớp học viết lách, điều quan trọng là bạn ph
 
 ### Viết blog
 
-[Viết blog](https://nhavantuonglai.com/article) là cách tốt nhất để thực hành kỹ năng viết và chia sẻ ý tưởng của bạn với người khác. Bạn có thể viết về bất kỳ chủ đề nào mà bạn quan tâm, từ sở thích cá nhân, kinh nghiệm cuộc sống, đến các lĩnh vực chuyên môn.
+[Viết blog](/article) là cách tốt nhất để thực hành kỹ năng viết và chia sẻ ý tưởng của bạn với người khác. Bạn có thể viết về bất kỳ chủ đề nào mà bạn quan tâm, từ sở thích cá nhân, kinh nghiệm cuộc sống, đến các lĩnh vực chuyên môn.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-055.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 

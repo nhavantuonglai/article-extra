@@ -15,7 +15,7 @@ tags:
   - property management system
 ---
 
-_Tháng 03 năm ngoái ,_ [_Google ra tính năng Free Booking Links_](https://nhavantuonglai.com/article),_ tính năng liên kết đặt phòng miễn phí. Sự xuất hiện của nó khiến các nền tảng đặt phòng chao đảo. Rõ ràng, chúng ta luôn muốn thứ gì đó miễn phí và gã khổng lồ Google đã đem đến, đó là một điều tuyệt vời._
+_Tháng 03 năm ngoái ,_ [_Google ra tính năng Free Booking Links_](/article),_ tính năng liên kết đặt phòng miễn phí. Sự xuất hiện của nó khiến các nền tảng đặt phòng chao đảo. Rõ ràng, chúng ta luôn muốn thứ gì đó miễn phí và gã khổng lồ Google đã đem đến, đó là một điều tuyệt vời._
 
 Nhưng khoan, điều ấy có nghĩa là gì?
 
@@ -31,7 +31,7 @@ Từ góc nhìn là nhà cung cấp giải pháp quản lý cho các khách sạ
 
 Khi bạn gõ một từ khóa trên công cụ tìm kiếm, thứ tự đầu tiên sẽ là danh sách trả phí, tiếp theo là danh sách tự nhiên. _Tự nhiên_ này chính là _miễn phí,_ chúng xếp hạng một phần dựa trên cách tối ưu các từ khóa mà người dùng tìm kiếm. Điều này cũng tương tự như với các khách sạn, càng nhiều người lựa chọn thì thứ tự xuất hiện của nó càng cao.
 
-Bất kỳ [khách sạn nào liên kết với Google thông qua tính năng Free Booking Link](https://nhavantuonglai.com/article) này, đều có thể được liệt kê trong danh sách miễn phí (hoặc tự nhiên); thứ tự xuất hiện của chúng là thuật toán bí mật, tách biệt và không chịu ảnh hưởng với các khoản phí cho Google.
+Bất kỳ [khách sạn nào liên kết với Google thông qua tính năng Free Booking Link](/article) này, đều có thể được liệt kê trong danh sách miễn phí (hoặc tự nhiên); thứ tự xuất hiện của chúng là thuật toán bí mật, tách biệt và không chịu ảnh hưởng với các khoản phí cho Google.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-068.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
@@ -45,7 +45,7 @@ Khi để các khách sạn xuất hiện miễn phí trong Google Hotel Ads, kh
 
 Với con số 3 tỷ ở đầu bài, Google đang cho đi một phần (nhỏ) để cải thiện sự hiện diện của các khách sạn, và thu hút họ đổ tiền vào quảng cáo. Về bản chất, đó là gói dùng thử không giới hạn thời gian. Đó là một chiến lược không tệ, khi mà Google kiểm soát mức độ xuất hiện của danh sách tự nhiên bằng những thuật toán bí mật, nên rằng 10% kia có thể không phải lúc nào cũng là 10%, đây là một con số linh hoạt.
 
-Ngoài ra, khi hiển thị thì khách sạn còn được chứng thực khi hiển thị bằng logo nhỏ _website chính thức_ đính kèm, điều này tạo ra lợi thế giữa khách sạn và các kênh OTA trong cuộc chiến thu hút hành vi đặt phòng của khách hàng tiềm năng. Bởi họ sẽ cảm thấy _website chính thức_ uy tín, đáng tin cậy hơn để nhấp chuột vào. [Website chính thức của khách sạn](https://nhavantuonglai.com/article) được xếp trên cùng trong danh sách tự nhiên, và dưới cùng danh sách trả phí, giúp 10% lưu lượng kia dễ dàng chuyển thành lượt bán phòng trực tiếp hơn.
+Ngoài ra, khi hiển thị thì khách sạn còn được chứng thực khi hiển thị bằng logo nhỏ _website chính thức_ đính kèm, điều này tạo ra lợi thế giữa khách sạn và các kênh OTA trong cuộc chiến thu hút hành vi đặt phòng của khách hàng tiềm năng. Bởi họ sẽ cảm thấy _website chính thức_ uy tín, đáng tin cậy hơn để nhấp chuột vào. [Website chính thức của khách sạn](/article) được xếp trên cùng trong danh sách tự nhiên, và dưới cùng danh sách trả phí, giúp 10% lưu lượng kia dễ dàng chuyển thành lượt bán phòng trực tiếp hơn.
 
 Nhưng, cũng hãy cẩn thận. Bởi danh sách tự nhiên mà Google cung cấp không chỉ bao gồm website khách sạn của bạn, mà còn cả các kênh OTA. Nếu họ cung cấp mức giá tốt hơn, hấp dẫn người đọc hơn thì chắc chắn họ sẽ không chọn đặt phòng qua kênh OTA. Cho nên, hãy làm mọi thứ thật đặc biệt và hấp dẫn, để thu hút lượng đặt phòng trực tiếp và giảm đặt phòng qua kênh OTA.
 
@@ -55,7 +55,7 @@ Nếu khách sạn chưa đứng trên cùng trong danh sách tự nhiên, bạn
 
 – Giá bán phòng ổn định và luôn tốt nhất.
 
-– Không chấp nhận thẻ ảo kênh OTA hoặc để họ tạo ra [chênh lệch giá phòng](https://nhavantuonglai.com/article).
+– Không chấp nhận thẻ ảo kênh OTA hoặc để họ tạo ra [chênh lệch giá phòng](/article).
 
 – Đảm bảo Google Business của khách sạn là bạn đang quản lý, và là kênh Business duy nhất.
 
@@ -65,7 +65,7 @@ Nếu khách sạn đang quản lý giá phòng đúng cách, đó là một cơ
 
 ## Tại sao Google lại làm điều này?
 
-Google quan tâm đến trải nghiệm người dùng. Bạn sử dụng Google để tìm kiếm bởi đó là công cụ tốt nhất. Bạn [đặt phòng qua Metaseach](https://nhavantuonglai.com/article) của Google bởi đó là nơi tìm kiếm mức giá tốt nhất. Đó là những gì Google muốn, và đã làm được.
+Google quan tâm đến trải nghiệm người dùng. Bạn sử dụng Google để tìm kiếm bởi đó là công cụ tốt nhất. Bạn [đặt phòng qua Metaseach](/article) của Google bởi đó là nơi tìm kiếm mức giá tốt nhất. Đó là những gì Google muốn, và đã làm được.
 
 – Google hiển thị giá dựa trên so sánh các nền tảng bán phòng, nên mức giá tốt nhất phải là mức giá đang tồn tại. Cho nên, để hiển thị tốt hơn thì hãy đảm bảo rằng mức giá trên website của bạn là mức giá tốt nhất.
 

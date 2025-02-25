@@ -379,13 +379,13 @@ Cầu nguyện là một đề tài rất lớn và rất hay. Chúng ta tạm c
 
 Trong giai đoạn Y khoa này, việc chữa trị cho người bệnh tùy thuộc vào sự tu học, sự cầu nguyện, sự thương yêu, sự hành xử hàng ngày của mọi người, kể cả các vị bác sĩ. Bác sĩ phải biết rằng sức khỏe chịu ảnh hưởng rất lớn của Tâm thức Cộng đồng và có liên hệ mật thiết với sự giải phóng của tâm bệnh nhân. Vì vậy ngày nay bác sĩ phải học phương thức cầu nguyện cho bệnh nhân, và phải biết thiền tập trong lúc hành nghề thì mới trở thành một bác sĩ giỏi trong giai đoạn mới này của Y khoa.
 
-Đọc [Hiệu lực cầu nguyện, chương 01](https://nhavantuonglai.com/article/hieu-luc-cau-nguyen-chuong-01) tại đây.
+Đọc [Hiệu lực cầu nguyện, chương 01](/article/hieu-luc-cau-nguyen-chuong-01) tại đây.
 
-Đọc [Hiệu lực cầu nguyện, chương 02](https://nhavantuonglai.com/article/hieu-luc-cau-nguyen-chuong-02) tại đây.
+Đọc [Hiệu lực cầu nguyện, chương 02](/article/hieu-luc-cau-nguyen-chuong-02) tại đây.
 
-Đọc [Hiệu lực cầu nguyện, chương 03](https://nhavantuonglai.com/article/hieu-luc-cau-nguyen-chuong-03) tại đây.
+Đọc [Hiệu lực cầu nguyện, chương 03](/article/hieu-luc-cau-nguyen-chuong-03) tại đây.
 
-Đọc [Hiệu lực cầu nguyện, chương 04](https://nhavantuonglai.com/article/hieu-luc-cau-nguyen-chuong-04) tại đây.
+Đọc [Hiệu lực cầu nguyện, chương 04](/article/hieu-luc-cau-nguyen-chuong-04) tại đây.
 
 Đọc [Hiệu lực cầu nguyện, toàn tập](https://banmaixanh.vercel.app/ebook/hieu-luc-cau-nguyen.pdf) tại đây.
 

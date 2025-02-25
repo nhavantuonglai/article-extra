@@ -136,7 +136,7 @@ Các chủ đề chính trên Helping Writers Become Authors bao gồm:
 
 ## The Write Practice (thewritepractice.com)
 
-The Write Practice là một blog viết lách tập trung vào việc cung cấp các bài tập viết và hướng dẫn để giúp các nhà văn cải thiện kỹ năng viết của mình. Blog này nổi tiếng với các bài tập thực hành và các [Khóa học viết blog](https://nhavantuonglai.com/article) trực tuyến.
+The Write Practice là một blog viết lách tập trung vào việc cung cấp các bài tập viết và hướng dẫn để giúp các nhà văn cải thiện kỹ năng viết của mình. Blog này nổi tiếng với các bài tập thực hành và các [Khóa học viết blog](/article) trực tuyến.
 
 Các chủ đề chính trên The Write Practice bao gồm:
 

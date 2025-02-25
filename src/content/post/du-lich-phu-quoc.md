@@ -51,7 +51,7 @@ Một số khách sạn 5 sao như Saigon Phu Quoc Resort, Eden Resort thường
 
 Không giống như Nha Trang với các bãi biển dễ ghé thăm từ đường lớn, đến Phú Quốc du khách thường phải đi xa để đến bãi biển. Vì vậy nếu muốn yên tĩnh, nghỉ dưỡng thì bạn nên ở resort, villa hoặc các bungalow gần bãi biển.
 
-Bạn có thể chọn [khu nghỉ đẹp theo vị trí](https://nhavantuonglai.com/article), giá phòng dao động từ 1.800.000 đến 7.000.000 đồng một đêm. Ở Bắc đảo có Vinpearl Phú Quốc Resort, Nam Nghi Coral Peninsula Phú Quốc, Fusion Resort Phu Quoc. Phía Đông đảo có Rocks Beach Boutique Phu Quoc, ở xã Hàm Ninh, vừa khai trương vào đầu năm 2022 được ví như _Maldives thu nhỏ._
+Bạn có thể chọn [khu nghỉ đẹp theo vị trí](/article), giá phòng dao động từ 1.800.000 đến 7.000.000 đồng một đêm. Ở Bắc đảo có Vinpearl Phú Quốc Resort, Nam Nghi Coral Peninsula Phú Quốc, Fusion Resort Phu Quoc. Phía Đông đảo có Rocks Beach Boutique Phu Quoc, ở xã Hàm Ninh, vừa khai trương vào đầu năm 2022 được ví như _Maldives thu nhỏ._
 
 Ở giữa khu Bắc đảo và trung tâm là Movenpick Resort Waverly Phu Quoc và Mango Bay Resort trên bãi Ông Lang. Giữa thị trấn Dương Đông có Lahana Resort Phu Quoc, L_Azure Resort & Spa Phu Quoc, Anja Beach Resort, Pullman Phú Quốc hay InterContinental Phu Quoc Long Beach Resort. JW Marriott Phu Quoc Emerald Bay tọa lạc trên bãi Khem hoặc Premier Village Phu Quoc là những điểm lưu trú nổi bật ở Nam đảo.
 
@@ -69,7 +69,7 @@ Vườn quốc gia Phú Quốc có diện tích hơn 31.400 ha, là nơi sinh s�
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/du-lich-phu-quoc-475.jpg" alt="cam-nang-du-lich-phu-quoc" height="100%" width="100%"><figcaption><p>cam-nang-du-lich-phu-quoc-nhavantuonglai</p></figcaption></figure>
 
-Nằm cách thị trấn Dương Đông khoảng 15 km, làng chài Rạch Vẹm hay _vương quốc sao biển_ là một trong những điểm chụp ảnh yêu thích của du khách. Ngoài làn nước biển trong xanh, nơi đây còn ghi điểm bởi có nhiều sao biển. Từ tháng 12 đến tháng 4 là thời điểm biển lặng sóng, nước trong nên dễ nhìn thấy sao biển nhất. Vào mùa mưa, đường tới [Rạch Vẹm](https://nhavantuonglai.com/article) khó đi và nước đục.
+Nằm cách thị trấn Dương Đông khoảng 15 km, làng chài Rạch Vẹm hay _vương quốc sao biển_ là một trong những điểm chụp ảnh yêu thích của du khách. Ngoài làn nước biển trong xanh, nơi đây còn ghi điểm bởi có nhiều sao biển. Từ tháng 12 đến tháng 4 là thời điểm biển lặng sóng, nước trong nên dễ nhìn thấy sao biển nhất. Vào mùa mưa, đường tới [Rạch Vẹm](/article) khó đi và nước đục.
 
 Nhà bè và những cây cầu gỗ hướng ra biển cũng là một trong những điểm nhấn của Rạch Vẹm. Tới đây, du khách còn được thưởng thức nhiều loại hải sản tươi sống, có giá rẻ hơn khu vực trung tâm. Tuy nhiên, do hầu hết các quán nhà bè đều do người dân chế biến nên không trang trí cầu kỳ.
 
@@ -77,7 +77,7 @@ Một trong những điểm tham quan nổi tiếng nhất bắc đảo là Vinp
 
 Tới đây, du khách cùng gia đình, bạn bè tìm hiểu về các loài thú trong môi trường sống tự nhiên của chúng. Gần đó là tổ hợp vui chơi giải trí VinWonders với nhiều trò chơi vui nhộn hoặc mạo hiểm, thủy cung thích hợp cho cả trẻ em và người lớn.
 
-Mũi Gành Dầu là mô đất nhô ra biển, nằm ở phía tây bắc đảo. Do đường đi xa và chưa có nhiều du khách đến tham quan, [mũi Gành Dầu](https://nhavantuonglai.com/article) mang vẻ đẹp hoang sơ với những ghềnh đá nhiều hình thù và bãi biển trong xanh.
+Mũi Gành Dầu là mô đất nhô ra biển, nằm ở phía tây bắc đảo. Do đường đi xa và chưa có nhiều du khách đến tham quan, [mũi Gành Dầu](/article) mang vẻ đẹp hoang sơ với những ghềnh đá nhiều hình thù và bãi biển trong xanh.
 
 Trong hành trình khám phá bắc đảo, du khách có thể ghé thăm các vườn tiêu, mua đặc sản đảo ngọc về làm quà. Các vườn tiêu gợi ý ở Khu Tượng, nơi trồng nhiều tiêu nhất, trên đường đi xã Bãi Thơm. Ngoài ra, trên đường đi Gành Dầu cũng có nhiều vườn tiêu để bạn tham quan, chụp ảnh.
 
@@ -121,7 +121,7 @@ Ngoài ra, du khách có thể đặt tour tham quan đảo để tham quan Hòn
 
 Khách sẽ được đón tại khách sạn trong thị trấn Dương Đông đến cảng An Thới và tham quan bằng cano, lặn ngắm san hô ở hòn Gầm Ghì. Dịch vụ bao gồm gói quay, chụp dưới nước. Tour kèm bữa trưa có giá khoảng 1.000.000 đồng một người. Tuy nhiên, tour 4 đảo thường di chuyển nhiều. Du khách say sóng hoặc sức khỏe không tốt có thể chọn tour 2 hoặc 3 đảo với ít hoạt động hơn.
 
-Nếu muốn phiêu lưu hơn, bạn có thể khám phá Hòn Dăm, nơi được mệnh danh là [đảo Robinson của Phú Quốc](https://nhavantuonglai.com/article). Hòn Dăm không có internet, điện chạy từ năng lượng mặt trời, cả đảo chỉ có vài căn bungalow làm từ tre và gỗ, mặt sau hướng ra biển.
+Nếu muốn phiêu lưu hơn, bạn có thể khám phá Hòn Dăm, nơi được mệnh danh là [đảo Robinson của Phú Quốc](/article). Hòn Dăm không có internet, điện chạy từ năng lượng mặt trời, cả đảo chỉ có vài căn bungalow làm từ tre và gỗ, mặt sau hướng ra biển.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/du-lich-phu-quoc-481.jpg" alt="cam-nang-du-lich-phu-quoc" height="100%" width="100%"><figcaption><p>cam-nang-du-lich-phu-quoc-nhavantuonglai</p></figcaption></figure>
 
@@ -129,7 +129,7 @@ Nếu muốn phiêu lưu hơn, bạn có thể khám phá Hòn Dăm, nơi đư�
 
 Nếu là tín đồ của ấm thực, bạn nên đi Phú Quốc vào khoảng tháng 5 đến tháng 11. Đây là mùa đi biển của dân địa phương nên sẽ có nhiều hải sản tươi sống, giá thành cũng sẽ rẻ hơn.
 
-Gỏi cá trích: Món đầu tiên trong danh sách ẩm thực bạn phải thử ở Phú Quốc là [gỏi cá trích](https://nhavantuonglai.com/article). Món này được bày bán khắp các nhà hàng, quán ăn từ cao cấp đến bình dân. Cá trích được sơ chế, cuốn chung với rau và bánh tráng, chấm với nước mắm hoàn toàn không có mùi tanh.
+Gỏi cá trích: Món đầu tiên trong danh sách ẩm thực bạn phải thử ở Phú Quốc là [gỏi cá trích](/article). Món này được bày bán khắp các nhà hàng, quán ăn từ cao cấp đến bình dân. Cá trích được sơ chế, cuốn chung với rau và bánh tráng, chấm với nước mắm hoàn toàn không có mùi tanh.
 
 Ghẹ Hàm Ninh: Ghẹ ở đây không to nhưng được thực khách đánh giá là ngon, ngọt và tươi. Tuỳ từng thời điểm, giá ghẹ sẽ dao động từ 200.000 đồng đến 500.000 đồng một ký. Bạn nên chọn loại 6 đến 7 con một ký, nếu thích ăn ghẹ trứng thì có thể lựa con cái, ăn thịt thì lựa ghẹ đực. Cách chế biến ngon nhất là ghẹ luộc chấm muối tiêu chanh.
 
@@ -159,7 +159,7 @@ Là vùng biển đảo, Phú Quốc nổi tiếng với các món hải sản t
 
 Một trong những quán hải sản nổi tiếng nhất ở đây là quán Ra Khơi, đường 30/4, thị trấn Dương Đông hay quán Xin Chào, với view ngắm hoàng hôn, tại 66 Trần Hưng Đạo, thị trấn Dương Đông. Giá trung bình từ 400.000 – 600.000 đồng một người. Một số địa chỉ khác là nhà hàng Cơm Bắc 123 trên đường 30/), quán Quốc Anh trên đường Bạch Đằng, bánh canh chả cá Phụng gần Dinh Cậu.
 
-Đến đây, du khách cũng nên thưởng thức Bún quậy Kiến Xây, gần Dinh Cậu. Đây là món bún tươi, ăn kèm mực, chả cá và chả tôm. Điểm nhấn của [bún quậy](https://nhavantuonglai.com/article) Phú Quốc là bát nước chấm _tự phục vụ_ từ bột canh, đường, mì chính, quất (tắc), ớt xay. Mỗi bát có giá từ 35.000 đồng.
+Đến đây, du khách cũng nên thưởng thức Bún quậy Kiến Xây, gần Dinh Cậu. Đây là món bún tươi, ăn kèm mực, chả cá và chả tôm. Điểm nhấn của [bún quậy](/article) Phú Quốc là bát nước chấm _tự phục vụ_ từ bột canh, đường, mì chính, quất (tắc), ớt xay. Mỗi bát có giá từ 35.000 đồng.
 
 Phú Quốc còn nhiều quán ăn ngon được người dân địa phương và du khách giới thiệu là quán dê Hồ Kỳ, đường 30/4; quán Bò tơ 100 Trần Hưng Đạo, quán cơm niêu Nhà Xưa, 68 Lý Thường Kiệt.
 

@@ -61,7 +61,7 @@ Con đường đến bản khá đẹp, bạn sẽ đi qua những đoạn đư�
 
 ### _Lao Chải – Tả Van_
 
-Từ thị trấn bạn đi theo con đường dài 10 km tới Tả Van bằng xe máy, taxi hoặc trekking. Đường vào Lao Chải – [Tả Van](https://nhavantuonglai.com/article) nhỏ hẹp, hai bên phủ một màu xanh mát của ruộng bậc thang lúa và ngô. Tuy không còn hoang sơ, hẻo lánh, Lao Chải – Tả Van vẫn là một bản làng yên bình với nhiều dân tộc cư trú như Mông, Dao, Giáy…
+Từ thị trấn bạn đi theo con đường dài 10 km tới Tả Van bằng xe máy, taxi hoặc trekking. Đường vào Lao Chải – [Tả Van](/article) nhỏ hẹp, hai bên phủ một màu xanh mát của ruộng bậc thang lúa và ngô. Tuy không còn hoang sơ, hẻo lánh, Lao Chải – Tả Van vẫn là một bản làng yên bình với nhiều dân tộc cư trú như Mông, Dao, Giáy…
 
 Ấn tượng nhất ở đây ngoài đời sống dân tộc địa phương còn là những thửa ruộng bậc thang trải rộng khắp các sườn đồi núi. Cuối hè là thời điểm lúa chín nhuộm vàng cả một vùng sơn cước. Vì thế nếu bạn có nhiều thời gian hãy dành một ngày ở đây để trải nghiệm nếp sống bản địa. Vé vào bản 70.000 đồng một người.
 
@@ -87,7 +87,7 @@ Lưu ý, trước khi đi nên chuẩn bị trang phục chụp hình, hoặc b�
 
 ### _Hồ Séo Mý Tỷ_
 
-Để tới được [hồ Séo Mý Tỷ](https://nhavantuonglai.com/article), thuộc xã Tả Van, bạn phải băng qua con đường dài 20 km nhiều sỏi đá lớn nhỏ nên khá thử thách với các tay lái yếu. Hồ được tạo nên do ngăn đập xây dựng thủy điện Séo Mý Tỷ và cũng là hồ nhân tạo cao nhất Việt Nam. Nhìn từ trên cao, hồ như dải lụa bên sườn dãy Hoàng Liên Sơn. Tới đây, bạn có thể xin phép những người đi đánh cá ngồi cùng thuyền, bè để ngắm cảnh hồ và tìm hiểu nghề nuôi cá hồi của người dân nơi đây.
+Để tới được [hồ Séo Mý Tỷ](/article), thuộc xã Tả Van, bạn phải băng qua con đường dài 20 km nhiều sỏi đá lớn nhỏ nên khá thử thách với các tay lái yếu. Hồ được tạo nên do ngăn đập xây dựng thủy điện Séo Mý Tỷ và cũng là hồ nhân tạo cao nhất Việt Nam. Nhìn từ trên cao, hồ như dải lụa bên sườn dãy Hoàng Liên Sơn. Tới đây, bạn có thể xin phép những người đi đánh cá ngồi cùng thuyền, bè để ngắm cảnh hồ và tìm hiểu nghề nuôi cá hồi của người dân nơi đây.
 
 ### _Cổng Trời_
 
@@ -109,7 +109,7 @@ Nằm trên trục đường đèo Ô Quy Hồ, cách đỉnh đèo 3 km, thác 
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/du-lich-sa-pa-608.jpg" alt="cam-nang-du-lich-sa-pa" height=100% width=100%><figcaption><p>cam-nang-du-lich-sa-pa-nhavantuonglai</p></figcaption></figure>
 
-Những quán ăn đặc sản du khách có thể tham khảo là thắng cố A Quỳnh (đường Thạch Sơn), các món lẩu cá ở Hotpot Center (đường Xuân Viên), phở cốn sủi ông Há (468 Điện Biên Phủ). Với những du khách trẻ, yêu thích món ăn và không gian trẻ trung nên đến với Mị nướng (đường Điện Biên Phủ) chuyên về các món nướng than hay Tiệm gà Túk Túk với sườn cay nướng tảng, gà lắc phô mai… và [H_Mong Pizza](https://nhavantuonglai.com/article) ở Pi_s Boutique.
+Những quán ăn đặc sản du khách có thể tham khảo là thắng cố A Quỳnh (đường Thạch Sơn), các món lẩu cá ở Hotpot Center (đường Xuân Viên), phở cốn sủi ông Há (468 Điện Biên Phủ). Với những du khách trẻ, yêu thích món ăn và không gian trẻ trung nên đến với Mị nướng (đường Điện Biên Phủ) chuyên về các món nướng than hay Tiệm gà Túk Túk với sườn cay nướng tảng, gà lắc phô mai… và [H_Mong Pizza](/article) ở Pi_s Boutique.
 
 Ở trung tâm thị xã cũng có rất nhiều quán cà phê để du khách lựa chọn. Tuy nhiên nếu bạn muốn tìm một không gian yên tĩnh, có view thung lũng hoặc núi rừng có thể đến với Coóng Cafe (cùng trong homestay Coóng ở đường đi bản Cát Cát), Vietrekking (đường Hoàng Liên), Gem Valley Cafe (bản Cát Cát).
 

@@ -163,25 +163,25 @@ Chúng ta phải phân biệt chánh niệm và tà niệm. Điều này phụ t
 
 Khi chúng ta có định và niệm thì tâm sở biệt cảnh thứ năm là _tuệ_ phát khởi. Tuệ tâm sở (chánh tuệ, right insight), gọi là _prajna,_ có năng lực giải thoát, mang đến hiểu biết và thương yêu. Ngược lại là tà tuệ (wrong insight) là cái thấy có thể trái ngược với sự thật nhưng chúng ta tin đó là sự thật, thậm chí rất chắc chắn là điều đó đúng. Chúng ta tin người này là kẻ thù, người kia là xấu ác, vì vậy chúng ta muốn thủ tiêu người đó để được an toàn, hạnh phúc. Sự tin chắc đó là tà tuệ. Nhiều người trong chúng ta có tà tuệ, có nhiều tri giác sai lầm mà đó là nền tảng thúc đẩy chúng ta hành động và quyết định sai lầm. Vì vậy chúng ta phải phân biệt giữa tà tuệ và tâm sở tuệ. Khi chúng ta có vài ý niệm và tin chắc vào ý niệm của mình, nếu có ai đó nhắc ta: _Suy nghĩ lại đi,_ điều đó có thể giúp ta có cơ hội suy nghĩ lại. Quá chắc chắn một điều gì có thể rất nguy hiểm, đặc biệt là khi chúng ta đang nắm giữ một địa vị rất quan trọng trong xã hội và quyết định của chúng ta ảnh hưởng đến sinh mạng của nhiều người. Đối với một bác sĩ, chẩn đoán sai lạc có thể giết chết người. Vì vậy chúng ta phải cẩn thận. Các bác sĩ đã kể cho tôi nghe rằng trong trường y khoa, họ được dạy là cho dù đã xác định một cách chắc chắn đi nữa, họ cũng phải kiểm tra lại. Lời khuyên này đúng cho tất cả những ai trong chúng ta muốn thực tập chánh niệm. Đôi khi vì chúng ta quá tin chắc vào tri giác của mình mà giận dữ, sợ hãi, thất vọng, căm thù phát sinh; chúng phát sinh ra từ những tri giác sai lầm ấy. Để an toàn hơn chúng ta có thể viết thư pháp _Có chắc không?_ (Are you sure?) treo trong phòng hoặc sở làm của mình để thực tập. Đó là tiếng chuông chánh niệm. Hãy luôn luôn trở về kiểm tra lại tri giác của mình mà đừng quá tin chắc về nó.
 
-Đọc [Bụt là hình hài, Bụt là tâm thức, chương 01](https://nhavantuonglai.com/article/but-la-hinh-hai-but-la-tam-thuc-chuong-01) tại đây.
+Đọc [Bụt là hình hài, Bụt là tâm thức, chương 01](/article/but-la-hinh-hai-but-la-tam-thuc-chuong-01) tại đây.
 
-Đọc [Bụt là hình hài, Bụt là tâm thức, chương 02](https://nhavantuonglai.com/article/but-la-hinh-hai-but-la-tam-thuc-chuong-02) tại đây.
+Đọc [Bụt là hình hài, Bụt là tâm thức, chương 02](/article/but-la-hinh-hai-but-la-tam-thuc-chuong-02) tại đây.
 
-Đọc [Bụt là hình hài, Bụt là tâm thức, chương 03](https://nhavantuonglai.com/article/but-la-hinh-hai-but-la-tam-thuc-chuong-03) tại đây.
+Đọc [Bụt là hình hài, Bụt là tâm thức, chương 03](/article/but-la-hinh-hai-but-la-tam-thuc-chuong-03) tại đây.
 
-Đọc [Bụt là hình hài, Bụt là tâm thức, chương 04](https://nhavantuonglai.com/article/but-la-hinh-hai-but-la-tam-thuc-chuong-04) tại đây.
+Đọc [Bụt là hình hài, Bụt là tâm thức, chương 04](/article/but-la-hinh-hai-but-la-tam-thuc-chuong-04) tại đây.
 
-Đọc [Bụt là hình hài, Bụt là tâm thức, chương 05](https://nhavantuonglai.com/article/but-la-hinh-hai-but-la-tam-thuc-chuong-05) tại đây.
+Đọc [Bụt là hình hài, Bụt là tâm thức, chương 05](/article/but-la-hinh-hai-but-la-tam-thuc-chuong-05) tại đây.
 
-Đọc [Bụt là hình hài, Bụt là tâm thức, chương 06](https://nhavantuonglai.com/article/but-la-hinh-hai-but-la-tam-thuc-chuong-06) tại đây.
+Đọc [Bụt là hình hài, Bụt là tâm thức, chương 06](/article/but-la-hinh-hai-but-la-tam-thuc-chuong-06) tại đây.
 
-Đọc [Bụt là hình hài, Bụt là tâm thức, chương 07](https://nhavantuonglai.com/article/but-la-hinh-hai-but-la-tam-thuc-chuong-07) tại đây.
+Đọc [Bụt là hình hài, Bụt là tâm thức, chương 07](/article/but-la-hinh-hai-but-la-tam-thuc-chuong-07) tại đây.
 
-Đọc [Bụt là hình hài, Bụt là tâm thức, chương 08](https://nhavantuonglai.com/article/but-la-hinh-hai-but-la-tam-thuc-chuong-08) tại đây.
+Đọc [Bụt là hình hài, Bụt là tâm thức, chương 08](/article/but-la-hinh-hai-but-la-tam-thuc-chuong-08) tại đây.
 
-Đọc [Bụt là hình hài, Bụt là tâm thức, chương 09](https://nhavantuonglai.com/article/but-la-hinh-hai-but-la-tam-thuc-chuong-09) tại đây.
+Đọc [Bụt là hình hài, Bụt là tâm thức, chương 09](/article/but-la-hinh-hai-but-la-tam-thuc-chuong-09) tại đây.
 
-Đọc [Bụt là hình hài, Bụt là tâm thức, chương 10](https://nhavantuonglai.com/article/but-la-hinh-hai-but-la-tam-thuc-chuong-10) tại đây.
+Đọc [Bụt là hình hài, Bụt là tâm thức, chương 10](/article/but-la-hinh-hai-but-la-tam-thuc-chuong-10) tại đây.
 
 Đọc [Bụt là hình hài, Bụt là tâm thức, toàn tập](https://banmaixanh.vercel.app/ebook/but-la-hinh-hai-but-la-tam-thuc.pdf) tại đây.
 

@@ -75,7 +75,7 @@ Nhìn chung, mọi người có xu hướng kiểm tra một lần nữa các th
 
 Những hạn chế hiển thị hoặc thông tin thiếu trên ứng dụng, website duyệt ở mobile khiến 54% khách du lịch và 69% khách doanh nhân không hào hứng đặt phòng trên mobile.
 
-Website khách sạn chưa được cải thiện, [tối ưu hiển thị trên mobile](https://nhavantuonglai.com/article) sẽ giúp đối thủ có được khách hàng của bạn. Cụ thể, 88% người dùng sẽ chuyển sang website khách sạn, ứng dụng khác nếu nơi đó không đáp ứng được nhu cầu, thông tin mà họ cần.
+Website khách sạn chưa được cải thiện, [tối ưu hiển thị trên mobile](/article) sẽ giúp đối thủ có được khách hàng của bạn. Cụ thể, 88% người dùng sẽ chuyển sang website khách sạn, ứng dụng khác nếu nơi đó không đáp ứng được nhu cầu, thông tin mà họ cần.
 
 ## Làm thế nào để có thêm lượt đặt phòng với những hành vi này?
 
@@ -85,7 +85,7 @@ Hãy đảm bảo trải nghiệm khi đặt phòng trên mobile, bằng cách c
 
 ### Loại bỏ các bước thừa trên mobile
 
-Mục tiêu của website là gì? [Tăng lượt đặt phòng](https://nhavantuonglai.com/article) trực tiếp, tăng tương tác và traffic, hay cải thiện dịch vụ? Rõ ràng, quá nhiều bước khách hàng phải thực hiện sẽ khiến họ chán nản và rời trang. Hãy giảm số bước để đạt mục tiêu như bạn mong muốn. Ví dụ, bạn có thể:
+Mục tiêu của website là gì? [Tăng lượt đặt phòng](/article) trực tiếp, tăng tương tác và traffic, hay cải thiện dịch vụ? Rõ ràng, quá nhiều bước khách hàng phải thực hiện sẽ khiến họ chán nản và rời trang. Hãy giảm số bước để đạt mục tiêu như bạn mong muốn. Ví dụ, bạn có thể:
 
 – Xây dựng nút _Book now_ với 1 click chuột.
 
@@ -93,7 +93,7 @@ Mục tiêu của website là gì? [Tăng lượt đặt phòng](https://nhavant
 
 – Cung cấp tùy chọn để kết thúc thanh toán đặt phòng, như gọi vào hotline, để lại tin nhắn…
 
-– Cân nhắc sử dụng [Free Booking Links](https://nhavantuonglai.com/article) để đặt phòng bằng 1 click chuột mà không rời trang tìm kiếm.
+– Cân nhắc sử dụng [Free Booking Links](/article) để đặt phòng bằng 1 click chuột mà không rời trang tìm kiếm.
 
 ### Dự đoán nhu cầu trên mobile
 
@@ -119,7 +119,7 @@ Từ những số liệu thu thập được, Booking đã tạo nên trải ngh
 
 75% người dùng tìm kiếm thông tin mua sắm và khách sạn trên mobile nhưng chọn thiết bị để bàn để thực hiện thanh toán, trong số này cũng một ít gọi cho khách sạn hoặc nhà cung cấp dịch vụ để thực hiện hành động tương tự. 66% người dùng tìm kiếm thông tin, và điện cho khách sạn hoặc nhà cung cấp dịch vụ để đặt chỗ.
 
-Chỉ vài cải thiện nhỏ trên [website khách sạn](https://nhavantuonglai.com/article), website này sẽ đem lại thành công cho khách sạn. Bộ đếm phòng trống (hiện đang còn x phòng) tạo hiệu ứng FOMO (Fear Of Missing Out – Hội chứng sợ bỏ lỡ) sẽ đem lại hiệu quả tốt hơn các cuộc gọi trực tiếp để tạo ra chuyển đổi.
+Chỉ vài cải thiện nhỏ trên [website khách sạn](/article), website này sẽ đem lại thành công cho khách sạn. Bộ đếm phòng trống (hiện đang còn x phòng) tạo hiệu ứng FOMO (Fear Of Missing Out – Hội chứng sợ bỏ lỡ) sẽ đem lại hiệu quả tốt hơn các cuộc gọi trực tiếp để tạo ra chuyển đổi.
 
 Vị trí CTA cũng đóng vai trò quan trọng không kém. Thông qua trang cuối cùng mà người đọc truy cập và click vào CTA, khách sạn sẽ biết nhu cầu, mong muốn của họ là như thế nào, để có thể bán phòng lại cho khách hàng cũ, ưu tiên khách hàng tiềm năng có tỷ lệ chuyển đổi cao – điều tạo nên nhiều giá trị hơn cho mỗi lượt đặt phòng thành công.
 

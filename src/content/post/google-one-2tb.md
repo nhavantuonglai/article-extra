@@ -45,7 +45,7 @@ Mua Google One Thổ Nhĩ Kỳ là cách mua Google One với giá tính theo đ
 
 Cập nhật ngày 13 tháng 12, 2023: Google LLC sẽ tăng giá gói thuê bao _Google One_ theo tỷ lệ trượt giá hiện tại, cụ thể với gói 200GB là từ 11,59 TRY/tháng lên 19,99 TRY/tháng, gói 2TB là từ 289,99 TRY/tháng lên 499,99 TRY/tháng.
 
-Hướng dẫn nhận [30TB Google Drive](https://nhavantuonglai.com/article/google-one-2tb) (Google One), hạn dùng 2090 và các gói dung lượng khác trong bài dưới đây:
+Hướng dẫn nhận [30TB Google Drive](/article/google-one-2tb) (Google One), hạn dùng 2090 và các gói dung lượng khác trong bài dưới đây:
 
 – Đăng ký nhận 2TB Google Drive (Google One) miễn phí, hạn dùng 2032.
 
@@ -57,7 +57,7 @@ Hướng dẫn nhận [30TB Google Drive](https://nhavantuonglai.com/article/goo
 
 – Đăng ký nhận 30TB Google Drive (Google One) miễn phí, hạn dùng 2090.
 
-Ngoài ra, bạn cũng nên tham khảo cách để mua [Google One giá rẻ bằng cách chuyển vùng sang Thổ Nhĩ Kỳ](https://nhavantuonglai.com/article/google-one-tho-nhi-ky) hoặc [Google One giá rẻ bằng cách đăng ký tài khoản OWAP](https://nhavantuonglai.com/article/google-one-199k) để đa dạng hóa cách mua dung lượng Google One giá rẻ nhất.
+Ngoài ra, bạn cũng nên tham khảo cách để mua [Google One giá rẻ bằng cách chuyển vùng sang Thổ Nhĩ Kỳ](/article/google-one-tho-nhi-ky) hoặc [Google One giá rẻ bằng cách đăng ký tài khoản OWAP](/article/google-one-199k) để đa dạng hóa cách mua dung lượng Google One giá rẻ nhất.
 
 ## Hướng dẫn cài đặt VPN để chuyển vùng sang Thổ Nhĩ Kỳ
 
@@ -71,7 +71,7 @@ Bạn cần chọn một dịch vụ VPN uy tín có máy chủ đặt tại Th�
 
 Mở ứng dụng VPN, tìm và chọn máy chủ tại Thổ Nhĩ Kỳ từ danh sách máy chủ có sẵn. Nhấp vào _Kết nối_ và chờ cho đến khi quá trình kết nối hoàn tất. Sau khi kết nối thành công, địa chỉ IP của bạn sẽ được thay đổi thành địa chỉ IP của máy chủ VPN tại Thổ Nhĩ Kỳ.
 
-Để đảm bảo rằng bạn đã kết nối thành công, truy cập một website kiểm tra địa chỉ IP như [Công cụ tra cứu thông tin địa chỉ IP](https://nhavantuonglai.com/analytics/address) để xác nhận rằng địa chỉ IP của bạn hiện tại đang là của Thổ Nhĩ Kỳ.
+Để đảm bảo rằng bạn đã kết nối thành công, truy cập một website kiểm tra địa chỉ IP như [Công cụ tra cứu thông tin địa chỉ IP](/analytics/address) để xác nhận rằng địa chỉ IP của bạn hiện tại đang là của Thổ Nhĩ Kỳ.
 
 ## Hướng dẫn cài đặt proxy để chuyển vùng sang Thổ Nhĩ Kỳ
 
@@ -173,7 +173,7 @@ IP: 89.19.101.41
 
 – Bật VPN, chuyển vùng đến Thổ Nhĩ Kỳ.
 
-– Kiểm tra đã chuyển vùng chưa tại: [Công cụ tra cứu thông tin địa chỉ IP](https://nhavantuonglai.com/analytics/address).
+– Kiểm tra đã chuyển vùng chưa tại: [Công cụ tra cứu thông tin địa chỉ IP](/analytics/address).
 
 ## Bước 3: Tạo phương thức thanh toán mới tại Thổ Nhĩ Kỳ
 

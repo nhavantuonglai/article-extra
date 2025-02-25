@@ -15,7 +15,7 @@ tags:
 
 _Viết là một hành trình, và mỗi nhà văn sẽ có riêng từng quy tắc để thực hiện chúng. Một số nhà văn thích đắm chìm trong cảm hứng và câu chữ, một số khác lại lập kế hoạch bài bản và rõ ràng trước khi bắt đầu viết. Là một nhà văn tương lai, tôi cũng ít nhiều có đam mê với công việc viết lách. Nhưng cảm hứng viết thôi thì chưa đủ, bạn sẽ cần thêm sự sáng tạo và khả năng đột phá ý tưởng._
 
-Chuỗi bài viết [Làm chủ nghệ thuật viết lách](https://nhavantuonglai.com/tags/lam-chu-nghe-thuat-viet-lach) là những hướng dẫn căn bản giúp bạn làm chủ kỹ năng viết lách của bản thân.
+Chuỗi bài viết [Làm chủ nghệ thuật viết lách](/tags/lam-chu-nghe-thuat-viet-lach) là những hướng dẫn căn bản giúp bạn làm chủ kỹ năng viết lách của bản thân.
 
 ## Tại sao viết lách lại quan trọng?
 
@@ -23,7 +23,7 @@ Trước khi bắt đầu, hãy cùng thống nhất cách hiểu, cụ thể l�
 
 Viết lách không chỉ là viết ra những câu chữ trên giấy, chúng là nghệ thuật, đòi hỏi sự điêu luyện trong cách dùng từ, cống hiến để hoàn thiện tác phẩm và luôn đột phá ý tưởng để thử thách bản thân.
 
-[Viết lách](https://nhavantuonglai.com/tags/viet-lach) là công cụ mạnh mẽ, quan trọng để thể hiện bản thân, chia sẻ quan điểm và kết nối thế giới nội tâm với thế giới bên ngoài. Thông qua viết lách, các [nhà văn tương lai](https://nhavantuonglai.com) có thể chia sẻ suy nghĩ, cảm xúc và trải nghiệm bản thân đến người khác. Đôi khi, hiệu quả về tinh thần cũng được ghi nhận, để tạo ra dòng viết lách chữ lành mới nhất.
+[Viết lách](/tags/viet-lach) là công cụ mạnh mẽ, quan trọng để thể hiện bản thân, chia sẻ quan điểm và kết nối thế giới nội tâm với thế giới bên ngoài. Thông qua viết lách, các [nhà văn tương lai](https://nhavantuonglai.com) có thể chia sẻ suy nghĩ, cảm xúc và trải nghiệm bản thân đến người khác. Đôi khi, hiệu quả về tinh thần cũng được ghi nhận, để tạo ra dòng viết lách chữ lành mới nhất.
 
 Sống trong thế giới mà thông tin luôn ngập tràn, mọi người ngại bỏ lỡ nên cố gắng tiêu thụ chúng nhiều nhất có thể; thì việc chậm lại và chú tâm vào từng dòng chữ, đọc hết từng trang trong cuốn sách có vẻ đang dần xa vời. Nhưng cũng nhờ đó mà viết lách chứng tỏ vai trò của chúng, đó là lối đi vào sự tĩnh lặng, chậm rãi và sâu sắc, hiểu mình và hiểu người.
 
@@ -41,7 +41,7 @@ Một trong những thách thức lớn nhất với các nhà văn là tìm c�
 
 – Đọc, đọc, đọc. Đọc sách là một trong những cách tốt nhất để tìm cảm hứng. Khám phá các thể loại, tác giả và văn phong viết khác nhau giúp bạn có thêm kiến thức và khơi dậy trí tưởng tượng.
 
-– Quan sát. [Cảm hứng](https://nhavantuonglai.com/article) có thể được tìm thấy ở những nơi bất ngờ nhất. Hãy chú ý đến môi trường xung quanh, và bạn có thể tìm thấy một câu chuyện đang chờ được kể. Với tôi, rất nhiều bài viết được hình thành dựa trên cảm hứng trò chuyện, chia sẻ từ bạn bè, và đó cũng là điều mà bạn có thể cân nhắc áp dụng.
+– Quan sát. [Cảm hứng](/article) có thể được tìm thấy ở những nơi bất ngờ nhất. Hãy chú ý đến môi trường xung quanh, và bạn có thể tìm thấy một câu chuyện đang chờ được kể. Với tôi, rất nhiều bài viết được hình thành dựa trên cảm hứng trò chuyện, chia sẻ từ bạn bè, và đó cũng là điều mà bạn có thể cân nhắc áp dụng.
 
 – Viết nhật ký. Viết nhật ký vừa giúp bạn duy trì thói quen viết, hình thành và thể hiện suy nghĩ ra thành dòng chữ trên trang giấy, cũng như ghi chép mọi điều đang xảy ra để không bỏ quên chúng.
 
@@ -55,7 +55,7 @@ Sau khi tìm thấy cảm hứng viết lách, đã đến lúc làm chủ ngòi
 
 ### Duy trì thói quen viết lách
 
-Tính nhất quán là chìa khóa thành công của những [nhà văn giỏi](https://nhavantuonglai.com/article). Hãy dành thời gian để viết mỗi ngày, sáng sớm hay tối muộn dựa vào lúc nào bạn có cảm hứng viết tốt nhất. Chúng sẽ là cách để bạn duy trì thói quen viết lách, cũng như nâng cao kỹ năng viết của bản thân.
+Tính nhất quán là chìa khóa thành công của những [nhà văn giỏi](/article). Hãy dành thời gian để viết mỗi ngày, sáng sớm hay tối muộn dựa vào lúc nào bạn có cảm hứng viết tốt nhất. Chúng sẽ là cách để bạn duy trì thói quen viết lách, cũng như nâng cao kỹ năng viết của bản thân.
 
 ### Thử nghiệm nhiều văn phong viết lách khác nhau
 
@@ -63,7 +63,7 @@ Không nên giữ bản thân trong vòng tròn an toàn với văn phong thân 
 
 ### Tham gia group, cộng đồng viết lách
 
-Trở thành một phần của [cộng đồng](https://nhavantuonglai.com/article) chung niềm đam mê sẽ là động lực lớn lao giúp bạn hoàn thiện kỹ năng viết lách của bản thân hơn. Chúng cũng là cơ hội để bạn học hỏi, tiếp thu những kiến thức, kỹ năng viết lách mới và áp dụng cho phù hợp với hành trình viết mà mình đang theo đuổi.
+Trở thành một phần của [cộng đồng](/article) chung niềm đam mê sẽ là động lực lớn lao giúp bạn hoàn thiện kỹ năng viết lách của bản thân hơn. Chúng cũng là cơ hội để bạn học hỏi, tiếp thu những kiến thức, kỹ năng viết lách mới và áp dụng cho phù hợp với hành trình viết mà mình đang theo đuổi.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-089.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 

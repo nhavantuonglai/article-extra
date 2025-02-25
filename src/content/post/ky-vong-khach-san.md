@@ -21,13 +21,13 @@ _Để thành công trong ngành khách sạn, hãy tạo ra những kỳ vọng
 
 Kỳ vọng khách hàng trong khách sạn là những dự đoán về hành vi, trải nghiệm mà họ nhận được khi tương tác với khách sạn của bạn. Kỳ vọng khách hàng thay đổi dựa vào ngưỡng giá phòng, thông tin tiếp thị, dịch vụ và công nghệ của khách sạn, được hình thành dựa trên:
 
-– Khi khách hàng quay trở lại: Nếu một người trước đây từng đặt phòng và giờ quay trở lại, họ sẽ sử dụng kinh nghiệm và [trải nghiệm của lần đặt phòng](https://nhavantuonglai.com/article) ấy để kỳ vọng một trải nghiệm tương tự trong lần đặt phòng này. Đừng khiến họ thất vọng, khi dịch vụ và trải nghiệm đi xuống, nhất là so với lần trước họ đến ở.
+– Khi khách hàng quay trở lại: Nếu một người trước đây từng đặt phòng và giờ quay trở lại, họ sẽ sử dụng kinh nghiệm và [trải nghiệm của lần đặt phòng](/article) ấy để kỳ vọng một trải nghiệm tương tự trong lần đặt phòng này. Đừng khiến họ thất vọng, khi dịch vụ và trải nghiệm đi xuống, nhất là so với lần trước họ đến ở.
 
 – Khi khách hàng là của đối thủ: Kinh nghiệm và trải nghiệm cũng tương tự như trên, nhưng chúng không diễn ra ở khách sạn của bạn mà ở các khách sạn đối thủ cùng phân khúc, hoặc khác địa phương. Chung tầm giá sẽ cùng trải nghiệm, nhiều khách hàng cho là vậy, nên cũng sẽ kỳ vọng như vậy khi đặt phòng tại khách sạn của bạn.
 
-– Đọc ý kiến của người khác: Những review từ kênh bán phòng, [Google Business](https://nhavantuonglai.com/article) của khách hàng cũ sẽ là cơ sở để khách hàng mới tham khảo và đánh giá, hình thành kỳ vọng như những gì người khác đã có.
+– Đọc ý kiến của người khác: Những review từ kênh bán phòng, [Google Business](/article) của khách hàng cũ sẽ là cơ sở để khách hàng mới tham khảo và đánh giá, hình thành kỳ vọng như những gì người khác đã có.
 
-– Thông tin tiếp thị từ khách sạn của bạn: Cách khách sạn của bạn giới thiệu, [quảng bá hình ảnh trên mạng xã hội](https://nhavantuonglai.com/article), kênh bán phòng… sẽ định hình kỳ vọng khách hàng khi họ nghĩ về khách sạn của bạn.
+– Thông tin tiếp thị từ khách sạn của bạn: Cách khách sạn của bạn giới thiệu, [quảng bá hình ảnh trên mạng xã hội](/article), kênh bán phòng… sẽ định hình kỳ vọng khách hàng khi họ nghĩ về khách sạn của bạn.
 
 Một số kỳ vọng mang tính phổ biến, bởi chúng tương đồng giữa mọi khách sạn và phản ánh nhu cầu chung của khách hàng, ví dụ: vị trí địa lý thuận lợi cho di chuyển và vui chơi, tiện nghi phòng vừa đủ và dùng hiệu quả, nệm êm giường rộng, nhân viên thân thiện hay phòng ốc sạch sẽ.
 
@@ -45,7 +45,7 @@ Một số kỳ vọng khác chỉ áp dụng cho những phân khúc riêng bi�
 
 ## Tại sao kỳ vọng khách hàng lại quan trọng như vậy?
 
-Chìa khóa thành công của các khách sạn là [hiểu sự hài lòng của khách hàng](https://nhavantuonglai.com/article) nằm ở đâu, và mối quan hệ giữa kỳ vọng và trải nghiệm của họ là như thế nào. Đáp ứng những kỳ vọng, hoặc đáp ứng hơn thế sẽ tạo ra những trải nghiệm tích cực, khiến khách hàng đánh giá cao và muốn quay trở lại khi có dịp.
+Chìa khóa thành công của các khách sạn là [hiểu sự hài lòng của khách hàng](/article) nằm ở đâu, và mối quan hệ giữa kỳ vọng và trải nghiệm của họ là như thế nào. Đáp ứng những kỳ vọng, hoặc đáp ứng hơn thế sẽ tạo ra những trải nghiệm tích cực, khiến khách hàng đánh giá cao và muốn quay trở lại khi có dịp.
 
 Hiểu những kỳ vọng giúp khách sạn xây dựng và phát triển những thông điệp tiếp thị, tương tác phù hợp, hiệu quả với khách hàng trong suốt quá trình bán phòng. Điều này sẽ sớm tạo ra lợi thế cạnh tranh với đối thủ, khi khách hàng nhận ra khách sạn của bạn tâm lý, hiểu và chiều lòng khách hàng nhiều như thế nào.
 
@@ -91,9 +91,9 @@ Cách để tạo ấn tượng tích cực với khách hàng, là không chỉ
 
 – …
 
-Những [trải nghiệm được cá nhân hóa luôn được đánh giá cao hơn](https://nhavantuonglai.com/article) cả, bởi chúng cho thấy sự quan tâm, chú ý đến bản thân (khách hàng) khi đặt phòng tại khách sạn. Cho nên, hãy luôn đảm bảo những gì khách hàng kỳ vọng luôn được đáp ứng tốt hơn thế.
+Những [trải nghiệm được cá nhân hóa luôn được đánh giá cao hơn](/article) cả, bởi chúng cho thấy sự quan tâm, chú ý đến bản thân (khách hàng) khi đặt phòng tại khách sạn. Cho nên, hãy luôn đảm bảo những gì khách hàng kỳ vọng luôn được đáp ứng tốt hơn thế.
 
-Và cũng đừng quên việc đào tạo nhân viên, xây dựng quy trình làm việc rõ ràng và [ứng dụng công nghệ để tạo ra một trải nghiệm khách hàng tốt hơn](https://nhavantuonglai.com/article). Những thứ đấy sẽ giúp khách sạn triển khai mọi kế hoạch, đáp ứng mọi yêu cầu nhanh chóng và dễ dàng hơn.
+Và cũng đừng quên việc đào tạo nhân viên, xây dựng quy trình làm việc rõ ràng và [ứng dụng công nghệ để tạo ra một trải nghiệm khách hàng tốt hơn](/article). Những thứ đấy sẽ giúp khách sạn triển khai mọi kế hoạch, đáp ứng mọi yêu cầu nhanh chóng và dễ dàng hơn.
 
 Dù khách hàng của bạn là doanh nhân thành đạt cần tìm phòng khách sạn hạng sang, hay cặp vợ chồng son mới cưới đang nghỉ tuần trăng mật ấm cúng, thì họ đều có những nhu cầu tương đồng, giống nhau. Cụ thể chúng sẽ được liệt kê trong phần dưới đây kèm giải pháp để đáp ứng.
 
@@ -119,17 +119,17 @@ Nhu cầu này phản ánh sự tò mò, mong đợi những điều mới mẻ,
 
 ### Tôi muốn được trao quyền, chủ động
 
-Đôi khi, khách hàng muốn được trao quyền, chủ động kiểm soát mọi vấn đề trong phòng khách sạn, như tự động bật điều hòa trong phòng ngay khi vừa đến khách sạn, để có căn phòng mát lạnh khi lên tận nơi; tùy biến, trình chiếu các chương trình TV ưa thích, đã được cá nhân hóa… Cụ thể, [khách sạn có thể sử dụng công nghệ](https://nhavantuonglai.com/article) để tạo ra những điều sau:
+Đôi khi, khách hàng muốn được trao quyền, chủ động kiểm soát mọi vấn đề trong phòng khách sạn, như tự động bật điều hòa trong phòng ngay khi vừa đến khách sạn, để có căn phòng mát lạnh khi lên tận nơi; tùy biến, trình chiếu các chương trình TV ưa thích, đã được cá nhân hóa… Cụ thể, [khách sạn có thể sử dụng công nghệ](/article) để tạo ra những điều sau:
 
 – Chatbot, trợ lý ảo để hướng dẫn khách hàng tùy biến trải nghiệm theo như cách họ mong muốn.
 
-– Sử dụng [phần mềm quản lý khách hàng](https://nhavantuonglai.com/article), [quản lý khách sạn](https://nhavantuonglai.com/article) để hiểu hơn về khách hàng, dựa trên nguồn dữ liệu và phân tích thu thập được.
+– Sử dụng [phần mềm quản lý khách hàng](/article), [quản lý khách sạn](/article) để hiểu hơn về khách hàng, dựa trên nguồn dữ liệu và phân tích thu thập được.
 
 ### Hãy làm tôi vui
 
 Dù đôi khi không mong đợi những điều bất ngờ, nhưng chúng lại rất cần thiết để tạo ra một trải nghiệm vượt mong đợi. Do vậy, hãy luôn duy trì sự độc đáo và mới mẻ, khiến khách hàng luôn phải chú ý và trầm trồ với những trải nghiệm mà họ nhận được
 
-Để đạt được điều ấy, hãy lưu ý về [những điểm chạm đơn giản trong từng khoảnh khắc](https://nhavantuonglai.com/article) mà khách sạn có thể tạo ra, kết nối với khách hàng trong thời gian lưu trú, đặc biệt là khi đang đón tiếp nhóm khách hàng dưới 35 tuổi, bởi đây là nhóm đối tượng ưu tiên trải nghiệm mới mẻ nhiều gấp đôi nhóm trên 35 tuổi.
+Để đạt được điều ấy, hãy lưu ý về [những điểm chạm đơn giản trong từng khoảnh khắc](/article) mà khách sạn có thể tạo ra, kết nối với khách hàng trong thời gian lưu trú, đặc biệt là khi đang đón tiếp nhóm khách hàng dưới 35 tuổi, bởi đây là nhóm đối tượng ưu tiên trải nghiệm mới mẻ nhiều gấp đôi nhóm trên 35 tuổi.
 
 ### Hiểu, biết về tôi
 

@@ -17,7 +17,7 @@ _Viết văn là một kỹ năng quý báu, không chỉ giúp chúng ta biểu
 
 ## Cấu trúc của lớp học viết văn
 
-Lớp học [viết văn](https://nhavantuonglai.com/article) thường được tổ chức theo nhiều cấp độ, từ cơ bản đến nâng cao, nhằm đáp ứng nhu cầu và trình độ của học viên. Mỗi lớp học thường kéo dài từ vài tuần đến vài tháng, với các buổi học lý thuyết và thực hành đan xen nhau.
+Lớp học [viết văn](/article) thường được tổ chức theo nhiều cấp độ, từ cơ bản đến nâng cao, nhằm đáp ứng nhu cầu và trình độ của học viên. Mỗi lớp học thường kéo dài từ vài tuần đến vài tháng, với các buổi học lý thuyết và thực hành đan xen nhau.
 
 – Lớp cơ bản: Dành cho những người mới bắt đầu, tập trung vào các kỹ năng viết cơ bản như cấu trúc câu, ngữ pháp, từ vựng và cách xây dựng ý tưởng.
 
@@ -59,15 +59,15 @@ Phương pháp học tập trong lớp học viết văn thường rất đa d�
 
 Lớp học viết văn mang lại nhiều lợi ích thiết thực cho học viên, không chỉ trong việc viết lách mà còn trong các khía cạnh khác của cuộc sống.
 
-– Phát triển [kỹ năng viết lách](https://nhavantuonglai.com/article): Đây là lợi ích rõ ràng nhất. Học viên sẽ nắm vững các kỹ thuật viết, từ đó viết ra những bài văn mạch lạc, sâu sắc và hấp dẫn.
+– Phát triển [kỹ năng viết lách](/article): Đây là lợi ích rõ ràng nhất. Học viên sẽ nắm vững các kỹ thuật viết, từ đó viết ra những bài văn mạch lạc, sâu sắc và hấp dẫn.
 
-– Cải thiện [tư duy và trí tưởng tượng](https://nhavantuonglai.com/article): Viết văn đòi hỏi sự tư duy logic và trí tưởng tượng phong phú. Thông qua quá trình học tập và thực hành, học viên sẽ phát triển được những kỹ năng này.
+– Cải thiện [tư duy và trí tưởng tượng](/article): Viết văn đòi hỏi sự tư duy logic và trí tưởng tượng phong phú. Thông qua quá trình học tập và thực hành, học viên sẽ phát triển được những kỹ năng này.
 
 – Nâng cao khả năng giao tiếp: Kỹ năng viết tốt giúp học viên diễn đạt ý tưởng một cách rõ ràng và thuyết phục hơn, không chỉ trong văn bản mà còn trong giao tiếp hàng ngày.
 
 – Giảm căng thẳng và tăng cường sáng tạo: Viết văn là một hình thức thể hiện bản thân, giúp giải tỏa căng thẳng và kích thích sự sáng tạo. Nó cũng là một cách để học viên khám phá và hiểu rõ hơn về bản thân.
 
-– Mở rộng [cơ hội việc làm viết lách](https://nhavantuonglai.com/article): Kỹ năng viết tốt là một lợi thế lớn trong nhiều lĩnh vực nghề nghiệp, từ báo chí, truyền thông, marketing đến giáo dục và nghiên cứu. Học viên có thể áp dụng kỹ năng này vào công việc hiện tại hoặc tìm kiếm những cơ hội nghề nghiệp mới.
+– Mở rộng [cơ hội việc làm viết lách](/article): Kỹ năng viết tốt là một lợi thế lớn trong nhiều lĩnh vực nghề nghiệp, từ báo chí, truyền thông, marketing đến giáo dục và nghiên cứu. Học viên có thể áp dụng kỹ năng này vào công việc hiện tại hoặc tìm kiếm những cơ hội nghề nghiệp mới.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-117.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
@@ -77,7 +77,7 @@ Nhiều lớp học viết văn nổi tiếng trên thế giới đã giúp đ�
 
 – Lớp học viết văn của Iowa Writers' Workshop: Đây là một trong những chương trình viết văn nổi tiếng nhất thế giới, với nhiều nhà văn xuất sắc từng là học viên. Chương trình tập trung vào việc viết và nhận phản hồi, giúp học viên phát triển phong cách và kỹ thuật viết riêng.
 
-– [Lớp học viết kịch bản](https://nhavantuonglai.com/article) của University of East Anglia: Đây là một chương trình viết văn danh tiếng tại Anh, với sự hướng dẫn của các nhà văn và nhà thơ nổi tiếng. Chương trình cung cấp một môi trường học tập sáng tạo và thử thách, khuyến khích học viên khám phá và phát triển tài năng của mình.
+– [Lớp học viết kịch bản](/article) của University of East Anglia: Đây là một chương trình viết văn danh tiếng tại Anh, với sự hướng dẫn của các nhà văn và nhà thơ nổi tiếng. Chương trình cung cấp một môi trường học tập sáng tạo và thử thách, khuyến khích học viên khám phá và phát triển tài năng của mình.
 
 – Lớp học viết văn trực tuyến của Coursera: Coursera cung cấp nhiều khóa học viết văn trực tuyến từ các trường đại học hàng đầu như Stanford, University of Melbourne. Các khóa học này giúp học viên từ khắp nơi trên thế giới có cơ hội tiếp cận với các phương pháp giảng dạy hiện đại và nội dung phong phú.
 
@@ -111,6 +111,6 @@ Học viết văn không phải lúc nào cũng dễ dàng, bạn sẽ gặp ph�
 
 ## Kết luận
 
-[Lớp học viết văn](https://nhavantuonglai.com/article) là một môi trường lý tưởng để học viên phát triển kỹ năng viết lách, tư duy sáng tạo và khả năng giao tiếp. Với cấu trúc lớp học rõ ràng, nội dung giảng dạy phong phú, và phương pháp học tập đa dạng, học viên sẽ có cơ hội rèn luyện và hoàn thiện khả năng viết văn của mình. Bên cạnh đó, những lợi ích thiết thực như cải thiện tư duy, giảm căng thẳng, và mở rộng cơ hội nghề nghiệp càng làm cho việc tham gia lớp học viết văn trở nên đáng giá hơn bao giờ hết. Hãy bắt đầu hành trình viết văn của bạn ngay hôm nay và khám phá những tiềm năng sáng tạo vô hạn bên trong bạn.
+[Lớp học viết văn](/article) là một môi trường lý tưởng để học viên phát triển kỹ năng viết lách, tư duy sáng tạo và khả năng giao tiếp. Với cấu trúc lớp học rõ ràng, nội dung giảng dạy phong phú, và phương pháp học tập đa dạng, học viên sẽ có cơ hội rèn luyện và hoàn thiện khả năng viết văn của mình. Bên cạnh đó, những lợi ích thiết thực như cải thiện tư duy, giảm căng thẳng, và mở rộng cơ hội nghề nghiệp càng làm cho việc tham gia lớp học viết văn trở nên đáng giá hơn bao giờ hết. Hãy bắt đầu hành trình viết văn của bạn ngay hôm nay và khám phá những tiềm năng sáng tạo vô hạn bên trong bạn.
 
 <figure><img src="https://banmaixanh.vercel.app/image/cover/001-244.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

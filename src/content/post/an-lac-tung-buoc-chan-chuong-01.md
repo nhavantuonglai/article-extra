@@ -405,11 +405,11 @@ Chúng ta cũng đã thảo luận về việc ăn cơm có chánh niệm, rửa
 
 Nhưng đối với những xúc cảm mạnh như là giận, buồn, hối hận hay tuyệt vọng thì ta phải đối phó như thế nào? Trong năm mươi năm qua, Tôi đã học được cũng như đã khám phá được một số những phương pháp để chuyển hoá và trị liệu những loại tâm sở này. Cuộc hành trình của chúng ta như vậy sẽ bước sang giai đoạn hai.
 
-Đọc [An lạc từng bước chân, chương 01](https://nhavantuonglai.com/article/an-lac-tung-buoc-chan-chuong-01) tại đây.
+Đọc [An lạc từng bước chân, chương 01](/article/an-lac-tung-buoc-chan-chuong-01) tại đây.
 
-Đọc [An lạc từng bước chân, chương 02](https://nhavantuonglai.com/article/an-lac-tung-buoc-chan-chuong-02) tại đây.
+Đọc [An lạc từng bước chân, chương 02](/article/an-lac-tung-buoc-chan-chuong-02) tại đây.
 
-Đọc [An lạc từng bước chân, chương 03](https://nhavantuonglai.com/article/an-lac-tung-buoc-chan-chuong-03) tại đây.
+Đọc [An lạc từng bước chân, chương 03](/article/an-lac-tung-buoc-chan-chuong-03) tại đây.
 
 Đọc [An lạc từng bước chân, toàn tập](https://banmaixanh.vercel.app/ebook/an-lac-tung-buoc-chan.pdf) tại đây.
 

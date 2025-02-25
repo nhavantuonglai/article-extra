@@ -67,19 +67,19 @@ Cho dù ta không đang mang đứa bé trong bụng thì hạt giống của em
 
 Ngay cả những em nhỏ cũng hiểu được trong mỗi người, nữ cũng như nam, đều có khả năng tỉnh thức, hiểu biết và thương yêu. Nhiều em đã nói với tôi rằng chúng không thể tìm ra một người nào mà không có những khả năng hiểu biết và thương yêu ấy. Ở một số người thì những hạt giống này có cơ hội phát triển mạnh hơn, một số người khác thì không, nhưng tất cả đều có đó. Khả năng tỉnh thức, còn được gọi là Phật tánh, là khả năng hiểu biết, thương yêu, cũng như ý thức được những gì đang xảy ra trong thân thể, trong những cảm thọ, tri giác, tâm hành và thế giới. Bụt sơ sinh đang có mặt trong ta, thế nên ta phải cho Bụt một cơ hội để biểu hiện. Nụ cười rất quan trọng. Nếu chúng ta không có khả năng mỉm cười thì thế giới sẽ không có hòa bình, không có bình an. Chúng ta không thể biểu tình chống tên lửa hạt nhân để mang lại hòa bình mà chỉ khi nào chúng ta mỉm cười được, thở được những hơi thở ý thức, chế tác được an lạc thì khi ấy hòa bình mới có thể được tạo dựng.
 
-Đọc [Muốn an được an, chương 01](https://nhavantuonglai.com/article/muon-an-duoc-an-chuong-01) tại đây.
+Đọc [Muốn an được an, chương 01](/article/muon-an-duoc-an-chuong-01) tại đây.
 
-Đọc [Muốn an được an, chương 02](https://nhavantuonglai.com/article/muon-an-duoc-an-chuong-02) tại đây.
+Đọc [Muốn an được an, chương 02](/article/muon-an-duoc-an-chuong-02) tại đây.
 
-Đọc [Muốn an được an, chương 03](https://nhavantuonglai.com/article/muon-an-duoc-an-chuong-03) tại đây.
+Đọc [Muốn an được an, chương 03](/article/muon-an-duoc-an-chuong-03) tại đây.
 
-Đọc [Muốn an được an, chương 04](https://nhavantuonglai.com/article/muon-an-duoc-an-chuong-04) tại đây.
+Đọc [Muốn an được an, chương 04](/article/muon-an-duoc-an-chuong-04) tại đây.
 
-Đọc [Muốn an được an, chương 05](https://nhavantuonglai.com/article/muon-an-duoc-an-chuong-05) tại đây.
+Đọc [Muốn an được an, chương 05](/article/muon-an-duoc-an-chuong-05) tại đây.
 
-Đọc [Muốn an được an, chương 06](https://nhavantuonglai.com/article/muon-an-duoc-an-chuong-06) tại đây.
+Đọc [Muốn an được an, chương 06](/article/muon-an-duoc-an-chuong-06) tại đây.
 
-Đọc [Muốn an được an, chương 07](https://nhavantuonglai.com/article/muon-an-duoc-an-chuong-07) tại đây.
+Đọc [Muốn an được an, chương 07](/article/muon-an-duoc-an-chuong-07) tại đây.
 
 Đọc [Muốn an được an, toàn tập](https://banmaixanh.vercel.app/ebook/muon-an-duoc-an.pdf) tại đây.
 

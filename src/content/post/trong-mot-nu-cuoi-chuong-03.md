@@ -347,27 +347,27 @@ Chúng tôi đặt một bình gốm trên bệ cửa sổ trong phòng giáo vi
 
 Chúng tôi còn có một nguồn vui lớn khác nữa, đó là hệ thống đệ nhị thân (xem trang 165). Chúng tôi cố gắng nâng đỡ đệ nhị thân của mình bằng nụ cười, bằng sự thăm hỏi, có khi chúng tôi dán một thông điệp lên hộp thư của vị ấy hay đặt lên bàn của vị ấy một đóa hoa tươi. Chúng tôi thường chuyền cho nhau những gì chúng tôi nhận được, ai nấy đều phấn khởi, do đó năng lượng của tăng thân rất thông thoáng và trôi chảy. Khi giáo viên này áp dụng những phương pháp thực tập mới cho học sinh, các giáo viên khác được vui lây và nguồn cảm hứng lan tỏa khắp tăng thân. Chúng tôi thấy rằng, khi được tăng thân nâng đỡ thì mình sẽ trao truyền sự thực tập cho học sinh dễ dàng hơn.
 
-Đọc [Trồng một nụ cười, chương 01](https://nhavantuonglai.com/article/trong-mot-nu-cuoi-chuong-01) tại đây.
+Đọc [Trồng một nụ cười, chương 01](/article/trong-mot-nu-cuoi-chuong-01) tại đây.
 
-Đọc [Trồng một nụ cười, chương 02](https://nhavantuonglai.com/article/trong-mot-nu-cuoi-chuong-02) tại đây.
+Đọc [Trồng một nụ cười, chương 02](/article/trong-mot-nu-cuoi-chuong-02) tại đây.
 
-Đọc [Trồng một nụ cười, chương 03](https://nhavantuonglai.com/article/trong-mot-nu-cuoi-chuong-03) tại đây.
+Đọc [Trồng một nụ cười, chương 03](/article/trong-mot-nu-cuoi-chuong-03) tại đây.
 
-Đọc [Trồng một nụ cười, chương 04](https://nhavantuonglai.com/article/trong-mot-nu-cuoi-chuong-04) tại đây.
+Đọc [Trồng một nụ cười, chương 04](/article/trong-mot-nu-cuoi-chuong-04) tại đây.
 
-Đọc [Trồng một nụ cười, chương 05](https://nhavantuonglai.com/article/trong-mot-nu-cuoi-chuong-05) tại đây.
+Đọc [Trồng một nụ cười, chương 05](/article/trong-mot-nu-cuoi-chuong-05) tại đây.
 
-Đọc [Trồng một nụ cười, chương 06](https://nhavantuonglai.com/article/trong-mot-nu-cuoi-chuong-06) tại đây.
+Đọc [Trồng một nụ cười, chương 06](/article/trong-mot-nu-cuoi-chuong-06) tại đây.
 
-Đọc [Trồng một nụ cười, chương 07](https://nhavantuonglai.com/article/trong-mot-nu-cuoi-chuong-07) tại đây.
+Đọc [Trồng một nụ cười, chương 07](/article/trong-mot-nu-cuoi-chuong-07) tại đây.
 
-Đọc [Trồng một nụ cười, chương 08](https://nhavantuonglai.com/article/trong-mot-nu-cuoi-chuong-08) tại đây.
+Đọc [Trồng một nụ cười, chương 08](/article/trong-mot-nu-cuoi-chuong-08) tại đây.
 
-Đọc [Trồng một nụ cười, chương 09](https://nhavantuonglai.com/article/trong-mot-nu-cuoi-chuong-09) tại đây.
+Đọc [Trồng một nụ cười, chương 09](/article/trong-mot-nu-cuoi-chuong-09) tại đây.
 
-Đọc [Trồng một nụ cười, chương 10](https://nhavantuonglai.com/article/trong-mot-nu-cuoi-chuong-10) tại đây.
+Đọc [Trồng một nụ cười, chương 10](/article/trong-mot-nu-cuoi-chuong-10) tại đây.
 
-Đọc [Trồng một nụ cười, chương 11](https://nhavantuonglai.com/article/trong-mot-nu-cuoi-chuong-11) tại đây.
+Đọc [Trồng một nụ cười, chương 11](/article/trong-mot-nu-cuoi-chuong-11) tại đây.
 
 Đọc [Trồng một nụ cười, toàn tập](https://banmaixanh.vercel.app/ebook/trong-mot-nu-cuoi.pdf) tại đây.
 

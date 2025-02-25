@@ -195,25 +195,25 @@ Tại Làng Mai, chúng tôi ăn trong im lặng hai mươi phút đầu bởi v
 
 Đã có người tổ chức những bữa ăn trưa im lặng và chánh niệm tại nơi làm việc làm. Mọi người cùng ngồi ăn im lặng trong mười hay mười lăm phút rồi mới nói chuyện, và tất cả đều rất thích thú.
 
-Đọc [Quyền lực đích thực, chương 01](https://nhavantuonglai.com/article/quyen-luc-dich-thuc-chuong-01) tại đây.
+Đọc [Quyền lực đích thực, chương 01](/article/quyen-luc-dich-thuc-chuong-01) tại đây.
 
-Đọc [Quyền lực đích thực, chương 02](https://nhavantuonglai.com/article/quyen-luc-dich-thuc-chuong-02) tại đây.
+Đọc [Quyền lực đích thực, chương 02](/article/quyen-luc-dich-thuc-chuong-02) tại đây.
 
-Đọc [Quyền lực đích thực, chương 03](https://nhavantuonglai.com/article/quyen-luc-dich-thuc-chuong-03) tại đây.
+Đọc [Quyền lực đích thực, chương 03](/article/quyen-luc-dich-thuc-chuong-03) tại đây.
 
-Đọc [Quyền lực đích thực, chương 04](https://nhavantuonglai.com/article/quyen-luc-dich-thuc-chuong-04) tại đây.
+Đọc [Quyền lực đích thực, chương 04](/article/quyen-luc-dich-thuc-chuong-04) tại đây.
 
-Đọc [Quyền lực đích thực, chương 05](https://nhavantuonglai.com/article/quyen-luc-dich-thuc-chuong-05) tại đây.
+Đọc [Quyền lực đích thực, chương 05](/article/quyen-luc-dich-thuc-chuong-05) tại đây.
 
-Đọc [Quyền lực đích thực, chương 06](https://nhavantuonglai.com/article/quyen-luc-dich-thuc-chuong-06) tại đây.
+Đọc [Quyền lực đích thực, chương 06](/article/quyen-luc-dich-thuc-chuong-06) tại đây.
 
-Đọc [Quyền lực đích thực, chương 07](https://nhavantuonglai.com/article/quyen-luc-dich-thuc-chuong-07) tại đây.
+Đọc [Quyền lực đích thực, chương 07](/article/quyen-luc-dich-thuc-chuong-07) tại đây.
 
-Đọc [Quyền lực đích thực, chương 08](https://nhavantuonglai.com/article/quyen-luc-dich-thuc-chuong-08) tại đây.
+Đọc [Quyền lực đích thực, chương 08](/article/quyen-luc-dich-thuc-chuong-08) tại đây.
 
-Đọc [Quyền lực đích thực, chương 09](https://nhavantuonglai.com/article/quyen-luc-dich-thuc-chuong-09) tại đây.
+Đọc [Quyền lực đích thực, chương 09](/article/quyen-luc-dich-thuc-chuong-09) tại đây.
 
-Đọc [Quyền lực đích thực, chương 10](https://nhavantuonglai.com/article/quyen-luc-dich-thuc-chuong-10) tại đây.
+Đọc [Quyền lực đích thực, chương 10](/article/quyen-luc-dich-thuc-chuong-10) tại đây.
 
 Đọc [Quyền lực đích thực, toàn tập](https://banmaixanh.vercel.app/ebook/quyen-luc-dich-thuc.pdf) tại đây.
 

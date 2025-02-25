@@ -41,7 +41,7 @@ Sự thành công của Kodak Portra 800 đã tạo ra một làn sóng mới tr
 
 ## Thông số kỹ thuật của Kodak Portra 800
 
-Để hiểu rõ về [Kodak Portra 800](https://nhavantuonglai.com/article/kodak-portra-800), chúng ta cần đi sâu vào các thông số kỹ thuật chi tiết của nó. Những thông số này không chỉ định hình khả năng của film mà còn giúp nhiếp ảnh gia hiểu cách tận dụng tối đa tiềm năng của trong các điều kiện chụp khác nhau.
+Để hiểu rõ về [Kodak Portra 800](/article/kodak-portra-800), chúng ta cần đi sâu vào các thông số kỹ thuật chi tiết của nó. Những thông số này không chỉ định hình khả năng của film mà còn giúp nhiếp ảnh gia hiểu cách tận dụng tối đa tiềm năng của trong các điều kiện chụp khác nhau.
 
 ### Đặc tính cơ bản và cấu trúc film
 

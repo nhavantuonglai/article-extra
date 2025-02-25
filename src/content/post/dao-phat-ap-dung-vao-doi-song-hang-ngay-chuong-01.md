@@ -153,19 +153,19 @@ CHÍNH ĐỊNH là phương pháp thiền định chân chính. Thiền định 
 
 Trên đây là đại cương các đạo lý duyên sinh, tứ diệu đế và bát chánh đạo. Học hỏi và thực tập các đạo lý này, người Phật tử xây dựng bản thân mình về ba mặt trí tuệ, tình thương và ý chí. Nhưng cá nhân liên hệ mật thiết với xã hội, do đó sự xây dựng bản thân liên hệ với sự xây dựng gia đình, xóm làng, giáo hội, quốc gia và thế giới. Đó là ý chỉ của đạo Phật nhập thế truyền thống tại Việt Nam.
 
-Đọc [Đạo Phật áp dụng vào đời sống hàng ngày, chương 01](https://nhavantuonglai.com/article/dao-phat-ap-dung-vao-doi-song-hang-ngay-chuong-01) tại đây.
+Đọc [Đạo Phật áp dụng vào đời sống hàng ngày, chương 01](/article/dao-phat-ap-dung-vao-doi-song-hang-ngay-chuong-01) tại đây.
 
-Đọc [Đạo Phật áp dụng vào đời sống hàng ngày, chương 02](https://nhavantuonglai.com/article/dao-phat-ap-dung-vao-doi-song-hang-ngay-chuong-02) tại đây.
+Đọc [Đạo Phật áp dụng vào đời sống hàng ngày, chương 02](/article/dao-phat-ap-dung-vao-doi-song-hang-ngay-chuong-02) tại đây.
 
-Đọc [Đạo Phật áp dụng vào đời sống hàng ngày, chương 03](https://nhavantuonglai.com/article/dao-phat-ap-dung-vao-doi-song-hang-ngay-chuong-03) tại đây.
+Đọc [Đạo Phật áp dụng vào đời sống hàng ngày, chương 03](/article/dao-phat-ap-dung-vao-doi-song-hang-ngay-chuong-03) tại đây.
 
-Đọc [Đạo Phật áp dụng vào đời sống hàng ngày, chương 04](https://nhavantuonglai.com/article/dao-phat-ap-dung-vao-doi-song-hang-ngay-chuong-04) tại đây.
+Đọc [Đạo Phật áp dụng vào đời sống hàng ngày, chương 04](/article/dao-phat-ap-dung-vao-doi-song-hang-ngay-chuong-04) tại đây.
 
-Đọc [Đạo Phật áp dụng vào đời sống hàng ngày, chương 05](https://nhavantuonglai.com/article/dao-phat-ap-dung-vao-doi-song-hang-ngay-chuong-05) tại đây.
+Đọc [Đạo Phật áp dụng vào đời sống hàng ngày, chương 05](/article/dao-phat-ap-dung-vao-doi-song-hang-ngay-chuong-05) tại đây.
 
-Đọc [Đạo Phật áp dụng vào đời sống hàng ngày, chương 06](https://nhavantuonglai.com/article/dao-phat-ap-dung-vao-doi-song-hang-ngay-chuong-06) tại đây.
+Đọc [Đạo Phật áp dụng vào đời sống hàng ngày, chương 06](/article/dao-phat-ap-dung-vao-doi-song-hang-ngay-chuong-06) tại đây.
 
-Đọc [Đạo Phật áp dụng vào đời sống hàng ngày, chương 07](https://nhavantuonglai.com/article/dao-phat-ap-dung-vao-doi-song-hang-ngay-chuong-07) tại đây.
+Đọc [Đạo Phật áp dụng vào đời sống hàng ngày, chương 07](/article/dao-phat-ap-dung-vao-doi-song-hang-ngay-chuong-07) tại đây.
 
 Đọc [Đạo Phật áp dụng vào đời sống hàng ngày, toàn tập](https://banmaixanh.vercel.app/ebook/dao-phat-ap-dung-vao-doi-song-hang-ngay.pdf) tại đây.
 

@@ -27,11 +27,11 @@ Di chuyển trong thành phố, du khách thuê xe máy 100.000 – 150.000 đ�
 
 ## Khách sạn, homestay
 
-Du khách đi theo nhóm bạn hoặc một mình muốn tìm chỗ ở với giá rẻ có thể chọn các [homestay, hostel](https://nhavantuonglai.com/article) hoặc khách sạn 2-3 sao từ 150.000 – 400.000 đồng một đêm. Cần yên tĩnh và tiện nghi bạn hãy tìm các khách sạn đường Tây Sơn, An Dương Vương, Hàn Mặc Tử… Còn nếu muốn ở gần biển thì tìm tới các con đường như Nguyễn Huệ, Xuân Diệu quanh tượng đài Nguyễn Tất Thành hay ở Bãi Xép, Kỳ Co, Eo Gió…
+Du khách đi theo nhóm bạn hoặc một mình muốn tìm chỗ ở với giá rẻ có thể chọn các [homestay, hostel](/article) hoặc khách sạn 2-3 sao từ 150.000 – 400.000 đồng một đêm. Cần yên tĩnh và tiện nghi bạn hãy tìm các khách sạn đường Tây Sơn, An Dương Vương, Hàn Mặc Tử… Còn nếu muốn ở gần biển thì tìm tới các con đường như Nguyễn Huệ, Xuân Diệu quanh tượng đài Nguyễn Tất Thành hay ở Bãi Xép, Kỳ Co, Eo Gió…
 
 Một số địa chỉ được du khách yêu thích và có vị trí thuận tiện để di chuyển là: Life_s a beach, Mira Bãi Xép, Quy Nhơn Balahouse, La beach house Nhơn Lý, khách sạn Salah, Seagate bungalow, Quê Hương, Sea view Quy Nhơn…
 
-Để tận hưởng các dịch vụ sang trọng và nhiều tiện nghi hơn như bể bơi, bãi biển riêng, spa, gym hay phòng view biển, du khách hãy cân nhắc đến [các khu nghỉ dưỡng](https://nhavantuonglai.com/article) như Crown Retreat, Avani Quy Nhơn, FLC Quy Nhơn, Casa Marina, Aurora… Mùa hè này, giá phòng tại resort, khách sạn 4 – 5 sao từ 1.500.000 đến 5.000.000 đồng một đêm.
+Để tận hưởng các dịch vụ sang trọng và nhiều tiện nghi hơn như bể bơi, bãi biển riêng, spa, gym hay phòng view biển, du khách hãy cân nhắc đến [các khu nghỉ dưỡng](/article) như Crown Retreat, Avani Quy Nhơn, FLC Quy Nhơn, Casa Marina, Aurora… Mùa hè này, giá phòng tại resort, khách sạn 4 – 5 sao từ 1.500.000 đến 5.000.000 đồng một đêm.
 
 ## Ăn uống
 
@@ -69,7 +69,7 @@ Chỉ cần dạo một vòng thành phố biển du khách cũng tìm thấy r�
 
 Quán cà phê, trà sữa, bar
 
-Là thành phố du lịch mới phát triển độ 5-6 năm gần đây nên các quán cà phê, trà sữa, trà chanh chưa thực sự nở rộ, nhưng cũng có một số địa chỉ được cả du khách và dân địa phương yêu thích. Các [địa chỉ cà phê](https://nhavantuonglai.com/article) giới trẻ lựa chọn là Adiuvat, Mango Tree, Kho book & cafe, Marina, Green cafe, Surf bar…
+Là thành phố du lịch mới phát triển độ 5-6 năm gần đây nên các quán cà phê, trà sữa, trà chanh chưa thực sự nở rộ, nhưng cũng có một số địa chỉ được cả du khách và dân địa phương yêu thích. Các [địa chỉ cà phê](/article) giới trẻ lựa chọn là Adiuvat, Mango Tree, Kho book & cafe, Marina, Green cafe, Surf bar…
 
 Đồ uống được nhiều người đánh giá ngon và rẻ hơn nhiều thành phố du lịch khác. Chỉ từ 20.000 đến 50.000 đồng bạn đã được tận hưởng những tách cà phê thơm hay ly trà sữa, sinh tố ngon trong không gian thoáng đãng.
 
@@ -138,19 +138,19 @@ Làng chài Bãi Xép
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/du-lich-quy-nhon-579.jpg" alt="cam-nang-du-lich-quy-nhon" height="100%" width="100%"><figcaption><p>cam-nang-du-lich-quy-nhon-nhavantuonglai</p></figcaption></figure>
 
-Từ trung tâm thành phố theo quốc lộ 1D khoảng 13 km, du khách đến với [làng chài Bãi Xép](https://nhavantuonglai.com/article) nằm trong vùng biển Quy Hòa. Ở đây có đủ loại hình lưu trú từ bình dân như homestay, nhà nghỉ tới resort cao cấp. Bãi Xép có nhiều rặng đá tự nhiên nổi lên trên mặt nước, bờ cát vàng mịn màng thu hút nhiều bạn trẻ chụp hình. Tới Bãi Xép tham quan, du khách ngoài tận hưởng vẻ đẹp hoang sơ và không gian thanh bình còn được khám phá đời sống dân chài lưới.
+Từ trung tâm thành phố theo quốc lộ 1D khoảng 13 km, du khách đến với [làng chài Bãi Xép](/article) nằm trong vùng biển Quy Hòa. Ở đây có đủ loại hình lưu trú từ bình dân như homestay, nhà nghỉ tới resort cao cấp. Bãi Xép có nhiều rặng đá tự nhiên nổi lên trên mặt nước, bờ cát vàng mịn màng thu hút nhiều bạn trẻ chụp hình. Tới Bãi Xép tham quan, du khách ngoài tận hưởng vẻ đẹp hoang sơ và không gian thanh bình còn được khám phá đời sống dân chài lưới.
 
 Làng chài Nhơn Lý
 
 Xã Nhơn Lý nằm ở bán đảo Phương Mai, cách trung tâm Thành phố Quy Nhơn khoảng 20 km về phía đông bắc, bãi biển đẹp, hoang sơ với 10.000 người dân ở bốn thôn: Lý Hưng, Lý Lương, Lý Chánh, Lý Hòa. Người dân trong xã chủ yếu sống bằng những nghề liên quan đến biển như đánh bắt, chế biển hải sản. Đây là một xã bán đảo vẫn còn lưu giữ nhiều di tích của văn hóa Champa, lễ hội Cầu ngư được tổ chức hằng năm, nơi còn lưu giữ 6 sắc phong của các triều đại Vua.
 
-Từ đầu năm 2023, Nhơn Lý trở nên sống động hơn, thu hút nhiều người đến nhờ [những bức bích họa](https://nhavantuonglai.com/article) nhiều màu sắc. Những bức tranh bích họa ở làng chài cổ Nhơn Lý mang nhiều chủ đề từ hoa lá, cây cỏ, chim chóc cho đến những hình ảnh gắn liền với cuộc sống của người dân làng biển như lưới cá, thuyền buồm, cá mập, cá heo, rùa biển.
+Từ đầu năm 2023, Nhơn Lý trở nên sống động hơn, thu hút nhiều người đến nhờ [những bức bích họa](/article) nhiều màu sắc. Những bức tranh bích họa ở làng chài cổ Nhơn Lý mang nhiều chủ đề từ hoa lá, cây cỏ, chim chóc cho đến những hình ảnh gắn liền với cuộc sống của người dân làng biển như lưới cá, thuyền buồm, cá mập, cá heo, rùa biển.
 
 Cách di chuyển: Từ thành phố Quy Nhơn, du khách qua cầu Thị Nại, tới bán đảo Phương Mai rồi tiếp tục đi theo quốc lộ 19B để tới xã đảo Nhơn Lý.
 
 Cù Lao Xanh
 
-Còn gọi là đảo Vân Phi, [Cù Lao Xanh](https://nhavantuonglai.com/article) nằm gần vịnh Xuân Đài, thuộc xã Nhơn Châu. Du khách có thể tham quan hải đăng và giếng Suối Tiên, tắm biển, xem rùa đẻ trứng, tối đến ngủ lều hoặc homestay trên đảo hay theo thuyền đi câu mực đêm với ngư dân… Để tới Cù Lao Xanh bạn đón xe tới cảng Hàm Tử, chọn tour đi bằng cano ra đảo, hoặc tự túc đi bằng thuyền gỗ. Nếu đi cano khứ hồi giá không kèm tour là 350.000 đồng, giá tour một ngày ở Cù Lao Xanh là 700.000 đồng một người.
+Còn gọi là đảo Vân Phi, [Cù Lao Xanh](/article) nằm gần vịnh Xuân Đài, thuộc xã Nhơn Châu. Du khách có thể tham quan hải đăng và giếng Suối Tiên, tắm biển, xem rùa đẻ trứng, tối đến ngủ lều hoặc homestay trên đảo hay theo thuyền đi câu mực đêm với ngư dân… Để tới Cù Lao Xanh bạn đón xe tới cảng Hàm Tử, chọn tour đi bằng cano ra đảo, hoặc tự túc đi bằng thuyền gỗ. Nếu đi cano khứ hồi giá không kèm tour là 350.000 đồng, giá tour một ngày ở Cù Lao Xanh là 700.000 đồng một người.
 
 Gợi ý lịch trình 4 ngày 3 đêm
 

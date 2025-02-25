@@ -156,65 +156,65 @@ Bức ảnh gửi kèm làm bà Anstruther lên cơn sốt đến nỗi mùa thu
 
 Ông Anstruther khi xuống Westfield thu xếp công việc, kể lại chuyện này cho ông mục sư (một vị quý tộc già), ông ta chẳng lấy gì làm lạ. _Dĩ nhiên tôi đã được nghe kể lại câu chuyện xảy ra qua lời những bậc lão thành và cũng như những gì tôi mục kích. Quả là chúng tôi đã phải chịu đựng nhiều, lúc đầu nào cú kêu, tiếng người thầm thì trong vườn này, lúc thì trong các nhà tranh, rồi thì hết dần. Tôi tưởng đã hết. Trong sổ sách, chúng tôi đã ghi lại cuộc mai táng, suốt một thời gian dài tôi coi chuyện đó như một phương châm gia đình phải tuân theo, nhưng lần lần rồi nhìn vào sổ tôi mới để ý bên cạnh có ghi thêm cái gì đó bởi một bàn tay lạ với hai chữ đầu tên một mục sư ở thế kỷ mười bảy – A.C. – Agustine Crompton. Đây ông xem _quieta non movere_ – đang yên lặng đừng khuấy động – Tôi cho là…Phải, kể cũng phải nói chính xác tôi thấy chuyện đó ra sao._
 
-Đọc [Giếng thở than, chương 01](https://nhavantuonglai.com/article/gieng-tho-than-chuong-01) tại đây.
+Đọc [Giếng thở than, chương 01](/article/gieng-tho-than-chuong-01) tại đây.
 
-Đọc [Giếng thở than, chương 02](https://nhavantuonglai.com/article/gieng-tho-than-chuong-02) tại đây.
+Đọc [Giếng thở than, chương 02](/article/gieng-tho-than-chuong-02) tại đây.
 
-Đọc [Giếng thở than, chương 03](https://nhavantuonglai.com/article/gieng-tho-than-chuong-03) tại đây.
+Đọc [Giếng thở than, chương 03](/article/gieng-tho-than-chuong-03) tại đây.
 
-Đọc [Giếng thở than, chương 04](https://nhavantuonglai.com/article/gieng-tho-than-chuong-04) tại đây.
+Đọc [Giếng thở than, chương 04](/article/gieng-tho-than-chuong-04) tại đây.
 
-Đọc [Giếng thở than, chương 05](https://nhavantuonglai.com/article/gieng-tho-than-chuong-05) tại đây.
+Đọc [Giếng thở than, chương 05](/article/gieng-tho-than-chuong-05) tại đây.
 
-Đọc [Giếng thở than, chương 06](https://nhavantuonglai.com/article/gieng-tho-than-chuong-06) tại đây.
+Đọc [Giếng thở than, chương 06](/article/gieng-tho-than-chuong-06) tại đây.
 
-Đọc [Giếng thở than, chương 07](https://nhavantuonglai.com/article/gieng-tho-than-chuong-07) tại đây.
+Đọc [Giếng thở than, chương 07](/article/gieng-tho-than-chuong-07) tại đây.
 
-Đọc [Giếng thở than, chương 08](https://nhavantuonglai.com/article/gieng-tho-than-chuong-08) tại đây.
+Đọc [Giếng thở than, chương 08](/article/gieng-tho-than-chuong-08) tại đây.
 
-Đọc [Giếng thở than, chương 09](https://nhavantuonglai.com/article/gieng-tho-than-chuong-09) tại đây.
+Đọc [Giếng thở than, chương 09](/article/gieng-tho-than-chuong-09) tại đây.
 
-Đọc [Giếng thở than, chương 10](https://nhavantuonglai.com/article/gieng-tho-than-chuong-10) tại đây.
+Đọc [Giếng thở than, chương 10](/article/gieng-tho-than-chuong-10) tại đây.
 
-Đọc [Giếng thở than, chương 11](https://nhavantuonglai.com/article/gieng-tho-than-chuong-11) tại đây.
+Đọc [Giếng thở than, chương 11](/article/gieng-tho-than-chuong-11) tại đây.
 
-Đọc [Giếng thở than, chương 12](https://nhavantuonglai.com/article/gieng-tho-than-chuong-12) tại đây.
+Đọc [Giếng thở than, chương 12](/article/gieng-tho-than-chuong-12) tại đây.
 
-Đọc [Giếng thở than, chương 13](https://nhavantuonglai.com/article/gieng-tho-than-chuong-13) tại đây.
+Đọc [Giếng thở than, chương 13](/article/gieng-tho-than-chuong-13) tại đây.
 
-Đọc [Giếng thở than, chương 14](https://nhavantuonglai.com/article/gieng-tho-than-chuong-14) tại đây.
+Đọc [Giếng thở than, chương 14](/article/gieng-tho-than-chuong-14) tại đây.
 
-Đọc [Giếng thở than, chương 15](https://nhavantuonglai.com/article/gieng-tho-than-chuong-15) tại đây.
+Đọc [Giếng thở than, chương 15](/article/gieng-tho-than-chuong-15) tại đây.
 
-Đọc [Giếng thở than, chương 16](https://nhavantuonglai.com/article/gieng-tho-than-chuong-16) tại đây.
+Đọc [Giếng thở than, chương 16](/article/gieng-tho-than-chuong-16) tại đây.
 
-Đọc [Giếng thở than, chương 17](https://nhavantuonglai.com/article/gieng-tho-than-chuong-17) tại đây.
+Đọc [Giếng thở than, chương 17](/article/gieng-tho-than-chuong-17) tại đây.
 
-Đọc [Giếng thở than, chương 18](https://nhavantuonglai.com/article/gieng-tho-than-chuong-18) tại đây.
+Đọc [Giếng thở than, chương 18](/article/gieng-tho-than-chuong-18) tại đây.
 
-Đọc [Giếng thở than, chương 19](https://nhavantuonglai.com/article/gieng-tho-than-chuong-19) tại đây.
+Đọc [Giếng thở than, chương 19](/article/gieng-tho-than-chuong-19) tại đây.
 
-Đọc [Giếng thở than, chương 20](https://nhavantuonglai.com/article/gieng-tho-than-chuong-20) tại đây.
+Đọc [Giếng thở than, chương 20](/article/gieng-tho-than-chuong-20) tại đây.
 
-Đọc [Giếng thở than, chương 21](https://nhavantuonglai.com/article/gieng-tho-than-chuong-21) tại đây.
+Đọc [Giếng thở than, chương 21](/article/gieng-tho-than-chuong-21) tại đây.
 
-Đọc [Giếng thở than, chương 22](https://nhavantuonglai.com/article/gieng-tho-than-chuong-22) tại đây.
+Đọc [Giếng thở than, chương 22](/article/gieng-tho-than-chuong-22) tại đây.
 
-Đọc [Giếng thở than, chương 23](https://nhavantuonglai.com/article/gieng-tho-than-chuong-23) tại đây.
+Đọc [Giếng thở than, chương 23](/article/gieng-tho-than-chuong-23) tại đây.
 
-Đọc [Giếng thở than, chương 24](https://nhavantuonglai.com/article/gieng-tho-than-chuong-24) tại đây.
+Đọc [Giếng thở than, chương 24](/article/gieng-tho-than-chuong-24) tại đây.
 
-Đọc [Giếng thở than, chương 25](https://nhavantuonglai.com/article/gieng-tho-than-chuong-25) tại đây.
+Đọc [Giếng thở than, chương 25](/article/gieng-tho-than-chuong-25) tại đây.
 
-Đọc [Giếng thở than, chương 26](https://nhavantuonglai.com/article/gieng-tho-than-chuong-26) tại đây.
+Đọc [Giếng thở than, chương 26](/article/gieng-tho-than-chuong-26) tại đây.
 
-Đọc [Giếng thở than, chương 27](https://nhavantuonglai.com/article/gieng-tho-than-chuong-27) tại đây.
+Đọc [Giếng thở than, chương 27](/article/gieng-tho-than-chuong-27) tại đây.
 
-Đọc [Giếng thở than, chương 28](https://nhavantuonglai.com/article/gieng-tho-than-chuong-28) tại đây.
+Đọc [Giếng thở than, chương 28](/article/gieng-tho-than-chuong-28) tại đây.
 
-Đọc [Giếng thở than, chương 29](https://nhavantuonglai.com/article/gieng-tho-than-chuong-29) tại đây.
+Đọc [Giếng thở than, chương 29](/article/gieng-tho-than-chuong-29) tại đây.
 
-Đọc [Giếng thở than, chương 30](https://nhavantuonglai.com/article/gieng-tho-than-chuong-30) tại đây.
+Đọc [Giếng thở than, chương 30](/article/gieng-tho-than-chuong-30) tại đây.
 
 Đọc [Giếng thở than, toàn tập](https://banmaixanh.vercel.app/ebook/gieng-tho-than.pdf) tại đây.
 

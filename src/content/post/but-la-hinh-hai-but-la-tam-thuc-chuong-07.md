@@ -159,25 +159,25 @@ Biểu tượng của làng Mai là chùa Một Cột nằm trong lòng hoa sen,
 
 Sự thực tập của chúng ta là đưa tâm trở về với thân để sống tốt đẹp hơn. Phẩm chất của chúng ta được quyết định bởi năng lượng niệm, định và tuệ. Với nguồn năng lượng này chúng ta có thể đốt cháy những chướng ngại thường làm mờ mắt và cản đường chúng ta. Có thể nói rằng con đường của Bụt là con đường tự do. Tự do, giải thoát và cứu độ là điều mà chúng ta có thể đạt được trong đời sống hàng ngày. Nhìn vào bản thân, nhìn vào sư anh, sư chị, sư em của mình, chúng ta thấy có sự tiến bộ. Con đường tự do đang được tiếp tục và chúng ta có thể nâng đỡ nhau trên con đường này. Sự thực tập của chúng ta không chỉ mang lại tự do cho cá nhân mà còn mang lại tự do giải thoát cho cộng đồng. Đó là điều chúng ta có thể làm được.
 
-Đọc [Bụt là hình hài, Bụt là tâm thức, chương 01](https://nhavantuonglai.com/article/but-la-hinh-hai-but-la-tam-thuc-chuong-01) tại đây.
+Đọc [Bụt là hình hài, Bụt là tâm thức, chương 01](/article/but-la-hinh-hai-but-la-tam-thuc-chuong-01) tại đây.
 
-Đọc [Bụt là hình hài, Bụt là tâm thức, chương 02](https://nhavantuonglai.com/article/but-la-hinh-hai-but-la-tam-thuc-chuong-02) tại đây.
+Đọc [Bụt là hình hài, Bụt là tâm thức, chương 02](/article/but-la-hinh-hai-but-la-tam-thuc-chuong-02) tại đây.
 
-Đọc [Bụt là hình hài, Bụt là tâm thức, chương 03](https://nhavantuonglai.com/article/but-la-hinh-hai-but-la-tam-thuc-chuong-03) tại đây.
+Đọc [Bụt là hình hài, Bụt là tâm thức, chương 03](/article/but-la-hinh-hai-but-la-tam-thuc-chuong-03) tại đây.
 
-Đọc [Bụt là hình hài, Bụt là tâm thức, chương 04](https://nhavantuonglai.com/article/but-la-hinh-hai-but-la-tam-thuc-chuong-04) tại đây.
+Đọc [Bụt là hình hài, Bụt là tâm thức, chương 04](/article/but-la-hinh-hai-but-la-tam-thuc-chuong-04) tại đây.
 
-Đọc [Bụt là hình hài, Bụt là tâm thức, chương 05](https://nhavantuonglai.com/article/but-la-hinh-hai-but-la-tam-thuc-chuong-05) tại đây.
+Đọc [Bụt là hình hài, Bụt là tâm thức, chương 05](/article/but-la-hinh-hai-but-la-tam-thuc-chuong-05) tại đây.
 
-Đọc [Bụt là hình hài, Bụt là tâm thức, chương 06](https://nhavantuonglai.com/article/but-la-hinh-hai-but-la-tam-thuc-chuong-06) tại đây.
+Đọc [Bụt là hình hài, Bụt là tâm thức, chương 06](/article/but-la-hinh-hai-but-la-tam-thuc-chuong-06) tại đây.
 
-Đọc [Bụt là hình hài, Bụt là tâm thức, chương 07](https://nhavantuonglai.com/article/but-la-hinh-hai-but-la-tam-thuc-chuong-07) tại đây.
+Đọc [Bụt là hình hài, Bụt là tâm thức, chương 07](/article/but-la-hinh-hai-but-la-tam-thuc-chuong-07) tại đây.
 
-Đọc [Bụt là hình hài, Bụt là tâm thức, chương 08](https://nhavantuonglai.com/article/but-la-hinh-hai-but-la-tam-thuc-chuong-08) tại đây.
+Đọc [Bụt là hình hài, Bụt là tâm thức, chương 08](/article/but-la-hinh-hai-but-la-tam-thuc-chuong-08) tại đây.
 
-Đọc [Bụt là hình hài, Bụt là tâm thức, chương 09](https://nhavantuonglai.com/article/but-la-hinh-hai-but-la-tam-thuc-chuong-09) tại đây.
+Đọc [Bụt là hình hài, Bụt là tâm thức, chương 09](/article/but-la-hinh-hai-but-la-tam-thuc-chuong-09) tại đây.
 
-Đọc [Bụt là hình hài, Bụt là tâm thức, chương 10](https://nhavantuonglai.com/article/but-la-hinh-hai-but-la-tam-thuc-chuong-10) tại đây.
+Đọc [Bụt là hình hài, Bụt là tâm thức, chương 10](/article/but-la-hinh-hai-but-la-tam-thuc-chuong-10) tại đây.
 
 Đọc [Bụt là hình hài, Bụt là tâm thức, toàn tập](https://banmaixanh.vercel.app/ebook/but-la-hinh-hai-but-la-tam-thuc.pdf) tại đây.
 

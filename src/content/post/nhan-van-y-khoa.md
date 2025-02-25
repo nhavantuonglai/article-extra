@@ -16,7 +16,7 @@ _Bạn đang làm việc trong ngành Y và muốn trở thành một nhà văn 
 
 ## Viết lách y khoa là gì?
 
-Viết lách y khoa là công việc viết các tài liệu khoa học, giáo dục và quảng cáo liên quan đến ngành y tế, như chăm sóc sức khỏe, thiết bị y tế hay dược phẩm. Người thực hành viết lách y khoa được gọi chung là [nhà văn y học](https://nhavantuonglai.com/article/nhan-van-y-khoa), hoặc với các danh xưng tùy vào môi trường, đặc thù công việc như là marketer ngành Y, nhà văn kiêm bác sĩ, chuyên gia chăm sóc sức khỏe…
+Viết lách y khoa là công việc viết các tài liệu khoa học, giáo dục và quảng cáo liên quan đến ngành y tế, như chăm sóc sức khỏe, thiết bị y tế hay dược phẩm. Người thực hành viết lách y khoa được gọi chung là [nhà văn y học](/article/nhan-van-y-khoa), hoặc với các danh xưng tùy vào môi trường, đặc thù công việc như là marketer ngành Y, nhà văn kiêm bác sĩ, chuyên gia chăm sóc sức khỏe…
 
 Viết lách y khoa là cầu nối giữa hiểu biết y khoa và người cần kiến thức y khoa, giữa học thuật và sự tiếp thu, giữa các chuyên gia và người cần được tham vấn. Yêu cầu công việc là vậy, nên lượng kiến thức, trách nhiệm cũng như khả năng diễn đạt của viết lách y khoa luôn ở mức rất cao.
 

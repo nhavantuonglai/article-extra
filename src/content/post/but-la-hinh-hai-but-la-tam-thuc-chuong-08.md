@@ -161,25 +161,25 @@ Trong nhiều quyển sách dạy về nghệ thuật sống, người ta nói t
 
 Bốn yếu tố của tình thương chân thật là matri (từ), karuna (bi), mudita (hỷ) và upeksha (xả). Xả nghĩa là vô phân biệt. Tình thương vô phân biệt là tình thương của Bụt, còn tình thương phân biệt là tình thương tạo ra khổ đau cho ta và cho người khác. Nuôi lớn upeksha, sự vô phân biệt, thì tình thương của chúng ta sẽ trở thành tình thương chân thực, tình thương của Bụt. Khi chúng ta thực tập thì sự phân biệt, tư lượng sẽ được chuyển hóa dần dần cho đến khi được thay thế hoàn toàn bởi vô phân biệt trí, _nirvikalpajnana._ Khi đó người thương của ta sẽ trở thành người thương đích thực, chúng ta không đánh mất người thương của mình. Chúng ta thay thế người thương không thật thành người thương chân thật. Và người thương chân thật luôn luôn có phẩm chất của vô phân biệt trí bởi vì người thương chân thật có tuệ giác. Người đó biết rằng ngã được làm bằng những yếu tố vô ngã và để chăm sóc cho cái ngã chúng ta phải chăm sóc những yếu tố vô ngã. Vì vậy, thay vì nói tự ái là tinh yếu của hạnh phúc chúng ta có thể nói vô ngã là chìa khóa mở ra cánh cửa hạnh phúc. Đó là vai trò của sự thực tập.
 
-Đọc [Bụt là hình hài, Bụt là tâm thức, chương 01](https://nhavantuonglai.com/article/but-la-hinh-hai-but-la-tam-thuc-chuong-01) tại đây.
+Đọc [Bụt là hình hài, Bụt là tâm thức, chương 01](/article/but-la-hinh-hai-but-la-tam-thuc-chuong-01) tại đây.
 
-Đọc [Bụt là hình hài, Bụt là tâm thức, chương 02](https://nhavantuonglai.com/article/but-la-hinh-hai-but-la-tam-thuc-chuong-02) tại đây.
+Đọc [Bụt là hình hài, Bụt là tâm thức, chương 02](/article/but-la-hinh-hai-but-la-tam-thuc-chuong-02) tại đây.
 
-Đọc [Bụt là hình hài, Bụt là tâm thức, chương 03](https://nhavantuonglai.com/article/but-la-hinh-hai-but-la-tam-thuc-chuong-03) tại đây.
+Đọc [Bụt là hình hài, Bụt là tâm thức, chương 03](/article/but-la-hinh-hai-but-la-tam-thuc-chuong-03) tại đây.
 
-Đọc [Bụt là hình hài, Bụt là tâm thức, chương 04](https://nhavantuonglai.com/article/but-la-hinh-hai-but-la-tam-thuc-chuong-04) tại đây.
+Đọc [Bụt là hình hài, Bụt là tâm thức, chương 04](/article/but-la-hinh-hai-but-la-tam-thuc-chuong-04) tại đây.
 
-Đọc [Bụt là hình hài, Bụt là tâm thức, chương 05](https://nhavantuonglai.com/article/but-la-hinh-hai-but-la-tam-thuc-chuong-05) tại đây.
+Đọc [Bụt là hình hài, Bụt là tâm thức, chương 05](/article/but-la-hinh-hai-but-la-tam-thuc-chuong-05) tại đây.
 
-Đọc [Bụt là hình hài, Bụt là tâm thức, chương 06](https://nhavantuonglai.com/article/but-la-hinh-hai-but-la-tam-thuc-chuong-06) tại đây.
+Đọc [Bụt là hình hài, Bụt là tâm thức, chương 06](/article/but-la-hinh-hai-but-la-tam-thuc-chuong-06) tại đây.
 
-Đọc [Bụt là hình hài, Bụt là tâm thức, chương 07](https://nhavantuonglai.com/article/but-la-hinh-hai-but-la-tam-thuc-chuong-07) tại đây.
+Đọc [Bụt là hình hài, Bụt là tâm thức, chương 07](/article/but-la-hinh-hai-but-la-tam-thuc-chuong-07) tại đây.
 
-Đọc [Bụt là hình hài, Bụt là tâm thức, chương 08](https://nhavantuonglai.com/article/but-la-hinh-hai-but-la-tam-thuc-chuong-08) tại đây.
+Đọc [Bụt là hình hài, Bụt là tâm thức, chương 08](/article/but-la-hinh-hai-but-la-tam-thuc-chuong-08) tại đây.
 
-Đọc [Bụt là hình hài, Bụt là tâm thức, chương 09](https://nhavantuonglai.com/article/but-la-hinh-hai-but-la-tam-thuc-chuong-09) tại đây.
+Đọc [Bụt là hình hài, Bụt là tâm thức, chương 09](/article/but-la-hinh-hai-but-la-tam-thuc-chuong-09) tại đây.
 
-Đọc [Bụt là hình hài, Bụt là tâm thức, chương 10](https://nhavantuonglai.com/article/but-la-hinh-hai-but-la-tam-thuc-chuong-10) tại đây.
+Đọc [Bụt là hình hài, Bụt là tâm thức, chương 10](/article/but-la-hinh-hai-but-la-tam-thuc-chuong-10) tại đây.
 
 Đọc [Bụt là hình hài, Bụt là tâm thức, toàn tập](https://banmaixanh.vercel.app/ebook/but-la-hinh-hai-but-la-tam-thuc.pdf) tại đây.
 

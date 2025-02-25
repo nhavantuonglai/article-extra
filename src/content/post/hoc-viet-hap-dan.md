@@ -79,7 +79,7 @@ Sử dụng ngôn ngữ sống động và hình ảnh là cách hiệu quả đ
 
 ### Sử dụng kỹ thuật kể chuyện
 
-Kể chuyện là một [kỹ thuật viết lách](https://nhavantuonglai.com/article) hiệu quả giúp bạn truyền đạt thông điệp một cách lôi cuốn và dễ nhớ. Câu chuyện giúp kết nối cảm xúc với độc giả và làm cho nội dung trở nên sâu sắc hơn.
+Kể chuyện là một [kỹ thuật viết lách](/article) hiệu quả giúp bạn truyền đạt thông điệp một cách lôi cuốn và dễ nhớ. Câu chuyện giúp kết nối cảm xúc với độc giả và làm cho nội dung trở nên sâu sắc hơn.
 
 ### Cách kể chuyện hiệu quả
 
@@ -165,16 +165,16 @@ Viết lách hay không chỉ đòi hỏi kỹ năng mà còn cần sự cảm h
 
 ### Cách tìm cảm hứng và duy trì động lực
 
-– [Đọc nhiều hiểu sâu viết hay](https://nhavantuonglai.com/article): Đọc sách, báo, tạp chí và các blog để tìm cảm hứng và ý tưởng mới. Việc đọc cũng giúp bạn học hỏi và cải thiện kỹ năng viết của mình.
+– [Đọc nhiều hiểu sâu viết hay](/article): Đọc sách, báo, tạp chí và các blog để tìm cảm hứng và ý tưởng mới. Việc đọc cũng giúp bạn học hỏi và cải thiện kỹ năng viết của mình.
 
 – Ghi chép ý tưởng: Luôn mang theo một cuốn sổ hoặc sử dụng ứng dụng ghi chú trên điện thoại để ghi lại những ý tưởng bất chợt. Những ý tưởng này có thể trở thành nguồn cảm hứng cho bài viết của bạn.
 
-– Tham gia các nhóm viết: Tham gia các [l[Viết blog](https://nhavantuonglai.com/article)ớp học viết lách](https://nhavantuonglai.com/article) trên mạng xã hội hoặc các diễn đàn viết lách để kết nối với những người viết khác. Những cuộc thảo luận và phản hồi từ cộng đồng có thể giúp bạn duy trì động lực và phát triển kỹ năng viết của mình.
+– Tham gia các nhóm viết: Tham gia các [l[Viết blog](/article)ớp học viết lách](/article) trên mạng xã hội hoặc các diễn đàn viết lách để kết nối với những người viết khác. Những cuộc thảo luận và phản hồi từ cộng đồng có thể giúp bạn duy trì động lực và phát triển kỹ năng viết của mình.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-071.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
 ## Kết luận
 
-[Viết lách](https://nhavantuonglai.com/article) hay là một hành trình không ngừng học hỏi và rèn luyện. Bằng cách hiểu rõ độc giả, lập dàn ý trước khi viết, viết câu mở đầu hấp dẫn, sử dụng ngôn ngữ sống động và hình ảnh, kể chuyện, viết cô đọng và rõ ràng, sử dụng các từ nối và liên kết, sử dụng ví dụ và bằng chứng, chỉnh sửa và đánh giá, và tìm cảm hứng, bạn sẽ từng bước cải thiện kỹ năng viết lách của mình. Hãy nhớ rằng, viết lách là một nghệ thuật và mỗi bài viết là một tác phẩm nghệ thuật. Hãy viết từ trái tim và để ngòi bút của bạn vẽ nên những câu chuyện tuyệt vời.
+[Viết lách](/article) hay là một hành trình không ngừng học hỏi và rèn luyện. Bằng cách hiểu rõ độc giả, lập dàn ý trước khi viết, viết câu mở đầu hấp dẫn, sử dụng ngôn ngữ sống động và hình ảnh, kể chuyện, viết cô đọng và rõ ràng, sử dụng các từ nối và liên kết, sử dụng ví dụ và bằng chứng, chỉnh sửa và đánh giá, và tìm cảm hứng, bạn sẽ từng bước cải thiện kỹ năng viết lách của mình. Hãy nhớ rằng, viết lách là một nghệ thuật và mỗi bài viết là một tác phẩm nghệ thuật. Hãy viết từ trái tim và để ngòi bút của bạn vẽ nên những câu chuyện tuyệt vời.
 
 <figure><img src="https://banmaixanh.vercel.app/image/cover/001-514.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

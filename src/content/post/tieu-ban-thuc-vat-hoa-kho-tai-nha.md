@@ -18,7 +18,7 @@ _Làm hoa khô tại nhà là một cách tuyệt vời để giữ lại nhữn
 
 ## Tìm hiểu về ép tiêu bản hoa khô
 
-Ép [tiêu bản thực vật](https://nhavantuonglai.com/article/tieu-ban-thuc-vat-hoa-kho) là một kỹ thuật cổ điển để bảo quản và trưng bày hoa. Kỹ thuật này không chỉ giúp giữ lại hình dạng và màu sắc tự nhiên của hoa mà còn tạo ra những tiêu bản hoa khô độc đáo.
+Ép [tiêu bản thực vật](/article/tieu-ban-thuc-vat-hoa-kho) là một kỹ thuật cổ điển để bảo quản và trưng bày hoa. Kỹ thuật này không chỉ giúp giữ lại hình dạng và màu sắc tự nhiên của hoa mà còn tạo ra những tiêu bản hoa khô độc đáo.
 
 – Lịch sử: Kỹ thuật ép hoa khô đã được sử dụng từ thời cổ đại. Người Hy Lạp và La Mã cổ đại đã sử dụng phương pháp này để bảo quản hoa cho các mục đích y tế và nghệ thuật.
 
@@ -34,7 +34,7 @@ _Làm hoa khô tại nhà là một cách tuyệt vời để giữ lại nhữn
 
 ## Dụng cụ để làm tiêu bản hoa khô tại nhà
 
-Để bắt đầu làm [tiêu bản thực vật](https://nhavantuonglai.com/article/tieu-ban-thuc-vat-hoa-kho#bao-quan-tieu-ban-thuc-vat-hoa-kho) tại nhà, bạn cần chuẩn bị một số dụng cụ cơ bản. Những dụng cụ này rất dễ tìm thấy và bạn có thể tận dụng các vật dụng có sẵn trong nhà.
+Để bắt đầu làm [tiêu bản thực vật](/article/tieu-ban-thuc-vat-hoa-kho#bao-quan-tieu-ban-thuc-vat-hoa-kho) tại nhà, bạn cần chuẩn bị một số dụng cụ cơ bản. Những dụng cụ này rất dễ tìm thấy và bạn có thể tận dụng các vật dụng có sẵn trong nhà.
 
 – Báo hoặc giấy thấm: Dùng để hút ẩm từ hoa và giúp hoa khô nhanh hơn.
 
@@ -56,7 +56,7 @@ _Làm hoa khô tại nhà là một cách tuyệt vời để giữ lại nhữn
 
 ## Tận dụng vật dụng có sẵn trong nhà để làm hoa khô
 
-Bạn không cần phải đầu tư quá nhiều vào dụng cụ làm [tiêu bản thực vật](https://nhavantuonglai.com/article/tieu-ban-thuc-vat-hoa-kho#lam-tieu-ban). Hãy tận dụng những vật dụng có sẵn trong nhà để tiết kiệm chi phí.
+Bạn không cần phải đầu tư quá nhiều vào dụng cụ làm [tiêu bản thực vật](/article/tieu-ban-thuc-vat-hoa-kho#lam-tieu-ban). Hãy tận dụng những vật dụng có sẵn trong nhà để tiết kiệm chi phí.
 
 – Sách dày và nặng: Như đã đề cập, sách là một trong những công cụ tốt nhất để ép hoa khô. Hãy chọn những cuốn sách bạn ít sử dụng hoặc không ngại bị dính màu.
 
@@ -78,7 +78,7 @@ Bạn không cần phải đầu tư quá nhiều vào dụng cụ làm [tiêu b
 
 ## Các bước làm tiêu bản hoa khô đơn giản tại nhà
 
-Làm [tiêu bản thực vật](https://nhavantuonglai.com/article/tieu-ban-thuc-vat-hoa-kho#tieu-ban-mau-ep-thuc-vat) tại nhà rất đơn giản và dễ dàng thực hiện theo các bước sau:
+Làm [tiêu bản thực vật](/article/tieu-ban-thuc-vat-hoa-kho#tieu-ban-mau-ep-thuc-vat) tại nhà rất đơn giản và dễ dàng thực hiện theo các bước sau:
 
 1. Chuẩn bị hoa: Chọn những bông hoa tươi, đẹp và không bị hư hỏng. Cắt bỏ phần cuống và lá không cần thiết.
 
@@ -100,7 +100,7 @@ Làm [tiêu bản thực vật](https://nhavantuonglai.com/article/tieu-ban-thuc
 
 ## Bảo quản tiêu bản hoa khô ở nhà
 
-Sau khi hoàn thành quá trình ép [tiêu bản thực vật](https://nhavantuonglai.com/article/tieu-ban-thuc-vat-hoa-kho#mua-tieu-ban-thuc-vat-hoa-kho), việc bảo quản đúng cách sẽ giúp tiêu bản hoa khô của bạn bền đẹp lâu dài.
+Sau khi hoàn thành quá trình ép [tiêu bản thực vật](/article/tieu-ban-thuc-vat-hoa-kho#mua-tieu-ban-thuc-vat-hoa-kho), việc bảo quản đúng cách sẽ giúp tiêu bản hoa khô của bạn bền đẹp lâu dài.
 
 <iframe width="100%" height="1280" src="https://www.youtube.com/embed/enCACyBWrT0" title="thuc vat hoc, tieu ban thuc vat, tieu ban, tieu ban hoa kho, tieu ban thuc vat kho, tieu ban hoa." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -112,7 +112,7 @@ Sau khi hoàn thành quá trình ép [tiêu bản thực vật](https://nhavantu
 
 – Tránh ánh nắng trực tiếp: Ánh nắng có thể làm phai màu hoa khô, vì vậy hãy bảo quản hoa ở nơi thoáng mát, tránh ánh nắng trực tiếp.
 
-– Tránh độ ẩm cao: Độ ẩm cao có thể làm mốc [tiêu bản thực vật](https://nhavantuonglai.com/article/tieu-ban-thuc-vat-hoa-kho#cach-lam-tieu-ban-la-cay) khô. Hãy lưu trữ hoa ở nơi khô ráo và có độ ẩm thấp.
+– Tránh độ ẩm cao: Độ ẩm cao có thể làm mốc [tiêu bản thực vật](/article/tieu-ban-thuc-vat-hoa-kho#cach-lam-tieu-ban-la-cay) khô. Hãy lưu trữ hoa ở nơi khô ráo và có độ ẩm thấp.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/tieu-ban-thuc-vat-hoa-kho-05.jpg" alt="thuc vat hoc, tieu ban thuc vat, tieu ban, tieu ban hoa kho, tieu ban thuc vat kho, tieu ban hoa." title="thuc vat hoc, tieu ban thuc vat, tieu ban, tieu ban hoa kho, tieu ban thuc vat kho, tieu ban hoa." height=100% width=100%><figcaption><p>Tiêu bản hoa khô và tiêu bản thực vật khô là những mẫu thực vật đã qua xử lý, nhằm giữ nguyên hình dáng, cấu trúc và màu sắc.</p></figcaption></figure>
 
@@ -126,6 +126,6 @@ Sau khi hoàn thành quá trình ép [tiêu bản thực vật](https://nhavantu
 
 ## Kết luận
 
-Làm [tiêu bản thực vật](https://nhavantuonglai.com/article/tieu-ban-thuc-vat-hoa-kho#ban-tieu-ban-thuc-vat-kho) tại nhà không chỉ là một hoạt động thú vị mà còn giúp bạn tạo ra những tiêu bản hoa khô độc đáo và ý nghĩa. Với những dụng cụ đơn giản và các bước thực hiện dễ dàng, bạn có thể tạo ra những bông hoa khô đẹp mắt và bền lâu. Đừng quên bảo quản hoa khô đúng cách để giữ được vẻ đẹp của chúng. Hy vọng qua bài viết này, bạn đã có thêm kiến thức và cảm hứng để bắt đầu làm hoa khô tại nhà.
+Làm [tiêu bản thực vật](/article/tieu-ban-thuc-vat-hoa-kho#ban-tieu-ban-thuc-vat-kho) tại nhà không chỉ là một hoạt động thú vị mà còn giúp bạn tạo ra những tiêu bản hoa khô độc đáo và ý nghĩa. Với những dụng cụ đơn giản và các bước thực hiện dễ dàng, bạn có thể tạo ra những bông hoa khô đẹp mắt và bền lâu. Đừng quên bảo quản hoa khô đúng cách để giữ được vẻ đẹp của chúng. Hy vọng qua bài viết này, bạn đã có thêm kiến thức và cảm hứng để bắt đầu làm hoa khô tại nhà.
 
 <figure><img src="https://banmaixanh.vercel.app/image/cover/001-502.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

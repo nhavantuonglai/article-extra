@@ -23,7 +23,7 @@ _Những đánh giá trực tuyến tiêu cực ảnh hưởng rất nhiều đ�
 
 Trong lĩnh vực khách sạn, SOP (Standard Operating Procedure – Quy trình hoạt động tiêu chuẩn) là các quy trình, tiêu chuẩn làm việc để toàn bộ nhân viên tuân theo. Mục đích và yêu cầu cơ bản của SOP khách sạn là toàn bộ hoạt động đều phải được thực hiện theo cùng 1 cách, nhằm đảm bảo mọi thứ luôn được vận hành nhất quán. Một số tiêu chuẩn SOP cơ bản như là:
 
-– Quy trình [đón tiếp khách tại quầy lễ tân](https://nhavantuonglai.com/article).
+– Quy trình [đón tiếp khách tại quầy lễ tân](/article).
 
 – Quy trình tiếp nhận hành lý và xử lý hành lý của khách.
 
@@ -63,11 +63,11 @@ Khi giải quyết những vấn đề mà khách đặt phòng không hài lòn
 
 Điều đáng sợ hơn cả, là những đánh giá trực tuyến tiêu cực tác động lâu dài, đáng tin cậy hơn những đánh giá trực tuyến tích cực. Các số liệu dưới đây củng cố quan điểm ấy như sau:
 
-– 90% người dùng đọc các bài [đánh giá trực tuyến](https://nhavantuonglai.com/article) trước khi mua hàng, đặt phòng khách sạn.
+– 90% người dùng đọc các bài [đánh giá trực tuyến](/article) trước khi mua hàng, đặt phòng khách sạn.
 
 – 76% người dùng tin các đánh giá trực tuyến, xem chúng tương đồng như những đề xuất người quen.
 
-Nhưng đừng quá lo lắng bởi những [đánh giá trực tuyến tiêu cực](https://nhavantuonglai.com/article), bởi bạn hoàn toàn có thể cải thiện, biến từ sự tiêu cực của chúng thành những điều tích cực bằng các giải pháp dưới đây.
+Nhưng đừng quá lo lắng bởi những [đánh giá trực tuyến tiêu cực](/article), bởi bạn hoàn toàn có thể cải thiện, biến từ sự tiêu cực của chúng thành những điều tích cực bằng các giải pháp dưới đây.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-116.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
@@ -77,7 +77,7 @@ Không phải đánh giá trực tuyến tiêu cực nào cũng là chính xác,
 
 Dấu hiệu nhận diện các đánh giá trực tuyến thiếu căn cứ là: tập trung vào công kích, mô tả dịch vụ thiếu chính xác, thiếu hình ảnh. Một dấu hiệu khác là người dùng không cung cấp được bằng chứng cụ thể, chính xác về điều họ phàn nàn như hình ảnh minh họa, thời gian và địa điểm trải nghiệm gặp vấn đề. Ví dụ: đánh giá 1 sao bảo rằng hồ bơi nước bẩn và không có lối đi riêng, trong khi khách sạn của bạn không hè có hồ bơi; bữa ăn thiếu đa dạng và đồ ăn nguội, trong khi quầy ăn sáng có rất nhiều món nguội lẫn nóng cho mọi nhu cầu…
 
-Với các kênh bán phòng trực tuyến, muốn đánh giá thì phải đặt phòng và checkout thành công. Nhưng với các danh bạ điện tử như [Free Booking Links](https://nhavantuonglai.com/article), Google Business, Yelp hay Fanpage khách sạn… thì người dùng dễ dàng, thoải mái đánh giá dù có đặt phòng hay không. Cách tốt nhất để đối phó với những đánh giá thiếu căn cứ là gắn cờ (flag) và yêu cầu các nền tảng xem xét, xóa bỏ.
+Với các kênh bán phòng trực tuyến, muốn đánh giá thì phải đặt phòng và checkout thành công. Nhưng với các danh bạ điện tử như [Free Booking Links](/article), Google Business, Yelp hay Fanpage khách sạn… thì người dùng dễ dàng, thoải mái đánh giá dù có đặt phòng hay không. Cách tốt nhất để đối phó với những đánh giá thiếu căn cứ là gắn cờ (flag) và yêu cầu các nền tảng xem xét, xóa bỏ.
 
 Dù vậy, đừng xem tất cả đánh giá trực tuyến tiêu cực đều là xuyên tạc, thiếu căn cứ. Vì chúng thật sự hữu ích, giúp bạn biết khách sạn của mình đang gặp những vấn đề gì nhằm khắc phục hiệu quả. Một số đánh giá tiêu cực là chí mạng, thể hiện rõ điểm yếu chết người mà nếu đối thủ nhìn thấy và khách sạn của bạn chưa kịp sửa sai thì hậu quả sẽ vô cùng khôn lường, nhẹ thì mất khách còn nặng lại tổn hại lâu dài đến thương hiệu.
 
@@ -89,7 +89,7 @@ Sau khi xác thực tính chính xác của các đánh giá trực tuyến tiê
 
 Tiếp theo, đánh giá mức độ thiệt hại và khả năng hỗ trợ cụ thể của khách sạn. Ví dụ, đánh giá tiêu cực thể hiện dọn dẹp vệ sinh không chỉnh chu và còn bẩn, thì bạn nên kiểm tra các phòng còn lại, xem liệu có phòng nào tương tự như vậy để xử lý triệt để. Nếu du khách sẵn sàng quay lại đặt phòng, hãy đảm bảo rằng phòng ốc luôn được dọn dẹp kỹ càng, đáp ứng tối đa yêu cầu sách sẽ của họ.
 
-Sau đó, bổ sung và hoàn thiện quy trình của các bộ phận để [cải thiện trải nghiệm khách hàng tại khách sạn](https://nhavantuonglai.com/article), đặc biệt là bộ phận xây nên vấn đề khiến du khách không hài lòng. Cũng với tình huống phòng bẩn như nêu ở trên, bạn nên thêm bước kiểm tra chéo sau khi bộ phận dọn dẹp thực hiện xong công việc để phòng trừ những sai sót không đáng có.
+Sau đó, bổ sung và hoàn thiện quy trình của các bộ phận để [cải thiện trải nghiệm khách hàng tại khách sạn](/article), đặc biệt là bộ phận xây nên vấn đề khiến du khách không hài lòng. Cũng với tình huống phòng bẩn như nêu ở trên, bạn nên thêm bước kiểm tra chéo sau khi bộ phận dọn dẹp thực hiện xong công việc để phòng trừ những sai sót không đáng có.
 
 Và cuối cùng, cụ thể chúng bằng một bình luận rõ ràng, chi tiết, phản ánh sự cầu thị ghi nhận vấn đề và hướng giải quyết mà khách sạn đã thực hiện, cùng lời xin lỗi chân thành kèm voucher bù đắp phù hợp.
 
@@ -101,7 +101,7 @@ Nếu người dùng không trao đổi lại về phản hồi của bạn, đ�
 
 Dù tuyệt đối đến đâu, thì khách sạn của bạn cũng sẽ luôn có những vấn đề nảy sinh trong quá khi đón khách tại khách sạn. Nhưng đừng vì thế mà nặng nề hay cảm thấy khó chịu với những phàn nàn, không vừa ý của du khách; bởi chúng là điều hiển nhiên luôn xảy ra với mọi khách sạn, dù lớn hay nhỏ cũng đều là vậy. Điều bạn cần làm là sự cầu thị, chân thành giải quyết và ưu tiên quyền lợi du khách.
 
-Quan tâm và tạo nên [trải nghiệm khách hàng tốt](https://nhavantuonglai.com/article) sẽ tăng dần sự hài lòng cho khách đặt phòng, từ đó mà các đánh giá trực tuyến tiêu cực sẽ không có cơ hội xuất hiện trên các kênh đánh giá trực tuyến. Và điều có thể bạn đã nghe đến nhàm chán là: khách hàng luôn đúng, thì điều này vẫn luôn đúng bởi lẽ – họ là người tạo ra doanh thu, và trả lương cho mọi nhân viên trong khách sạn. Và cũng đừng quên chia sẻ, thể hiện rõ điều ấy cho mọi người biết, để họ luôn thấy rằng khách sạn của bạn đang thay đổi tích cực, hướng đến sự hài lòng của khách đặt phòng như thế nào.
+Quan tâm và tạo nên [trải nghiệm khách hàng tốt](/article) sẽ tăng dần sự hài lòng cho khách đặt phòng, từ đó mà các đánh giá trực tuyến tiêu cực sẽ không có cơ hội xuất hiện trên các kênh đánh giá trực tuyến. Và điều có thể bạn đã nghe đến nhàm chán là: khách hàng luôn đúng, thì điều này vẫn luôn đúng bởi lẽ – họ là người tạo ra doanh thu, và trả lương cho mọi nhân viên trong khách sạn. Và cũng đừng quên chia sẻ, thể hiện rõ điều ấy cho mọi người biết, để họ luôn thấy rằng khách sạn của bạn đang thay đổi tích cực, hướng đến sự hài lòng của khách đặt phòng như thế nào.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-118.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 

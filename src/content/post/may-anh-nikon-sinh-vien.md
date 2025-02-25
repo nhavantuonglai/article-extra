@@ -217,6 +217,6 @@ Giá cả và chính sách bảo hành cũng là yếu tố quan trọng khi ch�
 
 Việc lựa chọn máy ảnh Nikon phù hợp với túi tiền của sinh viên không hề dễ dàng, nhưng với những thông tin chi tiết và đánh giá trên, hy vọng bạn đã có thể tìm được mẫu máy ảnh ưng ý. Nikon Z50 và Nikon Z30 là những lựa chọn tuyệt vời cho người mới bắt đầu, trong khi Nikon Z5 và Nikon Z6 phù hợp cho những ai muốn nâng cấp lên dòng máy ảnh full-frame. Nikon D750 là lựa chọn truyền thống với các tính năng cơ bản và giá cả phải chăng. Chúc bạn sớm tìm được chiếc máy ảnh Nikon phù hợp với nhu cầu và ngân sách của mình.
 
-Nếu bạn không thích những gợi ý nêu trên, thì có thể tìm hiểu [máy ảnh Canon giá rẻ](https://nhavantuonglai.com/article/may-anh-canon-sinh-vien), cũng như [máy ảnh Sony giá rẻ](https://nhavantuonglai.com/article/may-anh-sony-sinh-vien) để có cho mình chiếc máy ảnh ưa ý và hợp túi tiền.
+Nếu bạn không thích những gợi ý nêu trên, thì có thể tìm hiểu [máy ảnh Canon giá rẻ](/article/may-anh-canon-sinh-vien), cũng như [máy ảnh Sony giá rẻ](/article/may-anh-sony-sinh-vien) để có cho mình chiếc máy ảnh ưa ý và hợp túi tiền.
 
 <figure><img src="https://banmaixanh.vercel.app/image/cover/001-231.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

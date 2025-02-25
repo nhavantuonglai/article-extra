@@ -187,25 +187,25 @@ Tất cả chúng ta đều biết rằng những mầu nhiệm của cuộc s�
 
 Nhờ tiếp xúc với khổ đau mà người ta có thêm hiểu biết, thương yêu. Ở nước Chúa, nếu không có khổ đau thì cũng không có hiểu biết, thương yêu. Và nếu không có hai thứ này, chúng ta cũng không thể gọi là nước Chúa hay Tịnh Độ. Rất đơn giản và rõ ràng. Vì thế, tôi định nghĩa về Tịnh Độ của Bụt hay nước Chúa là nơi có nhiều cơ hội cho ta học hiểu, học thương. Khi có nhiều hiểu biết và thương yêu, chúng ta không còn sợ khổ đau nữa. Cũng giống như một người làm vườn giỏi bằng phương thức hữu cơ, chúng ta không sợ rác bởi vì chúng ta biết cách chuyển rác thành hoa. Đó là cái nhìn bất nhị. Hai đóa hoa xinh đẹp mà tôi hái hôm qua tặng quý thượng tọa là những mầu nhiệm của cuộc sống. Nếu không có chánh niệm, chúng ta không thể tiếp xúc được với chúng. Những mầu nhiệm của cuộc sống luôn luôn có đó, ngay trong phút giây hiện tại, trong ta và xung quanh ta. Bộ não của ta là một mầu nhiệm, hai mắt ta là một mầu nhiệm, trái tim ta là một mầu nhiệm, mỗi tế bào trong cơ thể ta là một mầu nhiệm. Mọi thứ xung quanh ta đều mầu nhiệm. Tất cả đều thuộc nước Chúa, đều thuộc cõi Tịnh Độ. Vậy mà chúng ta đã sống hoàn toàn quên lãng, không biết sự có mặt của chúng. Chúng ta bị kẹt vào những lo toan, tính toán, những thất vọng, ganh tị, sợ hãi nên chúng ta đã đánh mất nước Chúa, đánh mất cõi Tịnh Độ.
 
-Đọc [Bụt là hình hài, Bụt là tâm thức, chương 01](https://nhavantuonglai.com/article/but-la-hinh-hai-but-la-tam-thuc-chuong-01) tại đây.
+Đọc [Bụt là hình hài, Bụt là tâm thức, chương 01](/article/but-la-hinh-hai-but-la-tam-thuc-chuong-01) tại đây.
 
-Đọc [Bụt là hình hài, Bụt là tâm thức, chương 02](https://nhavantuonglai.com/article/but-la-hinh-hai-but-la-tam-thuc-chuong-02) tại đây.
+Đọc [Bụt là hình hài, Bụt là tâm thức, chương 02](/article/but-la-hinh-hai-but-la-tam-thuc-chuong-02) tại đây.
 
-Đọc [Bụt là hình hài, Bụt là tâm thức, chương 03](https://nhavantuonglai.com/article/but-la-hinh-hai-but-la-tam-thuc-chuong-03) tại đây.
+Đọc [Bụt là hình hài, Bụt là tâm thức, chương 03](/article/but-la-hinh-hai-but-la-tam-thuc-chuong-03) tại đây.
 
-Đọc [Bụt là hình hài, Bụt là tâm thức, chương 04](https://nhavantuonglai.com/article/but-la-hinh-hai-but-la-tam-thuc-chuong-04) tại đây.
+Đọc [Bụt là hình hài, Bụt là tâm thức, chương 04](/article/but-la-hinh-hai-but-la-tam-thuc-chuong-04) tại đây.
 
-Đọc [Bụt là hình hài, Bụt là tâm thức, chương 05](https://nhavantuonglai.com/article/but-la-hinh-hai-but-la-tam-thuc-chuong-05) tại đây.
+Đọc [Bụt là hình hài, Bụt là tâm thức, chương 05](/article/but-la-hinh-hai-but-la-tam-thuc-chuong-05) tại đây.
 
-Đọc [Bụt là hình hài, Bụt là tâm thức, chương 06](https://nhavantuonglai.com/article/but-la-hinh-hai-but-la-tam-thuc-chuong-06) tại đây.
+Đọc [Bụt là hình hài, Bụt là tâm thức, chương 06](/article/but-la-hinh-hai-but-la-tam-thuc-chuong-06) tại đây.
 
-Đọc [Bụt là hình hài, Bụt là tâm thức, chương 07](https://nhavantuonglai.com/article/but-la-hinh-hai-but-la-tam-thuc-chuong-07) tại đây.
+Đọc [Bụt là hình hài, Bụt là tâm thức, chương 07](/article/but-la-hinh-hai-but-la-tam-thuc-chuong-07) tại đây.
 
-Đọc [Bụt là hình hài, Bụt là tâm thức, chương 08](https://nhavantuonglai.com/article/but-la-hinh-hai-but-la-tam-thuc-chuong-08) tại đây.
+Đọc [Bụt là hình hài, Bụt là tâm thức, chương 08](/article/but-la-hinh-hai-but-la-tam-thuc-chuong-08) tại đây.
 
-Đọc [Bụt là hình hài, Bụt là tâm thức, chương 09](https://nhavantuonglai.com/article/but-la-hinh-hai-but-la-tam-thuc-chuong-09) tại đây.
+Đọc [Bụt là hình hài, Bụt là tâm thức, chương 09](/article/but-la-hinh-hai-but-la-tam-thuc-chuong-09) tại đây.
 
-Đọc [Bụt là hình hài, Bụt là tâm thức, chương 10](https://nhavantuonglai.com/article/but-la-hinh-hai-but-la-tam-thuc-chuong-10) tại đây.
+Đọc [Bụt là hình hài, Bụt là tâm thức, chương 10](/article/but-la-hinh-hai-but-la-tam-thuc-chuong-10) tại đây.
 
 Đọc [Bụt là hình hài, Bụt là tâm thức, toàn tập](https://banmaixanh.vercel.app/ebook/but-la-hinh-hai-but-la-tam-thuc.pdf) tại đây.
 

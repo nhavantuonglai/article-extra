@@ -47,21 +47,21 @@ Ai mà không _nổi loạn_ thì kẻ đó là người tầm thường, kẻ a
 
 Cho nên ta hãy van xin các nhà văn nghệ đừng đào sâu thêm, đừng trình bày thêm khía cạnh chán chường cô độc của con người, đừng bi kịch hóa thêm những gì đã vì vụng dại của chúng ta mà trở nên bi kịch. Vết thương rướm máu, xin đừng cào quấu thêm ra. Đừng tự ám thị và đừng ám thị kẻ khác nữa. Vạn sự là do tâm chúng ta. Đừng chết đuối trong biển chán chường cô độc do chúng ta tự tạo. Văn nghệ nên đảm nhận sứ mệnh tri liệu bởi vì ở giữa đời này không có ai lại là người có thể sống một cách vô trách nhiệm, dù là nhân danh tự do. Chúng ta hãy lắng lòng cho phong ba bão táp dịu xuống, cho mây mù tan đi. Chúng ta không thực sự cô đơn. Cuộc đời không thực sự đáng ghê tởm. Cuộc đời cũng như sự sống là một cái gì mầu nhiệm. Mẫu trời xanh trong mắt em thơ thật là mầu nhiệm. Tư tưởng chúng ta cũng là những gì mầu nhiệm. Chúng ta hãy bình tĩnh lại để thấy rằng ngục tù giam hãm chúng ta trong cô đơn vốn là một ngục tù do tâm chúng ta tự tạo. Hãy ngồi xuống và bắt đầu bằng một cuộc nói chuyện thực sự. Hãy đập vỡ cái vỏ cứng đang giam hãm em. Hãy cố gắng về phần em một tí. Tôi biết khi em đọc qua những giòng này em có thể nói rằng tôi không hiểu em. Và khi nghe em nói như thế, tôi cũng có thể trả lời rằng: Em không hiểu tôi. Như vậy, cuối cùng chúng ta cũng sẽ chẳng đi đến đâu. Chi bằng chúng ta hãy chấp nhận sự thực này: nếu tôi không hiểu em, thì ít nhất tôi cũng đang muốn tìm hiểu em và muốn được em hiểu. Nơi em, tôi cũng chỉ mong có chừng ấy. Bởi vì tôi thấy chìa khóa của vấn đề là nơi sự thông cảm. Có sự thông cảm, chúng ta mới đánh tan được ảo giác cô độc. Và chỉ có thông cảm chúng ta mới có phương tiện gom tâm lực của chúng ta thành một sức mới để có thể nổi loạn một cách bình tĩnh, hữu hiệu, chống lại được guồng máy, chuyển đổi được tình trạng. Nếu không, những cuộc nổi loạn đơn độc vụng về và mất bình tĩnh cũng sẽ chỉ đưa đến thêm những đổ vỡ những đen tối và tình trạng sẽ vì vậy mà càng ngày càng trầm trọng hơn lên.
 
-Đọc [Nói với tuổi hai mươi, chương 01](https://nhavantuonglai.com/article/noi-voi-tuoi-hai-muoi-chuong-01) tại đây.
+Đọc [Nói với tuổi hai mươi, chương 01](/article/noi-voi-tuoi-hai-muoi-chuong-01) tại đây.
 
-Đọc [Nói với tuổi hai mươi, chương 02](https://nhavantuonglai.com/article/noi-voi-tuoi-hai-muoi-chuong-02) tại đây.
+Đọc [Nói với tuổi hai mươi, chương 02](/article/noi-voi-tuoi-hai-muoi-chuong-02) tại đây.
 
-Đọc [Nói với tuổi hai mươi, chương 03](https://nhavantuonglai.com/article/noi-voi-tuoi-hai-muoi-chuong-03) tại đây.
+Đọc [Nói với tuổi hai mươi, chương 03](/article/noi-voi-tuoi-hai-muoi-chuong-03) tại đây.
 
-Đọc [Nói với tuổi hai mươi, chương 04](https://nhavantuonglai.com/article/noi-voi-tuoi-hai-muoi-chuong-04) tại đây.
+Đọc [Nói với tuổi hai mươi, chương 04](/article/noi-voi-tuoi-hai-muoi-chuong-04) tại đây.
 
-Đọc [Nói với tuổi hai mươi, chương 05](https://nhavantuonglai.com/article/noi-voi-tuoi-hai-muoi-chuong-05) tại đây.
+Đọc [Nói với tuổi hai mươi, chương 05](/article/noi-voi-tuoi-hai-muoi-chuong-05) tại đây.
 
-Đọc [Nói với tuổi hai mươi, chương 06](https://nhavantuonglai.com/article/noi-voi-tuoi-hai-muoi-chuong-06) tại đây.
+Đọc [Nói với tuổi hai mươi, chương 06](/article/noi-voi-tuoi-hai-muoi-chuong-06) tại đây.
 
-Đọc [Nói với tuổi hai mươi, chương 07](https://nhavantuonglai.com/article/noi-voi-tuoi-hai-muoi-chuong-07) tại đây.
+Đọc [Nói với tuổi hai mươi, chương 07](/article/noi-voi-tuoi-hai-muoi-chuong-07) tại đây.
 
-Đọc [Nói với tuổi hai mươi, chương 08](https://nhavantuonglai.com/article/noi-voi-tuoi-hai-muoi-chuong-08) tại đây.
+Đọc [Nói với tuổi hai mươi, chương 08](/article/noi-voi-tuoi-hai-muoi-chuong-08) tại đây.
 
 Đọc [Nói với tuổi hai mươi, toàn tập](https://banmaixanh.vercel.app/ebook/noi-voi-tuoi-hai-muoi.pdf) tại đây.
 

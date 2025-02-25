@@ -113,43 +113,43 @@ Những ngôi sao khi tàn hoại nó trở thành những đám bụi trong vũ
 
 Kinh Hoa Nghiêm đã dùng những hình ảnh rất đẹp để nói về tính duyên khởi, sự tương duyên, tương tức. Cũng trong kinh này, chúng ta được học rằng cái một chứa đựng cái tất cả. Vậy nên mình là cái một nhưng đồng thời mình cũng là cái tất cả. Khoa học bây giờ đã bắt đầu tiếp cận được với sự thật đó, thấy cái tất cả có mặt ở trong cái một và cái một có trong tất cả. Vì vậy cho nên một giây phút mà mình có niệm, có định và tiếp xúc được với sự thật ấy thì đó chính là giây phút giác ngộ. Khi tiếp xúc được với sự thật này không bằng suy tư mà bằng kinh nghiệm thì có những điều mầu nhiệm xảy ra. Mình không những có an lạc, hạnh phúc, tự do mà mình thấy giống như là mình đã làm được, đã thực hiện được cái mà tất cả những thế hệ tổ tiên của mình từng mong ước nhưng chưa thực hiện được. Hiện giờ mình đang nắm cơ hội trong tay, có nghĩa là tổ tiên mình cũng đang có cơ hội, điều này tùy thuộc vào mình rất nhiều. Đạo Phật chỉ nói về chuyện đó thôi: Thức dậy! Mà thức dậy bằng cái gì? Bằng niệm, bằng định. Có niệm, có định thì chắc chắn sẽ có tuệ. Có tuệ là thức dậy, là tỉnh thức, mà thức dậy rồi thì không cần làm gì nữa. Khi ấy chính mình là người đóng góp được nhiều nhất cho hòa bình và an lạc của thế giới. Tại vì những lo lắng, phiền muộn, bạo động, ưu tư không còn nữa do có giác ngộ. Đời sống của một người tu, của một hành giả là như vậy, dù mình là xuất sĩ hay cư sĩ. Chúng ta đang có một cơ hội lớn và tôi mong bạn đừng đánh mất cơ hội đó, chúng ta phải thực hiện nó ngay trong ngày hôm nay chứ đừng để mười năm, hai mươi năm sau mới làm.
 
-Đọc [Con đã có đường đi, chương 01](https://nhavantuonglai.com/article/con-da-co-duong-di-chuong-01) tại đây.
+Đọc [Con đã có đường đi, chương 01](/article/con-da-co-duong-di-chuong-01) tại đây.
 
-Đọc [Con đã có đường đi, chương 02](https://nhavantuonglai.com/article/con-da-co-duong-di-chuong-02) tại đây.
+Đọc [Con đã có đường đi, chương 02](/article/con-da-co-duong-di-chuong-02) tại đây.
 
-Đọc [Con đã có đường đi, chương 03](https://nhavantuonglai.com/article/con-da-co-duong-di-chuong-03) tại đây.
+Đọc [Con đã có đường đi, chương 03](/article/con-da-co-duong-di-chuong-03) tại đây.
 
-Đọc [Con đã có đường đi, chương 04](https://nhavantuonglai.com/article/con-da-co-duong-di-chuong-04) tại đây.
+Đọc [Con đã có đường đi, chương 04](/article/con-da-co-duong-di-chuong-04) tại đây.
 
-Đọc [Con đã có đường đi, chương 05](https://nhavantuonglai.com/article/con-da-co-duong-di-chuong-05) tại đây.
+Đọc [Con đã có đường đi, chương 05](/article/con-da-co-duong-di-chuong-05) tại đây.
 
-Đọc [Con đã có đường đi, chương 06](https://nhavantuonglai.com/article/con-da-co-duong-di-chuong-06) tại đây.
+Đọc [Con đã có đường đi, chương 06](/article/con-da-co-duong-di-chuong-06) tại đây.
 
-Đọc [Con đã có đường đi, chương 07](https://nhavantuonglai.com/article/con-da-co-duong-di-chuong-07) tại đây.
+Đọc [Con đã có đường đi, chương 07](/article/con-da-co-duong-di-chuong-07) tại đây.
 
-Đọc [Con đã có đường đi, chương 09](https://nhavantuonglai.com/article/con-da-co-duong-di-chuong-09) tại đây.
+Đọc [Con đã có đường đi, chương 09](/article/con-da-co-duong-di-chuong-09) tại đây.
 
-Đọc [Con đã có đường đi, chương 10](https://nhavantuonglai.com/article/con-da-co-duong-di-chuong-10) tại đây.
+Đọc [Con đã có đường đi, chương 10](/article/con-da-co-duong-di-chuong-10) tại đây.
 
-Đọc [Con đã có đường đi, chương 11](https://nhavantuonglai.com/article/con-da-co-duong-di-chuong-11) tại đây.
+Đọc [Con đã có đường đi, chương 11](/article/con-da-co-duong-di-chuong-11) tại đây.
 
-Đọc [Con đã có đường đi, chương 12](https://nhavantuonglai.com/article/con-da-co-duong-di-chuong-12) tại đây.
+Đọc [Con đã có đường đi, chương 12](/article/con-da-co-duong-di-chuong-12) tại đây.
 
-Đọc [Con đã có đường đi, chương 13](https://nhavantuonglai.com/article/con-da-co-duong-di-chuong-13) tại đây.
+Đọc [Con đã có đường đi, chương 13](/article/con-da-co-duong-di-chuong-13) tại đây.
 
-Đọc [Con đã có đường đi, chương 14](https://nhavantuonglai.com/article/con-da-co-duong-di-chuong-14) tại đây.
+Đọc [Con đã có đường đi, chương 14](/article/con-da-co-duong-di-chuong-14) tại đây.
 
-Đọc [Con đã có đường đi, chương 15](https://nhavantuonglai.com/article/con-da-co-duong-di-chuong-15) tại đây.
+Đọc [Con đã có đường đi, chương 15](/article/con-da-co-duong-di-chuong-15) tại đây.
 
-Đọc [Con đã có đường đi, chương 16](https://nhavantuonglai.com/article/con-da-co-duong-di-chuong-16) tại đây.
+Đọc [Con đã có đường đi, chương 16](/article/con-da-co-duong-di-chuong-16) tại đây.
 
-Đọc [Con đã có đường đi, chương 17](https://nhavantuonglai.com/article/con-da-co-duong-di-chuong-17) tại đây.
+Đọc [Con đã có đường đi, chương 17](/article/con-da-co-duong-di-chuong-17) tại đây.
 
-Đọc [Con đã có đường đi, chương 18](https://nhavantuonglai.com/article/con-da-co-duong-di-chuong-18) tại đây.
+Đọc [Con đã có đường đi, chương 18](/article/con-da-co-duong-di-chuong-18) tại đây.
 
-Đọc [Con đã có đường đi, chương 19](https://nhavantuonglai.com/article/con-da-co-duong-di-chuong-19) tại đây.
+Đọc [Con đã có đường đi, chương 19](/article/con-da-co-duong-di-chuong-19) tại đây.
 
-Đọc [Con đã có đường đi, chương 20](https://nhavantuonglai.com/article/con-da-co-duong-di-chuong-20) tại đây.
+Đọc [Con đã có đường đi, chương 20](/article/con-da-co-duong-di-chuong-20) tại đây.
 
 Đọc [Con đã có đường đi, toàn tập](https://banmaixanh.vercel.app/ebook/con-da-co-duong-di.pdf) tại đây.
 

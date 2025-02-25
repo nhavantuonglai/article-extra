@@ -105,7 +105,7 @@ Tham gia các cộng đồng viết lách là cách tốt để học hỏi từ
 
 – Tham gia các diễn đàn viết: Các diễn đàn viết lách là nơi bạn có thể trao đổi kinh nghiệm, học hỏi từ những người khác và nhận phản hồi về bài viết của mình.
 
-– Tham gia các khóa học viết: Các [Khóa học viết blog](https://nhavantuonglai.com/article) trực tuyến hoặc trực tiếp có thể giúp bạn học hỏi từ những người viết giỏi và cải thiện kỹ năng viết của mình.
+– Tham gia các khóa học viết: Các [Khóa học viết blog](/article) trực tuyến hoặc trực tiếp có thể giúp bạn học hỏi từ những người viết giỏi và cải thiện kỹ năng viết của mình.
 
 – Tham gia các nhóm viết: Các nhóm viết trên mạng xã hội như Facebook, LinkedIn cũng là nơi bạn có thể kết nối với những người viết khác và nhận được sự hỗ trợ.
 

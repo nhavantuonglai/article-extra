@@ -93,17 +93,17 @@ Ma Ha Ca Diếp đạt tới giây phút tỉnh thức khi đức Phật đưa l
 
 Bản chất của thiền là sự tỉnh thức đạt ngộ. Vì vậy người ta không nói về thiền, người ta chỉ thực nghiệm thiền. Nhưng sự tỉnh thức là một hiện tượng lớn. Và vì là một hiện tượng lớn nó rạng chiếu xung quanh nó như một mặt trời. Một con người đạt ngộ có thể được nhận diện bởi nhiều dấu hiệu. Trước hết là dấu hiệu tự tại. Người ấy không bị lệ thuộc và khống chế bởi những thành bại, đắc thất, những vui buồn, mừng sợ tầm thường. Sau nữa là dấu hiệu sức mạnh. Ðức trầm tỉnh, sự yên lặng hoặc sự thung dung của người ấy chứng tỏ một sức mạnh lớn lao bên trong tâm linh. Ta có thể nói không sai lạc rằng, nụ cười, cái nhìn, lời nói, hoặc cử động của người đạt ngộ đều là ngôn ngữ của sự chứng ngộ. Một vị thiền sư có thể dùng nụ cười, cái nhìn, lời nói hoặc cử chỉ của mình như những phương tiện diễn bày sự chứng ngộ để dìu dắt và giúp đỡ những thiền sinh. Vị thiền sư cũng xử dụng khái niệm và ngôn từ như bất cứ ai khác. Tuy nhiên, ngôn ngữ thiền trong khi xử dụng khái niệm luôn luôn vượt khỏi những xiềng xích của khái niệm.
 
-Đọc [Nẻo vào thiền học, chương 01](https://nhavantuonglai.com/article/neo-vao-thien-hoc-chuong-01) tại đây.
+Đọc [Nẻo vào thiền học, chương 01](/article/neo-vao-thien-hoc-chuong-01) tại đây.
 
-Đọc [Nẻo vào thiền học, chương 02](https://nhavantuonglai.com/article/neo-vao-thien-hoc-chuong-02) tại đây.
+Đọc [Nẻo vào thiền học, chương 02](/article/neo-vao-thien-hoc-chuong-02) tại đây.
 
-Đọc [Nẻo vào thiền học, chương 03](https://nhavantuonglai.com/article/neo-vao-thien-hoc-chuong-03) tại đây.
+Đọc [Nẻo vào thiền học, chương 03](/article/neo-vao-thien-hoc-chuong-03) tại đây.
 
-Đọc [Nẻo vào thiền học, chương 04](https://nhavantuonglai.com/article/neo-vao-thien-hoc-chuong-04) tại đây.
+Đọc [Nẻo vào thiền học, chương 04](/article/neo-vao-thien-hoc-chuong-04) tại đây.
 
-Đọc [Nẻo vào thiền học, chương 05](https://nhavantuonglai.com/article/neo-vao-thien-hoc-chuong-05) tại đây.
+Đọc [Nẻo vào thiền học, chương 05](/article/neo-vao-thien-hoc-chuong-05) tại đây.
 
-Đọc [Nẻo vào thiền học, chương 06](https://nhavantuonglai.com/article/neo-vao-thien-hoc-chuong-06) tại đây.
+Đọc [Nẻo vào thiền học, chương 06](/article/neo-vao-thien-hoc-chuong-06) tại đây.
 
 Đọc [Nẻo vào thiền học, toàn tập](https://banmaixanh.vercel.app/ebook/neo-vao-thien-hoc.pdf) tại đây.
 

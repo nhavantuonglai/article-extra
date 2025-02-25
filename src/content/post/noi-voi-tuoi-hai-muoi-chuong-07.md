@@ -33,21 +33,21 @@ Tôn giáo còn tiến bộ nhiều nữa trong đà tiến bộ chung của nh�
 
 Không khí tôn giáo vẫn còn nặng nề, trong lúc này, và điều đó trông cậy ở sự cố gắng, thái độ cởi mở và tôn trọng của em. Phải làm sao cho mọi ngôi chùa, mọi tu viện, mọi giáo đường trở nên những bông hoa im lìm đẹp nhất của đất nước. Và làm sao cho những cộng đồng tôn giáo đều hướng về sự phát triển đời sống toàn diện của con người, làm sao cho mọi tôn giáo gặp nhau trong thái độ thực sự nhân bản, không lấy những nhận thức độc quyền về tôn giáo – những giáo điều, mà lấy con người làm đối tượng và cứu cánh.
 
-Đọc [Nói với tuổi hai mươi, chương 01](https://nhavantuonglai.com/article/noi-voi-tuoi-hai-muoi-chuong-01) tại đây.
+Đọc [Nói với tuổi hai mươi, chương 01](/article/noi-voi-tuoi-hai-muoi-chuong-01) tại đây.
 
-Đọc [Nói với tuổi hai mươi, chương 02](https://nhavantuonglai.com/article/noi-voi-tuoi-hai-muoi-chuong-02) tại đây.
+Đọc [Nói với tuổi hai mươi, chương 02](/article/noi-voi-tuoi-hai-muoi-chuong-02) tại đây.
 
-Đọc [Nói với tuổi hai mươi, chương 03](https://nhavantuonglai.com/article/noi-voi-tuoi-hai-muoi-chuong-03) tại đây.
+Đọc [Nói với tuổi hai mươi, chương 03](/article/noi-voi-tuoi-hai-muoi-chuong-03) tại đây.
 
-Đọc [Nói với tuổi hai mươi, chương 04](https://nhavantuonglai.com/article/noi-voi-tuoi-hai-muoi-chuong-04) tại đây.
+Đọc [Nói với tuổi hai mươi, chương 04](/article/noi-voi-tuoi-hai-muoi-chuong-04) tại đây.
 
-Đọc [Nói với tuổi hai mươi, chương 05](https://nhavantuonglai.com/article/noi-voi-tuoi-hai-muoi-chuong-05) tại đây.
+Đọc [Nói với tuổi hai mươi, chương 05](/article/noi-voi-tuoi-hai-muoi-chuong-05) tại đây.
 
-Đọc [Nói với tuổi hai mươi, chương 06](https://nhavantuonglai.com/article/noi-voi-tuoi-hai-muoi-chuong-06) tại đây.
+Đọc [Nói với tuổi hai mươi, chương 06](/article/noi-voi-tuoi-hai-muoi-chuong-06) tại đây.
 
-Đọc [Nói với tuổi hai mươi, chương 07](https://nhavantuonglai.com/article/noi-voi-tuoi-hai-muoi-chuong-07) tại đây.
+Đọc [Nói với tuổi hai mươi, chương 07](/article/noi-voi-tuoi-hai-muoi-chuong-07) tại đây.
 
-Đọc [Nói với tuổi hai mươi, chương 08](https://nhavantuonglai.com/article/noi-voi-tuoi-hai-muoi-chuong-08) tại đây.
+Đọc [Nói với tuổi hai mươi, chương 08](/article/noi-voi-tuoi-hai-muoi-chuong-08) tại đây.
 
 Đọc [Nói với tuổi hai mươi, toàn tập](https://banmaixanh.vercel.app/ebook/noi-voi-tuoi-hai-muoi.pdf) tại đây.
 

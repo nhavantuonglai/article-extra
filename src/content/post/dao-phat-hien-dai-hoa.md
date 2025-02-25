@@ -27,15 +27,15 @@ _Hiện đại hoá đạo Phật không có nghĩa là thế tục hóa đạo 
 
 Còn không _nhập thế_ thì không phải là đạo Phật nữa, bởi vì từ bi và trí tuệ, bản chất của đạo Phật trong trường hợp này, sẽ không có chỗ sử dụng. Hơn nữa, theo đạo Phật, xuất thế và nhập thế có liên hệ mật thiết đến nhau. Xuất thế có nghĩa là _nắm_ được chân lý của cuộc đời làm chủ động được mình, được tình thế, và không còn bị sai sử, lung lạc và chìm đắm bởi cuộc đời. Xuất thế không phải là chống đối với cuộc đời mà là cao hơn cuộc đời. Một sự chạy trốn, ghét bỏ xa lánh thì không thể gọi là cao hơn. Có thể thấp hơn cũng chưa biết chừng. Chân lý (hoặc chân tướng) của cuộc đời không thể tìm thấy ngoài cuộc đời. Những tu viện cách biệt với chợ búa làng xóm không phải là những dấu hiệu xuất thế. Những tự viện ấy cũng có giá trị tương đương với những phòng thí nghiệm của các nhà bác học.
 
-Đọc [Đạo phật hiện đại hóa, chương 01](https://nhavantuonglai.com/article/dao-phat-hien-dai-hoa-chuong-01) tại đây.
+Đọc [Đạo phật hiện đại hóa, chương 01](/article/dao-phat-hien-dai-hoa-chuong-01) tại đây.
 
-Đọc [Đạo phật hiện đại hóa, chương 02](https://nhavantuonglai.com/article/dao-phat-hien-dai-hoa-chuong-02) tại đây.
+Đọc [Đạo phật hiện đại hóa, chương 02](/article/dao-phat-hien-dai-hoa-chuong-02) tại đây.
 
-Đọc [Đạo phật hiện đại hóa, chương 03](https://nhavantuonglai.com/article/dao-phat-hien-dai-hoa-chuong-03) tại đây.
+Đọc [Đạo phật hiện đại hóa, chương 03](/article/dao-phat-hien-dai-hoa-chuong-03) tại đây.
 
-Đọc [Đạo phật hiện đại hóa, chương 04](https://nhavantuonglai.com/article/dao-phat-hien-dai-hoa-chuong-04) tại đây.
+Đọc [Đạo phật hiện đại hóa, chương 04](/article/dao-phat-hien-dai-hoa-chuong-04) tại đây.
 
-Đọc [Đạo phật hiện đại hóa, chương 05](https://nhavantuonglai.com/article/dao-phat-hien-dai-hoa-chuong-05) tại đây.
+Đọc [Đạo phật hiện đại hóa, chương 05](/article/dao-phat-hien-dai-hoa-chuong-05) tại đây.
 
 Đọc [Đạo phật hiện đại hóa, toàn tập](https://banmaixanh.vercel.app/ebook/dao-phat-di-vao-cuoc-doi.pdf) tại đây.
 

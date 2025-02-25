@@ -63,7 +63,7 @@ Nếu có khuyên, thì tôi sẽ khuyên anh như thế này. Chiều nay, khi 
 
 Đó là điệp khúc tôi muốn ca hát cho anh nghe hôm nay. Và anh hãy ca, chị hãy ca, em hãy ca cho cuộc đời đừng chìm trong vô tâm, quên lãng. Đóa hoa màu hồng tôi cài trên áo anh rồi đó. Anh hãy sung sướng đi.
 
-Đọc [Bông hồng cài áo, toàn tập](https://nhavantuonglai.com/article/bong-hong-cai-ao) tại đây.
+Đọc [Bông hồng cài áo, toàn tập](/article/bong-hong-cai-ao) tại đây.
 
 Đọc [Bông hồng cài áo, toàn tập](https://banmaixanh.vercel.app/ebook/bong-hong-cai-ao.pdf) tại đây.
 

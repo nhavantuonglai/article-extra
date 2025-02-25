@@ -167,37 +167,37 @@ Còn với con người? Ở các vườn trái cây California có phun thuốc
 
 Với từng trường hợp như vậy, người ta từ chối cân nhắc trả lời câu hỏi:Ai ra quyết định đánh thuốc độc hàng loạt, đưa những làn sóng tử thần này ngày càng lan rộng, như những làn sóng tạo thành khi ném sỏi vào một mặt hồ tĩnh lặng? Ai quyết định thứ gì là quan trọng hơn, những chiếc lá làm thức ăn cho bọ cánh cứng hay những sinh vật lông vũ tội nghiệp, những thể xác không hồn của loài chim phải gục ngã trước đòn giáng mang tên thuốc diệt côn trùng vón không khoan nhượng bất kỳ sinh vật nào? Ai quyết định – ai có quyền quyết định – để phớt lờ ý kiến của hàng trăm ngàn người và cho rằng, điều quan trọng nhất cho thế giới này là không có côn trùng, dẫu có có là một thế giới vô sinh không còn những cánh chim trên bầu trời? Người quyết định là nhà chức trách được giao phó quyền lực tạm thời, họ đã ra quyết định đó trong một thoáng không để ý của hàng triệu người yêu vẻ đẹp thiên nhiên, những người vẫn tôn trọng ý nghĩa sâu sắc của một thế giới tự nhiên có trật tự.
 
-Đọc [Mùa xuân vắng lặng, chương 01](https://nhavantuonglai.com/article/mua-xuan-vang-lang-chuong-01) tại đây.
+Đọc [Mùa xuân vắng lặng, chương 01](/article/mua-xuan-vang-lang-chuong-01) tại đây.
 
-Đọc [Mùa xuân vắng lặng, chương 02](https://nhavantuonglai.com/article/mua-xuan-vang-lang-chuong-02) tại đây.
+Đọc [Mùa xuân vắng lặng, chương 02](/article/mua-xuan-vang-lang-chuong-02) tại đây.
 
-Đọc [Mùa xuân vắng lặng, chương 03](https://nhavantuonglai.com/article/mua-xuan-vang-lang-chuong-03) tại đây.
+Đọc [Mùa xuân vắng lặng, chương 03](/article/mua-xuan-vang-lang-chuong-03) tại đây.
 
-Đọc [Mùa xuân vắng lặng, chương 04](https://nhavantuonglai.com/article/mua-xuan-vang-lang-chuong-04) tại đây.
+Đọc [Mùa xuân vắng lặng, chương 04](/article/mua-xuan-vang-lang-chuong-04) tại đây.
 
-Đọc [Mùa xuân vắng lặng, chương 05](https://nhavantuonglai.com/article/mua-xuan-vang-lang-chuong-05) tại đây.
+Đọc [Mùa xuân vắng lặng, chương 05](/article/mua-xuan-vang-lang-chuong-05) tại đây.
 
-Đọc [Mùa xuân vắng lặng, chương 06](https://nhavantuonglai.com/article/mua-xuan-vang-lang-chuong-06) tại đây.
+Đọc [Mùa xuân vắng lặng, chương 06](/article/mua-xuan-vang-lang-chuong-06) tại đây.
 
-Đọc [Mùa xuân vắng lặng, chương 07](https://nhavantuonglai.com/article/mua-xuan-vang-lang-chuong-07) tại đây.
+Đọc [Mùa xuân vắng lặng, chương 07](/article/mua-xuan-vang-lang-chuong-07) tại đây.
 
-Đọc [Mùa xuân vắng lặng, chương 09](https://nhavantuonglai.com/article/mua-xuan-vang-lang-chuong-09) tại đây.
+Đọc [Mùa xuân vắng lặng, chương 09](/article/mua-xuan-vang-lang-chuong-09) tại đây.
 
-Đọc [Mùa xuân vắng lặng, chương 10](https://nhavantuonglai.com/article/mua-xuan-vang-lang-chuong-10) tại đây.
+Đọc [Mùa xuân vắng lặng, chương 10](/article/mua-xuan-vang-lang-chuong-10) tại đây.
 
-Đọc [Mùa xuân vắng lặng, chương 11](https://nhavantuonglai.com/article/mua-xuan-vang-lang-chuong-11) tại đây.
+Đọc [Mùa xuân vắng lặng, chương 11](/article/mua-xuan-vang-lang-chuong-11) tại đây.
 
-Đọc [Mùa xuân vắng lặng, chương 12](https://nhavantuonglai.com/article/mua-xuan-vang-lang-chuong-12) tại đây.
+Đọc [Mùa xuân vắng lặng, chương 12](/article/mua-xuan-vang-lang-chuong-12) tại đây.
 
-Đọc [Mùa xuân vắng lặng, chương 13](https://nhavantuonglai.com/article/mua-xuan-vang-lang-chuong-13) tại đây.
+Đọc [Mùa xuân vắng lặng, chương 13](/article/mua-xuan-vang-lang-chuong-13) tại đây.
 
-Đọc [Mùa xuân vắng lặng, chương 14](https://nhavantuonglai.com/article/mua-xuan-vang-lang-chuong-14) tại đây.
+Đọc [Mùa xuân vắng lặng, chương 14](/article/mua-xuan-vang-lang-chuong-14) tại đây.
 
-Đọc [Mùa xuân vắng lặng, chương 15](https://nhavantuonglai.com/article/mua-xuan-vang-lang-chuong-15) tại đây.
+Đọc [Mùa xuân vắng lặng, chương 15](/article/mua-xuan-vang-lang-chuong-15) tại đây.
 
-Đọc [Mùa xuân vắng lặng, chương 16](https://nhavantuonglai.com/article/mua-xuan-vang-lang-chuong-16) tại đây.
+Đọc [Mùa xuân vắng lặng, chương 16](/article/mua-xuan-vang-lang-chuong-16) tại đây.
 
-Đọc [Mùa xuân vắng lặng, chương 17](https://nhavantuonglai.com/article/mua-xuan-vang-lang-chuong-17) tại đây.
+Đọc [Mùa xuân vắng lặng, chương 17](/article/mua-xuan-vang-lang-chuong-17) tại đây.
 
 Đọc [Mùa xuân vắng lặng, toàn tập](https://banmaixanh.vercel.app/ebook/mua-xuan-vang-lang.pdf) tại đây.
 

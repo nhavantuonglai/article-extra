@@ -17,7 +17,7 @@ _Thành phố Đà Nẵng nằm ở miền Trung, chia đều khoảng cách gi�
 
 Cuối tháng 12 đến cuối tháng 3: Tiết trời mát mẻ và dễ chịu, lý tưởng nhất cho các chuyến du xuân. Giá cả dịch vụ khách sạn, ăn uống vào thời gian này được cho là bình ổn nhất trong năm. Lưu ý, du khách nên mang thêm áo khoác mỏng vì trời có thể se lạnh vào buổi tối, thi thoảng có mưa xuân.
 
-Đầu tháng 4 đến giữa tháng 9: Đây là thời gian đẹp nhất để du lịch Đà Nẵng, song cũng là mùa cao điểm du lịch hè, khá đông đúc và đắt đỏ. Tháng 4 là [mùa cây rừng thay lá](https://nhavantuonglai.com/article) vàng, lá đỏ trên bán đảo Sơn Trà.
+Đầu tháng 4 đến giữa tháng 9: Đây là thời gian đẹp nhất để du lịch Đà Nẵng, song cũng là mùa cao điểm du lịch hè, khá đông đúc và đắt đỏ. Tháng 4 là [mùa cây rừng thay lá](/article) vàng, lá đỏ trên bán đảo Sơn Trà.
 
 Giữa tháng 9 đến cuối tháng 12: Trời không còn nắng nóng, bắt đầu lác đác mưa rào nhưng không kéo dài. Mùa cao điểm đã qua, nên vé máy bay, dịch vụ lưu trú, ăn uống có giá cả hợp lý.
 
@@ -29,7 +29,7 @@ Nếu đang lên kế hoạch đến Đà Nẵng năm 2022, bạn có thể tham
 
 Du khách từ Hà Nội và Thành phố Hồ Chí Minh thường di chuyển bằng máy bay, với giá vé khoảng 1.300.000 – 3.000.000 đồng khứ hồi, tùy thời điểm đặt. Thời gian bay khoảng 1 tiếng.
 
-Dư dả thời gian hơn, du khách có thể đi tàu hỏa để trải nghiệm ngắm cảnh dọc đường, đặc biệt là đoạn qua [đèo Hải Vân](https://nhavantuonglai.com/article) nếu bạn đi từ phía bắc vào. Vé tàu từ Hà Nội hoặc Thành phố Hồ Chí Minh đến Đà Nẵng có giá từ khoảng 600.000 đồng đến 1.100.000 đồng một chiều, tương ứng với ghế ngồi mềm có điều hòa và giường nằm khoang bốn điều hòa. Thời gian di chuyển khoảng 17 đến 18 tiếng.
+Dư dả thời gian hơn, du khách có thể đi tàu hỏa để trải nghiệm ngắm cảnh dọc đường, đặc biệt là đoạn qua [đèo Hải Vân](/article) nếu bạn đi từ phía bắc vào. Vé tàu từ Hà Nội hoặc Thành phố Hồ Chí Minh đến Đà Nẵng có giá từ khoảng 600.000 đồng đến 1.100.000 đồng một chiều, tương ứng với ghế ngồi mềm có điều hòa và giường nằm khoang bốn điều hòa. Thời gian di chuyển khoảng 17 đến 18 tiếng.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/du-lich-da-nang-200.jpg" alt="cam-nang-du-lich-da-nang" height=100% width=100%><figcaption><p>cam-nang-du-lich-da-nang-nhavantuonglai</p></figcaption></figure>
 
@@ -59,7 +59,7 @@ Những resort, khách sạn 5 sao nổi tiếng ở Đà Nẵng bạn có thể
 
 Đến đây, du khách có thể tham gia nhiều hoạt động hấp dẫn như lặn biển ngắm san hô, câu cá cùng ngư dân, chiêm ngưỡng thành phố từ trực thăng, trên đỉnh Bàn Cờ… Đặc biệt, ngôi chùa Linh Ứng nằm trên đỉnh đồi cũng là điểm bạn không nên bỏ qua. Nơi đây đặt bức tượng Phật Quan Thế Âm cao nhất Việt Nam, hướng mặt ra biển. Trong lòng tượng gồm 17 tầng, mỗi tầng có bệ thờ 21 tượng Phật với hình dáng, tư thế và vẻ mặt khác nhau.
 
-Trên bán đảo có các nhánh đường phụ xuống nhiều bãi biển đẹp như Bãi Bụt, Bãi Nam, Bãi Đá Đen, Bãi Đa, [Mũi Nghê](https://nhavantuonglai.com/article)… Ngoài ra, ở khu vực này còn có [cây đa Sơn Trà](https://nhavantuonglai.com/article) và cây đa _con nai_ nghìn năm tuổi với hình thù độc đáo thích hợp chụp ảnh.
+Trên bán đảo có các nhánh đường phụ xuống nhiều bãi biển đẹp như Bãi Bụt, Bãi Nam, Bãi Đá Đen, Bãi Đa, [Mũi Nghê](/article)… Ngoài ra, ở khu vực này còn có [cây đa Sơn Trà](/article) và cây đa _con nai_ nghìn năm tuổi với hình thù độc đáo thích hợp chụp ảnh.
 
 Bán đảo cũng là nơi sinh sống của hàng trăm loài động vật. Trong đó, voọc chà vá chân nâu được mệnh danh là _nữ hoàng linh trưởng_ trên bán đảo Sơn Trà, với quần thể khoảng 300 – 400 con, được bảo tồn nghiêm ngặt. Để phát hiện ra những đàn voọc này, ngoài việc quan sát màu sắc phát ra từ bộ lông, du khách cần chú ý lắng nghe khi chúng kêu hoặc nhảy từ cành này sang cành khác.
 
@@ -79,7 +79,7 @@ Suối Tiên là một trong những con suối lớn bắt nguồn từ đỉnh
 
 #### Giếng Trời
 
-Nằm trong khu bảo tồn Bà Nà – Núi Chúa, [Giếng Trời](https://nhavantuonglai.com/article) có cảnh vật hoang sơ chính là nguồn cảm hứng đối với dân phượt, với các loại hình dã ngoại như trekking, leo núi, cắm trại hay tắm suối.
+Nằm trong khu bảo tồn Bà Nà – Núi Chúa, [Giếng Trời](/article) có cảnh vật hoang sơ chính là nguồn cảm hứng đối với dân phượt, với các loại hình dã ngoại như trekking, leo núi, cắm trại hay tắm suối.
 
 Xuất phát từ bãi giữ xe của khu cáp treo Bà Nà, phượt thủ phải chinh phục 7,5 km đường đèo dốc quanh co, vượt suối băng rừng… Qua được con dốc đầu tiên thì chặng đường còn lại rất dễ đi. Cũng vì thế mà nơi đây như một chốn biệt lập. Hai dòng suối từ phía tây của khu rừng Bà Nà hợp lưu tại một hẻm núi rồi đổ xuống.
 
@@ -97,7 +97,7 @@ Các ngôi chùa ở đây hầu hết đều có thế tựa lưng vào núi, t
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/du-lich-da-nang-204.jpg" alt="cam-nang-du-lich-da-nang" height=100% width=100%><figcaption><p>cam-nang-du-lich-da-nang-nhavantuonglai</p></figcaption></figure>
 
-Ngoài ra, nếu muốn thử cảm giác mạo hiểm, bạn hãy trải nghiệm [leo núi ở động Vân Thông](https://nhavantuonglai.com/article) hay thả từ đỉnh núi xuống độ cao 25m.
+Ngoài ra, nếu muốn thử cảm giác mạo hiểm, bạn hãy trải nghiệm [leo núi ở động Vân Thông](/article) hay thả từ đỉnh núi xuống độ cao 25m.
 
 #### Đèo Hải Vân
 
@@ -121,11 +121,11 @@ Dịp đầu năm, du khách có thể chụp ảnh _săn mây_ tại khúc cua 
 
 Nằm cách trung tâm khoảng 17 km, Rạn đá Nam Ô ở phường Hòa Hiệp Nam, quận Liên Chiểu, Thành phố Đà Nẵng. Cái tên Nam Ô để chỉ là cửa ô phía Nam của nước Đại Việt từ 700 năm trước. Đây là nơi cư dân đông đúc, chủ yếu hành nghề ngư lưới cụ. Nam Ô còn nổi tiếng với nghề làm pháo và nước mắm truyền thống.
 
-Đây là bãi đá dài có nhiều hình thù kỳ lạ phủ đầy rêu xanh nằm bên bờ biển. Hoàng hôn và bình minh là hai thời điểm nhiều người tìm đến ghềnh đá để có được những bức ảnh ưng ý. Ở vùng này còn có đặc sản [gỏi cá Nam Ô](https://nhavantuonglai.com/article) và nước mắm Nam Ô trứ danh được lưu truyền qua nhiều thế hệ làng biển nơi đây.
+Đây là bãi đá dài có nhiều hình thù kỳ lạ phủ đầy rêu xanh nằm bên bờ biển. Hoàng hôn và bình minh là hai thời điểm nhiều người tìm đến ghềnh đá để có được những bức ảnh ưng ý. Ở vùng này còn có đặc sản [gỏi cá Nam Ô](/article) và nước mắm Nam Ô trứ danh được lưu truyền qua nhiều thế hệ làng biển nơi đây.
 
 #### Ghềnh Bàng
 
-[Ghềnh Bàng](https://nhavantuonglai.com/article) là điểm đến nổi tiếng trong giới du lịch bụi Đà Nẵng khoảng 3 năm nay. Nơi này nằm trên bán đảo Sơn Trà, cách trung tâm thành phố Đà Nẵng khoảng 15 km, theo hướng đường Hoàng Sa. Ghềnh Bàng cùng với mũi Súng, [mũi Nghê](https://nhavantuonglai.com/article), bãi cát Vàng, bãi đá Đen… đã tạo nên những cảnh quan thiên nhiên cuốn hút du khách đến khám phá.
+[Ghềnh Bàng](/article) là điểm đến nổi tiếng trong giới du lịch bụi Đà Nẵng khoảng 3 năm nay. Nơi này nằm trên bán đảo Sơn Trà, cách trung tâm thành phố Đà Nẵng khoảng 15 km, theo hướng đường Hoàng Sa. Ghềnh Bàng cùng với mũi Súng, [mũi Nghê](/article), bãi cát Vàng, bãi đá Đen… đã tạo nên những cảnh quan thiên nhiên cuốn hút du khách đến khám phá.
 
 Với đường với biển dài chừng 2 km, ghềnh Bàng có các bãi cát bằng phẳng, bãi đá lớn nhỏ nhô ra biển, những bãi san hô… Du khách đến ghềnh Bàng thường chuẩn bị củi lửa, thức ăn nhẹ, nước uống để cắm trại hoặc dã ngoại trong ngày.
 
@@ -147,13 +147,13 @@ _Làng đá mỹ nghệ Non Nước_ nằm ngay chân núi Ngũ Hành. Làng ngh
 
 Đây là hồ nhân tạo, cung cấp nước sinh hoạt và trồng trọt cho người dân hai xã Hòa Liên và Hòa Sơn, quận Liên Chiểu. Hồ được bao quanh bởi những đảo nổi, thích hợp với du khách ưa khám phá, cắm trại, picnic. Bạn nên chuẩn bị đồ ăn và nước uống đầy đủ cho việc cắm trại qua đêm bên hồ song cần lưu ý dọn dẹp, mang rác về nhà.
 
-[Hồ Hòa Trung](https://nhavantuonglai.com/article) cách trung tâm thành phố Đà Nẵng 20 km, bạn đi xe máy đến đây mất khoảng 40 phút. Từ thành phố chạy đường Âu Cơ (chợ Hòa Khánh) bạn men theo hướng Bà Nà, tìm về giáo xứ Hòa Ninh. Rẽ tay trái thấy đường bê tông, và cứ đi hết đường này bạn sẽ nhìn thấy con đường mòn chỉ rộng 30 cm bề ngang. Nếu gặp phải khó khăn khi tìm đường, hãy hỏi người dân.
+[Hồ Hòa Trung](/article) cách trung tâm thành phố Đà Nẵng 20 km, bạn đi xe máy đến đây mất khoảng 40 phút. Từ thành phố chạy đường Âu Cơ (chợ Hòa Khánh) bạn men theo hướng Bà Nà, tìm về giáo xứ Hòa Ninh. Rẽ tay trái thấy đường bê tông, và cứ đi hết đường này bạn sẽ nhìn thấy con đường mòn chỉ rộng 30 cm bề ngang. Nếu gặp phải khó khăn khi tìm đường, hãy hỏi người dân.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/du-lich-da-nang-211.jpg" alt="cam-nang-du-lich-da-nang" height=100% width=100%><figcaption><p>cam-nang-du-lich-da-nang-nhavantuonglai</p></figcaption></figure>
 
 Khu du lịch sinh thái
 
-Những địa chỉ gợi ý là Khu du lịch sinh thái xã [Hòa Bắc](https://nhavantuonglai.com/article), Khu du lịch sinh thái Lái Thiêu, Khu Sinh Thái Suối Hoa, Khu Sinh Thái Suối Lương – Hai Van Park, Khu Du Lịch Hòa Phú Thành, Khu Du Lịch Sinh Thái Ngầm Đôi, Công viên Suối khoáng nóng Núi Thần Tài, Khu Du Lịch Khoáng Nóng Phước Nhơn… Đa số các khu sinh thái cung cấp dịch vụ vui chơi, giải trí, ăn uống, lưu trú… và có thu phí vào cổng.
+Những địa chỉ gợi ý là Khu du lịch sinh thái xã [Hòa Bắc](/article), Khu du lịch sinh thái Lái Thiêu, Khu Sinh Thái Suối Hoa, Khu Sinh Thái Suối Lương – Hai Van Park, Khu Du Lịch Hòa Phú Thành, Khu Du Lịch Sinh Thái Ngầm Đôi, Công viên Suối khoáng nóng Núi Thần Tài, Khu Du Lịch Khoáng Nóng Phước Nhơn… Đa số các khu sinh thái cung cấp dịch vụ vui chơi, giải trí, ăn uống, lưu trú… và có thu phí vào cổng.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/du-lich-da-nang-212.jpg" alt="cam-nang-du-lich-da-nang" height=100% width=100%><figcaption><p>cam-nang-du-lich-da-nang-nhavantuonglai</p></figcaption></figure>
 
@@ -161,7 +161,7 @@ Những địa chỉ gợi ý là Khu du lịch sinh thái xã [Hòa Bắc](http
 
 #### Những cây cầu
 
-Đà Nẵng vốn được mệnh danh là thành phố của những cây cầu ở Việt Nam. Cầu Rồng, cầu quay sông Hàn, cầu Trần Thị Lý, [cầu tình yêu](https://nhavantuonglai.com/article) là những điểm tham quan hút khách đến vãn cảnh, check-in. Ngay gần cầu tình yêu là tượng cá chép hóa rồng.
+Đà Nẵng vốn được mệnh danh là thành phố của những cây cầu ở Việt Nam. Cầu Rồng, cầu quay sông Hàn, cầu Trần Thị Lý, [cầu tình yêu](/article) là những điểm tham quan hút khách đến vãn cảnh, check-in. Ngay gần cầu tình yêu là tượng cá chép hóa rồng.
 
 Đặc biệt, _cầu Rồng_ đông khách hơn vào ba tối cuối tuần khi có màn trình diễn rồng phun nước, phun lửa. Từ 9h tối, nhiều du khách và người dân tập trung ở trên cầu, hai bên bờ sông Hàn hoặc các nhà cao tầng gần đó.
 
@@ -181,13 +181,13 @@ _Cầu Trần Thị Lý_ mang tên nữ anh hùng trong kháng chiến chống M
 
 #### Biển Mỹ Khê
 
-Biển Mỹ Khê từng được tạp chí _Forbes_ (Mỹ) bình chọn là một trong 6 bãi biển quyến rũ nhất hành tinh và trong top 25 biển đẹp nhất châu Á năm 2021 của TripAdvisor. Bãi tắm trải dài 900 m trên đường Phạm Văn Đồng, thuộc quận Sơn Trà. Ngắm bình minh trên biển Mỹ Khê, du khách có cơ hội tìm hiểu thêm về [đời sống của ngư dân](https://nhavantuonglai.com/article) địa phương.
+Biển Mỹ Khê từng được tạp chí _Forbes_ (Mỹ) bình chọn là một trong 6 bãi biển quyến rũ nhất hành tinh và trong top 25 biển đẹp nhất châu Á năm 2021 của TripAdvisor. Bãi tắm trải dài 900 m trên đường Phạm Văn Đồng, thuộc quận Sơn Trà. Ngắm bình minh trên biển Mỹ Khê, du khách có cơ hội tìm hiểu thêm về [đời sống của ngư dân](/article) địa phương.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/du-lich-da-nang-216.jpg" alt="cam-nang-du-lich-da-nang" height=100% width=100%><figcaption><p>cam-nang-du-lich-da-nang-nhavantuonglai</p></figcaption></figure>
 
 #### Cung Văn hóa Thiếu nhi thành phố
 
-[Cung Văn hóa Thiếu nhi Đà Nẵng](https://nhavantuonglai.com/article) là điểm check-in được lòng giới trẻ nhờ thiết kế dựa trên ý tưởng trò chơi xếp hình Tangram. Công trình này đã nhận giải vàng Kiến trúc quốc gia 2016, do Hội Kiến trúc sư Việt Nam trao tặng. Điểm đến này tọa lạc trên đường 2/9, quận Hải Châu. Cung có 3 tầng gồm các khu đa chức năng, khu vui chơi, giải trí, phòng học, thư viện, hội trường…
+[Cung Văn hóa Thiếu nhi Đà Nẵng](/article) là điểm check-in được lòng giới trẻ nhờ thiết kế dựa trên ý tưởng trò chơi xếp hình Tangram. Công trình này đã nhận giải vàng Kiến trúc quốc gia 2016, do Hội Kiến trúc sư Việt Nam trao tặng. Điểm đến này tọa lạc trên đường 2/9, quận Hải Châu. Cung có 3 tầng gồm các khu đa chức năng, khu vui chơi, giải trí, phòng học, thư viện, hội trường…
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/du-lich-da-nang-217.jpg" alt="cam-nang-du-lich-da-nang" height=100% width=100%><figcaption><p>cam-nang-du-lich-da-nang-nhavantuonglai</p></figcaption></figure>
 
@@ -215,7 +215,7 @@ Dự án Làng bích họa Đà Nẵng tại kiệt 75 đường Nguyễn Văn L
 
 #### Chợ
 
-Nằm trên đường Ông Ích Khiêm ngay trung tâm thành phố, [_chợ Cồn_](https://nhavantuonglai.com/article) là một trong những [chợ lâu đời và lớn nhất](https://nhavantuonglai.com/article) của thành phố biển. Chợ Cồn được coi là [thiên đường ăn vặt](https://nhavantuonglai.com/article) với nhiều quán hàng luôn đông khách, bán đồ ăn đa dạng, từ các món sáng, trưa, nhiều nhất là ăn vặt xế chiều. Bánh bèo, bánh tráng cuốn thịt heo, mì Quảng, các loại ốc, chè… đắt khách với giá từ 10.000 đồng. Ngoài món ăn, những đặc sản mua làm quà cũng được bày bán nhiều như các loại mắm, mực rim me, chả bò, tré…
+Nằm trên đường Ông Ích Khiêm ngay trung tâm thành phố, [_chợ Cồn_](/article) là một trong những [chợ lâu đời và lớn nhất](/article) của thành phố biển. Chợ Cồn được coi là [thiên đường ăn vặt](/article) với nhiều quán hàng luôn đông khách, bán đồ ăn đa dạng, từ các món sáng, trưa, nhiều nhất là ăn vặt xế chiều. Bánh bèo, bánh tráng cuốn thịt heo, mì Quảng, các loại ốc, chè… đắt khách với giá từ 10.000 đồng. Ngoài món ăn, những đặc sản mua làm quà cũng được bày bán nhiều như các loại mắm, mực rim me, chả bò, tré…
 
 _Chợ Hàn_ nằm ngay trung tâm thành phố, gần cầu quay sông Hàn, 4 mặt tiếp giáp với các con đường Hùng Vương, Trần Phú, Trần Hưng Đạo và Bạch Đằng. Chợ có từ những năm 40 thế kỷ trước nhưng với vị trí thuận lợi cả cho giao thông đường bộ và đường thủy mà nơi này ngày càng phát triển và sầm uất.
 
@@ -229,7 +229,7 @@ Ngoài ra, Đà Nẵng còn có những khu chợ đêm tấp nập như chợ �
 
 ### Ngắm Đà Nẵng từ trực thăng, phi cơ
 
-[Trực thăng](https://nhavantuonglai.com/article) xuất phát từ sân bay Nước Mặn, bay vòng lên ngắm Ngũ Hành Sơn từ trên cao. Sau đó, trực thăng lượn vòng lại bay đến cầu Rồng, dọc sông Hàn để du khách ngắm nhìn cầu Sông Hàn, cầu Thuận Phước cùng các khối kiến trúc cao tầng ấn tượng của thành phố.
+[Trực thăng](/article) xuất phát từ sân bay Nước Mặn, bay vòng lên ngắm Ngũ Hành Sơn từ trên cao. Sau đó, trực thăng lượn vòng lại bay đến cầu Rồng, dọc sông Hàn để du khách ngắm nhìn cầu Sông Hàn, cầu Thuận Phước cùng các khối kiến trúc cao tầng ấn tượng của thành phố.
 
 Đến bán đảo Sơn Trà trực thăng lượn vòng ra biển, thấy được tượng Phật Bà Quan Âm lớn nhất Việt Nam sau đó vòng lại bay dọc bãi biển Đà Nẵng về lại sân bay Nước Mặn. Giá vé một tour 12 phút hiện là 2.140.000 đồng một khách – khuyến mãi 25% từ ngày 28/4 đến 31/7/2022.
 
@@ -275,7 +275,7 @@ Mắm chấm làm từ cá cơm nguyên con có đường, tỏi, ớt, gừng v
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/du-lich-da-nang-225.jpg" alt="cam-nang-du-lich-da-nang" height=100% width=100%><figcaption><p>cam-nang-du-lich-da-nang-nhavantuonglai</p></figcaption></figure>
 
-Cá làm món này có thể từ cá mòi, cá cơm, cá tớp… tuy nhiên ngon nhất vẫn là cá trích. Nét đặc trưng của [gỏi cá Nam Ô](https://nhavantuonglai.com/article) chính là thứ nước chấm làm từ nước cốt cá đun sôi, hòa cùng nước mắm Nam Ô, ớt, bột năng, bột ngọt. Ngoài các loại rau ăn kèm thường thấy, gỏi cá Nam Ô còn có cóc rừng, lành ngạnh, lá trâm, tim lan… vốn chỉ mọc trên đèo Hải Vân.
+Cá làm món này có thể từ cá mòi, cá cơm, cá tớp… tuy nhiên ngon nhất vẫn là cá trích. Nét đặc trưng của [gỏi cá Nam Ô](/article) chính là thứ nước chấm làm từ nước cốt cá đun sôi, hòa cùng nước mắm Nam Ô, ớt, bột năng, bột ngọt. Ngoài các loại rau ăn kèm thường thấy, gỏi cá Nam Ô còn có cóc rừng, lành ngạnh, lá trâm, tim lan… vốn chỉ mọc trên đèo Hải Vân.
 
 Du khách có thể ăn cá với rau các loại cuốn bánh tráng hoặc chỉ việc trộn cá với rau kèm nước chấm. Ngoài ra, gỏi cá ướt hấp dẫn với thịt cá tươi ngọt thấm vị trong nước dùng cay đậm đà, pha chế từ nước mắm Nam Ô trứ danh. Gỏi cá Nam Ô giá khoảng 80.000 đồng một suất, đủ cho 2 người ăn.
 
@@ -319,7 +319,7 @@ Món này tập trung nhiều ở _làng ăn vặt_ trên đường Bùi Thị X
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/du-lich-da-nang-230.jpg" alt="cam-nang-du-lich-da-nang" height=100% width=100%><figcaption><p>cam-nang-du-lich-da-nang-nhavantuonglai</p></figcaption></figure>
 
-Món [sữa chua muối](https://nhavantuonglai.com/article) có giá 1.000 đồng một hũ, là món ăn vặt được bán thành một khu ở chân cầu Trần Thị Lý.
+Món [sữa chua muối](/article) có giá 1.000 đồng một hũ, là món ăn vặt được bán thành một khu ở chân cầu Trần Thị Lý.
 
 Chủ quán thường mang ra một khay khoảng 10 hũ sữa chua kèm đĩa muối trắng. Khách ăn hết bao nhiêu sẽ tính tiền bây nhiêu.
 

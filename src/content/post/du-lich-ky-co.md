@@ -17,7 +17,7 @@ Nước biển Kỳ Co có hai màu, nước trong cạn gần bờ có màu xan
 
 ## Di chuyển
 
-Để tới bãi Kỳ Co, đi cano là thuận tiện nhất. Những người dân chài nơi đây có dịch vụ cano hoặc ghe từ [Eo Gió](https://nhavantuonglai.com/article) ra Kỳ Co. Du khách sẽ trải nghiệm cảm giác lênh đênh trên sóng nước, ngắm cảnh núi non Nhơn Lý hùng vĩ.
+Để tới bãi Kỳ Co, đi cano là thuận tiện nhất. Những người dân chài nơi đây có dịch vụ cano hoặc ghe từ [Eo Gió](/article) ra Kỳ Co. Du khách sẽ trải nghiệm cảm giác lênh đênh trên sóng nước, ngắm cảnh núi non Nhơn Lý hùng vĩ.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/du-lich-ky-co-361.jpg" alt="cam-nang-du-lich-ky-co" height=100% width=100%><figcaption><p>cam-nang-du-lich-ky-co-nhavantuonglai</p></figcaption></figure>
 

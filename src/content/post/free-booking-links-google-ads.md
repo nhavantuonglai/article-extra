@@ -39,7 +39,7 @@ Không, các khách sạn dùng Free Booking Links sẽ không xuất hiện tr�
 
 ## Làm thế nào để khách sạn của tôi xuất hiện trong Free Booking Links?
 
-Khách sạn cần xác minh và cập nhật trên Google My Business hướng dẫn cụ thể đã được Google đưa ra vào tháng 08 năm ngoái). Tiếp theo, khách sạn cần [một đối tác tính hợp](https://nhavantuonglai.com/article) để kết nối vào Hotel Ads, đây là một quá trình dễ dàng.
+Khách sạn cần xác minh và cập nhật trên Google My Business hướng dẫn cụ thể đã được Google đưa ra vào tháng 08 năm ngoái). Tiếp theo, khách sạn cần [một đối tác tính hợp](/article) để kết nối vào Hotel Ads, đây là một quá trình dễ dàng.
 
 Khách sạn sẽ được đưa vào nguồn cấp dữ liệu của đối tác tích hợp, và sẽ đủ điều kiện để hiển thị trong Free Booking Links – Miễn là lựa chọn đối tác phù hợp.
 

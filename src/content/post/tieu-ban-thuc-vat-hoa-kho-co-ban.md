@@ -22,7 +22,7 @@ _Để đảm bảo mọi người có thể hiểu và thực hiện đúng quy
 
 – Lớp tiêu bản: Là các lớp giấy báo, giấy ăn hoặc nệm xốp được sử dụng để giữ mẫu tiêu bản ở vị trí cố định và hút ẩm từ mẫu vật. Các lớp tiêu bản này cần được sắp xếp cẩn thận để đảm bảo mẫu vật không bị biến dạng hoặc hư hỏng trong quá trình ép.
 
-– Bộ tiêu bản: Là sự kết hợp của nhiều lớp [tiêu bản thực vật hoa khô](https://nhavantuonglai.com/article/tieu-ban-thuc-vat-hoa-kho#cach-lam-tieu-ban-thuc-vat-hoa-kho) được xếp chồng lên nhau. Bộ tiêu bản cần được buộc chặt và đặt dưới áp lực để quá trình làm khô diễn ra hiệu quả và đồng đều.
+– Bộ tiêu bản: Là sự kết hợp của nhiều lớp [tiêu bản thực vật hoa khô](/article/tieu-ban-thuc-vat-hoa-kho#cach-lam-tieu-ban-thuc-vat-hoa-kho) được xếp chồng lên nhau. Bộ tiêu bản cần được buộc chặt và đặt dưới áp lực để quá trình làm khô diễn ra hiệu quả và đồng đều.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/tieu-ban-thuc-vat-hoa-kho-10.jpg" alt="thuc vat hoc, tieu ban thuc vat, tieu ban, tieu ban hoa kho, tieu ban thuc vat kho, tieu ban hoa." title="thuc vat hoc, tieu ban thuc vat, tieu ban, tieu ban hoa kho, tieu ban thuc vat kho, tieu ban hoa." height=100% width=100%><figcaption><p>Tiêu bản hoa khô và tiêu bản thực vật khô là những mẫu thực vật đã qua xử lý, nhằm giữ nguyên hình dáng, cấu trúc và màu sắc.</p></figcaption></figure>
 
@@ -36,7 +36,7 @@ _Để đảm bảo mọi người có thể hiểu và thực hiện đúng quy
 
 ### Bước 1: Thu hoạch và chuẩn bị mẫu tiêu bản
 
-Để làm [tiêu bản thực vật hoa khô](https://nhavantuonglai.com/article/tieu-ban-thuc-vat-hoa-kho#mua-tieu-ban-thuc-vat-hoa-kho), bước đầu tiên là thu hoạch và chuẩn bị mẫu tiêu bản. Việc này đòi hỏi sự cẩn thận và chú ý đến các yếu tố sau:
+Để làm [tiêu bản thực vật hoa khô](/article/tieu-ban-thuc-vat-hoa-kho#mua-tieu-ban-thuc-vat-hoa-kho), bước đầu tiên là thu hoạch và chuẩn bị mẫu tiêu bản. Việc này đòi hỏi sự cẩn thận và chú ý đến các yếu tố sau:
 
 – Xử lý vết bẩn và bùn đất: Trước khi ép mẫu tiêu bản, cần loại bỏ hết vết bẩn, bùn đất còn sót lại trên mẫu vật. Điều này giúp tránh gây mùi, ô nhiễm hoặc làm bẩn các lớp tiêu bản. Sử dụng nước sạch và khăn mềm để rửa và lau khô mẫu vật trước khi tiến hành các bước tiếp theo.
 
@@ -50,7 +50,7 @@ _Để đảm bảo mọi người có thể hiểu và thực hiện đúng quy
 
 ### Bước 2: Làm khô mẫu tiêu bản
 
-Sau khi đã chuẩn bị xong mẫu [tiêu bản thực vật hoa khô](https://nhavantuonglai.com/article/tieu-ban-thuc-vat-hoa-kho#bao-quan-tieu-ban-thuc-vat-hoa-kho), bước tiếp theo là làm khô mẫu vật. Quá trình này bao gồm các bước sau:
+Sau khi đã chuẩn bị xong mẫu [tiêu bản thực vật hoa khô](/article/tieu-ban-thuc-vat-hoa-kho#bao-quan-tieu-ban-thuc-vat-hoa-kho), bước tiếp theo là làm khô mẫu vật. Quá trình này bao gồm các bước sau:
 
 – Chuẩn bị các lớp tiêu bản: Sử dụng giấy báo, giấy ăn hoặc giấy hút ẩm để tạo các lớp tiêu bản. Đặt mẫu tiêu bản giữa hai lớp giấy và nệm xốp để giữ chúng ở vị trí cố định và ngăn ngừa biến dạng.
 
@@ -64,7 +64,7 @@ Sau khi đã chuẩn bị xong mẫu [tiêu bản thực vật hoa khô](https:/
 
 ### Bước 3: Bảo quản và trưng bày mẫu tiêu bản
 
-Sau khi mẫu [tiêu bản thực vật hoa khô](https://nhavantuonglai.com/article/tieu-ban-thuc-vat-hoa-kho) đã được làm khô hoàn toàn, bước cuối cùng là bảo quản và trưng bày chúng. Dưới đây là các bước chi tiết:
+Sau khi mẫu [tiêu bản thực vật hoa khô](/article/tieu-ban-thuc-vat-hoa-kho) đã được làm khô hoàn toàn, bước cuối cùng là bảo quản và trưng bày chúng. Dưới đây là các bước chi tiết:
 
 – Xử lý mẫu vật khô: Nếu mẫu vật đã khô sau khi sấy, nên xử lý qua bằng phèn chua để chống nấm mốc. Phèn chua có tác dụng kháng khuẩn và ngăn ngừa sự phát triển của nấm mốc, giúp mẫu tiêu bản được bảo quản lâu dài.
 
@@ -90,7 +90,7 @@ Xử lý cẩn thận: Khi thu hoạch và xử lý mẫu vật, cần chú ý k
 
 ## Ứng dụng và giá trị của tiêu bản hoa khô
 
-[Tiêu bản thực vật hoa khô](https://nhavantuonglai.com/article/tieu-ban-thuc-vat-hoa-kho#tieu-ban-thuc-vat-hoa-kho-tim-hieu) có nhiều ứng dụng phong phú và giá trị trong đời sống:
+[Tiêu bản thực vật hoa khô](/article/tieu-ban-thuc-vat-hoa-kho#tieu-ban-thuc-vat-hoa-kho-tim-hieu) có nhiều ứng dụng phong phú và giá trị trong đời sống:
 
 – Giáo dục và nghiên cứu: Tiêu bản hoa khô là công cụ hữu ích cho các nhà nghiên cứu và giáo viên trong việc giảng dạy về thực vật học. Chúng giúp học sinh và sinh viên có cái nhìn trực quan và sinh động về các loài thực vật.
 
@@ -106,6 +106,6 @@ Xử lý cẩn thận: Khi thu hoạch và xử lý mẫu vật, cần chú ý k
 
 ## Kết luận
 
-Làm [tiêu bản thực vật hoa khô](https://nhavantuonglai.com/article/tieu-ban-thuc-vat-hoa-kho#ban-tieu-ban-thuc-vat-kho) là một quy trình đòi hỏi sự tỉ mỉ và kỹ thuật cao, nhưng mang lại nhiều giá trị trong nghiên cứu, nghệ thuật và bảo tồn. Bằng việc chuẩn bị đầy đủ các dụng cụ cần thiết và thực hiện đúng quy trình, bạn có thể tạo ra những tiêu bản hoa khô đẹp mắt và bền vững. Những tiêu bản này không chỉ là những tác phẩm nghệ thuật mà còn là bằng chứng sinh học quý giá, giúp chúng ta hiểu rõ hơn về thế giới thực vật xung quanh.
+Làm [tiêu bản thực vật hoa khô](/article/tieu-ban-thuc-vat-hoa-kho#ban-tieu-ban-thuc-vat-kho) là một quy trình đòi hỏi sự tỉ mỉ và kỹ thuật cao, nhưng mang lại nhiều giá trị trong nghiên cứu, nghệ thuật và bảo tồn. Bằng việc chuẩn bị đầy đủ các dụng cụ cần thiết và thực hiện đúng quy trình, bạn có thể tạo ra những tiêu bản hoa khô đẹp mắt và bền vững. Những tiêu bản này không chỉ là những tác phẩm nghệ thuật mà còn là bằng chứng sinh học quý giá, giúp chúng ta hiểu rõ hơn về thế giới thực vật xung quanh.
 
 <figure><img src="https://banmaixanh.vercel.app/image/cover/001-502.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

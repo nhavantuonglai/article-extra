@@ -109,15 +109,15 @@ Những điều tôi vừa nói với bạn trên đây không phải là nhữn
 
 Tôi ao ước bạn không đem những lời tôi nói để chế tạo thành những ý niệm rồi cất giữ chúng trong bạn. Tôi không muốn trao cho bạn cái gì hết. Tôi chỉ muốn _múa_ cho bạn xem mà thôi. Tôi không muốn làm hơn một con ong. Bạn thấy được gì thì đó là bạn thấy trong tâm bạn, chứ không phải thấy trong những đường múa của tôi. Bây giờ bạn hãy tới ngồi xem một đứa bé ngủ. Hoặc ra ngoài vườn ngồi cạnh cây chanh. Hoặc vào bếp nấu nước pha một bình trà, làm một trong những việc đó một cách thật tỉnh táo, thắp mặt trời chánh niệm lên đễ đừng đi lạc vào quên lãng. Bạn không cần suy tư về sự đồng nhất hoặc sai biệt của bạn với đứa bé, với cây chanh hay bình trà. Bạn không cần suy tư. Ngồi với đứa bé, ngồi với cây chanh hoặc ngồi uống trà cho tới khi môi bạn nở một nụ cười.
 
-Đọc [Trái tim mặt trời, chương 01](https://nhavantuonglai.com/article/trai-tim-mat-troi-chuong-01) tại đây.
+Đọc [Trái tim mặt trời, chương 01](/article/trai-tim-mat-troi-chuong-01) tại đây.
 
-Đọc [Trái tim mặt trời, chương 02](https://nhavantuonglai.com/article/trai-tim-mat-troi-chuong-02) tại đây.
+Đọc [Trái tim mặt trời, chương 02](/article/trai-tim-mat-troi-chuong-02) tại đây.
 
-Đọc [Trái tim mặt trời, chương 03](https://nhavantuonglai.com/article/trai-tim-mat-troi-chuong-03) tại đây.
+Đọc [Trái tim mặt trời, chương 03](/article/trai-tim-mat-troi-chuong-03) tại đây.
 
-Đọc [Trái tim mặt trời, chương 04](https://nhavantuonglai.com/article/trai-tim-mat-troi-chuong-04) tại đây.
+Đọc [Trái tim mặt trời, chương 04](/article/trai-tim-mat-troi-chuong-04) tại đây.
 
-Đọc [Trái tim mặt trời, chương 05](https://nhavantuonglai.com/article/trai-tim-mat-troi-chuong-05) tại đây.
+Đọc [Trái tim mặt trời, chương 05](/article/trai-tim-mat-troi-chuong-05) tại đây.
 
 Đọc [Trái tim mặt trời, toàn tập](https://banmaixanh.vercel.app/ebook/trai-tim-mat-troi.pdf) tại đây.
 

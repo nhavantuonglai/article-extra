@@ -19,7 +19,7 @@ _Viết lách là một kỹ năng quan trọng trong nhiều lĩnh vực, từ 
 
 ### Xác định mục tiêu
 
-[Mục tiêu viết lách](https://nhavantuonglai.com/article) của bạn là gì? Để thông tin, thuyết phục, giải trí, hay ghi nhớ? Mỗi mục tiêu viết sẽ đòi hỏi một phong cách và phương pháp khác nhau.
+[Mục tiêu viết lách](/article) của bạn là gì? Để thông tin, thuyết phục, giải trí, hay ghi nhớ? Mỗi mục tiêu viết sẽ đòi hỏi một phong cách và phương pháp khác nhau.
 
 ### Cách xác định mục tiêu viết
 
@@ -115,7 +115,7 @@ Sử dụng ngôn ngữ sống động và hình ảnh là cách hiệu quả đ
 
 ### Sử dụng kỹ thuật kể chuyện
 
-[Kể chuyện](https://nhavantuonglai.com/article) là một kỹ thuật viết lách hiệu quả giúp bạn truyền đạt thông điệp một cách lôi cuốn và dễ nhớ. Câu chuyện giúp kết nối cảm xúc với độc giả và làm cho nội dung trở nên sâu sắc hơn.
+[Kể chuyện](/article) là một kỹ thuật viết lách hiệu quả giúp bạn truyền đạt thông điệp một cách lôi cuốn và dễ nhớ. Câu chuyện giúp kết nối cảm xúc với độc giả và làm cho nội dung trở nên sâu sắc hơn.
 
 ### Cách kể chuyện hiệu quả
 
@@ -177,7 +177,7 @@ Sử dụng ví dụ và bằng chứng là cách hiệu quả để minh họa 
 
 ### Viết hàng ngày
 
-Duy trì thói quen viết hàng ngày là cách hiệu quả để nâng cao [kỹ năng viết lách](https://nhavantuonglai.com/article) của bạn. Viết thường xuyên giúp bạn rèn luyện và cải thiện kỹ năng một cách liên tục.
+Duy trì thói quen viết hàng ngày là cách hiệu quả để nâng cao [kỹ năng viết lách](/article) của bạn. Viết thường xuyên giúp bạn rèn luyện và cải thiện kỹ năng một cách liên tục.
 
 ### Cách duy trì thói quen viết
 
@@ -228,7 +228,7 @@ Viết lách là một kỹ năng cần thời gian và sự kiên nhẫn để 
 
 – Đọc sách về viết lách: Đọc các sách về viết lách để học hỏi các kỹ thuật và phương pháp viết hiệu quả. Các sách như _On Writing_ của Stephen King, _Bird by Bird_ của Anne Lamott là những tài liệu quý giá.
 
-– Tham gia các khóa học viết: Tham gia các [Khóa học viết blog](https://nhavantuonglai.com/article) từ cơ bản đến nâng cao. Hãy tìm đọc và học hỏi từ những khóa học này.
+– Tham gia các khóa học viết: Tham gia các [Khóa học viết blog](/article) từ cơ bản đến nâng cao. Hãy tìm đọc và học hỏi từ những khóa học này.
 
 – Thực hành và đánh giá: Hãy thực hành viết thường xuyên và tự đánh giá bài viết của mình. Lắng nghe phản hồi và học hỏi từ những sai sót.
 

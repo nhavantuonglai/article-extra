@@ -15,7 +15,7 @@ tags:
 
 _Để tạo ra những cuộc trò chuyện sống động và thuyết phục trong văn học, bạn cần phải viết đối thoại giống như cách con người thực sự giao tiếp và có thể thúc đẩy câu chuyện tiến lên. Hãy học hỏi những bí quyết của Judy Blume, một nhà văn nổi tiếng, để viết đối thoại hiệu quả._
 
-Chuỗi bài viết [Làm chủ nghệ thuật viết lách](https://nhavantuonglai.com/tags/lam-chu-nghe-thuat-viet-lach) là những hướng dẫn căn bản giúp bạn làm chủ kỹ năng viết lách của bản thân.
+Chuỗi bài viết [Làm chủ nghệ thuật viết lách](/tags/lam-chu-nghe-thuat-viet-lach) là những hướng dẫn căn bản giúp bạn làm chủ kỹ năng viết lách của bản thân.
 
 ## Văn hội thoại là gì?
 
@@ -25,7 +25,7 @@ Thông thường, các tác giả sử dụng cuộc hội thoại thực tế n
 
 ## Tầm quan trọng của hội thoại trong văn chương
 
-Các [nhà văn giỏi](https://nhavantuonglai.com/article) sử dụng hội thoại để thể hiện ý tưởng, tiết lộ xung đột và di chuyển cốt truyện về phía trước. Theo Judy Blume, hội thoại hiệu quả cũng rất cần thiết để phát triển nhân vật. _Hội thoại giúp bạn thúc đẩy câu chuyện của mình,_ Judy nói. _Đây là một cảnh, và đây là lời thoại trong cảnh. Nó không chỉ thúc đẩy câu chuyện của bạn mà cả các nhân vật của bạn bởi vì bạn học được rất nhiều về các nhân vật của mình thông qua hội thoại._
+Các [nhà văn giỏi](/article) sử dụng hội thoại để thể hiện ý tưởng, tiết lộ xung đột và di chuyển cốt truyện về phía trước. Theo Judy Blume, hội thoại hiệu quả cũng rất cần thiết để phát triển nhân vật. _Hội thoại giúp bạn thúc đẩy câu chuyện của mình,_ Judy nói. _Đây là một cảnh, và đây là lời thoại trong cảnh. Nó không chỉ thúc đẩy câu chuyện của bạn mà cả các nhân vật của bạn bởi vì bạn học được rất nhiều về các nhân vật của mình thông qua hội thoại._
 
 Cuộc hội thoại tuyệt vời có thể tiết lộ câu chuyện hậu trường của nhân vật và nhanh chóng giúp giới thiệu họ ngay lần đầu tiên họ nói. Cuộc hội thoại của các nhân vật cũng có thể thể hiện mong muốn bên trong của họ, giúp người đọc cảm nhận rõ ràng hơn về cách câu chuyện sẽ diễn ra. Như Judy nói, _Hội thoại giúp tôi biết các nhân vật là ai._
 
@@ -35,7 +35,7 @@ Hội thoại là một phần quan trọng của bất kỳ tác phẩm văn h�
 
 ## Quy tắc viết văn hội thoại
 
-Định dạng [kỹ năng viết lách](https://nhavantuonglai.com/article/viet-lach-say-sua) hội thoại có thể hiển thị trao đổi bằng lời nói giữa hai nhân vật một cách hiệu quả. Hãy xem xét các hướng dẫn này về cách chấm câu hội thoại:
+Định dạng [kỹ năng viết lách](/article/viet-lach-say-sua) hội thoại có thể hiển thị trao đổi bằng lời nói giữa hai nhân vật một cách hiệu quả. Hãy xem xét các hướng dẫn này về cách chấm câu hội thoại:
 
 – Chèn dấu ngoặc kép. Người viết nên sử dụng dấu ngoặc kép để bao bọc lời nói của nhân vật. Dấu ngoặc kép đơn có thể xuất hiện trong cuộc hội thoại khi ai đó đang trích dẫn người khác.
 
@@ -73,7 +73,7 @@ Người viết có thể sử dụng hội thoại để làm sống động c�
 
 ### Đọc và phân tích hội thoại của các tác giả khác
 
-‍Một trong những cách tốt nhất để học cách viết văn hội thoại là đọc và phân tích cách các [nhà văn tài năng](https://nhavantuonglai.com/article) khác làm điều đó. Bạn có thể chọn những cuốn sách hoặc truyện ngắn mà bạn yêu thích hoặc những tác phẩm được coi là có hội thoại xuất sắc.
+‍Một trong những cách tốt nhất để học cách viết văn hội thoại là đọc và phân tích cách các [nhà văn tài năng](/article) khác làm điều đó. Bạn có thể chọn những cuốn sách hoặc truyện ngắn mà bạn yêu thích hoặc những tác phẩm được coi là có hội thoại xuất sắc.
 
 Hãy chú ý đến cách các tác giả sử dụng ngôn ngữ, âm điệu, câu cú, dấu câu và các kỹ thuật khác để tạo ra những cuộc trò chuyện sống động và hấp dẫn. Bạn cũng có thể thử viết lại hoặc biến đổi một số đoạn hội thoại để xem bạn có thể làm cho chúng tốt hơn hay không.
 
@@ -99,7 +99,7 @@ Một cách khác để viết văn hội thoại là đặt mình vào vị tr�
 
 ### Tránh viết văn hội thoại quá dài hoặc quá ngắn
 
-‍Một trong những thách thức khi [viết văn hội thoại](https://nhavantuonglai.com/article) là cân bằng giữa chiều dài và hiệu quả của nó. Nếu bạn viết văn hội thoại quá dài, bạn có thể làm cho người đọc chán nản hoặc mất điểm nhấn của câu chuyện. Nếu bạn viết văn hội thoại quá ngắn, bạn có thể làm cho người đọc khó hiểu hoặc thiếu cảm xúc.
+‍Một trong những thách thức khi [viết văn hội thoại](/article) là cân bằng giữa chiều dài và hiệu quả của nó. Nếu bạn viết văn hội thoại quá dài, bạn có thể làm cho người đọc chán nản hoặc mất điểm nhấn của câu chuyện. Nếu bạn viết văn hội thoại quá ngắn, bạn có thể làm cho người đọc khó hiểu hoặc thiếu cảm xúc.
 
 Một cách để tránh viết văn hội thoại quá dài hoặc quá ngắn là hãy luôn kiểm tra xem nó có phục vụ cho mục đích của câu chuyện hay không. Hội thoại của bạn có giúp phát triển nhân vật, tạo ra xung đột, tiết lộ thông tin hay tăng cường cảm xúc hay không? Nếu không, bạn có thể cắt bỏ hoặc thêm vào những chi tiết cần thiết để làm cho nó hiệu quả hơn.
 
@@ -107,10 +107,10 @@ Một cách để tránh viết văn hội thoại quá dài hoặc quá ngắn 
 
 ### Sử dụng dấu câu và dấu ngoặc kép một cách chính xác
 
-‍Một yếu tố quan trọng khác khi [viết văn hội thoại](https://nhavantuonglai.com/article) là sử dụng dấu câu và dấu ngoặc kép một cách chính xác để làm cho nó dễ đọc và hiểu. Có một số quy tắc cơ bản về cách sử dụng dấu câu và dấu ngoặc kép trong hội thoại.
+‍Một yếu tố quan trọng khác khi [viết văn hội thoại](/article) là sử dụng dấu câu và dấu ngoặc kép một cách chính xác để làm cho nó dễ đọc và hiểu. Có một số quy tắc cơ bản về cách sử dụng dấu câu và dấu ngoặc kép trong hội thoại.
 
 ### Sử dụng các từ chỉ hội thoại một cách hợp lý và biến đổi
 
-‍Các từ chỉ hội thoại là các từ được sử dụng để chỉ ra ai là người nói và làm thế nào họ nói. Ví dụ: nói, hét, thì thầm, kể, trả lời, hỏi, khuyên, bảo, giải thích và còn nhiều từ khác. Các từ chỉ hội thoại có thể giúp bạn làm rõ người nói và tạo ra âm điệu cho hội thoại của bạn. Tuy nhiên, bạn cũng không nên lạm dụng chúng hoặc sử dụng chúng quá phức tạp trong [hành trình viết](https://nhavantuonglai.com/article) của bản thân.
+‍Các từ chỉ hội thoại là các từ được sử dụng để chỉ ra ai là người nói và làm thế nào họ nói. Ví dụ: nói, hét, thì thầm, kể, trả lời, hỏi, khuyên, bảo, giải thích và còn nhiều từ khác. Các từ chỉ hội thoại có thể giúp bạn làm rõ người nói và tạo ra âm điệu cho hội thoại của bạn. Tuy nhiên, bạn cũng không nên lạm dụng chúng hoặc sử dụng chúng quá phức tạp trong [hành trình viết](/article) của bản thân.
 
 <figure><img src="https://banmaixanh.vercel.app/image/cover/001-300.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

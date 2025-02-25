@@ -129,27 +129,27 @@ Có nhiều cách để tái lập truyền thông. Nếu bạn cảm thấy kh�
 
 Tiếng nói thương yêu sẽ cứu chúng ta. Lắng nghe với tâm từ bi sẽ cứu chúng ta. Đó là một phép lạ mà ta có thể làm được, nhờ tu tập. Ta có khả năng làm chuyện đó. Ta có dư bình an, thương yêu và hiểu biết trong chiều sâu tâm thức. Phải cầu cứu đến khả năng đó của ta, cầu cứu Bụt tự thân. Với sự nâng đỡ của bạn bè và tăng thân chúng ta có thể bắt đầu làm mới và tái lập truyền thông.
 
-Đọc [Giận, chương 01](https://nhavantuonglai.com/article/gian-chuong-01) tại đây.
+Đọc [Giận, chương 01](/article/gian-chuong-01) tại đây.
 
-Đọc [Giận, chương 02](https://nhavantuonglai.com/article/gian-chuong-02) tại đây.
+Đọc [Giận, chương 02](/article/gian-chuong-02) tại đây.
 
-Đọc [Giận, chương 03](https://nhavantuonglai.com/article/gian-chuong-03) tại đây.
+Đọc [Giận, chương 03](/article/gian-chuong-03) tại đây.
 
-Đọc [Giận, chương 04](https://nhavantuonglai.com/article/gian-chuong-04) tại đây.
+Đọc [Giận, chương 04](/article/gian-chuong-04) tại đây.
 
-Đọc [Giận, chương 05](https://nhavantuonglai.com/article/gian-chuong-05) tại đây.
+Đọc [Giận, chương 05](/article/gian-chuong-05) tại đây.
 
-Đọc [Giận, chương 06](https://nhavantuonglai.com/article/gian-chuong-06) tại đây.
+Đọc [Giận, chương 06](/article/gian-chuong-06) tại đây.
 
-Đọc [Giận, chương 07](https://nhavantuonglai.com/article/gian-chuong-07) tại đây.
+Đọc [Giận, chương 07](/article/gian-chuong-07) tại đây.
 
-Đọc [Giận, chương 08](https://nhavantuonglai.com/article/gian-chuong-08) tại đây.
+Đọc [Giận, chương 08](/article/gian-chuong-08) tại đây.
 
-Đọc [Giận, chương 09](https://nhavantuonglai.com/article/gian-chuong-09) tại đây.
+Đọc [Giận, chương 09](/article/gian-chuong-09) tại đây.
 
-Đọc [Giận, chương 10](https://nhavantuonglai.com/article/gian-chuong-10) tại đây.
+Đọc [Giận, chương 10](/article/gian-chuong-10) tại đây.
 
-Đọc [Giận, chương 11](https://nhavantuonglai.com/article/gian-chuong-11) tại đây.
+Đọc [Giận, chương 11](/article/gian-chuong-11) tại đây.
 
 Đọc [Giận, toàn tập](https://banmaixanh.vercel.app/ebook/gian.pdf) tại đây.
 

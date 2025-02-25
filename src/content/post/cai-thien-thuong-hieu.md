@@ -29,13 +29,13 @@ Về tổng thể, việc lỗi thời không phải vấn đề nghiêm trọng
 
 ### Thay đổi giá trị và sứ mệnh
 
-Thương hiệu khách sạn được xây dựng dựa trên nguồn lực, giá trị và sứ mệnh của khách sạn đó. Với từng thời điểm, bối cảnh mà khách sạn cần thay đổi giá trị, sứ mệnh của mình. Ví dụ như thay đổi công năng, [công suất phòng](https://nhavantuonglai.com/article) để đón nhiều khách đến ở dorm hơn, tập trung vào khách trẻ hoặc ở lại dài ngày… Những thay đổi này, sẽ làm thương hiệu trước đó không còn phù hợp, và cần cải thiện, thay đổi cho phù hợp hơn.
+Thương hiệu khách sạn được xây dựng dựa trên nguồn lực, giá trị và sứ mệnh của khách sạn đó. Với từng thời điểm, bối cảnh mà khách sạn cần thay đổi giá trị, sứ mệnh của mình. Ví dụ như thay đổi công năng, [công suất phòng](/article) để đón nhiều khách đến ở dorm hơn, tập trung vào khách trẻ hoặc ở lại dài ngày… Những thay đổi này, sẽ làm thương hiệu trước đó không còn phù hợp, và cần cải thiện, thay đổi cho phù hợp hơn.
 
 ### Uy tín bị giảm sút, xấu đi
 
-Khác với việc [xây dựng thương hiệu](https://nhavantuonglai.com/article), tức bắt đầu từ con số 0. Cải thiện thương hiệu có khi bắt đầu từ số âm. Đó là tình huống khách sạn mang tiếng xấu, không được lòng tin của khách hàng. Có thể như là giá bán phòng không ổn định, chênh lệch khi book và thanh toán, dịch vụ tệ hại, nhân viên thiếu thiện cảm… Những vấn đề này, nhẹ thì khách một đi không trở lại, nặng thì khách sẽ cảnh báo và lượng đặt phòng của khách sạn sẽ giảm sút.
+Khác với việc [xây dựng thương hiệu](/article), tức bắt đầu từ con số 0. Cải thiện thương hiệu có khi bắt đầu từ số âm. Đó là tình huống khách sạn mang tiếng xấu, không được lòng tin của khách hàng. Có thể như là giá bán phòng không ổn định, chênh lệch khi book và thanh toán, dịch vụ tệ hại, nhân viên thiếu thiện cảm… Những vấn đề này, nhẹ thì khách một đi không trở lại, nặng thì khách sẽ cảnh báo và lượng đặt phòng của khách sạn sẽ giảm sút.
 
-Có thể vì khách sạn muốn tối ưu nguồn lực, hoặc không nhận thức được [tầm quan trọng của thương hiệu](https://nhavantuonglai.com/article). Nhưng điều đó không có nghĩa là thương hiệu khách sạn sẽ không được cải thiện. Khách sạn không chỉ cần làm mới hình ảnh bên ngoài, mà còn cải thiện chất lượng bên trong.
+Có thể vì khách sạn muốn tối ưu nguồn lực, hoặc không nhận thức được [tầm quan trọng của thương hiệu](/article). Nhưng điều đó không có nghĩa là thương hiệu khách sạn sẽ không được cải thiện. Khách sạn không chỉ cần làm mới hình ảnh bên ngoài, mà còn cải thiện chất lượng bên trong.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-034.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
@@ -63,7 +63,7 @@ Dù cải thiện theo cách nào đi chăng nữa, cũng hãy cần giữ nhữ
 
 ### Chất lượng dịch vụ
 
-Chất lượng dịch vụ của khách sạn [không đem lại hài lòng cho khách hàng](https://nhavantuonglai.com/article), khiến thương hiệu bị ảnh hưởng, giảm sút. giải pháp để giải quyết, đó là khách sạn cần ý thức hơn nữa tầm quan trọng của thương hiệu, đầu tư để dịch vụ đem đến được chuẩn hóa, chuyên nghiệp hơn.
+Chất lượng dịch vụ của khách sạn [không đem lại hài lòng cho khách hàng](/article), khiến thương hiệu bị ảnh hưởng, giảm sút. giải pháp để giải quyết, đó là khách sạn cần ý thức hơn nữa tầm quan trọng của thương hiệu, đầu tư để dịch vụ đem đến được chuẩn hóa, chuyên nghiệp hơn.
 
 Đồng bộ chất lượng ở các khâu, từ tư vấn, đặt phòng, dọn dẹp cho đến phục vụ khách hàng. Những trải nghiệm này nếu được đồng nhất, xuyên suốt, sẽ tạo nên ấn tượng rõ ràng, và khách sẽ có những nhìn nhận tích cực về khách sạn.
 
@@ -81,7 +81,7 @@ Khi thương hiệu chưa có, hoặc bị giảm sút, khách hàng thường k
 
 Thương hiệu online là hình ảnh, nhận diện của khách sạn trên Internet, mang tính hiện đại và có yếu tố công nghệ đi kèm. Thương hiệu online tuy hữu hình, nhưng chỉ có thể cảm nhận, không thể chạm vào. Bên cạnh đó, thương hiệu online còn có độ phủ lớn, tiếp cận được nhanh, mạnh mẽ đến nhiều đối tượng, nhóm khách hàng.
 
-Một số dạng thương hiệu online tiêu biểu như: mạng xã hội (facebook, instagram…), website, group, [các kênh OTA](https://nhavantuonglai.com/article)… Những tài nguyên này có giá trị hữu hình, và trường tồn theo năm tháng, không bị hư hỏng hay xuống cấp theo thời gian.
+Một số dạng thương hiệu online tiêu biểu như: mạng xã hội (facebook, instagram…), website, group, [các kênh OTA](/article)… Những tài nguyên này có giá trị hữu hình, và trường tồn theo năm tháng, không bị hư hỏng hay xuống cấp theo thời gian.
 
 ### Làm mới nội dung mạng xã hội, website
 
@@ -97,7 +97,7 @@ Bên cạnh đó, hãy loại bỏ những nội dung tiêu cực, gây tranh c�
 
 Hãy cung cấp hình ảnh, thông tin chuyên nghiệp, và uy tín hơn. Hình ảnh rõ, đẹp, bố cục hợp lý sẽ tạo ấn tượng thị giá tốt. Thông tin rõ ràng, giải quyết được nhu cầu tìm hiểu của người đọc sẽ đem lại sự hài lòng, thoải mái.
 
-Khi khách sạn đầu tư nội dung chất lượng, hình ảnh đẹp mắt, người đọc sẽ có thiện cảm tốt hơn. Những thông tin như điểm đến hấp dẫn, những món ăn phải thử… nếu đăng trên [website khách sạn](https://nhavantuonglai.com/article) như vậy, sẽ dễ khiến người đọc tin tưởng khi trải nghiệm tại địa phương.
+Khi khách sạn đầu tư nội dung chất lượng, hình ảnh đẹp mắt, người đọc sẽ có thiện cảm tốt hơn. Những thông tin như điểm đến hấp dẫn, những món ăn phải thử… nếu đăng trên [website khách sạn](/article) như vậy, sẽ dễ khiến người đọc tin tưởng khi trải nghiệm tại địa phương.
 
 Khác với nội dung ở phần trên, tập trung vào cung cấp thông tin, hướng về khách sạn; Cung cấp thông tin chuyên môn tạo cảm giác đồng hành, hỗ trợ cho chuyến đi của người đọc. Từ đó, dễ tạo nên cảm xúc, và thiện cảm với thương hiệu của bạn hơn.
 

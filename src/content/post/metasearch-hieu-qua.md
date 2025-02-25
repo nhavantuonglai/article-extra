@@ -23,7 +23,7 @@ Nếu có nhu cầu mua sách online, gần như bạn sẽ tìm đến Amazon �
 
 Metasearch đối với khách sạn như Amazon với sách điện tử: chúng đều là nền tảng tìm kiếm dọc. Nền tảng tìm kiếm dọc – ngược lại tìm kiếm truyền thống như Google, Bing, hay Yahoo; chúng tập trung vào một lĩnh vực, thị trường cụ thể, như sách hay khách sạn.
 
-Sự thay đổi này là do Google, khi cho ra đời [Google Hotel Ads](https://nhavantuonglai.com/article) cho ngành khách sạn, giúp người dùng tìm kiếm khách sạn cụ thể, so sánh giá hiệu quả hơn. Hiện tại, đây là kênh thông tin bán phòng phổ biến, giúp các khách sạn bán phòng tốt hơn và cạnh tranh với nhau trên Internet.
+Sự thay đổi này là do Google, khi cho ra đời [Google Hotel Ads](/article) cho ngành khách sạn, giúp người dùng tìm kiếm khách sạn cụ thể, so sánh giá hiệu quả hơn. Hiện tại, đây là kênh thông tin bán phòng phổ biến, giúp các khách sạn bán phòng tốt hơn và cạnh tranh với nhau trên Internet.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-005.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
@@ -33,7 +33,7 @@ Metasearch là nền tảng tổng hợp thông tin bán phòng (khách sạn, g
 
 Metasearch không chỉ hiển thị mức giá rẻ nhất có thể. Dù rằng mức giá đồng đều là yếu tố quan trọng, nhưng cũng đừng quên rằng đa số mọi người khi tìm đến website khách sạn (để đặt phòng) là từ Metasearch. Chính vì thế, hãy đảm bảo rằng:
 
-– Sử dụng hình ảnh để minh họa phòng. Hình ảnh giúp khách sạn trực quan hơn trong mắt người dùng. Metasearch cho phép khách sạn hiển thị hình ảnh, bên cạnh tên và giá phòng. Nhiều kênh OTA trên Metasearch không sử dụng hình ảnh, nên nếu [website đầu tư hình ảnh tốt](https://nhavantuonglai.com/article) thì khách sạn sẽ nổi bật hơn.
+– Sử dụng hình ảnh để minh họa phòng. Hình ảnh giúp khách sạn trực quan hơn trong mắt người dùng. Metasearch cho phép khách sạn hiển thị hình ảnh, bên cạnh tên và giá phòng. Nhiều kênh OTA trên Metasearch không sử dụng hình ảnh, nên nếu [website đầu tư hình ảnh tốt](/article) thì khách sạn sẽ nổi bật hơn.
 
 – Mô tả trên website đặc biệt với trên kênh OTA. Dù mô tả trên các kênh OTA đã có sự khác biệt, hãy thêm những mô tả hấp dẫn, đặc biệt và đầy cảm xúc trên website khách sạn. Một trong những lợi thế của Metasearch là tạo ra cảm nhận khách quan cho người dùng khi so sánh các khách sạn, nên dù là khách sạn 3 – thì vẫn được trình bày (trên Metasearch) như khách sạn 5*. Vì vậy, mô tả càng nổi bật, khách sạn của bạn càng có lợi thế.
 
@@ -49,13 +49,13 @@ Metasearch không phải hiệu quả với tất cả khách sạn, khi nó ch�
 
 Tỷ lệ chuyển đổi nếu quá thấp, chỉ là 1% qua Booking Engine, là có 1 khách hàng khi 100 người dùng click vào website; thì dù Metasearch có tăng lượt traffic, kéo theo nhiều lượt đặt phòng hơn, thì hiệu quả mà khách sạn thu lại là không đáng kể, khi vẫn chỉ chuyển đổi được 1% trong rất nhiều lượt click.
 
-Rõ ràng, khách sạn luôn muốn có nhiều lượt đặt phòng hơn, nhưng bạn có sẵn sàng chi tiền một cách lãng phí vào Metasearch, khi mà tỷ lệ chuyển đổi không thay đổi dù traffic tăng đáng kể? Chính vì vậy, trước khi bắt đầu triển khai Metasearch, hãy [cải thiện tỷ lệ chuyển đổi khi khách ghé thăm website](https://nhavantuonglai.com/article). Điều này sẽ ít tốn kém hơn, và lượt đặt phòng cũng sẽ tích cực hơn vì ROI được cải thiện nhiều hơn.
+Rõ ràng, khách sạn luôn muốn có nhiều lượt đặt phòng hơn, nhưng bạn có sẵn sàng chi tiền một cách lãng phí vào Metasearch, khi mà tỷ lệ chuyển đổi không thay đổi dù traffic tăng đáng kể? Chính vì vậy, trước khi bắt đầu triển khai Metasearch, hãy [cải thiện tỷ lệ chuyển đổi khi khách ghé thăm website](/article). Điều này sẽ ít tốn kém hơn, và lượt đặt phòng cũng sẽ tích cực hơn vì ROI được cải thiện nhiều hơn.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-006.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Luôn triển khai chiến lược phân phối khách sạn
 
-Chiến lược phân phối khách sạn là kế hoạch bán phòng có lãi, thông qua nhiều kênh khác nhau. Thông thường, sẽ là sự kết hợp giữa các kênh bán phòng, như trực tiếp (website khách sạn), trung gian ([kênh OTA, TA, GDS](https://nhavantuonglai.com/article)…). Khách sạn tùy thuộc vào chiến lược, có thể phân phối giá bán giữa các kênh bằng nhau, hoặc chênh lệch nhỏ giữa các kênh để tạo ra sự thu hút.
+Chiến lược phân phối khách sạn là kế hoạch bán phòng có lãi, thông qua nhiều kênh khác nhau. Thông thường, sẽ là sự kết hợp giữa các kênh bán phòng, như trực tiếp (website khách sạn), trung gian ([kênh OTA, TA, GDS](/article)…). Khách sạn tùy thuộc vào chiến lược, có thể phân phối giá bán giữa các kênh bằng nhau, hoặc chênh lệch nhỏ giữa các kênh để tạo ra sự thu hút.
 
 Tất nhiên rằng, phân phối giá giữa các kênh nên cân bằng, và ưu tiên lượt đặt phòng qua website. Nhưng khi đi sâu vào phân phối khách sạn, cũng đồng nghĩa rằng mọi thứ sẽ phức tạp, kém chặt chẽ hơn trước. Nếu trước đây, việc phân phối khách sạn tương đối dễ dàng; nhưng các kênh OTA tìm mọi cách để chuyển đổi, thu hút lượt đặt phòng thành công trên nền tảng của mình.
 
@@ -95,7 +95,7 @@ Nó có nghĩa rằng, dữ liệu quan trọng, nhưng nó lại rất dễ sai
 
 Đừng vì nghe có vẻ kỹ thuật mà ngại tìm hiểu, dừng lại không đọc tiếp. Việc theo dõi chéo tên miền lại khá dễ dàng, rất quan trọng và cần thiết, cho nên hãy đừng bỏ qua nó. Nếu bạn đã quen với việc sử dụng Google Analytics, thì khái niệm này không quá lạ lẫm.
 
-Theo dõi chéo tên miền giúp khách sạn xem phiên của 2 website có liên quan (website khách sạn, trang đặt phòng có [tích hợp Booking Engine](https://nhavantuonglai.com/article) thành 1 phiên. Đôi khi, điều này còn được gọi là liên kết website, bởi việc theo dõi diễn ra từ trang này (website khách sạn) đến trang khác (trang đặt phòng). Theo dõi chéo tên miền là quy trình đo lường tiêu chuẩn, được hầu hết các website áp dụng khi tích hợp [Booking Engine](https://nhavantuonglai.com/article), liên kết đến trang chuyển đổi (bán phòng, thu thập thông tin…).
+Theo dõi chéo tên miền giúp khách sạn xem phiên của 2 website có liên quan (website khách sạn, trang đặt phòng có [tích hợp Booking Engine](/article) thành 1 phiên. Đôi khi, điều này còn được gọi là liên kết website, bởi việc theo dõi diễn ra từ trang này (website khách sạn) đến trang khác (trang đặt phòng). Theo dõi chéo tên miền là quy trình đo lường tiêu chuẩn, được hầu hết các website áp dụng khi tích hợp [Booking Engine](/article), liên kết đến trang chuyển đổi (bán phòng, thu thập thông tin…).
 
 Nhưng khi sử dụng Metasearch, việc theo dõi chéo tên miền sẽ nảy sinh một vấn đề. Đó là lúc người dùng click giá hiển thị và được chuyển đến trang đặt phòng, bỏ qua website khách sạn. Nếu người dùng đã xem qua website khách sạn, họ có thể hoàn tất việc đặt phòng ngay lập tức, vấn đề sẽ không xảy ra.
 
@@ -121,7 +121,7 @@ Metasearch có thể xem là xu hướng tiện tại, và nó sẽ tồn tại 
 
 Kết luận lại:
 
-– Tìm [đối tác tích hợp](https://nhavantuonglai.com/article) tin cậy, uy tín để khách sạn của bạn có thể kết nối, quảng bá trên các Metasearch khác nhau và lựa chọn phần mềm quản lý khách sạn phù hợp, nhưng hãy tập trung vào Google Hotel Ads.
+– Tìm [đối tác tích hợp](/article) tin cậy, uy tín để khách sạn của bạn có thể kết nối, quảng bá trên các Metasearch khác nhau và lựa chọn phần mềm quản lý khách sạn phù hợp, nhưng hãy tập trung vào Google Hotel Ads.
 
 – Tìm hiểu cách nền tảng Metasearch đang hoạt động, để có những sự thay đổi, điều chỉnh cho phù hợp với từng nền tảng.
 

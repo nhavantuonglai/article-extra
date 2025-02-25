@@ -18,7 +18,7 @@ Bài viết này sẽ đi sâu vào những đặc điểm quan trọng giúp m�
 
 ## Nhà văn giỏi do năng khiếu hay rèn luyện?
 
-Việc viết có phải là một tài năng bẩm sinh hay là một kỹ năng có thể rèn luyện được? Đây là câu hỏi đã gây tranh cãi trong suốt nhiều thế kỷ. Một số người tin rằng một [nhà văn giỏi](https://nhavantuonglai.com/article/nha-van-tai-nang) sinh ra đã có tố chất đặc biệt về ngôn ngữ, khả năng cảm nhận và sáng tạo. Nhưng nhiều nghiên cứu và kinh nghiệm thực tế đã chỉ ra rằng, bất kỳ ai cũng có thể trở thành một nhà văn giỏi nếu họ dành đủ thời gian và công sức để trau dồi kỹ năng của mình.
+Việc viết có phải là một tài năng bẩm sinh hay là một kỹ năng có thể rèn luyện được? Đây là câu hỏi đã gây tranh cãi trong suốt nhiều thế kỷ. Một số người tin rằng một [nhà văn giỏi](/article/nha-van-tai-nang) sinh ra đã có tố chất đặc biệt về ngôn ngữ, khả năng cảm nhận và sáng tạo. Nhưng nhiều nghiên cứu và kinh nghiệm thực tế đã chỉ ra rằng, bất kỳ ai cũng có thể trở thành một nhà văn giỏi nếu họ dành đủ thời gian và công sức để trau dồi kỹ năng của mình.
 
 ### Vai trò của năng khiếu trong viết lách
 
@@ -56,7 +56,7 @@ Một nhà văn giỏi là khi:
 
 – Đọc một bài phát biểu và đưa ra lời khuyên để chúng trỏ nên hữu ích, có giá trị với người đọc hơn.
 
-Với các ngành nghề khác, như [lập trình viên](https://nhavantuonglai.com/tags/developer) hay [chuyên gia quân sự](https://nhavantuonglai.com/tags/gian-diep-mang) thì cũng tương tự như vậy, tức với chuyên gia – họ chỉ cần vài gợi ý là nhìn rõ bức tranh toàn cảnh. Nên nếu một người tự nhận là nhà văn giỏi nhưng lại bối rối với những thử thách cơ bản nêu trên, khả năng cao họ chỉ là một người viết giỏi mà thôi.
+Với các ngành nghề khác, như [lập trình viên](/tags/developer) hay [chuyên gia quân sự](/tags/gian-diep-mang) thì cũng tương tự như vậy, tức với chuyên gia – họ chỉ cần vài gợi ý là nhìn rõ bức tranh toàn cảnh. Nên nếu một người tự nhận là nhà văn giỏi nhưng lại bối rối với những thử thách cơ bản nêu trên, khả năng cao họ chỉ là một người viết giỏi mà thôi.
 
 ### Nhà văn giỏi có thể liên kết các đoạn văn lại với nhau
 
@@ -126,7 +126,7 @@ Một châm ngôn phương tây phổ biến khi nói về nhà văn giỏi đó
 
 Mọi thứ bắt đầu với một sân vườn ngập đầy tuyết (bản nháp thô, chứ hoàn chỉnh), rồi bạn bắt đầu xúc bớt tuyết ra khỏi vườn (chỉnh sửa) xuống lề đường (trang giấy). Khi đến cuối vườn (trang cuối), bạn tưởng đã toàn tất và nhìn phía sau, vẫn còn một mớ hổ lốn mà phải xử lý.
 
-Đấy chính xác là điều luôn xảy ra với mọi nhà văn, họ [viết lách say sưa, chỉnh sửa tỉnh táo](https://nhavantuonglai.com/article/viet-lach-say-sua) và chợt nhận ra tác phẩm của mình không bao giờ hoàn hảo để ngưng quá trình ấy. Walter Kirn đã mô tả điều ấy như thế này,  _khi bắt đầu viết tiểu thuyết, một nhà văn giỏi cần sự tự tin, nhưng sau đó điều cần thiết là kiên trì. Những đặc điểm này nghe có vẻ giống nhau, thực ra khác. Tự tin là những gì xuất phát từ ý thức vào năng lực của bản thân, còn kiên trì lại là phẩm chất luôn được thử thách mỗi ngày. Đó là động lực duy nhất để tiếp tục hành trình viết mà niềm tin bản thân không bị lung lay_
+Đấy chính xác là điều luôn xảy ra với mọi nhà văn, họ [viết lách say sưa, chỉnh sửa tỉnh táo](/article/viet-lach-say-sua) và chợt nhận ra tác phẩm của mình không bao giờ hoàn hảo để ngưng quá trình ấy. Walter Kirn đã mô tả điều ấy như thế này,  _khi bắt đầu viết tiểu thuyết, một nhà văn giỏi cần sự tự tin, nhưng sau đó điều cần thiết là kiên trì. Những đặc điểm này nghe có vẻ giống nhau, thực ra khác. Tự tin là những gì xuất phát từ ý thức vào năng lực của bản thân, còn kiên trì lại là phẩm chất luôn được thử thách mỗi ngày. Đó là động lực duy nhất để tiếp tục hành trình viết mà niềm tin bản thân không bị lung lay_
 
 Stephen King từng nói: _Viết là con người, nhưng chỉnh sửa là thần thánh._ Một tác phẩm tuyệt vời không phải xuất hiện ngay từ bản nháp đầu tiên, mà được tạo ra qua nhiều lần chỉnh sửa cẩn thận.
 

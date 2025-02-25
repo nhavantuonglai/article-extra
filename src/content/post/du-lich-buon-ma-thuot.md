@@ -43,7 +43,7 @@ Hầu như để đi đến mỗi con đường của thành phố, bạn đều
 
 Bảo tàng Đăk Lăk
 
-[Bảo tàng Đăk Lăk](https://nhavantuonglai.com/article), tọa lạc trên đường Y Ngông trung tâm Thành phố. Buôn Ma Thuột, là nơi du khách có thể tìm hiểu về xứ sở của voi và cà phê vùng Tây Nguyên. Công trình được thiết kế dựa theo kiến trúc [nhà dài](https://nhavantuonglai.com/article) đặc trưng của cộng đồng người Ê-đê, dân tộc đông dân nhất ở Đăk Lăk. Bên trong bảo tàng lưu giữ và trưng bày khoảng 1.000 hiện vật giới thiệu về lịch sử, địa lý tự nhiên và văn hoá của các cộng đồng dân tộc bản địa như Ê-đê, Mnông, Gia-rai, Xơ-đăng, Giẻ Triêng, Mạ…
+[Bảo tàng Đăk Lăk](/article), tọa lạc trên đường Y Ngông trung tâm Thành phố. Buôn Ma Thuột, là nơi du khách có thể tìm hiểu về xứ sở của voi và cà phê vùng Tây Nguyên. Công trình được thiết kế dựa theo kiến trúc [nhà dài](/article) đặc trưng của cộng đồng người Ê-đê, dân tộc đông dân nhất ở Đăk Lăk. Bên trong bảo tàng lưu giữ và trưng bày khoảng 1.000 hiện vật giới thiệu về lịch sử, địa lý tự nhiên và văn hoá của các cộng đồng dân tộc bản địa như Ê-đê, Mnông, Gia-rai, Xơ-đăng, Giẻ Triêng, Mạ…
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/du-lich-buon-ma-thuot-097.jpg" alt="cam-nang-du-lich-buon-ma-thuot" height=100% width=100%><figcaption><p>cam-nang-du-lich-buon-ma-thuot-nhavantuonglai</p></figcaption></figure>
 
@@ -59,7 +59,7 @@ Bạn đừng quên chụp ảnh _check-in_ với cây long não nổi tiếng n
 
 Bảo tàng Thế giới Cà phê
 
-Cách bảo tàng Đăk Lăk gần 3 km, [bảo tàng Thế giới Cà phê](https://nhavantuonglai.com/article) là điểm tham quan không thể bỏ qua khi đến Buôn Ma Thuột bởi kiến trúc lạ mắt, được nhiều du khách ví như _trời Tây_ giữa phố núi. Không gian trưng bày ấn tượng, kể câu chuyện cà phê vòng quanh thế giới. Với tấm vé 70.000 đồng, bảo tàng cà phê không chỉ mang đến cho bạn nhiều thông tin hữu ích mà còn là nơi để giới trẻ sáng tạo vô số bức ảnh theo phong cách nghệ thuật đương đại.
+Cách bảo tàng Đăk Lăk gần 3 km, [bảo tàng Thế giới Cà phê](/article) là điểm tham quan không thể bỏ qua khi đến Buôn Ma Thuột bởi kiến trúc lạ mắt, được nhiều du khách ví như _trời Tây_ giữa phố núi. Không gian trưng bày ấn tượng, kể câu chuyện cà phê vòng quanh thế giới. Với tấm vé 70.000 đồng, bảo tàng cà phê không chỉ mang đến cho bạn nhiều thông tin hữu ích mà còn là nơi để giới trẻ sáng tạo vô số bức ảnh theo phong cách nghệ thuật đương đại.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/du-lich-buon-ma-thuot-099.jpg" alt="cam-nang-du-lich-buon-ma-thuot" height=100% width=100%><figcaption><p>cam-nang-du-lich-buon-ma-thuot-nhavantuonglai</p></figcaption></figure>
 
@@ -93,11 +93,11 @@ Nhà thờ Thánh Tâm tọa ở số 2 đường Phan Chu Trinh, phường Tân
 
 Nhà đày Buôn Ma Thuột
 
-[Nhà đày Buôn Ma Thuột ](https://nhavantuonglai.com/article)được thực dân Pháp thiết lập và xây dựng để đày biệt xứ và giam giữ những cán bộ, đảng viên bị bắt, bị xử án nặng ở các tỉnh Trung Kỳ. Công trình rộng 2 ha, với nhiều hạng mục như: Nhà lao giam giữ, nhà quản lý, nhà y tế, bếp – ăn, nhà giáo huấn, khu tra tấn, nhà xưởng, nhà nguyện, khu bàn giấy… Các công trình này được xây dựng và hoạt động qua 2 giai đoạn: 1931-1945 trong thời kỳ Pháp thuộc và 1954-1975 trong thời kỳ kháng chiến chống Mỹ.
+[Nhà đày Buôn Ma Thuột ](/article)được thực dân Pháp thiết lập và xây dựng để đày biệt xứ và giam giữ những cán bộ, đảng viên bị bắt, bị xử án nặng ở các tỉnh Trung Kỳ. Công trình rộng 2 ha, với nhiều hạng mục như: Nhà lao giam giữ, nhà quản lý, nhà y tế, bếp – ăn, nhà giáo huấn, khu tra tấn, nhà xưởng, nhà nguyện, khu bàn giấy… Các công trình này được xây dựng và hoạt động qua 2 giai đoạn: 1931-1945 trong thời kỳ Pháp thuộc và 1954-1975 trong thời kỳ kháng chiến chống Mỹ.
 
 Buôn Akô Đhông
 
-[Buôn AKô Đhông](https://nhavantuonglai.com/article) hay còn gọi là buôn Cô thôn của làng Ma Rin của người Ê Đê cách trung tâm thành phố Buôn Ma Thuột hơn 2 km. Trong tiếng Ê Đê, _Ako_ có nghĩa là đầu nguồn, _Dhong_ là lũng. Buôn Akô Dhông có 27 căn nhà dài truyền thống của người Ê đê, hàng chục hộ dân đã tận dụng thứ có sẵn để kinh doanh, làm du lịch. Hãy đến buôn vào dịp giáp Tết để trải nghiệm nếp sinh hoạt đậm nét truyền thống và những đêm cồng chiêng sôi động.
+[Buôn AKô Đhông](/article) hay còn gọi là buôn Cô thôn của làng Ma Rin của người Ê Đê cách trung tâm thành phố Buôn Ma Thuột hơn 2 km. Trong tiếng Ê Đê, _Ako_ có nghĩa là đầu nguồn, _Dhong_ là lũng. Buôn Akô Dhông có 27 căn nhà dài truyền thống của người Ê đê, hàng chục hộ dân đã tận dụng thứ có sẵn để kinh doanh, làm du lịch. Hãy đến buôn vào dịp giáp Tết để trải nghiệm nếp sinh hoạt đậm nét truyền thống và những đêm cồng chiêng sôi động.
 
 Quảng trường 10/3
 
@@ -119,11 +119,11 @@ Vé vào cổng tham quan chụp hình cả khu vực là 70.000 đồng một n
 
 ## Ăn gì
 
-Hãy thưởng thức những [món ăn nổi tiếng](https://nhavantuonglai.com/article) của [Buôn Ma Thuột](https://nhavantuonglai.com/article) như gà sa lửa, gà nấu lá giang, canh chua nấu [cá lăng](https://nhavantuonglai.com/article), đặc sản của dòng Serepork, cơm lam, [gỏi cà đắng](https://nhavantuonglai.com/article)… Ngoài ra còn có một số món _ăn chơi_ như bánh ướt thịt nướng, nem nướng, bánh canh cá dằm, [bún đỏ](https://nhavantuonglai.com/article), bò nhúng me, [sầu riêng nướng](https://nhavantuonglai.com/article).
+Hãy thưởng thức những [món ăn nổi tiếng](/article) của [Buôn Ma Thuột](/article) như gà sa lửa, gà nấu lá giang, canh chua nấu [cá lăng](/article), đặc sản của dòng Serepork, cơm lam, [gỏi cà đắng](/article)… Ngoài ra còn có một số món _ăn chơi_ như bánh ướt thịt nướng, nem nướng, bánh canh cá dằm, [bún đỏ](/article), bò nhúng me, [sầu riêng nướng](/article).
 
 Nhắc tới bánh ướt thịt nướng, bạn không nên bỏ qua tiệm ăn nổi tiếng trên đường Trần Nhật Duật mở cửa từ 14h hàng ngày. Bánh ướt ăn kèm với dưa chua, xoài xanh, thịt nướng và giò lụa. Từng miếng bánh ướt được người bán thoăn thoắt lật đặt lên đĩa, nhanh chóng mang tới tận bàn. Ban có thể ăn mãi không ngán món này vì đã kèm xoài xanh và dưa muối.
 
-Một [đặc sản](https://nhavantuonglai.com/article) thú vị là bún chìa được nấu từ phần thịt lớn phía sau chân lợn. Không cầu kỳ về nguyên liệu, miếng thịt _chìa_ lớn chính là phần ngon và ấn tượng nhất của bát bún. Bạn có thể thưởng thức món ăn ở số 222 Nguyễn Tất Thành với giá 65.000 đồng mỗi bát.
+Một [đặc sản](/article) thú vị là bún chìa được nấu từ phần thịt lớn phía sau chân lợn. Không cầu kỳ về nguyên liệu, miếng thịt _chìa_ lớn chính là phần ngon và ấn tượng nhất của bát bún. Bạn có thể thưởng thức món ăn ở số 222 Nguyễn Tất Thành với giá 65.000 đồng mỗi bát.
 
 Một số địa chỉ tham khảo:
 
@@ -151,11 +151,11 @@ Một số địa chỉ tham khảo:
 
 ## Cà phê
 
-Buôn Ma Thuột được mệnh danh là [thiên đường cà phê](https://nhavantuonglai.com/article), vị đắng ở đây dường như không thể lặp lại ở bất kỳ đâu. Đã đến Buôn Ma Thuột mà không thưởng thức cà phê thì thật là thiếu sót. Bạn có vô vàn lựa chọn giữa những quán cà phê nổi tiếng như Azzan, Soul Roastery, StoneVillage hay làng Trung Nguyên…
+Buôn Ma Thuột được mệnh danh là [thiên đường cà phê](/article), vị đắng ở đây dường như không thể lặp lại ở bất kỳ đâu. Đã đến Buôn Ma Thuột mà không thưởng thức cà phê thì thật là thiếu sót. Bạn có vô vàn lựa chọn giữa những quán cà phê nổi tiếng như Azzan, Soul Roastery, StoneVillage hay làng Trung Nguyên…
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/du-lich-buon-ma-thuot-104.jpg" alt="cam-nang-du-lich-buon-ma-thuot" height=100% width=100%><figcaption><p>cam-nang-du-lich-buon-ma-thuot-nhavantuonglai</p></figcaption></figure>
 
-[ARUL Coffee](https://nhavantuonglai.com/article) là một quán đậm chất Tây Nguyên. Quán không tọa lạc ở vị trí đắc địa giữa trung tâm thành phố, mà nằm ở buôn Akô Dhông, một trong những buôn làng giàu nhất Tây Nguyên. Không gian khắc họa những nét đặc trưng trong văn hóa truyền thống Ê-đê.
+[ARUL Coffee](/article) là một quán đậm chất Tây Nguyên. Quán không tọa lạc ở vị trí đắc địa giữa trung tâm thành phố, mà nằm ở buôn Akô Dhông, một trong những buôn làng giàu nhất Tây Nguyên. Không gian khắc họa những nét đặc trưng trong văn hóa truyền thống Ê-đê.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/du-lich-buon-ma-thuot-103.jpg" alt="cam-nang-du-lich-buon-ma-thuot" height=100% width=100%><figcaption><p>cam-nang-du-lich-buon-ma-thuot-nhavantuonglai</p></figcaption></figure>
 

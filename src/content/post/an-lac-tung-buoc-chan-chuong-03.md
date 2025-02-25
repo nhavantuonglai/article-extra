@@ -427,11 +427,11 @@ Hạnh phúc ở trong tầm tay của ta, trong từng phút giây, trong từn
 
 Tôi rất vui đã được cùng đi với bạn trên chặng đường khá dài. Tôi mong là bạn cũng vui. Chúng ta sẽ còn gặp lại.
 
-Đọc [An lạc từng bước chân, chương 01](https://nhavantuonglai.com/article/an-lac-tung-buoc-chan-chuong-01) tại đây.
+Đọc [An lạc từng bước chân, chương 01](/article/an-lac-tung-buoc-chan-chuong-01) tại đây.
 
-Đọc [An lạc từng bước chân, chương 02](https://nhavantuonglai.com/article/an-lac-tung-buoc-chan-chuong-02) tại đây.
+Đọc [An lạc từng bước chân, chương 02](/article/an-lac-tung-buoc-chan-chuong-02) tại đây.
 
-Đọc [An lạc từng bước chân, chương 03](https://nhavantuonglai.com/article/an-lac-tung-buoc-chan-chuong-03) tại đây.
+Đọc [An lạc từng bước chân, chương 03](/article/an-lac-tung-buoc-chan-chuong-03) tại đây.
 
 Đọc [An lạc từng bước chân, toàn tập](https://banmaixanh.vercel.app/ebook/an-lac-tung-buoc-chan.pdf) tại đây.
 

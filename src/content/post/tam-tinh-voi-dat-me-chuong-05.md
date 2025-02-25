@@ -109,15 +109,15 @@ Trong cuốn sách nổi tiếng viết về môi trường, cuốn Hướng Đi
 
 Chúng ta tạo nên một xã hội mà người giàu càng giàu thêm và người nghèo càng thêm túng quẫn. Ta chỉ biết chăm chút lo cho riêng mình, và chỉ thấy những cái lợi trước mắt mà quên đi những hậu quả về sau, chúng ta ít khi để tâm đến số phận của người khác, đến tương lai của hành tinh mẹ của chúng ta. Chúng ta có khác gì những con gà đang bị nhốt trong chuồng và đang giành xé nhau một vài hạt bắp mà không biết rằng lát nữa mình sẽ bị giết làm thịt.
 
-Đọc [Tâm tình với đất mẹ, chương 01](https://nhavantuonglai.com/article/tam-tinh-voi-dat-me-chuong-01) tại đây.
+Đọc [Tâm tình với đất mẹ, chương 01](/article/tam-tinh-voi-dat-me-chuong-01) tại đây.
 
-Đọc [Tâm tình với đất mẹ, chương 02](https://nhavantuonglai.com/article/tam-tinh-voi-dat-me-chuong-02) tại đây.
+Đọc [Tâm tình với đất mẹ, chương 02](/article/tam-tinh-voi-dat-me-chuong-02) tại đây.
 
-Đọc [Tâm tình với đất mẹ, chương 03](https://nhavantuonglai.com/article/tam-tinh-voi-dat-me-chuong-03) tại đây.
+Đọc [Tâm tình với đất mẹ, chương 03](/article/tam-tinh-voi-dat-me-chuong-03) tại đây.
 
-Đọc [Tâm tình với đất mẹ, chương 04](https://nhavantuonglai.com/article/tam-tinh-voi-dat-me-chuong-04) tại đây.
+Đọc [Tâm tình với đất mẹ, chương 04](/article/tam-tinh-voi-dat-me-chuong-04) tại đây.
 
-Đọc [Tâm tình với đất mẹ, chương 05](https://nhavantuonglai.com/article/tam-tinh-voi-dat-me-chuong-05) tại đây.
+Đọc [Tâm tình với đất mẹ, chương 05](/article/tam-tinh-voi-dat-me-chuong-05) tại đây.
 
 Đọc [Tâm tình với đất mẹ, toàn tập](https://banmaixanh.vercel.app/ebook/tam-tinh-voi-dat-me.pdf) tại đây.
 

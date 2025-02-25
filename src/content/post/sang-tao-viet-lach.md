@@ -25,7 +25,7 @@ Một trong những cách hiệu quả nhất để khơi dậy sáng tạo là 
 
 ### Đọc sách và tiếp thu kiến thức mới
 
-[Đọc nhiều hiểu sâu viết hay](https://nhavantuonglai.com/article) là một cách tuyệt vời để mở rộng vốn từ vựng, hiểu biết và phong cách viết. Hãy đọc đa dạng các thể loại từ tiểu thuyết, truyện ngắn, thơ ca, đến sách khoa học, lịch sử và triết học. Đọc sách không chỉ giúp bạn nâng cao kiến thức mà còn khơi dậy những ý tưởng mới và độc đáo cho bài viết của mình.
+[Đọc nhiều hiểu sâu viết hay](/article) là một cách tuyệt vời để mở rộng vốn từ vựng, hiểu biết và phong cách viết. Hãy đọc đa dạng các thể loại từ tiểu thuyết, truyện ngắn, thơ ca, đến sách khoa học, lịch sử và triết học. Đọc sách không chỉ giúp bạn nâng cao kiến thức mà còn khơi dậy những ý tưởng mới và độc đáo cho bài viết của mình.
 
 ### Tham gia các hoạt động nghệ thuật
 
@@ -51,7 +51,7 @@ Kỹ thuật _5 Why’s_ (5 tại sao) là một phương pháp để khám phá
 
 ### Xây dựng nhân vật
 
-[Nhân vật](https://nhavantuonglai.com/article) là yếu tố quan trọng trong một câu chuyện. Hãy dành thời gian để xây dựng nhân vật của bạn một cách chi tiết, từ ngoại hình, tính cách, đến quá khứ và động cơ. Một nhân vật sống động và chân thực sẽ làm cho câu chuyện của bạn trở nên hấp dẫn và thuyết phục hơn.
+[Nhân vật](/article) là yếu tố quan trọng trong một câu chuyện. Hãy dành thời gian để xây dựng nhân vật của bạn một cách chi tiết, từ ngoại hình, tính cách, đến quá khứ và động cơ. Một nhân vật sống động và chân thực sẽ làm cho câu chuyện của bạn trở nên hấp dẫn và thuyết phục hơn.
 
 ### Tạo dựng bối cảnh
 
@@ -81,7 +81,7 @@ Nhịp điệu và âm điệu là yếu tố quan trọng trong việc tạo ra
 
 ### Viết lách tự do
 
-[Viết lách tự do](https://nhavantuonglai.com/article) là một kỹ thuật giúp bạn viết ra ý tưởng một cách tự nhiên và không bị gián đoạn bởi việc chỉnh sửa. Hãy viết liên tục trong một khoảng thời gian nhất định mà không dừng lại để sửa lỗi hoặc xem lại. Sau khi hoàn thành, bạn có thể quay lại và chỉnh sửa sau.
+[Viết lách tự do](/article) là một kỹ thuật giúp bạn viết ra ý tưởng một cách tự nhiên và không bị gián đoạn bởi việc chỉnh sửa. Hãy viết liên tục trong một khoảng thời gian nhất định mà không dừng lại để sửa lỗi hoặc xem lại. Sau khi hoàn thành, bạn có thể quay lại và chỉnh sửa sau.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-035.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
@@ -109,7 +109,7 @@ Khi đã tìm ra giọng văn của mình, hãy giữ phong cách viết nhất 
 
 ### Viết hàng ngày
 
-Viết là một kỹ năng cần sự [luyện tập thường xuyên](https://nhavantuonglai.com/article) để trở nên thành thạo. Hãy dành thời gian viết hàng ngày, bất kể là viết nhật ký, viết blog hay viết truyện ngắn. Việc viết thường xuyên sẽ giúp bạn phát triển phong cách riêng và cải thiện kỹ năng viết một cách tự nhiên.
+Viết là một kỹ năng cần sự [luyện tập thường xuyên](/article) để trở nên thành thạo. Hãy dành thời gian viết hàng ngày, bất kể là viết nhật ký, viết blog hay viết truyện ngắn. Việc viết thường xuyên sẽ giúp bạn phát triển phong cách riêng và cải thiện kỹ năng viết một cách tự nhiên.
 
 ### Đặt mục tiêu cụ thể
 
@@ -123,7 +123,7 @@ Viết lách là một hành trình dài và đầy thách thức. Hãy kiên tr
 
 ### Nghiên cứu tác phẩm của các nhà văn
 
-Hãy nghiên cứu tác phẩm của các [nhà văn vĩ đại](https://nhavantuonglai.com/article) để học hỏi kỹ thuật viết, phong cách và cách họ xử lý các chủ đề khác nhau. Đọc và phân tích cách họ xây dựng nhân vật, phát triển cốt truyện và sử dụng ngôn ngữ. Những nhà văn như Leo Tolstoy, Virginia Woolf, Gabriel Garcia Marquez và [Haruki Murakami](https://nhavantuonglai.com/tags/haruki-murakami) đều có những bài học quý giá để bạn học hỏi.
+Hãy nghiên cứu tác phẩm của các [nhà văn vĩ đại](/article) để học hỏi kỹ thuật viết, phong cách và cách họ xử lý các chủ đề khác nhau. Đọc và phân tích cách họ xây dựng nhân vật, phát triển cốt truyện và sử dụng ngôn ngữ. Những nhà văn như Leo Tolstoy, Virginia Woolf, Gabriel Garcia Marquez và [Haruki Murakami](/tags/haruki-murakami) đều có những bài học quý giá để bạn học hỏi.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-037.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
@@ -147,7 +147,7 @@ Phản hồi tiêu cực có thể khó nghe nhưng lại là cơ hội tốt đ
 
 ### Tham gia các nhóm viết lách
 
-Tham gia các [nhóm viết lách trực tuyến](https://nhavantuonglai.com/article) hoặc offline sẽ giúp bạn kết nối với những người cùng đam mê và học hỏi từ họ. Các [diễn đàn viết lách](https://nhavantuonglai.com/article), nhóm viết lách trên mạng xã hội như Facebook, Reddit, và các website như Scribophile là nơi bạn có thể chia sẻ tác phẩm, nhận được phản hồi và cải thiện kỹ năng viết của mình.
+Tham gia các [nhóm viết lách trực tuyến](/article) hoặc offline sẽ giúp bạn kết nối với những người cùng đam mê và học hỏi từ họ. Các [diễn đàn viết lách](/article), nhóm viết lách trên mạng xã hội như Facebook, Reddit, và các website như Scribophile là nơi bạn có thể chia sẻ tác phẩm, nhận được phản hồi và cải thiện kỹ năng viết của mình.
 
 ### Tìm người đồng hành
 
@@ -157,7 +157,7 @@ Tìm một hoặc nhiều người đồng hành trong hành trình viết lách
 
 ## Kết luận
 
-Phát triển [tư duy sáng tạo viết lách](https://nhavantuonglai.com/article) hữu hiệu đòi hỏi sự kết hợp giữa kỹ thuật, cảm hứng và kiên trì. Từ việc tìm kiếm nguồn cảm hứng, sử dụng các kỹ thuật brainstorming, phát triển câu chuyện, đến việc sử dụng ngôn ngữ và phong cách, tất cả đều đóng vai trò quan trọng trong việc nâng cao kỹ năng viết.
+Phát triển [tư duy sáng tạo viết lách](/article) hữu hiệu đòi hỏi sự kết hợp giữa kỹ thuật, cảm hứng và kiên trì. Từ việc tìm kiếm nguồn cảm hứng, sử dụng các kỹ thuật brainstorming, phát triển câu chuyện, đến việc sử dụng ngôn ngữ và phong cách, tất cả đều đóng vai trò quan trọng trong việc nâng cao kỹ năng viết.
 
 Hãy luôn mở rộng kiến thức, lắng nghe phản hồi, và không ngừng thử nghiệm để phát triển phong cách riêng và kỹ năng viết của bạn. Viết lách không chỉ là một kỹ năng mà còn là một hành trình khám phá bản thân và thể hiện sáng tạo.
 

@@ -47,21 +47,21 @@ Tôi là người tu hành theo đạo Phật, xuất gia từ hồi còn thơ. 
 
 Vậy thì, thưa quí vị, tôi có thể kết luận rằng theo thiển ý, muốn đạt đến kết quả của sự học Phật, ta phải thành khẩn, không có tư ý, không thiên lệch, không hình thức, và cốt nhất là phải học Phật theo những phương pháp của chính Phật học. Phải làm sao tiếp xúc với thực tại linh hoạt của đạo Phật, phải tiếp nhận cho được luồng sinh khí tiếp nối từ đức Phật qua hai mươi lăm thế kỷ truyền thừa, chứ không phải chỉ là lượm lặt, chất đống và phân tích những cái xác Phật học không hồn kết cấu bằng danh từ, bằng tài liệu.
 
-Đọc [Đạo phật ngày nay, chương 01](https://nhavantuonglai.com/article/dao-phat-ngay-nay-chuong-01) tại đây.
+Đọc [Đạo phật ngày nay, chương 01](/article/dao-phat-ngay-nay-chuong-01) tại đây.
 
-Đọc [Đạo phật ngày nay, chương 02](https://nhavantuonglai.com/article/dao-phat-ngay-nay-chuong-02) tại đây.
+Đọc [Đạo phật ngày nay, chương 02](/article/dao-phat-ngay-nay-chuong-02) tại đây.
 
-Đọc [Đạo phật ngày nay, chương 03](https://nhavantuonglai.com/article/dao-phat-ngay-nay-chuong-03) tại đây.
+Đọc [Đạo phật ngày nay, chương 03](/article/dao-phat-ngay-nay-chuong-03) tại đây.
 
-Đọc [Đạo phật ngày nay, chương 04](https://nhavantuonglai.com/article/dao-phat-ngay-nay-chuong-04) tại đây.
+Đọc [Đạo phật ngày nay, chương 04](/article/dao-phat-ngay-nay-chuong-04) tại đây.
 
-Đọc [Đạo phật ngày nay, chương 05](https://nhavantuonglai.com/article/dao-phat-ngay-nay-chuong-05) tại đây.
+Đọc [Đạo phật ngày nay, chương 05](/article/dao-phat-ngay-nay-chuong-05) tại đây.
 
-Đọc [Đạo phật ngày nay, chương 06](https://nhavantuonglai.com/article/dao-phat-ngay-nay-chuong-06) tại đây.
+Đọc [Đạo phật ngày nay, chương 06](/article/dao-phat-ngay-nay-chuong-06) tại đây.
 
-Đọc [Đạo phật ngày nay, chương 07](https://nhavantuonglai.com/article/dao-phat-ngay-nay-chuong-07) tại đây.
+Đọc [Đạo phật ngày nay, chương 07](/article/dao-phat-ngay-nay-chuong-07) tại đây.
 
-Đọc [Đạo phật ngày nay, chương 08](https://nhavantuonglai.com/article/dao-phat-ngay-nay-chuong-08) tại đây.
+Đọc [Đạo phật ngày nay, chương 08](/article/dao-phat-ngay-nay-chuong-08) tại đây.
 
 Đọc [Đạo phật ngày nay, toàn tập](https://banmaixanh.vercel.app/ebook/dao-phat-ngay-nay.pdf) tại đây.
 

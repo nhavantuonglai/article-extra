@@ -69,9 +69,9 @@ Mỗi đoạn văn trong bài viết nên tập trung vào một ý tưởng ch�
 
 ## Viết lách chuyên nghiệp: làm thế nào để nâng cao kỹ năng?
 
-### Tham gia các [Khóa học viết blog](https://nhavantuonglai.com/article)
+### Tham gia các [Khóa học viết blog](/article)
 
-Các [Khóa học viết blog](https://nhavantuonglai.com/article) chuyên nghiệp có thể cung cấp cho bạn kiến thức và kỹ năng cần thiết để nâng cao trình độ viết lách. Bạn có thể tham gia các khóa học trực tuyến hoặc tại các trung tâm đào tạo viết lách uy tín. Những khóa học này thường bao gồm các bài giảng lý thuyết, bài tập thực hành, và phản hồi từ giảng viên.
+Các [Khóa học viết blog](/article) chuyên nghiệp có thể cung cấp cho bạn kiến thức và kỹ năng cần thiết để nâng cao trình độ viết lách. Bạn có thể tham gia các khóa học trực tuyến hoặc tại các trung tâm đào tạo viết lách uy tín. Những khóa học này thường bao gồm các bài giảng lý thuyết, bài tập thực hành, và phản hồi từ giảng viên.
 
 ### Xây dựng portfolio
 

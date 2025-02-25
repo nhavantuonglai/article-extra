@@ -75,7 +75,7 @@ GitBook cung cấp các tùy chọn để cài đặt tài liệu trực tiếp 
 
 – Bước 1: Tạo tài liệu trên GitBook: Đầu tiên, bạn cần tạo tài liệu trên GitBook bằng cách làm theo các bước đã nêu ở phần trên. Đảm bảo rằng tài liệu của bạn đã được xuất bản và sẵn sàng để chia sẻ.
 
-– Bước 2: Nhúng tài liệu vào website: [GitBook](https://nhavantuonglai.com/article/gitbook) cung cấp mã nhúng (embed code) cho các tài liệu đã xuất bản. Bạn có thể tìm mã nhúng này trong phần cài đặt của tài liệu hoặc trên trang xuất bản. Sao chép mã nhúng và dán vào mã HTML của website mà bạn muốn hiển thị tài liệu.
+– Bước 2: Nhúng tài liệu vào website: [GitBook](/article/gitbook) cung cấp mã nhúng (embed code) cho các tài liệu đã xuất bản. Bạn có thể tìm mã nhúng này trong phần cài đặt của tài liệu hoặc trên trang xuất bản. Sao chép mã nhúng và dán vào mã HTML của website mà bạn muốn hiển thị tài liệu.
 
 – Bước 3: Tùy chỉnh giao diện: GitBook cho phép bạn tùy chỉnh giao diện của tài liệu trước khi nhúng vào website. Bạn có thể thay đổi màu sắc, phông chữ, và các thành phần khác để phù hợp với giao diện của website. Điều này giúp tài liệu tích hợp mượt mà với các yếu tố thiết kế của website.
 

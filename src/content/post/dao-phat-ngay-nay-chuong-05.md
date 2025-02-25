@@ -41,21 +41,21 @@ Cho nên nghĩ rằng cửa chùa là nơi mà người ta tìm đến để tr�
 
 Hình bóng của những con người yếu đuối, mắt không dám nhìn thẳng, chân bước ngập ngừng, sợ sệt khổ đau, khúm núm trước quyền lực, cố nhiên không phải là hình bóng của người tăng sĩ. Hình bóng của người tăng phải là hình bóng của một Long Thọ, một Huyền Trang, một Vạn Hạnh, đời sống thì đạm bạc, gian khổ, ý chí thì vững chắc như kim cương, đức độ thì khiêm cung, nhẫn nhục, hành nguyện thì rộng to như sóng biển. Người xuất gia phải có đôi mắt sáng chiếu niềm tin, chói lòa nghị lực, người xuất gia phải có nụ cười bất diệt khinh thường khổ đau. Có như thế mới làm biểu lộ chân tướng sáng rỡ của đạo Phật. Mà muốn được như thế, điều thiết yếu trước tiên là nhận thức thực trạng khổ đau, sống trong khổ đau, luyện mình thành sắt thép. Ta chết đuối trong đau khổ nhưng ta thành Phật cũng nhờ đau khổ. Chính đau khổ, chữa lành đau khổ, và khi đặt vấn đề nhận thức khổ đau làm đệ nhất đế của Tứ Diệu Đế, đức Phật quả đã nhận thấy tầm quan trọng của sự thực ấy một cách thâm thiết.
 
-Đọc [Đạo phật ngày nay, chương 01](https://nhavantuonglai.com/article/dao-phat-ngay-nay-chuong-01) tại đây.
+Đọc [Đạo phật ngày nay, chương 01](/article/dao-phat-ngay-nay-chuong-01) tại đây.
 
-Đọc [Đạo phật ngày nay, chương 02](https://nhavantuonglai.com/article/dao-phat-ngay-nay-chuong-02) tại đây.
+Đọc [Đạo phật ngày nay, chương 02](/article/dao-phat-ngay-nay-chuong-02) tại đây.
 
-Đọc [Đạo phật ngày nay, chương 03](https://nhavantuonglai.com/article/dao-phat-ngay-nay-chuong-03) tại đây.
+Đọc [Đạo phật ngày nay, chương 03](/article/dao-phat-ngay-nay-chuong-03) tại đây.
 
-Đọc [Đạo phật ngày nay, chương 04](https://nhavantuonglai.com/article/dao-phat-ngay-nay-chuong-04) tại đây.
+Đọc [Đạo phật ngày nay, chương 04](/article/dao-phat-ngay-nay-chuong-04) tại đây.
 
-Đọc [Đạo phật ngày nay, chương 05](https://nhavantuonglai.com/article/dao-phat-ngay-nay-chuong-05) tại đây.
+Đọc [Đạo phật ngày nay, chương 05](/article/dao-phat-ngay-nay-chuong-05) tại đây.
 
-Đọc [Đạo phật ngày nay, chương 06](https://nhavantuonglai.com/article/dao-phat-ngay-nay-chuong-06) tại đây.
+Đọc [Đạo phật ngày nay, chương 06](/article/dao-phat-ngay-nay-chuong-06) tại đây.
 
-Đọc [Đạo phật ngày nay, chương 07](https://nhavantuonglai.com/article/dao-phat-ngay-nay-chuong-07) tại đây.
+Đọc [Đạo phật ngày nay, chương 07](/article/dao-phat-ngay-nay-chuong-07) tại đây.
 
-Đọc [Đạo phật ngày nay, chương 08](https://nhavantuonglai.com/article/dao-phat-ngay-nay-chuong-08) tại đây.
+Đọc [Đạo phật ngày nay, chương 08](/article/dao-phat-ngay-nay-chuong-08) tại đây.
 
 Đọc [Đạo phật ngày nay, toàn tập](https://banmaixanh.vercel.app/ebook/dao-phat-ngay-nay.pdf) tại đây.
 

@@ -13,7 +13,7 @@ tags:
   - detective conan
 ---
 
-_Sau 25 năm kể từ khi ra mắt, người đọc cuối cùng cũng được chứng kiến Hattori Heiji thành công trong việc bày tỏ tình cảm của mình với Toyama Kazuha trong [Conan chương 1133](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-1133). Đây là một sự kiện đặc biệt đáng chú ý trong các chương truyện mới nhất, khi nhóm thám tử Conan, Ran và Heiji tiếp tục điều tra một vụ án tại đoàn kịch Osaka. Bên cạnh những tình tiết kịch tính và căng thẳng trong quá trình phá án, câu chuyện lần này còn trở nên đặc biệt với kế hoạch tỏ tình của Heiji – một điểm nhấn quan trọng đã khiến fan chờ đợi từ lâu. Việc Heiji quyết tâm tỏ tình đã làm cho không chỉ các nhân vật mà cả người hâm mộ cũng cảm nhận được sự hồi hộp, kỳ vọng và cả lo lắng về kết quả._
+_Sau 25 năm kể từ khi ra mắt, người đọc cuối cùng cũng được chứng kiến Hattori Heiji thành công trong việc bày tỏ tình cảm của mình với Toyama Kazuha trong [Conan chương 1133](/article/tham-tu-lung-danh-conan-chuong-1133). Đây là một sự kiện đặc biệt đáng chú ý trong các chương truyện mới nhất, khi nhóm thám tử Conan, Ran và Heiji tiếp tục điều tra một vụ án tại đoàn kịch Osaka. Bên cạnh những tình tiết kịch tính và căng thẳng trong quá trình phá án, câu chuyện lần này còn trở nên đặc biệt với kế hoạch tỏ tình của Heiji – một điểm nhấn quan trọng đã khiến fan chờ đợi từ lâu. Việc Heiji quyết tâm tỏ tình đã làm cho không chỉ các nhân vật mà cả người hâm mộ cũng cảm nhận được sự hồi hộp, kỳ vọng và cả lo lắng về kết quả._
 
 ## Case Closed (Thám tử lừng danh Conan) Chương 1133
 

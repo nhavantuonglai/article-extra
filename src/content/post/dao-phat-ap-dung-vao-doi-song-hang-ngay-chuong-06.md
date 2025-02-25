@@ -69,19 +69,19 @@ Là Phật tử, là công dân Việt Nam, ta không thể chấp nhận chiế
 
 Ðối với đồng bào của các sắc tộc thiểu số, Phật tử không nên vì sự hiền lành hay chất phác của họ mà lợi dụng. Không được kỳ thị chủng tộc, phải đối xử với họ một cách hoàn toàn bình đẳng.
 
-Đọc [Đạo Phật áp dụng vào đời sống hàng ngày, chương 01](https://nhavantuonglai.com/article/dao-phat-ap-dung-vao-doi-song-hang-ngay-chuong-01) tại đây.
+Đọc [Đạo Phật áp dụng vào đời sống hàng ngày, chương 01](/article/dao-phat-ap-dung-vao-doi-song-hang-ngay-chuong-01) tại đây.
 
-Đọc [Đạo Phật áp dụng vào đời sống hàng ngày, chương 02](https://nhavantuonglai.com/article/dao-phat-ap-dung-vao-doi-song-hang-ngay-chuong-02) tại đây.
+Đọc [Đạo Phật áp dụng vào đời sống hàng ngày, chương 02](/article/dao-phat-ap-dung-vao-doi-song-hang-ngay-chuong-02) tại đây.
 
-Đọc [Đạo Phật áp dụng vào đời sống hàng ngày, chương 03](https://nhavantuonglai.com/article/dao-phat-ap-dung-vao-doi-song-hang-ngay-chuong-03) tại đây.
+Đọc [Đạo Phật áp dụng vào đời sống hàng ngày, chương 03](/article/dao-phat-ap-dung-vao-doi-song-hang-ngay-chuong-03) tại đây.
 
-Đọc [Đạo Phật áp dụng vào đời sống hàng ngày, chương 04](https://nhavantuonglai.com/article/dao-phat-ap-dung-vao-doi-song-hang-ngay-chuong-04) tại đây.
+Đọc [Đạo Phật áp dụng vào đời sống hàng ngày, chương 04](/article/dao-phat-ap-dung-vao-doi-song-hang-ngay-chuong-04) tại đây.
 
-Đọc [Đạo Phật áp dụng vào đời sống hàng ngày, chương 05](https://nhavantuonglai.com/article/dao-phat-ap-dung-vao-doi-song-hang-ngay-chuong-05) tại đây.
+Đọc [Đạo Phật áp dụng vào đời sống hàng ngày, chương 05](/article/dao-phat-ap-dung-vao-doi-song-hang-ngay-chuong-05) tại đây.
 
-Đọc [Đạo Phật áp dụng vào đời sống hàng ngày, chương 06](https://nhavantuonglai.com/article/dao-phat-ap-dung-vao-doi-song-hang-ngay-chuong-06) tại đây.
+Đọc [Đạo Phật áp dụng vào đời sống hàng ngày, chương 06](/article/dao-phat-ap-dung-vao-doi-song-hang-ngay-chuong-06) tại đây.
 
-Đọc [Đạo Phật áp dụng vào đời sống hàng ngày, chương 07](https://nhavantuonglai.com/article/dao-phat-ap-dung-vao-doi-song-hang-ngay-chuong-07) tại đây.
+Đọc [Đạo Phật áp dụng vào đời sống hàng ngày, chương 07](/article/dao-phat-ap-dung-vao-doi-song-hang-ngay-chuong-07) tại đây.
 
 Đọc [Đạo Phật áp dụng vào đời sống hàng ngày, toàn tập](https://banmaixanh.vercel.app/ebook/dao-phat-ap-dung-vao-doi-song-hang-ngay.pdf) tại đây.
 

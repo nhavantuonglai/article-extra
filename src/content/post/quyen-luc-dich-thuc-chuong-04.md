@@ -101,25 +101,25 @@ Quyền lực chỉ có ích khi đem lại hạnh phúc cho ta và mọi ngư�
 
 Vẫn biết rằng mục đích tối hậu của giải pháp là lợi nhuận, nhưng lợi nhuận ở đây phải có nghĩa là hưởng lợi lạc. Là một vị Bồ Tát, ta được hưởng rất nhiều lợi lạc. Nếu kiếm lợi nhuận mà đem lại an vui thì việc làm của ta không có gì là sai trái. Ta có thể vẫn kiếm lợi nhuận mà không tàn hại, mà phát huy công bằng xã hội, đem lại hiểu biết và giảm thiểu khổ đau. Muốn thế, phải ngưng chạy theo quyền hành, tiền tài, danh vọng và sắc dục. Bốn thứ ấy đi liền với nhau. Không thực tập chánh niệm, ta sẽ là nạn nhân của chúng. Nhìn sâu, ta thấy rằng vẫn có cách tham dự vào thế giới kinh doanh đồng thời đem lại hạnh phúc cho ta và những người khác. Công việc của ta có ý nghĩa khi nó đem lại lợi lạc cho nhân loại và môi trường. Cũng là kiếm tiền nhưng kiếm tiền một cách có ý nghĩa, bởi vì nó đem lại an vui cho thế giới.
 
-Đọc [Quyền lực đích thực, chương 01](https://nhavantuonglai.com/article/quyen-luc-dich-thuc-chuong-01) tại đây.
+Đọc [Quyền lực đích thực, chương 01](/article/quyen-luc-dich-thuc-chuong-01) tại đây.
 
-Đọc [Quyền lực đích thực, chương 02](https://nhavantuonglai.com/article/quyen-luc-dich-thuc-chuong-02) tại đây.
+Đọc [Quyền lực đích thực, chương 02](/article/quyen-luc-dich-thuc-chuong-02) tại đây.
 
-Đọc [Quyền lực đích thực, chương 03](https://nhavantuonglai.com/article/quyen-luc-dich-thuc-chuong-03) tại đây.
+Đọc [Quyền lực đích thực, chương 03](/article/quyen-luc-dich-thuc-chuong-03) tại đây.
 
-Đọc [Quyền lực đích thực, chương 04](https://nhavantuonglai.com/article/quyen-luc-dich-thuc-chuong-04) tại đây.
+Đọc [Quyền lực đích thực, chương 04](/article/quyen-luc-dich-thuc-chuong-04) tại đây.
 
-Đọc [Quyền lực đích thực, chương 05](https://nhavantuonglai.com/article/quyen-luc-dich-thuc-chuong-05) tại đây.
+Đọc [Quyền lực đích thực, chương 05](/article/quyen-luc-dich-thuc-chuong-05) tại đây.
 
-Đọc [Quyền lực đích thực, chương 06](https://nhavantuonglai.com/article/quyen-luc-dich-thuc-chuong-06) tại đây.
+Đọc [Quyền lực đích thực, chương 06](/article/quyen-luc-dich-thuc-chuong-06) tại đây.
 
-Đọc [Quyền lực đích thực, chương 07](https://nhavantuonglai.com/article/quyen-luc-dich-thuc-chuong-07) tại đây.
+Đọc [Quyền lực đích thực, chương 07](/article/quyen-luc-dich-thuc-chuong-07) tại đây.
 
-Đọc [Quyền lực đích thực, chương 08](https://nhavantuonglai.com/article/quyen-luc-dich-thuc-chuong-08) tại đây.
+Đọc [Quyền lực đích thực, chương 08](/article/quyen-luc-dich-thuc-chuong-08) tại đây.
 
-Đọc [Quyền lực đích thực, chương 09](https://nhavantuonglai.com/article/quyen-luc-dich-thuc-chuong-09) tại đây.
+Đọc [Quyền lực đích thực, chương 09](/article/quyen-luc-dich-thuc-chuong-09) tại đây.
 
-Đọc [Quyền lực đích thực, chương 10](https://nhavantuonglai.com/article/quyen-luc-dich-thuc-chuong-10) tại đây.
+Đọc [Quyền lực đích thực, chương 10](/article/quyen-luc-dich-thuc-chuong-10) tại đây.
 
 Đọc [Quyền lực đích thực, toàn tập](https://banmaixanh.vercel.app/ebook/quyen-luc-dich-thuc.pdf) tại đây.
 

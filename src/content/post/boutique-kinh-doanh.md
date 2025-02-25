@@ -47,11 +47,11 @@ Nhưng hãy lưu ý rằng, không có tiêu chuẩn cụ thể nào cho thành 
 
 Dưới đây, sẽ là các chỉ số được dùng để đánh giá hoạt động của khách sạn, để xác định và kiểm tra tính thành công của mô hình kinh doanh hiện có:
 
-– [Doanh thu trên mỗi phòng có sẵn](https://nhavantuonglai.com/article) (Revenue Per Available Room – RevPAR).
+– [Doanh thu trên mỗi phòng có sẵn](/article) (Revenue Per Available Room – RevPAR).
 
-– [Giá phòng trung bình hàng ngày](https://nhavantuonglai.com/article) (Average Daily Rate – ADR).
+– [Giá phòng trung bình hàng ngày](/article) (Average Daily Rate – ADR).
 
-– [Công suất phòng](https://nhavantuonglai.com/article).
+– [Công suất phòng](/article).
 
 – Chỉ số thâm nhập thị trường (Market Penetration Index – MPI).
 
@@ -75,7 +75,7 @@ Vì khách sạn boutique và khách sạn thông thường rất khác nhau, n�
 
 Thương hiệu khách sạn boutique không chỉ là những gì bắt mắt như logo, màu sắc trang trí; mà đó còn là kiến trúc, phong cách của khách sạn.
 
-[Xây dựng và cải thiện thương hiệu](https://nhavantuonglai.com/article) mạnh, giúp khách hàng định vị, dễ dàng tìm thấy khách sạn của bạn giữa muôn vàn khách sạn khác, và tin tưởng vào những trải nghiệm khi đến.
+[Xây dựng và cải thiện thương hiệu](/article) mạnh, giúp khách hàng định vị, dễ dàng tìm thấy khách sạn của bạn giữa muôn vàn khách sạn khác, và tin tưởng vào những trải nghiệm khi đến.
 
 Cho nên, bạn cần xác lập cho khách sạn một thương hiệu mạnh và đáng tin cậy.
 
@@ -119,7 +119,7 @@ Sau khi phân tích đối thủ, hãy phân tích chính khách sạn của mì
 
 – Thương hiệu, danh tiếng của khách sạn đang thế nào. Bạn có biết mọi người đang nói gì về khách sạn của mình không? Các đánh giá trực tuyến có đang tích cực chứ? Nếu mọi thứ đang không thật sự tốt, hãy tìm cách để cải thiện, bằng cách ưu đãi cho khách hàng đánh giá tích cực, và nhắc đến khách sạn của bạn trên mạng xã hội.
 
-– Quản lý khách sạn. Nhiều công việc, tác vụ trong khách sạn có thể thực hiện tự động hóa; nhưng vì một lý do nào đó, mà khách sạn không coi trọng, không thực hiện chúng. Nếu trường hợp đó xảy ra, hãy cân nhắc việc sử dụng [phần mềm quản lý khách sạn](https://nhavantuonglai.com/article).
+– Quản lý khách sạn. Nhiều công việc, tác vụ trong khách sạn có thể thực hiện tự động hóa; nhưng vì một lý do nào đó, mà khách sạn không coi trọng, không thực hiện chúng. Nếu trường hợp đó xảy ra, hãy cân nhắc việc sử dụng [phần mềm quản lý khách sạn](/article).
 
 – Tiện nghi của khách sạn. Tất cả những tiện nghi mà khách hàng cần thì khách sạn bạn có chứ? Nếu chưa, hãy trang bị ngay càng sớm càng tốt.
 
@@ -133,11 +133,11 @@ Công nghệ đóng vai trò quan trọng trong hành trình quản lý của kh
 
 Nếu trước đây, các khách sạn thường quản lý công việc tại văn phòng, trên các trang tính Excel. Dù cũng mang tính công nghệ, nhưng chúng khá thủ công.
 
-Trong hiện tại, công nghệ dần thay thế, các thao tác thủ công đó dần thay đổi và không còn nữa. Trong lĩnh vực khách sạn, giải pháp thay thế là công nghệ [phần mềm quản lý khách sạn](https://nhavantuonglai.com/article).
+Trong hiện tại, công nghệ dần thay thế, các thao tác thủ công đó dần thay đổi và không còn nữa. Trong lĩnh vực khách sạn, giải pháp thay thế là công nghệ [phần mềm quản lý khách sạn](/article).
 
 Giờ đây, các công việc như nhận đặt – trả phòng, thiết lập giá, thanh toán… có thể thực hiện một cách dễ dàng, tự động. Sự bùng nổ của công nghệ khách sạn không chỉ dừng lại ở đó, mà còn được tích hợp vào nhiều tác vụ khác, khiến nhiều hoạt động có thể thực hiện tự động, giúp doanh thu của khách sạn được cải thiện một cách rõ rệt.
 
-Quản lý kênh bán phòng, [công cụ đặt phòng khách sạn](https://nhavantuonglai.com/article), hệ thống POS, thanh toán… hay bất kỳ điều gì có thể đặt tên cho nó, đều là giải pháp mới cho hoạt động của khách sạn.
+Quản lý kênh bán phòng, [công cụ đặt phòng khách sạn](/article), hệ thống POS, thanh toán… hay bất kỳ điều gì có thể đặt tên cho nó, đều là giải pháp mới cho hoạt động của khách sạn.
 
 Vì vậy, đừng ngại mà khám phá các công nghệ mới cho khách sạn boutique của bạn, khi tìm thấy một điều gì phù hợp – đừng né tránh. Thay vào đó, hãy trải nghiệm ngay lập tức.
 
@@ -163,11 +163,11 @@ Xu hướng chung là mọi người khám phá trên internet để tìm khách
 
 – Hoạt động tích cực trên mạng xã hội. Điều này giúp tiếp cận được nhiều khách hàng hơn, và tạo thiện cảm tốt hơn. Vì vậy, hãy cải thiện các trang mạng xã hội, và tham gia tất cả các nền tảng mà khách hàng của bạn đang có ở đó.
 
-– Google Business. Là cách tốt nhất để giúp thương hiệu khách sạn [hiện diện trên Google Search hiệu quả](https://nhavantuonglai.com/article). Nền tảng này còn giúp khách sạn liệt kê mình trên Google Maps và các kết quả tìm kiếm địa phương, cũng như hiển thị thông tin quan trọng về khách sạn.
+– Google Business. Là cách tốt nhất để giúp thương hiệu khách sạn [hiện diện trên Google Search hiệu quả](/article). Nền tảng này còn giúp khách sạn liệt kê mình trên Google Maps và các kết quả tìm kiếm địa phương, cũng như hiển thị thông tin quan trọng về khách sạn.
 
-– Kết nối với kênh OTA. Dù muốn hay không, thì kênh OTA vẫn rất [quan trọng với các khách sạn](https://nhavantuonglai.com/article), đem lại nhiều lượt đặt phòng và tăng nhận diện trực tuyến cho khách sạn.
+– Kết nối với kênh OTA. Dù muốn hay không, thì kênh OTA vẫn rất [quan trọng với các khách sạn](/article), đem lại nhiều lượt đặt phòng và tăng nhận diện trực tuyến cho khách sạn.
 
-Bên cạnh đó, [hiệu ứng Billboard](https://nhavantuonglai.com/article) còn giúp ai đó nhìn thấy quảng cáo khách sạn của bạn trên kênh OTA và tìm kiếm trên Google để đến trang đặt phòng hoặc ngược lại.
+Bên cạnh đó, [hiệu ứng Billboard](/article) còn giúp ai đó nhìn thấy quảng cáo khách sạn của bạn trên kênh OTA và tìm kiếm trên Google để đến trang đặt phòng hoặc ngược lại.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-058.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 

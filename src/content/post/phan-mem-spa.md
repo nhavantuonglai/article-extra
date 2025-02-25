@@ -51,13 +51,13 @@ Nếu bạn sử dụng phần mềm quản lý Spa, thông tin hoạt động, 
 
 _Tìm hiểu thêm:_
 
-– [Mở tiệm Spa nhỏ cần bao nhiêu tiền?](https://nhavantuonglai.com/article)
+– [Mở tiệm Spa nhỏ cần bao nhiêu tiền?](/article)
 
-– [Phần mềm quản lý Spa là gì? Làm thế nào để chọn phần mềm phù hợp cho cơ sở kinh doanh của bạn?](https://nhavantuonglai.com/article)
+– [Phần mềm quản lý Spa là gì? Làm thế nào để chọn phần mềm phù hợp cho cơ sở kinh doanh của bạn?](/article)
 
-– [Những câu hỏi thường gặp về Phần mềm quản lý tiệm Spa](https://nhavantuonglai.com/article)
+– [Những câu hỏi thường gặp về Phần mềm quản lý tiệm Spa](/article)
 
-– [Tại sao phần mềm quản lý Spa lại cần thiết?](https://nhavantuonglai.com/article)
+– [Tại sao phần mềm quản lý Spa lại cần thiết?](/article)
 
 ### Quản lý kho khoa học, giảm thất thoát
 

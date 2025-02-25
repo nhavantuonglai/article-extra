@@ -21,7 +21,7 @@ Trong bài viết này, chúng ta sẽ tìm hiểu website đặt phòng trực 
 
 ## Website đặt phòng trực tiếp là gì?
 
-Website [đặt phòng trực tiếp](/https://nhavantuonglai.com/article/dat-phong-truc-tiep-loi-ich) là một website được sở hữu và vận hành (trong trường hợp này) bởi khách sạn của bạn. Khi tích hợp công cụ đặt phòng, khách có thể đặt phòng trực tiếp trên website của bạn mà không cần qua bên thứ ba. Điều này mang lại trải nghiệm đặt phòng đơn giản hơn cho cả khách và khách sạn, đồng thời tăng doanh thu nhờ không phải trả phí hoa hồng.
+Website [đặt phòng trực tiếp](//article/dat-phong-truc-tiep-loi-ich) là một website được sở hữu và vận hành (trong trường hợp này) bởi khách sạn của bạn. Khi tích hợp công cụ đặt phòng, khách có thể đặt phòng trực tiếp trên website của bạn mà không cần qua bên thứ ba. Điều này mang lại trải nghiệm đặt phòng đơn giản hơn cho cả khách và khách sạn, đồng thời tăng doanh thu nhờ không phải trả phí hoa hồng.
 
 ## Tại sao các khách sạn nên đầu tư vào website đặt phòng trực tiếp?
 

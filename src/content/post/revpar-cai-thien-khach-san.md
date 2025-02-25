@@ -37,13 +37,13 @@ Hoặc:
 
 – Doanh thu trên mỗi phòng có sẵn theo công suất phòng = Giá phòng trung bình hàng ngày (Số Tiền) – Công suất phòng (Chỉ số).
 
-Ví dụ: Khách sạn có 200 phòng, giá phòng trung bình mỗi ngày là 100 $, ngày tính RevPAR có tổng doanh thu là 16,000 $, [công suất phòng](https://nhavantuonglai.com/article) là 0.8 (160/200 phòng đã có khách). Theo đó, RevPAR sẽ được tính với 2 công thức là như sau:
+Ví dụ: Khách sạn có 200 phòng, giá phòng trung bình mỗi ngày là 100 $, ngày tính RevPAR có tổng doanh thu là 16,000 $, [công suất phòng](/article) là 0.8 (160/200 phòng đã có khách). Theo đó, RevPAR sẽ được tính với 2 công thức là như sau:
 
 – Công thức tính theo số phòng có sẵn: 16,000 ($) / 200 ($) = 80 ($).
 
 – Công thức tính theo công suất phòng: 100 ($) – 0.8 = 80 ($).
 
-Như vậy, ngày hôm đó, khách sạn đã thu về 80$ từ mỗi phòng. Bên cạnh đó, bạn cũng cần hiểu rằng, để đạt mục tiêu là 100% công suất phòng bằng cách giảm [ADR](https://nhavantuonglai.com/article) là lựa chọn không có lợi về mặt lợi nhuận, thay vào đó, khách sạn cần tăng RevPAR.
+Như vậy, ngày hôm đó, khách sạn đã thu về 80$ từ mỗi phòng. Bên cạnh đó, bạn cũng cần hiểu rằng, để đạt mục tiêu là 100% công suất phòng bằng cách giảm [ADR](/article) là lựa chọn không có lợi về mặt lợi nhuận, thay vào đó, khách sạn cần tăng RevPAR.
 
 Hãy suy nghĩ về điều này: Bạn muốn kiếm nhiều hơn hơn bằng cách tăng giá phòng nhưng ít khách, hay giảm giá để bán được nhiều phòng hơn? Bạn tự do lựa chọn quyết định cho vấn đề này.
 
@@ -75,7 +75,7 @@ Quản lý doanh thu có nghĩa là bán đúng phòng, vào đúng thời đi�
 
 Nhưng vấn đề đặt ra – là làm thế nào để thực hiện chúng một cách thường xuyên?
 
-Nếu bạn đang tìm câu trả lời, hãy thông qua [công cụ đặt phòng](https://nhavantuonglai.com/article) được các nhà quản lý kênh sử dụng, để điều chỉnh giá thông minh dựa trên tỷ lệ lấp đầy. Tất cả những gì bạn cần làm xác định công suất phòng vào những thời điểm khác nhau để điều chỉnh giá khác nhau cho từng thời điểm đó. [Phần mềm quản lý khách sạn](https://nhavantuonglai.com/article) sẽ tự động cập nhật, điều chỉnh thông tin cho khách sạn của bạn.
+Nếu bạn đang tìm câu trả lời, hãy thông qua [công cụ đặt phòng](/article) được các nhà quản lý kênh sử dụng, để điều chỉnh giá thông minh dựa trên tỷ lệ lấp đầy. Tất cả những gì bạn cần làm xác định công suất phòng vào những thời điểm khác nhau để điều chỉnh giá khác nhau cho từng thời điểm đó. [Phần mềm quản lý khách sạn](/article) sẽ tự động cập nhật, điều chỉnh thông tin cho khách sạn của bạn.
 
 Khi phòng được bán với giá được tối ưu theo công suất phòng thực tế, RevPAR và doanh thu bán phòng chắc chắn sẽ cao hơn.
 
@@ -121,9 +121,9 @@ Tuy rằng kênh OTA đóng vai trò quan trọng trong việc giúp khách sạ
 
 Một mặt, khách sạn vừa có nhiều lượt đặt phòng; nhưng mặt khác, doanh thu khách sạn cũng bị ảnh hưởng đáng kể, bởi chịu chi phí cho hoa hồng kênh OTA.
 
-Để cải thiện, hãy tập trung vào [bán phòng trực tiếp](https://nhavantuonglai.com/article). Tất cả những gì bạn cần làm là có một công cụ đặt phòng được tích hợp trên website khách sạn, có khả năng chuyển đổi khách truy cập thành khách đặt phòng.
+Để cải thiện, hãy tập trung vào [bán phòng trực tiếp](/article). Tất cả những gì bạn cần làm là có một công cụ đặt phòng được tích hợp trên website khách sạn, có khả năng chuyển đổi khách truy cập thành khách đặt phòng.
 
-Ngoài ra, khách sạn cũng nên tăng cường khả năng chuyển đổi khi khách hàng ghé thăm website, điều này giúp tăng tỷ lệ đặt phòng trực tiếp, cải thiện rõ rệt doanh thu vì [chi phí cho hoa hồng kênh OTA](https://nhavantuonglai.com/article) giảm đi nhiều.
+Ngoài ra, khách sạn cũng nên tăng cường khả năng chuyển đổi khi khách hàng ghé thăm website, điều này giúp tăng tỷ lệ đặt phòng trực tiếp, cải thiện rõ rệt doanh thu vì [chi phí cho hoa hồng kênh OTA](/article) giảm đi nhiều.
 
 Khi mà lượng đặt phòng trực tiếp qua website đủ đảm bảo, khách sạn có thể dần giảm phụ thuộc vào các trang kênh OTA.
 
@@ -163,7 +163,7 @@ Gần 50% khách du lịch ra quyết định đặt phòng dựa trên các bà
 
 Danh tiếng khách sạn có thể ảnh hưởng trực tiếp đến doanh thu khách sạn. Bởi vậy, bạn không nên bỏ lỡ, làm lơ việc phản hồi đánh giá, đặc biệt là các phản hồi tiêu cực.
 
-Nếu chưa biết nên bắt đầu từ đâu, hãy tham khảo gợi ý từ chuyên gia về [cải thiện thương hiệu khách sạn](https://nhavantuonglai.com/article) của bạn.
+Nếu chưa biết nên bắt đầu từ đâu, hãy tham khảo gợi ý từ chuyên gia về [cải thiện thương hiệu khách sạn](/article) của bạn.
 
 Khi đánh giá về khách sạn được phản hồi nhiệt tình, khách hàng sẽ có thêm niềm tin vào lựa chọn của họ và dễ dàng giúp tăng khả năng ra quyết định đặt phòng tại khách sạn của bạn.
 
@@ -179,7 +179,7 @@ Một vài gợi ý về chiến lược Digital Marketing để tăng cường 
 
 – Tương tác qua mạng xã hội, đặc biệt là video.
 
-– Chạy quảng cáo trên kênh OTA, [metasearch](https://nhavantuonglai.com/article), mạng xã hội, Google…
+– Chạy quảng cáo trên kênh OTA, [metasearch](/article), mạng xã hội, Google…
 
 – Thông qua influencer (người có ảnh hưởng trên mạng xã hội).
 

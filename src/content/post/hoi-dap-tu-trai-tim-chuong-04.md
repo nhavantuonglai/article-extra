@@ -187,17 +187,17 @@ Hỏi: Nếu đạt được trạng thái bình an sâu sắc và thương yêu
 
 Trả lời: Có thể giúp đời bằng nhiều cách. Trước hết là giúp bằng phong thái bình an, thương yêu. Đó đã là một sự đóng góp lớn. Hơn nữa khi ta thể hiện phong thái bình an và thương yêu thì tất cả hành động của ta đều là hành động cho hòa bình và thương yêu. Ta sẽ không ngần ngại làm những việc có ích lợi cho nhân loại. Giống như Bụt, ta mang một chí nguyện kiên cường ra giúp đời. Một khi ta đạt được bình an và thương yêu thì ta không thể ngồi yên mà không giúp đời. Ta luôn luôn đi tới. Bụt đã giác ngộ và Ngài đã có một tăng đoàn, vậy mà Bụt vẫn không ngừng làm việc và thực tập. Tăng đoàn của Ngài càng ngày càng lớn mạnh. Trong khi Bụt dạy cho các đệ tử của Ngài có khả năng giáo hóa, Bụt vẫn tiếp tục giảng dạy và thực tập. Nếu anh nghĩ rằng công việc của anh đã xong là anh lầm. Không bao giờ xong. Anh phải tiếp tục. Thương yêu là vô tận, lòng từ bi là vô tận. An lạc cũng là vô tận.
 
-Đọc [Hỏi đáp từ trái tim, chương 01](https://nhavantuonglai.com/article/hoi-dap-tu-trai-tim-chuong-01) tại đây.
+Đọc [Hỏi đáp từ trái tim, chương 01](/article/hoi-dap-tu-trai-tim-chuong-01) tại đây.
 
-Đọc [Hỏi đáp từ trái tim, chương 02](https://nhavantuonglai.com/article/hoi-dap-tu-trai-tim-chuong-02) tại đây.
+Đọc [Hỏi đáp từ trái tim, chương 02](/article/hoi-dap-tu-trai-tim-chuong-02) tại đây.
 
-Đọc [Hỏi đáp từ trái tim, chương 03](https://nhavantuonglai.com/article/hoi-dap-tu-trai-tim-chuong-03) tại đây.
+Đọc [Hỏi đáp từ trái tim, chương 03](/article/hoi-dap-tu-trai-tim-chuong-03) tại đây.
 
-Đọc [Hỏi đáp từ trái tim, chương 04](https://nhavantuonglai.com/article/hoi-dap-tu-trai-tim-chuong-04) tại đây.
+Đọc [Hỏi đáp từ trái tim, chương 04](/article/hoi-dap-tu-trai-tim-chuong-04) tại đây.
 
-Đọc [Hỏi đáp từ trái tim, chương 05](https://nhavantuonglai.com/article/hoi-dap-tu-trai-tim-chuong-05) tại đây.
+Đọc [Hỏi đáp từ trái tim, chương 05](/article/hoi-dap-tu-trai-tim-chuong-05) tại đây.
 
-Đọc [Hỏi đáp từ trái tim, chương 06](https://nhavantuonglai.com/article/hoi-dap-tu-trai-tim-chuong-06) tại đây.
+Đọc [Hỏi đáp từ trái tim, chương 06](/article/hoi-dap-tu-trai-tim-chuong-06) tại đây.
 
 Đọc [Hỏi đáp từ trái tim, toàn tập](https://banmaixanh.vercel.app/ebook/hoi-dap-tu-trai-tim.pdf) tại đây.
 

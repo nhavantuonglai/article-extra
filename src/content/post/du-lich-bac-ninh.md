@@ -42,7 +42,7 @@ Ngoài hội Lim, Bắc Ninh còn được biết đến là quê hương của 
 
 Dân gian xứ Bắc xa xưa có câu: _Thứ nhất là đình Đông Khang/ Thứ nhì đình Báng, vẻ vang đình Diềm._ Ngày nay, đình Đông Khang không còn, đình Diềm trước có năm gian, nay còn ba gian. Chỉ có đình Báng (đình Đình Bảng) còn tương đối nguyên vẹn.
 
-Đình làng Đình Bảng là công trình tâm linh có kiến trúc độc đáo, được xây dựng từ thế kỷ 17 với lối thiết kế hoàn toàn bằng gỗ. Nơi đây được xếp hạng một trong những [ngôi đình đẹp nhất Việt Nam](https://nhavantuonglai.com/article) với tuổi đời hơn 300 năm. Đình nằm trong quần thể cùng với đền Đô.
+Đình làng Đình Bảng là công trình tâm linh có kiến trúc độc đáo, được xây dựng từ thế kỷ 17 với lối thiết kế hoàn toàn bằng gỗ. Nơi đây được xếp hạng một trong những [ngôi đình đẹp nhất Việt Nam](/article) với tuổi đời hơn 300 năm. Đình nằm trong quần thể cùng với đền Đô.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/du-lich-bac-ninh-026.jpg" alt="cam-nang-du-lich-bac-ninh" height=100% width=100%><figcaption><p>cam-nang-du-lich-bac-ninh-nhavantuonglai</p></figcaption></figure>
 
@@ -58,7 +58,7 @@ Chùa Dâu ở xã Thanh Khương, huyện Thuận Thành, nằm ở trung tâm 
 
 ### Chùa Phật Tích
 
-Tọa lạc trên núi Lạn Kha (xã Phật Tích, huyện Tiên Du), [chùa Phật Tích](https://nhavantuonglai.com/article) là một ngôi cổ tự nghìn năm. Trong chùa có 10 tượng linh thú quỳ chầu độc đáo từ thế kỷ 11, gắn với lịch sử thời Lý.
+Tọa lạc trên núi Lạn Kha (xã Phật Tích, huyện Tiên Du), [chùa Phật Tích](/article) là một ngôi cổ tự nghìn năm. Trong chùa có 10 tượng linh thú quỳ chầu độc đáo từ thế kỷ 11, gắn với lịch sử thời Lý.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/du-lich-bac-ninh-028.jpg" alt="cam-nang-du-lich-bac-ninh" height=100% width=100%><figcaption><p>cam-nang-du-lich-bac-ninh-nhavantuonglai</p></figcaption></figure>
 
@@ -66,7 +66,7 @@ Tọa lạc trên núi Lạn Kha (xã Phật Tích, huyện Tiên Du), [chùa Ph
 
 ### Đền Cùng – Giếng Ngọc
 
-[Đền Cùng](https://nhavantuonglai.com/article) ở khu Viêm Xá, phường Hòa Long, thành phố Bắc Ninh (còn gọi là làng Diềm). Đền Cùng đã nổi tiếng từ xưa, tương truyền quan quân triều đình đánh giặc dọc tuyến sông Cầu đến đây cầu đảo và thắng trận.
+[Đền Cùng](/article) ở khu Viêm Xá, phường Hòa Long, thành phố Bắc Ninh (còn gọi là làng Diềm). Đền Cùng đã nổi tiếng từ xưa, tương truyền quan quân triều đình đánh giặc dọc tuyến sông Cầu đến đây cầu đảo và thắng trận.
 
 Nằm giữa sân đền Cùng là giếng Ngọc. Vào những ngày nóng bức, sau khi thăm quan và vào Đền dâng lễ, du khách thường không quên xin nước uống trong giếng Ngọc. Để lấy nước, du khách phải để giày, dép trên bờ và đi chân trần xuống dưới. Nước múc lên từ giếng có thể uống trực tiếp mà không cần lọc hay đun sôi, sẽ thấy vị mát lành và ngọt tự nhiên không đâu sánh được.
 
@@ -80,7 +80,7 @@ Video Player is loading.DừngHiện tại 0:04/Thời lượng 4:59Đã tải: 
 
 ### Làng gốm Phù Lãng
 
-[Làng nghề gốm Phù Lãng](https://nhavantuonglai.com/article), huyện Quế Võ, được công nhận là Di sản văn hóa phi vật thể cấp quốc gia năm 2016. Ở Phù Lãng, dễ dàng bắt gặp hình ảnh các sản phẩm gốm xếp dọc đường làng, ngõ, xóm. Ngoài các sản phẩm gia dụng như ang, chum, vại… gốm Phù Lãng còn được dùng trang trí nội, ngoại thất…
+[Làng nghề gốm Phù Lãng](/article), huyện Quế Võ, được công nhận là Di sản văn hóa phi vật thể cấp quốc gia năm 2016. Ở Phù Lãng, dễ dàng bắt gặp hình ảnh các sản phẩm gốm xếp dọc đường làng, ngõ, xóm. Ngoài các sản phẩm gia dụng như ang, chum, vại… gốm Phù Lãng còn được dùng trang trí nội, ngoại thất…
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/du-lich-bac-ninh-030.jpg" alt="cam-nang-du-lich-bac-ninh" height=100% width=100%><figcaption><p>cam-nang-du-lich-bac-ninh-nhavantuonglai</p></figcaption></figure>
 

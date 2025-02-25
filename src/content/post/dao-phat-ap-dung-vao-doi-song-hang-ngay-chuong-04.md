@@ -99,19 +99,19 @@ Phật tử không sống một cuộc sống khép kín, nhắm mắt trước 
 
 Về phương diện quản trị thôn làng hay khu phố, người Phật tử cần thực sự để tâm vào việc bầu cử hội đồng xã hay hội đồng khu phố. Nếu nhận thấy có sự mờ ám gian lận khi bầu cử, phải biết can đảm hợp sức cùng nhau để phản đối. Nên bàn luận, tìm hiểu và chọn lọc những ứng cử viên. Khi ta đã bầu xong một ban lãnh đạo xóm làng, ta phải ủng hộ cho ban ấy làm việc. Nhất định là ta phải tìm đủ cách cho ban ấy thực sự làm việc cải tiến đời sống địa phương. Không những ta có thể góp ý kiến xây dựng, ta còn có thể đóng góp kiến thức chuyên môn của ta, và khi cần thì có thể đóng góp cả công lao của ta để hỗ trợ cho ban này làm việc phụng sự cho xóm làng. Trong trường hợp đặc biệt, để công việc không ngưng trệ, ta có thể xúc tiến sự thành lập những ủy ban tư nhân gồm có những người có thiện chí để tổ chức học hỏi các vấn đề trong làng và tìm cách phát khởi những công tác, cải tiến và phát triển thôn xóm. Chúng ta đừng buông xuôi tay khi thấy hội đồng xã, hội đồng khu phố hay hội đồng tình bất lực. Ta đừng nói: _Nếu tôi là họ thì tôi sẽ…_ Ta nên tự hỏi mình: _Họ đã như thế, thì mình với tư cách người dân, mình phải làm gì?_ Tự hỏi như thế để bắt tay vào việc tự lực xây dựng. Đó mới thực là đi vào con đường bát chánh, con đường _tự thắp đuốc mà đi_ của đạo Phật.
 
-Đọc [Đạo Phật áp dụng vào đời sống hàng ngày, chương 01](https://nhavantuonglai.com/article/dao-phat-ap-dung-vao-doi-song-hang-ngay-chuong-01) tại đây.
+Đọc [Đạo Phật áp dụng vào đời sống hàng ngày, chương 01](/article/dao-phat-ap-dung-vao-doi-song-hang-ngay-chuong-01) tại đây.
 
-Đọc [Đạo Phật áp dụng vào đời sống hàng ngày, chương 02](https://nhavantuonglai.com/article/dao-phat-ap-dung-vao-doi-song-hang-ngay-chuong-02) tại đây.
+Đọc [Đạo Phật áp dụng vào đời sống hàng ngày, chương 02](/article/dao-phat-ap-dung-vao-doi-song-hang-ngay-chuong-02) tại đây.
 
-Đọc [Đạo Phật áp dụng vào đời sống hàng ngày, chương 03](https://nhavantuonglai.com/article/dao-phat-ap-dung-vao-doi-song-hang-ngay-chuong-03) tại đây.
+Đọc [Đạo Phật áp dụng vào đời sống hàng ngày, chương 03](/article/dao-phat-ap-dung-vao-doi-song-hang-ngay-chuong-03) tại đây.
 
-Đọc [Đạo Phật áp dụng vào đời sống hàng ngày, chương 04](https://nhavantuonglai.com/article/dao-phat-ap-dung-vao-doi-song-hang-ngay-chuong-04) tại đây.
+Đọc [Đạo Phật áp dụng vào đời sống hàng ngày, chương 04](/article/dao-phat-ap-dung-vao-doi-song-hang-ngay-chuong-04) tại đây.
 
-Đọc [Đạo Phật áp dụng vào đời sống hàng ngày, chương 05](https://nhavantuonglai.com/article/dao-phat-ap-dung-vao-doi-song-hang-ngay-chuong-05) tại đây.
+Đọc [Đạo Phật áp dụng vào đời sống hàng ngày, chương 05](/article/dao-phat-ap-dung-vao-doi-song-hang-ngay-chuong-05) tại đây.
 
-Đọc [Đạo Phật áp dụng vào đời sống hàng ngày, chương 06](https://nhavantuonglai.com/article/dao-phat-ap-dung-vao-doi-song-hang-ngay-chuong-06) tại đây.
+Đọc [Đạo Phật áp dụng vào đời sống hàng ngày, chương 06](/article/dao-phat-ap-dung-vao-doi-song-hang-ngay-chuong-06) tại đây.
 
-Đọc [Đạo Phật áp dụng vào đời sống hàng ngày, chương 07](https://nhavantuonglai.com/article/dao-phat-ap-dung-vao-doi-song-hang-ngay-chuong-07) tại đây.
+Đọc [Đạo Phật áp dụng vào đời sống hàng ngày, chương 07](/article/dao-phat-ap-dung-vao-doi-song-hang-ngay-chuong-07) tại đây.
 
 Đọc [Đạo Phật áp dụng vào đời sống hàng ngày, toàn tập](https://banmaixanh.vercel.app/ebook/dao-phat-ap-dung-vao-doi-song-hang-ngay.pdf) tại đây.
 

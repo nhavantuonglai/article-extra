@@ -20,7 +20,7 @@ _Việc ép và bảo quản mẫu tiêu bản hoa khô, tiêu bản thực vậ
 
 ### Kiểm tra mẫu tiêu bản trong 1 – 2 ngày đầu tiên
 
-Trong 1 – 2 ngày đầu tiên sau khi đã ép và cố định mẫu [tiêu bản thực vật hoa khô](https://nhavantuonglai.com/article/tieu-ban-thuc-vat-hoa-kho), bạn cần thường xuyên kiểm tra để đảm bảo rằng các cánh hoa và lá không bị dập hoặc hư hại. Đây là giai đoạn mẫu tiêu bản vẫn còn tươi, do đó việc điều chỉnh sẽ dễ dàng hơn. Dưới đây là các bước chi tiết cần thực hiện:
+Trong 1 – 2 ngày đầu tiên sau khi đã ép và cố định mẫu [tiêu bản thực vật hoa khô](/article/tieu-ban-thuc-vat-hoa-kho), bạn cần thường xuyên kiểm tra để đảm bảo rằng các cánh hoa và lá không bị dập hoặc hư hại. Đây là giai đoạn mẫu tiêu bản vẫn còn tươi, do đó việc điều chỉnh sẽ dễ dàng hơn. Dưới đây là các bước chi tiết cần thực hiện:
 
 – Kiểm tra tình trạng các cánh hoa và lá: Hãy mở bộ tiêu bản và kiểm tra kỹ lưỡng tình trạng của các cánh hoa và lá. Nếu phát hiện bất kỳ dấu hiệu nào của việc bị dập, bạn cần nhẹ nhàng điều chỉnh lại vị trí của chúng. Việc này giúp đảm bảo rằng mẫu tiêu bản giữ được hình dáng tự nhiên và không bị tổn thương.
 
@@ -30,11 +30,11 @@ Trong 1 – 2 ngày đầu tiên sau khi đã ép và cố định mẫu [tiêu 
 
 ### Kiểm tra và thu hoạch mẫu tiêu bản sau 5 – 7 ngày
 
-Sau khoảng 5 – 7 ngày, mẫu [tiêu bản thực vật hoa khô](https://nhavantuonglai.com/article/tieu-ban-thuc-vat-hoa-kho#tieu-ban-thuc-vat-hoa-kho-tim-hieu) sẽ đạt đến trạng thái khô hoàn toàn. Đây là thời điểm bạn có thể thu hoạch mẫu tiêu bản và chuẩn bị cho giai đoạn bảo quản dài hạn. Các bước kiểm tra và thu hoạch mẫu tiêu bản bao gồm:
+Sau khoảng 5 – 7 ngày, mẫu [tiêu bản thực vật hoa khô](/article/tieu-ban-thuc-vat-hoa-kho#tieu-ban-thuc-vat-hoa-kho-tim-hieu) sẽ đạt đến trạng thái khô hoàn toàn. Đây là thời điểm bạn có thể thu hoạch mẫu tiêu bản và chuẩn bị cho giai đoạn bảo quản dài hạn. Các bước kiểm tra và thu hoạch mẫu tiêu bản bao gồm:
 
 – Kiểm tra độ khô của mẫu tiêu bản: Trước khi thu hoạch, bạn cần kiểm tra kỹ lưỡng độ khô của mẫu tiêu bản. Đảm bảo rằng không còn bất kỳ dấu hiệu nào của độ ẩm. Nếu mẫu tiêu bản vẫn còn ẩm, hãy tiếp tục quá trình ép và kiểm tra lại sau vài ngày.
 
-– Thu hoạch mẫu [tiêu bản thực vật hoa khô](https://nhavantuonglai.com/article/tieu-ban-thuc-vat-hoa-kho#ban-tieu-ban-thuc-vat-kho): Khi mẫu tiêu bản đã khô hoàn toàn, bạn có thể nhẹ nhàng gỡ bỏ chúng khỏi các lớp lót và đệm. Hãy cẩn thận để không làm gãy hoặc hư hại mẫu tiêu bản trong quá trình này.
+– Thu hoạch mẫu [tiêu bản thực vật hoa khô](/article/tieu-ban-thuc-vat-hoa-kho#ban-tieu-ban-thuc-vat-kho): Khi mẫu tiêu bản đã khô hoàn toàn, bạn có thể nhẹ nhàng gỡ bỏ chúng khỏi các lớp lót và đệm. Hãy cẩn thận để không làm gãy hoặc hư hại mẫu tiêu bản trong quá trình này.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/tieu-ban-thuc-vat-hoa-kho-01.jpg" alt="thuc vat hoc, tieu ban thuc vat, tieu ban, tieu ban hoa kho, tieu ban thuc vat kho, tieu ban hoa." title="thuc vat hoc, tieu ban thuc vat, tieu ban, tieu ban hoa kho, tieu ban thuc vat kho, tieu ban hoa." height=100% width=100%><figcaption><p>Tiêu bản hoa khô và tiêu bản thực vật khô là những mẫu thực vật đã qua xử lý, nhằm giữ nguyên hình dáng, cấu trúc và màu sắc.</p></figcaption></figure>
 
@@ -44,7 +44,7 @@ Sau khoảng 5 – 7 ngày, mẫu [tiêu bản thực vật hoa khô](https://nh
 
 ### Kết quả và kinh nghiệm sau quá trình ép tiêu bản
 
-Quá trình ép [tiêu bản thực vật hoa khô](https://nhavantuonglai.com/article/tieu-ban-thuc-vat-hoa-kho#cach-lam-tieu-ban-la-cay), tiêu bản thực vật khô có thể gặp nhiều thử thách trong những lần đầu tiên. Kết quả có thể không hoàn toàn như mong đợi do thiếu kinh nghiệm và kỹ năng. Tuy nhiên, theo thời gian và qua nhiều lần thực hành, bạn sẽ dần dần cải thiện được kỹ thuật của mình. Dưới đây là một số kinh nghiệm quan trọng để đạt được mẫu tiêu bản đẹp và chất lượng:
+Quá trình ép [tiêu bản thực vật hoa khô](/article/tieu-ban-thuc-vat-hoa-kho#cach-lam-tieu-ban-la-cay), tiêu bản thực vật khô có thể gặp nhiều thử thách trong những lần đầu tiên. Kết quả có thể không hoàn toàn như mong đợi do thiếu kinh nghiệm và kỹ năng. Tuy nhiên, theo thời gian và qua nhiều lần thực hành, bạn sẽ dần dần cải thiện được kỹ thuật của mình. Dưới đây là một số kinh nghiệm quan trọng để đạt được mẫu tiêu bản đẹp và chất lượng:
 
 – Kiên nhẫn và tỉ mỉ: Sự kiên nhẫn và tỉ mỉ là yếu tố quan trọng nhất trong quá trình này. Hãy dành thời gian kiểm tra và điều chỉnh mẫu tiêu bản một cách cẩn thận để đạt được kết quả tốt nhất.
 
@@ -52,7 +52,7 @@ Quá trình ép [tiêu bản thực vật hoa khô](https://nhavantuonglai.com/a
 
 – Sử dụng vật liệu phù hợp: Việc chọn lựa vật liệu phù hợp cho các lớp lót và đệm cũng ảnh hưởng lớn đến chất lượng của mẫu tiêu bản. Hãy chọn những loại giấy và xốp có khả năng hút ẩm tốt và không gây hại cho mẫu tiêu bản.
 
-– Bảo quản đúng cách: Sau khi thu hoạch, mẫu [tiêu bản thực vật hoa khô](https://nhavantuonglai.com/article/tieu-ban-thuc-vat-hoa-kho) cần được bảo quản trong điều kiện thích hợp để duy trì độ bền và thẩm mỹ. Lưu trữ mẫu tiêu bản ở nơi khô ráo, thoáng mát và tránh ánh sáng trực tiếp từ mặt trời.
+– Bảo quản đúng cách: Sau khi thu hoạch, mẫu [tiêu bản thực vật hoa khô](/article/tieu-ban-thuc-vat-hoa-kho) cần được bảo quản trong điều kiện thích hợp để duy trì độ bền và thẩm mỹ. Lưu trữ mẫu tiêu bản ở nơi khô ráo, thoáng mát và tránh ánh sáng trực tiếp từ mặt trời.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/tieu-ban-thuc-vat-hoa-kho-08.jpg" alt="thuc vat hoc, tieu ban thuc vat, tieu ban, tieu ban hoa kho, tieu ban thuc vat kho, tieu ban hoa." title="thuc vat hoc, tieu ban thuc vat, tieu ban, tieu ban hoa kho, tieu ban thuc vat kho, tieu ban hoa." height=100% width=100%><figcaption><p>Tiêu bản hoa khô và tiêu bản thực vật khô là những mẫu thực vật đã qua xử lý, nhằm giữ nguyên hình dáng, cấu trúc và màu sắc.</p></figcaption></figure>
 
@@ -68,7 +68,7 @@ Qua nhiều lần thực hành, bạn sẽ dần nâng cao kỹ năng và kinh n
 
 ### Nguyên nhân chính
 
-[Tiêu bản thực vật hoa khô](https://nhavantuonglai.com/article/tieu-ban-thuc-vat-hoa-kho#cach-lam-tieu-ban-thuc-vat-hoa-kho) và tiêu bản thực vật khô có thể bị hư hại, xuống màu do nhiều nguyên nhân khác nhau. Dưới đây là những nguyên nhân chính dẫn đến tình trạng này:
+[Tiêu bản thực vật hoa khô](/article/tieu-ban-thuc-vat-hoa-kho#cach-lam-tieu-ban-thuc-vat-hoa-kho) và tiêu bản thực vật khô có thể bị hư hại, xuống màu do nhiều nguyên nhân khác nhau. Dưới đây là những nguyên nhân chính dẫn đến tình trạng này:
 
 – Tiếp xúc trực tiếp với ánh nắng và không khí tự nhiên: Ánh sáng mặt trời là kẻ thù lớn nhất của các tiêu bản hoa khô. Khi tiêu bản tiếp xúc với ánh sáng mặt trời trong thời gian dài, các sắc tố tự nhiên trong hoa và thực vật sẽ bị phân hủy, dẫn đến mất màu hoặc thay đổi màu sắc. Ngoài ra, ánh nắng mặt trời còn có thể làm hỏng cấu trúc và hình dạng của tiêu bản, khiến chúng trở nên giòn và dễ vỡ. Do đó, để bảo quản tiêu bản tốt nhất, cần lưu trữ chúng ở nơi khô ráo, thoáng mát và tránh ánh sáng trực tiếp.
 
@@ -100,7 +100,7 @@ Qua nhiều lần thực hành, bạn sẽ dần nâng cao kỹ năng và kinh n
 
 ### Ép plastic tiêu bản
 
-Một trong những phương pháp hiệu quả nhất để bảo quản [tiêu bản thực vật hoa khô](https://nhavantuonglai.com/article/tieu-ban-thuc-vat-hoa-kho#mua-tieu-ban-thuc-vat-hoa-kho) và tiêu bản thực vật khô là ép plastic. Việc ép plastic không chỉ giúp cố định tiêu bản mà còn ngăn chặn các tác nhân bên ngoài như ánh sáng, độ ẩm và không khí tiếp xúc với tiêu bản. Quy trình ép plastic tiêu bản hoa khô bao gồm các bước sau:
+Một trong những phương pháp hiệu quả nhất để bảo quản [tiêu bản thực vật hoa khô](/article/tieu-ban-thuc-vat-hoa-kho#mua-tieu-ban-thuc-vat-hoa-kho) và tiêu bản thực vật khô là ép plastic. Việc ép plastic không chỉ giúp cố định tiêu bản mà còn ngăn chặn các tác nhân bên ngoài như ánh sáng, độ ẩm và không khí tiếp xúc với tiêu bản. Quy trình ép plastic tiêu bản hoa khô bao gồm các bước sau:
 
 – Chuẩn bị tiêu bản: Đảm bảo tiêu bản đã khô hoàn toàn trước khi tiến hành ép plastic. Bất kỳ độ ẩm nào còn lại trong tiêu bản cũng có thể gây ra mốc hoặc hư hỏng sau khi ép.
 

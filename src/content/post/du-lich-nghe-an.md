@@ -13,7 +13,7 @@ _Nghệ An sở hữu địa hình đa dạng từ núi cao, đồng bằng, tru
 
 ## Nghệ An mùa nào đẹp?
 
-Nghệ An có bốn mùa rõ rệt. [Mùa xuân](https://nhavantuonglai.com/article) mát mẻ, ấm áp với nhiệt độ trung bình 22-29 độ C (tháng 1); mùa hè nắng nóng, 33-38 độ C (tháng 4); mùa thu se lạnh, mưa nhiều, 22-28 độ C; mùa đông gió lạnh, 17-20 độ C (tháng 10).
+Nghệ An có bốn mùa rõ rệt. [Mùa xuân](/article) mát mẻ, ấm áp với nhiệt độ trung bình 22-29 độ C (tháng 1); mùa hè nắng nóng, 33-38 độ C (tháng 4); mùa thu se lạnh, mưa nhiều, 22-28 độ C; mùa đông gió lạnh, 17-20 độ C (tháng 10).
 
 Nếu bạn muốn đi nghỉ dưỡng kết hợp tắm biển, thời điểm đẹp nhất ghé thăm là mùa hè. Nếu đi thăm thú, tham gia các lễ hội, đi bộ đường dài… hãy đến vào mùa xuân và thu.
 
@@ -47,7 +47,7 @@ Nghệ An là tỉnh rộng nhất Việt Nam, với diện tích hơn 16.400 km
 
 Khu lưu niệm Chủ tịch Hồ Chí Minh
 
-Đây là địa điểm mà hầu hết du khách đều ghé thăm khi đến Nghệ An, nằm ở xã Kim Liên, huyện Nam Đàn, cách Thành phố Vinh 13km, đi theo quốc lộ 46. [Khu di tích](https://nhavantuonglai.com/article) gồm quê nội, quê ngoại Chủ tịch Hồ Chí Minh và khu mộ bà Hoàng Thị Loan, thân mẫu của Chủ tịch Hồ Chí Minh. Nơi đây lưu giữ các di tích, di vật gắn liền với quê hương, gia đình, thời niên thiếu của Chủ tịch Hồ Chí Minh.
+Đây là địa điểm mà hầu hết du khách đều ghé thăm khi đến Nghệ An, nằm ở xã Kim Liên, huyện Nam Đàn, cách Thành phố Vinh 13km, đi theo quốc lộ 46. [Khu di tích](/article) gồm quê nội, quê ngoại Chủ tịch Hồ Chí Minh và khu mộ bà Hoàng Thị Loan, thân mẫu của Chủ tịch Hồ Chí Minh. Nơi đây lưu giữ các di tích, di vật gắn liền với quê hương, gia đình, thời niên thiếu của Chủ tịch Hồ Chí Minh.
 
 Đền Chung Sơn
 
@@ -69,11 +69,11 @@ Cột mốc số 0 ở thị trấn Tân Kỳ, huyện Tân Kỳ, tỉnh Nghệ 
 
 Đền thờ Ông Hoàng Mười
 
-[Đền và mộ ông Hoàng Mười](https://nhavantuonglai.com/article) ở làng Xuân Am, xã Hưng Thịnh, huyện Hưng Nguyên, cách trung tâm Thành phố Vinh khoảng 3km. Nơi đây thờ ông Hoàng Mười – Thái úy Vĩ Quốc Công, một danh tướng nhà Lê, người gốc Nghệ An. Cách đền gần 100 m về phía đông là phần mộ Đức ông, đây chính là điểm đặc biệt riêng mà chỉ đền thờ Đức ông Hoàng Mười tại Nghệ An mới có.
+[Đền và mộ ông Hoàng Mười](/article) ở làng Xuân Am, xã Hưng Thịnh, huyện Hưng Nguyên, cách trung tâm Thành phố Vinh khoảng 3km. Nơi đây thờ ông Hoàng Mười – Thái úy Vĩ Quốc Công, một danh tướng nhà Lê, người gốc Nghệ An. Cách đền gần 100 m về phía đông là phần mộ Đức ông, đây chính là điểm đặc biệt riêng mà chỉ đền thờ Đức ông Hoàng Mười tại Nghệ An mới có.
 
 Theo ghi chép, đền được xây dựng vào năm 1634, từ thời hậu Lê. Trải qua lịch sử, đền bị phá huỷ. Năm 1995 đền được xây dựng lại, giờ trở thành trung tâm văn hóa tín ngưỡng, tâm linh nổi tiếng của tỉnh Nghệ An.
 
-Những điểm du lịch tâm linh khác của Nghệ An là đền Quả Sơn, đền Bạch Mã, [đền Chín Gian](https://nhavantuonglai.com/article), đền Cuông, đền và miếu mộ vua Mai Hắc Đế, chùa Cổ Am, chùa Đại Tuệ.
+Những điểm du lịch tâm linh khác của Nghệ An là đền Quả Sơn, đền Bạch Mã, [đền Chín Gian](/article), đền Cuông, đền và miếu mộ vua Mai Hắc Đế, chùa Cổ Am, chùa Đại Tuệ.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/du-lich-nghe-an-440.jpg" alt="cam-nang-du-lich-nghe-an" height=100% width=100%><figcaption><p>cam-nang-du-lich-nghe-an-nhavantuonglai</p></figcaption></figure>
 
@@ -81,7 +81,7 @@ Những điểm du lịch tâm linh khác của Nghệ An là đền Quả Sơn,
 
 Nằm ở xã Thanh An, huyện Thanh Chương, cách Thành phố Vinh 60km và đường Hồ Chí Minh 200m là đảo chè Thanh Chương. Đây là điểm check-in nổi tiếng, thu hút nhiều du khách ghé thăm.
 
-Đảo rộng khoảng 80 ha với hàng chục _ốc đảo_ nhỏ nằm san sát, soi bóng xuống lòng hồ. Nơi đây còn được ví như _[Hạ Long trên cạn](https://nhavantuonglai.com/article)._ Du khách ghé thăm đảo không cần mua vé vào cửa, nhưng cần mua vé đi xuồng máy (15.000 đồng một lượt). Trên các đảo có quán nước, du khách có thể ăn các món ăn vặt địa phương và uống nước mía giá 15.000 đồng một cốc.
+Đảo rộng khoảng 80 ha với hàng chục _ốc đảo_ nhỏ nằm san sát, soi bóng xuống lòng hồ. Nơi đây còn được ví như _[Hạ Long trên cạn](/article)._ Du khách ghé thăm đảo không cần mua vé vào cửa, nhưng cần mua vé đi xuồng máy (15.000 đồng một lượt). Trên các đảo có quán nước, du khách có thể ăn các món ăn vặt địa phương và uống nước mía giá 15.000 đồng một cốc.
 
 Vườn quốc gia Pù Mát
 
@@ -103,7 +103,7 @@ Nếu tới đập Phà Lài ban ngày trời nắng thì đây có lẽ là m�
 
 Biển Cửa Lò
 
-Cách Thành phố Vinh 16km về phía đông là [biển Cửa Lò](https://nhavantuonglai.com/article). Nơi đây được đánh giá là có không gian lí tưởng cho những hoạt động như bơi lội, đánh bóng chuyền, chơi golf, chèo thuyền thúng đi câu mực đêm. Có nhiều khu nghỉ dưỡng cao cấp quanh khu vực này cũng như điểm chụp ảnh đẹp. Một trong số đó là bể bơi vô cực ở khách sạn Summer, bãi đá đảo Lan Châu… Du khách không nên bở lỡ đặn sản biển tại các nhà hàng hải sản trên con đường ven biển Bình Minh, ăn món mực nhảy nổi tiếng.
+Cách Thành phố Vinh 16km về phía đông là [biển Cửa Lò](/article). Nơi đây được đánh giá là có không gian lí tưởng cho những hoạt động như bơi lội, đánh bóng chuyền, chơi golf, chèo thuyền thúng đi câu mực đêm. Có nhiều khu nghỉ dưỡng cao cấp quanh khu vực này cũng như điểm chụp ảnh đẹp. Một trong số đó là bể bơi vô cực ở khách sạn Summer, bãi đá đảo Lan Châu… Du khách không nên bở lỡ đặn sản biển tại các nhà hàng hải sản trên con đường ven biển Bình Minh, ăn món mực nhảy nổi tiếng.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/du-lich-nghe-an-443.jpg" alt="cam-nang-du-lich-nghe-an" height=100% width=100%><figcaption><p>cam-nang-du-lich-nghe-an-nhavantuonglai</p></figcaption></figure>
 
@@ -123,9 +123,9 @@ Ngoài tắm biển Quỳnh, du khách ưa khám phá có thể ghé thăm hang 
 
 Cánh đồng hoa hướng dương
 
-[Cánh đồng hoa hướng dương](https://nhavantuonglai.com/article) rộng 100 ha, ở nông trường 19 – 5, thuộc xã Nghĩa Sơn, huyện Nghĩa Đàn, cách Thành phố Vinh 95km. Du khách được thưởng ngoạn, chụp ảnh cánh đồng hoa vàng rực, trải dài bất tận trong tháng 3-4 và tháng 11-12. Ngày hội Hoa Hướng Dương được tổ chức vào tháng 12 hàng năm. Ngoài ra, bạn có thể tham quan trang trại bò sữa ngay gần đó.
+[Cánh đồng hoa hướng dương](/article) rộng 100 ha, ở nông trường 19 – 5, thuộc xã Nghĩa Sơn, huyện Nghĩa Đàn, cách Thành phố Vinh 95km. Du khách được thưởng ngoạn, chụp ảnh cánh đồng hoa vàng rực, trải dài bất tận trong tháng 3-4 và tháng 11-12. Ngày hội Hoa Hướng Dương được tổ chức vào tháng 12 hàng năm. Ngoài ra, bạn có thể tham quan trang trại bò sữa ngay gần đó.
 
-Nếu muốn check-in với hoa, gợi ý khác cho bạn là t[hung lũng hoa Phủ Quỳ](https://nhavantuonglai.com/article) nằm sát đường Hồ Chí Minh, thuộc xã Nghĩa Long, huyện Nghĩa Đàn.
+Nếu muốn check-in với hoa, gợi ý khác cho bạn là t[hung lũng hoa Phủ Quỳ](/article) nằm sát đường Hồ Chí Minh, thuộc xã Nghĩa Long, huyện Nghĩa Đàn.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/du-lich-nghe-an-445.jpg" alt="cam-nang-du-lich-nghe-an" height=100% width=100%><figcaption><p>cam-nang-du-lich-nghe-an-nhavantuonglai</p></figcaption></figure>
 
@@ -141,9 +141,9 @@ Các làng nghề: Mây tre đan (xã Nghi Thái, Nghi Phong, Thành phố Vinh)
 
 ## Đặc sản
 
-Nghệ An có rất nhiều đặc sản nổi tiếng, đều là những món ăn dân dã, được nhiều du khách người yêu thích như [bánh mướt](https://nhavantuonglai.com/article), [cháo canh](https://nhavantuonglai.com/article), mực nhảy nướng, [bánh bèo](https://nhavantuonglai.com/article)…
+Nghệ An có rất nhiều đặc sản nổi tiếng, đều là những món ăn dân dã, được nhiều du khách người yêu thích như [bánh mướt](/article), [cháo canh](/article), mực nhảy nướng, [bánh bèo](/article)…
 
-Du khách có thể ghé ăn [cháo lươn](https://nhavantuonglai.com/article) ở Thành phố Vinh, tại phố Mai Hắc Đế hay đường Dốc Thiết. Để ăn [hải sản](https://nhavantuonglai.com/article), du khách nên ghé thăm Cửa Lò, [biển Quỳnh](https://nhavantuonglai.com/article).
+Du khách có thể ghé ăn [cháo lươn](/article) ở Thành phố Vinh, tại phố Mai Hắc Đế hay đường Dốc Thiết. Để ăn [hải sản](/article), du khách nên ghé thăm Cửa Lò, [biển Quỳnh](/article).
 
 Các đặc sản nổi tiếng khác phải kể đến là giò me, dê Cẩu Đòn, rươi Hưng Châu, gà Thanh Chương, nhút Thanh Chương, nước mắm, tương Nam Đàn, bánh mướt Diễn Châu, bánh đa Đô Lương, trà dược liệu, cam Vinh, kẹo cu đơ…
 
@@ -151,12 +151,12 @@ Các đặc sản nổi tiếng khác phải kể đến là giò me, dê Cẩu 
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/du-lich-nghe-an-447.jpg" alt="cam-nang-du-lich-nghe-an" height=100% width=100%><figcaption><p>cam-nang-du-lich-nghe-an-nhavantuonglai</p></figcaption></figure>
 
-Về đồ uống, bạn hãy thử [cà phê bọt ở chợ Vinh](https://nhavantuonglai.com/article) – một trải nghiệm cần có cho những người thích uống cà phê. Ngoài vị đắng đặc trưng, cà phê bọt còn có vị béo từ lớp bọt và mùi thơm đặc trưng.
+Về đồ uống, bạn hãy thử [cà phê bọt ở chợ Vinh](/article) – một trải nghiệm cần có cho những người thích uống cà phê. Ngoài vị đắng đặc trưng, cà phê bọt còn có vị béo từ lớp bọt và mùi thơm đặc trưng.
 
 Tùy theo sở thích mà bạn có thể yêu cầu ly nâu hoặc đen. Khi thưởng thức, bạn có thể từ tốn dùng lớp bọt bên trên trước hoặc khuấy đều lên cùng lớp cà phê bên dưới.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/du-lich-nghe-an-448.jpg" alt="cam-nang-du-lich-nghe-an" height=100% width=100%><figcaption><p>cam-nang-du-lich-nghe-an-nhavantuonglai</p></figcaption></figure>
 
-[Nước chè đâm](https://nhavantuonglai.com/article) thanh mát là đặc sản của huyện miền núi Quỳ Hợp, nơi địa đầu phía tây bắc xứ Nghệ. Theo người dân nơi đây, chè đâm có nguồn gốc từ dân tộc Thái bản địa, là thứ đồ uống quen thuộc và không thể thiếu trong đời sống hàng ngày.
+[Nước chè đâm](/article) thanh mát là đặc sản của huyện miền núi Quỳ Hợp, nơi địa đầu phía tây bắc xứ Nghệ. Theo người dân nơi đây, chè đâm có nguồn gốc từ dân tộc Thái bản địa, là thứ đồ uống quen thuộc và không thể thiếu trong đời sống hàng ngày.
 
 <figure><img src="https://banmaixanh.vercel.app/image/cover/001-516.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

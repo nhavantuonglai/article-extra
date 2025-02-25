@@ -26,7 +26,7 @@ Ilford XP2 Super 400 là một ví dụ điển hình về sự đổi mới tro
 
 ### Từ film điện ảnh đến nhiếp ảnh đại chúng
 
-[Ilford XP2](https://nhavantuonglai.com/article/ilford-xp-2-super-400) Super 400 bắt nguồn từ cuộn film điện ảnh Kodak Vision3 500T, vốn được thiết kế cho các nhà làm phim Hollywood. Quá trình chuyển đổi từ film điện ảnh sang film nhiếp ảnh đòi hỏi sự đổi mới về mặt kỹ thuật và quy trình sản xuất phức tạp. Công ty đã phải nghiên cứu và phát triển phương pháp loại bỏ lớp RemJet mà không ảnh hưởng đến các đặc tính quan trọng của film, đồng thời đảm bảo film có thể được xử lý trong các phòng tối thông thường.
+[Ilford XP2](/article/ilford-xp-2-super-400) Super 400 bắt nguồn từ cuộn film điện ảnh Kodak Vision3 500T, vốn được thiết kế cho các nhà làm phim Hollywood. Quá trình chuyển đổi từ film điện ảnh sang film nhiếp ảnh đòi hỏi sự đổi mới về mặt kỹ thuật và quy trình sản xuất phức tạp. Công ty đã phải nghiên cứu và phát triển phương pháp loại bỏ lớp RemJet mà không ảnh hưởng đến các đặc tính quan trọng của film, đồng thời đảm bảo film có thể được xử lý trong các phòng tối thông thường.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/cinestill-800-t-01.jpg" alt="Ilford XP2 Super 400" height=100% width=100%><figcaption><p>Ilford XP2 Super 400</p></figcaption></figure>
 

@@ -21,7 +21,7 @@ Bài viết cung cấp cho bạn những lợi ích mà bạn nhận lại đư�
 
 ## Hệ thống phần mềm quản lý khách sạn giúp tiết kiệm thời gian với cùng một khối lượng công việc
 
-Và thời gian cũng chính là tiền bạc. Một [giải pháp quản lý khách sạn](https://nhavantuonglai.com/article) tất cả trong một sẽ tự động hóa nhiều công việc cho bạn.
+Và thời gian cũng chính là tiền bạc. Một [giải pháp quản lý khách sạn](/article) tất cả trong một sẽ tự động hóa nhiều công việc cho bạn.
 
 Giá sẽ được cập nhật cùng lúc trên tất cả các kênh phân phối phòng. Bạn có thể lựa chọn làm việc từ xa hay tại bàn làm việc, trên thiết bị điện thoại hay di động. Bạn sẽ có tất cả sự kiểm soát cần thiết để hoàn thành công việc theo cách phù hợp nhất.
 
@@ -29,7 +29,7 @@ Giá sẽ được cập nhật cùng lúc trên tất cả các kênh phân ph�
 
 Hệ thống quản lý đặt phòng trực tiếp thuận tiện trên website cho phép bạn tiếp cận với khách hàng trực tiếp không thông qua bên thứ ba. Direct Booking giúp khách sạn kết nối trực tiếp với khách hàng, xây dựng lòng trung thành với thương hiệu, tiết kiệm tiền hoa hồng phân phối, từ đó tăng lợi nhuận cho khách sạn.
 
-Tăng lượng direct booking đòi hỏi một kế hoạch bán hàng có chiến lược được hoạch định cụ thể cùng với [hệ thống booking engine thông minh](https://nhavantuonglai.com/article).
+Tăng lượng direct booking đòi hỏi một kế hoạch bán hàng có chiến lược được hoạch định cụ thể cùng với [hệ thống booking engine thông minh](/article).
 
 Nhưng sẽ rất xứng đáng khi khách sạn bắt đầu nghĩ đến việc thúc đẩy nhiều lượt đặt phòng trực tiếp hơn, khiến direct booking trở thành một phần quan trọng trong nhóm kênh phân phối.
 
@@ -43,7 +43,7 @@ Từ việc phân tích công suất phòng đến việc đánh giá đưa ra n
 
 ## Bạn sẽ mở rộng tầm nhìn của mình
 
-[Phần mềm quản lý kênh Channel Manager](https://nhavantuonglai.com/article) cho phép bạn tiếp cận với các đại lý bán phòng từ khắp nơi trên thế giới, những người muốn lấy phòng từ khách sạn và kiếm tiền hoa hồng.
+[Phần mềm quản lý kênh Channel Manager](/article) cho phép bạn tiếp cận với các đại lý bán phòng từ khắp nơi trên thế giới, những người muốn lấy phòng từ khách sạn và kiếm tiền hoa hồng.
 
 Các đại lý này kết hợp với kênh quản lý bán phòng, hiển thị tình trạng còn hàng và mức giá hiện tại trong thời gian thực. Từ các đại lý du lịch bán lẻ trên khắp thế giới đến các kênh OTA lớn nhất trong ngành khách sạn, bạn sẽ có thể kết nối với các chuyên gia có khả năng tiếp cận với nhiều loại khách du lịch khác nhau.
 

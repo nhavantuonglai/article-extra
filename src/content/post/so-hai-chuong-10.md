@@ -57,45 +57,45 @@ Nếu biết thực tập nhìn sâu, chúng ta sẽ có thể nhận ra và xó
 
 Nếu biết cách thư giãn, khi cảm xúc mạnh đến, chúng ta sẽ không trao truyền nỗi sợ hãi cho con cái cũng như những thế hệ tương lai. Ôm giữ lo sợ, đè nén lo sợ thì sẽ có lúc lo sợ bùng phát. Rồi lo sợ sẽ lây lan cho những người trẻ xung quanh. Họ sẽ thâm nhập và lan tỏa lo sợ. Nhưng nếu biết cách xử lý lo sợ, chúng ta sẽ có khả năng giúp đỡ người thân và những người trẻ xung quanh. Chúng ta có thể nói với họ: _Em yêu, hít thở với anh nào. Hãy chú ý đến sự phồng lên xẹp xuống của bụng._ Thấy bạn có thực tập họ sẵn sàng nghe lời. Nhờ sự hiện diện của bạn, nhờ năng lượng chánh niệm, vững chãi của bạn, nên con bạn, vợ bạn sẽ có thể vượt thoát cơn bão của cảm xúc. Khi chia sẻ lại cho những người trẻ cách vượt qua cơn bão cảm xúc, khuôn mặt bạn hẳn là phải bình an và trầm tĩnh. Một khi người trẻ đã biết làm chủ cảm xúc của mình, họ đang sở hữu một kỹ năng vô giá có thể cứu mạng họ trong tương lai.
 
-Đọc [Sợ hãi, chương 01](https://nhavantuonglai.com/article/so-hai-chuong-01) tại đây.
+Đọc [Sợ hãi, chương 01](/article/so-hai-chuong-01) tại đây.
 
-Đọc [Sợ hãi, chương 02](https://nhavantuonglai.com/article/so-hai-chuong-02) tại đây.
+Đọc [Sợ hãi, chương 02](/article/so-hai-chuong-02) tại đây.
 
-Đọc [Sợ hãi, chương 03](https://nhavantuonglai.com/article/so-hai-chuong-03) tại đây.
+Đọc [Sợ hãi, chương 03](/article/so-hai-chuong-03) tại đây.
 
-Đọc [Sợ hãi, chương 04](https://nhavantuonglai.com/article/so-hai-chuong-04) tại đây.
+Đọc [Sợ hãi, chương 04](/article/so-hai-chuong-04) tại đây.
 
-Đọc [Sợ hãi, chương 05](https://nhavantuonglai.com/article/so-hai-chuong-05) tại đây.
+Đọc [Sợ hãi, chương 05](/article/so-hai-chuong-05) tại đây.
 
-Đọc [Sợ hãi, chương 06](https://nhavantuonglai.com/article/so-hai-chuong-06) tại đây.
+Đọc [Sợ hãi, chương 06](/article/so-hai-chuong-06) tại đây.
 
-Đọc [Sợ hãi, chương 07](https://nhavantuonglai.com/article/so-hai-chuong-07) tại đây.
+Đọc [Sợ hãi, chương 07](/article/so-hai-chuong-07) tại đây.
 
-Đọc [Sợ hãi, chương 08](https://nhavantuonglai.com/article/so-hai-chuong-08) tại đây.
+Đọc [Sợ hãi, chương 08](/article/so-hai-chuong-08) tại đây.
 
-Đọc [Sợ hãi, chương 09](https://nhavantuonglai.com/article/so-hai-chuong-09) tại đây.
+Đọc [Sợ hãi, chương 09](/article/so-hai-chuong-09) tại đây.
 
-Đọc [Sợ hãi, chương 10](https://nhavantuonglai.com/article/so-hai-chuong-10) tại đây.
+Đọc [Sợ hãi, chương 10](/article/so-hai-chuong-10) tại đây.
 
-Đọc [Sợ hãi, chương 11](https://nhavantuonglai.com/article/so-hai-chuong-11) tại đây.
+Đọc [Sợ hãi, chương 11](/article/so-hai-chuong-11) tại đây.
 
-Đọc [Sợ hãi, chương 12](https://nhavantuonglai.com/article/so-hai-chuong-12) tại đây.
+Đọc [Sợ hãi, chương 12](/article/so-hai-chuong-12) tại đây.
 
-Đọc [Sợ hãi, chương 13](https://nhavantuonglai.com/article/so-hai-chuong-13) tại đây.
+Đọc [Sợ hãi, chương 13](/article/so-hai-chuong-13) tại đây.
 
-Đọc [Sợ hãi, chương 14](https://nhavantuonglai.com/article/so-hai-chuong-14) tại đây.
+Đọc [Sợ hãi, chương 14](/article/so-hai-chuong-14) tại đây.
 
-Đọc [Sợ hãi, chương 15](https://nhavantuonglai.com/article/so-hai-chuong-15) tại đây.
+Đọc [Sợ hãi, chương 15](/article/so-hai-chuong-15) tại đây.
 
-Đọc [Sợ hãi, chương 16](https://nhavantuonglai.com/article/so-hai-chuong-16) tại đây.
+Đọc [Sợ hãi, chương 16](/article/so-hai-chuong-16) tại đây.
 
-Đọc [Sợ hãi, chương 17](https://nhavantuonglai.com/article/so-hai-chuong-17) tại đây.
+Đọc [Sợ hãi, chương 17](/article/so-hai-chuong-17) tại đây.
 
-Đọc [Sợ hãi, chương 18](https://nhavantuonglai.com/article/so-hai-chuong-18) tại đây.
+Đọc [Sợ hãi, chương 18](/article/so-hai-chuong-18) tại đây.
 
-Đọc [Sợ hãi, chương 19](https://nhavantuonglai.com/article/so-hai-chuong-19) tại đây.
+Đọc [Sợ hãi, chương 19](/article/so-hai-chuong-19) tại đây.
 
-Đọc [Sợ hãi, chương 20](https://nhavantuonglai.com/article/so-hai-chuong-20) tại đây.
+Đọc [Sợ hãi, chương 20](/article/so-hai-chuong-20) tại đây.
 
 Đọc [Sợ hãi, toàn tập](https://banmaixanh.vercel.app/ebook/so-hai.pdf) tại đây.
 

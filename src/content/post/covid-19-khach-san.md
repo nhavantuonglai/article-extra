@@ -31,7 +31,7 @@ Rõ ràng, như các đợt dịch trước đây và cả hiện tại, mảng 
 
 Để không bị gián đoạn và đứng trước nguy cơ phá sản, các khách sạn đang tính đến những kế hoạch dài hơi, tạm thời ngưng hoạt động hay vay tiền để cầm cự trong giai đoạn này.
 
-Một số kế hoạch ngắn hạn được đưa ra là nhân sự luân phiên, cắt giảm các khoản chi không cần thiết, hạn chế làm việc tại khách sạn mà quản lý từ xa bằng [Giải pháp](https://nhavantuonglai.com/article) được nhiều khách sạn tính đến, lựa chọn triển khai. Xét về tính hiệu quả, những giải pháp này không thật sự đem lại hiệu quả được đo lường bằng lợi nhuận, mà giúp giảm đi chi phí vận hành, tối ưu nguồn lực hiện có.
+Một số kế hoạch ngắn hạn được đưa ra là nhân sự luân phiên, cắt giảm các khoản chi không cần thiết, hạn chế làm việc tại khách sạn mà quản lý từ xa bằng [Giải pháp](/article) được nhiều khách sạn tính đến, lựa chọn triển khai. Xét về tính hiệu quả, những giải pháp này không thật sự đem lại hiệu quả được đo lường bằng lợi nhuận, mà giúp giảm đi chi phí vận hành, tối ưu nguồn lực hiện có.
 
 Song song với đó, nhiều kế hoạch dài hạn được đưa ra, như bán phòng dài hạn, chính sách hoàn hủy linh hoạt, cung ứng dịch vụ khác để xoay chuyển, điều phối nhân viên hoạt động, tạo ra doanh thu. Những kế hoạch này tất nhiên sẽ có tiềm ẩn rủi ro, nhưng là rủi ro chấp nhận được trong mùa dịch. Vấn đề dịch bệnh đặt ra thách thức cho các khách sạn, công ty lữ hành không chỉ ở cách ứng phó, mà còn là tiềm lực nội tại có đủ mạnh mẽ để đối phó hay không.
 

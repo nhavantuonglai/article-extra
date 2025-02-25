@@ -155,27 +155,27 @@ Chánh niệm chứa năng lượng của Định Lực, của Hiểu Biết và
 
 Chỉ cần một buổi thiền tập ta cũng đã nhận thấy là ta có thừa khả năng chăm sóc cơn giận. Ta đã đạt thắng lợi cho riêng ta và cho những người ta thương. Khi ta thất bại, những người ta thương cũng sẽ thất bại theo. Khi ta thắng, ta cũng thắng cho người ta thương. Vậy thì nếu khi một ai đó không biết cách tu tập thì ta sẽ tu tập cho ta và cả cho người ấy. Đừng đợi người kia thực tập rồi ta mới bắt đầu thực tập. Ta tu cho cả hai.
 
-Đọc [Giận, chương 01](https://nhavantuonglai.com/article/gian-chuong-01) tại đây.
+Đọc [Giận, chương 01](/article/gian-chuong-01) tại đây.
 
-Đọc [Giận, chương 02](https://nhavantuonglai.com/article/gian-chuong-02) tại đây.
+Đọc [Giận, chương 02](/article/gian-chuong-02) tại đây.
 
-Đọc [Giận, chương 03](https://nhavantuonglai.com/article/gian-chuong-03) tại đây.
+Đọc [Giận, chương 03](/article/gian-chuong-03) tại đây.
 
-Đọc [Giận, chương 04](https://nhavantuonglai.com/article/gian-chuong-04) tại đây.
+Đọc [Giận, chương 04](/article/gian-chuong-04) tại đây.
 
-Đọc [Giận, chương 05](https://nhavantuonglai.com/article/gian-chuong-05) tại đây.
+Đọc [Giận, chương 05](/article/gian-chuong-05) tại đây.
 
-Đọc [Giận, chương 06](https://nhavantuonglai.com/article/gian-chuong-06) tại đây.
+Đọc [Giận, chương 06](/article/gian-chuong-06) tại đây.
 
-Đọc [Giận, chương 07](https://nhavantuonglai.com/article/gian-chuong-07) tại đây.
+Đọc [Giận, chương 07](/article/gian-chuong-07) tại đây.
 
-Đọc [Giận, chương 08](https://nhavantuonglai.com/article/gian-chuong-08) tại đây.
+Đọc [Giận, chương 08](/article/gian-chuong-08) tại đây.
 
-Đọc [Giận, chương 09](https://nhavantuonglai.com/article/gian-chuong-09) tại đây.
+Đọc [Giận, chương 09](/article/gian-chuong-09) tại đây.
 
-Đọc [Giận, chương 10](https://nhavantuonglai.com/article/gian-chuong-10) tại đây.
+Đọc [Giận, chương 10](/article/gian-chuong-10) tại đây.
 
-Đọc [Giận, chương 11](https://nhavantuonglai.com/article/gian-chuong-11) tại đây.
+Đọc [Giận, chương 11](/article/gian-chuong-11) tại đây.
 
 Đọc [Giận, toàn tập](https://banmaixanh.vercel.app/ebook/gian.pdf) tại đây.
 

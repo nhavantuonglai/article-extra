@@ -21,7 +21,7 @@ Với các khách sạn độc lập (quy mô vừa phải, không thuộc chu�
 
 ## Lòng trung thành của khách hàng trong khách sạn là gì?
 
-Trong ngành khách sạn, lòng trung thành của khách hàng là chỉ chọn một vài chỗ đặt phòng nhất định, chứ không tìm kiếm các khách sạn khác. Chúng liên quan đến [trải nghiệm tích cực](https://nhavantuonglai.com/article) khi lần đầu họ đặt phòng, trải dài từ dịch vụ cho đến nhân viên, trải nghiệm tất cả mọi thứ.
+Trong ngành khách sạn, lòng trung thành của khách hàng là chỉ chọn một vài chỗ đặt phòng nhất định, chứ không tìm kiếm các khách sạn khác. Chúng liên quan đến [trải nghiệm tích cực](/article) khi lần đầu họ đặt phòng, trải dài từ dịch vụ cho đến nhân viên, trải nghiệm tất cả mọi thứ.
 
 Khi du khách càng đặt phòng nhiều, ở càng lâu thì lòng trung thành của họ càng tăng, bởi dần tạo nên được sự gắn kết. Điều này có thể áp dụng cho mọi khách sạn, không riêng các khách sạn độc lập hay theo chuỗi, bởi cách để thực hiện thì đều tương tự nhau.
 
@@ -35,7 +35,7 @@ Trong ngành khách sạn, lòng trung thành của khách hàng là chỉ chọ
 
 Khi du khách ở càng lâu trong khách sạn, họ có xu hướng chi tiêu nhiều hơn, từ đó tạo ra doanh thu. Ví dụ, ở Mỹ trong năm 2019 thì có đến 54 lượt đặt phòng đến từ khách hàng thân thiết. Khi nhu cầu lưu trú tăng, các khách sạn có thể dựa vào đó để đặt giá cao hơn.
 
-Trong Marketing, một quan điểm bất biến là chi phí để có khách hàng mới (Customer Acquisition Cost) cao gấp 5 lần giữ chân khách hàng hiện tại (Customer Retention). Đối với các khách sạn, khách hàng trung thành đem đến nhiều lượt [đặt phòng trực tiếp](https://nhavantuonglai.com/article) hơn, từ đó tiết kiệm được rất nhiều [chi phí hoa hồng](https://nhavantuonglai.com/article) khi bán qua kênh bán phòng trực tiếp.
+Trong Marketing, một quan điểm bất biến là chi phí để có khách hàng mới (Customer Acquisition Cost) cao gấp 5 lần giữ chân khách hàng hiện tại (Customer Retention). Đối với các khách sạn, khách hàng trung thành đem đến nhiều lượt [đặt phòng trực tiếp](/article) hơn, từ đó tiết kiệm được rất nhiều [chi phí hoa hồng](/article) khi bán qua kênh bán phòng trực tiếp.
 
 Ngoài ra, theo Bain & Company, khi khách hàng quay lại, Customer Retention cũng sẽ giảm theo thời gian, bởi họ thường giới thiệu cho người khác, cũng như giảm các chi phí liên quan. Hơn thế nữa, khi khách hàng càng trung thành, họ càng ít quan tâm đến các lựa chọn đặt phòng khác.
 
@@ -71,7 +71,7 @@ Chương trình khách hàng thân thiết là chính sách áp dụng cho du kh
 
 Các khách sạn lớn hiện nay đều vận hành chương trình khách hàng thân thiết của riêng họ, như Radisson Rewards (170 triệu khách hàng thân thiết), Marriott Bonvoy (160 triệu khách hàng thân thiết), IHG Rewards Club (100 triệu khách hàng thân thiết)…
 
-Các [kênh bán phòng trực tuyến](https://nhavantuonglai.com/article) hiện nay cũng áp dụng chính sách tương tự. Như Booking giảm đến 20% khi tham gia Genius, Expedia có Onekey để cung cấp các ưu đãi, mã giảm giá khi đặt phòng. Đây là một giải pháp thu hút khách hàng thông qua kênh bán, thay vì qua các kênh bán phòng trực tiếp của khách sạn.
+Các [kênh bán phòng trực tuyến](/article) hiện nay cũng áp dụng chính sách tương tự. Như Booking giảm đến 20% khi tham gia Genius, Expedia có Onekey để cung cấp các ưu đãi, mã giảm giá khi đặt phòng. Đây là một giải pháp thu hút khách hàng thông qua kênh bán, thay vì qua các kênh bán phòng trực tiếp của khách sạn.
 
 Nhiều kênh OTA cũng cung cấp các chương trình khách hàng thân thiết. Thành viên của chương trình Genius của Booking.com được giảm ngay tới 20% giá phòng tại các chỗ nghỉ tham gia. Vào năm 2022, Expedia Group tuyên bố sẽ hợp nhất tất cả các thương hiệu của mình theo một chương trình khách hàng thân thiết mới có tên One Key. Bằng cách cung cấp giảm giá và đặc quyền, các chương trình kênh OTA có hiệu quả cao trong việc lôi kéo các thành viên đặt phòng thông qua chúng thay vì trực tiếp với khách sạn.
 
@@ -99,7 +99,7 @@ Một trong những lý do khiến du khách trung thành với các khách sạ
 
 ### Đáp ứng và vượt qua kỳ vọng của du khách
 
-Đáp ứng kỳ vọng của du khách thôi không đủ, bởi 45% khách hàng sẽ chuyển sang một thương hiệu khác khi thương hiện ban đầu không đáp ứng, dự đoán được nhu cầu của họ – theo nghiên cứu của Salesforce. Các khách sạn không chỉ đáp ứng, mà còn [vượt qua kỳ vọng của du khách](https://nhavantuonglai.com/article), gợi ý những sản phẩm và dịch vụ tiếp theo, phù hợp và tạo nên nhiều trải nghiệm bất ngờ dành cho họ.
+Đáp ứng kỳ vọng của du khách thôi không đủ, bởi 45% khách hàng sẽ chuyển sang một thương hiệu khác khi thương hiện ban đầu không đáp ứng, dự đoán được nhu cầu của họ – theo nghiên cứu của Salesforce. Các khách sạn không chỉ đáp ứng, mà còn [vượt qua kỳ vọng của du khách](/article), gợi ý những sản phẩm và dịch vụ tiếp theo, phù hợp và tạo nên nhiều trải nghiệm bất ngờ dành cho họ.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-115.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
@@ -113,7 +113,7 @@ Như mọi người bình thường, mọi du khách đều muốn được côn
 
 ### Giám sát hoạt động lưu trú
 
-Hãy sử dụng [phần mềm quản lý khách sạn](https://nhavantuonglai.com/article) và [công cụ CRM](https://nhavantuonglai.com/article) để theo dõi, quản lý thông tin khách hàng, nhận biết ai là khách hàng trung thành và đem lại nhiều giá trị nhất cho khách sạn.
+Hãy sử dụng [phần mềm quản lý khách sạn](/article) và [công cụ CRM](/article) để theo dõi, quản lý thông tin khách hàng, nhận biết ai là khách hàng trung thành và đem lại nhiều giá trị nhất cho khách sạn.
 
 Hãy nhớ rằng – không phải tất cả khách hàng thân thiết đều đem lại giá trị như nhau. Sẽ có những người thường xuyên đặt phòng, chi tiêu nhiều và có những người khác lại không như thế. Với những ai đem lại giá trị nhiều hơn, hãy dành cho họ nhiều ưu đãi hơn.
 
@@ -135,7 +135,7 @@ Hãy cung cấp cho các khách hàng thân thiết của bạn thật nhiều �
 
 – Bữa sáng miễn phí: Nếu khách sạn của bạn có nhà hàng dành riêng cho khách đặt phòng, hãy cung cấp những bữa sáng miễn phí như một đặc quyền. Nếu không thể, hãy cung cấp các voucher giảm giá ẩm thực hoặc dịch vụ trong khách sạn, như spa, gym… để khuyến khích họ chi tiêu nhiều hơn trong khách sạn.
 
-– Nhận phòng sớm, và trả phòng trễ: Đây là những đặc quyền phổ biến, phản ánh nhu cầu của du khách trong [quy trình check-in khách sạn](https://nhavantuonglai.com/article). Tuy nhiên, nếu quy mô khách sạn ở mức vừa phải, hãy cân nhắc áp dụng.
+– Nhận phòng sớm, và trả phòng trễ: Đây là những đặc quyền phổ biến, phản ánh nhu cầu của du khách trong [quy trình check-in khách sạn](/article). Tuy nhiên, nếu quy mô khách sạn ở mức vừa phải, hãy cân nhắc áp dụng.
 
 – Bãi đậu xe, wifi ổn định và những đặc quyền khác: Tùy vào mức độ và khả năng cho phép, khách sạn có thể cung cấp những đặc quyền khác, phù hợp và đem lại lợi ích thiết thực cho khách hàng.
 

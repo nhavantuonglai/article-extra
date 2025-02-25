@@ -67,45 +67,45 @@ Khi người ta thương làm ta đau khổ, ta phải đến gặp và nhờ ng
 
 Bốn linh chú trên có tác dụng loại bỏ sợ hãi, nghi ngờ và xa cách. Chúng không phức tạp hay khó hiểu. Và chúng ta không phải nói bằng tiếng Sanskrit hay tiếng Trung – nói tiếng Việt là được. Nên học thuộc lòng và phải có can đảm, trí tuệ, cùng niềm vui để thực tập. Thực tập chánh niệm, hay thiền định, tức là quay trở về với bản thân để khôi phục bình an và hòa hợp. Năng lượng chánh niệm giúp ta thực tập bốn linh chú trên, đồng thời cũng giúp cho niệm, định và tuệ. Nếu quay trở về với bản thân để khôi phục bình an và hòa hợp thì việc giúp người kia cũng như khôi phục truyền thông sẽ dễ hơn nhiều. Chăm sóc tự thân, thiết lập tâm bình an là điều kiện cơ bản để giúp người khác không tạo khổ đau cho chính mình và cho người khác. Một khi bạn biết cách gỡ bom bên trong bạn thì bạn sẽ biết cách giúp bạn của mình gỡ bom bên trong họ. Ít nhất bạn cần có một chút bình tĩnh, an vui, và từ bi. Được như thế là nhờ thực tập chánh niệm hằng ngày, không chỉ thực tập trong thiền đường mà còn thực tập trong bếp, trong vườn, khi nói điện thoại, lái xe hay rửa bát. Mỗi ngày, trong tất cả các hoạt động thường ngày hãy thực tập có mặt với những mầu nhiệm của đất trời.
 
-Đọc [Sợ hãi, chương 01](https://nhavantuonglai.com/article/so-hai-chuong-01) tại đây.
+Đọc [Sợ hãi, chương 01](/article/so-hai-chuong-01) tại đây.
 
-Đọc [Sợ hãi, chương 02](https://nhavantuonglai.com/article/so-hai-chuong-02) tại đây.
+Đọc [Sợ hãi, chương 02](/article/so-hai-chuong-02) tại đây.
 
-Đọc [Sợ hãi, chương 03](https://nhavantuonglai.com/article/so-hai-chuong-03) tại đây.
+Đọc [Sợ hãi, chương 03](/article/so-hai-chuong-03) tại đây.
 
-Đọc [Sợ hãi, chương 04](https://nhavantuonglai.com/article/so-hai-chuong-04) tại đây.
+Đọc [Sợ hãi, chương 04](/article/so-hai-chuong-04) tại đây.
 
-Đọc [Sợ hãi, chương 05](https://nhavantuonglai.com/article/so-hai-chuong-05) tại đây.
+Đọc [Sợ hãi, chương 05](/article/so-hai-chuong-05) tại đây.
 
-Đọc [Sợ hãi, chương 06](https://nhavantuonglai.com/article/so-hai-chuong-06) tại đây.
+Đọc [Sợ hãi, chương 06](/article/so-hai-chuong-06) tại đây.
 
-Đọc [Sợ hãi, chương 07](https://nhavantuonglai.com/article/so-hai-chuong-07) tại đây.
+Đọc [Sợ hãi, chương 07](/article/so-hai-chuong-07) tại đây.
 
-Đọc [Sợ hãi, chương 08](https://nhavantuonglai.com/article/so-hai-chuong-08) tại đây.
+Đọc [Sợ hãi, chương 08](/article/so-hai-chuong-08) tại đây.
 
-Đọc [Sợ hãi, chương 09](https://nhavantuonglai.com/article/so-hai-chuong-09) tại đây.
+Đọc [Sợ hãi, chương 09](/article/so-hai-chuong-09) tại đây.
 
-Đọc [Sợ hãi, chương 10](https://nhavantuonglai.com/article/so-hai-chuong-10) tại đây.
+Đọc [Sợ hãi, chương 10](/article/so-hai-chuong-10) tại đây.
 
-Đọc [Sợ hãi, chương 11](https://nhavantuonglai.com/article/so-hai-chuong-11) tại đây.
+Đọc [Sợ hãi, chương 11](/article/so-hai-chuong-11) tại đây.
 
-Đọc [Sợ hãi, chương 12](https://nhavantuonglai.com/article/so-hai-chuong-12) tại đây.
+Đọc [Sợ hãi, chương 12](/article/so-hai-chuong-12) tại đây.
 
-Đọc [Sợ hãi, chương 13](https://nhavantuonglai.com/article/so-hai-chuong-13) tại đây.
+Đọc [Sợ hãi, chương 13](/article/so-hai-chuong-13) tại đây.
 
-Đọc [Sợ hãi, chương 14](https://nhavantuonglai.com/article/so-hai-chuong-14) tại đây.
+Đọc [Sợ hãi, chương 14](/article/so-hai-chuong-14) tại đây.
 
-Đọc [Sợ hãi, chương 15](https://nhavantuonglai.com/article/so-hai-chuong-15) tại đây.
+Đọc [Sợ hãi, chương 15](/article/so-hai-chuong-15) tại đây.
 
-Đọc [Sợ hãi, chương 16](https://nhavantuonglai.com/article/so-hai-chuong-16) tại đây.
+Đọc [Sợ hãi, chương 16](/article/so-hai-chuong-16) tại đây.
 
-Đọc [Sợ hãi, chương 17](https://nhavantuonglai.com/article/so-hai-chuong-17) tại đây.
+Đọc [Sợ hãi, chương 17](/article/so-hai-chuong-17) tại đây.
 
-Đọc [Sợ hãi, chương 18](https://nhavantuonglai.com/article/so-hai-chuong-18) tại đây.
+Đọc [Sợ hãi, chương 18](/article/so-hai-chuong-18) tại đây.
 
-Đọc [Sợ hãi, chương 19](https://nhavantuonglai.com/article/so-hai-chuong-19) tại đây.
+Đọc [Sợ hãi, chương 19](/article/so-hai-chuong-19) tại đây.
 
-Đọc [Sợ hãi, chương 20](https://nhavantuonglai.com/article/so-hai-chuong-20) tại đây.
+Đọc [Sợ hãi, chương 20](/article/so-hai-chuong-20) tại đây.
 
 Đọc [Sợ hãi, toàn tập](https://banmaixanh.vercel.app/ebook/so-hai.pdf) tại đây.
 

@@ -119,25 +119,25 @@ Rất nhiều người nghĩ rằng: _Hay quá, Patagonia đóng góp rất nhi�
 
 Phần cuối trong phương châm kinh doanh của chúng tôi là lấy doanh thương làm phương tiện để khuyến khích và thực thi những giải pháp cho cuộc khủng hoảng môi sinh. Đối với tôi đó là nhân duyên chính đưa tôi dấn thân vào lĩnh vực kinh doanh. Tôi không bao giờ muốn là một doanh nhân, nhưng có lẽ tôi đã trở thành một nhà kinh doanh, và tôi sẽ còn tiếp tục kinh doanh vì chính những lý do trên._
 
-Đọc [Quyền lực đích thực, chương 01](https://nhavantuonglai.com/article/quyen-luc-dich-thuc-chuong-01) tại đây.
+Đọc [Quyền lực đích thực, chương 01](/article/quyen-luc-dich-thuc-chuong-01) tại đây.
 
-Đọc [Quyền lực đích thực, chương 02](https://nhavantuonglai.com/article/quyen-luc-dich-thuc-chuong-02) tại đây.
+Đọc [Quyền lực đích thực, chương 02](/article/quyen-luc-dich-thuc-chuong-02) tại đây.
 
-Đọc [Quyền lực đích thực, chương 03](https://nhavantuonglai.com/article/quyen-luc-dich-thuc-chuong-03) tại đây.
+Đọc [Quyền lực đích thực, chương 03](/article/quyen-luc-dich-thuc-chuong-03) tại đây.
 
-Đọc [Quyền lực đích thực, chương 04](https://nhavantuonglai.com/article/quyen-luc-dich-thuc-chuong-04) tại đây.
+Đọc [Quyền lực đích thực, chương 04](/article/quyen-luc-dich-thuc-chuong-04) tại đây.
 
-Đọc [Quyền lực đích thực, chương 05](https://nhavantuonglai.com/article/quyen-luc-dich-thuc-chuong-05) tại đây.
+Đọc [Quyền lực đích thực, chương 05](/article/quyen-luc-dich-thuc-chuong-05) tại đây.
 
-Đọc [Quyền lực đích thực, chương 06](https://nhavantuonglai.com/article/quyen-luc-dich-thuc-chuong-06) tại đây.
+Đọc [Quyền lực đích thực, chương 06](/article/quyen-luc-dich-thuc-chuong-06) tại đây.
 
-Đọc [Quyền lực đích thực, chương 07](https://nhavantuonglai.com/article/quyen-luc-dich-thuc-chuong-07) tại đây.
+Đọc [Quyền lực đích thực, chương 07](/article/quyen-luc-dich-thuc-chuong-07) tại đây.
 
-Đọc [Quyền lực đích thực, chương 08](https://nhavantuonglai.com/article/quyen-luc-dich-thuc-chuong-08) tại đây.
+Đọc [Quyền lực đích thực, chương 08](/article/quyen-luc-dich-thuc-chuong-08) tại đây.
 
-Đọc [Quyền lực đích thực, chương 09](https://nhavantuonglai.com/article/quyen-luc-dich-thuc-chuong-09) tại đây.
+Đọc [Quyền lực đích thực, chương 09](/article/quyen-luc-dich-thuc-chuong-09) tại đây.
 
-Đọc [Quyền lực đích thực, chương 10](https://nhavantuonglai.com/article/quyen-luc-dich-thuc-chuong-10) tại đây.
+Đọc [Quyền lực đích thực, chương 10](/article/quyen-luc-dich-thuc-chuong-10) tại đây.
 
 Đọc [Quyền lực đích thực, toàn tập](https://banmaixanh.vercel.app/ebook/quyen-luc-dich-thuc.pdf) tại đây.
 

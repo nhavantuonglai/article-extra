@@ -213,13 +213,13 @@ Bản môn, the ultimate dimension – dimention de l_utile (Royauté), là ni�
 
 Tông Thiên Thai mà đại biểu là thầy Trí Giả, đã nghiên cứu kinh Pháp Hoa và chia kinh ra làm hai môn là Tích môn và Bản môn, mà không đề cập đến Hạnh môn. Tuy vậy trong kinh Pháp Hoa có những phẩm nói về các vị Bồ tát lớn như Thường Bất Khinh, Dược Vương, Dược Thượng, Diệu Âm, Quán Thế Âm… Những phẩm đó nói về môn thứ ba là Hạnh môn. Làng Mai chúng ta đã khám phá ra rằng cái khía cạnh thứ ba, khía cạnh Hạnh môn rất quan trọng. Đem đạo Bụt đi vào cuộc đời, làm cho thế giới ta bà trở nên tịnh độ, là công tác của các vị Bồ tát. Cho nên Làng Mai đã đề nghị đưa thêm phần Hạnh môn vào kinh Pháp Hoa và xếp đặt lại thứ tự các phẩm của kinh để chia thành ba phần là Tích môn, Bản môn và Hạnh môn.
 
-Đọc [Hiệu lực cầu nguyện, chương 01](https://nhavantuonglai.com/article/hieu-luc-cau-nguyen-chuong-01) tại đây.
+Đọc [Hiệu lực cầu nguyện, chương 01](/article/hieu-luc-cau-nguyen-chuong-01) tại đây.
 
-Đọc [Hiệu lực cầu nguyện, chương 02](https://nhavantuonglai.com/article/hieu-luc-cau-nguyen-chuong-02) tại đây.
+Đọc [Hiệu lực cầu nguyện, chương 02](/article/hieu-luc-cau-nguyen-chuong-02) tại đây.
 
-Đọc [Hiệu lực cầu nguyện, chương 03](https://nhavantuonglai.com/article/hieu-luc-cau-nguyen-chuong-03) tại đây.
+Đọc [Hiệu lực cầu nguyện, chương 03](/article/hieu-luc-cau-nguyen-chuong-03) tại đây.
 
-Đọc [Hiệu lực cầu nguyện, chương 04](https://nhavantuonglai.com/article/hieu-luc-cau-nguyen-chuong-04) tại đây.
+Đọc [Hiệu lực cầu nguyện, chương 04](/article/hieu-luc-cau-nguyen-chuong-04) tại đây.
 
 Đọc [Hiệu lực cầu nguyện, toàn tập](https://banmaixanh.vercel.app/ebook/hieu-luc-cau-nguyen.pdf) tại đây.
 

@@ -73,21 +73,21 @@ Kinh Bốn Lĩnh Vực Quán Niệm (Niệm Xứ Kinh – Satipatthànaa – sut
 
 Những kinh này đều là những kinh thiền tập căn bản chỉ dẫn tường tận cho bạn từng bước trên đường thực tập.
 
-Đọc [An trú trong hiện tại, chương 01](https://nhavantuonglai.com/article/an-tru-trong-hien-tai-chuong-01) tại đây.
+Đọc [An trú trong hiện tại, chương 01](/article/an-tru-trong-hien-tai-chuong-01) tại đây.
 
-Đọc [An trú trong hiện tại, chương 02](https://nhavantuonglai.com/article/an-tru-trong-hien-tai-chuong-02) tại đây.
+Đọc [An trú trong hiện tại, chương 02](/article/an-tru-trong-hien-tai-chuong-02) tại đây.
 
-Đọc [An trú trong hiện tại, chương 03](https://nhavantuonglai.com/article/an-tru-trong-hien-tai-chuong-03) tại đây.
+Đọc [An trú trong hiện tại, chương 03](/article/an-tru-trong-hien-tai-chuong-03) tại đây.
 
-Đọc [An trú trong hiện tại, chương 04](https://nhavantuonglai.com/article/an-tru-trong-hien-tai-chuong-04) tại đây.
+Đọc [An trú trong hiện tại, chương 04](/article/an-tru-trong-hien-tai-chuong-04) tại đây.
 
-Đọc [An trú trong hiện tại, chương 05](https://nhavantuonglai.com/article/an-tru-trong-hien-tai-chuong-05) tại đây.
+Đọc [An trú trong hiện tại, chương 05](/article/an-tru-trong-hien-tai-chuong-05) tại đây.
 
-Đọc [An trú trong hiện tại, chương 06](https://nhavantuonglai.com/article/an-tru-trong-hien-tai-chuong-06) tại đây.
+Đọc [An trú trong hiện tại, chương 06](/article/an-tru-trong-hien-tai-chuong-06) tại đây.
 
-Đọc [An trú trong hiện tại, chương 07](https://nhavantuonglai.com/article/an-tru-trong-hien-tai-chuong-08) tại đây.
+Đọc [An trú trong hiện tại, chương 07](/article/an-tru-trong-hien-tai-chuong-08) tại đây.
 
-Đọc [An trú trong hiện tại, chương 08](https://nhavantuonglai.com/article/an-tru-trong-hien-tai-chuong-08) tại đây.
+Đọc [An trú trong hiện tại, chương 08](/article/an-tru-trong-hien-tai-chuong-08) tại đây.
 
 Đọc [An trú trong hiện tại, toàn tập](https://banmaixanh.vercel.app/ebook/an-tru-trong-hien-tai.pdf) tại đây.
 

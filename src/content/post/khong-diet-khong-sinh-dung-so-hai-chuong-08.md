@@ -415,23 +415,23 @@ Chân như là một thuật ngữ. Nó có nghĩa rằng chân lý thực tại
 
 Bây giờ, tu tập như thế, bạn sẽ không còn thấy mình bị chia cách với người thương khi họ chết nữa. Khi có giác kiến sâu sắc, bạn sẽ không còn cảm thấy bơ vơ. Hàng ngày tôi thường nhìn sâu vào mọi thứ chung quanh tôi: cây cối, đồi núi, bạn bè. Tôi nhìn thấy tôi trong tất cả và tôi biết tôi sẽ không chết. Tôi sẽ tiếp tục sống dưới nhiều hình tướng khác. Khi bạn tôi nhìn tôi, họ cũng nên nhìn thấy tôi trong những hình tướng khác hơn là cái thân này. Thực tập như vậy hàng ngày sẽ giúp cho họ không phải than khóc một khi biểu hiện này của tôi biến mất. Vì khi sự biểu hiện này chấm dứt, nó sẽ nhường chỗ cho các biểu hiện khác có mặt.
 
-Đọc [Không diệt không sinh không sợ hãi, chương 01](https://nhavantuonglai.com/article/khong-diet-khong-sinh-dung-so-hai-chuong-01) tại đây.
+Đọc [Không diệt không sinh không sợ hãi, chương 01](/article/khong-diet-khong-sinh-dung-so-hai-chuong-01) tại đây.
 
-Đọc [Không diệt không sinh không sợ hãi, chương 02](https://nhavantuonglai.com/article/khong-diet-khong-sinh-dung-so-hai-chuong-02) tại đây.
+Đọc [Không diệt không sinh không sợ hãi, chương 02](/article/khong-diet-khong-sinh-dung-so-hai-chuong-02) tại đây.
 
-Đọc [Không diệt không sinh không sợ hãi, chương 03](https://nhavantuonglai.com/article/khong-diet-khong-sinh-dung-so-hai-chuong-03) tại đây.
+Đọc [Không diệt không sinh không sợ hãi, chương 03](/article/khong-diet-khong-sinh-dung-so-hai-chuong-03) tại đây.
 
-Đọc [Không diệt không sinh không sợ hãi, chương 04](https://nhavantuonglai.com/article/khong-diet-khong-sinh-dung-so-hai-chuong-04) tại đây.
+Đọc [Không diệt không sinh không sợ hãi, chương 04](/article/khong-diet-khong-sinh-dung-so-hai-chuong-04) tại đây.
 
-Đọc [Không diệt không sinh không sợ hãi, chương 05](https://nhavantuonglai.com/article/khong-diet-khong-sinh-dung-so-hai-chuong-05) tại đây.
+Đọc [Không diệt không sinh không sợ hãi, chương 05](/article/khong-diet-khong-sinh-dung-so-hai-chuong-05) tại đây.
 
-Đọc [Không diệt không sinh không sợ hãi, chương 06](https://nhavantuonglai.com/article/khong-diet-khong-sinh-dung-so-hai-chuong-06) tại đây.
+Đọc [Không diệt không sinh không sợ hãi, chương 06](/article/khong-diet-khong-sinh-dung-so-hai-chuong-06) tại đây.
 
-Đọc [Không diệt không sinh không sợ hãi, chương 07](https://nhavantuonglai.com/article/khong-diet-khong-sinh-dung-so-hai-chuong-07) tại đây.
+Đọc [Không diệt không sinh không sợ hãi, chương 07](/article/khong-diet-khong-sinh-dung-so-hai-chuong-07) tại đây.
 
-Đọc [Không diệt không sinh không sợ hãi, chương 08](https://nhavantuonglai.com/article/khong-diet-khong-sinh-dung-so-hai-chuong-08) tại đây.
+Đọc [Không diệt không sinh không sợ hãi, chương 08](/article/khong-diet-khong-sinh-dung-so-hai-chuong-08) tại đây.
 
-Đọc [Không diệt không sinh không sợ hãi, chương 09](https://nhavantuonglai.com/article/khong-diet-khong-sinh-dung-so-hai-chuong-09) tại đây.
+Đọc [Không diệt không sinh không sợ hãi, chương 09](/article/khong-diet-khong-sinh-dung-so-hai-chuong-09) tại đây.
 
 Đọc [Không diệt không sinh không sợ hãi, toàn tập](https://banmaixanh.vercel.app/ebook/khong-diet-khong-sinh-dung-so-hai.pdf) tại đây.
 

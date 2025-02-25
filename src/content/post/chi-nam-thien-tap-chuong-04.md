@@ -87,13 +87,13 @@ _Ý thức được những khổ đau do lời nói thiếu chánh niệm gây 
 
 _Ý thức được những khổ đau do sự sử dụng ma túy và độc tố gây ra, con xin học cách chuyển hóa thân tâm, xây dựng sức khỏe thân thể và tâm hồn bằng cách thực tập chánh niệm trong việc ăn uống và tiêu thụ. Con nguyện chỉ tiêu thụ những gì có thể đem lại an lạc cho thân tâm con, và cho thân tâm gia đình và xã hội con. Con nguyện không uống rượu, không sử dụng các chất ma túy, không ăn uống hoặc tiêu thụ những sản phẩm có độc tố trong đó có một số sản phẩm truyền thanh, truyền hình, sách báo, phim ảnh và chuyện trò. Con biết rằng tàn hoại thân tâm bằng rượu và các độc tố ấy là phản bội tổ tiên, cha mẹ và cũng là phản bội các thế hệ tương lai. Con nguyện chuyển hóa bạo động, căm thù, sợ hãi và buồn giận bằng cách thực tập phép kiêng cữ cho con, cho gia đình con và cho xã hội. Con biết phép kiêng khem này rất thiết yếu để chuyển hóa tự thân, tâm thức cọng đồng và xã hội._
 
-Đọc [Thiền nam chỉ tập, chương 01](https://nhavantuonglai.com/article/chi-nam-thien-tap-chuong-01) tại đây.
+Đọc [Thiền nam chỉ tập, chương 01](/article/chi-nam-thien-tap-chuong-01) tại đây.
 
-Đọc [Thiền nam chỉ tập, chương 02](https://nhavantuonglai.com/article/chi-nam-thien-tap-chuong-02) tại đây.
+Đọc [Thiền nam chỉ tập, chương 02](/article/chi-nam-thien-tap-chuong-02) tại đây.
 
-Đọc [Thiền nam chỉ tập, chương 03](https://nhavantuonglai.com/article/chi-nam-thien-tap-chuong-03) tại đây.
+Đọc [Thiền nam chỉ tập, chương 03](/article/chi-nam-thien-tap-chuong-03) tại đây.
 
-Đọc [Thiền nam chỉ tập, chương 04](https://nhavantuonglai.com/article/chi-nam-thien-tap-chuong-04) tại đây.
+Đọc [Thiền nam chỉ tập, chương 04](/article/chi-nam-thien-tap-chuong-04) tại đây.
 
 Đọc [Thiền nam chỉ tập, toàn tập](https://banmaixanh.vercel.app/ebook/chi-nam-thien-tap.pdf) tại đây.
 

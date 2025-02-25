@@ -29,21 +29,21 @@ Trong đạo Phật, tôi đã học được tư thái tự do không thần ph
 
 Tình trạng đen tối xấu xa là dấu hiệu của một sự đe dọa sự sống, hiện tượng khoắc khoải, thất vọng, cô đơn của tâm hồn là những thắng lợi của ảo tưởng, của cái Chết trên sự Sống. Con đường thoát là con đường trí tuệ, con đường khởi sự từ trầm tĩnh lắng lòng để đi đến sự xóa bỏ ảo giác vô minh, một nhận thức có tính cách bản lĩnh và do đó có tính cách lạc quan. Tâm ta là chủ động, và tất cả vạn sự tùy thuộc lớn lao ở nhận thức Em hãy tươi cười, nhờ nụ cười ấy mà chúng tôi cũng sẽ tìm thêm được sự tin tưởng. Chúng ta sinh ra từ quê hương; được quê hương, được mẹ cha, được Ca dao và những câu hát câu hò nuôi dưỡng. Và vì thế chúng ta có tình yêu sâu đậm và lớn lao. Tình yêu ấy biểu hiện sẽ đưa ta ra khỏi bản ngã cô đơn, cũng như sự thoát xác dần dần của trí tuệ sẽ đưa ta đến giữa lòng nhân loại và vũ trụ. Nhân loại, và gần hơn là tổ quốc, bao trùm tình yêu đất nước, tình yêu ngôn ngữ, tình yêu của những người thân thuộc. Em mới có hai mươi tuổi trên vai. Tình thương sẽ cho em thấy tình trạng đất nước, nhân loại, tình thương sẽ dạy em hành động. Hành lý của em đã đầy đủ. Hiên ngang trong tự do, em hãy lên đường. Chân lý sẽ đón chờ em trên quá trình lột xác thường xuyên của nhận thức và của hành động.
 
-Đọc [Nói với tuổi hai mươi, chương 01](https://nhavantuonglai.com/article/noi-voi-tuoi-hai-muoi-chuong-01) tại đây.
+Đọc [Nói với tuổi hai mươi, chương 01](/article/noi-voi-tuoi-hai-muoi-chuong-01) tại đây.
 
-Đọc [Nói với tuổi hai mươi, chương 02](https://nhavantuonglai.com/article/noi-voi-tuoi-hai-muoi-chuong-02) tại đây.
+Đọc [Nói với tuổi hai mươi, chương 02](/article/noi-voi-tuoi-hai-muoi-chuong-02) tại đây.
 
-Đọc [Nói với tuổi hai mươi, chương 03](https://nhavantuonglai.com/article/noi-voi-tuoi-hai-muoi-chuong-03) tại đây.
+Đọc [Nói với tuổi hai mươi, chương 03](/article/noi-voi-tuoi-hai-muoi-chuong-03) tại đây.
 
-Đọc [Nói với tuổi hai mươi, chương 04](https://nhavantuonglai.com/article/noi-voi-tuoi-hai-muoi-chuong-04) tại đây.
+Đọc [Nói với tuổi hai mươi, chương 04](/article/noi-voi-tuoi-hai-muoi-chuong-04) tại đây.
 
-Đọc [Nói với tuổi hai mươi, chương 05](https://nhavantuonglai.com/article/noi-voi-tuoi-hai-muoi-chuong-05) tại đây.
+Đọc [Nói với tuổi hai mươi, chương 05](/article/noi-voi-tuoi-hai-muoi-chuong-05) tại đây.
 
-Đọc [Nói với tuổi hai mươi, chương 06](https://nhavantuonglai.com/article/noi-voi-tuoi-hai-muoi-chuong-06) tại đây.
+Đọc [Nói với tuổi hai mươi, chương 06](/article/noi-voi-tuoi-hai-muoi-chuong-06) tại đây.
 
-Đọc [Nói với tuổi hai mươi, chương 07](https://nhavantuonglai.com/article/noi-voi-tuoi-hai-muoi-chuong-07) tại đây.
+Đọc [Nói với tuổi hai mươi, chương 07](/article/noi-voi-tuoi-hai-muoi-chuong-07) tại đây.
 
-Đọc [Nói với tuổi hai mươi, chương 08](https://nhavantuonglai.com/article/noi-voi-tuoi-hai-muoi-chuong-08) tại đây.
+Đọc [Nói với tuổi hai mươi, chương 08](/article/noi-voi-tuoi-hai-muoi-chuong-08) tại đây.
 
 Đọc [Nói với tuổi hai mươi, toàn tập](https://banmaixanh.vercel.app/ebook/noi-voi-tuoi-hai-muoi.pdf) tại đây.
 

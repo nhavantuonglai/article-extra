@@ -63,9 +63,9 @@ Những thông tin này hữu ích, giúp khách sạn biết phải làm gì nh
 
 ### Tối ưu chiến lược bán phòng hiện tại của khách sạn
 
-[Chiến lược bán phòng](https://nhavantuonglai.com/article) không chỉ bao gồm việc liệt kê các hạng phòng lên kênh OTA, hoặc cập nhật các thông tin liên quan. Chúng là những kênh bán phòng tốt, nhưng khách sạn cần làm nhiều hơn thế.
+[Chiến lược bán phòng](/article) không chỉ bao gồm việc liệt kê các hạng phòng lên kênh OTA, hoặc cập nhật các thông tin liên quan. Chúng là những kênh bán phòng tốt, nhưng khách sạn cần làm nhiều hơn thế.
 
-Đầu tiên, hãy hợp tác với các giải pháp, đại lý du lịch hiện có, nhằm xây dựng mối liên hệ để bán phòng và giảm [chi phí hoa hồng](https://nhavantuonglai.com/article) vì không phải bán phòng qua kênh OTA. ngoài ra, các giải pháp, đại lý du lịch cũng sẽ cung cấp những dịch vụ phụ trợ, như bán tour, thuê xe… giúp khách sạn triển khai bán phòng hiệu quả hơn.
+Đầu tiên, hãy hợp tác với các giải pháp, đại lý du lịch hiện có, nhằm xây dựng mối liên hệ để bán phòng và giảm [chi phí hoa hồng](/article) vì không phải bán phòng qua kênh OTA. ngoài ra, các giải pháp, đại lý du lịch cũng sẽ cung cấp những dịch vụ phụ trợ, như bán tour, thuê xe… giúp khách sạn triển khai bán phòng hiệu quả hơn.
 
 Chiến lược bán phòng cho khách nhóm cũng đồng nghĩa với việc – khách sạn của bạn phải cung cấp được các dịch vụ, tiện ích mà khách nhóm thường sử dụng, như là ăn uống, thuê xe, tour du lịch… Chính vì vậy, khách sạn có thể xây dựng các hệ thống này nhằm đáp ứng, thu hút khách nhóm đặt phòng tại khách sạn của bạn.
 
@@ -87,11 +87,11 @@ Tuy nhiên, lưu ý rằng khi thiết kế gói giá, chúng nên cố định 
 
 Tương tự như các nhóm khách đặt phòng khác, khách sạn cũng cần có chiến lược để bán phòng hiệu quả và thu hút khách hàng tiềm năng cho đặt phòng nhóm. Để thực hiện, dưới đây là một vài việc cần làm:
 
-– Xác định [chân dung khách hàng tiềm năng](https://nhavantuonglai.com/article), họ là ai, đến từ đâu, mức độ nhạy cảm giác như thế nào… là những thông tin cơ bản, cần phải thu thập và quản lý.
+– Xác định [chân dung khách hàng tiềm năng](/article), họ là ai, đến từ đâu, mức độ nhạy cảm giác như thế nào… là những thông tin cơ bản, cần phải thu thập và quản lý.
 
 – Xây dựng thang đo, điểm đánh giá tệp khách hàng hợp, dựa trên những tiêu chí nhất định và gắn liền với chân dung khách hàng và dịch vụ hiện có của khách sạn.
 
-– Xác định [USP của khách sạn](https://nhavantuonglai.com/article), là những điểm thú vị, độc đáo nhất của khách sạn, mà đối thủ không có được.
+– Xác định [USP của khách sạn](/article), là những điểm thú vị, độc đáo nhất của khách sạn, mà đối thủ không có được.
 
 Dựa vào những thông tin trên, khách sạn có thể xây dựng chiến lược quản lý và thu hút khách hàng tiềm năng hiệu quả, từ đó hỗ trợ việc bán phòng hiệu quả, đáp ứng được nhu cầu và mục tiêu doanh thu trong hiện tại.
 
@@ -103,11 +103,11 @@ Dựa vào những thông tin trên, khách sạn có thể xây dựng chiến 
 
 ### Sử dụng phần mềm quản lý khách sạn mạnh mẽ, chuyên nghiệp
 
-Việc sử dụng [phần mềm quản lý khách sạn](https://nhavantuonglai.com/article) sẽ không giúp tăng lượt đặt phòng nhóm, nhưng sẽ hỗ trợ tích cực trong việc quản lý đặt phòng nhóm tại khách sạn. Bởi lẽ, khi sử dụng phần mềm quản lý khách sạn, việc theo dõi và vận hành tổng thể sẽ diễn ra trơn tru, linh hoạt và hiệu quả hơn, từ đó giúp khách sạn khai thác tốt các tài nguyên hiện có, hỗ trợ và giúp việc phối hợp giữa các phòng ban được linh hoạt hiệu quả, cũng như phục vụ khách đặt phòng được trọn vẹn.
+Việc sử dụng [phần mềm quản lý khách sạn](/article) sẽ không giúp tăng lượt đặt phòng nhóm, nhưng sẽ hỗ trợ tích cực trong việc quản lý đặt phòng nhóm tại khách sạn. Bởi lẽ, khi sử dụng phần mềm quản lý khách sạn, việc theo dõi và vận hành tổng thể sẽ diễn ra trơn tru, linh hoạt và hiệu quả hơn, từ đó giúp khách sạn khai thác tốt các tài nguyên hiện có, hỗ trợ và giúp việc phối hợp giữa các phòng ban được linh hoạt hiệu quả, cũng như phục vụ khách đặt phòng được trọn vẹn.
 
 ## Kỳ vọng của khách đặt phòng nhóm với các khách sạn
 
-Trên thực tế, [kỳ vọng của khách đặt phòng](https://nhavantuonglai.com/article) nhóm cá nhân và khách đặt phòng nhóm công ty là khác nhau. Hãy tập trung vào khách đặt phòng nhóm cá nhân và dưới đây là những kỳ vọng của họ:
+Trên thực tế, [kỳ vọng của khách đặt phòng](/article) nhóm cá nhân và khách đặt phòng nhóm công ty là khác nhau. Hãy tập trung vào khách đặt phòng nhóm cá nhân và dưới đây là những kỳ vọng của họ:
 
 – Một, hoặc nhiều dịch vụ có giảm giá, hoặc miễn phí sử dụng.
 
@@ -127,7 +127,7 @@ Không giới hạn mô hình khách sạn nhận đặt phòng nhóm, điều k
 
 ### Làm thế nào để xử lý đặt chỗ theo nhóm?
 
-Sử dụng [phần mềm quản lý khách sạn](https://nhavantuonglai.com/article) để quản lý, thao tác đặt phòng nhóm của khách sạn.
+Sử dụng [phần mềm quản lý khách sạn](/article) để quản lý, thao tác đặt phòng nhóm của khách sạn.
 
 ### Đặt phòng nhóm có tốt hơn đặt phòng khách lẻ không?
 

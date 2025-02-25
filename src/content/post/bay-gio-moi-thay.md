@@ -25,23 +25,23 @@ Tìm mua [Tuyển tập sách của Thiền sư Thích Nhất Hạnh](https://sh
 
 _Những danh từ mà Nguyễn Du sử dụng về thời gian như bao giờ, bây giờ, bấy giờ, bấy lâu, có lúc, có khi, hôm nay… đã gây cảm hứng cho tôi viết ra tác phẩm Bây giờ mới thấy này._
 
-Đọc [Bây giờ mới thấy, chương 01](https://nhavantuonglai.com/article/bay-gio-moi-thay-chuong-01) tại đây.
+Đọc [Bây giờ mới thấy, chương 01](/article/bay-gio-moi-thay-chuong-01) tại đây.
 
-Đọc [Bây giờ mới thấy, chương 02](https://nhavantuonglai.com/article/bay-gio-moi-thay-chuong-02) tại đây.
+Đọc [Bây giờ mới thấy, chương 02](/article/bay-gio-moi-thay-chuong-02) tại đây.
 
-Đọc [Bây giờ mới thấy, chương 03](https://nhavantuonglai.com/article/bay-gio-moi-thay-chuong-03) tại đây.
+Đọc [Bây giờ mới thấy, chương 03](/article/bay-gio-moi-thay-chuong-03) tại đây.
 
-Đọc [Bây giờ mới thấy, chương 04](https://nhavantuonglai.com/article/bay-gio-moi-thay-chuong-04) tại đây.
+Đọc [Bây giờ mới thấy, chương 04](/article/bay-gio-moi-thay-chuong-04) tại đây.
 
-Đọc [Bây giờ mới thấy, chương 05](https://nhavantuonglai.com/article/bay-gio-moi-thay-chuong-05) tại đây.
+Đọc [Bây giờ mới thấy, chương 05](/article/bay-gio-moi-thay-chuong-05) tại đây.
 
-Đọc [Bây giờ mới thấy, chương 06](https://nhavantuonglai.com/article/bay-gio-moi-thay-chuong-06) tại đây.
+Đọc [Bây giờ mới thấy, chương 06](/article/bay-gio-moi-thay-chuong-06) tại đây.
 
-Đọc [Bây giờ mới thấy, chương 07](https://nhavantuonglai.com/article/bay-gio-moi-thay-chuong-07) tại đây.
+Đọc [Bây giờ mới thấy, chương 07](/article/bay-gio-moi-thay-chuong-07) tại đây.
 
-Đọc [Bây giờ mới thấy, chương 08](https://nhavantuonglai.com/article/bay-gio-moi-thay-chuong-08) tại đây.
+Đọc [Bây giờ mới thấy, chương 08](/article/bay-gio-moi-thay-chuong-08) tại đây.
 
-Đọc [Bây giờ mới thấy, chương 09](https://nhavantuonglai.com/article/bay-gio-moi-thay-chuong-09) tại đây.
+Đọc [Bây giờ mới thấy, chương 09](/article/bay-gio-moi-thay-chuong-09) tại đây.
 
 Đọc [Bây giờ mới thấy, toàn tập](https://banmaixanh.vercel.app/ebook/bay-gio-moi-thay.pdf) tại đây.
 

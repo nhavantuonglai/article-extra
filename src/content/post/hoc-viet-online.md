@@ -45,13 +45,13 @@ Việc chọn đúng nền tảng học viết online là bước quan trọng �
 
 ### Coursera
 
-Cung cấp các [Khóa học viết blog](https://nhavantuonglai.com/article) từ các trường đại học danh tiếng như Đại học Stanford, Đại học California.
+Cung cấp các [Khóa học viết blog](/article) từ các trường đại học danh tiếng như Đại học Stanford, Đại học California.
 
 Khóa học có cấu trúc rõ ràng, bao gồm video bài giảng, bài tập thực hành và bài kiểm tra.
 
 ### Udemy
 
-Nền tảng này cung cấp hàng ngàn [khóa học viết nội dung website](https://nhavantuonglai.com/article) từ cơ bản đến nâng cao.
+Nền tảng này cung cấp hàng ngàn [khóa học viết nội dung website](/article) từ cơ bản đến nâng cao.
 
 Khóa học thường có giá hợp lý và có thể truy cập vĩnh viễn sau khi mua.
 
@@ -160,6 +160,6 @@ Tham gia cuộc thi viết: Tham gia các cuộc thi viết online để thử t
 
 Học viết online là một hành trình đầy thú vị và bổ ích, giúp bạn trau dồi kỹ năng viết, mở rộng kiến thức và phát triển bản thân. Bằng cách chọn đúng nền tảng học tập, lập kế hoạch học tập hiệu quả, thực hành thường xuyên và duy trì động lực, bạn sẽ tiến bộ từng ngày và đạt được những mục tiêu viết lách của mình.
 
-[Viết lách sáng tạo](https://nhavantuonglai.com/article) không chỉ là một kỹ năng mà còn là một nghệ thuật. Hãy kiên trì và không ngừng học hỏi, bạn sẽ thấy mình không chỉ trở thành một người viết giỏi hơn mà còn là một người sáng tạo và sâu sắc hơn trong cách nhìn nhận thế giới. Chúc bạn thành công trên con đường học viết online.
+[Viết lách sáng tạo](/article) không chỉ là một kỹ năng mà còn là một nghệ thuật. Hãy kiên trì và không ngừng học hỏi, bạn sẽ thấy mình không chỉ trở thành một người viết giỏi hơn mà còn là một người sáng tạo và sâu sắc hơn trong cách nhìn nhận thế giới. Chúc bạn thành công trên con đường học viết online.
 
 <figure><img src="https://banmaixanh.vercel.app/image/cover/001-324.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

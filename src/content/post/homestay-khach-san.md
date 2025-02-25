@@ -47,7 +47,7 @@ Với những vùng đất có tiềm năng du lịch nhưng chưa phát triển
 
 Homestay không thật sự thu hút các nhà đầu tư lớn bởi mô hình vận hành, phương pháp quản lý cùng biên lợi nhuận không cao như các loại hình nghỉ dưỡng cao cấp. Nhưng với người dân địa phương thì đây là một kênh đầu tư, kinh doanh vô cùng hiệu quả.
 
-[Tận dụng từ nguồn lực có sẵn](https://nhavantuonglai.com/article), như không gian sinh hoạt rộng rãi, nhịp sống với những thói quen sinh hoạt, phương pháp làm việc tự nhiên, hay không khí gần gũi như trong gia đình để tạo nên dấu ấn cho khách du lịch khi đến. Do vậy, đây là một mảng đầu tư tiềm năng cho những người ít vốn, người địa phương hay thậm chí là các bạn trẻ khởi nghiệp đều có thể sinh lời từ đây.
+[Tận dụng từ nguồn lực có sẵn](/article), như không gian sinh hoạt rộng rãi, nhịp sống với những thói quen sinh hoạt, phương pháp làm việc tự nhiên, hay không khí gần gũi như trong gia đình để tạo nên dấu ấn cho khách du lịch khi đến. Do vậy, đây là một mảng đầu tư tiềm năng cho những người ít vốn, người địa phương hay thậm chí là các bạn trẻ khởi nghiệp đều có thể sinh lời từ đây.
 
 ### Thu nhật ổn định
 
@@ -69,17 +69,17 @@ _Bạn đang có bao nhiêu tiền để khởi nghiệp Homestay?_
 
 – Chi phí decor, thiết kế không gian: 1 – 3 triệu cho mỗi phòng; 10 – 20 triệu cho bối cảnh. Chi phí này có thể tốn kém nhiều hơn nếu người chủ muốn chăm chút đầu tư; hoặc cũng có thể thấp hơn nếu nguyên vật liệu trang trí đã có sẵn trong tự nhiên.
 
-– Chi phí [công suất phòng](https://nhavantuonglai.com/article), mỗi lần khách đến ở: từ 300 – 500 nghìn cho mỗi phòng mỗi lượt khách. Đồ dùng sinh hoạt (kem, bàn chải, dầu gội, giấy vệ sinh…), giặt ủi, đồ ăn thức uống… là những chi phát sinh trong quá trình sử dụng homestay của khách du lịch, những điều này người chủ có thể lựa chọn có hoặc không để tiết kiệm chi phí.
+– Chi phí [công suất phòng](/article), mỗi lần khách đến ở: từ 300 – 500 nghìn cho mỗi phòng mỗi lượt khách. Đồ dùng sinh hoạt (kem, bàn chải, dầu gội, giấy vệ sinh…), giặt ủi, đồ ăn thức uống… là những chi phát sinh trong quá trình sử dụng homestay của khách du lịch, những điều này người chủ có thể lựa chọn có hoặc không để tiết kiệm chi phí.
 
 – Chi phí vận hành nhân sự: 5 – 7 triệu cho mỗi nhân viên. Chi phí này thường cố định, hoặc ăn theo KPI sản phẩm (lượt đặt phòng), được dùng để trả lương và sinh hoạt phí cho nhân viên khi làm việc tại hometsay.
 
-– Chi phí [Marketing](https://nhavantuonglai.com/article): 1 – 3 triệu tùy ngân sách. Mức chi phí này thường không cố định, tùy thuộc vào khả năng chịu chi của người chủ. Được dùng để thuê người lên plan Marketing, chạy quảng cáo để tăng độ phủ cho homestay nhằm [chuyển đổi thành lượt khách hàng tiềm năng](https://nhavantuonglai.com/article).
+– Chi phí [Marketing](/article): 1 – 3 triệu tùy ngân sách. Mức chi phí này thường không cố định, tùy thuộc vào khả năng chịu chi của người chủ. Được dùng để thuê người lên plan Marketing, chạy quảng cáo để tăng độ phủ cho homestay nhằm [chuyển đổi thành lượt khách hàng tiềm năng](/article).
 
 – Chi phí khác: 1 – 5 triệu tùy bối cảnh. Số tiền này là số tiền dự phòng cho những tình huống phát sinh ngoài dự tính.
 
 ### Ý tưởng triển khai Homestay hiệu quả
 
-Tham khảo ngay những gợi ý dưới đây, để [cá nhân hóa giải pháp khởi nghiệp Homestay](https://nhavantuonglai.com/article) của bạn, qua đó tạo nên sắc màu, cá tính và sức hấp dẫn cho ngôi nhà của mình.
+Tham khảo ngay những gợi ý dưới đây, để [cá nhân hóa giải pháp khởi nghiệp Homestay](/article) của bạn, qua đó tạo nên sắc màu, cá tính và sức hấp dẫn cho ngôi nhà của mình.
 
 – _Homestay trên cây_
 
@@ -115,7 +115,7 @@ Mô hình này thu hút đặc biệt với giá trẻ bởi kiểu dáng kỳ l
 
 – Lợi thế cạnh tranh khi so cùng đối thủ là gì?
 
-– Có nên hay không vận hành qua kênh OTA, sử dụng [Sale kênh OTA](https://nhavantuonglai.com/article/ OTA-va-tam-voi-homestay) để đem lại khách hàng?
+– Có nên hay không vận hành qua kênh OTA, sử dụng [Sale kênh OTA](/article/ OTA-va-tam-voi-homestay) để đem lại khách hàng?
 
 – Quản lý như thế nào với khách hàng đặt phòng từ xa?
 

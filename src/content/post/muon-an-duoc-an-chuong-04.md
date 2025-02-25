@@ -117,19 +117,19 @@ Không chịu được nữa, bà quăng chuông mõ, chạy ra cửa và la lê
 
 Do đó, vấn đề không phải là làm nhiều mà là làm đúng. Nếu thực hành đúng chúng ta sẽ trở nên tử tế hơn, dễ thương hơn, có hiểu biết và thương yêu hơn. Khi ngồi thiền hay đi thiền hành chúng ta nên để ý đến chất lượng mà không phải đến số lượng. Nếu chỉ để ý đến số lượng thôi thì chúng ta chẳng khác gì bà Nguyễn. Tôi nghĩ rằng bà đã học được bài học của mình và sẽ làm tốt hơn.
 
-Đọc [Muốn an được an, chương 01](https://nhavantuonglai.com/article/muon-an-duoc-an-chuong-01) tại đây.
+Đọc [Muốn an được an, chương 01](/article/muon-an-duoc-an-chuong-01) tại đây.
 
-Đọc [Muốn an được an, chương 02](https://nhavantuonglai.com/article/muon-an-duoc-an-chuong-02) tại đây.
+Đọc [Muốn an được an, chương 02](/article/muon-an-duoc-an-chuong-02) tại đây.
 
-Đọc [Muốn an được an, chương 03](https://nhavantuonglai.com/article/muon-an-duoc-an-chuong-03) tại đây.
+Đọc [Muốn an được an, chương 03](/article/muon-an-duoc-an-chuong-03) tại đây.
 
-Đọc [Muốn an được an, chương 04](https://nhavantuonglai.com/article/muon-an-duoc-an-chuong-04) tại đây.
+Đọc [Muốn an được an, chương 04](/article/muon-an-duoc-an-chuong-04) tại đây.
 
-Đọc [Muốn an được an, chương 05](https://nhavantuonglai.com/article/muon-an-duoc-an-chuong-05) tại đây.
+Đọc [Muốn an được an, chương 05](/article/muon-an-duoc-an-chuong-05) tại đây.
 
-Đọc [Muốn an được an, chương 06](https://nhavantuonglai.com/article/muon-an-duoc-an-chuong-06) tại đây.
+Đọc [Muốn an được an, chương 06](/article/muon-an-duoc-an-chuong-06) tại đây.
 
-Đọc [Muốn an được an, chương 07](https://nhavantuonglai.com/article/muon-an-duoc-an-chuong-07) tại đây.
+Đọc [Muốn an được an, chương 07](/article/muon-an-duoc-an-chuong-07) tại đây.
 
 Đọc [Muốn an được an, toàn tập](https://banmaixanh.vercel.app/ebook/muon-an-duoc-an.pdf) tại đây.
 

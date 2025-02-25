@@ -139,23 +139,23 @@ Bạn cũng nhìn thấy thân thể mình là nền tảng của các thế h�
 
 Chúng ta có thể dùng một thí dụ dễ hiểu về trái quít và trái sầu riêng. Nếu có người nào chưa từng nếm quít hay sầu riêng, thì dù cho bạn mô tả các thứ đó bằng bao nhiêu hình tượng, bạn cũng không thể diễn tả được các thứ trái cây đó thực sự chúng ra sao. Bạn chỉ có thể giúp người kia có kinh nghiệm sống, thực chứng về hai trái cây đó. Bạn không thể nói: _Sầu riêng ư, nó giống như mít hay đu đủ._ Bạn không thể nói gì như khi người ta ăn trái sầu riêng. Sầu riêng nó vượt qua tất cả các ý niệm. Trái quít cũng vậy. Khi bạn chưa từng ăn trái quít, thì dù cho người kia thương bạn cách mấy, cố gắng giúp bạn cách mấy cũng không diễn tả được hương vị trái quít ra sao. Thực tại của trái quít vượt lên trên tất cả mọi ý niệm. Niết Bàn cũng vậy. Đó là một thực tại vượt qua các ý niệm. Chỉ vì ta có ý niệm về Niết bàn mà ta đau khổ. Phải thực chứng, phải tự kinh nghiệm, đó là con đường phải đi.
 
-Đọc [Không diệt không sinh không sợ hãi, chương 01](https://nhavantuonglai.com/article/khong-diet-khong-sinh-dung-so-hai-chuong-01) tại đây.
+Đọc [Không diệt không sinh không sợ hãi, chương 01](/article/khong-diet-khong-sinh-dung-so-hai-chuong-01) tại đây.
 
-Đọc [Không diệt không sinh không sợ hãi, chương 02](https://nhavantuonglai.com/article/khong-diet-khong-sinh-dung-so-hai-chuong-02) tại đây.
+Đọc [Không diệt không sinh không sợ hãi, chương 02](/article/khong-diet-khong-sinh-dung-so-hai-chuong-02) tại đây.
 
-Đọc [Không diệt không sinh không sợ hãi, chương 03](https://nhavantuonglai.com/article/khong-diet-khong-sinh-dung-so-hai-chuong-03) tại đây.
+Đọc [Không diệt không sinh không sợ hãi, chương 03](/article/khong-diet-khong-sinh-dung-so-hai-chuong-03) tại đây.
 
-Đọc [Không diệt không sinh không sợ hãi, chương 04](https://nhavantuonglai.com/article/khong-diet-khong-sinh-dung-so-hai-chuong-04) tại đây.
+Đọc [Không diệt không sinh không sợ hãi, chương 04](/article/khong-diet-khong-sinh-dung-so-hai-chuong-04) tại đây.
 
-Đọc [Không diệt không sinh không sợ hãi, chương 05](https://nhavantuonglai.com/article/khong-diet-khong-sinh-dung-so-hai-chuong-05) tại đây.
+Đọc [Không diệt không sinh không sợ hãi, chương 05](/article/khong-diet-khong-sinh-dung-so-hai-chuong-05) tại đây.
 
-Đọc [Không diệt không sinh không sợ hãi, chương 06](https://nhavantuonglai.com/article/khong-diet-khong-sinh-dung-so-hai-chuong-06) tại đây.
+Đọc [Không diệt không sinh không sợ hãi, chương 06](/article/khong-diet-khong-sinh-dung-so-hai-chuong-06) tại đây.
 
-Đọc [Không diệt không sinh không sợ hãi, chương 07](https://nhavantuonglai.com/article/khong-diet-khong-sinh-dung-so-hai-chuong-07) tại đây.
+Đọc [Không diệt không sinh không sợ hãi, chương 07](/article/khong-diet-khong-sinh-dung-so-hai-chuong-07) tại đây.
 
-Đọc [Không diệt không sinh không sợ hãi, chương 08](https://nhavantuonglai.com/article/khong-diet-khong-sinh-dung-so-hai-chuong-08) tại đây.
+Đọc [Không diệt không sinh không sợ hãi, chương 08](/article/khong-diet-khong-sinh-dung-so-hai-chuong-08) tại đây.
 
-Đọc [Không diệt không sinh không sợ hãi, chương 09](https://nhavantuonglai.com/article/khong-diet-khong-sinh-dung-so-hai-chuong-09) tại đây.
+Đọc [Không diệt không sinh không sợ hãi, chương 09](/article/khong-diet-khong-sinh-dung-so-hai-chuong-09) tại đây.
 
 Đọc [Không diệt không sinh không sợ hãi, toàn tập](https://banmaixanh.vercel.app/ebook/khong-diet-khong-sinh-dung-so-hai.pdf) tại đây.
 

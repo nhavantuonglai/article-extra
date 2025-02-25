@@ -29,13 +29,13 @@ Bên cạnh đó, hiểu biết đầy đủ về chân dung khách hàng, cụ 
 
 – Xây dựng, điều chỉnh các sản phẩm hiện có phù hợp với tệp khách hàng của khách sạn.
 
-– Xây dựng, tạo ra nhiều [chiến lược Marketing](https://nhavantuonglai.com/article) phù hợp, hiệu quả.
+– Xây dựng, tạo ra nhiều [chiến lược Marketing](/article) phù hợp, hiệu quả.
 
 – Thu hút được khách hàng tiềm năng dựa trên dữ liệu về chân dung khách hàng mà khách sạn đã kết luận.
 
-– Xây dựng [quan hệ với khách hàng (CRM)](https://nhavantuonglai.com/article) phù hợp với thị trường mục tiêu của khách sạn.
+– Xây dựng [quan hệ với khách hàng (CRM)](/article) phù hợp với thị trường mục tiêu của khách sạn.
 
-– [Cá nhân hóa trải nghiệm](https://nhavantuonglai.com/article), dịch vụ cho từng du khách trong khách sạn.
+– [Cá nhân hóa trải nghiệm](/article), dịch vụ cho từng du khách trong khách sạn.
 
 – …
 
@@ -45,7 +45,7 @@ Như vậy, xây dựng chân dung khách hàng trong khách sạn tạo ra nhi�
 
 ## Tại sao khách sạn cần chân dung khách hàng?
 
-Để hiểu tại sao khách sạn lại cần có chân dung khách hàng, hãy đánh giá với quan điểm của một khách sạn. [Kinh doanh khách sạn](https://nhavantuonglai.com/article) muốn có hiệu quả, thì cần phải có những chiến lược vững chắc. Một trong số chúng là tạo ra chân dung khách hàng của khách sạn. Khi một khách sạn có chân dung khách hàng, họ sẽ hiểu và cung cấp trải nghiệm cá nhân hóa tốt hơn các khách sạn khác. Điều này dẫn đến sự tin tưởng, trung thành và đặt phòng lặp lại từ phía du khách.
+Để hiểu tại sao khách sạn lại cần có chân dung khách hàng, hãy đánh giá với quan điểm của một khách sạn. [Kinh doanh khách sạn](/article) muốn có hiệu quả, thì cần phải có những chiến lược vững chắc. Một trong số chúng là tạo ra chân dung khách hàng của khách sạn. Khi một khách sạn có chân dung khách hàng, họ sẽ hiểu và cung cấp trải nghiệm cá nhân hóa tốt hơn các khách sạn khác. Điều này dẫn đến sự tin tưởng, trung thành và đặt phòng lặp lại từ phía du khách.
 
 Dù vậy, một số khách sạn lại cho rằng, một vài vị khách không đem lại lợi nhuận, khi họ mỗi ngày đón hàng trăm lượt du khách với vô vàn chân dung khác nhau. Nhưng điểm mấu chốt ở đây lại là lòng trung thành và tỷ lệ đặt phòng của chúng thì lại không tương xứng. Khi xác định đúng nhóm chân dung khách hàng, khách sạn sẽ ít tốn chi phí hơn để thu hút họ quay trở lại, thậm chí – họ còn kêu gọi bạn bè, người thân cùng đến đặt phòng tại khách sạn của bạn.
 
@@ -63,7 +63,7 @@ Bước đầu tiên và quan trọng nhất là thu thập dữ liệu, thông 
 
 Google Analytics là công cụ hàng đầu để hiểu người dùng truy cập, tương tác với website khách sạn như thế nào. Công cụ này cung cấp các báo cáo chi tiết dựa trên dữ liệu về hành vi được thu thập khi người dùng truy cập website của khách sạn. Dựa trên những dữ liệu thu thập, các khách sạn có thể xây dựng các kiểu báo cáo như là:
 
-– Báo cáo nhân khẩu học: Trình bày báo cáo thông tin chi tiết về đặc điểm của người dùng/ du khách khi try cập [website khách sạn](https://nhavantuonglai.com/article).
+– Báo cáo nhân khẩu học: Trình bày báo cáo thông tin chi tiết về đặc điểm của người dùng/ du khách khi try cập [website khách sạn](/article).
 
 – Báo cáo hành vi: Trình bày báo cáo người dùng thực hiện các thao tác, truy vấn trên website khách sạn.
 
@@ -125,13 +125,13 @@ Là những người thường xuyên tương tác và giải quyết những v�
 
 #### Sử dụng đánh giá và khảo sát khách đặt phòng
 
-Với [đánh giá trực tuyến](https://nhavantuonglai.com/article), chúng nói lên rất nhiều điều nếu khách sạn biết cách khai thác. Bởi vậy, đừng bỏ qua chúng. Hãy theo dõi và phân tích tất cả nhận xét, dù tích cực hay tiêu cực thì cũng đều chú ý. Bởi lẽ, thông qua đánh giá, các kỳ vọng và mong muốn, sự hài lòng của du khách sẽ được bộc lộ và phản ánh rõ ràng, giúp khách sạn hiểu, hình dung và biết chính xác họ là ai, họ cần gì tại khách sạn của bạn.
+Với [đánh giá trực tuyến](/article), chúng nói lên rất nhiều điều nếu khách sạn biết cách khai thác. Bởi vậy, đừng bỏ qua chúng. Hãy theo dõi và phân tích tất cả nhận xét, dù tích cực hay tiêu cực thì cũng đều chú ý. Bởi lẽ, thông qua đánh giá, các kỳ vọng và mong muốn, sự hài lòng của du khách sẽ được bộc lộ và phản ánh rõ ràng, giúp khách sạn hiểu, hình dung và biết chính xác họ là ai, họ cần gì tại khách sạn của bạn.
 
 Với khảo sát du khách, đó là những ý kiến được thu thập có chủ đích, phản ánh nhu cầu, kỳ vọng lẫn sự hài lòng của du khách. Có thể những trải nghiệm diễn ra đúng như họ kỳ vọng – tức phần nào đó tệp khách hàng mà khách sạn đang xây dựng là đúng đắn. Hoặc cần phải điều chỉnh, dựa trên những ý kiến của đa số du khách – đấy là lúc khách sạn cần phải điều chỉnh lại chân dung khách hàng của mình.
 
 #### Thu thập thông qua kênh bán phòng
 
-Các [kênh bán phòng](https://nhavantuonglai.com/article), cả kênh bán phòng trực tuyến lẫn kênh bán phòng trực tiếp đều có rất nhiều dữ liệu quý giá nếu biết cách khai thác. Chúng không chỉ cung cấp thông tin, dữ liệu đặt phòng, mà còn phản ánh xu hướng đặt phòng và nhu cầu của thị trường biến động theo thời gian như thế nào.
+Các [kênh bán phòng](/article), cả kênh bán phòng trực tuyến lẫn kênh bán phòng trực tiếp đều có rất nhiều dữ liệu quý giá nếu biết cách khai thác. Chúng không chỉ cung cấp thông tin, dữ liệu đặt phòng, mà còn phản ánh xu hướng đặt phòng và nhu cầu của thị trường biến động theo thời gian như thế nào.
 
 Hãy sàng lọc, phân loại dữ liệu thu thập từ các kênh bán phòng để hoàn thiện nốt chân dung khách hàng của khách sạn, phản ánh đúng như biến động và thay đổi của thị trường lẫn nhu cầu của du khách để có sự điều chỉnh, áp dụng chiến lược cho hợp lý.
 
@@ -157,7 +157,7 @@ Lưu ý rằng, chân dung khách hàng trong khách sạn không chỉ có mộ
 
 Như đã nói ở trên, khách sạn không chỉ cần một chân dung khách hàng, nhưng khởi đầu thì chỉ nên xây dựng 1 hoặc 2 chân dung khách hàng. Càng ít chân dung, khách sạn càng có thể xây dựng chúng chỉnh chu, đảm bảo phản ánh chính xác và trọn vẹn tệp khách hàng của khách sạn là như thế nào.
 
-Sau khi xây dựng chân dung khách hàng hoàn chỉnh, khách sạn áp dụng chúng vào [chiến lược bán phòng](https://nhavantuonglai.com/article) hiện tại nhằm đo lường, đánh giá và điều chỉnh những sai sót nếu cần thiết. Nếu chân dung khách hàng ấy đáp ứng và đem lại hiệu quả cho khách sạn, phản ánh cho chiến lược bán phòng thành công khách sạn nhận được nhiều lượt đặt phòng hơn. Khi đó, khách sạn có thể nhân rộng (upscale) chúng để thu hút được nhiều du khách phù hợp với chân dung khách hàng hiện có hơn nữa.
+Sau khi xây dựng chân dung khách hàng hoàn chỉnh, khách sạn áp dụng chúng vào [chiến lược bán phòng](/article) hiện tại nhằm đo lường, đánh giá và điều chỉnh những sai sót nếu cần thiết. Nếu chân dung khách hàng ấy đáp ứng và đem lại hiệu quả cho khách sạn, phản ánh cho chiến lược bán phòng thành công khách sạn nhận được nhiều lượt đặt phòng hơn. Khi đó, khách sạn có thể nhân rộng (upscale) chúng để thu hút được nhiều du khách phù hợp với chân dung khách hàng hiện có hơn nữa.
 
 Và nếu nguồn lực, dữ liệu hiện tại của khách sạn cho phép xây dựng thêm những chân dung khách hàng mới, đừng chần chừ mà triển khai ngay. Bởi chúng là lợi thế thiết thực, tạo ra giá trị và thu hút khách đặt phòng hiệu quả trong khách sạn của bạn.
 

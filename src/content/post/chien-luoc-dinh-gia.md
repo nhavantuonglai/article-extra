@@ -33,7 +33,7 @@ Nếu bạn định giá phòng quá cao, khách hàng sẽ tìm đến đối t
 
 ### Định giá theo công suất phòng
 
-Định giá theo [công suất phòng](https://nhavantuonglai.com/article), tức định giá theo nhu cầu thực tế. Cụ thể là dựa trên công suất phòng, tức tăng giá khi công suất phòng, và giảm giá khi công suất phòng giảm. Về cơ bản, chúng sẽ giúp bạn được nhiều phòng hơn lúc công suất phòng thấp, và có nhiều doanh thu hơn khi công suất phòng cao.
+Định giá theo [công suất phòng](/article), tức định giá theo nhu cầu thực tế. Cụ thể là dựa trên công suất phòng, tức tăng giá khi công suất phòng, và giảm giá khi công suất phòng giảm. Về cơ bản, chúng sẽ giúp bạn được nhiều phòng hơn lúc công suất phòng thấp, và có nhiều doanh thu hơn khi công suất phòng cao.
 
 Chiến lược này giúp khách sạn nhìn thấy điểm cân bằng giữa cung và cầu, cũng như các thời điểm tốt nhất để bán phòng, hoặc nâng giá bán phòng cho khách sạn.
 
@@ -73,11 +73,11 @@ Cùng một loại phòng, nhưng khách hàng khác nhau sẽ nhận được m
 
 Khi khách sạn có nhiều phân khúc, nhiều loại phòng, hiệu quả kinh doanh tổng thể sẽ được cải thiện, bởi chúng sẽ đa dạng hóa phân khúc, tiếp cận nhiều đối tượng khách hàng hơn. Còn khi khách hàng hài lòng với giá trị mà bạn cung cấp qua từng sản phẩm, dịch vụ, họ sẽ không quá bận tâm về cách tính giá. Cho nên, điều quan trọng là hãy cung cấp những dịch vụ phù hợp, hấp dẫn với mức giá cạnh tranh.
 
-Thực hiện thành công điều này, khách sạn sẽ nhận lại nhiều lợi ích, lợi nhuận cũng như sự hài lòng từ phía khách hàng. Theo thống kê, chúng sẽ giúp [ADR khách sạn](https://nhavantuonglai.com/article) tăng trung bình 5%.
+Thực hiện thành công điều này, khách sạn sẽ nhận lại nhiều lợi ích, lợi nhuận cũng như sự hài lòng từ phía khách hàng. Theo thống kê, chúng sẽ giúp [ADR khách sạn](/article) tăng trung bình 5%.
 
 ### Định giá theo gói dịch vụ
 
-Định giá theo gói dịch vụ là một trong những [chiến lược giá](https://nhavantuonglai.com/article) hiệu quả nhất trong ngành khách sạn. Bởi thay vì chỉ bán phòng, bạn có thể tạo ra các gói cụ thể, bao gồm dịch vụ, tiện ích, phòng ở… với mức giá hợp lý. Điều này khiến người mua tin rằng họ đang mua với mức giá thấp hơn
+Định giá theo gói dịch vụ là một trong những [chiến lược giá](/article) hiệu quả nhất trong ngành khách sạn. Bởi thay vì chỉ bán phòng, bạn có thể tạo ra các gói cụ thể, bao gồm dịch vụ, tiện ích, phòng ở… với mức giá hợp lý. Điều này khiến người mua tin rằng họ đang mua với mức giá thấp hơn
 
 Các gói phổ biến như là bữa sáng, dành cho cặp đôi, kết hợp tour du lịch… giúp bạn bán được nhiều dịch vụ hơn, và thu hút khách tìm đến đặt phòng. Để tối ưu, hãy tìm hiểu thị hiếu, nhu cầu của khách hàng và xây dựng những gói phù hợp nhất dành cho họ.
 
@@ -85,9 +85,9 @@ Các gói phổ biến như là bữa sáng, dành cho cặp đôi, kết hợp 
 
 ### Sử dụng công nghệ để tự động điều chỉnh giá phòng
 
-Nhiều chủ khách sạn chấp nhận [overbooking](https://nhavantuonglai.com/article) để tăng công suất, nếu lượng khách đến nhiều hơn số phòng có thể đáp ứng, họ chuyển lượng khách dư ra sang phòng khác kèm những ưu đãi thật hấp dẫn. Chiến lược này tiềm ẩn nhiều rủi ro, cụ thể nhất là tổng lượng phòng hiện có không thể chứa đủ lượng khách đã đặt, và [ảnh hưởng đến danh tiếng của khách sạn](https://nhavantuonglai.com/article).
+Nhiều chủ khách sạn chấp nhận [overbooking](/article) để tăng công suất, nếu lượng khách đến nhiều hơn số phòng có thể đáp ứng, họ chuyển lượng khách dư ra sang phòng khác kèm những ưu đãi thật hấp dẫn. Chiến lược này tiềm ẩn nhiều rủi ro, cụ thể nhất là tổng lượng phòng hiện có không thể chứa đủ lượng khách đã đặt, và [ảnh hưởng đến danh tiếng của khách sạn](/article).
 
-Cách giải quyết đó là [áp dụng công nghệ](https://nhavantuonglai.com/article), đồng bộ các kênh OTA vào cùng hệ thống và điều chỉnh giá phòng linh hoạt, dựa trên nhu cầu thực tế. Khi một kênh đóng, các kênh còn lại cũng sẽ đóng, để tránh tình trạng overbooking. Chúng giúp khách sạn quản lý hiệu quả và giảm các rủi ro không cần thiết.
+Cách giải quyết đó là [áp dụng công nghệ](/article), đồng bộ các kênh OTA vào cùng hệ thống và điều chỉnh giá phòng linh hoạt, dựa trên nhu cầu thực tế. Khi một kênh đóng, các kênh còn lại cũng sẽ đóng, để tránh tình trạng overbooking. Chúng giúp khách sạn quản lý hiệu quả và giảm các rủi ro không cần thiết.
 
 ## Kết luận
 

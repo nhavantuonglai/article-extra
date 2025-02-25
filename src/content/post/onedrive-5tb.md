@@ -117,7 +117,7 @@ Khi đăng ký tham gia Microsoft Developer Program để nhận OneDrive 5TB, c
 
 Những lưu ý trên sẽ giúp bạn có một trải nghiệm suôn sẻ khi đăng ký và sử dụng Microsoft Developer Program để nhận OneDrive 5TB. Bằng cách tuân thủ các hướng dẫn và cẩn thận trong từng bước, bạn sẽ có thể tận dụng tối đa các lợi ích mà chương trình mang lại.
 
-Ngoài ra, bạn cũng nên tham khảo cách [mua dung lượng Google One giá rẻ bằng cách chuyển vùng sang Thổ Nhĩ Kỳ](https://nhavantuonglai.com/article/google-one-tho-nhi-ky) để mua dung lượng Google One giá rẻ nhất.
+Ngoài ra, bạn cũng nên tham khảo cách [mua dung lượng Google One giá rẻ bằng cách chuyển vùng sang Thổ Nhĩ Kỳ](/article/google-one-tho-nhi-ky) để mua dung lượng Google One giá rẻ nhất.
 
 ## Lưu ý khi duy trì Microsoft Developer Program
 

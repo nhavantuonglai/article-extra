@@ -458,304 +458,304 @@ Thám tử lừng danh Conan không chỉ là một bộ truyện tranh đơn th
 
 ## Đọc tiếp truyện tranh Thám tử lừng danh Conan
 
-Đọc [Thám tử lừng danh Conan, tập 001](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-001) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 001](/article/tham-tu-lung-danh-conan-chuong-001) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 002](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-002) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 002](/article/tham-tu-lung-danh-conan-chuong-002) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 003](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-003) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 003](/article/tham-tu-lung-danh-conan-chuong-003) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 004](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-004) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 004](/article/tham-tu-lung-danh-conan-chuong-004) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 005](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-005) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 005](/article/tham-tu-lung-danh-conan-chuong-005) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 006](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-006) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 006](/article/tham-tu-lung-danh-conan-chuong-006) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 007](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-007) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 007](/article/tham-tu-lung-danh-conan-chuong-007) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 008](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-008) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 008](/article/tham-tu-lung-danh-conan-chuong-008) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 009](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-009) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 009](/article/tham-tu-lung-danh-conan-chuong-009) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 010](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-010) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 010](/article/tham-tu-lung-danh-conan-chuong-010) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 011](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-011) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 011](/article/tham-tu-lung-danh-conan-chuong-011) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 012](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-012) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 012](/article/tham-tu-lung-danh-conan-chuong-012) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 013](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-013) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 013](/article/tham-tu-lung-danh-conan-chuong-013) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 014](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-014) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 014](/article/tham-tu-lung-danh-conan-chuong-014) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 015](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-015) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 015](/article/tham-tu-lung-danh-conan-chuong-015) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 016](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-016) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 016](/article/tham-tu-lung-danh-conan-chuong-016) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 017](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-017) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 017](/article/tham-tu-lung-danh-conan-chuong-017) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 018](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-018) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 018](/article/tham-tu-lung-danh-conan-chuong-018) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 019](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-019) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 019](/article/tham-tu-lung-danh-conan-chuong-019) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 020](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-020) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 020](/article/tham-tu-lung-danh-conan-chuong-020) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 021](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-021) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 021](/article/tham-tu-lung-danh-conan-chuong-021) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 022](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-022) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 022](/article/tham-tu-lung-danh-conan-chuong-022) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 023](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-023) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 023](/article/tham-tu-lung-danh-conan-chuong-023) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 024](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-024) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 024](/article/tham-tu-lung-danh-conan-chuong-024) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 025](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-025) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 025](/article/tham-tu-lung-danh-conan-chuong-025) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 026](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-026) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 026](/article/tham-tu-lung-danh-conan-chuong-026) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 027](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-027) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 027](/article/tham-tu-lung-danh-conan-chuong-027) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 028](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-028) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 028](/article/tham-tu-lung-danh-conan-chuong-028) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 029](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-029) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 029](/article/tham-tu-lung-danh-conan-chuong-029) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 030](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-030) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 030](/article/tham-tu-lung-danh-conan-chuong-030) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 031](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-031) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 031](/article/tham-tu-lung-danh-conan-chuong-031) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 032](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-032) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 032](/article/tham-tu-lung-danh-conan-chuong-032) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 033](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-033) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 033](/article/tham-tu-lung-danh-conan-chuong-033) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 034](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-034) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 034](/article/tham-tu-lung-danh-conan-chuong-034) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 035](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-035) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 035](/article/tham-tu-lung-danh-conan-chuong-035) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 036](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-036) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 036](/article/tham-tu-lung-danh-conan-chuong-036) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 037](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-037) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 037](/article/tham-tu-lung-danh-conan-chuong-037) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 038](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-038) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 038](/article/tham-tu-lung-danh-conan-chuong-038) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 039](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-039) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 039](/article/tham-tu-lung-danh-conan-chuong-039) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 040](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-040) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 040](/article/tham-tu-lung-danh-conan-chuong-040) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 041](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-041) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 041](/article/tham-tu-lung-danh-conan-chuong-041) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 042](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-042) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 042](/article/tham-tu-lung-danh-conan-chuong-042) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 043](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-043) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 043](/article/tham-tu-lung-danh-conan-chuong-043) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 044](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-044) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 044](/article/tham-tu-lung-danh-conan-chuong-044) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 045](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-045) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 045](/article/tham-tu-lung-danh-conan-chuong-045) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 046](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-046) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 046](/article/tham-tu-lung-danh-conan-chuong-046) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 047](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-047) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 047](/article/tham-tu-lung-danh-conan-chuong-047) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 048](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-048) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 048](/article/tham-tu-lung-danh-conan-chuong-048) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 049](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-049) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 049](/article/tham-tu-lung-danh-conan-chuong-049) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 050](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-050) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 050](/article/tham-tu-lung-danh-conan-chuong-050) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 051](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-051) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 051](/article/tham-tu-lung-danh-conan-chuong-051) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 052](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-052) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 052](/article/tham-tu-lung-danh-conan-chuong-052) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 053](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-053) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 053](/article/tham-tu-lung-danh-conan-chuong-053) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 054](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-054) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 054](/article/tham-tu-lung-danh-conan-chuong-054) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 055](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-055) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 055](/article/tham-tu-lung-danh-conan-chuong-055) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 056](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-056) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 056](/article/tham-tu-lung-danh-conan-chuong-056) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 057](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-057) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 057](/article/tham-tu-lung-danh-conan-chuong-057) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 058](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-058) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 058](/article/tham-tu-lung-danh-conan-chuong-058) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 059](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-059) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 059](/article/tham-tu-lung-danh-conan-chuong-059) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 060](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-060) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 060](/article/tham-tu-lung-danh-conan-chuong-060) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 061](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-061) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 061](/article/tham-tu-lung-danh-conan-chuong-061) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 062](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-062) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 062](/article/tham-tu-lung-danh-conan-chuong-062) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 063](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-063) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 063](/article/tham-tu-lung-danh-conan-chuong-063) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 064](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-064) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 064](/article/tham-tu-lung-danh-conan-chuong-064) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 065](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-065) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 065](/article/tham-tu-lung-danh-conan-chuong-065) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 066](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-066) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 066](/article/tham-tu-lung-danh-conan-chuong-066) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 067](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-067) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 067](/article/tham-tu-lung-danh-conan-chuong-067) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 068](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-068) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 068](/article/tham-tu-lung-danh-conan-chuong-068) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 069](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-069) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 069](/article/tham-tu-lung-danh-conan-chuong-069) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 070](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-070) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 070](/article/tham-tu-lung-danh-conan-chuong-070) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 071](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-071) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 071](/article/tham-tu-lung-danh-conan-chuong-071) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 072](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-072) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 072](/article/tham-tu-lung-danh-conan-chuong-072) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 073](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-073) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 073](/article/tham-tu-lung-danh-conan-chuong-073) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 074](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-074) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 074](/article/tham-tu-lung-danh-conan-chuong-074) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 075](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-075) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 075](/article/tham-tu-lung-danh-conan-chuong-075) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 076](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-076) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 076](/article/tham-tu-lung-danh-conan-chuong-076) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 077](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-077) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 077](/article/tham-tu-lung-danh-conan-chuong-077) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 078](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-078) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 078](/article/tham-tu-lung-danh-conan-chuong-078) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 079](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-079) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 079](/article/tham-tu-lung-danh-conan-chuong-079) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 080](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-080) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 080](/article/tham-tu-lung-danh-conan-chuong-080) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 081](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-081) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 081](/article/tham-tu-lung-danh-conan-chuong-081) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 082](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-082) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 082](/article/tham-tu-lung-danh-conan-chuong-082) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 083](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-083) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 083](/article/tham-tu-lung-danh-conan-chuong-083) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 084](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-084) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 084](/article/tham-tu-lung-danh-conan-chuong-084) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 085](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-085) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 085](/article/tham-tu-lung-danh-conan-chuong-085) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 086](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-086) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 086](/article/tham-tu-lung-danh-conan-chuong-086) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 087](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-087) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 087](/article/tham-tu-lung-danh-conan-chuong-087) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 088](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-088) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 088](/article/tham-tu-lung-danh-conan-chuong-088) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 089](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-089) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 089](/article/tham-tu-lung-danh-conan-chuong-089) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 090](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-090) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 090](/article/tham-tu-lung-danh-conan-chuong-090) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 091](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-091) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 091](/article/tham-tu-lung-danh-conan-chuong-091) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 092](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-092) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 092](/article/tham-tu-lung-danh-conan-chuong-092) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 093](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-093) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 093](/article/tham-tu-lung-danh-conan-chuong-093) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 094](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-094) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 094](/article/tham-tu-lung-danh-conan-chuong-094) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 095](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-095) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 095](/article/tham-tu-lung-danh-conan-chuong-095) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 096](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-096) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 096](/article/tham-tu-lung-danh-conan-chuong-096) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 097](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-097) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 097](/article/tham-tu-lung-danh-conan-chuong-097) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 098](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-098) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 098](/article/tham-tu-lung-danh-conan-chuong-098) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 099](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-099) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 099](/article/tham-tu-lung-danh-conan-chuong-099) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 100](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-100) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 100](/article/tham-tu-lung-danh-conan-chuong-100) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 101](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-101) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 101](/article/tham-tu-lung-danh-conan-chuong-101) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 102](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-102) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 102](/article/tham-tu-lung-danh-conan-chuong-102) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 103](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-103) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 103](/article/tham-tu-lung-danh-conan-chuong-103) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 104](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-104) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 104](/article/tham-tu-lung-danh-conan-chuong-104) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 105](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-105) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 105](/article/tham-tu-lung-danh-conan-chuong-105) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 106](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-106) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 106](/article/tham-tu-lung-danh-conan-chuong-106) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 107](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-107) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 107](/article/tham-tu-lung-danh-conan-chuong-107) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 108](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-108) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 108](/article/tham-tu-lung-danh-conan-chuong-108) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 109](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-109) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 109](/article/tham-tu-lung-danh-conan-chuong-109) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 110](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-110) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 110](/article/tham-tu-lung-danh-conan-chuong-110) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 111](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-111) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 111](/article/tham-tu-lung-danh-conan-chuong-111) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 112](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-112) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 112](/article/tham-tu-lung-danh-conan-chuong-112) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 113](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-113) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 113](/article/tham-tu-lung-danh-conan-chuong-113) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 114](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-114) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 114](/article/tham-tu-lung-danh-conan-chuong-114) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 115](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-115) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 115](/article/tham-tu-lung-danh-conan-chuong-115) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 116](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-116) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 116](/article/tham-tu-lung-danh-conan-chuong-116) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 117](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-117) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 117](/article/tham-tu-lung-danh-conan-chuong-117) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 118](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-118) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 118](/article/tham-tu-lung-danh-conan-chuong-118) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 119](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-119) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 119](/article/tham-tu-lung-danh-conan-chuong-119) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 120](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-120) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 120](/article/tham-tu-lung-danh-conan-chuong-120) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 121](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-121) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 121](/article/tham-tu-lung-danh-conan-chuong-121) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 122](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-122) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 122](/article/tham-tu-lung-danh-conan-chuong-122) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 123](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-123) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 123](/article/tham-tu-lung-danh-conan-chuong-123) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 124](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-124) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 124](/article/tham-tu-lung-danh-conan-chuong-124) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 125](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-125) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 125](/article/tham-tu-lung-danh-conan-chuong-125) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 126](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-126) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 126](/article/tham-tu-lung-danh-conan-chuong-126) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 127](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-127) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 127](/article/tham-tu-lung-danh-conan-chuong-127) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 128](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-128) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 128](/article/tham-tu-lung-danh-conan-chuong-128) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 129](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-129) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 129](/article/tham-tu-lung-danh-conan-chuong-129) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 130](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-130) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 130](/article/tham-tu-lung-danh-conan-chuong-130) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 131](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-131) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 131](/article/tham-tu-lung-danh-conan-chuong-131) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 132](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-132) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 132](/article/tham-tu-lung-danh-conan-chuong-132) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 133](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-133) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 133](/article/tham-tu-lung-danh-conan-chuong-133) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 134](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-134) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 134](/article/tham-tu-lung-danh-conan-chuong-134) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 135](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-135) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 135](/article/tham-tu-lung-danh-conan-chuong-135) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 136](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-136) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 136](/article/tham-tu-lung-danh-conan-chuong-136) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 137](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-137) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 137](/article/tham-tu-lung-danh-conan-chuong-137) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 138](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-138) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 138](/article/tham-tu-lung-danh-conan-chuong-138) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 139](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-139) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 139](/article/tham-tu-lung-danh-conan-chuong-139) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 140](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-140) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 140](/article/tham-tu-lung-danh-conan-chuong-140) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 141](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-141) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 141](/article/tham-tu-lung-danh-conan-chuong-141) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 142](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-142) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 142](/article/tham-tu-lung-danh-conan-chuong-142) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 143](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-143) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 143](/article/tham-tu-lung-danh-conan-chuong-143) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 144](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-144) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 144](/article/tham-tu-lung-danh-conan-chuong-144) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 145](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-145) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 145](/article/tham-tu-lung-danh-conan-chuong-145) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 146](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-146) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 146](/article/tham-tu-lung-danh-conan-chuong-146) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 147](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-147) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 147](/article/tham-tu-lung-danh-conan-chuong-147) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 148](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-148) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 148](/article/tham-tu-lung-danh-conan-chuong-148) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 149](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-149) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 149](/article/tham-tu-lung-danh-conan-chuong-149) tại đây.
 
-Đọc [Thám tử lừng danh Conan, tập 150](https://nhavantuonglai.com/article/tham-tu-lung-danh-conan-chuong-150) tại đây.
+Đọc [Thám tử lừng danh Conan, tập 150](/article/tham-tu-lung-danh-conan-chuong-150) tại đây.
 
 <figure><img src="https://banmaixanh.vercel.app/image/cover/001-009.jpg" alt="Thám tử lừng danh Conan tập 009." title="Thám tử lừng danh Conan tập 009." height=108% width=108%><figcaption><p>Conan tập 009.</p></figcaption></figure>

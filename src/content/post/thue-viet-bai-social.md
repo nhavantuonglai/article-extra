@@ -38,7 +38,7 @@ Trước hết, hãy biết rằng chất lượng quan trọng hơn số lượ
 
 ### Hiểu rõ khán giả của bạn
 
-Không thể tạo ra sự tương tác mạnh mẽ với khách hàng nếu bạn không hiểu rõ về họ. Nếu bạn đã đầu tư vào nghiên cứu thị trường, bạn sẽ biết các chân dung khách hàng của mình. Hãy chắc chắn rằng content bạn nhắm đến có liên quan đến những người tiêu dùng đó. Nhớ rằng bạn sẽ cần phải xem xét độ tuổi của khán giả khi [thuê viết content social](https://nhavantuonglai.com/article/thue-viet-bai-social).
+Không thể tạo ra sự tương tác mạnh mẽ với khách hàng nếu bạn không hiểu rõ về họ. Nếu bạn đã đầu tư vào nghiên cứu thị trường, bạn sẽ biết các chân dung khách hàng của mình. Hãy chắc chắn rằng content bạn nhắm đến có liên quan đến những người tiêu dùng đó. Nhớ rằng bạn sẽ cần phải xem xét độ tuổi của khán giả khi [thuê viết content social](/article/thue-viet-bai-social).
 
 ### Đón nhận ảnh hưởng của bạn
 

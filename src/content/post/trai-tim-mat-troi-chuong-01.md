@@ -213,15 +213,15 @@ Kinh Niệm Xứ một kinh dạy về chánh niệm, thường dùng những m�
 
 Trong từ ngữ comprendre của tiếng Pháp, ta thấy có tiền từ com và động từ prendre, ý nói: hiểu một vật gì tức là cầm lấy vật ấy lên và đồng nhất với nó. Nếu ta chỉ phân tích một người như một đối tượng khảo cứu mà không sống với người ấy thì ta không thật sự hiểu được người ấy. Nhà thần học Martin Buber cũng nói rằng liên hệ giữa con người với Thượng Đế không phải là một liên hệ chủ thể và đối tượng, bởi Thượng Đế không phải là đối tượng của tri thức. Gần đây trong lãnh vực khoa học vật lý cực vi, các khoa học gia cũng đã công nhận rằng không thể có một hiện tượng nào tuyệt đối khách quan, nghĩa là độc lập với tâm ý người quan sát, và do đó mọi hiện tượng chủ quan cũng đều có mặt khách quan của chúng.
 
-Đọc [Trái tim mặt trời, chương 01](https://nhavantuonglai.com/article/trai-tim-mat-troi-chuong-01) tại đây.
+Đọc [Trái tim mặt trời, chương 01](/article/trai-tim-mat-troi-chuong-01) tại đây.
 
-Đọc [Trái tim mặt trời, chương 02](https://nhavantuonglai.com/article/trai-tim-mat-troi-chuong-02) tại đây.
+Đọc [Trái tim mặt trời, chương 02](/article/trai-tim-mat-troi-chuong-02) tại đây.
 
-Đọc [Trái tim mặt trời, chương 03](https://nhavantuonglai.com/article/trai-tim-mat-troi-chuong-03) tại đây.
+Đọc [Trái tim mặt trời, chương 03](/article/trai-tim-mat-troi-chuong-03) tại đây.
 
-Đọc [Trái tim mặt trời, chương 04](https://nhavantuonglai.com/article/trai-tim-mat-troi-chuong-04) tại đây.
+Đọc [Trái tim mặt trời, chương 04](/article/trai-tim-mat-troi-chuong-04) tại đây.
 
-Đọc [Trái tim mặt trời, chương 05](https://nhavantuonglai.com/article/trai-tim-mat-troi-chuong-05) tại đây.
+Đọc [Trái tim mặt trời, chương 05](/article/trai-tim-mat-troi-chuong-05) tại đây.
 
 Đọc [Trái tim mặt trời, toàn tập](https://banmaixanh.vercel.app/ebook/trai-tim-mat-troi.pdf) tại đây.
 

@@ -21,7 +21,7 @@ Tuy nhiên, giống như nhiều điều thường xảy ra trong ngành khách 
 
 ## Ngành khách sạn là một trường hợp ngoại lệ
 
-Việc cung cấp mức giá [hoàn tiền trong khách sạn](https://nhavantuonglai.com/article/hoan-tien-khach-san) như tiêu chuẩn không phải là điều bình thường. Ít nhất, nó không nên như vậy. Hãy nghĩ về bất kỳ ngành nào khác. Khi bạn đặt vé máy bay, bạn không đặt vé một cách ngẫu nhiên với ý nghĩ rằng mình có thể hủy mà không bị phạt vài ngày trước khi bay. Bạn không mua vé xem chương trình vài tháng trước và sau đó thanh toán khi đến. Ý tưởng đặt một ly cà phê trên ứng dụng của Starbucks và rồi quyết định không nhận khi đến giờ lấy là điều không ai chấp nhận. Vậy tại sao các phòng khách sạn lại khác?
+Việc cung cấp mức giá [hoàn tiền trong khách sạn](/article/hoan-tien-khach-san) như tiêu chuẩn không phải là điều bình thường. Ít nhất, nó không nên như vậy. Hãy nghĩ về bất kỳ ngành nào khác. Khi bạn đặt vé máy bay, bạn không đặt vé một cách ngẫu nhiên với ý nghĩ rằng mình có thể hủy mà không bị phạt vài ngày trước khi bay. Bạn không mua vé xem chương trình vài tháng trước và sau đó thanh toán khi đến. Ý tưởng đặt một ly cà phê trên ứng dụng của Starbucks và rồi quyết định không nhận khi đến giờ lấy là điều không ai chấp nhận. Vậy tại sao các phòng khách sạn lại khác?
 
 Một đặt phòng khách sạn là một hợp đồng cho tương lai, nhưng không nên được cung cấp miễn phí và không có ràng buộc cho đến ngày trước khi sử dụng. Không có mặt hàng nào khác được xử lý như vậy, và mọi khách hàng đều hiểu điều này trong mọi lĩnh vực khác. Khách hàng tương lai của bạn sẽ chấp nhận và thích nghi nhanh hơn bạn nghĩ.
 

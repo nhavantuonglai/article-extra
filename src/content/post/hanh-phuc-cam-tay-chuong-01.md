@@ -201,15 +201,15 @@ Khi ăn trưa, ta chuẩn bị bữa ăn trưa của ta cho đàng hoàng. Nấu
 
 Buổi tối, ta có thể đọc kinh, đọc sách, viết thư cho bạn, hoặc làm bất cứ điều gì ta thích ngoài những công việc thông thường trong tuần. Bất cứ điều gì ta làm cũng làm trong chánh niệm. Buổi tối ta nên ăn nhẹ để có thể ngồi thiền nhẹ nhàng, thoải mái hơn. Ta có thể đi bách bộ để hưởng không khí trong lành, theo dõi hơi thở và đo chiều dài hơi thở bằng bước chân của ta. Sau đó đi về phòng ngủ trong chánh niệm. Ngày quán niệm như thế rất quan trọng. Ảnh hưởng của nó không thể lường được. Chỉ sau ba tháng thực tập ngày quán niệm một tuần một lần, cuộc sống của ta sẽ đổi thay đáng kể. Ngày quán niệm sẽ ảnh hưởng đến những ngày khác trong tuần khiến ta sống cả bảy ngày trong chánh niệm. Tôi tin chắc là các bạn thấy ngày quán niệm rất quan trọng.
 
-Đọc [Hạnh phúc cầm tay, chương 01](https://nhavantuonglai.com/article/hanh-phuc-cam-tay-chuong-01) tại đây.
+Đọc [Hạnh phúc cầm tay, chương 01](/article/hanh-phuc-cam-tay-chuong-01) tại đây.
 
-Đọc [Hạnh phúc cầm tay, chương 02](https://nhavantuonglai.com/article/hanh-phuc-cam-tay-chuong-02) tại đây.
+Đọc [Hạnh phúc cầm tay, chương 02](/article/hanh-phuc-cam-tay-chuong-02) tại đây.
 
-Đọc [Hạnh phúc cầm tay, chương 03](https://nhavantuonglai.com/article/hanh-phuc-cam-tay-chuong-03) tại đây.
+Đọc [Hạnh phúc cầm tay, chương 03](/article/hanh-phuc-cam-tay-chuong-03) tại đây.
 
-Đọc [Hạnh phúc cầm tay, chương 04](https://nhavantuonglai.com/article/hanh-phuc-cam-tay-chuong-04) tại đây.
+Đọc [Hạnh phúc cầm tay, chương 04](/article/hanh-phuc-cam-tay-chuong-04) tại đây.
 
-Đọc [Hạnh phúc cầm tay, chương 05](https://nhavantuonglai.com/article/hanh-phuc-cam-tay-chuong-05) tại đây.
+Đọc [Hạnh phúc cầm tay, chương 05](/article/hanh-phuc-cam-tay-chuong-05) tại đây.
 
 Đọc [Hạnh phúc cầm tay, toàn tập](https://banmaixanh.vercel.app/ebook/hanh-phuc-cam-tay.pdf) tại đây.
 

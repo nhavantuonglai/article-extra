@@ -21,7 +21,7 @@ Trong hướng dẫn này, chúng ta sẽ tìm hiểu sâu hơn về quy định
 
 ## Quy định và quy tắc khách sạn là gì?
 
-Quy định và [quy tắc khách sạn](https://nhavantuonglai.com/article/quy-tac-khach-san) là một loạt các hướng dẫn được thống nhất giữa khách sạn và khách hàng. Các quy định này được thiết kế nhằm đảm bảo sự an toàn, thoải mái cho khách hàng và duy trì một tiêu chuẩn nhất định, đồng thời giúp khách sạn giữ gìn trật tự. Chúng thường mang tính hiển nhiên đến mức khách hàng không đặt câu hỏi, bởi vì ngay tại thời điểm đặt phòng, họ đã hiểu rằng mình đang tham gia vào một thỏa thuận riêng tư.
+Quy định và [quy tắc khách sạn](/article/quy-tac-khach-san) là một loạt các hướng dẫn được thống nhất giữa khách sạn và khách hàng. Các quy định này được thiết kế nhằm đảm bảo sự an toàn, thoải mái cho khách hàng và duy trì một tiêu chuẩn nhất định, đồng thời giúp khách sạn giữ gìn trật tự. Chúng thường mang tính hiển nhiên đến mức khách hàng không đặt câu hỏi, bởi vì ngay tại thời điểm đặt phòng, họ đã hiểu rằng mình đang tham gia vào một thỏa thuận riêng tư.
 
 Quy định có thể khác nhau giữa các khách sạn, nhưng thường liên quan đến thời gian nhận và trả phòng, thông tin cá nhân và thanh toán, tiếng ồn và hành vi, số lượng người ở trong phòng, hư hại và trách nhiệm, hút thuốc, vật nuôi, dọn phòng, các hoạt động bị cấm, việc sử dụng tiện ích, tiêu thụ đồ uống mang từ bên ngoài, quyền riêng tư, hoàn tiền và hủy phòng.
 

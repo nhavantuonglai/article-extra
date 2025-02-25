@@ -46,13 +46,13 @@ Tương tự như son môi thì đồ trang sức cũng được xem là _must h
 
 Các bài viết cùng chủ đề nên đọc để chuẩn trang trí Noel ấn tượng, đẹp nhất:
 
-– [18 cách trang trí Noel ấn tượng cho từng không gian](https://nhavantuonglai.com/article).
+– [18 cách trang trí Noel ấn tượng cho từng không gian](/article).
 
-– [20+ cách phối đồ đi chơi Noel & phụ kiện đẹp, hot trend](https://nhavantuonglai.com/article).
+– [20+ cách phối đồ đi chơi Noel & phụ kiện đẹp, hot trend](/article).
 
-– [21+ quà Noel cho người yêu, crush và bạn bè ý nghĩa nhất](https://nhavantuonglai.com/article).
+– [21+ quà Noel cho người yêu, crush và bạn bè ý nghĩa nhất](/article).
 
-– [Top shop bán đồ trang trí Noel giá tốt nhất trên Shopee](https://nhavantuonglai.com/article/shop-ban-do-trang-tri-noel-shopee).
+– [Top shop bán đồ trang trí Noel giá tốt nhất trên Shopee](/article/shop-ban-do-trang-tri-noel-shopee).
 
 #### Gấu bông cho bạn gái
 
@@ -66,13 +66,13 @@ Nếu còn đang băn khoăn suy nghĩ Noel nên tặng quà gì cho bạn gái 
 
 Các bài viết cùng chủ đề nên đọc để chuẩn trang trí Noel ấn tượng, đẹp nhất:
 
-– [18 cách trang trí Noel ấn tượng cho từng không gian](https://nhavantuonglai.com/article).
+– [18 cách trang trí Noel ấn tượng cho từng không gian](/article).
 
-– [20+ cách phối đồ đi chơi Noel & phụ kiện đẹp, hot trend](https://nhavantuonglai.com/article).
+– [20+ cách phối đồ đi chơi Noel & phụ kiện đẹp, hot trend](/article).
 
-– [21+ quà Noel cho người yêu, crush và bạn bè ý nghĩa nhất](https://nhavantuonglai.com/article).
+– [21+ quà Noel cho người yêu, crush và bạn bè ý nghĩa nhất](/article).
 
-– [Top shop bán đồ trang trí Noel giá tốt nhất trên Shopee](https://nhavantuonglai.com/article/shop-ban-do-trang-tri-noel-shopee).
+– [Top shop bán đồ trang trí Noel giá tốt nhất trên Shopee](/article/shop-ban-do-trang-tri-noel-shopee).
 
 #### Mỹ phẩm làm đẹp tặng bạn gái
 
@@ -252,7 +252,7 @@ Tặng crush một chiếc cài tóc đáng yêu là một cách tuyệt vời �
 
 ## Quà Giáng sinh cho bạn bè thân thiết
 
-Khi chuẩn bị [trang trí Noel ấn tượng](https://nhavantuonglai.com/article), những người mà bạn thương yêu thì chắc chắn không thiếu món quà dành riêng cho hội bạn thân của mình. Vì vậy, cùng nhavantuonglai khám phá những món quà độc đáo và thật ý nghĩ nhé.
+Khi chuẩn bị [trang trí Noel ấn tượng](/article), những người mà bạn thương yêu thì chắc chắn không thiếu món quà dành riêng cho hội bạn thân của mình. Vì vậy, cùng nhavantuonglai khám phá những món quà độc đáo và thật ý nghĩ nhé.
 
 ### Thiệp chúc mừng
 

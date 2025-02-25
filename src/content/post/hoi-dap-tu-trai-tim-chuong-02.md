@@ -193,17 +193,17 @@ Trả lời: Tất cả chúng ta đều biết rằng hiểu biết và thươn
 
 Khi ta có khả năng làm những việc mà ta muốn làm, sống như ta muốn sống thì ta sẽ có nhiều hạnh phúc. Khi ta đi chỉ để đi, ngồi chỉ để ngồi, uống trà chỉ để uống trà, ta không làm điều đó vì mục đích gì hay không vì ai hết, làm được như thế ta sẽ có rất nhiều tự do và niềm vui. Đó là sự thực tập vô nguyện. Khi làm được như vậy, ta chữa trị được cho ta và giúp chữa trị cho cả thế giới. Giác ngộ là khi ta nhận ra được cách để ta có thể sống rất sâu sắc, sống thật đơn giản mà hạnh phúc. Ta không còn muốn lãng phí thời giờ nữa, mà hết sức trân quý sự sống, trân quý thời giờ còn lại.
 
-Đọc [Hỏi đáp từ trái tim, chương 01](https://nhavantuonglai.com/article/hoi-dap-tu-trai-tim-chuong-01) tại đây.
+Đọc [Hỏi đáp từ trái tim, chương 01](/article/hoi-dap-tu-trai-tim-chuong-01) tại đây.
 
-Đọc [Hỏi đáp từ trái tim, chương 02](https://nhavantuonglai.com/article/hoi-dap-tu-trai-tim-chuong-02) tại đây.
+Đọc [Hỏi đáp từ trái tim, chương 02](/article/hoi-dap-tu-trai-tim-chuong-02) tại đây.
 
-Đọc [Hỏi đáp từ trái tim, chương 03](https://nhavantuonglai.com/article/hoi-dap-tu-trai-tim-chuong-03) tại đây.
+Đọc [Hỏi đáp từ trái tim, chương 03](/article/hoi-dap-tu-trai-tim-chuong-03) tại đây.
 
-Đọc [Hỏi đáp từ trái tim, chương 04](https://nhavantuonglai.com/article/hoi-dap-tu-trai-tim-chuong-04) tại đây.
+Đọc [Hỏi đáp từ trái tim, chương 04](/article/hoi-dap-tu-trai-tim-chuong-04) tại đây.
 
-Đọc [Hỏi đáp từ trái tim, chương 05](https://nhavantuonglai.com/article/hoi-dap-tu-trai-tim-chuong-05) tại đây.
+Đọc [Hỏi đáp từ trái tim, chương 05](/article/hoi-dap-tu-trai-tim-chuong-05) tại đây.
 
-Đọc [Hỏi đáp từ trái tim, chương 06](https://nhavantuonglai.com/article/hoi-dap-tu-trai-tim-chuong-06) tại đây.
+Đọc [Hỏi đáp từ trái tim, chương 06](/article/hoi-dap-tu-trai-tim-chuong-06) tại đây.
 
 Đọc [Hỏi đáp từ trái tim, toàn tập](https://banmaixanh.vercel.app/ebook/hoi-dap-tu-trai-tim.pdf) tại đây.
 

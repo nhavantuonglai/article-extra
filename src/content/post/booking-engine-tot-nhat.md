@@ -19,7 +19,7 @@ _Booking Engine tốt nhất, là đem về nhiều booking nhất. Như việc 
 
 ## Mở đầu
 
-[Booking Engine](https://nhavantuonglai.com/article), đầu tiên là giúp bạn xác định cách khách hàng tìm đến khách sạn như thế nào, tiếp theo là tiến hành thao tác đặt phòng trên website ra sao. Khi công cụ càng trực quan, dễ dùng và thân thiện với người dùng, thì việc chuyển đổi lại càng hiệu quả.
+[Booking Engine](/article), đầu tiên là giúp bạn xác định cách khách hàng tìm đến khách sạn như thế nào, tiếp theo là tiến hành thao tác đặt phòng trên website ra sao. Khi công cụ càng trực quan, dễ dùng và thân thiện với người dùng, thì việc chuyển đổi lại càng hiệu quả.
 
 Theo một nghiên cứu mới công bố gần đây, khoảng 50% khách sạn đang có chiến lược phát triển kênh bán phòng trực tuyến vào đầu năm sau, chứng tỏ xu hướng này đang nở rộ. Dù rằng, kênh OTA đang có vị trí quan trọng trong chiến lược kinh doanh của nhiều khách sạn; nhưng khách sạn cũng đừng quên về website bán phòng, hãy ưu tiên cho nó, hãy xem đó là kênh bán phòng quan trọng nhất, rồi mới đến kênh OTA.
 
@@ -53,7 +53,7 @@ Booking Engine khi tích hợp vào khách sạn, sẽ đem đến những giá 
 
 Nhà cung cấp Booking Engine phù hợp là khi có những tính năng sau:
 
-– [Tích hợp](https://nhavantuonglai.com/article)[ toàn diện](https://nhavantuonglai.com/article) về giá và phòng trống với các kênh OTA bằng Channel Manager.
+– [Tích hợp](/article)[ toàn diện](/article) về giá và phòng trống với các kênh OTA bằng Channel Manager.
 
 – Tương thích giao diện di động và mạng xã hội.
 
@@ -77,7 +77,7 @@ Nhà cung cấp Booking Engine phù hợp là khi có những tính năng sau:
 
 ### Tích hợp toàn diện về giá và phòng trống với các kênh OTA bằng Channel Manager
 
-Tránh việc khách đặt phòng nhưng phòng không có sẵn, khách sạn cần đảm bảo Booking Engine được [tích hợp vào trình quản lý kênh](https://nhavantuonglai.com/article), để kho phòng luôn được cập nhật, đồng bộ, đảm bảo sự liền mạch và hạn chế sai sót khiến khách hàng khó chịu.
+Tránh việc khách đặt phòng nhưng phòng không có sẵn, khách sạn cần đảm bảo Booking Engine được [tích hợp vào trình quản lý kênh](/article), để kho phòng luôn được cập nhật, đồng bộ, đảm bảo sự liền mạch và hạn chế sai sót khiến khách hàng khó chịu.
 
 Khi khách sạn đang có rất nhiều kênh bán phòng, thì điều này lại càng quan trọng, bởi không phải giá của tất cả các kênh lúc nào cũng đồng nhất với nhau, bởi chính sách giá của mỗi nơi là khác. Tích hợp Booking Engine vào trình quản lý kênh, vấn đề này sẽ được giải quyết: chiến lược giá được áp dụng, mức giá sẽ đồng bộ, cập nhật nhanh và liền mạch ở tất cả các kênh.
 
@@ -125,7 +125,7 @@ Dữ liệu bạn thu thập được, nên sử dụng linh hoạt, phù hợp 
 
 ### Có tính năng giúp xây dựng quan hệ với khách hàng
 
-Khách hàng càng có thiện cảm, thì càng quay trở lại nhiều trong tương lai. Một trong những giải pháp [thúc đẩy đặt phòng trực tiếp hiệu quả](https://nhavantuonglai.com/article), là tận dụng mối quan hệ cũ, là khách hàng cũ, hoặc khách hàng thân thiết. Thông qua Booking Engine, khách sạn có thể gửi email duy trì liên lạc để tăng cường kết nối.
+Khách hàng càng có thiện cảm, thì càng quay trở lại nhiều trong tương lai. Một trong những giải pháp [thúc đẩy đặt phòng trực tiếp hiệu quả](/article), là tận dụng mối quan hệ cũ, là khách hàng cũ, hoặc khách hàng thân thiết. Thông qua Booking Engine, khách sạn có thể gửi email duy trì liên lạc để tăng cường kết nối.
 
 Ví dụ, khách sạn có thể gửi email chứa thông tin về tình trạng đặt phòng, thời gian lưu trú và những lưu ý quan trọng khách hàng cần nắm trước khi họ đến. Tương tự như vậy, là với những email sau khi họ rời đi, kèm lời mời hoặc khuyến mãi để thu hút cho lần sau.
 
@@ -163,7 +163,7 @@ Một nhà cung cấp công cụ có kinh nghiệm sẽ hướng dẫn, tinh ch�
 
 ### Vậy, website của bạn thì sao?
 
-Có Booking Engine được xây dựng hoàn hảo, tương thích trên thiết bị di động, đáp ứng mọi nhu cầu cần của khách sạn, nhưng nếu website không tốt, sẽ không thể giúp khách sạn tiến xa được. Giống như việc bạn bán chiếc xe cũ, bên trong thay động cơ mà bên ngoài vẫn cũ nát không thay đổi, nó sẽ không hấp dẫn và không tạo ra hành trình liền mạch. Website khách sạn, về bản chất là mặt tiền trực tuyến. Nên nó cần phải hấp dẫn, đơn giản, rõ ràng, và mang tính đặc trưng, đại diện cho khách sạn của bạn. Tham khảo [giải pháp website](https://nhavantuonglai.com/article) từ nhà cung cấp, để hoàn thiện website của khách sạn ngay.
+Có Booking Engine được xây dựng hoàn hảo, tương thích trên thiết bị di động, đáp ứng mọi nhu cầu cần của khách sạn, nhưng nếu website không tốt, sẽ không thể giúp khách sạn tiến xa được. Giống như việc bạn bán chiếc xe cũ, bên trong thay động cơ mà bên ngoài vẫn cũ nát không thay đổi, nó sẽ không hấp dẫn và không tạo ra hành trình liền mạch. Website khách sạn, về bản chất là mặt tiền trực tuyến. Nên nó cần phải hấp dẫn, đơn giản, rõ ràng, và mang tính đặc trưng, đại diện cho khách sạn của bạn. Tham khảo [giải pháp website](/article) từ nhà cung cấp, để hoàn thiện website của khách sạn ngay.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-049.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
@@ -171,7 +171,7 @@ Có Booking Engine được xây dựng hoàn hảo, tương thích trên thiế
 
 Booking Engine được tạo ra với mục đích cao nhất là chuyển đổi người đọc thành khách hàng.
 
-Thực hiện chính xác mục tiêu đó, [tối ưu tỷ lệ chuyển đổi](https://nhavantuonglai.com/article) sẽ giúp khách sạn kiếm được nhiều tiền hơn. Doanh thu có được, cho phép khách sạn phát triển thương hiệu của mình và tiếp cận được nhiều khách hàng tiềm năng hơn; nhưng vẫn giữ được bản chất của khách sạn và ADR (Average Daily Rate – Mức giá trung bình mỗi phòng bán trong 1 ngày) cao.
+Thực hiện chính xác mục tiêu đó, [tối ưu tỷ lệ chuyển đổi](/article) sẽ giúp khách sạn kiếm được nhiều tiền hơn. Doanh thu có được, cho phép khách sạn phát triển thương hiệu của mình và tiếp cận được nhiều khách hàng tiềm năng hơn; nhưng vẫn giữ được bản chất của khách sạn và ADR (Average Daily Rate – Mức giá trung bình mỗi phòng bán trong 1 ngày) cao.
 
 Hãy coi CRO (Conversion Rate Optimization – Tối ưu tỷ lệ chuyển đổi) là công cụ đem đến thành công cho khách sạn, nên nó phải luôn được đánh giá để tinh chỉnh cho phù hợp. Đó là cách tiếp cận phù hợp cho khách sạn khi sử dụng Booking Engine. Điều quan trọng hơn nữa, là Booking Engine luôn phải cải tiến và tối ưu cho từng địa điểm, làm rõ lý do vì sao người ta không đặt phòng tại khách sạn của bạn.
 

@@ -109,17 +109,17 @@ Tại sao sự áp dụng những tư tưởng chính niệm trong mọi cử đ
 
 Trong khi người hành giả tập thắp sáng hiện hữu của mình như thế thì vị thiền sư im lặng quan sát y. Người hành giả có thể có cảm tưởng là mình không được chú ý, nhưng thực ra, mọi cử chỉ, mọi lời nói của y đều không lọt ra khỏi cặp mắt quan sát của vị thiền sư. Người hành giả có an trú trong chánh niệm hay không, điều đó vị thiền sư phải biết. Ví dụ y vô ý đóng cánh cửa sầm một cái, điều đó chứng tỏ y không chủ động được cử chỉ của mình. Thường thường vị thiền sư gọi y lại, và dặn y đóng cửa cho nhẹ nhàng. Ðó không phải là chỉ để tôn trọng sự im lặng trong tu viện; đó còn là một sự cảnh cáo: y đã không nhiếp tâm vào chánh niệm trong lúc đóng cửa, và như thế là thiếu _uy nghi_ và _tế hạnh._ Sách nói có tới ba nghìn uy nghi và tám vạn tế hạnh mà người hành giả cần phải giữ gìn. Uy nghi và tế hạnh là những phong thái và động tác phù hợp với Thiền. Lời nói, động tác và tư tưởng phù hợp với tác phong thiền thì được gọi là có thiền vị. Khi một người hành giả bị quở là làm và nói những điều không có thiền vị, tức là người hành giả ấy không nhiếp tâm được trong chánh niệm. Có thiền vị tức là có tỉnh thức. Mỗi người hãy tự đánh thức mình dậy trong cuộc sống. Ðó là Thiền.
 
-Đọc [Nẻo vào thiền học, chương 01](https://nhavantuonglai.com/article/neo-vao-thien-hoc-chuong-01) tại đây.
+Đọc [Nẻo vào thiền học, chương 01](/article/neo-vao-thien-hoc-chuong-01) tại đây.
 
-Đọc [Nẻo vào thiền học, chương 02](https://nhavantuonglai.com/article/neo-vao-thien-hoc-chuong-02) tại đây.
+Đọc [Nẻo vào thiền học, chương 02](/article/neo-vao-thien-hoc-chuong-02) tại đây.
 
-Đọc [Nẻo vào thiền học, chương 03](https://nhavantuonglai.com/article/neo-vao-thien-hoc-chuong-03) tại đây.
+Đọc [Nẻo vào thiền học, chương 03](/article/neo-vao-thien-hoc-chuong-03) tại đây.
 
-Đọc [Nẻo vào thiền học, chương 04](https://nhavantuonglai.com/article/neo-vao-thien-hoc-chuong-04) tại đây.
+Đọc [Nẻo vào thiền học, chương 04](/article/neo-vao-thien-hoc-chuong-04) tại đây.
 
-Đọc [Nẻo vào thiền học, chương 05](https://nhavantuonglai.com/article/neo-vao-thien-hoc-chuong-05) tại đây.
+Đọc [Nẻo vào thiền học, chương 05](/article/neo-vao-thien-hoc-chuong-05) tại đây.
 
-Đọc [Nẻo vào thiền học, chương 06](https://nhavantuonglai.com/article/neo-vao-thien-hoc-chuong-06) tại đây.
+Đọc [Nẻo vào thiền học, chương 06](/article/neo-vao-thien-hoc-chuong-06) tại đây.
 
 Đọc [Nẻo vào thiền học, toàn tập](https://banmaixanh.vercel.app/ebook/neo-vao-thien-hoc.pdf) tại đây.
 

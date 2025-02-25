@@ -157,15 +157,15 @@ Nhất tâm kính lễ Đức Tỳ Lô Giá Na Như Lai, đức Bụt Vô Lượ
 
 Nhất tâm kính lễ Đức Bồ tát Thanh Lương Đại Địa, Mẹ của muôn loài luôn luôn chở che, nuôi dưỡng và trị liệu.
 
-Đọc [Tâm tình với đất mẹ, chương 01](https://nhavantuonglai.com/article/tam-tinh-voi-dat-me-chuong-01) tại đây.
+Đọc [Tâm tình với đất mẹ, chương 01](/article/tam-tinh-voi-dat-me-chuong-01) tại đây.
 
-Đọc [Tâm tình với đất mẹ, chương 02](https://nhavantuonglai.com/article/tam-tinh-voi-dat-me-chuong-02) tại đây.
+Đọc [Tâm tình với đất mẹ, chương 02](/article/tam-tinh-voi-dat-me-chuong-02) tại đây.
 
-Đọc [Tâm tình với đất mẹ, chương 03](https://nhavantuonglai.com/article/tam-tinh-voi-dat-me-chuong-03) tại đây.
+Đọc [Tâm tình với đất mẹ, chương 03](/article/tam-tinh-voi-dat-me-chuong-03) tại đây.
 
-Đọc [Tâm tình với đất mẹ, chương 04](https://nhavantuonglai.com/article/tam-tinh-voi-dat-me-chuong-04) tại đây.
+Đọc [Tâm tình với đất mẹ, chương 04](/article/tam-tinh-voi-dat-me-chuong-04) tại đây.
 
-Đọc [Tâm tình với đất mẹ, chương 05](https://nhavantuonglai.com/article/tam-tinh-voi-dat-me-chuong-05) tại đây.
+Đọc [Tâm tình với đất mẹ, chương 05](/article/tam-tinh-voi-dat-me-chuong-05) tại đây.
 
 Đọc [Tâm tình với đất mẹ, toàn tập](https://banmaixanh.vercel.app/ebook/tam-tinh-voi-dat-me.pdf) tại đây.
 

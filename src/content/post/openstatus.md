@@ -46,7 +46,7 @@ Nhiều công ty công nghệ lớn trên thế giới đã và đang sử dụn
 
 – Theo dõi ứng dụng website: Các công ty phát triển ứng dụng website sử dụng Openstatus để theo dõi hiệu suất và tính sẵn sàng của các ứng dụng, giúp phát hiện và khắc phục sớm các vấn đề liên quan đến hiệu suất.
 
-– Quản lý dịch vụ nội bộ: Các tổ chức lớn với nhiều dịch vụ nội bộ cũng sử dụng [Openstatus](https://nhavantuonglai.com/article/openstatus) để giám sát và quản lý các dịch vụ này, từ các hệ thống email, server nội bộ đến các ứng dụng dùng chung.
+– Quản lý dịch vụ nội bộ: Các tổ chức lớn với nhiều dịch vụ nội bộ cũng sử dụng [Openstatus](/article/openstatus) để giám sát và quản lý các dịch vụ này, từ các hệ thống email, server nội bộ đến các ứng dụng dùng chung.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/website-openstatus-02.jpg" alt="Tìm hiểu về Openstatus và cách để cài lên website." title="Tìm hiểu về Openstatus và cách để cài lên website." height=100% width=100%><figcaption><p>Tìm hiểu về Openstatus và cách để cài lên website.</p></figcaption></figure>
 

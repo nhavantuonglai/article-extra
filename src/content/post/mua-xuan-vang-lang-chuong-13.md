@@ -117,37 +117,37 @@ Theo kiến thức ngày nay, sự xuất hiện thêm một nhiễm sắc thể
 
 Đây là một lĩnh vực nghiên cứu mới mà các nhà khoa học quan tâm việc nhận dạng những bất thường của nhiễm sắc thể cùng với căn bệnh và sự phát triển không đầy đủ hơn là việc nghiên cứu nguyên nhân. Thật ngốc nghếch nếu cho rằng một tác nhân bất kỳ chịu trách nhiệm làm tổn thương nhiễm sắc thể hoặc gây ra tình trạng bất thường của chúng trong suốt quá trình phân bào. Nhưng chúng ta có thể lờ đi sự thật rằng chúng ta đang làm cho môi trường đầy những hóa chất có thể xâm nhập và ảnh hưởng trực tiếp nhiễm sắc thể gây ra những bệnh này hay không? Đó có phải là một cái giá không quá đắt để trả cho một củ khoai không có mầm hoặc một cái sân không có muỗi hay không?Nếu muốn, chúng ta có thể làm giảm mối đe dọa này đối với di sản di truyền của chúng ta, một tài sản đã đến với ta qua khoảng hai tỷ năm tiến hóa và lựa chọn các chất nguyên sinh, một tài sản chỉ thuộc về chúng ta ở thời điểm hiện tại cho đến khi phải truyền sang thế hệ sau. Chúng ta đã không làm nhiều điều để giữ gìn tính nguyên vẹn của chúng. Mặc dù những nhà sản xuất hóa chất được pháp luật yêu cầu phải kiểm tra độ độc hại của nguyên liệu nhưng không cần phải thực hiện kiểm tra chứng minh sự ảnh hưởng đến di truyền, và họ cũng không làm như thế.
 
-Đọc [Mùa xuân vắng lặng, chương 01](https://nhavantuonglai.com/article/mua-xuan-vang-lang-chuong-01) tại đây.
+Đọc [Mùa xuân vắng lặng, chương 01](/article/mua-xuan-vang-lang-chuong-01) tại đây.
 
-Đọc [Mùa xuân vắng lặng, chương 02](https://nhavantuonglai.com/article/mua-xuan-vang-lang-chuong-02) tại đây.
+Đọc [Mùa xuân vắng lặng, chương 02](/article/mua-xuan-vang-lang-chuong-02) tại đây.
 
-Đọc [Mùa xuân vắng lặng, chương 03](https://nhavantuonglai.com/article/mua-xuan-vang-lang-chuong-03) tại đây.
+Đọc [Mùa xuân vắng lặng, chương 03](/article/mua-xuan-vang-lang-chuong-03) tại đây.
 
-Đọc [Mùa xuân vắng lặng, chương 04](https://nhavantuonglai.com/article/mua-xuan-vang-lang-chuong-04) tại đây.
+Đọc [Mùa xuân vắng lặng, chương 04](/article/mua-xuan-vang-lang-chuong-04) tại đây.
 
-Đọc [Mùa xuân vắng lặng, chương 05](https://nhavantuonglai.com/article/mua-xuan-vang-lang-chuong-05) tại đây.
+Đọc [Mùa xuân vắng lặng, chương 05](/article/mua-xuan-vang-lang-chuong-05) tại đây.
 
-Đọc [Mùa xuân vắng lặng, chương 06](https://nhavantuonglai.com/article/mua-xuan-vang-lang-chuong-06) tại đây.
+Đọc [Mùa xuân vắng lặng, chương 06](/article/mua-xuan-vang-lang-chuong-06) tại đây.
 
-Đọc [Mùa xuân vắng lặng, chương 07](https://nhavantuonglai.com/article/mua-xuan-vang-lang-chuong-07) tại đây.
+Đọc [Mùa xuân vắng lặng, chương 07](/article/mua-xuan-vang-lang-chuong-07) tại đây.
 
-Đọc [Mùa xuân vắng lặng, chương 09](https://nhavantuonglai.com/article/mua-xuan-vang-lang-chuong-09) tại đây.
+Đọc [Mùa xuân vắng lặng, chương 09](/article/mua-xuan-vang-lang-chuong-09) tại đây.
 
-Đọc [Mùa xuân vắng lặng, chương 10](https://nhavantuonglai.com/article/mua-xuan-vang-lang-chuong-10) tại đây.
+Đọc [Mùa xuân vắng lặng, chương 10](/article/mua-xuan-vang-lang-chuong-10) tại đây.
 
-Đọc [Mùa xuân vắng lặng, chương 11](https://nhavantuonglai.com/article/mua-xuan-vang-lang-chuong-11) tại đây.
+Đọc [Mùa xuân vắng lặng, chương 11](/article/mua-xuan-vang-lang-chuong-11) tại đây.
 
-Đọc [Mùa xuân vắng lặng, chương 12](https://nhavantuonglai.com/article/mua-xuan-vang-lang-chuong-12) tại đây.
+Đọc [Mùa xuân vắng lặng, chương 12](/article/mua-xuan-vang-lang-chuong-12) tại đây.
 
-Đọc [Mùa xuân vắng lặng, chương 13](https://nhavantuonglai.com/article/mua-xuan-vang-lang-chuong-13) tại đây.
+Đọc [Mùa xuân vắng lặng, chương 13](/article/mua-xuan-vang-lang-chuong-13) tại đây.
 
-Đọc [Mùa xuân vắng lặng, chương 14](https://nhavantuonglai.com/article/mua-xuan-vang-lang-chuong-14) tại đây.
+Đọc [Mùa xuân vắng lặng, chương 14](/article/mua-xuan-vang-lang-chuong-14) tại đây.
 
-Đọc [Mùa xuân vắng lặng, chương 15](https://nhavantuonglai.com/article/mua-xuan-vang-lang-chuong-15) tại đây.
+Đọc [Mùa xuân vắng lặng, chương 15](/article/mua-xuan-vang-lang-chuong-15) tại đây.
 
-Đọc [Mùa xuân vắng lặng, chương 16](https://nhavantuonglai.com/article/mua-xuan-vang-lang-chuong-16) tại đây.
+Đọc [Mùa xuân vắng lặng, chương 16](/article/mua-xuan-vang-lang-chuong-16) tại đây.
 
-Đọc [Mùa xuân vắng lặng, chương 17](https://nhavantuonglai.com/article/mua-xuan-vang-lang-chuong-17) tại đây.
+Đọc [Mùa xuân vắng lặng, chương 17](/article/mua-xuan-vang-lang-chuong-17) tại đây.
 
 Đọc [Mùa xuân vắng lặng, toàn tập](https://banmaixanh.vercel.app/ebook/mua-xuan-vang-lang.pdf) tại đây.
 

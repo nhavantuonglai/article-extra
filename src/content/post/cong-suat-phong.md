@@ -21,13 +21,13 @@ _Công suất phòng là thước đo, tiêu chuẩn để đánh giá tình tr�
 
 Theo Revfine, thì công suất phòng, hay công suất buồng là số liệu so sánh kết quả số buông phòng bán thành công và số buồng phòng hiện có của khách sạn, khách sạn. Công suất phòng có thể tính theo từng ngày, hoặc theo từng thời kỳ, giai đoạn nhất định.
 
-Chỉ số này đóng vai trò quan trọng trong việc đánh giá hiện trạng [hoạt động của homestay](https://nhavantuonglai.com/article) và khách sạn, khách sạn đang diễn ra như thế nào, bán được bao nhiêu phòng trên tổng số phòng hiện có. Từ chỉ số công suất phòng này, người quản lý sẽ có những biện pháp, chính sách về giá phòng hoặc dịch vụ đi kèm, nhằm kích thích hoặc thu hút việc bán phòng.
+Chỉ số này đóng vai trò quan trọng trong việc đánh giá hiện trạng [hoạt động của homestay](/article) và khách sạn, khách sạn đang diễn ra như thế nào, bán được bao nhiêu phòng trên tổng số phòng hiện có. Từ chỉ số công suất phòng này, người quản lý sẽ có những biện pháp, chính sách về giá phòng hoặc dịch vụ đi kèm, nhằm kích thích hoặc thu hút việc bán phòng.
 
 Nhiều quản lý chỉ quan tâm đến doanh thu, lợi nhuận, lượng khách đặt phòng nhưng không tính toán đến công suất phòng trong quá trình đánh giá hiệu quả kinh doanh. Điều này dễ dẫn đến những sai lầm, ảo tưởng hoặc nhận định sai lệch không đáng có. Công suất phòng có ý nghĩa rõ ràng trong việc nhận định nguồn lực hiện có (số lượng phòng) có được sử dụng hết hay không, và có thường xuyên quá tải hay không.
 
 Không sử dụng hết phòng, tiềm ẩn rủi ro về hao hụt tài nguyên, bởi khách sạn vẫn sẽ phải tốn một khoản chi phí nhất định để duy trì hiện trạng của phòng ngay khi không có khách đến ở. Nếu điều này duy trì đủ lâu, trên một số lượng phòng đủ lớn, thì những chỉ số như doanh thu, khách đặt phòng cao cũng không thể nào bù lắp, và đem lại lợi nhuận như mong muốn.
 
-Thường xuyên quá tải, sẽ dễ dẫn đến tình trạng [overbooking](https://nhavantuonglai.com/article), đây được xem là vấn đề nghiêm trọng, ảnh hưởng lớn đến uy tín và doanh thu của khách sạn. Bởi nó không chỉ là vấn đề về cách vận hành, mà còn là trải nghiệm của khách hàng, bởi nếu họ cảm thấy không thoải mái với việc đặt phòng và đến ở, thì sẽ không có chuyện quay trở lại.
+Thường xuyên quá tải, sẽ dễ dẫn đến tình trạng [overbooking](/article), đây được xem là vấn đề nghiêm trọng, ảnh hưởng lớn đến uy tín và doanh thu của khách sạn. Bởi nó không chỉ là vấn đề về cách vận hành, mà còn là trải nghiệm của khách hàng, bởi nếu họ cảm thấy không thoải mái với việc đặt phòng và đến ở, thì sẽ không có chuyện quay trở lại.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-073.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
@@ -41,7 +41,7 @@ Công thức tính công suất phòng chuẩn là như sau:
 
 Trong đó:
 
-– Số phòng bán được trong ngày, trong kỳ do Bộ phận Tiếp tân, [Sale kênh OTA](https://nhavantuonglai.com/article/ OTA-va-tam-voi-homestay) thống kê.
+– Số phòng bán được trong ngày, trong kỳ do Bộ phận Tiếp tân, [Sale kênh OTA](/article/ OTA-va-tam-voi-homestay) thống kê.
 
 – Số phòng đáp ứng trong ngày, trong kỳ là tất cả những phòng đang sẵn sàng cho khách ở. Số này bao gồm cả những phòng đang được bán; và không bao gồm phòng đang hỏng, bảo dưỡng hay không dùng cho mục đích kinh doanh.
 
@@ -79,11 +79,11 @@ Thoạt nhìn, chúng ta sẽ thấy tình huống thứ hai thì công suất p
 
 Bạn đang tìm hiểu về công suất phòng? Đừng bỏ lỡ chuỗi bài liên quan của giải pháp tại đây:
 
-– [Các yếu tố ảnh hưởng đến công suất phòng của khách sạn](https://nhavantuonglai.com/article)
+– [Các yếu tố ảnh hưởng đến công suất phòng của khách sạn](/article)
 
-– [Làm thế nào để cải thiện doanh thu khi công suất phòng thấp](https://nhavantuonglai.com/article).
+– [Làm thế nào để cải thiện doanh thu khi công suất phòng thấp](/article).
 
-– [Ứng dụng công nghệ để cải thiện doanh thu khi công suất phòng thấp](https://nhavantuonglai.com/article)
+– [Ứng dụng công nghệ để cải thiện doanh thu khi công suất phòng thấp](/article)
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-074.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 

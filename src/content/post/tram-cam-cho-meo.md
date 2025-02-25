@@ -20,7 +20,7 @@ Mèo có thể bị một dạng trầm cảm mèo con vì nhiều lý do. Có m
 
 Chó mèo có thể bị trầm cảm. Những người bạn lông lá của chúng ta trải qua những cảm xúc mạnh mẽ giống như chúng ta, bao gồm cả nỗi buồn. Tìm hiểu các dấu hiệu trầm cảm của chó mèo và cách điều trị chúng.
 
-Chó mèo bị [trầm cảm](https://nhavantuonglai.com/article) và thường thể hiện tình trạng đó thông qua các hành vi thể chất và tinh thần giống như các triệu chứng trầm cảm của con người. Các sự kiện lớn trong cuộc sống – bao gồm lo lắng, mất một thành viên trong gia đình, thay đổi lịch trình với chủ sở hữu chó mèo và thậm chí cả các tình trạng y tế tiềm ẩn – có thể gây ra trầm cảm ở chó mèo.
+Chó mèo bị [trầm cảm](/article) và thường thể hiện tình trạng đó thông qua các hành vi thể chất và tinh thần giống như các triệu chứng trầm cảm của con người. Các sự kiện lớn trong cuộc sống – bao gồm lo lắng, mất một thành viên trong gia đình, thay đổi lịch trình với chủ sở hữu chó mèo và thậm chí cả các tình trạng y tế tiềm ẩn – có thể gây ra trầm cảm ở chó mèo.
 
 Chủ vật nuôi nên học cách nhận ra các triệu chứng trầm cảm của chó mèo và tự định hướng bằng các cách để giúp trạng thái cảm xúc của người bạn lông xù của chúng.
 

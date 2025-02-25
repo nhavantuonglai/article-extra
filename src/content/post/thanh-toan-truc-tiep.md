@@ -21,7 +21,7 @@ _Trước đây, mọi giao dịch trong khách sạn đều sử dụng tiền 
 
 Còn hiện nay, xu hướng giao dịch trực tuyến lên ngôi, mọi giao dịch đều có thể thực hiện không chạm, không tiếp xúc. Đơn giản thì có mã QR để quét. lấy thông tin chuyển khoản; hiện đại hơn là máy quẹt thẻ, thanh toán một chạm; hoặc sử dụng kênh thanh toán trung gian, thông qua các kênh bán phòng để hoàn tất giao dịch.
 
-[Thanh toán trực tiếp](https://nhavantuonglai.com/article/thanh-toan-truc-tiep) giúp khách sạn lẫn du khách diễn ra nhanh chóng, an toàn và tiện lợi; giúp du khách tiết kiệm được nhiều thời gian và nâng tầm trải nghiệm; cũng như giúp khách sạn quản lý và nắm nguồn tiền nhanh chóng, đơn giản hơn rất nhiều.
+[Thanh toán trực tiếp](/article/thanh-toan-truc-tiep) giúp khách sạn lẫn du khách diễn ra nhanh chóng, an toàn và tiện lợi; giúp du khách tiết kiệm được nhiều thời gian và nâng tầm trải nghiệm; cũng như giúp khách sạn quản lý và nắm nguồn tiền nhanh chóng, đơn giản hơn rất nhiều.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-063.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 

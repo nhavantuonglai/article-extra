@@ -117,21 +117,21 @@ Trong lúc ngồi thiền, mọi người đều ngồi quay mặt vào tường
 
 Ngoài ra còn có vị tuần hương với cây trượng giám hương của vị này. Trong giờ thiền tọa, tuần hương có bổn phận chăm sóc đại chúng và bảo vệ sự thanh tịnh của giờ thiền tọa. Vị này có thể _đứng_ hay _ngồi_ trong góc thiền đường, cây trượng giám hương nâng thẳng trước ngực hoặc để trước mặt. Nếu có thiền giả nào ngồi không nghiêm chỉnh hoặc đang ngủ gục, vị tuần hương sẽ nhè nhẹ đi từng bước một tới bên người này và giúp người này ngồi lại cho chỉnh đốn và tỉnh táo. Người tuần hương làm việc rất im lặng và không dùng cây trượng giám hương để gây nên tiếng động làm động niệm đại chúng như ở các truyền thống khác.
 
-Đọc [An trú trong hiện tại, chương 01](https://nhavantuonglai.com/article/an-tru-trong-hien-tai-chuong-01) tại đây.
+Đọc [An trú trong hiện tại, chương 01](/article/an-tru-trong-hien-tai-chuong-01) tại đây.
 
-Đọc [An trú trong hiện tại, chương 02](https://nhavantuonglai.com/article/an-tru-trong-hien-tai-chuong-02) tại đây.
+Đọc [An trú trong hiện tại, chương 02](/article/an-tru-trong-hien-tai-chuong-02) tại đây.
 
-Đọc [An trú trong hiện tại, chương 03](https://nhavantuonglai.com/article/an-tru-trong-hien-tai-chuong-03) tại đây.
+Đọc [An trú trong hiện tại, chương 03](/article/an-tru-trong-hien-tai-chuong-03) tại đây.
 
-Đọc [An trú trong hiện tại, chương 04](https://nhavantuonglai.com/article/an-tru-trong-hien-tai-chuong-04) tại đây.
+Đọc [An trú trong hiện tại, chương 04](/article/an-tru-trong-hien-tai-chuong-04) tại đây.
 
-Đọc [An trú trong hiện tại, chương 05](https://nhavantuonglai.com/article/an-tru-trong-hien-tai-chuong-05) tại đây.
+Đọc [An trú trong hiện tại, chương 05](/article/an-tru-trong-hien-tai-chuong-05) tại đây.
 
-Đọc [An trú trong hiện tại, chương 06](https://nhavantuonglai.com/article/an-tru-trong-hien-tai-chuong-06) tại đây.
+Đọc [An trú trong hiện tại, chương 06](/article/an-tru-trong-hien-tai-chuong-06) tại đây.
 
-Đọc [An trú trong hiện tại, chương 07](https://nhavantuonglai.com/article/an-tru-trong-hien-tai-chuong-08) tại đây.
+Đọc [An trú trong hiện tại, chương 07](/article/an-tru-trong-hien-tai-chuong-08) tại đây.
 
-Đọc [An trú trong hiện tại, chương 08](https://nhavantuonglai.com/article/an-tru-trong-hien-tai-chuong-08) tại đây.
+Đọc [An trú trong hiện tại, chương 08](/article/an-tru-trong-hien-tai-chuong-08) tại đây.
 
 Đọc [An trú trong hiện tại, toàn tập](https://banmaixanh.vercel.app/ebook/an-tru-trong-hien-tai.pdf) tại đây.
 

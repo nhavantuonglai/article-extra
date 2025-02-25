@@ -163,15 +163,15 @@ Sở dĩ thực tại biến hình trước sự quan sát của ta là bởi ta
 
 Tự những ngày xa xưa, nhà đạo học đã được nhắc nhở mãi mãi là phải gạt bỏ mọi ý niệm để có thể đi vào thể nghiệm thực tại, từ ý niệm ta và người cho đến các ý niệm như sinh và diệt, thường và đoạn, có và không…Thực tại được mô tả là vô niệm thì công cụ thể nghiệm cũng phải là vô tâm niệm.
 
-Đọc [Trái tim mặt trời, chương 01](https://nhavantuonglai.com/article/trai-tim-mat-troi-chuong-01) tại đây.
+Đọc [Trái tim mặt trời, chương 01](/article/trai-tim-mat-troi-chuong-01) tại đây.
 
-Đọc [Trái tim mặt trời, chương 02](https://nhavantuonglai.com/article/trai-tim-mat-troi-chuong-02) tại đây.
+Đọc [Trái tim mặt trời, chương 02](/article/trai-tim-mat-troi-chuong-02) tại đây.
 
-Đọc [Trái tim mặt trời, chương 03](https://nhavantuonglai.com/article/trai-tim-mat-troi-chuong-03) tại đây.
+Đọc [Trái tim mặt trời, chương 03](/article/trai-tim-mat-troi-chuong-03) tại đây.
 
-Đọc [Trái tim mặt trời, chương 04](https://nhavantuonglai.com/article/trai-tim-mat-troi-chuong-04) tại đây.
+Đọc [Trái tim mặt trời, chương 04](/article/trai-tim-mat-troi-chuong-04) tại đây.
 
-Đọc [Trái tim mặt trời, chương 05](https://nhavantuonglai.com/article/trai-tim-mat-troi-chuong-05) tại đây.
+Đọc [Trái tim mặt trời, chương 05](/article/trai-tim-mat-troi-chuong-05) tại đây.
 
 Đọc [Trái tim mặt trời, toàn tập](https://banmaixanh.vercel.app/ebook/trai-tim-mat-troi.pdf) tại đây.
 

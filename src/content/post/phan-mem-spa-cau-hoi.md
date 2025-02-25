@@ -67,13 +67,13 @@ Dù rằng phần mềm được cung cấp là khá hiện đại và linh ho�
 
 _Tìm hiểu thêm:_
 
-– [Mở tiệm Spa nhỏ cần bao nhiêu tiền?](https://nhavantuonglai.com/article)
+– [Mở tiệm Spa nhỏ cần bao nhiêu tiền?](/article)
 
-– [Tại sao nên quản lý spa bằng phần mềm](https://nhavantuonglai.com/article)
+– [Tại sao nên quản lý spa bằng phần mềm](/article)
 
-– [Phần mềm quản lý Spa là gì? Làm thế nào để chọn phần mềm phù hợp cho cơ sở kinh doanh của bạn?](https://nhavantuonglai.com/article)
+– [Phần mềm quản lý Spa là gì? Làm thế nào để chọn phần mềm phù hợp cho cơ sở kinh doanh của bạn?](/article)
 
-– [Tại sao phần mềm quản lý Spa lại cần thiết?](https://nhavantuonglai.com/article)
+– [Tại sao phần mềm quản lý Spa lại cần thiết?](/article)
 
 ## Cái nào tốt hơn: Phần mềm quản lý công việc Spa trực tuyến (online cloud) hay ngoại tuyến (cài đặt offline)?
 

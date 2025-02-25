@@ -41,7 +41,7 @@ Một câu trả lời thống nhất khác từ các chủ khách sạn là b�
 
 Một chủ khách sạn cho biết: _Quan điểm cá nhân của tôi là; không bao giờ bỏ lỡ cơ hội tương tác với những vị khách đã dành thời gian để đưa ra đánh giá. Sử dụng khả năng phán đoán của bạn để tương tác trong suốt hành trình của khách với sản phẩm hoặc dịch vụ của bạn._ Điều quan trọng nhất là bạn phải dành thời gian để ghi nhận đánh giá và khách hàng đằng sau đánh giá đó. Không chỉ vì lợi ích của vị khách đó mà còn vì danh tiếng của khách sạn đối với những người đọc đánh giá.
 
-Các nghiên cứu cho thấy: Việc cung cấp [phản hồi trực tuyến](https://nhavantuonglai.com/article) (so với không có phản hồi) đã nâng cao suy luận mà người tiêu dùng tiềm năng rút ra về độ tin cậy của giải pháp và mức độ quan tâm đến khách hàng của giải pháp.
+Các nghiên cứu cho thấy: Việc cung cấp [phản hồi trực tuyến](/article) (so với không có phản hồi) đã nâng cao suy luận mà người tiêu dùng tiềm năng rút ra về độ tin cậy của giải pháp và mức độ quan tâm đến khách hàng của giải pháp.
 
 Các chủ khách sạn nên _giải quyết vấn đề với người đánh giá, nhưng hãy nhớ rằng bạn đang quảng bá khách sạn của mình, ngay cả với những đánh giá tiêu cực, ra toàn thế giới. Những người sẽ truy cập đang đọc phản hồi của bạn và có thể đưa ra đánh giá về việc tiếp tục phụ thuộc vào những gì đã được viết._
 
@@ -49,7 +49,7 @@ Theo một General Manager, quan điểm đơn giản, _Tôi phản hồi tất 
 
 _Điều quan trọng là phải trả lời. Đó là phép lịch sự._ và _Khách đã dành thời gian để viết về trải nghiệm của họ và họ nên được cảm ơn. Cuối cùng, nó thay thế lời truyền miệng và họ đang thay mặt bạn tiếp thị. Một lần nữa, phản hồi đánh giá cũng quan trọng như bản thân đánh giá._
 
-Đây nên được coi là một trong những hoạt động [Marketing khách sạn](https://nhavantuonglai.com/article) quan trọng nhất của bạn cho dù bạn điều hành một cơ sở nhỏ, vừa hay lớn. Khách hàng mong đợi đánh giá của họ được xem xét và xử lý một cách tích cực, kịp thời. Điều này chắc chắn sẽ tăng cường giữ chân khách hàng và niềm vui.
+Đây nên được coi là một trong những hoạt động [Marketing khách sạn](/article) quan trọng nhất của bạn cho dù bạn điều hành một cơ sở nhỏ, vừa hay lớn. Khách hàng mong đợi đánh giá của họ được xem xét và xử lý một cách tích cực, kịp thời. Điều này chắc chắn sẽ tăng cường giữ chân khách hàng và niềm vui.
 
 Là một trong những công ty dẫn đầu toàn cầu về lĩnh vực đánh giá trực tuyến, Tripadvisor đã phát hiện ra rằng 65% khách du lịch đồng ý rằng họ có nhiều khả năng sẽ đặt phòng tại khách sạn đã phản hồi đánh giá của khách hơn là khách sạn chưa phản hồi.
 

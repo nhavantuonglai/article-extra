@@ -117,27 +117,27 @@ Nếu ta thực tập nhìn sâu để có thể thấy được gốc rễ củ
 
 Ngay cả khi không thuộc đảng phái đương quyền, ta cũng phải thực tập. Giúp đảng cầm quyền là giúp tổ quốc. Ta phụng sự tổ quốc chứ không phải giúp đảng chính trị. Nếu bây giờ đương kim thủ tướng nước Pháp có một cơ hội để cải thiện tình trạng của thanh niên nước Pháp thì cách hay nhất để phụng sự quốc gia là đóng góp tuệ giác và sự hỗ trợ của bạn. Điều này không có nghĩa là bạn phản bội nhân dân hay đảng của bạn. Sự có mặt của một đảng chính trị là để phục vụ quốc gia chứ không phải để gây khó dễ cho một đảng khác hay đảng cầm quyền. Vậy thì, là một chính trị gia, bạn phải thực tập nhận thức bất nhị. Bạn phải ý thức rằng thương yêu, từ bi là cao cả hơn lập trường chính trị. Chính trị ở đây là chính trị có thông minh chứ không phải là chính trị phe phái. Chính trị phải có tính chất nhân đạo, mà mục đích là tạo an vui và chuyển hóa cho xã hội, chứ không phải chỉ để có quyền lực.
 
-Đọc [Giận, chương 01](https://nhavantuonglai.com/article/gian-chuong-01) tại đây.
+Đọc [Giận, chương 01](/article/gian-chuong-01) tại đây.
 
-Đọc [Giận, chương 02](https://nhavantuonglai.com/article/gian-chuong-02) tại đây.
+Đọc [Giận, chương 02](/article/gian-chuong-02) tại đây.
 
-Đọc [Giận, chương 03](https://nhavantuonglai.com/article/gian-chuong-03) tại đây.
+Đọc [Giận, chương 03](/article/gian-chuong-03) tại đây.
 
-Đọc [Giận, chương 04](https://nhavantuonglai.com/article/gian-chuong-04) tại đây.
+Đọc [Giận, chương 04](/article/gian-chuong-04) tại đây.
 
-Đọc [Giận, chương 05](https://nhavantuonglai.com/article/gian-chuong-05) tại đây.
+Đọc [Giận, chương 05](/article/gian-chuong-05) tại đây.
 
-Đọc [Giận, chương 06](https://nhavantuonglai.com/article/gian-chuong-06) tại đây.
+Đọc [Giận, chương 06](/article/gian-chuong-06) tại đây.
 
-Đọc [Giận, chương 07](https://nhavantuonglai.com/article/gian-chuong-07) tại đây.
+Đọc [Giận, chương 07](/article/gian-chuong-07) tại đây.
 
-Đọc [Giận, chương 08](https://nhavantuonglai.com/article/gian-chuong-08) tại đây.
+Đọc [Giận, chương 08](/article/gian-chuong-08) tại đây.
 
-Đọc [Giận, chương 09](https://nhavantuonglai.com/article/gian-chuong-09) tại đây.
+Đọc [Giận, chương 09](/article/gian-chuong-09) tại đây.
 
-Đọc [Giận, chương 10](https://nhavantuonglai.com/article/gian-chuong-10) tại đây.
+Đọc [Giận, chương 10](/article/gian-chuong-10) tại đây.
 
-Đọc [Giận, chương 11](https://nhavantuonglai.com/article/gian-chuong-11) tại đây.
+Đọc [Giận, chương 11](/article/gian-chuong-11) tại đây.
 
 Đọc [Giận, toàn tập](https://banmaixanh.vercel.app/ebook/gian.pdf) tại đây.
 

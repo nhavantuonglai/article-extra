@@ -213,17 +213,17 @@ Tiếng chuông huyền diệu đưa về nhất tâm.
 
 Trong khi đó ta vẫn tiếp tục thở vào, ra, thưởng thức từng hơi thở và chờ người bên kia trả lời. Khi người ấy trả lời thì chắc chắn cuộc đối thoại sẽ rất vui vẻ vì cả hai đã thực tập, đều đang bình tĩnh và mỉm cười. Đó là thiền điện thoại. Thầy có nhiều người bạn, có người là giám đốc hãng, họ rất thích thiền điện thoại. Họ cho Thầy biết rằng thực tập như thế họ cảm thấy vui hơn khi làm việc. Tại Làng Mai mỗi khi tiếng chuông điện thoại reo mọi người đều dừng lại, thực tập hơi thở chánh niệm. Cho nên tiếng chuông là một người bạn, một sáng kiến để giúp chúng ta thực tập. Khi sử dụng máy vi tính, ta có thể bị lôi cuốn và quên đi là mình đang còn sống. Cho nên ta có thể cài đặt tiếng chuông vào máy vi tính để cứ mỗi mười lăm phút máy sẽ phát ra một tiếng chuông để nhắc nhở ta trở về với mình, mỉm cười và thở trong chánh niệm trước khi tiếp tục. Nhiều người đã thực tập như thế. Tiếng chuông nhắc ta trở về để thưởng thức hơi thở là một cơ hội nghỉ xả hơi tuyệt vời.
 
-Đọc [Hỏi đáp từ trái tim, chương 01](https://nhavantuonglai.com/article/hoi-dap-tu-trai-tim-chuong-01) tại đây.
+Đọc [Hỏi đáp từ trái tim, chương 01](/article/hoi-dap-tu-trai-tim-chuong-01) tại đây.
 
-Đọc [Hỏi đáp từ trái tim, chương 02](https://nhavantuonglai.com/article/hoi-dap-tu-trai-tim-chuong-02) tại đây.
+Đọc [Hỏi đáp từ trái tim, chương 02](/article/hoi-dap-tu-trai-tim-chuong-02) tại đây.
 
-Đọc [Hỏi đáp từ trái tim, chương 03](https://nhavantuonglai.com/article/hoi-dap-tu-trai-tim-chuong-03) tại đây.
+Đọc [Hỏi đáp từ trái tim, chương 03](/article/hoi-dap-tu-trai-tim-chuong-03) tại đây.
 
-Đọc [Hỏi đáp từ trái tim, chương 04](https://nhavantuonglai.com/article/hoi-dap-tu-trai-tim-chuong-04) tại đây.
+Đọc [Hỏi đáp từ trái tim, chương 04](/article/hoi-dap-tu-trai-tim-chuong-04) tại đây.
 
-Đọc [Hỏi đáp từ trái tim, chương 05](https://nhavantuonglai.com/article/hoi-dap-tu-trai-tim-chuong-05) tại đây.
+Đọc [Hỏi đáp từ trái tim, chương 05](/article/hoi-dap-tu-trai-tim-chuong-05) tại đây.
 
-Đọc [Hỏi đáp từ trái tim, chương 06](https://nhavantuonglai.com/article/hoi-dap-tu-trai-tim-chuong-06) tại đây.
+Đọc [Hỏi đáp từ trái tim, chương 06](/article/hoi-dap-tu-trai-tim-chuong-06) tại đây.
 
 Đọc [Hỏi đáp từ trái tim, toàn tập](https://banmaixanh.vercel.app/ebook/hoi-dap-tu-trai-tim.pdf) tại đây.
 

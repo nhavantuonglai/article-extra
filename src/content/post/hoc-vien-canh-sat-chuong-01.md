@@ -66,28 +66,28 @@ Nguồn truyện được dịch từ Rocketeam – nhóm dịch thuật của k
 
 Nhằm đảm bảo tác quyền, toàn bộ ảnh truyện Gosho Aoyama | Wild police story (Học viện cảnh sát) trên [nhavantuonglai.com](https://nhavantuonglai.com) đều được giữ nguyên, không chèn logo, chỉ tối ưu kích thước để đảm bảo tốc độ tải.
 
-Đọc [Học viện cảnh sát, chương 01](https://nhavantuonglai.com/article/hoc-vien-canh-sat-chuong-01) tại đây.
+Đọc [Học viện cảnh sát, chương 01](/article/hoc-vien-canh-sat-chuong-01) tại đây.
 
-Đọc [Học viện cảnh sát, chương 02](https://nhavantuonglai.com/article/hoc-vien-canh-sat-chuong-02) tại đây.
+Đọc [Học viện cảnh sát, chương 02](/article/hoc-vien-canh-sat-chuong-02) tại đây.
 
-Đọc [Học viện cảnh sát, chương 03](https://nhavantuonglai.com/article/hoc-vien-canh-sat-chuong-03) tại đây.
+Đọc [Học viện cảnh sát, chương 03](/article/hoc-vien-canh-sat-chuong-03) tại đây.
 
-Đọc [Học viện cảnh sát, chương 04](https://nhavantuonglai.com/article/hoc-vien-canh-sat-chuong-04) tại đây.
+Đọc [Học viện cảnh sát, chương 04](/article/hoc-vien-canh-sat-chuong-04) tại đây.
 
-Đọc [Học viện cảnh sát, chương 05](https://nhavantuonglai.com/article/hoc-vien-canh-sat-chuong-05) tại đây.
+Đọc [Học viện cảnh sát, chương 05](/article/hoc-vien-canh-sat-chuong-05) tại đây.
 
-Đọc [Học viện cảnh sát, chương 06](https://nhavantuonglai.com/article/hoc-vien-canh-sat-chuong-06) tại đây.
+Đọc [Học viện cảnh sát, chương 06](/article/hoc-vien-canh-sat-chuong-06) tại đây.
 
-Đọc [Học viện cảnh sát, chương 07](https://nhavantuonglai.com/article/hoc-vien-canh-sat-chuong-07) tại đây.
+Đọc [Học viện cảnh sát, chương 07](/article/hoc-vien-canh-sat-chuong-07) tại đây.
 
-Đọc [Học viện cảnh sát, chương 08](https://nhavantuonglai.com/article/hoc-vien-canh-sat-chuong-08) tại đây.
+Đọc [Học viện cảnh sát, chương 08](/article/hoc-vien-canh-sat-chuong-08) tại đây.
 
-Đọc [Học viện cảnh sát, chương 09](https://nhavantuonglai.com/article/hoc-vien-canh-sat-chuong-09) tại đây.
+Đọc [Học viện cảnh sát, chương 09](/article/hoc-vien-canh-sat-chuong-09) tại đây.
 
-Đọc [Học viện cảnh sát, chương 10](https://nhavantuonglai.com/article/hoc-vien-canh-sat-chuong-10) tại đây.
+Đọc [Học viện cảnh sát, chương 10](/article/hoc-vien-canh-sat-chuong-10) tại đây.
 
-Đọc [Học viện cảnh sát, chương 11](https://nhavantuonglai.com/article/hoc-vien-canh-sat-chuong-11) tại đây.
+Đọc [Học viện cảnh sát, chương 11](/article/hoc-vien-canh-sat-chuong-11) tại đây.
 
-Đọc [Học viện cảnh sát, chương 12](https://nhavantuonglai.com/article/hoc-vien-canh-sat-chuong-12) tại đây.
+Đọc [Học viện cảnh sát, chương 12](/article/hoc-vien-canh-sat-chuong-12) tại đây.
 
 <figure><img src="https://banmaixanh.vercel.app/image/cover/001-281.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

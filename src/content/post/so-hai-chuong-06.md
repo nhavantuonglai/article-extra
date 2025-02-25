@@ -139,45 +139,45 @@ Nhiều người quên đi rằng họ có một cơ thể. Họ sống trong th
 
 Mời bạn dành một chút thì giờ để thưởng thức một thực tập đơn giản về hơi thở chánh niệm. _Thở vào, tôi biết là tôi đang thở vào. Thở ra, tôi biết là tôi đang thở ra._ Nếu bạn thực tập như thế với một chút chú tâm thì bạn có thể thực sự trở về với bây giờ và ở đây. Ngay giây phút mà bạn thực tập hơi thở chánh niệm, thân và tâm của bạn sẽ hợp làm một (thân tâm nhất như). Chỉ cần 10 hay 20 giây đồng hồ để đạt được phép mầu của thân tâm hợp nhất bây giờ và ở đây. Ai cũng có thể thực tập như thế, kể cả các em nhỏ. Đức Thế Tôn đã từng dạy: _Quá khứ đã qua rồi, tương lai thì chưa tới. Chỉ có một giây phút mà ta thực sự sống, đó là giây phút hiện tại._ Thiền tập với hơi thở chánh niệm là đem thân và tâm trở về với giây phút hiện tại để không lỡ hẹn với sự sống.
 
-Đọc [Sợ hãi, chương 01](https://nhavantuonglai.com/article/so-hai-chuong-01) tại đây.
+Đọc [Sợ hãi, chương 01](/article/so-hai-chuong-01) tại đây.
 
-Đọc [Sợ hãi, chương 02](https://nhavantuonglai.com/article/so-hai-chuong-02) tại đây.
+Đọc [Sợ hãi, chương 02](/article/so-hai-chuong-02) tại đây.
 
-Đọc [Sợ hãi, chương 03](https://nhavantuonglai.com/article/so-hai-chuong-03) tại đây.
+Đọc [Sợ hãi, chương 03](/article/so-hai-chuong-03) tại đây.
 
-Đọc [Sợ hãi, chương 04](https://nhavantuonglai.com/article/so-hai-chuong-04) tại đây.
+Đọc [Sợ hãi, chương 04](/article/so-hai-chuong-04) tại đây.
 
-Đọc [Sợ hãi, chương 05](https://nhavantuonglai.com/article/so-hai-chuong-05) tại đây.
+Đọc [Sợ hãi, chương 05](/article/so-hai-chuong-05) tại đây.
 
-Đọc [Sợ hãi, chương 06](https://nhavantuonglai.com/article/so-hai-chuong-06) tại đây.
+Đọc [Sợ hãi, chương 06](/article/so-hai-chuong-06) tại đây.
 
-Đọc [Sợ hãi, chương 07](https://nhavantuonglai.com/article/so-hai-chuong-07) tại đây.
+Đọc [Sợ hãi, chương 07](/article/so-hai-chuong-07) tại đây.
 
-Đọc [Sợ hãi, chương 08](https://nhavantuonglai.com/article/so-hai-chuong-08) tại đây.
+Đọc [Sợ hãi, chương 08](/article/so-hai-chuong-08) tại đây.
 
-Đọc [Sợ hãi, chương 09](https://nhavantuonglai.com/article/so-hai-chuong-09) tại đây.
+Đọc [Sợ hãi, chương 09](/article/so-hai-chuong-09) tại đây.
 
-Đọc [Sợ hãi, chương 10](https://nhavantuonglai.com/article/so-hai-chuong-10) tại đây.
+Đọc [Sợ hãi, chương 10](/article/so-hai-chuong-10) tại đây.
 
-Đọc [Sợ hãi, chương 11](https://nhavantuonglai.com/article/so-hai-chuong-11) tại đây.
+Đọc [Sợ hãi, chương 11](/article/so-hai-chuong-11) tại đây.
 
-Đọc [Sợ hãi, chương 12](https://nhavantuonglai.com/article/so-hai-chuong-12) tại đây.
+Đọc [Sợ hãi, chương 12](/article/so-hai-chuong-12) tại đây.
 
-Đọc [Sợ hãi, chương 13](https://nhavantuonglai.com/article/so-hai-chuong-13) tại đây.
+Đọc [Sợ hãi, chương 13](/article/so-hai-chuong-13) tại đây.
 
-Đọc [Sợ hãi, chương 14](https://nhavantuonglai.com/article/so-hai-chuong-14) tại đây.
+Đọc [Sợ hãi, chương 14](/article/so-hai-chuong-14) tại đây.
 
-Đọc [Sợ hãi, chương 15](https://nhavantuonglai.com/article/so-hai-chuong-15) tại đây.
+Đọc [Sợ hãi, chương 15](/article/so-hai-chuong-15) tại đây.
 
-Đọc [Sợ hãi, chương 16](https://nhavantuonglai.com/article/so-hai-chuong-16) tại đây.
+Đọc [Sợ hãi, chương 16](/article/so-hai-chuong-16) tại đây.
 
-Đọc [Sợ hãi, chương 17](https://nhavantuonglai.com/article/so-hai-chuong-17) tại đây.
+Đọc [Sợ hãi, chương 17](/article/so-hai-chuong-17) tại đây.
 
-Đọc [Sợ hãi, chương 18](https://nhavantuonglai.com/article/so-hai-chuong-18) tại đây.
+Đọc [Sợ hãi, chương 18](/article/so-hai-chuong-18) tại đây.
 
-Đọc [Sợ hãi, chương 19](https://nhavantuonglai.com/article/so-hai-chuong-19) tại đây.
+Đọc [Sợ hãi, chương 19](/article/so-hai-chuong-19) tại đây.
 
-Đọc [Sợ hãi, chương 20](https://nhavantuonglai.com/article/so-hai-chuong-20) tại đây.
+Đọc [Sợ hãi, chương 20](/article/so-hai-chuong-20) tại đây.
 
 Đọc [Sợ hãi, toàn tập](https://banmaixanh.vercel.app/ebook/so-hai.pdf) tại đây.
 

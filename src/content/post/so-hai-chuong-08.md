@@ -77,45 +77,45 @@ Trong đời sống hằng ngày, ta cần có một chiều hướng tâm linh 
 
 Ai cũng có hạt giống chánh niệm trong người. Ai cũng có thể thở hơi thở chánh niệm, kể cả các em bé. Ai cũng có thể uống một tách trà trong chánh niệm. Khi trong cơ thể bạn đã ngập tràn chánh niệm, bạn nói, bạn cười, bạn đi sẽ luôn trong chánh niệm. Năng lượng chánh niệm đang sống động trong bạn. Chánh niệm đi đôi với định lực. Chế tác năng lượng niệm và định mỗi ngày giúp bạn chuyển hóa sợ hãi, buồn giận và chấm dứt khổ đau. Niệm và định đưa đến tuệ giác. Hạt giống tuệ giác của sự hiểu biết tỏ tường có sẵn trong mỗi chúng ta. Nhìn những bước chân vững chãi, thảnh thơi của bạn, tôi thấy được chất thánh trong bạn đang hiện hữu. Sự thật là ai cũng mang trong mình những chất thánh. Tính Bụt có mặt trong mọi người. Khi Bụt trong ta _đang sống,_ ta không còn sợ hãi hay khổ đau. Hạnh phúc là điều có thể có được.
 
-Đọc [Sợ hãi, chương 01](https://nhavantuonglai.com/article/so-hai-chuong-01) tại đây.
+Đọc [Sợ hãi, chương 01](/article/so-hai-chuong-01) tại đây.
 
-Đọc [Sợ hãi, chương 02](https://nhavantuonglai.com/article/so-hai-chuong-02) tại đây.
+Đọc [Sợ hãi, chương 02](/article/so-hai-chuong-02) tại đây.
 
-Đọc [Sợ hãi, chương 03](https://nhavantuonglai.com/article/so-hai-chuong-03) tại đây.
+Đọc [Sợ hãi, chương 03](/article/so-hai-chuong-03) tại đây.
 
-Đọc [Sợ hãi, chương 04](https://nhavantuonglai.com/article/so-hai-chuong-04) tại đây.
+Đọc [Sợ hãi, chương 04](/article/so-hai-chuong-04) tại đây.
 
-Đọc [Sợ hãi, chương 05](https://nhavantuonglai.com/article/so-hai-chuong-05) tại đây.
+Đọc [Sợ hãi, chương 05](/article/so-hai-chuong-05) tại đây.
 
-Đọc [Sợ hãi, chương 06](https://nhavantuonglai.com/article/so-hai-chuong-06) tại đây.
+Đọc [Sợ hãi, chương 06](/article/so-hai-chuong-06) tại đây.
 
-Đọc [Sợ hãi, chương 07](https://nhavantuonglai.com/article/so-hai-chuong-07) tại đây.
+Đọc [Sợ hãi, chương 07](/article/so-hai-chuong-07) tại đây.
 
-Đọc [Sợ hãi, chương 08](https://nhavantuonglai.com/article/so-hai-chuong-08) tại đây.
+Đọc [Sợ hãi, chương 08](/article/so-hai-chuong-08) tại đây.
 
-Đọc [Sợ hãi, chương 09](https://nhavantuonglai.com/article/so-hai-chuong-09) tại đây.
+Đọc [Sợ hãi, chương 09](/article/so-hai-chuong-09) tại đây.
 
-Đọc [Sợ hãi, chương 10](https://nhavantuonglai.com/article/so-hai-chuong-10) tại đây.
+Đọc [Sợ hãi, chương 10](/article/so-hai-chuong-10) tại đây.
 
-Đọc [Sợ hãi, chương 11](https://nhavantuonglai.com/article/so-hai-chuong-11) tại đây.
+Đọc [Sợ hãi, chương 11](/article/so-hai-chuong-11) tại đây.
 
-Đọc [Sợ hãi, chương 12](https://nhavantuonglai.com/article/so-hai-chuong-12) tại đây.
+Đọc [Sợ hãi, chương 12](/article/so-hai-chuong-12) tại đây.
 
-Đọc [Sợ hãi, chương 13](https://nhavantuonglai.com/article/so-hai-chuong-13) tại đây.
+Đọc [Sợ hãi, chương 13](/article/so-hai-chuong-13) tại đây.
 
-Đọc [Sợ hãi, chương 14](https://nhavantuonglai.com/article/so-hai-chuong-14) tại đây.
+Đọc [Sợ hãi, chương 14](/article/so-hai-chuong-14) tại đây.
 
-Đọc [Sợ hãi, chương 15](https://nhavantuonglai.com/article/so-hai-chuong-15) tại đây.
+Đọc [Sợ hãi, chương 15](/article/so-hai-chuong-15) tại đây.
 
-Đọc [Sợ hãi, chương 16](https://nhavantuonglai.com/article/so-hai-chuong-16) tại đây.
+Đọc [Sợ hãi, chương 16](/article/so-hai-chuong-16) tại đây.
 
-Đọc [Sợ hãi, chương 17](https://nhavantuonglai.com/article/so-hai-chuong-17) tại đây.
+Đọc [Sợ hãi, chương 17](/article/so-hai-chuong-17) tại đây.
 
-Đọc [Sợ hãi, chương 18](https://nhavantuonglai.com/article/so-hai-chuong-18) tại đây.
+Đọc [Sợ hãi, chương 18](/article/so-hai-chuong-18) tại đây.
 
-Đọc [Sợ hãi, chương 19](https://nhavantuonglai.com/article/so-hai-chuong-19) tại đây.
+Đọc [Sợ hãi, chương 19](/article/so-hai-chuong-19) tại đây.
 
-Đọc [Sợ hãi, chương 20](https://nhavantuonglai.com/article/so-hai-chuong-20) tại đây.
+Đọc [Sợ hãi, chương 20](/article/so-hai-chuong-20) tại đây.
 
 Đọc [Sợ hãi, toàn tập](https://banmaixanh.vercel.app/ebook/so-hai.pdf) tại đây.
 

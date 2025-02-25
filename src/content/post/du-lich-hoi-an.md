@@ -59,7 +59,7 @@ Người thích ngắm Hội An từ trên cao có thể tới Faifo Café nằm
 
 Ngoài ra nếu chịu khó tìm kiếm trong các ngõ ngách phố cổ bạn còn phát hiện ra nhiều quán trà, cà phê vừa đậm chất phố Hội, vừa mang hơi thở hiện đại bởi thu hút không ít du khách nước ngoài.
 
-Rời trung tâm phố Hội 4-7 km, du khách có thể khám phá các [quán cà phê giữa đồng lúa](https://nhavantuonglai.com/article) như Roving Chillhouse, Cà phê Xóm Chiêu, Cà phê Lò Gạch Cũ… để tận hưởng không khí trong lành.
+Rời trung tâm phố Hội 4-7 km, du khách có thể khám phá các [quán cà phê giữa đồng lúa](/article) như Roving Chillhouse, Cà phê Xóm Chiêu, Cà phê Lò Gạch Cũ… để tận hưởng không khí trong lành.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/du-lich-hoi-an-328.jpg" alt="cam-nang-du-lich-hoi-an" height=100% width=100%><figcaption><p>cam-nang-du-lich-hoi-an-nhavantuonglai</p></figcaption></figure>
 
@@ -87,7 +87,7 @@ _Bãi biển Cửa Đại_ là một điểm đến quen thuộc của Hội An,
 
 ### Cù Lao Chàm
 
-Nếu bạn xuất phát từ Hội An có 2 phương tiện để ra [Cù Lao Chàm](https://nhavantuonglai.com/article) là cano và tàu gỗ. Cano thường xuất bến ở Cửa Đại và chỉ khoảng 20 phút sau là bạn có mặt tại Cù Lao Chàm, giá vé là 150.000 – 200.000 đồng mỗi người. Còn đi tàu gỗ xuất phát từ bến Bạch Đằng thì mất gần 2 tiếng nhưng giá rẻ hơn, khoảng 50.000 – 80.000 đồng mỗi người, nếu mang theo xe máy thì thêm 30.000 đồng mỗi chiếc.
+Nếu bạn xuất phát từ Hội An có 2 phương tiện để ra [Cù Lao Chàm](/article) là cano và tàu gỗ. Cano thường xuất bến ở Cửa Đại và chỉ khoảng 20 phút sau là bạn có mặt tại Cù Lao Chàm, giá vé là 150.000 – 200.000 đồng mỗi người. Còn đi tàu gỗ xuất phát từ bến Bạch Đằng thì mất gần 2 tiếng nhưng giá rẻ hơn, khoảng 50.000 – 80.000 đồng mỗi người, nếu mang theo xe máy thì thêm 30.000 đồng mỗi chiếc.
 
 Ở Cù Lao Chàm dịch vụ lưu trú chủ yếu là homestay, nhà nghỉ hoặc cho thuê lều trung bình 100.000 – 150.000 đồng mỗi phòng cho 1-2 người lưu trú. Giá thuê lều chừng 100.000 đồng một đêm.
 

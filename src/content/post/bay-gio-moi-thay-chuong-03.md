@@ -49,23 +49,23 @@ Nếu anh không có mặt trong cái bây giờ thì tất cả sẽ chỉ là 
 
 Ngay lần đầu gặp Kiều, Từ Hải đã mời nàng xích lại gần chàng để nhìn chàng cho rõ: _Lại đây, xem lại cho gần._ Đúng là ngay trong cái bây giờ ta phải thấy được cho rõ ràng mặt mũi của nhau. Và Kiều đã nhìn và đã thấy được rất nhiều. Nàng nói nàng thấy mây, thấy rồng, thấy ước nguyện sâu sắc của Từ Hải. Thấy được nhau, thấy được ước nguyện sâu sắc của nhau, mình trở nên người tri kỷ của nhau.
 
-Đọc [Bây giờ mới thấy, chương 01](https://nhavantuonglai.com/article/bay-gio-moi-thay-chuong-01) tại đây.
+Đọc [Bây giờ mới thấy, chương 01](/article/bay-gio-moi-thay-chuong-01) tại đây.
 
-Đọc [Bây giờ mới thấy, chương 02](https://nhavantuonglai.com/article/bay-gio-moi-thay-chuong-02) tại đây.
+Đọc [Bây giờ mới thấy, chương 02](/article/bay-gio-moi-thay-chuong-02) tại đây.
 
-Đọc [Bây giờ mới thấy, chương 03](https://nhavantuonglai.com/article/bay-gio-moi-thay-chuong-03) tại đây.
+Đọc [Bây giờ mới thấy, chương 03](/article/bay-gio-moi-thay-chuong-03) tại đây.
 
-Đọc [Bây giờ mới thấy, chương 04](https://nhavantuonglai.com/article/bay-gio-moi-thay-chuong-04) tại đây.
+Đọc [Bây giờ mới thấy, chương 04](/article/bay-gio-moi-thay-chuong-04) tại đây.
 
-Đọc [Bây giờ mới thấy, chương 05](https://nhavantuonglai.com/article/bay-gio-moi-thay-chuong-05) tại đây.
+Đọc [Bây giờ mới thấy, chương 05](/article/bay-gio-moi-thay-chuong-05) tại đây.
 
-Đọc [Bây giờ mới thấy, chương 06](https://nhavantuonglai.com/article/bay-gio-moi-thay-chuong-06) tại đây.
+Đọc [Bây giờ mới thấy, chương 06](/article/bay-gio-moi-thay-chuong-06) tại đây.
 
-Đọc [Bây giờ mới thấy, chương 07](https://nhavantuonglai.com/article/bay-gio-moi-thay-chuong-07) tại đây.
+Đọc [Bây giờ mới thấy, chương 07](/article/bay-gio-moi-thay-chuong-07) tại đây.
 
-Đọc [Bây giờ mới thấy, chương 08](https://nhavantuonglai.com/article/bay-gio-moi-thay-chuong-08) tại đây.
+Đọc [Bây giờ mới thấy, chương 08](/article/bay-gio-moi-thay-chuong-08) tại đây.
 
-Đọc [Bây giờ mới thấy, chương 09](https://nhavantuonglai.com/article/bay-gio-moi-thay-chuong-09) tại đây.
+Đọc [Bây giờ mới thấy, chương 09](/article/bay-gio-moi-thay-chuong-09) tại đây.
 
 Đọc [Bây giờ mới thấy, toàn tập](https://banmaixanh.vercel.app/ebook/bay-gio-moi-thay.pdf) tại đây.
 

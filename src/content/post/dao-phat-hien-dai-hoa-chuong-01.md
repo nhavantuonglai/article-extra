@@ -131,15 +131,15 @@ Sau hết, trước khi đi vào những vấn đề cụ thể, ta nên nhắc 
 
 Giữa hai thái cực, ta sẽ chọn một trung đạo: tổ chức thì tổ chức, và có thể là tinh vi, nhưng với tinh thần phá chấp và vô trước. Phải cương quyết bảo vệ cho đặc tính tự do và sáng tạo của đạo Phật, điều đó là điều phải khắc cốt ghi tâm. Nhìn vào hiến chế, ta có thể thấy ngay các đặc tính ấy. Phải khuyến khích mọi tự do phát triển, tự do sáng tạo, có như thế ta mới trung thành được với bản ý của ta khi tình nguyện lên đường phụng sự lý tưởng đạo Phật.
 
-Đọc [Đạo phật hiện đại hóa, chương 01](https://nhavantuonglai.com/article/dao-phat-hien-dai-hoa-chuong-01) tại đây.
+Đọc [Đạo phật hiện đại hóa, chương 01](/article/dao-phat-hien-dai-hoa-chuong-01) tại đây.
 
-Đọc [Đạo phật hiện đại hóa, chương 02](https://nhavantuonglai.com/article/dao-phat-hien-dai-hoa-chuong-02) tại đây.
+Đọc [Đạo phật hiện đại hóa, chương 02](/article/dao-phat-hien-dai-hoa-chuong-02) tại đây.
 
-Đọc [Đạo phật hiện đại hóa, chương 03](https://nhavantuonglai.com/article/dao-phat-hien-dai-hoa-chuong-03) tại đây.
+Đọc [Đạo phật hiện đại hóa, chương 03](/article/dao-phat-hien-dai-hoa-chuong-03) tại đây.
 
-Đọc [Đạo phật hiện đại hóa, chương 04](https://nhavantuonglai.com/article/dao-phat-hien-dai-hoa-chuong-04) tại đây.
+Đọc [Đạo phật hiện đại hóa, chương 04](/article/dao-phat-hien-dai-hoa-chuong-04) tại đây.
 
-Đọc [Đạo phật hiện đại hóa, chương 05](https://nhavantuonglai.com/article/dao-phat-hien-dai-hoa-chuong-05) tại đây.
+Đọc [Đạo phật hiện đại hóa, chương 05](/article/dao-phat-hien-dai-hoa-chuong-05) tại đây.
 
 Đọc [Đạo phật hiện đại hóa, toàn tập](https://banmaixanh.vercel.app/ebook/dao-phat-di-vao-cuoc-doi.pdf) tại đây.
 

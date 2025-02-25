@@ -123,19 +123,19 @@ Câu thần chú thứ tư, có lẽ ta sẽ không sử dụng thường xuyên
 
 Đừng vội vàng phát ra câu thần chú này. Khi thấy trong lòng đã sẵn sàng rồi, ta hãy đến bên người kia, thở vào thở ra thật sâu, trở về với chính mình và có mặt 100%. Sau đó, hãy nói lên câu thần chú với tất cả trái tim mình. Có thể ta không muốn thực tập điều này. Có thể ta muốn nói là ta không cần người kia. Lòng tự ái và tự trọng của ta đã bị tổn thương. Nhưng đừng để tự ái xuất hiện giữa mình và người mình thương. Trong tình thương chân thật không có chỗ cho sự tự ái. Nếu tự ái vẫn còn đó thì ta biết rằng ta cần phải thực tập để chuyển hóa tình thương của ta thành tình thương chân thật. Thực tập đi thiền, ngồi thiền, thở chánh niệm đều đặn để phục hồi lại sự tươi mát của thân tâm cũng giúp ta rèn luyện chính mình, chuẩn bị cho lần sau, khi có khổ đau, ta có thể sử dụng câu thần chú thứ tư này.
 
-Đọc [Tĩnh lặng, chương 01](https://nhavantuonglai.com/article/tinh-lang-chuong-01) tại đây.
+Đọc [Tĩnh lặng, chương 01](/article/tinh-lang-chuong-01) tại đây.
 
-Đọc [Tĩnh lặng, chương 02](https://nhavantuonglai.com/article/tinh-lang-chuong-02) tại đây.
+Đọc [Tĩnh lặng, chương 02](/article/tinh-lang-chuong-02) tại đây.
 
-Đọc [Tĩnh lặng, chương 03](https://nhavantuonglai.com/article/tinh-lang-chuong-03) tại đây.
+Đọc [Tĩnh lặng, chương 03](/article/tinh-lang-chuong-03) tại đây.
 
-Đọc [Tĩnh lặng, chương 04](https://nhavantuonglai.com/article/tinh-lang-chuong-04) tại đây.
+Đọc [Tĩnh lặng, chương 04](/article/tinh-lang-chuong-04) tại đây.
 
-Đọc [Tĩnh lặng, chương 05](https://nhavantuonglai.com/article/tinh-lang-chuong-05) tại đây.
+Đọc [Tĩnh lặng, chương 05](/article/tinh-lang-chuong-05) tại đây.
 
-Đọc [Tĩnh lặng, chương 06](https://nhavantuonglai.com/article/tinh-lang-chuong-05) tại đây.
+Đọc [Tĩnh lặng, chương 06](/article/tinh-lang-chuong-05) tại đây.
 
-Đọc [Tĩnh lặng, chương 07](https://nhavantuonglai.com/article/tinh-lang-chuong-05) tại đây.
+Đọc [Tĩnh lặng, chương 07](/article/tinh-lang-chuong-05) tại đây.
 
 Đọc [Tĩnh lặng, toàn tập](https://banmaixanh.vercel.app/ebook/tinh-lang.pdf) tại đây.
 

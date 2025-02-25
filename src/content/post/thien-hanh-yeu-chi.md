@@ -31,9 +31,9 @@ Xóm Hạ Làng Hồng, tiết Trung Thu Quý Hợi,
 
 Chơn Lễ Lê Nguyên Thiều kính đề.
 
-Đọc [Thiền hành yếu chỉ, chương 01](https://nhavantuonglai.com/article/thien-hanh-yeu-chi-chuong-01) tại đây.
+Đọc [Thiền hành yếu chỉ, chương 01](/article/thien-hanh-yeu-chi-chuong-01) tại đây.
 
-Đọc [Thiền hành yếu chỉ, chương 02](https://nhavantuonglai.com/article/thien-hanh-yeu-chi-chuong-02) tại đây.
+Đọc [Thiền hành yếu chỉ, chương 02](/article/thien-hanh-yeu-chi-chuong-02) tại đây.
 
 Đọc [Thiền hành yếu chỉ, toàn tập](https://banmaixanh.vercel.app/ebook/thien-hanh-yeu-chi.pdf) tại đây.
 

@@ -19,9 +19,9 @@ _Để bán được phòng, các khách sạn cần quảng bá hình ảnh, ti
 
 ## Quan hệ công chúng khách sạn là gì, và để làm gì?
 
-Quan hệ công chúng (Public Relation – PR) là tổng hòa các phương pháp, hình thức và nội dung mà khách sạn áp dụng để truyền tải ra bên ngoài về hình ảnh của khách sạn của mình. Quan hệ công chúng được hiểu đơn giản là làm [thương hiệu khách sạn](https://nhavantuonglai.com/article), khiến người khác nhớ đến, có hình ảnh tích cực về khách sạn của bạn.
+Quan hệ công chúng (Public Relation – PR) là tổng hòa các phương pháp, hình thức và nội dung mà khách sạn áp dụng để truyền tải ra bên ngoài về hình ảnh của khách sạn của mình. Quan hệ công chúng được hiểu đơn giản là làm [thương hiệu khách sạn](/article), khiến người khác nhớ đến, có hình ảnh tích cực về khách sạn của bạn.
 
-PR là một phần quan trọng trong chiến lược tiếp thị khách sạn, bởi nhu cầu đặt phòng đang ngày một tăng, các xu hướng du lịch mới dần phát triển, [hành vi của khách hàng ngày càng phức tạp](https://nhavantuonglai.com/article) thì các khách sạn nếu tận dụng sức mạnh của PR để khiến mình trở nên nổi bật thì sẽ khó cạnh tranh với các đối thủ, và bán phòng được tốt hơn.
+PR là một phần quan trọng trong chiến lược tiếp thị khách sạn, bởi nhu cầu đặt phòng đang ngày một tăng, các xu hướng du lịch mới dần phát triển, [hành vi của khách hàng ngày càng phức tạp](/article) thì các khách sạn nếu tận dụng sức mạnh của PR để khiến mình trở nên nổi bật thì sẽ khó cạnh tranh với các đối thủ, và bán phòng được tốt hơn.
 
 Để đạt hiệu quả như mong muốn, các chiến dịch PR cho khách sạn cần phải sáng tạo và khác biệt, thông điệp truyền tải rõ ràng và hợp lý, cũng như nắm bắt và chạy theo các xu hướng của thị trường. Do vậy, nhiều khách sạn đã tìm đến các đơn vị độc lập (agency) để có một chiến dịch bài bản, chuyên nghiệp. Nhưng họ chỉ có thể lập và triển khai chiến dịch theo cách tốt nhất, còn hiểu về khách hàng và khách sạn thì chỉ có thể là bạn. Vậy cho nên, nếu thuê ngoài, hãy đảm bảo rằng các chiến dịch phải bám sát và thể hiện rõ tinh thần của khách sạn, tránh thiếu thực tế và khiến khách hàng không liên kết được chúng với khách sạn của bạn.
 
@@ -97,6 +97,6 @@ Chiến dịch này vừa là chiến dịch tuyển dụng đầy sáng tạo, 
 
 ## Kết luận
 
-PR cho khách sạn là công cụ [Marketing khách sạn hiệu quả](https://nhavantuonglai.com/article), để tăng độ phủ và kinh doanh tốt hơn. Khách sạn có thể sử dụng PR để kết nối và giao tiếp với khách hàng của mình thông qua những câu chuyện, nội dung thú vị. PR là giải pháp không thể thiếu để tiếp cận, và khiến khách hàng thiện cảm hơn về khách sạn của bạn. Cho nên, nếu trong hiện tại chưa áp dụng, thì đã đến lúc để nói bắt đầu.
+PR cho khách sạn là công cụ [Marketing khách sạn hiệu quả](/article), để tăng độ phủ và kinh doanh tốt hơn. Khách sạn có thể sử dụng PR để kết nối và giao tiếp với khách hàng của mình thông qua những câu chuyện, nội dung thú vị. PR là giải pháp không thể thiếu để tiếp cận, và khiến khách hàng thiện cảm hơn về khách sạn của bạn. Cho nên, nếu trong hiện tại chưa áp dụng, thì đã đến lúc để nói bắt đầu.
 
 <figure><img src="https://banmaixanh.vercel.app/image/cover/001-610.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>

@@ -43,15 +43,15 @@ Cho nên, đừng đánh giá thấp tầm quan trọng của những offer, khu
 
 ## Tăng tốc website khách sạn
 
-[Tốc độ duyệt trang chậm](https://nhavantuonglai.com/article) có thể khiến khách sạn mất khách vào tay đối thủ. Một nghiên cứu mới đây đã chỉ ra rằng, 75% người đọc thoát trang khi trang đó duyệt trang rất lâu.
+[Tốc độ duyệt trang chậm](/article) có thể khiến khách sạn mất khách vào tay đối thủ. Một nghiên cứu mới đây đã chỉ ra rằng, 75% người đọc thoát trang khi trang đó duyệt trang rất lâu.
 
-Việc cải thiện tốc độ duyệt trang không có nhiều phức tạp, quan trọng là cần nắm rõ quy cách và [giải pháp](https://nhavantuonglai.com/article) để thực hiện.
+Việc cải thiện tốc độ duyệt trang không có nhiều phức tạp, quan trọng là cần nắm rõ quy cách và [giải pháp](/article) để thực hiện.
 
 ## Xây dựng thư viện hình ảnh khách sạn hấp dẫn
 
 Gallery khách sạn cung cấp hình ảnh về cảnh quan, kiến trúc lẫn nội thất của khách sạn. Nó là nơi người đọc truy cập và quyết định xem đây có phải khách sạn phù hợp với họ không.
 
-Đó là lý do tại sao, [khách sạn cần phải đầu tư vào hình ảnh](https://nhavantuonglai.com/article).
+Đó là lý do tại sao, [khách sạn cần phải đầu tư vào hình ảnh](/article).
 
 ## Website càng đơn giản, càng tốt
 
@@ -95,7 +95,7 @@ Trong nghiên cứu của strongview.com, cải thiện tính cá nhân hóa tro
 
 Một nghiên cứu khác của contentverve.com, cải thiện tính cá nhân hóa của thông điệp CTA giúp tăng chuyển đổi đến 200%.
 
-Hình ảnh, thương hiệu, thiết kế tổng thể của khách sạn càng cá nhân hóa, mức độ thờ ơ của người đọc càng giảm khi tiếp cận khách sạn. Điều đó giúp việc [chuyển đổi dễ dàng hơn cho website khách sạn](https://nhavantuonglai.com/article) của bạn.
+Hình ảnh, thương hiệu, thiết kế tổng thể của khách sạn càng cá nhân hóa, mức độ thờ ơ của người đọc càng giảm khi tiếp cận khách sạn. Điều đó giúp việc [chuyển đổi dễ dàng hơn cho website khách sạn](/article) của bạn.
 
 ## CTA hấp dẫn
 

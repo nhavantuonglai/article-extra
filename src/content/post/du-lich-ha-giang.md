@@ -31,19 +31,19 @@ Khi đến Thành phố Hà Giang, bạn có thể thuê xe máy tự túc du ng
 
 ## Khách sạn, homestay đẹp
 
-Những gia đình, cặp đôi muốn lưu trú tại khu nghỉ dưỡng cao cấp, riêng biệt có thể đến với P_apiu ở xã Yên Định, huyện Bắc Mê. Tại đây, du khách được đắm chìm trong sắc màu vùng cao bởi [con đường thổ cẩm](https://nhavantuonglai.com/article) dài nhất Việt Nam, lưu trú trong những biệt thự, villa mang thiết kế nhà trình tường của người H_Mong. Giá một đêm nghỉ khoảng 10.000.000 đồng.
+Những gia đình, cặp đôi muốn lưu trú tại khu nghỉ dưỡng cao cấp, riêng biệt có thể đến với P_apiu ở xã Yên Định, huyện Bắc Mê. Tại đây, du khách được đắm chìm trong sắc màu vùng cao bởi [con đường thổ cẩm](/article) dài nhất Việt Nam, lưu trú trong những biệt thự, villa mang thiết kế nhà trình tường của người H_Mong. Giá một đêm nghỉ khoảng 10.000.000 đồng.
 
 Với những du khách yêu thích sự mới lạ, H_Mong Village với thiết kế hình quẩy tấu là một gợi ý. Khu nghỉ dưỡng nằm trên những ngọn đồi ở Tráng Kìm, Quản Bạ, mặt hướng về dòng sông Miện và những dãy núi hùng vĩ phía xa. Du khách có thể lựa chọn ở phòng cộng đồng, giá 400.000 đồng một đêm hoặc ở bungalow quẩy tấu 2.400.000 đồng một đêm.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/du-lich-ha-giang-253.jpg" alt="cam-nang-du-lich-ha-giang" height=100% width=100%><figcaption><p>cam-nang-du-lich-ha-giang-nhavantuonglai</p></figcaption></figure>
 
-Với lựa chọn gần gũi với cộng đồng, chi phí thấp hơn, du khách có thể lưu trú tại các [homestay](https://nhavantuonglai.com/article), trong đó ở Hoàng Su Phì có Hoang Su Phi Lodge và Kinh Homestay, sát bên những ruộng bậc thang ở thôn Nậm Hồng; Hồ Thầu Eco Village xã Hồ Thầu với khu nghỉ nhà trình tường lợp mái lá.
+Với lựa chọn gần gũi với cộng đồng, chi phí thấp hơn, du khách có thể lưu trú tại các [homestay](/article), trong đó ở Hoàng Su Phì có Hoang Su Phi Lodge và Kinh Homestay, sát bên những ruộng bậc thang ở thôn Nậm Hồng; Hồ Thầu Eco Village xã Hồ Thầu với khu nghỉ nhà trình tường lợp mái lá.
 
 Ngoài ra, bạn có thể ở Chúng Pủa – Auberge de MeoVac (Mèo Vạc) với ngôi nhà đất đậm chất địa phương hay Bụi homestay là nhà sàn ở Đồng Văn. Ở Đồng Văn còn có nhà cổ Hoàng Thân giá 100.000 đồng một người; Ong Vàng Mèo Vạc giá chỉ 230.000 đồng một đêm. Ở bản Lô Lô Chải gần cột cờ Lũng Cú có homestay Lo Lo Ancient House.
 
 ## Chơi đâu?
 
-Vì các điểm du lịch ở Hà Giang cách xa nhau, bạn nên chọn hành trình ít nhất là 3 ngày 2 đêm mới có đủ thời gian _cưỡi ngựa xem hoa._ Hành trình [3 ngày 4 đêm](https://nhavantuonglai.com/article) được nhiều du khách gợi ý, hoặc dư dả hơn là [5 ngày](https://nhavantuonglai.com/article).
+Vì các điểm du lịch ở Hà Giang cách xa nhau, bạn nên chọn hành trình ít nhất là 3 ngày 2 đêm mới có đủ thời gian _cưỡi ngựa xem hoa._ Hành trình [3 ngày 4 đêm](/article) được nhiều du khách gợi ý, hoặc dư dả hơn là [5 ngày](/article).
 
 Dưới đây là lịch trình tham khảo cho chuyến đi 3 ngày 2 đêm.
 
@@ -75,7 +75,7 @@ Hãy dành chút thời gian buổi sáng để đi chợ phiên, nét đặc tr
 
 Ngoài chợ phiên, ở Đồng Văn bạn cũng có thể ghé Dinh Vua Mèo. Khuôn viên khu di tích rộng gần 3 ha nằm trong thung lũng xã Sà Phìn. Dinh Vua Mèo được xây dựng từ đầu thế kỷ 20, mô phỏng theo kiến trúc Trung Quốc (đời Mãn Thanh) với những đường cong, nét lượn, trạm trổ tinh xảo. Vé vào cửa 20.000 đồng một lượt.
 
-Nếu không đi chợ phiên hay dinh Vua Mèo, bạn có thể xuất phát từ 6h30 từ Đồng Văn sang Lũng Cú để tham quan cột cờ ngay trong buổi sáng. Quãng đường này dài 25 km, phải đi qua nhiều đoạn xấu có đá dăm, cua dốc, ổ gà… Thời gian di chuyển khoảng 1 tiếng rưỡi. Đến nơi, du khách leo bộ đến cột cờ và nhìn ngắm núi rừng nơi địa đầu tổ quôc. Nếu thư thả, quán [cà phê Cực Bắc](https://nhavantuonglai.com/article) cũng là một lựa chọn để nghỉ chân.
+Nếu không đi chợ phiên hay dinh Vua Mèo, bạn có thể xuất phát từ 6h30 từ Đồng Văn sang Lũng Cú để tham quan cột cờ ngay trong buổi sáng. Quãng đường này dài 25 km, phải đi qua nhiều đoạn xấu có đá dăm, cua dốc, ổ gà… Thời gian di chuyển khoảng 1 tiếng rưỡi. Đến nơi, du khách leo bộ đến cột cờ và nhìn ngắm núi rừng nơi địa đầu tổ quôc. Nếu thư thả, quán [cà phê Cực Bắc](/article) cũng là một lựa chọn để nghỉ chân.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/du-lich-ha-giang-255.jpg" alt="cam-nang-du-lich-ha-giang" height=100% width=100%><figcaption><p>cam-nang-du-lich-ha-giang-nhavantuonglai</p></figcaption></figure>
 

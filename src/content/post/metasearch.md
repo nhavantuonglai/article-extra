@@ -33,13 +33,13 @@ Và dù rằng, khi các khách sạn vừa và nhỏ đưa mình lên Metasearc
 
 Trong nhiều năm qua, các khách sạn phải cạnh tranh vô cùng khốc liệt với các kênh OTA để thu hút sự chú ý của khách hàng. Rõ ràng, kênh OTA giúp người dùng so sánh các khách sạn dễ dàng hơn, nhưng Metasearch còn hơn thế – so sánh giá giữa các nền tảng đặt phòng của cùng một khách sạn, và chúng đang ngày càng phổ biến, được sử dụng thường xuyên, và giúp người dùng đặt phòng rẻ hơn.
 
-Đây là một giải pháp đôi bên cùng có lợi, khách hàng đặt phòng rẻ hơn, khách sạn có nhiều lượt đặt phòng hơn. Do vậy, các [nền tảng quản lý đặt phòng khách sạn](https://nhavantuonglai.com/article) như giải pháp luôn muốn và đảm bảo công cụ đặt phòng của mình kết nối liền mạch như Google Hotel.
+Đây là một giải pháp đôi bên cùng có lợi, khách hàng đặt phòng rẻ hơn, khách sạn có nhiều lượt đặt phòng hơn. Do vậy, các [nền tảng quản lý đặt phòng khách sạn](/article) như giải pháp luôn muốn và đảm bảo công cụ đặt phòng của mình kết nối liền mạch như Google Hotel.
 
 Ở góc nhìn này, các khách sạn hưởng lợi nhiều nhất, khi khách hàng tiềm năng tin tưởng vào _Website chính thức_ và giá rẻ hơn khi tìm kiếm khách sạn trên Metasearch.
 
 ## Metasearch đã tác động như thế nào đến lượt đặt trước trực tiếp?
 
-Theo báo cáo của Phocuswright vào năm 2019, các khách sạn đang có xu hướng số hóa việc kinh doanh, cụ thể là bán phòng qua các kênh trực tuyến. Mục tiêu của các khách sạn vừa và nhỏ, là tăng lượt đặt phòng trực tiếp, giảm sự phụ thuộc vào kênh OTA và loại bỏ [phí hoa hồng phải chi trả](https://nhavantuonglai.com/article) cho họ. Metasearch được xem là giải pháp cho mục tiêu này, giúp đặt phòng trực tiếp tăng đến 13%. Báo cáo cũng chỉ ra thị trường tiềm năng của Metasearch, ngày càng nhiều hơn các khách sạn nghiêm túc với đặt phòng trực tiếp. Cụ thể là 90% khách sạn (tham gia khảo sát) muốn [tăng hiển thị trên Metasearch](https://nhavantuonglai.com/article) để nhận nhiều lượt đặt phòng trực tiếp hơn.
+Theo báo cáo của Phocuswright vào năm 2019, các khách sạn đang có xu hướng số hóa việc kinh doanh, cụ thể là bán phòng qua các kênh trực tuyến. Mục tiêu của các khách sạn vừa và nhỏ, là tăng lượt đặt phòng trực tiếp, giảm sự phụ thuộc vào kênh OTA và loại bỏ [phí hoa hồng phải chi trả](/article) cho họ. Metasearch được xem là giải pháp cho mục tiêu này, giúp đặt phòng trực tiếp tăng đến 13%. Báo cáo cũng chỉ ra thị trường tiềm năng của Metasearch, ngày càng nhiều hơn các khách sạn nghiêm túc với đặt phòng trực tiếp. Cụ thể là 90% khách sạn (tham gia khảo sát) muốn [tăng hiển thị trên Metasearch](/article) để nhận nhiều lượt đặt phòng trực tiếp hơn.
 
 ## Vấn đề của Metasearch là gì?
 
@@ -61,9 +61,9 @@ Metasearch có tiềm năng mạnh mẽ và đầy hứa hẹn để cân bằng
 
 Một vấn đề khác mà nhiều người quan tâm, đó là sự tồn tại của Metasearch có phải là nhất thời – như những công nghệ phát triển quá nhanh khác? Lo lắng này tuy thực tế, nhưng không có căn cứ, bởi Google không cho mọi người nghĩ như vậy.
 
-Khi Google [giới thiệu Google Hotel Ads](https://nhavantuonglai.com/article), mục đích duy nhất của họ là giúp mọi khách sạn đều có thể tiếp cận Metasearch. Điều này giúp việc phân phối phòng không còn độc quyền trong tay các kênh OTA như trước nữa, các khách sạn độc lập cũng có thể tham gia vào vấn đề này.
+Khi Google [giới thiệu Google Hotel Ads](/article), mục đích duy nhất của họ là giúp mọi khách sạn đều có thể tiếp cận Metasearch. Điều này giúp việc phân phối phòng không còn độc quyền trong tay các kênh OTA như trước nữa, các khách sạn độc lập cũng có thể tham gia vào vấn đề này.
 
-Dù mọi thứ chỉ mới bắt đầu, nhưng tương lai có vẻ tươi sáng. Điều quan trọng cho việc tạo nên thành công trong dài hạn, tận dụng được tiềm năng thật sự của Metasearch để có nhiều lượt đặt phòng hơn, là dần ngừng phụ thuộc vào website đặt phòng của bên thứ 3 (Kênh OTA, đại lý bán phòng…) và [áp dụng công nghệ vào quản lý khách sạn](https://nhavantuonglai.com/article), như sử dụng phần mềm quản lý khách sạn từ giải pháp, cũng như [tích hợp Free Booking Link](https://nhavantuonglai.com/article) vào khách sạn của mình.
+Dù mọi thứ chỉ mới bắt đầu, nhưng tương lai có vẻ tươi sáng. Điều quan trọng cho việc tạo nên thành công trong dài hạn, tận dụng được tiềm năng thật sự của Metasearch để có nhiều lượt đặt phòng hơn, là dần ngừng phụ thuộc vào website đặt phòng của bên thứ 3 (Kênh OTA, đại lý bán phòng…) và [áp dụng công nghệ vào quản lý khách sạn](/article), như sử dụng phần mềm quản lý khách sạn từ giải pháp, cũng như [tích hợp Free Booking Link](/article) vào khách sạn của mình.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-004.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 

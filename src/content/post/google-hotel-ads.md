@@ -55,7 +55,7 @@ Khi người dùng click vào một khách sạn bất kỳ, một module sẽ h
 
 – Google Hotel Ads: Chứa các liên kết đặt phòng tính phí của khách sạn, bao gồm các kênh OTA, website khách sạn có chạy quảng cáo. Trong hình minh họa dưới, là phần màu cam.
 
-– [Free Booking Links](https://nhavantuonglai.com/article): Chứa các liên kết đặt phòng miễn phí của khách sạn, bao gồm các kênh OTA, website khách sạn không chạy quảng cáo. Trong hình minh họa dưới, là phần màu tím.
+– [Free Booking Links](/article): Chứa các liên kết đặt phòng miễn phí của khách sạn, bao gồm các kênh OTA, website khách sạn không chạy quảng cáo. Trong hình minh họa dưới, là phần màu tím.
 
 _Khi người dùng click vào một khách sạn đang chạy Google Hotel Ads bất kỳ, một module sẽ hiện ra, bao gồm các phần sau._
 
@@ -65,7 +65,7 @@ Khi người dùng click vào các liên kết đặt phòng tính phí của kh
 
 – Mô hình giá hoa hồng: Khách sạn trả tiền dựa trên mỗi lượt đặt phòng thành công, chi phí do Google chỉ định.
 
-Hầu hết khách sạn và kênh OTA đều sử dụng mô hình CPC khi chạy quảng cáo, cho nên – Google Hotel Ads chủ yếu được xem là nền tảng [metasearch](https://nhavantuonglai.com/article), giúp hiển thị mức giá, tình trạng phòng từ các kênh OTA, nhà cung cấp dịch vụ đặt phòng để khách du lịch có cơ sở so sánh, đối chiếu. Ngoài Google, một số metaserch phổ biến khác là Tripadvisor, Kayak và Trivago…
+Hầu hết khách sạn và kênh OTA đều sử dụng mô hình CPC khi chạy quảng cáo, cho nên – Google Hotel Ads chủ yếu được xem là nền tảng [metasearch](/article), giúp hiển thị mức giá, tình trạng phòng từ các kênh OTA, nhà cung cấp dịch vụ đặt phòng để khách du lịch có cơ sở so sánh, đối chiếu. Ngoài Google, một số metaserch phổ biến khác là Tripadvisor, Kayak và Trivago…
 
 ## Sự khác biệt giữa Google Ads và Google Hotel Ads là gì?
 
@@ -97,7 +97,7 @@ _Sự khác nhau giữa Google Ads và Google Hotel Ads._
 
 ## Sự khác biệt giữa kênh OTA, Google Hotel Ads và Tripadvisor là gì?
 
-Các kênh OTA thu phí khách sạn theo % cố định, tính theo giá phòng áp dụng cho khách đặt phòng thành công, đây được gọi là [chi phí hoa hồng kênh OTA](https://nhavantuonglai.com/article). Mỗi kênh OTA khác nhau sẽ có một mức phí hoa hồng khác nhau.
+Các kênh OTA thu phí khách sạn theo % cố định, tính theo giá phòng áp dụng cho khách đặt phòng thành công, đây được gọi là [chi phí hoa hồng kênh OTA](/article). Mỗi kênh OTA khác nhau sẽ có một mức phí hoa hồng khác nhau.
 
 Google Hotel Ads, Tripadvisor tính phí khách sạn theo mỗi click vào liên kết đặt phòng, giá click được gọi là giá thầu. Nếu cùng một từ khóa mà có nhiều khách sạn, kênh OTA chạy quảng cáo, ai trả giá thầu lớn hơn sẽ xuất hiện cao hơn.
 
@@ -111,11 +111,11 @@ Giống nhau:
 
 Khác nhau:
 
-– Google Hotel Ads tốn phí, [Free Booking Links miễn phí](https://nhavantuonglai.com/article).
+– Google Hotel Ads tốn phí, [Free Booking Links miễn phí](/article).
 
 – Để kích hoạt Google Hotel Ads, khách sạn có thể tự chạy, nếu có tài khoản Google Ad.
 
-– Để kích hoạt Free Booking Links, khách sạn cần thông qua các [đối tác của Google](https://nhavantuonglai.com/article).
+– Để kích hoạt Free Booking Links, khách sạn cần thông qua các [đối tác của Google](/article).
 
 Cho nên, dù khách sạn có dùng Google Hotel Ads để tiếp thị hay không, thì cũng nên tận dụng Free Booking Links để có thêm nhiều lượt đặt phòng miễn phí.
 
@@ -125,7 +125,7 @@ Khi dùng Google Hotel Ads, các khách sạn, đặc biệt là khách sạn nh
 
 ### Cải thiện doanh thu
 
-Lý do lớn nhất để dùng Google Hotel Ads, là nó tạo ra nhiều lượt đặt phòng, và [tăng doanh thu cho khách sạn](https://nhavantuonglai.com/article) với một chi phí thấp hơn khi so với các kênh phân phối khác.
+Lý do lớn nhất để dùng Google Hotel Ads, là nó tạo ra nhiều lượt đặt phòng, và [tăng doanh thu cho khách sạn](/article) với một chi phí thấp hơn khi so với các kênh phân phối khác.
 
 ### Tăng hiển thị
 
@@ -149,7 +149,7 @@ Bản chất của Google Hotel Ads là quảng cáo nhắm mục tiêu, theo t�
 
 ### Tối ưu trải nghiệm đặt phòng
 
-Một trải nghiệm đặt phòng tốt sẽ tăng tỷ lệ đặt phòng, bởi khách hàng có thiện cảm và tin tưởng khách sạn hơn. Một [trải nghiệm đặt phòng tốt](https://nhavantuonglai.com/article) là một website đơn giản, gọn gàng, với đầy đủ hình ảnh và thông tin, các bước đặt phòng nhanh chóng và liền mạch.
+Một trải nghiệm đặt phòng tốt sẽ tăng tỷ lệ đặt phòng, bởi khách hàng có thiện cảm và tin tưởng khách sạn hơn. Một [trải nghiệm đặt phòng tốt](/article) là một website đơn giản, gọn gàng, với đầy đủ hình ảnh và thông tin, các bước đặt phòng nhanh chóng và liền mạch.
 
 _Một trải nghiệm đặt phòng tốt sẽ tăng tỷ lệ đặt phòng, bởi khách hàng có thiện cảm và tin tưởng khách sạn hơn._
 
@@ -165,7 +165,7 @@ Khách hàng sẽ rời đi để tìm một trang đặt phòng, hay khách s�
 
 ### Duy trì tỷ lệ ngang giá
 
-Để tối đa lượt bán phòng trực tiếp, hãy đảm bảo rằng mức giá bạn đưa ra là bằng, hoặc thấp hơn các kênh bán phòng khác, hoặc [giảm chênh lệch giá phòng thấp nhất](https://nhavantuonglai.com/article) có thể. Sự khác biệt chỉ vài nghìn đồng cũng ảnh hưởng đáng kể đến quyết định đặt phòng của khách du lịch. Khách sạn có thể sử dụng trình quản lý kênh để đồng bộ giá, đảm bảo tỷ lệ ngang giá trên các kênh bán phòng trực tuyến.
+Để tối đa lượt bán phòng trực tiếp, hãy đảm bảo rằng mức giá bạn đưa ra là bằng, hoặc thấp hơn các kênh bán phòng khác, hoặc [giảm chênh lệch giá phòng thấp nhất](/article) có thể. Sự khác biệt chỉ vài nghìn đồng cũng ảnh hưởng đáng kể đến quyết định đặt phòng của khách du lịch. Khách sạn có thể sử dụng trình quản lý kênh để đồng bộ giá, đảm bảo tỷ lệ ngang giá trên các kênh bán phòng trực tuyến.
 
 ### Tối ưu hồ sơ Google Business
 
@@ -173,7 +173,7 @@ Google Business quan trọng không kém website khách sạn và các kênh OTA
 
 ### Theo dõi và điều chỉnh chiến lược
 
-Có thể bạn đặt ngân sách cho chiến dịch là từng ngày, nhưng chi phí cho mỗi lần click chuột có thể tăng nhanh chóng và không có gì đảm bảo rằng lượng đặt phòng cũng sẽ tăng tương ứng. Cho nên, hãy theo dõi chặt chẽ [chiến lược bán phòng](https://nhavantuonglai.com/article) cũng như quảng cáo, đặt biệt là chi phí chuyển đổi, cụ thể là mỗi lượt đặt phòng sẽ tốn bao nhiêu tiền để có những điều chỉnh, tạm hoãn hoặc thay đổi cách chạy quảng cáo.
+Có thể bạn đặt ngân sách cho chiến dịch là từng ngày, nhưng chi phí cho mỗi lần click chuột có thể tăng nhanh chóng và không có gì đảm bảo rằng lượng đặt phòng cũng sẽ tăng tương ứng. Cho nên, hãy theo dõi chặt chẽ [chiến lược bán phòng](/article) cũng như quảng cáo, đặt biệt là chi phí chuyển đổi, cụ thể là mỗi lượt đặt phòng sẽ tốn bao nhiêu tiền để có những điều chỉnh, tạm hoãn hoặc thay đổi cách chạy quảng cáo.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-100.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 

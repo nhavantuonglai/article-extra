@@ -381,27 +381,27 @@ SC. CHÂU NGHIÊM: Con thực tập với em của con như thế nào?
 
 SIENA: Mỗi lần cãi nhau, chúng con đứa nào đứa nấy về giường riêng. Khi em dọn phòng thì con đọc sách. Chị em con không nói chuyện với nhau và ai nấy tự tập thở. Có lúc em ấy ra ngoài ăn sáng. Con theo dõi ba hơi thở rồi đi làm chuyện khác, cũng có lúc con xin lỗi em ấy ngay. Con nghĩ lúc đó em cũng đang theo dõi hơi thở, con cũng không chắc lắm, vì lúc đó em ấy ở đầu này thì con ở đầu kia của phòng, nhưng ít ra thì em ấy cũng đang có ý thức về hơi thở của mình.
 
-Đọc [Trồng một nụ cười, chương 01](https://nhavantuonglai.com/article/trong-mot-nu-cuoi-chuong-01) tại đây.
+Đọc [Trồng một nụ cười, chương 01](/article/trong-mot-nu-cuoi-chuong-01) tại đây.
 
-Đọc [Trồng một nụ cười, chương 02](https://nhavantuonglai.com/article/trong-mot-nu-cuoi-chuong-02) tại đây.
+Đọc [Trồng một nụ cười, chương 02](/article/trong-mot-nu-cuoi-chuong-02) tại đây.
 
-Đọc [Trồng một nụ cười, chương 03](https://nhavantuonglai.com/article/trong-mot-nu-cuoi-chuong-03) tại đây.
+Đọc [Trồng một nụ cười, chương 03](/article/trong-mot-nu-cuoi-chuong-03) tại đây.
 
-Đọc [Trồng một nụ cười, chương 04](https://nhavantuonglai.com/article/trong-mot-nu-cuoi-chuong-04) tại đây.
+Đọc [Trồng một nụ cười, chương 04](/article/trong-mot-nu-cuoi-chuong-04) tại đây.
 
-Đọc [Trồng một nụ cười, chương 05](https://nhavantuonglai.com/article/trong-mot-nu-cuoi-chuong-05) tại đây.
+Đọc [Trồng một nụ cười, chương 05](/article/trong-mot-nu-cuoi-chuong-05) tại đây.
 
-Đọc [Trồng một nụ cười, chương 06](https://nhavantuonglai.com/article/trong-mot-nu-cuoi-chuong-06) tại đây.
+Đọc [Trồng một nụ cười, chương 06](/article/trong-mot-nu-cuoi-chuong-06) tại đây.
 
-Đọc [Trồng một nụ cười, chương 07](https://nhavantuonglai.com/article/trong-mot-nu-cuoi-chuong-07) tại đây.
+Đọc [Trồng một nụ cười, chương 07](/article/trong-mot-nu-cuoi-chuong-07) tại đây.
 
-Đọc [Trồng một nụ cười, chương 08](https://nhavantuonglai.com/article/trong-mot-nu-cuoi-chuong-08) tại đây.
+Đọc [Trồng một nụ cười, chương 08](/article/trong-mot-nu-cuoi-chuong-08) tại đây.
 
-Đọc [Trồng một nụ cười, chương 09](https://nhavantuonglai.com/article/trong-mot-nu-cuoi-chuong-09) tại đây.
+Đọc [Trồng một nụ cười, chương 09](/article/trong-mot-nu-cuoi-chuong-09) tại đây.
 
-Đọc [Trồng một nụ cười, chương 10](https://nhavantuonglai.com/article/trong-mot-nu-cuoi-chuong-10) tại đây.
+Đọc [Trồng một nụ cười, chương 10](/article/trong-mot-nu-cuoi-chuong-10) tại đây.
 
-Đọc [Trồng một nụ cười, chương 11](https://nhavantuonglai.com/article/trong-mot-nu-cuoi-chuong-11) tại đây.
+Đọc [Trồng một nụ cười, chương 11](/article/trong-mot-nu-cuoi-chuong-11) tại đây.
 
 Đọc [Trồng một nụ cười, toàn tập](https://banmaixanh.vercel.app/ebook/trong-mot-nu-cuoi.pdf) tại đây.
 

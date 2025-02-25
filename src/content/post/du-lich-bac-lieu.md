@@ -9,7 +9,7 @@ tags:
   - du lich mien trung
 ---
 
-_Bạc Liêu cách Thành phố Hồ Chí Minh 280 km, thành phố Cần Thơ 100 km và thành phố Sóc Trăng 50 km. Đến với Bạc Liêu, du khách sẽ đắm mình vào không gian trong lành của những vườn chim tự nhiên, vườn nhãn cổ, rừng ngập mặn trải dài bên cạnh thành phố trẻ; nghe kể giai thoại ly kỳ về cuộc đời_ [_Công tử Bạc Liêu_](https://nhavantuonglai.com/article),_ tham quan cánh đồng diện gió…_
+_Bạc Liêu cách Thành phố Hồ Chí Minh 280 km, thành phố Cần Thơ 100 km và thành phố Sóc Trăng 50 km. Đến với Bạc Liêu, du khách sẽ đắm mình vào không gian trong lành của những vườn chim tự nhiên, vườn nhãn cổ, rừng ngập mặn trải dài bên cạnh thành phố trẻ; nghe kể giai thoại ly kỳ về cuộc đời_ [_Công tử Bạc Liêu_](/article),_ tham quan cánh đồng diện gió…_
 
 ## Bạc Liêu mùa nào đẹp?
 
@@ -37,13 +37,13 @@ _Vườn chim Bạc Liêu:_ Đi theo con đường mang tên cố nhạc sĩ Cao
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/du-lich-bac-lieu-014.jpg" alt="cam-nang-du-lich-bac-lieu" height=100% width=100%><figcaption><p>cam-nang-du-lich-bac-lieu-nhavantuonglai</p></figcaption></figure>
 
-[_Nhà Công tử Bạc Liêu_](https://nhavantuonglai.com/article) tọa lạc tại số 31 đường Điện Biên Phủ, thành phố Bạc Liêu. Ngôi nhà được xây dựng theo lối kiến trúc Pháp vào năm 1919, với toàn bộ vật liệu đem từ Pháp sang. Ngôi nhà gồm một tầng trệt, một tầng lầu với 4 phòng và 4 đại sảnh, lối hành lang rộng rãi nên nhà luôn mát mẻ và thông thoáng.
+[_Nhà Công tử Bạc Liêu_](/article) tọa lạc tại số 31 đường Điện Biên Phủ, thành phố Bạc Liêu. Ngôi nhà được xây dựng theo lối kiến trúc Pháp vào năm 1919, với toàn bộ vật liệu đem từ Pháp sang. Ngôi nhà gồm một tầng trệt, một tầng lầu với 4 phòng và 4 đại sảnh, lối hành lang rộng rãi nên nhà luôn mát mẻ và thông thoáng.
 
-Nơi đây hiện là Nhà hàng – khách sạn Công tử Bạc Liêu. Du khách đến tham quan còn có dịp nghe kể về cuộc đời của [công tử giàu nhất miền nam](https://nhavantuonglai.com/article) một thời. Giá vé 15.000 đồng.
+Nơi đây hiện là Nhà hàng – khách sạn Công tử Bạc Liêu. Du khách đến tham quan còn có dịp nghe kể về cuộc đời của [công tử giàu nhất miền nam](/article) một thời. Giá vé 15.000 đồng.
 
 _Phật Bà Nam Hải_ được xây dựng năm 1973, thuộc phường Nhà Mát của thành phố. Đây là công trình kiến trúc, văn hóa, tâm linh nổi bật. Đặc điểm thu hút du khách là tượng Phật Bà cao 11 m, xây dựng năm 1973, hướng về biển Đông để phù hộ và che chở ngư dân đang mưu sinh ngoài biển khơi.
 
-[_Chùa Xiêm Cán_](https://nhavantuonglai.com/article) là ngôi chùa đặc trưng của người Khmer tại Bạc Liêu, được xây dựng vào thế kỷ 19 trên khuông viên rộng đến 50.000 m2. Xuyên qua hàng cây xanh mát từ quốc lộ vào, du khách đều ngỡ ngàng bởi chùa được trang trí nhiều họa tiết, với những đường nét chạm trổ, điêu khắc độc đáo.
+[_Chùa Xiêm Cán_](/article) là ngôi chùa đặc trưng của người Khmer tại Bạc Liêu, được xây dựng vào thế kỷ 19 trên khuông viên rộng đến 50.000 m2. Xuyên qua hàng cây xanh mát từ quốc lộ vào, du khách đều ngỡ ngàng bởi chùa được trang trí nhiều họa tiết, với những đường nét chạm trổ, điêu khắc độc đáo.
 
 Chùa Xiêm Cán là điểm du lịch tâm linh nổi tiếng của Bạc Liêu. Vào những dịp lễ hội lớn như Chol Chnam Thmay (mừng năm mới), sluge Đôlta (cúng ông bà), Ok Om Bok (cúng trăng), chùa thu hút đông đảo du khách nhất.
 
@@ -69,7 +69,7 @@ Ngoài thưởng thức trái ngọt, du khách có thể tham gia cắm trại,
 
 _Rừng ngập mặn:_ Bạc Liêu có 56 km bờ biển, chủ yếu là rừng ngập mặn. Mỗi khi thủy triều xuống, bãi biển trải dài hàng cây số. Du khách có thể bơi xuồng len lách trong những cánh rừng phòng hộ, trải nghiệm cuộc sống địa phương khi cùng người dân câu cá, đổ đó, bắt tôm.
 
-_Cánh đồng điện gió:_ Từ trung tâm thành phố Bạc Liêu bạn đi theo đường Cao Văn Lầu ra phía biển sẽ đến địa phận ấp Biển Đông A, xã Vĩnh Trạch Đông, quãng đường khoảng 20 km. Đây được coi là [cánh đồng điện gió lớn nhất](https://nhavantuonglai.com/article) cả nước.
+_Cánh đồng điện gió:_ Từ trung tâm thành phố Bạc Liêu bạn đi theo đường Cao Văn Lầu ra phía biển sẽ đến địa phận ấp Biển Đông A, xã Vĩnh Trạch Đông, quãng đường khoảng 20 km. Đây được coi là [cánh đồng điện gió lớn nhất](/article) cả nước.
 
 Đứng từ quảng trường thành phố hoặc nhà hát 3 nón lá du khách đã có thể nhìn thấy những trụ turbine lắp cánh quạt khổng lồ in trên nền trời. Thời điểm lý tưởng nhất để ghé thăm cánh đồng gió là lúc sáng sớm hoặc chiều tà để ngắm bình minh hoặc hoàng hôn. Vé vào cửa giá 20.000 đồng mỗi người.
 
@@ -99,11 +99,11 @@ _Hải sản:_ Đất Bạc Liêu trù phú nổi tiếng với nhiều loại h
 
 _Bánh củ cải:_ Bên ngoài bánh được làm từ bột mì pha cùng với bột củ cải trắng, cán mỏng thành từng miếng nhỏ vừa ăn. Nhân bánh được chế từ tôm, tép làm dập vừa phải, thịt heo nạc trộn với đậu xanh ướp gia vị thích hợp rồi xào chín. Du khách có thể thưởng thức món bánh này tại khu Chợ lớn, thị xã Bạc Liêu.
 
-[_Bún bò cay_](https://nhavantuonglai.com/article) ghi điểm với thực khách nhờ hương vị cay nồng của ớt, mùi thơm của các loại gia vị như sả, hồi, quế… hòa quyện với nước lèo đậm đà, sóng sánh ánh đỏ và ngọt lịm. Một số địa chỉ tham khảo là quán bún bò cay số 215 đường 23 tháng 8, [bún bò cay](https://nhavantuonglai.com/article) Ánh Nguyệt…
+[_Bún bò cay_](/article) ghi điểm với thực khách nhờ hương vị cay nồng của ớt, mùi thơm của các loại gia vị như sả, hồi, quế… hòa quyện với nước lèo đậm đà, sóng sánh ánh đỏ và ngọt lịm. Một số địa chỉ tham khảo là quán bún bò cay số 215 đường 23 tháng 8, [bún bò cay](/article) Ánh Nguyệt…
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/du-lich-bac-lieu-019.jpg" alt="cam-nang-du-lich-bac-lieu" height=100% width=100%><figcaption><p>cam-nang-du-lich-bac-lieu-nhavantuonglai</p></figcaption></figure>
 
-[_Bún nước lèo_](https://nhavantuonglai.com/article) được bán ở khắp nơi tại Bạc Liêu, từ những gánh hàng rong đến các [quán ăn](https://nhavantuonglai.com/article) gia truyền nổi tiếng. Nước lèo ngon phải nấu trong nồi đất để giữ vị ngọt của tôm, cá, nước dừa và dậy mùi thơm từ mắm.
+[_Bún nước lèo_](/article) được bán ở khắp nơi tại Bạc Liêu, từ những gánh hàng rong đến các [quán ăn](/article) gia truyền nổi tiếng. Nước lèo ngon phải nấu trong nồi đất để giữ vị ngọt của tôm, cá, nước dừa và dậy mùi thơm từ mắm.
 
 Bún ăn kèm bắp chuối thái mỏng, giá, húng quế… có thể thêm mực tươi, thịt lợn quay, chả giò, bánh cống… Địa chỉ tham khảo là bún nước lèo cô Điệp ở chợ Xóm Mới trên đường Võ Thị Sáu, phường 3; Năm Hớn trên đường Trần Phú, phường 7, Thành phố Bạc Liêu,
 

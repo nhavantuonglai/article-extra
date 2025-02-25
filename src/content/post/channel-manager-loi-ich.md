@@ -109,7 +109,7 @@ Trong tương lai, Channel Manager sẽ tiếp tục phát triển với các t�
 
 ## PMS Channel Manager là gì?
 
-PMS Channel Manager là công cụ kết nối giữa phần mềm quản lý khách sạn (PMS) và các kênh bán phòng trực tuyến. [Channel Manager](https://nhavantuonglai.com/article) và [PMS](https://nhavantuonglai.com/article) có thể hoạt động độc lập, nhưng không thể thiếu trong việc kết hợp để vận hành, giúp khách sạn dễ dàng quản lý và có được nhiều lượt bán phòng hơn.
+PMS Channel Manager là công cụ kết nối giữa phần mềm quản lý khách sạn (PMS) và các kênh bán phòng trực tuyến. [Channel Manager](/article) và [PMS](/article) có thể hoạt động độc lập, nhưng không thể thiếu trong việc kết hợp để vận hành, giúp khách sạn dễ dàng quản lý và có được nhiều lượt bán phòng hơn.
 
 ## Lợi ích của việc kết hợp sử dụng PMS và công cụ Channel Manager
 
@@ -119,7 +119,7 @@ Phần mềm quản lý khách sạn đóng vai trò như trung tâm điều hà
 
 – Xử lý hủy phòng ngay lập tức, giúp phòng hủy được cập nhật tự động lên kênh bán phòng, giúp khách sạn bán phòng được nhanh hơn.
 
-– Giảm rủi ro đặt trùng, [overbooking](https://nhavantuonglai.com/article) bởi danh sách phòng trống luôn được cập nhật ngay lập tức.
+– Giảm rủi ro đặt trùng, [overbooking](/article) bởi danh sách phòng trống luôn được cập nhật ngay lập tức.
 
 – Hiển thị trên nhiều kênh bán phòng cùng lúc, giúp tăng tiếp cận khách hàng tiềm năng trên toàn cầu.
 

@@ -36,7 +36,7 @@ Có rất nhiều ý tưởng để nhà hàng thực hiện khuyến mãi, hi�
 
 ### Cho phép đặt đồ ăn trực tuyến
 
-Nếu phải lựa chọn giữa một [nhà hàng cho phép đặt đồ ăn trực tuyến](https://nhavantuonglai.com/article) và nhà hàng chỉ bán tại chỗ, đa số khách hàng có xu hướng chọn nhà hàng đầu tiên. Đây là lựa chọn an toàn và thuận tiện cho họ – lợi thế rõ ràng trong thời đại giãn cách xã hội.
+Nếu phải lựa chọn giữa một [nhà hàng cho phép đặt đồ ăn trực tuyến](/article) và nhà hàng chỉ bán tại chỗ, đa số khách hàng có xu hướng chọn nhà hàng đầu tiên. Đây là lựa chọn an toàn và thuận tiện cho họ – lợi thế rõ ràng trong thời đại giãn cách xã hội.
 
 Đặt đồ ăn trực tuyến đem lại nhiều lợi ích cho nhà hàng, cụ thể như là:
 
@@ -46,7 +46,7 @@ Nếu phải lựa chọn giữa một [nhà hàng cho phép đặt đồ ăn tr
 
 – Tăng lòng trung thành, giữ chân khách hàng hiệu quả.
 
-– Giảm chi phí vận hành, đặc biệt nếu bạn đang sử dụng [hệ thống quản lý nhà hàng](https://nhavantuonglai.com/article).
+– Giảm chi phí vận hành, đặc biệt nếu bạn đang sử dụng [hệ thống quản lý nhà hàng](/article).
 
 ### Khai thác sức mạnh của mạng xã hội
 
@@ -92,7 +92,7 @@ Một vài gợi ý để triển khai Email Marketing hiệu quả:
 
 Những ý kiến của khách hàng cho biết họ đang nghĩ gì về nhà hàng của bạn. Dù bằng câu chữ hay lời nói, nó vẫn quan trọng bởi nó trình bày chi tiết trải nghiệm của khách hàng với dịch vụ, món ăn của bạn. Và đó là cách để bạn có thể cải thiện hoạt động kinh doanh của mình trong tương lai.
 
-Vì những lý do như vậy, bạn cần [thu thập ý kiến của khách hàng](https://nhavantuonglai.com/article). Thông qua biểu mẫu phản hồi, gọi điện hay email… tất cả mọi các thuận tiện để bạn tiếp cận ý kiến của khách hàng. Và quan trọng nhất, là đảm bảo bạn đang theo dõi và trả lời chúng; nếu không, họ sẽ không muốn đưa ra ý kiến trong lần tiếp theo.
+Vì những lý do như vậy, bạn cần [thu thập ý kiến của khách hàng](/article). Thông qua biểu mẫu phản hồi, gọi điện hay email… tất cả mọi các thuận tiện để bạn tiếp cận ý kiến của khách hàng. Và quan trọng nhất, là đảm bảo bạn đang theo dõi và trả lời chúng; nếu không, họ sẽ không muốn đưa ra ý kiến trong lần tiếp theo.
 
 ### Hợp tác, kết nối với các giải pháp địa phương
 

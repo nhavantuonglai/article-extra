@@ -87,27 +87,27 @@ Khi ta ý thức được khổ đau đang có mặt trong ta, ta sẽ tìm xem 
 
 Sự thật thứ tư là Đạo Đế, là con đường dẫn đến sự chấm dứt khổ đau. Đó là con đường thực tập chánh niệm. Nếu chúng ta không thực tập tiêu thụ có chánh niệm đối với bốn loại thức ăn mà Bụt đã dạy thì chúng ta khó mà cứu vãn được hành tinh của chúng ta. Mỗi người chúng ta phải đánh thức đức Bụt trong ta dậy, bởi vì chúng ta cần tuệ giác của toàn thể cộng đồng nhân loại thì mới có đủ khả năng và điều kiện để khôi phục lại sức sống của hành tinh thân yêu của chúng ta.
 
-Đọc [Hướng đi của đạo Bụt cho hòa bình và môi sinh, chương 01](https://nhavantuonglai.com/article/huong-di-cua-dao-but-cho-hoa-binh-va-moi-sinh-chuong-01) tại đây.
+Đọc [Hướng đi của đạo Bụt cho hòa bình và môi sinh, chương 01](/article/huong-di-cua-dao-but-cho-hoa-binh-va-moi-sinh-chuong-01) tại đây.
 
-Đọc [Hướng đi của đạo Bụt cho hòa bình và môi sinh, chương 02](https://nhavantuonglai.com/article/huong-di-cua-dao-but-cho-hoa-binh-va-moi-sinh-chuong-02) tại đây.
+Đọc [Hướng đi của đạo Bụt cho hòa bình và môi sinh, chương 02](/article/huong-di-cua-dao-but-cho-hoa-binh-va-moi-sinh-chuong-02) tại đây.
 
-Đọc [Hướng đi của đạo Bụt cho hòa bình và môi sinh, chương 03](https://nhavantuonglai.com/article/huong-di-cua-dao-but-cho-hoa-binh-va-moi-sinh-chuong-03) tại đây.
+Đọc [Hướng đi của đạo Bụt cho hòa bình và môi sinh, chương 03](/article/huong-di-cua-dao-but-cho-hoa-binh-va-moi-sinh-chuong-03) tại đây.
 
-Đọc [Hướng đi của đạo Bụt cho hòa bình và môi sinh, chương 04](https://nhavantuonglai.com/article/huong-di-cua-dao-but-cho-hoa-binh-va-moi-sinh-chuong-04) tại đây.
+Đọc [Hướng đi của đạo Bụt cho hòa bình và môi sinh, chương 04](/article/huong-di-cua-dao-but-cho-hoa-binh-va-moi-sinh-chuong-04) tại đây.
 
-Đọc [Hướng đi của đạo Bụt cho hòa bình và môi sinh, chương 05](https://nhavantuonglai.com/article/huong-di-cua-dao-but-cho-hoa-binh-va-moi-sinh-chuong-05) tại đây.
+Đọc [Hướng đi của đạo Bụt cho hòa bình và môi sinh, chương 05](/article/huong-di-cua-dao-but-cho-hoa-binh-va-moi-sinh-chuong-05) tại đây.
 
-Đọc [Hướng đi của đạo Bụt cho hòa bình và môi sinh, chương 06](https://nhavantuonglai.com/article/huong-di-cua-dao-but-cho-hoa-binh-va-moi-sinh-chuong-06) tại đây.
+Đọc [Hướng đi của đạo Bụt cho hòa bình và môi sinh, chương 06](/article/huong-di-cua-dao-but-cho-hoa-binh-va-moi-sinh-chuong-06) tại đây.
 
-Đọc [Hướng đi của đạo Bụt cho hòa bình và môi sinh, chương 07](https://nhavantuonglai.com/article/huong-di-cua-dao-but-cho-hoa-binh-va-moi-sinh-chuong-07) tại đây.
+Đọc [Hướng đi của đạo Bụt cho hòa bình và môi sinh, chương 07](/article/huong-di-cua-dao-but-cho-hoa-binh-va-moi-sinh-chuong-07) tại đây.
 
-Đọc [Hướng đi của đạo Bụt cho hòa bình và môi sinh, chương 08](https://nhavantuonglai.com/article/huong-di-cua-dao-but-cho-hoa-binh-va-moi-sinh-chuong-08) tại đây.
+Đọc [Hướng đi của đạo Bụt cho hòa bình và môi sinh, chương 08](/article/huong-di-cua-dao-but-cho-hoa-binh-va-moi-sinh-chuong-08) tại đây.
 
-Đọc [Hướng đi của đạo Bụt cho hòa bình và môi sinh, chương 09](https://nhavantuonglai.com/article/huong-di-cua-dao-but-cho-hoa-binh-va-moi-sinh-chuong-09) tại đây.
+Đọc [Hướng đi của đạo Bụt cho hòa bình và môi sinh, chương 09](/article/huong-di-cua-dao-but-cho-hoa-binh-va-moi-sinh-chuong-09) tại đây.
 
-Đọc [Hướng đi của đạo Bụt cho hòa bình và môi sinh, chương 10](https://nhavantuonglai.com/article/huong-di-cua-dao-but-cho-hoa-binh-va-moi-sinh-chuong-10) tại đây.
+Đọc [Hướng đi của đạo Bụt cho hòa bình và môi sinh, chương 10](/article/huong-di-cua-dao-but-cho-hoa-binh-va-moi-sinh-chuong-10) tại đây.
 
-Đọc [Hướng đi của đạo Bụt cho hòa bình và môi sinh, chương 11](https://nhavantuonglai.com/article/huong-di-cua-dao-but-cho-hoa-binh-va-moi-sinh-chuong-11) tại đây.
+Đọc [Hướng đi của đạo Bụt cho hòa bình và môi sinh, chương 11](/article/huong-di-cua-dao-but-cho-hoa-binh-va-moi-sinh-chuong-11) tại đây.
 
 Đọc [Hướng đi của đạo Bụt cho hòa bình và môi sinh, toàn tập](https://banmaixanh.vercel.app/ebook/huong-di-cua-dao-but-cho-hoa-binh-va-moi-sinh.pdf) tại đây.
 

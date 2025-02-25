@@ -55,7 +55,7 @@ Làng gốm cổ Bàu Trúc, cách trung tâm Phan Rang – Tháp Chàm 10 km v�
 
 Tháp Poklong Garai và văn hóa Chăm
 
-Tháp nằm trên đồi Trầu, được người Chăm xây tháp vào cuối thế kỷ 13 để thờ vua [Poklong Garai](https://nhavantuonglai.com/article) (1151), vị vua có nhiều công lớn trong việc cai trị đất nước. Tượng trưng cho ngọn núi Meru trong tín ngưỡng của Ấn Độ giáo, cụm tháp có kiến trúc kiên cố dù trải qua nhiều thăng trầm lịch sử của vùng đất Panduranga xưa. Tháng 7 Chăm lịch, nếu đến thăm tháp, du khách sẽ dhòa mình vào không khí lễ hội Kate với nhiều nghi lễ cùng các điệu múa và âm nhạc Chăm truyền thống.
+Tháp nằm trên đồi Trầu, được người Chăm xây tháp vào cuối thế kỷ 13 để thờ vua [Poklong Garai](/article) (1151), vị vua có nhiều công lớn trong việc cai trị đất nước. Tượng trưng cho ngọn núi Meru trong tín ngưỡng của Ấn Độ giáo, cụm tháp có kiến trúc kiên cố dù trải qua nhiều thăng trầm lịch sử của vùng đất Panduranga xưa. Tháng 7 Chăm lịch, nếu đến thăm tháp, du khách sẽ dhòa mình vào không khí lễ hội Kate với nhiều nghi lễ cùng các điệu múa và âm nhạc Chăm truyền thống.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/du-lich-ninh-thuan-460.jpg" alt="cam-nang-du-lich-ninh-thuan" height="100%" width="100%"><figcaption><p>cam-nang-du-lich-ninh-thuan-nhavantuonglai</p></figcaption></figure>
 
@@ -75,7 +75,7 @@ Nằm cách trung tâm Phan Rang – Tháp Chàm khoảng 8 km về phía đông
 
 Mũi Dinh
 
-Do có vị trí khá hẻo lánh, đường đi khó, mũi Dinh mới được biết đến vài năm gần đây nên cảnh sắc vẫn giữ được nét nguyên sơ. Ở Mũi Dinh có ngọn hải đăng được xây từ năm 1904, là địa điểm lý tưởng ngắm bình minh và hoàng hôn trên biển. Khi lên tới đỉnh hải đăng bạn sẽ được chiêm ngưỡng khung cảnh thiên nhiên hùng vĩ. Trên đường đến mũi Dinh, bạn sẽ đi qua bãi biển Cà Ná hoang sơ và có thể check-in với [hòn đá xếp chồng chênh vênh](https://nhavantuonglai.com/article) khá đặc biệt.
+Do có vị trí khá hẻo lánh, đường đi khó, mũi Dinh mới được biết đến vài năm gần đây nên cảnh sắc vẫn giữ được nét nguyên sơ. Ở Mũi Dinh có ngọn hải đăng được xây từ năm 1904, là địa điểm lý tưởng ngắm bình minh và hoàng hôn trên biển. Khi lên tới đỉnh hải đăng bạn sẽ được chiêm ngưỡng khung cảnh thiên nhiên hùng vĩ. Trên đường đến mũi Dinh, bạn sẽ đi qua bãi biển Cà Ná hoang sơ và có thể check-in với [hòn đá xếp chồng chênh vênh](/article) khá đặc biệt.
 
 ## Ăn gì
 

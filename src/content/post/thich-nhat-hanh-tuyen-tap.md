@@ -79,7 +79,7 @@ Các cuốn sách của Thiền sư Thích Nhất Hạnh được coi là cảm 
 
 ## Tuyển tập sách của Thiền sư Thích Nhất Hạnh
 
-Dưới đây là danh sách [tuyển tập sách của Thiền sư Thích Nhất Hạnh](https://nhavantuonglai.com/article/thich-nhat-hanh-tuyen-tap), để bạn đọc tiện tìm hiểu, mua và nghiên cứu cụ thể.
+Dưới đây là danh sách [tuyển tập sách của Thiền sư Thích Nhất Hạnh](/article/thich-nhat-hanh-tuyen-tap), để bạn đọc tiện tìm hiểu, mua và nghiên cứu cụ thể.
 
 ### Giận
 

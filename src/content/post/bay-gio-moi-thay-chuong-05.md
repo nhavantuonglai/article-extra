@@ -33,23 +33,23 @@ Người yêu ơi, nếu anh đứng không yên và ngồi không vững là t�
 
 Người yêu ơi, mỗi khi được ngồi bên người, tôi cảm thấy bình an chi lạ. Năng lượng bình an của người tỏa chiếu và đi vào trong tôi. Tôi biết là người đang có cái ấy, nghĩa là có cái _bây giờ_ trong trái tim người. Mỗi khi được đi cùng người, tôi cũng cảm được cái suối nguồn an lạc vi diệu đó. Người đi mà không cần tới. Hoặc giả người tới với từng bước chân. Mỗi bước chân đưa người trở về với hải đảo tự thân, với giây phút hiện tại. Bước chân của người tự tại và thong dong giúp cho bước chân của tôi cũng có được cái tự tại và thong dong ấy. Tôi đi với người cũng như một giọt nước đang đi với dòng sông. Giọt nước không cần đi. Giọt nước được dòng sông ôm lấy và chuyên chở về đại dương của hiện tại. Người có hai cánh tay kỳ diệu có thể hái được cả những chùm hoa sao đẫm sương vào buổi sáng, và những trái trăng vàng ửng chín vào buổi chiều. Mỗi khi người ngồi uống trà, tôi cũng cảm được rằng người đang có cả một thiên thu để chỉ thưởng thức một chén trà. Mây ngừng bay, gió ngừng thổi. Mây đang có mặt trong chén trà. Gió cũng đang có mặt trong chén trà. Và tôi cũng đang có mặt trong chén trà của người. Người uống trà như là người đang uống mây.
 
-Đọc [Bây giờ mới thấy, chương 01](https://nhavantuonglai.com/article/bay-gio-moi-thay-chuong-01) tại đây.
+Đọc [Bây giờ mới thấy, chương 01](/article/bay-gio-moi-thay-chuong-01) tại đây.
 
-Đọc [Bây giờ mới thấy, chương 02](https://nhavantuonglai.com/article/bay-gio-moi-thay-chuong-02) tại đây.
+Đọc [Bây giờ mới thấy, chương 02](/article/bay-gio-moi-thay-chuong-02) tại đây.
 
-Đọc [Bây giờ mới thấy, chương 03](https://nhavantuonglai.com/article/bay-gio-moi-thay-chuong-03) tại đây.
+Đọc [Bây giờ mới thấy, chương 03](/article/bay-gio-moi-thay-chuong-03) tại đây.
 
-Đọc [Bây giờ mới thấy, chương 04](https://nhavantuonglai.com/article/bay-gio-moi-thay-chuong-04) tại đây.
+Đọc [Bây giờ mới thấy, chương 04](/article/bay-gio-moi-thay-chuong-04) tại đây.
 
-Đọc [Bây giờ mới thấy, chương 05](https://nhavantuonglai.com/article/bay-gio-moi-thay-chuong-05) tại đây.
+Đọc [Bây giờ mới thấy, chương 05](/article/bay-gio-moi-thay-chuong-05) tại đây.
 
-Đọc [Bây giờ mới thấy, chương 06](https://nhavantuonglai.com/article/bay-gio-moi-thay-chuong-06) tại đây.
+Đọc [Bây giờ mới thấy, chương 06](/article/bay-gio-moi-thay-chuong-06) tại đây.
 
-Đọc [Bây giờ mới thấy, chương 07](https://nhavantuonglai.com/article/bay-gio-moi-thay-chuong-07) tại đây.
+Đọc [Bây giờ mới thấy, chương 07](/article/bay-gio-moi-thay-chuong-07) tại đây.
 
-Đọc [Bây giờ mới thấy, chương 08](https://nhavantuonglai.com/article/bay-gio-moi-thay-chuong-08) tại đây.
+Đọc [Bây giờ mới thấy, chương 08](/article/bay-gio-moi-thay-chuong-08) tại đây.
 
-Đọc [Bây giờ mới thấy, chương 09](https://nhavantuonglai.com/article/bay-gio-moi-thay-chuong-09) tại đây.
+Đọc [Bây giờ mới thấy, chương 09](/article/bay-gio-moi-thay-chuong-09) tại đây.
 
 Đọc [Bây giờ mới thấy, toàn tập](https://banmaixanh.vercel.app/ebook/bay-gio-moi-thay.pdf) tại đây.
 

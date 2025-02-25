@@ -16,7 +16,7 @@ _Để tính toán và đo lường hiệu quả kinh doanh nhà hàng, bạn d�
 
 ## RevPASH là gì?
 
-Khi tính toán và đo lường mức độ hiệu quả trong [kinh doanh nhà hàng](https://nhavantuonglai.com/article), các chủ nhà hàng thường chỉ dựa vào một hoặc vài yếu tố cụ thể mà bỏ qua các chỉ số, giá trị mang tính tổng quan, ví dụ doanh thu ngày, công suất chỗ ngồi, số lượng món… nhằm đơn giản hóa việc tính toán, và phần nào đó chúng cũng hữu ích, giúp họ nắm bắt nhanh được vấn đề. Nhưng để có cái nhìn tổng quát, nhà hàng của bạn cần phải có nhiều hơn thế.
+Khi tính toán và đo lường mức độ hiệu quả trong [kinh doanh nhà hàng](/article), các chủ nhà hàng thường chỉ dựa vào một hoặc vài yếu tố cụ thể mà bỏ qua các chỉ số, giá trị mang tính tổng quan, ví dụ doanh thu ngày, công suất chỗ ngồi, số lượng món… nhằm đơn giản hóa việc tính toán, và phần nào đó chúng cũng hữu ích, giúp họ nắm bắt nhanh được vấn đề. Nhưng để có cái nhìn tổng quát, nhà hàng của bạn cần phải có nhiều hơn thế.
 
 Ví dụ, quán đông khách, luôn trong trạng thái kín chỗ nhưng doanh thu ảm đạm, càng kinh doanh càng hụt vốn. Lý do là bởi thực khách ngồi nhiều, ngồi lâu và gọi ít món, nên doanh thu mỗi giờ hay mỗi bàn là rất thấp. Nếu không có một cái nhìn tổng quan, bao quát toàn bộ, chủ nhà hàng dễ dàng bị đánh lừa bởi trạng thái đông kín chỗ của nhà hàng, mà không khắc phục được những vấn đề đang tồn tại.
 
@@ -58,7 +58,7 @@ Một điều bạn cần lưu ý rằng, trọng tâm của công thức là th
 
 ## Tại sao nhà hàng của bạn nên triển khai công thức RevPASH?
 
-Nếu bạn đang điều hành một nhà hàng, tiệm Spa hoặc giải pháp nào liên quan đến dịch vụ, cụ thể là [phục vụ thực khách tại chỗ](https://nhavantuonglai.com/article), thì RevPASH là một chỉ số tuyệt vời cần phải theo dõi. RevPASH ngoài những lợi ích như đã nêu ở trên, chúng còn là số liệu để theo dõi, đánh giá các chiến lược, kế hoạch truyền thông của giải pháp.
+Nếu bạn đang điều hành một nhà hàng, tiệm Spa hoặc giải pháp nào liên quan đến dịch vụ, cụ thể là [phục vụ thực khách tại chỗ](/article), thì RevPASH là một chỉ số tuyệt vời cần phải theo dõi. RevPASH ngoài những lợi ích như đã nêu ở trên, chúng còn là số liệu để theo dõi, đánh giá các chiến lược, kế hoạch truyền thông của giải pháp.
 
 Ví dụ, qua số liệu từ RevPASH, bạn thấy được rằng nhóm thực khách phổ biến sẽ gồm 2 hoặc 3 thành viên, và ít nhóm ngồi hết 4 chỗ mỗi bàn. Để tối ưu công suất chỗ ngồi, và khai thác không gian hiệu quả hơn, bạn có thể điều chỉnh số lượng ghế mỗi bàn xuống còn 3, và giữ lại một ít là 4 để có thể trang bị được nhiều bàn hơn trong nhà hàng của mình.
 
@@ -80,7 +80,7 @@ Công suất chỗ ngồi trong nhà hàng phản ánh khả năng tái tạo do
 
 Với chỗ bị trống quá lâu, nhà hàng có thể áp dụng các giải pháp sau:
 
-– [Thu hút nhiều thực khách](https://nhavantuonglai.com/article) bằng cách tặng kèm món, giảm giá hoặc ưu đãi đặc biệt.
+– [Thu hút nhiều thực khách](/article) bằng cách tặng kèm món, giảm giá hoặc ưu đãi đặc biệt.
 
 – Giảm nhân viên, nhân sự để giảm chi phí lương cho nhân viên.
 
@@ -92,7 +92,7 @@ Với chỗ bị dùng quá lâu, nhà hàng có thể áp dụng các giải ph
 
 – Áp dụng chính sách giới hạn thời gian dùng bữa, quá thời gian sẽ tính phụ phí.
 
-– Ưu tiên bán hàng mang đi, [đặt đồ ăn trực tuyến](https://nhavantuonglai.com/article), giúp nhà hàng đỡ áp lực chỗ ngồi và bán được nhiều đơn hơn.
+– Ưu tiên bán hàng mang đi, [đặt đồ ăn trực tuyến](/article), giúp nhà hàng đỡ áp lực chỗ ngồi và bán được nhiều đơn hơn.
 
 ### Khuyến khích thực khách chi tiêu nhiều hơn
 
@@ -104,11 +104,11 @@ Nếu công suất chỗ ngồi thấp và bạn không thể bán cho nhiều t
 
 Ngoài những giải pháp trên, các nhà hàng còn có thể áp dụng công nghệ cho nhà hàng, thông qua các giảm pháp như là:
 
-– Áp dụng [bán hàng trực tuyến](https://nhavantuonglai.com/article), thông qua các nền tảng, ứng dụng trực tuyến.
+– Áp dụng [bán hàng trực tuyến](/article), thông qua các nền tảng, ứng dụng trực tuyến.
 
-– Sử dụng [điểm bán hàng (POS)](https://nhavantuonglai.com/article) để thu hút và hỗ trợ đặt món nhanh chóng hơn.
+– Sử dụng [điểm bán hàng (POS)](/article) để thu hút và hỗ trợ đặt món nhanh chóng hơn.
 
-– Sử dụng [phần mềm quản lý nhà hàng](https://nhavantuonglai.com/article) để tối ưu hiệu quả, vận hành tốt hơn.
+– Sử dụng [phần mềm quản lý nhà hàng](/article) để tối ưu hiệu quả, vận hành tốt hơn.
 
 Tổng kết lại, RevPASH là một chỉ số quan trọng và hữu ích với các nhà hàng. Biết cách tính và khai thác chúng một cách có hiệu quả, sẽ đem lại nhiều lợi ích thiết thực cho nhà hàng của bạn.
 

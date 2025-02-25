@@ -15,11 +15,11 @@ tags:
 
 _Viết lách say sưa, chỉnh sửa tỉnh táo (write drunk, edit sober) là một châm ngôn viết lách nổi tiếng nhưng không rõ tác giả. Danh sách tác giả được cho là đã nói thì dài dằng đặc, có thể kể đến như là: Charles Bukowski, Ernest Hemingway, F. Scott Fitzgerald và James Joyce… Dẫu vậy, nguồn gốc không quan trọng bằng ý nghĩa, khi đây là lời khích lệ viết lách nổi tiếng, hữu ích cho những ai chập chững bước vào nghề viết._
 
-Chuỗi bài viết [Làm chủ nghệ thuật viết lách](https://nhavantuonglai.com/tags/lam-chu-nghe-thuat-viet-lach) là những hướng dẫn căn bản giúp bạn làm chủ kỹ năng viết lách của bản thân.
+Chuỗi bài viết [Làm chủ nghệ thuật viết lách](/tags/lam-chu-nghe-thuat-viet-lach) là những hướng dẫn căn bản giúp bạn làm chủ kỹ năng viết lách của bản thân.
 
 ## Ai đã nói Viết lách say sưa, chỉnh sửa tỉnh táo (write drunk, edit sober)?
 
-Câu nói _Viết lách say sưa, chỉnh sửa tỉnh táo_ (write drunk, edit sober) là một lời khuyên phổ biến cho những ai trong [hành trình viết (writing process)](https://nhavantuonglai.com/article). Nhiều người cho rằng, đây là câu nói của Ernest Hemingway – một trong những nhà văn lớn nhất của thế kỷ XX, nổi tiếng với phong cách viết đơn giản, súc tích và mạnh mẽ. Nhưng thực tế, Hemingway chưa bao giờ nói câu này, và thậm chí ông còn phản đối việc viết khi say xỉn.
+Câu nói _Viết lách say sưa, chỉnh sửa tỉnh táo_ (write drunk, edit sober) là một lời khuyên phổ biến cho những ai trong [hành trình viết (writing process)](/article). Nhiều người cho rằng, đây là câu nói của Ernest Hemingway – một trong những nhà văn lớn nhất của thế kỷ XX, nổi tiếng với phong cách viết đơn giản, súc tích và mạnh mẽ. Nhưng thực tế, Hemingway chưa bao giờ nói câu này, và thậm chí ông còn phản đối việc viết khi say xỉn.
 
 Thực ra, câu nói _Viết lách say sưa, chỉnh sửa tỉnh táo_ có nguồn gốc từ một nhân vật hư cấu trong tiểu thuyết _Reuben_ của Peter De Vries, xuất bản năm 1964. Trong cuốn sách này, Reuben, một nhà thơ được xây dựng hình tượng từ Dylan Thomas – một nhà thơ xứ Wales nổi tiếng với những bài thơ lãng mạn và đầy cảm xúc; đã đưa ra lời khuyên này cho một nhà văn trẻ. Reuben nói rằng: _Đôi khi tôi làm thơ khi đang say và chỉnh sửa chúng lúc tỉnh táo. Đó là cách duy nhất tôi có thể làm. Nếu tôi viết khi tỉnh táo, tôi sẽ chỉnh sửa lúc đang say, và đó là một thảm họa._ Nguyên văn: Sometimes I write drunk and revise sober, and sometimes I write sober and revise drunk. But you have to have both elements in creation – the Apollonian and the Dionysian, or spontaneity and restraint, emotion and discipline.
 
@@ -87,7 +87,7 @@ Vậy nên, điều quan trọng và tuyệt đối tuân thủ khi dùng rượ
 
 ### Chỉ hiểu theo nghĩa bóng của châm ngôn
 
-Viết lách là quá trình sáng tạo và bạn có thể [cải thiện kỹ năng viết văn](https://nhavantuonglai.com/article) liên tục theo thời gian. Điều ấy cũng đòi hỏi cách tiếp cận và sáng tạo phù hợp, để khai thác tốt [cảm hứng viết lách](https://nhavantuonglai.com/article) ngay cả khi không có ý tưởng. _Viết lách say sưa, chỉnh sửa tỉnh táo_ là cách tiếp cận thú vị, hoàn hảo giúp bạn đạt được điều ấy, bằng cách khơi gợi niềm đam mê, phá bỏ những giới hạn trong suy nghĩ và thể hiện chúng bằng ngôn từ. Vậy nên, hãy bỏ qua ngữ nghĩa bề mặt về sự say xỉn khi viết lách, hãy tập trung vào cối lõi giá trị của câu châm ngôn để bạn có thể rộng mở trí tưởng tượng, nhìn thấy được nhiều hơn những hơi thở của cuộc sống để đưa chúng vào văn chương và tiếp cận gần hơn với độc giả yêu quý.
+Viết lách là quá trình sáng tạo và bạn có thể [cải thiện kỹ năng viết văn](/article) liên tục theo thời gian. Điều ấy cũng đòi hỏi cách tiếp cận và sáng tạo phù hợp, để khai thác tốt [cảm hứng viết lách](/article) ngay cả khi không có ý tưởng. _Viết lách say sưa, chỉnh sửa tỉnh táo_ là cách tiếp cận thú vị, hoàn hảo giúp bạn đạt được điều ấy, bằng cách khơi gợi niềm đam mê, phá bỏ những giới hạn trong suy nghĩ và thể hiện chúng bằng ngôn từ. Vậy nên, hãy bỏ qua ngữ nghĩa bề mặt về sự say xỉn khi viết lách, hãy tập trung vào cối lõi giá trị của câu châm ngôn để bạn có thể rộng mở trí tưởng tượng, nhìn thấy được nhiều hơn những hơi thở của cuộc sống để đưa chúng vào văn chương và tiếp cận gần hơn với độc giả yêu quý.
 
 Như vậy, _viết lách say sưa, chỉnh sửa tỉnh táo_ đơn thuần là một châm ngôn khuyến khích sự sáng tạo trong viết lách, văn chương bằng sự rộng mở trong trí tưởng tượng và tâm hồn, chứ không đơn thuần là lời khuyên về uống rượu bia để viết tốt hơn. Đọc và hiểu đúng ngữ nghĩa của câu chữ ấy, sẽ giúp bạn viết tốt, hay hơn mà chẳng cần phải nhấp ngụm rượu nào trên môi.
 

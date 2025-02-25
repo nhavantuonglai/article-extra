@@ -147,17 +147,17 @@ _Mọi phương pháp đạt đạo, hành đạo đều phải phát xuất t�
 
 Nhờ thế mà tuy sống ngay trong thế gian, người ấy hiểu thấu được nguyên tắc biến hóa của thế giới hiện tượng. Chỉ có một phương pháp ấy để khiến cho chúng sanh minh đạt giác ngộ chứ chẳng còn có phương pháp nào khác… Vì khi ta đã đoạn trừ được mọi vọng niệm phân biệt thì ta có thể an trú trong cảnh giới của nghiệp, dùng những phương tiện khôn khéo thực hiện những công trình hữu vi ngay trong thế giới hữu vi mà không cần phải phân biệt hữu vi vô vi gì nữa. (Thiền Uyển Truyền Đăng Tập Lục).
 
-Đọc [Nẻo vào thiền học, chương 01](https://nhavantuonglai.com/article/neo-vao-thien-hoc-chuong-01) tại đây.
+Đọc [Nẻo vào thiền học, chương 01](/article/neo-vao-thien-hoc-chuong-01) tại đây.
 
-Đọc [Nẻo vào thiền học, chương 02](https://nhavantuonglai.com/article/neo-vao-thien-hoc-chuong-02) tại đây.
+Đọc [Nẻo vào thiền học, chương 02](/article/neo-vao-thien-hoc-chuong-02) tại đây.
 
-Đọc [Nẻo vào thiền học, chương 03](https://nhavantuonglai.com/article/neo-vao-thien-hoc-chuong-03) tại đây.
+Đọc [Nẻo vào thiền học, chương 03](/article/neo-vao-thien-hoc-chuong-03) tại đây.
 
-Đọc [Nẻo vào thiền học, chương 04](https://nhavantuonglai.com/article/neo-vao-thien-hoc-chuong-04) tại đây.
+Đọc [Nẻo vào thiền học, chương 04](/article/neo-vao-thien-hoc-chuong-04) tại đây.
 
-Đọc [Nẻo vào thiền học, chương 05](https://nhavantuonglai.com/article/neo-vao-thien-hoc-chuong-05) tại đây.
+Đọc [Nẻo vào thiền học, chương 05](/article/neo-vao-thien-hoc-chuong-05) tại đây.
 
-Đọc [Nẻo vào thiền học, chương 06](https://nhavantuonglai.com/article/neo-vao-thien-hoc-chuong-06) tại đây.
+Đọc [Nẻo vào thiền học, chương 06](/article/neo-vao-thien-hoc-chuong-06) tại đây.
 
 Đọc [Nẻo vào thiền học, toàn tập](https://banmaixanh.vercel.app/ebook/neo-vao-thien-hoc.pdf) tại đây.
 

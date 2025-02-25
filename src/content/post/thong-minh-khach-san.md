@@ -29,7 +29,7 @@ _Trong khách sạn thông minh, khách sử dụng các thiết bị kết nố
 
 ## Tại sao mọi khách sạn nên trở thành khách sạn thông minh?
 
-Hilton, Marriott và các thương hiệu khách sạn lớn khác đã nhanh chóng bắt kịp xu hướng khách sạn thông minh. Tuy nhiên, các khách sạn khác cũng nên đi theo xu hướng này, biến khách sạn của họ thành khách sạn thông minh, bởi nó sẽ [thay đổi đáng kể trải nghiệm của khách hàng](https://nhavantuonglai.com/article), giúp nhân viên làm việc dễ dàng hơn và tối ưu doanh thu cho người quản lý.
+Hilton, Marriott và các thương hiệu khách sạn lớn khác đã nhanh chóng bắt kịp xu hướng khách sạn thông minh. Tuy nhiên, các khách sạn khác cũng nên đi theo xu hướng này, biến khách sạn của họ thành khách sạn thông minh, bởi nó sẽ [thay đổi đáng kể trải nghiệm của khách hàng](/article), giúp nhân viên làm việc dễ dàng hơn và tối ưu doanh thu cho người quản lý.
 
 Khi sử dụng phòng của khách sạn thông minh, khách đặt phòng có thể kiểm soát, điều khiển các thành phần khác nhau và nhận phòng theo cách họ muốn, và các thông tin quan trọng cũng sẽ được cung cấp nhanh và truy cập dễ dàng hơn. Đồng thời, như những gì sắp được trình bày dưới đây, việc tạo ra khách sạn thông minh cũng sẽ giúp khách sạn giảm đi nhiều chi phí hoạt động.
 
@@ -55,7 +55,7 @@ Như vậy, khách hàng có thể sử dụng các thiết bị thông minh tro
 
 ### Khách sạn ra quyết định dựa trên dữ liệu đã thu thập
 
-Điều cần tiên cần phải nói, là khách sạn cần tôn trọng dữ liệu và quyền riêng tư của khách đặt phòng, các câu lệnh giọng nói, tài khoản dịch vụ cá nhân… đều phải được xóa sau khi khách trả phòng. Tiếp theo, khách sạn cần minh bạch việc thu thập, và tuân thủ việc bảo vệ dữ liệu – thì chúng cũng sẽ rất hữu ích như cách[ khai thác dữ liệu từ Booking Engine để tăng đặt phòng trực tiếp](https://nhavantuonglai.com/article).
+Điều cần tiên cần phải nói, là khách sạn cần tôn trọng dữ liệu và quyền riêng tư của khách đặt phòng, các câu lệnh giọng nói, tài khoản dịch vụ cá nhân… đều phải được xóa sau khi khách trả phòng. Tiếp theo, khách sạn cần minh bạch việc thu thập, và tuân thủ việc bảo vệ dữ liệu – thì chúng cũng sẽ rất hữu ích như cách[ khai thác dữ liệu từ Booking Engine để tăng đặt phòng trực tiếp](/article).
 
 Ví dụ, khách sạn biết được đâu là kênh truyền hình được ưa thích, vị trí phòng và cường độ ánh sáng ưa thích là gì, vị trí địa lý của khách và nhiệt độ phòng có ảnh hưởng ra sao… để có thể phục vụ các nhóm khách tương tự trong tương lai được tốt hơn.
 
@@ -79,7 +79,7 @@ Ví dụ, hệ thống sưởi, điều hòa sẽ tự động bật – ngắt 
 
 Loa thông minh và các sản phẩm như Alexa giúp các khách sạn nắm ứng dụng công nghệ giọng nói vào hoạt động dễ dàng hơn bao giờ hết, và chúng có thể rất hữu ích, thú vị khi được triển khai trong các phòng khách sạn. Điều quan trọng, là công nghệ giọng nói cải thiện trải nghiệm của người dùng, và thực hiện các yêu cầu nhanh hơn, dễ dàng hơn bao giờ hết.
 
-Ví dụ, khách [tìm kiếm thông tin du lịch quanh khu vực](https://nhavantuonglai.com/article), thì có thể ra lệnh bằng giọng nói với loa thông minh có trong phòng và nhận lại các thông tin mới nhất được thu thập từ internet. Tương tự, trung tâm điều khiển thông minh (Smart Hubs) là nơi người dùng có thể phát nhạc (từ loa thông minh), thay đổi kênh truyền hình (từ Tivi thông minh) hoặc tắt đèn (từ đèn thông minh) bằng các câu lệnh đơn giản (bật nhạc lên, tắt đèn ngay…).
+Ví dụ, khách [tìm kiếm thông tin du lịch quanh khu vực](/article), thì có thể ra lệnh bằng giọng nói với loa thông minh có trong phòng và nhận lại các thông tin mới nhất được thu thập từ internet. Tương tự, trung tâm điều khiển thông minh (Smart Hubs) là nơi người dùng có thể phát nhạc (từ loa thông minh), thay đổi kênh truyền hình (từ Tivi thông minh) hoặc tắt đèn (từ đèn thông minh) bằng các câu lệnh đơn giản (bật nhạc lên, tắt đèn ngay…).
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-027.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 

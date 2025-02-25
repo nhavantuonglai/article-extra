@@ -15,9 +15,9 @@ _Là một huyện miền núi phía đông bắc tỉnh Quảng Ninh, Bình Li�
 
 ## Bình Liêu mùa nào đẹp
 
-Mỗi mùa, nơi đây có một điểm lý thú riêng thu hút du khách. Vào mùa xuân, khách du lịch sẽ có dịp tham gia các lễ hội đặc sắc như lễ hội đình Lục Nà, hội hát Soóng Cọ giao duyên, ngày _kiêng gió_… hay ngắm [phong hương lá đỏ](https://nhavantuonglai.com/article).
+Mỗi mùa, nơi đây có một điểm lý thú riêng thu hút du khách. Vào mùa xuân, khách du lịch sẽ có dịp tham gia các lễ hội đặc sắc như lễ hội đình Lục Nà, hội hát Soóng Cọ giao duyên, ngày _kiêng gió_… hay ngắm [phong hương lá đỏ](/article).
 
-Mùa hè có thác nước cuồn cuộn trong khi ruộng bậc thang xanh mướt mắt. Mùa thu, những đồng cỏ lau dọc hai bên đường lên cột mốc cùng trổ bông thu hút rất đông du khách. Vào mùa đông, nếu may mắn du khách còn có thể tận mắt thấy băng giá. Cuối năm là mùa thu hoạch và dịp [lễ hội hoa sở](https://nhavantuonglai.com/article), lễ mừng cơm mới.
+Mùa hè có thác nước cuồn cuộn trong khi ruộng bậc thang xanh mướt mắt. Mùa thu, những đồng cỏ lau dọc hai bên đường lên cột mốc cùng trổ bông thu hút rất đông du khách. Vào mùa đông, nếu may mắn du khách còn có thể tận mắt thấy băng giá. Cuối năm là mùa thu hoạch và dịp [lễ hội hoa sở](/article), lễ mừng cơm mới.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/du-lich-binh-lieu-086.jpg" alt="cam-nang-du-lich-binh-lieu" height=100% width=100%><figcaption><p>cam-nang-du-lich-binh-lieu-nhavantuonglai</p></figcaption></figure>
 
@@ -95,7 +95,7 @@ Tìm hiểu văn hóa
 
 Bình Liêu có trên 96% dân số là đồng bào dân tộc thiểu số, phần lớn là người Tày, Dao, Sán Chỉ, Kinh, Hoa… Du khách tới Bình Liêu sẽ được đắm mình trong văn hóa, bản sắc của người dân nơi đây.
 
-Trong đó, một nhánh dân tộc Dao là đồng bào [Dao Thanh Phán](https://nhavantuonglai.com/article) luôn nổi bật với trang phục nhiều họa tiết và màu đỏ làm chủ đạo. Người Dao Thanh Phán quan niệm, họ sống ở vùng núi cao nên cần mặc đồ rực rỡ sắc màu, để thú dữ tránh đi.
+Trong đó, một nhánh dân tộc Dao là đồng bào [Dao Thanh Phán](/article) luôn nổi bật với trang phục nhiều họa tiết và màu đỏ làm chủ đạo. Người Dao Thanh Phán quan niệm, họ sống ở vùng núi cao nên cần mặc đồ rực rỡ sắc màu, để thú dữ tránh đi.
 
 Ngoài ra, tùy vào lịch trình cá nhân, bạn còn có thể đỉnh Quảng Nam Châu, núi Kéo Lạn, núi Cao Ba Lanh… hay ghé thăm đình Lục Nà thờ Thành Hoàng làng cùng những anh hùng cách mạng để nghe sự tích cây tre mọc ngược và chiêm ngưỡng ngôi đình đậm nét cổ kính với 5 gian, tường gạch, mái lợp ngói âm dương.
 
@@ -103,6 +103,6 @@ Ngoài ra, tùy vào lịch trình cá nhân, bạn còn có thể đỉnh Quả
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/du-lich-binh-lieu-093.jpg" alt="cam-nang-du-lich-binh-lieu" height=100% width=100%><figcaption><p>cam-nang-du-lich-binh-lieu-nhavantuonglai</p></figcaption></figure>
 
-Bạn nhớ đừng bỏ qua các món ngon đặc trưng của vùng này như xôi 7 màu, bánh coóc mò, bánh gật gù, bánh ngải, [tài lồng ệp](https://nhavantuonglai.com/article) miến dong, cá suối nướng, măng rừng xào…
+Bạn nhớ đừng bỏ qua các món ngon đặc trưng của vùng này như xôi 7 màu, bánh coóc mò, bánh gật gù, bánh ngải, [tài lồng ệp](/article) miến dong, cá suối nướng, măng rừng xào…
 
 <figure><img src="https://banmaixanh.vercel.app/image/cover/001-306.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

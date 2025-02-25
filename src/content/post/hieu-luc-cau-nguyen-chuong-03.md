@@ -137,13 +137,13 @@ Trong đạo Bụt, chúng ta rất tin ở năng lượng cầu nguyện mà ch
 
 Chúng ta còn biết thêm rằng thức này cũng có thể được nuôi dưỡng, được tạo tác bởi cái vô minh, tiếng Anh gọi là Ignorance. Cái ignorance càng nhiều chừng nào thì chúng ta càng có nhiều nguyên do của bệnh chừng đó. Sự tu tập mỗi ngày của ta, của bạn ta, và của xã hội ta tạo ra cái minh, nhờ đó mà cái vô minh được chuyển hóa và vắng mặt dần dần. Khi cái minh được tạo ra thì ta có từ, có bi. Minh đây có nghĩa là hiểu biết, từ và bi đây là có nghĩa là thương yêu. Mà có nhiều hiểu biết hơn, có nhiều thương yêu trong tâm thức cộng đồng, thì tình trạng sức khỏe của cá nhân sẽ khá hơn. Ta sẽ ít cần đi bác sĩ hơn.
 
-Đọc [Hiệu lực cầu nguyện, chương 01](https://nhavantuonglai.com/article/hieu-luc-cau-nguyen-chuong-01) tại đây.
+Đọc [Hiệu lực cầu nguyện, chương 01](/article/hieu-luc-cau-nguyen-chuong-01) tại đây.
 
-Đọc [Hiệu lực cầu nguyện, chương 02](https://nhavantuonglai.com/article/hieu-luc-cau-nguyen-chuong-02) tại đây.
+Đọc [Hiệu lực cầu nguyện, chương 02](/article/hieu-luc-cau-nguyen-chuong-02) tại đây.
 
-Đọc [Hiệu lực cầu nguyện, chương 03](https://nhavantuonglai.com/article/hieu-luc-cau-nguyen-chuong-03) tại đây.
+Đọc [Hiệu lực cầu nguyện, chương 03](/article/hieu-luc-cau-nguyen-chuong-03) tại đây.
 
-Đọc [Hiệu lực cầu nguyện, chương 04](https://nhavantuonglai.com/article/hieu-luc-cau-nguyen-chuong-04) tại đây.
+Đọc [Hiệu lực cầu nguyện, chương 04](/article/hieu-luc-cau-nguyen-chuong-04) tại đây.
 
 Đọc [Hiệu lực cầu nguyện, toàn tập](https://banmaixanh.vercel.app/ebook/hieu-luc-cau-nguyen.pdf) tại đây.
 

@@ -19,9 +19,9 @@ _Vấn nạn đánh giá ảo tạo ra thách thức cho những khách sạn ki
 
 ## Quy mô ảnh hưởng của những đánh giá ảo
 
-Nhiều nghiên cứu chỉ ra rằng: 90% du khách quan tâm các đánh giá trực tuyến khi lập kế hoạch du lịch. Bởi lẽ, đó như là lời chứng thực cho trải nghiệm của khách hàng, giá trị của khách sạn trong mắt du khách đã lưu trú tại đó. Điều này tạo ra một xu hướng xấu là đánh giá ảo – nhằm [vu khống, bôi nhọ, điều hướng…](https://nhavantuonglai.com/article) đầy ác ý để du khách không chọn khách sạn đó, mà chọn khách sạn khác.
+Nhiều nghiên cứu chỉ ra rằng: 90% du khách quan tâm các đánh giá trực tuyến khi lập kế hoạch du lịch. Bởi lẽ, đó như là lời chứng thực cho trải nghiệm của khách hàng, giá trị của khách sạn trong mắt du khách đã lưu trú tại đó. Điều này tạo ra một xu hướng xấu là đánh giá ảo – nhằm [vu khống, bôi nhọ, điều hướng…](/article) đầy ác ý để du khách không chọn khách sạn đó, mà chọn khách sạn khác.
 
-Hệ quả của chúng là, các khách sạn làm ăn chân chính, tạo ra trải nghiệm tích cực lại nhận được những đánh giá sai lệch về trải nghiệm, khiến du khách có cái nhìn không thiện cảm; và những khách sạn làm ăn chụp giật, thiếu đầu tư lại trở thành lựa chọn lý tưởng trong mắt những du khách chưa tới đó. Và để đáp ứng nhu cầu này, có hẳn những thị trường dịch vụ đánh giá ảo, hoạt động rất chuyên nghiệp như một ngành nghề chính thống. Chính lẽ đó, mà nhiều chủ khách sạn, nhà hàng và công ty lữ hành tin rằng đánh giá ảo là một vấn đề nghiêm trọng trong ngành, đến mức một số người trở nên nghi ngờ về độ tin cậy của các trang [đánh giá trực tuyến](https://nhavantuonglai.com/article).
+Hệ quả của chúng là, các khách sạn làm ăn chân chính, tạo ra trải nghiệm tích cực lại nhận được những đánh giá sai lệch về trải nghiệm, khiến du khách có cái nhìn không thiện cảm; và những khách sạn làm ăn chụp giật, thiếu đầu tư lại trở thành lựa chọn lý tưởng trong mắt những du khách chưa tới đó. Và để đáp ứng nhu cầu này, có hẳn những thị trường dịch vụ đánh giá ảo, hoạt động rất chuyên nghiệp như một ngành nghề chính thống. Chính lẽ đó, mà nhiều chủ khách sạn, nhà hàng và công ty lữ hành tin rằng đánh giá ảo là một vấn đề nghiêm trọng trong ngành, đến mức một số người trở nên nghi ngờ về độ tin cậy của các trang [đánh giá trực tuyến](/article).
 
 Có rất nhiều tin tức về sự phổ biến của thông tin ảo hoặc gian lận trên các trang đánh giá. Cũng đã có các cuộc điều tra về sự phổ biến của các đánh giá ảo trên Google và Amazon. Thậm chí đã có những báo cáo về các đánh giá ảo trên Booking.com – khi mà trước đây họ đã tuyên bố là miễn nhiễm với đánh giá ảo, và nhiều khách sạn cũng tuyên bố rằng họ không thể làm gì hơn với những đánh giá ảo.
 
@@ -41,7 +41,7 @@ Nhưng chính Tripadvisor vẫn đang rất dễ dàng để những đánh giá
 
 ## Các trang bán phòng làm thế nào để xác định đâu là đánh giá ảo?
 
-Cùng tìm hiểu cách các [kênh bán phòng trực tuyến](https://nhavantuonglai.com/article), kênh đánh giá trực tuyến xác định và đối phó với các đánh giá ảo, đặc biệt là Tripadvisor – một trong những kênh đánh giá trực tuyến hàng đầu, được nhiều du khách tin tưởng khi tham khảo thông tin trước chuyến đi của mình.
+Cùng tìm hiểu cách các [kênh bán phòng trực tuyến](/article), kênh đánh giá trực tuyến xác định và đối phó với các đánh giá ảo, đặc biệt là Tripadvisor – một trong những kênh đánh giá trực tuyến hàng đầu, được nhiều du khách tin tưởng khi tham khảo thông tin trước chuyến đi của mình.
 
 ### Với người đánh giá cá nhân
 
@@ -67,7 +67,7 @@ Nói về điều này, đại diện của Tripadvisor từng chia sẻ: bằng
 
 Với các trang bán phòng trực tuyến khác, các giải pháp chống lại đánh giá ảo trực tuyến thường không được công khai, tuy nhiên trong điều khoản sử dụng thì họ luôn đề cập đến việc nghiêm cấm đánh giá ảo trực tuyến.
 
-[Google My Business](https://nhavantuonglai.com/article) sử dụng các công cụ tự động nhằm phát hiện và làm rõ sự nghi ngờ với các đánh giá trực tuyến, điều này không chỉ được áp dụng với các khách sạn mà với mọi giải pháp hiển thị trên chúng. Để cải thiện nguồn lực, họ cũng dựa vào cộng đồng để thu thập thông tin và ra quyết định dựa vào chúng.
+[Google My Business](/article) sử dụng các công cụ tự động nhằm phát hiện và làm rõ sự nghi ngờ với các đánh giá trực tuyến, điều này không chỉ được áp dụng với các khách sạn mà với mọi giải pháp hiển thị trên chúng. Để cải thiện nguồn lực, họ cũng dựa vào cộng đồng để thu thập thông tin và ra quyết định dựa vào chúng.
 
 Fanpage Facebook cũng hoạt động tương tự như trên, nhưng thêm một điều là mọi đánh giá đều phải được kiểm duyệt trước khi đăng.
 
@@ -101,6 +101,6 @@ Việc chống lại vấn nạn đánh giá ảo không chỉ là trách nhiệ
 
 Cụ thể, nếu bắt gặp một đánh giá trực tuyến có vẻ đáng ngờ, như nội dung lặp lại hoặc vô nghĩa, không liên quan đến khách sạn, bạn hãy bấm vào nút Report để báo cáo với nền tảng. Khi thực hiện, ngoài url đánh giá, cũng hãy cung cấp url của người thực hiện đánh giá, ảnh chụp màn hình chứa nội dung để xác thực. Khi thông tin cung cấp càng nhiều, mức độ tin cậy lại càng cao và các nền tảng dễ dàng ra quyết định với những đánh giá đó hơn.
 
-Vấn nạn đánh giá ảo rõ ràng là một thách thức lớn đối với ngành khách sạn, ảnh hưởng đến [danh tiếng của khách sạn](https://nhavantuonglai.com/article) lẫn các trang đánh giá trực tuyến và việc ra quyết định của người tiêu dùng. Các trang đánh giá trực tuyến cũng đã nỗ lực đầu tư vào công nghệ và nhân sự để phát hiện và xóa các đánh giá ảo. Ngoài ra, chủ khách sạn và khách có thể đóng vai trò hạn chế vấn đề này bằng cách báo cáo các giá đáng ngờ mà họ gặp phải. Điều quan trọng đối với ngành khách sạn là tiếp tục hợp tác để giảm thiểu sự phổ biến của các bài đánh giá ảo nhằm đảm bảo rằng người tiêu dùng có thể tin tưởng vào các bài đánh giá trực tuyến mà họ đọc được.
+Vấn nạn đánh giá ảo rõ ràng là một thách thức lớn đối với ngành khách sạn, ảnh hưởng đến [danh tiếng của khách sạn](/article) lẫn các trang đánh giá trực tuyến và việc ra quyết định của người tiêu dùng. Các trang đánh giá trực tuyến cũng đã nỗ lực đầu tư vào công nghệ và nhân sự để phát hiện và xóa các đánh giá ảo. Ngoài ra, chủ khách sạn và khách có thể đóng vai trò hạn chế vấn đề này bằng cách báo cáo các giá đáng ngờ mà họ gặp phải. Điều quan trọng đối với ngành khách sạn là tiếp tục hợp tác để giảm thiểu sự phổ biến của các bài đánh giá ảo nhằm đảm bảo rằng người tiêu dùng có thể tin tưởng vào các bài đánh giá trực tuyến mà họ đọc được.
 
 <figure><img src="https://banmaixanh.vercel.app/image/cover/001-484.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>

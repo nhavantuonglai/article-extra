@@ -429,15 +429,15 @@ Lạy Mẹ! chúng con đã thức nhiều đêm không ngủ vì cái công án
 
 Khi đi thiền hành, chúng ta cũng thấy được phần trách nhiệm của mình. Ta phải thức dậy, phải biết vai trò của mình và bảo hộ Mẹ chứ không thể hoàn toàn chỉ trông cậy ở Mẹ. Ta là một phần của Mẹ, ta là Mẹ. Khi có Bất Nhị Trí ta sẽ thoát khỏi phiền não như sợ hãi, hận thù, thèm khát và tuyệt vọng. Ta sẽ không gây đổ vỡ hay tàn hại cho chính mình, cho các chủng loại khác và cho Đất Mẹ.
 
-Đọc [Tâm tình với đất mẹ, chương 01](https://nhavantuonglai.com/article/tam-tinh-voi-dat-me-chuong-01) tại đây.
+Đọc [Tâm tình với đất mẹ, chương 01](/article/tam-tinh-voi-dat-me-chuong-01) tại đây.
 
-Đọc [Tâm tình với đất mẹ, chương 02](https://nhavantuonglai.com/article/tam-tinh-voi-dat-me-chuong-02) tại đây.
+Đọc [Tâm tình với đất mẹ, chương 02](/article/tam-tinh-voi-dat-me-chuong-02) tại đây.
 
-Đọc [Tâm tình với đất mẹ, chương 03](https://nhavantuonglai.com/article/tam-tinh-voi-dat-me-chuong-03) tại đây.
+Đọc [Tâm tình với đất mẹ, chương 03](/article/tam-tinh-voi-dat-me-chuong-03) tại đây.
 
-Đọc [Tâm tình với đất mẹ, chương 04](https://nhavantuonglai.com/article/tam-tinh-voi-dat-me-chuong-04) tại đây.
+Đọc [Tâm tình với đất mẹ, chương 04](/article/tam-tinh-voi-dat-me-chuong-04) tại đây.
 
-Đọc [Tâm tình với đất mẹ, chương 05](https://nhavantuonglai.com/article/tam-tinh-voi-dat-me-chuong-05) tại đây.
+Đọc [Tâm tình với đất mẹ, chương 05](/article/tam-tinh-voi-dat-me-chuong-05) tại đây.
 
 Đọc [Tâm tình với đất mẹ, toàn tập](https://banmaixanh.vercel.app/ebook/tam-tinh-voi-dat-me.pdf) tại đây.
 

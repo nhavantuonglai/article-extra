@@ -173,27 +173,27 @@ Ai cũng có thể thực tập được điều này. Không cần phải năm,
 
 Chánh niệm đem đến cho ta và người thương của ta hạnh phúc và tự do. Người thương của ta có thể đang bị chìm đắm trong lo lắng, sân hận hay thất niệm, nhưng nhờ chánh niệm mà ta có thể cứu người thương của ta và chính cả ta. Chánh niệm là năng lượng của Bụt, là năng lượng của giác ngộ. Khi có chánh niệm là có cánh tay từ bi của Bụt ôm ấp bảo hộ.
 
-Đọc [Giận, chương 01](https://nhavantuonglai.com/article/gian-chuong-01) tại đây.
+Đọc [Giận, chương 01](/article/gian-chuong-01) tại đây.
 
-Đọc [Giận, chương 02](https://nhavantuonglai.com/article/gian-chuong-02) tại đây.
+Đọc [Giận, chương 02](/article/gian-chuong-02) tại đây.
 
-Đọc [Giận, chương 03](https://nhavantuonglai.com/article/gian-chuong-03) tại đây.
+Đọc [Giận, chương 03](/article/gian-chuong-03) tại đây.
 
-Đọc [Giận, chương 04](https://nhavantuonglai.com/article/gian-chuong-04) tại đây.
+Đọc [Giận, chương 04](/article/gian-chuong-04) tại đây.
 
-Đọc [Giận, chương 05](https://nhavantuonglai.com/article/gian-chuong-05) tại đây.
+Đọc [Giận, chương 05](/article/gian-chuong-05) tại đây.
 
-Đọc [Giận, chương 06](https://nhavantuonglai.com/article/gian-chuong-06) tại đây.
+Đọc [Giận, chương 06](/article/gian-chuong-06) tại đây.
 
-Đọc [Giận, chương 07](https://nhavantuonglai.com/article/gian-chuong-07) tại đây.
+Đọc [Giận, chương 07](/article/gian-chuong-07) tại đây.
 
-Đọc [Giận, chương 08](https://nhavantuonglai.com/article/gian-chuong-08) tại đây.
+Đọc [Giận, chương 08](/article/gian-chuong-08) tại đây.
 
-Đọc [Giận, chương 09](https://nhavantuonglai.com/article/gian-chuong-09) tại đây.
+Đọc [Giận, chương 09](/article/gian-chuong-09) tại đây.
 
-Đọc [Giận, chương 10](https://nhavantuonglai.com/article/gian-chuong-10) tại đây.
+Đọc [Giận, chương 10](/article/gian-chuong-10) tại đây.
 
-Đọc [Giận, chương 11](https://nhavantuonglai.com/article/gian-chuong-11) tại đây.
+Đọc [Giận, chương 11](/article/gian-chuong-11) tại đây.
 
 Đọc [Giận, toàn tập](https://banmaixanh.vercel.app/ebook/gian.pdf) tại đây.
 

@@ -157,23 +157,23 @@ _Cái này có vì cái kia có._ Câu này có nghĩa là sự vật nào cũng
 
 Đó là lý do vì sao tôi ưa dùng từ biểu hiện thay vì sáng tạo. Tuy vậy, chúng ta vẫn có thể dùng từ ngữ sáng tạo, nhưng ta nên hiểu rằng sáng tạo không có nghĩa là từ không có nguyên nhân nào mà làm thành một sự vật được. Tạo vật không phải là thứ gì bị hủy hoại hoàn toàn và có thể không còn lại gì hết. Tôi thích từ ngữ _Wonderful becoming_ (sự hình thành màu nhiệm) – nó gần với chân nghĩa của từ sáng tạo hơn.
 
-Đọc [Không diệt không sinh không sợ hãi, chương 01](https://nhavantuonglai.com/article/khong-diet-khong-sinh-dung-so-hai-chuong-01) tại đây.
+Đọc [Không diệt không sinh không sợ hãi, chương 01](/article/khong-diet-khong-sinh-dung-so-hai-chuong-01) tại đây.
 
-Đọc [Không diệt không sinh không sợ hãi, chương 02](https://nhavantuonglai.com/article/khong-diet-khong-sinh-dung-so-hai-chuong-02) tại đây.
+Đọc [Không diệt không sinh không sợ hãi, chương 02](/article/khong-diet-khong-sinh-dung-so-hai-chuong-02) tại đây.
 
-Đọc [Không diệt không sinh không sợ hãi, chương 03](https://nhavantuonglai.com/article/khong-diet-khong-sinh-dung-so-hai-chuong-03) tại đây.
+Đọc [Không diệt không sinh không sợ hãi, chương 03](/article/khong-diet-khong-sinh-dung-so-hai-chuong-03) tại đây.
 
-Đọc [Không diệt không sinh không sợ hãi, chương 04](https://nhavantuonglai.com/article/khong-diet-khong-sinh-dung-so-hai-chuong-04) tại đây.
+Đọc [Không diệt không sinh không sợ hãi, chương 04](/article/khong-diet-khong-sinh-dung-so-hai-chuong-04) tại đây.
 
-Đọc [Không diệt không sinh không sợ hãi, chương 05](https://nhavantuonglai.com/article/khong-diet-khong-sinh-dung-so-hai-chuong-05) tại đây.
+Đọc [Không diệt không sinh không sợ hãi, chương 05](/article/khong-diet-khong-sinh-dung-so-hai-chuong-05) tại đây.
 
-Đọc [Không diệt không sinh không sợ hãi, chương 06](https://nhavantuonglai.com/article/khong-diet-khong-sinh-dung-so-hai-chuong-06) tại đây.
+Đọc [Không diệt không sinh không sợ hãi, chương 06](/article/khong-diet-khong-sinh-dung-so-hai-chuong-06) tại đây.
 
-Đọc [Không diệt không sinh không sợ hãi, chương 07](https://nhavantuonglai.com/article/khong-diet-khong-sinh-dung-so-hai-chuong-07) tại đây.
+Đọc [Không diệt không sinh không sợ hãi, chương 07](/article/khong-diet-khong-sinh-dung-so-hai-chuong-07) tại đây.
 
-Đọc [Không diệt không sinh không sợ hãi, chương 08](https://nhavantuonglai.com/article/khong-diet-khong-sinh-dung-so-hai-chuong-08) tại đây.
+Đọc [Không diệt không sinh không sợ hãi, chương 08](/article/khong-diet-khong-sinh-dung-so-hai-chuong-08) tại đây.
 
-Đọc [Không diệt không sinh không sợ hãi, chương 09](https://nhavantuonglai.com/article/khong-diet-khong-sinh-dung-so-hai-chuong-09) tại đây.
+Đọc [Không diệt không sinh không sợ hãi, chương 09](/article/khong-diet-khong-sinh-dung-so-hai-chuong-09) tại đây.
 
 Đọc [Không diệt không sinh không sợ hãi, toàn tập](https://banmaixanh.vercel.app/ebook/khong-diet-khong-sinh-dung-so-hai.pdf) tại đây.
 

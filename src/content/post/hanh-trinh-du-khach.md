@@ -25,7 +25,7 @@ Xác định và xây dựng chiến lược tiếp thị theo hành trình du k
 
 Mô hình bán phòng truyền thống sử dụng chiếc phễu để minh họa hành trình khách hàng. Hành trình bắt đầu ở miệng phễu, khi mọi người đang tìm hiểu và xem xét các lựa chọn. Dần dần, phễu hẹp lại, phản ánh nhu cầu được cụ thể hóa và khách hàng có những lựa chọn đúng trọng tâm hơn. Và cuối cùng, ở giai đoạn cuối của hành trình, khách hàng tiềm năng trở thành khách hàng chính thức khi nhu cầu được chuyển thành hành động mua hàng.
 
-Tuy nhiên, với ngành dịch vụ, hành trình không chỉ nên dừng ở đó, mà nên cần thêm quá trình trải nghiệm sản phẩm và quay lại. Chính vì vậy, [hành trình trải nghiệm khách hàng](https://nhavantuonglai.com/article) là một vòng tròn, có tính chu kỳ và lặp lại, đôi khi diễn ra suốt cuộc đời của khách hàng.
+Tuy nhiên, với ngành dịch vụ, hành trình không chỉ nên dừng ở đó, mà nên cần thêm quá trình trải nghiệm sản phẩm và quay lại. Chính vì vậy, [hành trình trải nghiệm khách hàng](/article) là một vòng tròn, có tính chu kỳ và lặp lại, đôi khi diễn ra suốt cuộc đời của khách hàng.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-120.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
@@ -61,7 +61,7 @@ Sau khi hình thành ý tưởng, khách hàng sẽ cụ thể hóa kế hoạch
 
 – Tương tác với các đánh giá. Khi khách hàng tìm kiếm khách sạn, họ sẽ đọc đánh giá và ra quyết định. Cho nên, nếu một khách sạn có nhiều lượt đánh giá, và chúng đều được tương tác tích cực, khách hàng sẽ cảm thấy nơi này thân thiện và ấn tượng tốt hơn.
 
-– Tối ưu website khách sạn. Như đã nói ở trên, website là [kênh đặt phòng trực tiếp](https://nhavantuonglai.com/article) được nhiều người lựa chọn để tham khảo, cho nên các nội dung trên website phải vừa hấp dẫn và hữu ích – để người đọc có được thông tin mình cần nhanh chóng, và phải được tối ưu SEO hiệu quả – giúp các công cụ tìm kiếm dễ dàng tìm thấy và đưa lên trang đầu.
+– Tối ưu website khách sạn. Như đã nói ở trên, website là [kênh đặt phòng trực tiếp](/article) được nhiều người lựa chọn để tham khảo, cho nên các nội dung trên website phải vừa hấp dẫn và hữu ích – để người đọc có được thông tin mình cần nhanh chóng, và phải được tối ưu SEO hiệu quả – giúp các công cụ tìm kiếm dễ dàng tìm thấy và đưa lên trang đầu.
 
 – Ưu tiên kể chuyện bằng hình ảnh. Khi lập kế hoạch, mọi người có xu hướng lướt nhanh các đoạn văn bản, dừng lại ở hình ảnh và video, bởi chúng sẽ trực quan và giúp họ hình dung rõ hơn về nơi mà mình định đến, khác với việc tự tưởng tượng từ những dòng văn bản mơ hồ. Ví dụ, đoạn văn bản phòng rộng với đầy đủ tiện nghi sẽ không thuyết phục bằng tấm hình chụp toàn cảnh căn phòng với rất nhiều tiện nghi.
 
@@ -75,13 +75,13 @@ Bước qua giai đoạn tiếp theo, các khách hàng dần thu hẹp lựa ch
 
 Để thu hút khách hàng trong giai đoạn này, các khách sạn cần lưu ý và áp dụng các chiến lược sau:
 
-– Duy trì chiến lược định giá động. Mục tiêu bán phòng khách sạn không chỉ nên là mức giá cao nhất mà bạn có thể bán, mà còn là mức giá cao nhất mà khách hàng có thể trả. Điều này có nghĩa rằng, giá phòng nên được điều chỉnh, thay đổi liên tục và dựa trên nhu cầu của thị trường, [công suất phòng](https://nhavantuonglai.com/article) và giá của các đối thủ trong khu vực. Những yếu tố này có thể theo dõi trực tiếp, giúp khách sạn điều chỉnh giá phòng tốt hơn thông qua phần mềm quản lý khách sạn, phần mềm quản lý doanh thu.
+– Duy trì chiến lược định giá động. Mục tiêu bán phòng khách sạn không chỉ nên là mức giá cao nhất mà bạn có thể bán, mà còn là mức giá cao nhất mà khách hàng có thể trả. Điều này có nghĩa rằng, giá phòng nên được điều chỉnh, thay đổi liên tục và dựa trên nhu cầu của thị trường, [công suất phòng](/article) và giá của các đối thủ trong khu vực. Những yếu tố này có thể theo dõi trực tiếp, giúp khách sạn điều chỉnh giá phòng tốt hơn thông qua phần mềm quản lý khách sạn, phần mềm quản lý doanh thu.
 
 – Dành thời gian cho metasearch. Cùng khách sạn, hạng phòng thì giữa các kênh bán phòng khác nhau sẽ có mức giá khác nhau, thay đổi dựa trên chính sách chiết khấu, khuyến mãi của từng kênh. Thông qua metasearch, khách hàng sẽ biết được mức chênh lệch ấy là như thế nào, và có xu hướng chọn đặt ở kênh đặt phòng có mức giá rẻ nhất. Chính vì vậy, khách sạn cần dành thời gian để theo dõi giá phòng của mình trên metasearch, và điều chỉnh giá phòng giữa các kênh bán và trên website khách sạn sao cho chúng cân bằng và cạnh tranh tốt hơn.
 
 – Đa dạng dịch vụ của khách sạn. Hãy cung cấp nhiều hạng phòng, gói giá để thu hút các tệp khách hàng quan tâm đến khách sạn, để dù họ là khách bình dân hay doanh nhân, thích du lịch tiết kiệm hay chi tiêu thoải mái thì cũng đều lựa chọn khách sạn. Theo Cloudbeds Travel Trends Report 2022, khách hàng sau đại dịch có xu hướng chi tiêu, lưu trú nhiều hơn và ưu tiên chính sách hủy đặt phòng linh hoạt hơn.
 
-– Hệ thống đặt chỗ dễ dàng, đơn giản. Một [hệ thống đặt phòng](https://nhavantuonglai.com/article) nhanh chóng, đáng tin cậy với công cụ đặt phòng tích hợp sẽ giúp khách hàng dễ dàng kiểm tra tình trạng phòng trống, đặt phòng nhanh chóng và đơn giản, giúp việc ra quyết định của họ được nhanh chóng và dễ dàng hơn rất nhiều. Bên cạnh đó, cũng hãy cung cấp các ưu đãi ngắn hạn, tránh bỏ lỡ để tạo cảm giác cấp bánh, khiến họ ra quyết định lựa chọn và đặt ngay lập tức.
+– Hệ thống đặt chỗ dễ dàng, đơn giản. Một [hệ thống đặt phòng](/article) nhanh chóng, đáng tin cậy với công cụ đặt phòng tích hợp sẽ giúp khách hàng dễ dàng kiểm tra tình trạng phòng trống, đặt phòng nhanh chóng và đơn giản, giúp việc ra quyết định của họ được nhanh chóng và dễ dàng hơn rất nhiều. Bên cạnh đó, cũng hãy cung cấp các ưu đãi ngắn hạn, tránh bỏ lỡ để tạo cảm giác cấp bánh, khiến họ ra quyết định lựa chọn và đặt ngay lập tức.
 
 – Xác nhận thông tin đặt phòng. Sau khi khách hàng đặt phòng thành công, hãy gửi cho họ một email, SMS hay bất kỳ thông tin xác nhận đặt phòng nào có thể, vừa giúp họ biết phòng đã được đặt thành công, và những thông tin khách sạn tiếp nhận cũng là những thông tin mà họ cung cấp.
 
@@ -95,7 +95,7 @@ Khách hàng đặt phòng, đặt cọc thành công thì hành trình trải n
 
 – Duy trì liên lạc, kết nối với khách hàng sau khi đặt phòng thành công. Điều này giúp các yêu cầu, hỗ trợ cần sẽ được tiếp nhận và xử lý nhanh chóng, giúp trải nghiệm khách hàng sẽ luôn là tốt nhất.
 
-– Đa dạng hình thức thanh toán, nhận phòng. Hình thức thanh toán như tự thanh toán, thanh toán không tiếp xúc, thanh toán online; hình thức nhận phòng như tự check in, [nhận phòng từ xa](https://nhavantuonglai.com/article), linh hoạt thời gian nhận phòng… giúp khách hàng dù sử dụng hình thức thanh toán, hay nhu cầu nhận phòng như thế nào thì vẫn được hỗ trợ hết mức có thể.
+– Đa dạng hình thức thanh toán, nhận phòng. Hình thức thanh toán như tự thanh toán, thanh toán không tiếp xúc, thanh toán online; hình thức nhận phòng như tự check in, [nhận phòng từ xa](/article), linh hoạt thời gian nhận phòng… giúp khách hàng dù sử dụng hình thức thanh toán, hay nhu cầu nhận phòng như thế nào thì vẫn được hỗ trợ hết mức có thể.
 
 – Đảm bảo trải nghiệm đúng như mô tả. Các dịch vụ, chính sách như nâng cấp hạng phòng, bữa sáng, hay trải nghiệm phòng ở cần được đảm bảo – đúng như những gì đang mô tả và đúng như những gì khách hàng hình dung.
 

@@ -93,7 +93,7 @@ Con đường chính trên đảo thẳng tắp, hai bên là hàng thông. Ch�
 
 ## Ăn gì
 
-Sá sùng, cà ghim, cù kỳ những món [hải sản](https://nhavantuonglai.com/article) ngon có tên khác lạ, khiến nhiều du khách đến Quan Lạn đều tò mò và muốn thưởng thức.
+Sá sùng, cà ghim, cù kỳ những món [hải sản](/article) ngon có tên khác lạ, khiến nhiều du khách đến Quan Lạn đều tò mò và muốn thưởng thức.
 
 Bạn có thể ăn ngay tại khách sạn, các bãi biển nhưng hãy hỏi kỹ giá cả để không bị _chặt chém._ Ngoài ra, bạn cũng có thể ăn ở khu dân cư ở bãi Quan Lạn. Quán to đẹp nhất ngay ngã 3. Quán phục vụ theo suất, ví dụ 1.000.000 đồng cho 4 người. Muốn ăn đồ rẻ hơn, các bạn có thể dậy sớm ra chợ mua, hoặc mua của các cửa hàng bán đồ ăn đối diện đình Quan Lạn, mua theo kg.
 

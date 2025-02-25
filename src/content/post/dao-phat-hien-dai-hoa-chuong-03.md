@@ -105,15 +105,15 @@ Với kiến thức _Ngũ Minh_ và với _Từ Bi_ làm chất liệu, người
 
 Sau đây chúng ta hãy thử mang những nguyên lý đi vào một vài lĩnh vực của đời sống.
 
-Đọc [Đạo phật hiện đại hóa, chương 01](https://nhavantuonglai.com/article/dao-phat-hien-dai-hoa-chuong-01) tại đây.
+Đọc [Đạo phật hiện đại hóa, chương 01](/article/dao-phat-hien-dai-hoa-chuong-01) tại đây.
 
-Đọc [Đạo phật hiện đại hóa, chương 02](https://nhavantuonglai.com/article/dao-phat-hien-dai-hoa-chuong-02) tại đây.
+Đọc [Đạo phật hiện đại hóa, chương 02](/article/dao-phat-hien-dai-hoa-chuong-02) tại đây.
 
-Đọc [Đạo phật hiện đại hóa, chương 03](https://nhavantuonglai.com/article/dao-phat-hien-dai-hoa-chuong-03) tại đây.
+Đọc [Đạo phật hiện đại hóa, chương 03](/article/dao-phat-hien-dai-hoa-chuong-03) tại đây.
 
-Đọc [Đạo phật hiện đại hóa, chương 04](https://nhavantuonglai.com/article/dao-phat-hien-dai-hoa-chuong-04) tại đây.
+Đọc [Đạo phật hiện đại hóa, chương 04](/article/dao-phat-hien-dai-hoa-chuong-04) tại đây.
 
-Đọc [Đạo phật hiện đại hóa, chương 05](https://nhavantuonglai.com/article/dao-phat-hien-dai-hoa-chuong-05) tại đây.
+Đọc [Đạo phật hiện đại hóa, chương 05](/article/dao-phat-hien-dai-hoa-chuong-05) tại đây.
 
 Đọc [Đạo phật hiện đại hóa, toàn tập](https://banmaixanh.vercel.app/ebook/dao-phat-di-vao-cuoc-doi.pdf) tại đây.
 

@@ -15,7 +15,7 @@ tags:
 
 _Viết là một công cụ mạnh mẽ cho phép chúng ta thể hiện suy nghĩ, cảm xúc và ý tưởng của mình. Nó là một hình thức giao tiếp đã tồn tại trong nhiều thế kỷ và đã phát triển thành nhiều loại và phong cách khác nhau. Từ tiểu thuyết đến tiểu luận, thơ đến viết kỹ thuật, thế giới viết lách rất rộng lớn và đa dạng. Trong bài viết này, chúng ta sẽ khám phá các loại văn bản khác nhau và đặc điểm độc đáo của chúng._
 
-Chuỗi bài viết [Làm chủ nghệ thuật viết lách](https://nhavantuonglai.com/tags/lam-chu-nghe-thuat-viet-lach) là những hướng dẫn căn bản giúp bạn làm chủ kỹ năng viết lách của bản thân.
+Chuỗi bài viết [Làm chủ nghệ thuật viết lách](/tags/lam-chu-nghe-thuat-viet-lach) là những hướng dẫn căn bản giúp bạn làm chủ kỹ năng viết lách của bản thân.
 
 ### Viết lách là gì?
 
@@ -45,13 +45,13 @@ Viết tường thuật cho phép tác giả chia sẻ kinh nghiệm và cảm x
 
 Trước khi chúng ta đi sâu vào các loại tác phẩm khác nhau, chúng ta hãy dành một chút thời gian để đánh giá cao sức mạnh của từ ngữ. Từ ngữ có khả năng gợi lên cảm xúc, truyền cảm hứng hành động và tạo kết nối. Chúng có thể đưa chúng ta đến những thế giới khác nhau, khiến chúng ta cười hoặc khóc và để lại tác động lâu dài đến cuộc sống của chúng ta.
 
-Là [nhà văn giỏi](https://nhavantuonglai.com/article), trách nhiệm của chúng ta là sử dụng từ ngữ một cách khôn ngoan và hiệu quả. Và hiểu các loại tác phẩm khác nhau có thể giúp chúng ta làm điều đó.
+Là [nhà văn giỏi](/article), trách nhiệm của chúng ta là sử dụng từ ngữ một cách khôn ngoan và hiệu quả. Và hiểu các loại tác phẩm khác nhau có thể giúp chúng ta làm điều đó.
 
 ### Viết tiểu thuyết
 
-Viết [tiểu thuyết trinh thám kinh dị](https://nhavantuonglai.com/article) là nghệ thuật tạo ra những câu chuyện và nhân vật không dựa trên các sự kiện hoặc con người có thật. Kiểu viết này cho phép chúng ta sử dụng trí tưởng tượng và sự sáng tạo của mình để tạo ra những câu chuyện hấp dẫn làm say đắm độc giả.
+Viết [tiểu thuyết trinh thám kinh dị](/article) là nghệ thuật tạo ra những câu chuyện và nhân vật không dựa trên các sự kiện hoặc con người có thật. Kiểu viết này cho phép chúng ta sử dụng trí tưởng tượng và sự sáng tạo của mình để tạo ra những câu chuyện hấp dẫn làm say đắm độc giả.
 
-Có nhiều thể loại phụ của tác phẩm hư cấu, bao gồm lãng mạn, bí ẩn, khoa học viễn tưởng và giả tưởng. Mỗi thể loại phụ có những quy ước và kỹ thuật độc đáo riêng, nhưng tất cả đều có chung mục tiêu đưa độc giả đến một thế giới khác và thu hút họ vào một câu chuyện trong [hành trình viết](https://nhavantuonglai.com/article) của nhà văn.
+Có nhiều thể loại phụ của tác phẩm hư cấu, bao gồm lãng mạn, bí ẩn, khoa học viễn tưởng và giả tưởng. Mỗi thể loại phụ có những quy ước và kỹ thuật độc đáo riêng, nhưng tất cả đều có chung mục tiêu đưa độc giả đến một thế giới khác và thu hút họ vào một câu chuyện trong [hành trình viết](/article) của nhà văn.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-046.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
@@ -83,13 +83,13 @@ Báo chí đóng một vai trò quan trọng trong việc giữ cho công chúng
 
 ### Viết lách khoa học
 
-[Viết lách khoa học](https://nhavantuonglai.com/article) là một loại tác phẩm tập trung vào việc giải thích các khái niệm và quy trình phức tạp một cách rõ ràng và súc tích. Nó thường được sử dụng trong các lĩnh vực như khoa học, công nghệ và kỹ thuật để truyền đạt thông tin kỹ thuật cho khán giả phi kỹ thuật.
+[Viết lách khoa học](/article) là một loại tác phẩm tập trung vào việc giải thích các khái niệm và quy trình phức tạp một cách rõ ràng và súc tích. Nó thường được sử dụng trong các lĩnh vực như khoa học, công nghệ và kỹ thuật để truyền đạt thông tin kỹ thuật cho khán giả phi kỹ thuật.
 
 Viết lách khoa học đòi hỏi kỹ năng nghiên cứu và tổ chức mạnh mẽ, cũng như khả năng chia nhỏ các ý tưởng phức tạp thành các phần dễ hiểu. Đó là một kỹ năng có giá trị trong thế giới ngày nay, nơi công nghệ và khoa học đóng một vai trò quan trọng trong cuộc sống hàng ngày của chúng ta.
 
 ### Viết kinh doanh
 
-[Viết kinh doanh](https://nhavantuonglai.com/article) là một loại tác phẩm được sử dụng trong môi trường chuyên nghiệp để truyền đạt thông tin, ý tưởng và đề xuất. Nó có thể có nhiều hình thức, chẳng hạn như email, báo cáo, thuyết trình và tài liệu tiếp thị.
+[Viết kinh doanh](/article) là một loại tác phẩm được sử dụng trong môi trường chuyên nghiệp để truyền đạt thông tin, ý tưởng và đề xuất. Nó có thể có nhiều hình thức, chẳng hạn như email, báo cáo, thuyết trình và tài liệu tiếp thị.
 
 Viết kinh doanh hiệu quả là điều cần thiết để giao tiếp rõ ràng và hiệu quả tại nơi làm việc. Nó đòi hỏi sự hiểu biết sâu sắc về đối tượng mục tiêu, cũng như khả năng truyền đạt thông tin một cách ngắn gọn và thuyết phục.
 
@@ -97,13 +97,13 @@ Viết kinh doanh hiệu quả là điều cần thiết để giao tiếp rõ r
 
 ### Viết lách học thuật
 
-Viết lách học thuật[Viết luận văn](https://nhavantuonglai.com/article) là một loại tác phẩm được sử dụng trong môi trường giáo dục, chẳng hạn như bài tiểu luận, tài liệu nghiên cứu và luận văn. Nó đòi hỏi nghiên cứu sâu rộng, tư duy phê phán và khả năng trình bày các lập luận và bằng chứng một cách có cấu trúc và logic.
+Viết lách học thuật[Viết luận văn](/article) là một loại tác phẩm được sử dụng trong môi trường giáo dục, chẳng hạn như bài tiểu luận, tài liệu nghiên cứu và luận văn. Nó đòi hỏi nghiên cứu sâu rộng, tư duy phê phán và khả năng trình bày các lập luận và bằng chứng một cách có cấu trúc và logic.
 
 Viết lách học thuật là một kỹ năng quan trọng để học sinh phát triển, vì nó không chỉ giúp họ truyền đạt ý tưởng của mình một cách hiệu quả mà còn dạy họ cách suy nghĩ chín chắn và phân tích thông tin.
 
 ### Bí quyết để viết tốt: Các loại câu
 
-Bây giờ chúng ta đã khám phá các loại tác phẩm khác nhau, hãy nói về bí mật để viết tốt: các loại câu. Cách chúng ta [cấu trúc câu](https://nhavantuonglai.com/article) của mình có thể có tác động đáng kể đến chất lượng và hiệu quả tổng thể của bài viết.
+Bây giờ chúng ta đã khám phá các loại tác phẩm khác nhau, hãy nói về bí mật để viết tốt: các loại câu. Cách chúng ta [cấu trúc câu](/article) của mình có thể có tác động đáng kể đến chất lượng và hiệu quả tổng thể của bài viết.
 
 Dưới đây là bốn loại câu chính và cách chúng có thể được sử dụng để tạo ra các đoạn tác phẩm hấp dẫn và có tác động:
 
@@ -145,6 +145,6 @@ Cho dù bạn là một nhà văn dày dạn kinh nghiệm hay chỉ mới bắt
 
 ### Kết luận
 
-[Kỹ năng viết](https://nhavantuonglai.com/article) là một công cụ mạnh mẽ cho phép chúng ta thể hiện bản thân và giao tiếp với người khác. Có nhiều loại tác phẩm khác nhau, mỗi loại có những đặc điểm và mục đích riêng. Bằng cách hiểu các kiểu viết này và kết hợp các loại câu khác nhau, bạn có thể cải thiện kỹ năng viết của mình và trở thành một người giao tiếp hiệu quả hơn. Vì vậy, hãy cầm bút hoặc mở máy tính xách tay của bạn và bắt đầu khám phá thế giới viết lách tuyệt vời.
+[Kỹ năng viết](/article) là một công cụ mạnh mẽ cho phép chúng ta thể hiện bản thân và giao tiếp với người khác. Có nhiều loại tác phẩm khác nhau, mỗi loại có những đặc điểm và mục đích riêng. Bằng cách hiểu các kiểu viết này và kết hợp các loại câu khác nhau, bạn có thể cải thiện kỹ năng viết của mình và trở thành một người giao tiếp hiệu quả hơn. Vì vậy, hãy cầm bút hoặc mở máy tính xách tay của bạn và bắt đầu khám phá thế giới viết lách tuyệt vời.
 
 <figure><img src="https://banmaixanh.vercel.app/image/cover/001-304.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

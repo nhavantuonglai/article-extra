@@ -111,37 +111,37 @@ Năm 1959, có lẽ vì muốn bù đắp cho những bất mãn ngày càng tă
 
 Các phương pháp để kiểm soát côn trùng cục bộ theo từng địa phương đã có từ lâu. Thói quen xây gò làm tổ của kiến lửa giúp việc phun thuốc vào từng gò rất đơn giản. Chi phí cho biện pháp hóa chất này chỉ vào khoảng một dollar trên mỗi mẫu. Trường hợp có quá nhiều gò và cần phải có sự trợ giúp của máy móc, Trạm Thí nghiệm nông nghiệp của bang Mississippi đã chế tạo được một loại máy xới để san bằng đất trước rồi sau đó phun thuốc trực tiếp vào các tổ kiến. Phương pháp này có hiệu quả kiểm soát kiến lửa lên đến 90 – 95%. Chi phí chỉ có 1,23 dollar/ 1 mẫu. Ngược lại, chương trình diệt kiến hàng loạt của Bộ nông nghiệp tốn đến 3, 5 dollar/mẫu. là chương trình tốn kém nhất, gây hại nhất và kém hiệu quả hơn cả.
 
-Đọc [Mùa xuân vắng lặng, chương 01](https://nhavantuonglai.com/article/mua-xuan-vang-lang-chuong-01) tại đây.
+Đọc [Mùa xuân vắng lặng, chương 01](/article/mua-xuan-vang-lang-chuong-01) tại đây.
 
-Đọc [Mùa xuân vắng lặng, chương 02](https://nhavantuonglai.com/article/mua-xuan-vang-lang-chuong-02) tại đây.
+Đọc [Mùa xuân vắng lặng, chương 02](/article/mua-xuan-vang-lang-chuong-02) tại đây.
 
-Đọc [Mùa xuân vắng lặng, chương 03](https://nhavantuonglai.com/article/mua-xuan-vang-lang-chuong-03) tại đây.
+Đọc [Mùa xuân vắng lặng, chương 03](/article/mua-xuan-vang-lang-chuong-03) tại đây.
 
-Đọc [Mùa xuân vắng lặng, chương 04](https://nhavantuonglai.com/article/mua-xuan-vang-lang-chuong-04) tại đây.
+Đọc [Mùa xuân vắng lặng, chương 04](/article/mua-xuan-vang-lang-chuong-04) tại đây.
 
-Đọc [Mùa xuân vắng lặng, chương 05](https://nhavantuonglai.com/article/mua-xuan-vang-lang-chuong-05) tại đây.
+Đọc [Mùa xuân vắng lặng, chương 05](/article/mua-xuan-vang-lang-chuong-05) tại đây.
 
-Đọc [Mùa xuân vắng lặng, chương 06](https://nhavantuonglai.com/article/mua-xuan-vang-lang-chuong-06) tại đây.
+Đọc [Mùa xuân vắng lặng, chương 06](/article/mua-xuan-vang-lang-chuong-06) tại đây.
 
-Đọc [Mùa xuân vắng lặng, chương 07](https://nhavantuonglai.com/article/mua-xuan-vang-lang-chuong-07) tại đây.
+Đọc [Mùa xuân vắng lặng, chương 07](/article/mua-xuan-vang-lang-chuong-07) tại đây.
 
-Đọc [Mùa xuân vắng lặng, chương 09](https://nhavantuonglai.com/article/mua-xuan-vang-lang-chuong-09) tại đây.
+Đọc [Mùa xuân vắng lặng, chương 09](/article/mua-xuan-vang-lang-chuong-09) tại đây.
 
-Đọc [Mùa xuân vắng lặng, chương 10](https://nhavantuonglai.com/article/mua-xuan-vang-lang-chuong-10) tại đây.
+Đọc [Mùa xuân vắng lặng, chương 10](/article/mua-xuan-vang-lang-chuong-10) tại đây.
 
-Đọc [Mùa xuân vắng lặng, chương 11](https://nhavantuonglai.com/article/mua-xuan-vang-lang-chuong-11) tại đây.
+Đọc [Mùa xuân vắng lặng, chương 11](/article/mua-xuan-vang-lang-chuong-11) tại đây.
 
-Đọc [Mùa xuân vắng lặng, chương 12](https://nhavantuonglai.com/article/mua-xuan-vang-lang-chuong-12) tại đây.
+Đọc [Mùa xuân vắng lặng, chương 12](/article/mua-xuan-vang-lang-chuong-12) tại đây.
 
-Đọc [Mùa xuân vắng lặng, chương 13](https://nhavantuonglai.com/article/mua-xuan-vang-lang-chuong-13) tại đây.
+Đọc [Mùa xuân vắng lặng, chương 13](/article/mua-xuan-vang-lang-chuong-13) tại đây.
 
-Đọc [Mùa xuân vắng lặng, chương 14](https://nhavantuonglai.com/article/mua-xuan-vang-lang-chuong-14) tại đây.
+Đọc [Mùa xuân vắng lặng, chương 14](/article/mua-xuan-vang-lang-chuong-14) tại đây.
 
-Đọc [Mùa xuân vắng lặng, chương 15](https://nhavantuonglai.com/article/mua-xuan-vang-lang-chuong-15) tại đây.
+Đọc [Mùa xuân vắng lặng, chương 15](/article/mua-xuan-vang-lang-chuong-15) tại đây.
 
-Đọc [Mùa xuân vắng lặng, chương 16](https://nhavantuonglai.com/article/mua-xuan-vang-lang-chuong-16) tại đây.
+Đọc [Mùa xuân vắng lặng, chương 16](/article/mua-xuan-vang-lang-chuong-16) tại đây.
 
-Đọc [Mùa xuân vắng lặng, chương 17](https://nhavantuonglai.com/article/mua-xuan-vang-lang-chuong-17) tại đây.
+Đọc [Mùa xuân vắng lặng, chương 17](/article/mua-xuan-vang-lang-chuong-17) tại đây.
 
 Đọc [Mùa xuân vắng lặng, toàn tập](https://banmaixanh.vercel.app/ebook/mua-xuan-vang-lang.pdf) tại đây.
 

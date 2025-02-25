@@ -119,17 +119,17 @@ Mỗi khi ta phát khởi lên một ý nghĩ, ý nghĩ ấy sẽ còn đó rấ
 
 Rất nhiều người nghĩ rằng sau khi thân thể này tan rã thì sẽ không còn gì nữa hết. Ngay cả nhiều nhà khoa học cũng đã nghĩ như vậy. Nhưng những ý nghĩ, những lời nói hay hành động của ta là những năng lượng có ảnh hưởng lâu dài. Cho nên nếu muốn có sự tiếp nối tốt đẹp thì phải đóng góp những ý nghĩ tốt đẹp, nói lời tốt đẹp, hành động tốt đẹp. Ta không thể nào triệt tiêu một con người. Không thể biến người đó thành không. Cũng như một đám mây không thể chết đi, con người cũng không thể trở thành hư vô. Vậy cho nên phải quán chiếu sâu sắc tự tánh của chính mình cũng như tự tánh của những người xung quanh, từ đó phát sinh tuệ giác giúp giải phóng chúng ta ra khỏi sự buồn giận và lo sợ. Đó là tuệ giác vô úy, tuệ giác bất sinh, bất diệt. Đó là hoa trái quý giá nhất của sự thực tập.
 
-Đọc [Hỏi đáp từ trái tim, chương 01](https://nhavantuonglai.com/article/hoi-dap-tu-trai-tim-chuong-01) tại đây.
+Đọc [Hỏi đáp từ trái tim, chương 01](/article/hoi-dap-tu-trai-tim-chuong-01) tại đây.
 
-Đọc [Hỏi đáp từ trái tim, chương 02](https://nhavantuonglai.com/article/hoi-dap-tu-trai-tim-chuong-02) tại đây.
+Đọc [Hỏi đáp từ trái tim, chương 02](/article/hoi-dap-tu-trai-tim-chuong-02) tại đây.
 
-Đọc [Hỏi đáp từ trái tim, chương 03](https://nhavantuonglai.com/article/hoi-dap-tu-trai-tim-chuong-03) tại đây.
+Đọc [Hỏi đáp từ trái tim, chương 03](/article/hoi-dap-tu-trai-tim-chuong-03) tại đây.
 
-Đọc [Hỏi đáp từ trái tim, chương 04](https://nhavantuonglai.com/article/hoi-dap-tu-trai-tim-chuong-04) tại đây.
+Đọc [Hỏi đáp từ trái tim, chương 04](/article/hoi-dap-tu-trai-tim-chuong-04) tại đây.
 
-Đọc [Hỏi đáp từ trái tim, chương 05](https://nhavantuonglai.com/article/hoi-dap-tu-trai-tim-chuong-05) tại đây.
+Đọc [Hỏi đáp từ trái tim, chương 05](/article/hoi-dap-tu-trai-tim-chuong-05) tại đây.
 
-Đọc [Hỏi đáp từ trái tim, chương 06](https://nhavantuonglai.com/article/hoi-dap-tu-trai-tim-chuong-06) tại đây.
+Đọc [Hỏi đáp từ trái tim, chương 06](/article/hoi-dap-tu-trai-tim-chuong-06) tại đây.
 
 Đọc [Hỏi đáp từ trái tim, toàn tập](https://banmaixanh.vercel.app/ebook/hoi-dap-tu-trai-tim.pdf) tại đây.
 

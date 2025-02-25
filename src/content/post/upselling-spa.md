@@ -15,7 +15,7 @@ _Khi mở tiệm Spa, điều quan trọng là tạo ra doanh thu, upselling (up
 
 ## Mở đầu
 
-Một khi mở tiệm Spa, điều quan trọng là tạo ra doanh thu. Có 2 cách phổ biến để thực hiện, đó là [thu hút thêm khách hàng mới](https://nhavantuonglai.com/article/upselling-spa) để bán dịch vụ, và bán hàng gia tăng (upselling) cho khách hàng hiện tại. Trong đó, upselling dễ dàng, ít tốn thời gian hơn so với việc tìm khách hàng mới.
+Một khi mở tiệm Spa, điều quan trọng là tạo ra doanh thu. Có 2 cách phổ biến để thực hiện, đó là [thu hút thêm khách hàng mới](/article/upselling-spa) để bán dịch vụ, và bán hàng gia tăng (upselling) cho khách hàng hiện tại. Trong đó, upselling dễ dàng, ít tốn thời gian hơn so với việc tìm khách hàng mới.
 
 Về lâu về dài, upselling sẽ mang lại nhiều thành quả và lợi nhuận cho tiệm. Cho nên, không khó hiểu khi nhiều chủ tiệm Spa xem upselling là cơ hội cải thiện lợi nhuận, nhưng cũng có nhiều người khác xem đó là thách thức và không muốn thực hiện.
 

@@ -17,9 +17,9 @@ tags:
 
 _Khi Covid – 19 được kiểm soát và hoạt động du lịch được khôi phục, khách hàng sẽ có những kỳ vọng nhất định, điều này cần được các khách sạn chú ý và xem là quan trọng. Họ là ai, và bạn có thể cải thiện, đáp ứng trải nghiệm của họ như thế nào? Có khi nào bạn đặt câu hỏi như vậy, khi nghĩ về tệp khách hàng của mình chưa?_
 
-Hành vi đặt phòng đã có sự thay đổi, và người dùng cũng thực dụng hơn, muốn nhìn thấy rõ giá trị của bản thân trong từng hành động, tương tác. Là chủ khách sạn, bạn cần phải nhạy cảm, [điều chỉnh giá có chiến lược](https://nhavantuonglai.com/article) và linh hoạt, chú trọng thái độ và cảm xúc của khách hàng. Và để cụ thể hóa điều đó, tăng lượt đặt phòng, đem lại doanh thu, thì bạn cần phải thật sự hiểu khách hàng, biết rõ nhu cầu của họ là gì, và giao tiếp thật chuyên nghiệp, tích cực trong mọi tình huống.
+Hành vi đặt phòng đã có sự thay đổi, và người dùng cũng thực dụng hơn, muốn nhìn thấy rõ giá trị của bản thân trong từng hành động, tương tác. Là chủ khách sạn, bạn cần phải nhạy cảm, [điều chỉnh giá có chiến lược](/article) và linh hoạt, chú trọng thái độ và cảm xúc của khách hàng. Và để cụ thể hóa điều đó, tăng lượt đặt phòng, đem lại doanh thu, thì bạn cần phải thật sự hiểu khách hàng, biết rõ nhu cầu của họ là gì, và giao tiếp thật chuyên nghiệp, tích cực trong mọi tình huống.
 
-Trong một cuộc phỏng vấn xoay quanh chủ đề chăm sóc khách hàng đã thay đổi như thế nào, và lợi ích mà [hệ thống CRM](https://nhavantuonglai.com/article) đem đến cho các khách sạn, với sự trao đổi của Will Howes ([Revinate](https://www.revinate.com) và Lucy Clugston (Khách sạn Fitzwilliam, Belfast). Dưới đây, là những điểm quan trọng về CRM.
+Trong một cuộc phỏng vấn xoay quanh chủ đề chăm sóc khách hàng đã thay đổi như thế nào, và lợi ích mà [hệ thống CRM](/article) đem đến cho các khách sạn, với sự trao đổi của Will Howes ([Revinate](https://www.revinate.com) và Lucy Clugston (Khách sạn Fitzwilliam, Belfast). Dưới đây, là những điểm quan trọng về CRM.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-053.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
@@ -57,7 +57,7 @@ Tất nhiên là, những điều này bạn có thể thực hiện mà không 
 
 Vào năm ngoái, khách sạn Fitzwilliam triển khai ưu đãi mang tên _Welcome back offer_ (Ưu đãi chào mừng bạn trở lại), diễn ra trong suốt mùa hè từ khi mở cửa đến lúc tạm đóng cửa. Mục tiêu công chúng là khách đã đặt phòng vào mùa hè (từ tháng 7 đến tháng) trong 2 năm vừa qua. Kết thúc chiến dịch, công suất phòng đạt 40%, tự đánh giá thì đó là chiến dịch thành công.
 
-Một ưu đãi đặt phòng khác, diễn ra vào Black Friday, mục tiêu công chúng là những khách đã đặt phòng vào giữa tuần trong 2 năm vừa qua. Kết thúc chiến dịch, [công suất phòng](https://nhavantuonglai.com/article) đạt 60%, tự đánh giá thì đó là chiến dịch rất thành công.
+Một ưu đãi đặt phòng khác, diễn ra vào Black Friday, mục tiêu công chúng là những khách đã đặt phòng vào giữa tuần trong 2 năm vừa qua. Kết thúc chiến dịch, [công suất phòng](/article) đạt 60%, tự đánh giá thì đó là chiến dịch rất thành công.
 
 2 ví dụ nhỏ trên đây là minh chứng cho việc nếu nhắm mục tiêu công chúng đúng, sử dụng thông điệp phù hợp, thì thành công sẽ thực sự đến với khách sạn.
 

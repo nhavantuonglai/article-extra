@@ -133,15 +133,15 @@ _Con mở rộng lòng ra để truyền đi năng lượng hiểu biết và l�
 
 Trong khi chúng ta phủ phục, tuỳ theo định lực của chúng ta và khả năng quán tưởng của chúng ta mà chúng ta đi vào Từ quán, Bi quán, Hỷ quán hay Xả quán sâu nhiều hay là sâu ít. Rồi khi chúng ta lạy xuống năm lạy là chúng ta thực sự thực tập, chứ đó không phải là chúc tụng hay là quy lụy hoặc tưởng tượng. Trong tư thế năm vóc sát đất, chúng ta xoá nhoà bản ngã, chúng ta tiếp nối được với tổ tiên tâm linh, tổ tiên huyết thống tiếp nối với đất nước, tiếp xúc với những người thương và tha thứ được cho những người làm khổ. Tự nhiên cái ngã của chúng ta mạnh khoẻ hơn, nhẹ nhàng hơn, đầy tràn hơn và năm cái lạy rất có giá trị trị liệu, có thể phục hồi cho ta sức khoẻ, có thể đem lại cho ta niềm vui. Thiền tập trong tư thế ngồi, trong tư thế đi hay trong tư thế lạy, ta đều có thể thực tập được thương yêu cả. Như tôi đã nói chúng ta thương hăm bốn giờ đồng hồ mỗi ngày, không ít hơn. Chúng ta hãy biết trở thành dân thường trú trong Từ Bi quán, trong Hỷ Xả quán, suốt ngày.
 
-Đọc [Thương yêu theo phương pháp Bụt dạy, chương 01](https://nhavantuonglai.com/article/thuong-yeu-theo-phuong-phap-but-day-chuong-01) tại đây.
+Đọc [Thương yêu theo phương pháp Bụt dạy, chương 01](/article/thuong-yeu-theo-phuong-phap-but-day-chuong-01) tại đây.
 
-Đọc [Thương yêu theo phương pháp Bụt dạy, chương 02](https://nhavantuonglai.com/article/thuong-yeu-theo-phuong-phap-but-day-chuong-02) tại đây.
+Đọc [Thương yêu theo phương pháp Bụt dạy, chương 02](/article/thuong-yeu-theo-phuong-phap-but-day-chuong-02) tại đây.
 
-Đọc [Thương yêu theo phương pháp Bụt dạy, chương 03](https://nhavantuonglai.com/article/thuong-yeu-theo-phuong-phap-but-day-chuong-03) tại đây.
+Đọc [Thương yêu theo phương pháp Bụt dạy, chương 03](/article/thuong-yeu-theo-phuong-phap-but-day-chuong-03) tại đây.
 
-Đọc [Thương yêu theo phương pháp Bụt dạy, chương 04](https://nhavantuonglai.com/article/thuong-yeu-theo-phuong-phap-but-day-chuong-04) tại đây.
+Đọc [Thương yêu theo phương pháp Bụt dạy, chương 04](/article/thuong-yeu-theo-phuong-phap-but-day-chuong-04) tại đây.
 
-Đọc [Thương yêu theo phương pháp Bụt dạy, chương 05](https://nhavantuonglai.com/article/thuong-yeu-theo-phuong-phap-but-day-chuong-05) tại đây.
+Đọc [Thương yêu theo phương pháp Bụt dạy, chương 05](/article/thuong-yeu-theo-phuong-phap-but-day-chuong-05) tại đây.
 
 Đọc [Thương yêu theo phương pháp Bụt dạy, toàn tập](https://banmaixanh.vercel.app/ebook/thuong-yeu-theo-phuong-phap-but-day.pdf) tại đây.
 

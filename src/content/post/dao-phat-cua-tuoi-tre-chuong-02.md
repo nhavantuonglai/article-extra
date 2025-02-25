@@ -181,13 +181,13 @@ _Nhất Hạnh_
 
 Thưa quý vị, lá thơ mà tôi vừa đọc cho quý vị nghe là một món quà tôi tặng cho quý vị. Mặc dù không biết có đem tới kết quả nào không nhưng ít nhất, lá thơ đó chứng tỏ rằng tôi có thực tập lắng nghe, và tôi có thực tập sử dụng ngôn ngữ hòa ái. Tôi muốn rằng học trò của tôi cũng sẽ làm như vậy, nghĩa là phải thực tập lắng nghe và phải thực tập sử dụng ngôn ngữ hòa ái. Dầu trong hoàn cảnh bất như ý nào đi nữa, khó khăn cách mấy đi nữa, thì chúng ta cũng đừng đánh mất hai dụng cụ đó, tức là sự thực tập lắng nghe và sự thực tập duy trì ngôn ngữ từ ái. Nếu quý vị làm được như vậy thì quý vị xứng đáng là học trò của Đức Thế Tôn.
 
-Đọc [Đạo Phật của tuổi trẻ, chương 01](https://nhavantuonglai.com/article/dao-phat-cua-tuoi-tre-chuong-01) tại đây.
+Đọc [Đạo Phật của tuổi trẻ, chương 01](/article/dao-phat-cua-tuoi-tre-chuong-01) tại đây.
 
-Đọc [Đạo Phật của tuổi trẻ, chương 02](https://nhavantuonglai.com/article/dao-phat-cua-tuoi-tre-chuong-02) tại đây.
+Đọc [Đạo Phật của tuổi trẻ, chương 02](/article/dao-phat-cua-tuoi-tre-chuong-02) tại đây.
 
-Đọc [Đạo Phật của tuổi trẻ, chương 03](https://nhavantuonglai.com/article/dao-phat-cua-tuoi-tre-chuong-03) tại đây.
+Đọc [Đạo Phật của tuổi trẻ, chương 03](/article/dao-phat-cua-tuoi-tre-chuong-03) tại đây.
 
-Đọc [Đạo Phật của tuổi trẻ, chương 04](https://nhavantuonglai.com/article/dao-phat-cua-tuoi-tre-chuong-04) tại đây.
+Đọc [Đạo Phật của tuổi trẻ, chương 04](/article/dao-phat-cua-tuoi-tre-chuong-04) tại đây.
 
 Đọc [Đạo Phật của tuổi trẻ, toàn tập](https://banmaixanh.vercel.app/ebook/dao-phat-cua-tuoi-tre.pdf) tại đây.
 

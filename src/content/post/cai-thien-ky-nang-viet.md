@@ -15,7 +15,7 @@ tags:
 
 _Viết lách không chỉ là kỹ năng hữu ích, mà còn là công việc thú vị. Chúng giúp bạn thể hiện ý tưởng, suy nghĩ, cảm xúc lẫn quan điểm thành câu chữ rõ ràng, sáng tạo. Viết lách cũng được xem là công cụ giao tiếp, học tập và làm việc, giúp bản thân người sử dụng phát triển bản thân tốt hơn. Dẫu vậy, để học hiểu và khai thác tốt, thì viết lách cũng cần những kỹ năng cơ bản và phù hợp. Viết lách sau sẽ hướng dẫn từ cơ bản đến chi tiết để cải thiện kỹ năng viết lách để các nhà văn tương lai áp dụng phù hợp._
 
-Chuỗi bài viết [Làm chủ nghệ thuật viết lách](https://nhavantuonglai.com/tags/lam-chu-nghe-thuat-viet-lach) là những hướng dẫn căn bản giúp bạn làm chủ kỹ năng viết lách của bản thân.
+Chuỗi bài viết [Làm chủ nghệ thuật viết lách](/tags/lam-chu-nghe-thuat-viet-lach) là những hướng dẫn căn bản giúp bạn làm chủ kỹ năng viết lách của bản thân.
 
 ## Mở đầu
 
@@ -49,7 +49,7 @@ Có nhiều cách để cải thiện kỹ năng viết lách, nhưng không ph�
 
 #### Viết thường xuyên và có kế hoạch
 
-Viết lách là một quá trình luyện tập và cải tiến liên tục. Bạn không thể viết tốt chỉ bằng một lần viết. Bạn cần viết thường xuyên và có kế hoạch để theo dõi tiến trình của mình. Bạn có thể lập ra một lịch viết hàng ngày, hàng tuần hoặc hàng tháng, tùy theo thời gian và kỹ năng của bạn. Bạn cũng nên xác định mục tiêu và chủ đề cho mỗi lần viết, để có sự chuẩn bị và hướng dẫn cho bản thân nhằm [khơi gợi cảm hứng viết](https://nhavantuonglai.com/article) ngay cả khi không có hứng thú.
+Viết lách là một quá trình luyện tập và cải tiến liên tục. Bạn không thể viết tốt chỉ bằng một lần viết. Bạn cần viết thường xuyên và có kế hoạch để theo dõi tiến trình của mình. Bạn có thể lập ra một lịch viết hàng ngày, hàng tuần hoặc hàng tháng, tùy theo thời gian và kỹ năng của bạn. Bạn cũng nên xác định mục tiêu và chủ đề cho mỗi lần viết, để có sự chuẩn bị và hướng dẫn cho bản thân nhằm [khơi gợi cảm hứng viết](/article) ngay cả khi không có hứng thú.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-058.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
@@ -59,7 +59,7 @@ Lập dàn bài là một bước quan trọng trong quá trình viết, giúp b
 
 Biên tập là bước cuối cùng trong quá trình viết, giúp bạn kiểm tra và sửa chữa các lỗi chính tả, ngữ pháp, từ vựng và mạch lạc của tác phẩm. Bạn nên đọc lại bản thảo của mình sau khi viết xong, hoặc nhờ người khác đọc và góp ý cho bạn.
 
-Ngoài ra, bạn cũng cần tham khảo và áp dụng [hành trình viết (writing process)](https://nhavantuonglai.com/article) để có sự chuẩn bị, áp dụng phù hợp nhất trong việc xây dựng, triển khai vế hoạch viết lách.
+Ngoài ra, bạn cũng cần tham khảo và áp dụng [hành trình viết (writing process)](/article) để có sự chuẩn bị, áp dụng phù hợp nhất trong việc xây dựng, triển khai vế hoạch viết lách.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-059.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
@@ -83,7 +83,7 @@ Một dàn ý thông thường gồm có ba phần chính: giới thiệu, thân
 
 #### Biên tập
 
-Biên tập là bước [viết lách cơ bản](https://nhavantuonglai.com/article). Biên tập giúp bạn kiểm tra và sửa chữa các lỗi chính tả, ngữ pháp, từ vựng và mạch lạc của tác phẩm. Bạn nên đọc lại bản thảo của mình sau khi viết xong, hoặc nhờ người khác đọc và góp ý cho bạn. Bạn cũng có thể sử dụng các công cụ kiểm tra lỗi trực tuyến như Grammarly hoặc Hemingway Editor để hỗ trợ bạn trong quá trình này.
+Biên tập là bước [viết lách cơ bản](/article). Biên tập giúp bạn kiểm tra và sửa chữa các lỗi chính tả, ngữ pháp, từ vựng và mạch lạc của tác phẩm. Bạn nên đọc lại bản thảo của mình sau khi viết xong, hoặc nhờ người khác đọc và góp ý cho bạn. Bạn cũng có thể sử dụng các công cụ kiểm tra lỗi trực tuyến như Grammarly hoặc Hemingway Editor để hỗ trợ bạn trong quá trình này.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-061.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
@@ -125,7 +125,7 @@ Mỗi loại tác phẩm đều có mục đích, đối tượng và văn phong
 
 #### Bài luận học thuật
 
-[Bài luận học thuật](https://nhavantuonglai.com/article) là một loại tác phẩm có tính chất nghiêm túc, khoa học và trình bày một vấn đề, quan điểm hoặc lập luận một cách logic và có bằng chứng. Cách nghiên cứu cho bài luận học thuật là:
+[Bài luận học thuật](/article) là một loại tác phẩm có tính chất nghiêm túc, khoa học và trình bày một vấn đề, quan điểm hoặc lập luận một cách logic và có bằng chứng. Cách nghiên cứu cho bài luận học thuật là:
 
 – Tìm kiếm các nguồn thông tin học thuật và khoa học, như Google Scholar, ResearchGate, ScienceDirect… để tìm kiếm các bài báo, sách, luận án, báo cáo… được viết bởi các nhà nghiên cứu hoặc học giả, có ghi rõ tác giả, năm xuất bản, tạp chí hoặc nhà xuất bản. Bạn cũng có thể tìm thấy các trích dẫn và tham khảo từ những nguồn thông tin này.
 
@@ -137,7 +137,7 @@ Mỗi loại tác phẩm đều có mục đích, đối tượng và văn phong
 
 #### Viết lách sáng tạo
 
-[Viết lách sáng tạo](https://nhavantuonglai.com/article) là một loại tác phẩm có tính chất nghệ thuật, thể hiện sự tưởng tượng và cảm xúc của nhà văn. Có nhiều thể loại tác phẩm sáng tạo, như truyện ngắn, thơ, kịch bản… Cách nghiên cứu cho tác phẩm sáng tạo là:
+[Viết lách sáng tạo](/article) là một loại tác phẩm có tính chất nghệ thuật, thể hiện sự tưởng tượng và cảm xúc của nhà văn. Có nhiều thể loại tác phẩm sáng tạo, như truyện ngắn, thơ, kịch bản… Cách nghiên cứu cho tác phẩm sáng tạo là:
 
 – Tìm kiếm các nguồn thông tin về thể loại, văn phong và kỹ thuật viết sáng tạo mà bạn muốn theo đuổi. Bạn có thể tìm kiếm các sách, báo, blog… về lý thuyết và thực hành viết sáng tạo, hoặc các khóa học trực tuyến hoặc trực tiếp về viết sáng tạo.
 
@@ -147,7 +147,7 @@ Mỗi loại tác phẩm đều có mục đích, đối tượng và văn phong
 
 #### Viết lách kinh doanh
 
-[Viết lách kinh doanh](https://nhavantuonglai.com/article) là một loại tác phẩm có tính chất thực tiễn, mục đích và hướng đến kết quả. Có nhiều loại tác phẩm kinh doanh, như báo cáo, đề án, hợp đồng, email, quảng cáo… Cách nghiên cứu cho tác phẩm kinh doanh là:
+[Viết lách kinh doanh](/article) là một loại tác phẩm có tính chất thực tiễn, mục đích và hướng đến kết quả. Có nhiều loại tác phẩm kinh doanh, như báo cáo, đề án, hợp đồng, email, quảng cáo… Cách nghiên cứu cho tác phẩm kinh doanh là:
 
 – Tìm kiếm các nguồn thông tin về lĩnh vực, ngành nghề và thị trường mà bạn muốn viết. Bạn có thể tìm kiếm các website tin tức và báo chí để tìm kiếm các tác phẩm, video, podcast… về các xu hướng, sự kiện và nhân vật liên quan đến lĩnh vực, ngành nghề và thị trường của bạn. Bạn cũng có thể tìm kiếm các website chuyên ngành hoặc chuyên môn, như Forbes, Business Insider, Entrepreneur… để tìm kiếm các tác phẩm, báo cáo, phân tích… về các vấn đề, giải pháp và kinh nghiệm trong lĩnh vực, ngành nghề và thị trường của bạn.
 
@@ -237,7 +237,7 @@ Biên tập sau khi viết xong là một bước quan trọng và cần thiết
 
 Biên tập sau khi viết xong là một bước quan trọng và cần thiết trong quá trình viết một tác phẩm hay và chất lượng. Biên tập giúp bạn kiểm tra và sửa chữa các lỗi chính tả, ngữ pháp, từ vựng và mạch lạc của tác phẩm. Sau đây là một số kỹ thuật biên tập hiệu quả mà bạn có thể áp dụng:
 
-– Đọc lại bản thảo: Đây là kỹ thuật biên tập đơn giản nhất nhưng cũng rất hiệu quả. Bạn nên đọc lại bản thảo của mình sau khi viết xong, để phát hiện và sửa chữa những lỗi nhỏ nhặt hoặc không rõ ràng trong tác phẩm. Bạn có thể đọc lại bản thảo theo nhiều cách khác nhau, như đọc từ cuối lên đầu, đọc to lên, đọc theo từng câu hoặc từng đoạn… Ngoài ra, cũng hãy áp dụng châm ngôn [viết lách say sưa, chỉnh sửa tỉnh táo (write drunk, edit sober)](https://nhavantuonglai.com/article/viet-lach-say-sua) để đảm bảo hiệu quả tốt nhất khi sáng tạo lẫn biên tập nội dung, Viết lách của bạn,
+– Đọc lại bản thảo: Đây là kỹ thuật biên tập đơn giản nhất nhưng cũng rất hiệu quả. Bạn nên đọc lại bản thảo của mình sau khi viết xong, để phát hiện và sửa chữa những lỗi nhỏ nhặt hoặc không rõ ràng trong tác phẩm. Bạn có thể đọc lại bản thảo theo nhiều cách khác nhau, như đọc từ cuối lên đầu, đọc to lên, đọc theo từng câu hoặc từng đoạn… Ngoài ra, cũng hãy áp dụng châm ngôn [viết lách say sưa, chỉnh sửa tỉnh táo (write drunk, edit sober)](/article/viet-lach-say-sua) để đảm bảo hiệu quả tốt nhất khi sáng tạo lẫn biên tập nội dung, Viết lách của bạn,
 
 – Nhờ người khác đọc và nhận xét: Đây là kỹ thuật biên tập hữu ích để có được góc nhìn khách quan và phản hồi từ người đọc. Bạn nên nhờ người khác đọc và nhận xét về tác phẩm của bạn, để biết được ưu và nhược điểm, điểm cần cải thiện hoặc thay đổi trong tác phẩm. Bạn có thể nhờ bạn bè, gia đình, giáo viên, đồng nghiệp hoặc người chuyên môn để giúp bạn biên tập tác phẩm.
 

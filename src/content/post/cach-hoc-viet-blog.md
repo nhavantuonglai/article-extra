@@ -89,7 +89,7 @@ Viết blog không chỉ là một sở thích mà còn có thể trở thành m
 
 Để trở thành một blogger thành công, bạn cần rèn luyện nhiều kỹ năng khác nhau, từ kỹ năng viết lách đến quản lý thời gian.
 
-– Kỹ năng viết: Đây là kỹ năng quan trọng nhất. Viết ngắn gọn, súc tích và dễ hiểu giúp bạn truyền tải thông điệp một cách hiệu quả. Đọc nhiều sách, blog và tham gia các [Khóa học viết blog](https://nhavantuonglai.com/article) để nâng cao kỹ năng viết của mình.
+– Kỹ năng viết: Đây là kỹ năng quan trọng nhất. Viết ngắn gọn, súc tích và dễ hiểu giúp bạn truyền tải thông điệp một cách hiệu quả. Đọc nhiều sách, blog và tham gia các [Khóa học viết blog](/article) để nâng cao kỹ năng viết của mình.
 
 – Kỹ năng nghiên cứu: Khả năng tìm kiếm thông tin nhanh chóng và chính xác là yếu tố quan trọng. Hãy học cách sử dụng các công cụ tìm kiếm, cơ sở dữ liệu và biết cách phân biệt nguồn tin cậy.
 

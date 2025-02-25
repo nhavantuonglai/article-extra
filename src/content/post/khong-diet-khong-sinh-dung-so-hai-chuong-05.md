@@ -91,23 +91,23 @@ Tôi kể chuyện này đã nhiều năm. Giả thử có hai phi hành gia lê
 
 Chúng ta nên sống mỗi ngày như những người được cứu thoát từ mặt trăng về. Chúng ta hiện đang sống trên mặt đất, nên ta cần biết thưởng thức từng bước chân trên mặt địa cầu quý giá, đẹp đẽ này. Thiền sư Lâm Tế đã dạy: _Phép lạ không phải là đi trên mặt nước mà là đi trên mặt đất._ Tôi rất quý lời dạy đó. Bước đi là hạnh phúc của tôi, dù đi tại những nơi đông người như phi trường hay ga xe lửa. Đi như thế, mỗi bước chân hôn lên mặt đất mẹ, chúng ta có thể gây hứng khởi cho người khác làm theo. Chúng ta vui sống từng giây phút của cuộc đời.
 
-Đọc [Không diệt không sinh không sợ hãi, chương 01](https://nhavantuonglai.com/article/khong-diet-khong-sinh-dung-so-hai-chuong-01) tại đây.
+Đọc [Không diệt không sinh không sợ hãi, chương 01](/article/khong-diet-khong-sinh-dung-so-hai-chuong-01) tại đây.
 
-Đọc [Không diệt không sinh không sợ hãi, chương 02](https://nhavantuonglai.com/article/khong-diet-khong-sinh-dung-so-hai-chuong-02) tại đây.
+Đọc [Không diệt không sinh không sợ hãi, chương 02](/article/khong-diet-khong-sinh-dung-so-hai-chuong-02) tại đây.
 
-Đọc [Không diệt không sinh không sợ hãi, chương 03](https://nhavantuonglai.com/article/khong-diet-khong-sinh-dung-so-hai-chuong-03) tại đây.
+Đọc [Không diệt không sinh không sợ hãi, chương 03](/article/khong-diet-khong-sinh-dung-so-hai-chuong-03) tại đây.
 
-Đọc [Không diệt không sinh không sợ hãi, chương 04](https://nhavantuonglai.com/article/khong-diet-khong-sinh-dung-so-hai-chuong-04) tại đây.
+Đọc [Không diệt không sinh không sợ hãi, chương 04](/article/khong-diet-khong-sinh-dung-so-hai-chuong-04) tại đây.
 
-Đọc [Không diệt không sinh không sợ hãi, chương 05](https://nhavantuonglai.com/article/khong-diet-khong-sinh-dung-so-hai-chuong-05) tại đây.
+Đọc [Không diệt không sinh không sợ hãi, chương 05](/article/khong-diet-khong-sinh-dung-so-hai-chuong-05) tại đây.
 
-Đọc [Không diệt không sinh không sợ hãi, chương 06](https://nhavantuonglai.com/article/khong-diet-khong-sinh-dung-so-hai-chuong-06) tại đây.
+Đọc [Không diệt không sinh không sợ hãi, chương 06](/article/khong-diet-khong-sinh-dung-so-hai-chuong-06) tại đây.
 
-Đọc [Không diệt không sinh không sợ hãi, chương 07](https://nhavantuonglai.com/article/khong-diet-khong-sinh-dung-so-hai-chuong-07) tại đây.
+Đọc [Không diệt không sinh không sợ hãi, chương 07](/article/khong-diet-khong-sinh-dung-so-hai-chuong-07) tại đây.
 
-Đọc [Không diệt không sinh không sợ hãi, chương 08](https://nhavantuonglai.com/article/khong-diet-khong-sinh-dung-so-hai-chuong-08) tại đây.
+Đọc [Không diệt không sinh không sợ hãi, chương 08](/article/khong-diet-khong-sinh-dung-so-hai-chuong-08) tại đây.
 
-Đọc [Không diệt không sinh không sợ hãi, chương 09](https://nhavantuonglai.com/article/khong-diet-khong-sinh-dung-so-hai-chuong-09) tại đây.
+Đọc [Không diệt không sinh không sợ hãi, chương 09](/article/khong-diet-khong-sinh-dung-so-hai-chuong-09) tại đây.
 
 Đọc [Không diệt không sinh không sợ hãi, toàn tập](https://banmaixanh.vercel.app/ebook/khong-diet-khong-sinh-dung-so-hai.pdf) tại đây.
 

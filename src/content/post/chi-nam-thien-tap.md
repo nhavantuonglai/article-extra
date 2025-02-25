@@ -45,13 +45,13 @@ _Thân gởi các bạn trẻ,_
 
 _Khi tâm mình lo lắng hoặc phiền giận, tư duy của mình thường không được chính xác và mình có thể đi đến những quyết định mà sau này mình hối tiếc. Thiền tập giúp cho mình lắng xuống, để mình có đủ thảnh thơi và sáng suốt. Vì vậy Tôi xin mời các bạn mỗi ngày thực tập theo những chỉ dẫn mà Tôi hiến tặng sau đây trong tập _Thiền tập Chỉ Nam – dành cho người trẻ._ Có điều gì chưa rõ trong khi đọc hoặc thực tập, xin bạn cứ hỏi._
 
-Đọc [Thiền nam chỉ tập, chương 01](https://nhavantuonglai.com/article/chi-nam-thien-tap-chuong-01) tại đây.
+Đọc [Thiền nam chỉ tập, chương 01](/article/chi-nam-thien-tap-chuong-01) tại đây.
 
-Đọc [Thiền nam chỉ tập, chương 02](https://nhavantuonglai.com/article/chi-nam-thien-tap-chuong-02) tại đây.
+Đọc [Thiền nam chỉ tập, chương 02](/article/chi-nam-thien-tap-chuong-02) tại đây.
 
-Đọc [Thiền nam chỉ tập, chương 03](https://nhavantuonglai.com/article/chi-nam-thien-tap-chuong-03) tại đây.
+Đọc [Thiền nam chỉ tập, chương 03](/article/chi-nam-thien-tap-chuong-03) tại đây.
 
-Đọc [Thiền nam chỉ tập, chương 04](https://nhavantuonglai.com/article/chi-nam-thien-tap-chuong-04) tại đây.
+Đọc [Thiền nam chỉ tập, chương 04](/article/chi-nam-thien-tap-chuong-04) tại đây.
 
 Đọc [Thiền nam chỉ tập, toàn tập](https://banmaixanh.vercel.app/ebook/chi-nam-thien-tap.pdf) tại đây.
 

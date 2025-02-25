@@ -19,7 +19,7 @@ _Viết lách là một kỹ năng quan trọng và đa dạng, cần sự kết
 
 ### Tìm nguồn cảm hứng
 
-[Viết lách](https://nhavantuonglai.com/article) bắt đầu từ những ý tưởng sáng tạo. Một tư duy viết lách tốt phải luôn tìm kiếm nguồn cảm hứng từ cuộc sống hàng ngày, sách báo, phim ảnh, âm nhạc, và các cuộc trò chuyện. Hãy luôn mang theo một cuốn sổ tay để ghi lại những ý tưởng bất chợt. Đôi khi, những ý tưởng lớn đến từ những điều nhỏ nhặt và đơn giản trong cuộc sống.
+[Viết lách](/article) bắt đầu từ những ý tưởng sáng tạo. Một tư duy viết lách tốt phải luôn tìm kiếm nguồn cảm hứng từ cuộc sống hàng ngày, sách báo, phim ảnh, âm nhạc, và các cuộc trò chuyện. Hãy luôn mang theo một cuốn sổ tay để ghi lại những ý tưởng bất chợt. Đôi khi, những ý tưởng lớn đến từ những điều nhỏ nhặt và đơn giản trong cuộc sống.
 
 ### Kỹ thuật Brainstorming
 
@@ -31,7 +31,7 @@ Brainstorming là một kỹ thuật hiệu quả để phát triển ý tưởn
 
 ### Lập dàn ý
 
-Một bài viết có [cấu trúc viết lách](https://nhavantuonglai.com/article) rõ ràng sẽ giúp truyền tải thông điệp một cách hiệu quả. Lập dàn ý trước khi viết là bước quan trọng để tổ chức ý tưởng và xác định các phần chính của bài viết. Dàn ý sẽ giúp bạn không bị lạc hướng và đảm bảo rằng mọi phần của bài viết đều liên kết chặt chẽ với nhau.
+Một bài viết có [cấu trúc viết lách](/article) rõ ràng sẽ giúp truyền tải thông điệp một cách hiệu quả. Lập dàn ý trước khi viết là bước quan trọng để tổ chức ý tưởng và xác định các phần chính của bài viết. Dàn ý sẽ giúp bạn không bị lạc hướng và đảm bảo rằng mọi phần của bài viết đều liên kết chặt chẽ với nhau.
 
 ### Cấu trúc bài viết
 
@@ -89,11 +89,11 @@ Việc đối chiếu các quan điểm khác nhau sẽ giúp bài viết của 
 
 ### Viết hàng ngày
 
-Viết là một kỹ năng cần sự [luyện tập thường xuyên](https://nhavantuonglai.com/article) để trở nên thành thạo. Hãy dành thời gian viết hàng ngày, bất kể là viết nhật ký, viết blog hay viết truyện ngắn. Việc viết thường xuyên sẽ giúp bạn phát triển phong cách riêng và cải thiện kỹ năng viết một cách tự nhiên.
+Viết là một kỹ năng cần sự [luyện tập thường xuyên](/article) để trở nên thành thạo. Hãy dành thời gian viết hàng ngày, bất kể là viết nhật ký, viết blog hay viết truyện ngắn. Việc viết thường xuyên sẽ giúp bạn phát triển phong cách riêng và cải thiện kỹ năng viết một cách tự nhiên.
 
 ### Tham gia các cộng đồng viết lách
 
-Tham gia các [cộng đồng viết lách trực tuyến](https://nhavantuonglai.com/article) hoặc offline sẽ giúp bạn kết nối với những người cùng đam mê và học hỏi từ họ. Các diễn đàn, nhóm viết lách trên mạng xã hội như Facebook, Reddit, và các website như Nhà Văn Tương Lai, Scribophile là nơi bạn có thể chia sẻ tác phẩm, nhận được phản hồi và cải thiện kỹ năng viết của mình.
+Tham gia các [cộng đồng viết lách trực tuyến](/article) hoặc offline sẽ giúp bạn kết nối với những người cùng đam mê và học hỏi từ họ. Các diễn đàn, nhóm viết lách trên mạng xã hội như Facebook, Reddit, và các website như Nhà Văn Tương Lai, Scribophile là nơi bạn có thể chia sẻ tác phẩm, nhận được phản hồi và cải thiện kỹ năng viết của mình.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-062.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
@@ -143,6 +143,6 @@ Thất bại là một phần không thể tránh khỏi trong quá trình học
 
 ## Kết luận
 
-[Cải thiện kỹ năng viết lách](https://nhavantuonglai.com/article) không chỉ đòi hỏi sự luyện tập mà còn cần phát triển một tư duy viết lách đúng đắn. Từ việc tìm kiếm ý tưởng sáng tạo, lập kế hoạch và cấu trúc bài viết, đến kỹ thuật viết và chỉnh sửa, tư duy viết lách đóng vai trò quan trọng trong việc nâng cao chất lượng bài viết. Hãy luôn mở rộng kiến thức, lắng nghe phản hồi, và không ngừng thử nghiệm để phát triển phong cách riêng và kỹ năng viết của bạn. Viết lách không chỉ là một kỹ năng mà còn là một hành trình khám phá bản thân và thể hiện sáng tạo.
+[Cải thiện kỹ năng viết lách](/article) không chỉ đòi hỏi sự luyện tập mà còn cần phát triển một tư duy viết lách đúng đắn. Từ việc tìm kiếm ý tưởng sáng tạo, lập kế hoạch và cấu trúc bài viết, đến kỹ thuật viết và chỉnh sửa, tư duy viết lách đóng vai trò quan trọng trong việc nâng cao chất lượng bài viết. Hãy luôn mở rộng kiến thức, lắng nghe phản hồi, và không ngừng thử nghiệm để phát triển phong cách riêng và kỹ năng viết của bạn. Viết lách không chỉ là một kỹ năng mà còn là một hành trình khám phá bản thân và thể hiện sáng tạo.
 
 <figure><img src="https://banmaixanh.vercel.app/image/cover/001-211.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

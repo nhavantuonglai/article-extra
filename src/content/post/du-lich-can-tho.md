@@ -49,7 +49,7 @@ Nếu đi vào lúc chợ đông, du khách sẽ được chứng kiến cảnh 
 
 Ở đây, nếu có loại hàng hoá nào cần bán thì chủ ghe sẽ treo món hàng lên một cây sào cao. Nhiều cây sào treo nguyên một dàn trái cây nào là chuối, thơm, bưởi, xoài và cả rau củ các loại. Những ghe lớn thì thường đổ sỉ. Xuồng, thuyền nhỏ hơn thì bán cho khách lẻ.
 
-Ngoài trái cây, rau quả, nhiều thuyền nhỏ còn bán cả đồ ăn sáng, nước uống và đồ ăn vặt để phục vụ thương hồ và du khách. Thưởng thức một tô hủ tiếu hay [bún riêu cua](https://nhavantuonglai.com/article) nóng hổi, ngút khói trên chiếc xuồng ba lá đang dập dềnh trên mặt nước, bốn bề là cảnh mua bán tập nập là trải nghiệm không thể quên với du khách.
+Ngoài trái cây, rau quả, nhiều thuyền nhỏ còn bán cả đồ ăn sáng, nước uống và đồ ăn vặt để phục vụ thương hồ và du khách. Thưởng thức một tô hủ tiếu hay [bún riêu cua](/article) nóng hổi, ngút khói trên chiếc xuồng ba lá đang dập dềnh trên mặt nước, bốn bề là cảnh mua bán tập nập là trải nghiệm không thể quên với du khách.
 
 Chợ sẽ bắt đầu vãn người vào khoảng 9 giờ sáng. Lúc này du khách có thể quay về đất liền và khám phá tiếp những điểm đến hấp dẫn khác của xứ Tây Đô.
 
@@ -63,7 +63,7 @@ Ngôi nhà trăm năm tuổi gần vàm rạch Bình Thuỷ là một trong nh�
 
 Nhà cổ được thiết kế theo phong cách châu Âu, bên ngoài trông như một dinh thự thời Pháp nhưng kiến trúc bên trong lại hoàn toàn thuần Việt. Nó cho thấy sự giao thoa văn hoá Đông – Tây một cách hài hoà của tầng lớp giàu có vùng đồng bằng sông Cửu Long giai đoạn cuối thế kỷ 19.
 
-[Nhà cổ Bình Thuỷ](https://nhavantuonglai.com/article) ngày càng nổi tiếng sau khi quay nhiều bộ phim nổi tiếng như: _Những nẻo đường phù sa, Người đẹp Tây Đô, Nợ đời, Người tình._ Nhiều du khách tìm đến nơi đây cũng vì tò mò với lối kiến trúc xa hoa từ trăm năm trước nhưng vẫn được gìn giữ nguyên vẹn đến ngày nay.
+[Nhà cổ Bình Thuỷ](/article) ngày càng nổi tiếng sau khi quay nhiều bộ phim nổi tiếng như: _Những nẻo đường phù sa, Người đẹp Tây Đô, Nợ đời, Người tình._ Nhiều du khách tìm đến nơi đây cũng vì tò mò với lối kiến trúc xa hoa từ trăm năm trước nhưng vẫn được gìn giữ nguyên vẹn đến ngày nay.
 
 > Vườn cò Bằng Lăng
 
@@ -109,17 +109,17 @@ Một số vườn trái cây nổi tiếng du khách có thể tham khảo là:
 
 Cồn Sơn là làng du lịch cộng đồng, với mỗi hộ dân có một sản phẩm riêng đem tới cho du khách thưởng thức. Người dân Cồn Sơn vẫn giữ gìn văn hóa Nam Bộ, gọi nhau bằng những cái tên dễ thương như anh Ba, chị Bé Bảy, bé Năm… Họ luôn tươi cười, coi khách như người nhà. Giá tour nửa ngày tới một ngày ở đây từ 300.000 – 600.000 đồng/ người.
 
-Bè nuôi cá là một trong những điểm tham quan ở cửa ngõ vào Cồn Sơn (quận Bình Thuỷ, Thành phố Cần Thơ). Những bè cá đầu tiên tại đây được đóng gần 20 năm trước. Để lên [nhà bè](https://nhavantuonglai.com/article), du khách phải di chuyển bằng thuyền hoặc phà. Các chuyến khởi hành tại bến Cô Bắc (hẻm 13, đường Lê Hồng Phong), từ 6h đến 22h, giá 5.000 đồng một lượt.
+Bè nuôi cá là một trong những điểm tham quan ở cửa ngõ vào Cồn Sơn (quận Bình Thuỷ, Thành phố Cần Thơ). Những bè cá đầu tiên tại đây được đóng gần 20 năm trước. Để lên [nhà bè](/article), du khách phải di chuyển bằng thuyền hoặc phà. Các chuyến khởi hành tại bến Cô Bắc (hẻm 13, đường Lê Hồng Phong), từ 6h đến 22h, giá 5.000 đồng một lượt.
 
 Một số nhà hiện nuôi các loại cá đặc sản nước ngọt như cá hồng thuỷ, cá chạch lấu, cá hô, cá éc, cá lăng, cá vồ đém, cá xác sọc… Nhiều loài cá lạ khác du khách có thể tham quan tại đây gồm hồng vỹ mỏ vịt, cá cọp, cá Koi ngũ sắc, trê hồng, Hỏa Long (chạch lửa). Tại đây, du khách được hướng dẫn cho cá ăn, tìm hiểu về cách nuôi cá trên bè. Các làng bè ở Cồn Sơn thu phí tham quan 10.000 đồng mỗi khách.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/du-lich-can-tho-124.jpg" alt="cam-nang-du-lich-can-tho" height=100% width=100%><figcaption><p>cam-nang-du-lich-can-tho-nhavantuonglai</p></figcaption></figure>
 
-Xem cá lóc bay là một trong những trải nghiệm mới lạ hút khách đến [Cồn Sơn](https://nhavantuonglai.com/article). Để đàn cá có thể nhảy lên mặt nước khi có dấu hiệu của chủ nuôi, ngay khi cá còn nhỏ, người dân nơi này phải tập dần và bắt đầu bằng sự háo ăn của chúng.
+Xem cá lóc bay là một trong những trải nghiệm mới lạ hút khách đến [Cồn Sơn](/article). Để đàn cá có thể nhảy lên mặt nước khi có dấu hiệu của chủ nuôi, ngay khi cá còn nhỏ, người dân nơi này phải tập dần và bắt đầu bằng sự háo ăn của chúng.
 
 Chỉ những con cá dưới 5, 6 tháng tuổi mới nhảy. Cá lớn hơn sẽ được thả ra sông để đảm bảo nguồn lợi thuỷ sản. Phí tham quan đàn cá biểu diễn là 25.000 đồng một người.
 
-Một hoạt động khác được du khách ưa thích trên Cồn Sơn là tập làm bánh. Với sự giúp đỡ của người dân, bạn sẽ tự tay làm ra những bánh từ bột mì, bột gạo và thưởng thức ngay sau khi hoàn thành. Bạn sẽ được thử làm bánh lá mít, [bánh phu thê](https://nhavantuonglai.com/article)… Một mâm bánh tại đây có giá 210.000 đồng, gồm hai loại bánh ngọt và mặn.
+Một hoạt động khác được du khách ưa thích trên Cồn Sơn là tập làm bánh. Với sự giúp đỡ của người dân, bạn sẽ tự tay làm ra những bánh từ bột mì, bột gạo và thưởng thức ngay sau khi hoàn thành. Bạn sẽ được thử làm bánh lá mít, [bánh phu thê](/article)… Một mâm bánh tại đây có giá 210.000 đồng, gồm hai loại bánh ngọt và mặn.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/du-lich-can-tho-125.jpg" alt="cam-nang-du-lich-can-tho" height=100% width=100%><figcaption><p>cam-nang-du-lich-can-tho-nhavantuonglai</p></figcaption></figure>
 
@@ -127,7 +127,7 @@ Một hoạt động khác được du khách ưa thích trên Cồn Sơn là t�
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/du-lich-can-tho-126.jpg" alt="cam-nang-du-lich-can-tho" height=100% width=100%><figcaption><p>cam-nang-du-lich-can-tho-nhavantuonglai</p></figcaption></figure>
 
-[Lò hủ tiếu](https://nhavantuonglai.com/article) Chín Của nằm gần chợ nổi Cái Răng. Bạn có thể sắp xếp lịch trình đến đây bằng thuyền ngay sau khi tham quan chợ nổi. Hoặc nếu đi bằng đường bộ, bạn có thể chạy đến Lộ Vòng Cung (Đường ), rẽ vào hẻm 476, chạy thêm một đoạn là đến.
+[Lò hủ tiếu](/article) Chín Của nằm gần chợ nổi Cái Răng. Bạn có thể sắp xếp lịch trình đến đây bằng thuyền ngay sau khi tham quan chợ nổi. Hoặc nếu đi bằng đường bộ, bạn có thể chạy đến Lộ Vòng Cung (Đường ), rẽ vào hẻm 476, chạy thêm một đoạn là đến.
 
 Điểm này không thu phí tham quan. Du khách không chỉ tìm hiểu quy trình làm ra hủ tiếu mà còn được trải nghiệm đổ bánh và mua sản phẩm về làm quà. Giá mỗi kg hủ tiếu từ 40.000 đồng, tuỳ loại.
 
@@ -135,7 +135,7 @@ Ngoài ra, một số làng nghề khác là làng bánh tráng Thuận Hưng, l
 
 > Vườn ca cao Mười Cương
 
-Tới đây, ngoài thưởng thức sản phẩm từ trái cacao, khách còn được cùng gia chủ trải nghiệm các công đoạn sản xuất. Cơ sở làm cacao này bắt đầu hoạt động từ những năm 1960. Hiện [vườn ca cao Mười Cương](https://nhavantuonglai.com/article) có diện tích hơn 1,2 hecta với hơn 2.000 gốc cacao.
+Tới đây, ngoài thưởng thức sản phẩm từ trái cacao, khách còn được cùng gia chủ trải nghiệm các công đoạn sản xuất. Cơ sở làm cacao này bắt đầu hoạt động từ những năm 1960. Hiện [vườn ca cao Mười Cương](/article) có diện tích hơn 1,2 hecta với hơn 2.000 gốc cacao.
 
 Bạn có thể tham quan vườn trong khung giờ 7h – 12h mỗi ngày. Vườn bày bán nhiều sản phẩm làm từ cacao cho du khách mua về làm quà như bột, kẹo, socola, nước trái cây…
 
@@ -145,15 +145,15 @@ Bún gỏi dà: Món ăn có vị khá giống bún mắm. Nước lèo chua v�
 
 Pizza hủ tiếu: Đây tên gọi chiếc bánh hủ tiếu chiên giòn. Trước khi chế biến, bánh hủ tiếu được phơi khô, ướp bột nêm và tiêu cho thơm. Hủ tiếu cho ngập trong chảo dầu sôi, lật đều hai mặt để bánh chín vàng và rắc hành lá nhuyễn lên trên. Địa chỉ gợi ý là lò hủ tiếu Sáu Hoài, khu vực 7, phường An Bình, quận Ninh Kiều.
 
-Bánh hỏi nem nướng: [Bánh hỏi](https://nhavantuonglai.com/article) ăn kèm nem nướng, rau sống các loại như khế chua, dưa leo, dứa, chuối xanh, hoa chuối, củ kiệu, ớt, sả… Gắp mỗi thứ một chút, cuốn vào trong chiếc bánh hỏi, cùng nem nướng, đậu phộng rang giã nhỏ, chấm vào bát nước chấm đã pha đủ vị chua, cay, mặn, ngọt là bạn có thể thưởng thức ngay. Ở Ninh Kiều, thực khách có thể ăn ở quán Thanh Vân ở số 17 đại lộ Hòa Bình; quán Cô Ròm 14 Trần Khánh Dư hay Anh Mập số 18 Nguyễn An Ninh.
+Bánh hỏi nem nướng: [Bánh hỏi](/article) ăn kèm nem nướng, rau sống các loại như khế chua, dưa leo, dứa, chuối xanh, hoa chuối, củ kiệu, ớt, sả… Gắp mỗi thứ một chút, cuốn vào trong chiếc bánh hỏi, cùng nem nướng, đậu phộng rang giã nhỏ, chấm vào bát nước chấm đã pha đủ vị chua, cay, mặn, ngọt là bạn có thể thưởng thức ngay. Ở Ninh Kiều, thực khách có thể ăn ở quán Thanh Vân ở số 17 đại lộ Hòa Bình; quán Cô Ròm 14 Trần Khánh Dư hay Anh Mập số 18 Nguyễn An Ninh.
 
-Vịt nấu chao: Ngoài cháo, gỏi vịt, vịt quay, vịt kho sả, vịt chiên nước dừa… thì [vịt nấu chao](https://nhavantuonglai.com/article) cũng là món ngon nổi tiếng ở Cần Thơ. Thường quán sẽ phục vụ một nồi gồm nước lèo ăn vịt nấu chao và các loại thịt theo giá khách yêu cầu, kèm theo bún, mì và rau như ăn lẩu. Ở Cần Thơ, quán Thành Giao trên đường Lý Tự Trọng là một trong những địa chỉ nổi tiếng với món ăn này. Giá từ 150.000 đồng cho một suất ăn 2 người.
+Vịt nấu chao: Ngoài cháo, gỏi vịt, vịt quay, vịt kho sả, vịt chiên nước dừa… thì [vịt nấu chao](/article) cũng là món ngon nổi tiếng ở Cần Thơ. Thường quán sẽ phục vụ một nồi gồm nước lèo ăn vịt nấu chao và các loại thịt theo giá khách yêu cầu, kèm theo bún, mì và rau như ăn lẩu. Ở Cần Thơ, quán Thành Giao trên đường Lý Tự Trọng là một trong những địa chỉ nổi tiếng với món ăn này. Giá từ 150.000 đồng cho một suất ăn 2 người.
 
 Chuột đồng chiên nước mắm: Món ăn khá phổ biến ở Cần Thơ, đặc biệt là các quán ăn chuyên đặc sản miền Tây ở trung tâm thành phố với giá khoảng 75.000 đồng một đĩa.
 
 Gỏi tôm trứng: Món gỏi đặc biệt hấp dẫn khi được kết hợp tôm, trứng và da heo. Khách gọi, người bán lần lượt cho vào đu đủ bào, vài con tôm, da heo, vài lát trứng, thêm chút tép khô. Rắc thêm chút rau thơm, đậu phộng giã nhuyễn và sau cùng chan vài muỗng nước mắm chanh, tỏi, ớt.
 
-Ngoài trái cây, hải sản Cần thơ còn có một số [đặc sản](https://nhavantuonglai.com/article) bạn nên thử như: hủ tiếu gõ, bánh tét lá cẩm, [bánh xèo cổ hũ dừa](https://nhavantuonglai.com/article), nem nướng Cái Răng, bánh tằm bì, lẩu bần Phù Sa, bánh cống…
+Ngoài trái cây, hải sản Cần thơ còn có một số [đặc sản](/article) bạn nên thử như: hủ tiếu gõ, bánh tét lá cẩm, [bánh xèo cổ hũ dừa](/article), nem nướng Cái Răng, bánh tằm bì, lẩu bần Phù Sa, bánh cống…
 
 ## Mua gì làm quà
 

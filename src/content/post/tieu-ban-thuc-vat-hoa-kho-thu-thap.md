@@ -48,7 +48,7 @@ Thời điểm thu thập mẫu tiêu bản trong ngày cũng ảnh hưởng đ�
 
 ### Buổi sáng
 
-– Ưu điểm: Sương đêm giúp mẫu vật giữ được mùi thơm và màu sắc tươi mới. Đối với [tiêu bản thực vật hoa khô](https://nhavantuonglai.com/article/tieu-ban-thuc-vat-hoa-kho#ban-tieu-ban-thuc-vat-kho), thu thập vào buổi sáng có thể giúp cánh hoa mềm mại và dễ tổn thương hơn, nhưng lại giữ được hương thơm tự nhiên.
+– Ưu điểm: Sương đêm giúp mẫu vật giữ được mùi thơm và màu sắc tươi mới. Đối với [tiêu bản thực vật hoa khô](/article/tieu-ban-thuc-vat-hoa-kho#ban-tieu-ban-thuc-vat-kho), thu thập vào buổi sáng có thể giúp cánh hoa mềm mại và dễ tổn thương hơn, nhưng lại giữ được hương thơm tự nhiên.
 
 – Nhược điểm: Cánh hoa mỏng và dễ tổn thương hơn do độ ẩm cao.
 
@@ -74,7 +74,7 @@ Thời điểm thu thập mẫu tiêu bản trong ngày cũng ảnh hưởng đ�
 
 ### Bước 1: Chuẩn bị dụng cụ
 
-Để thu thập và xử lý mẫu [tiêu bản thực vật hoa khô](https://nhavantuonglai.com/article/tieu-ban-thuc-vat-hoa-kho#cach-lam-tieu-ban-la-cay) một cách hiệu quả, cần chuẩn bị đầy đủ các dụng cụ cần thiết:
+Để thu thập và xử lý mẫu [tiêu bản thực vật hoa khô](/article/tieu-ban-thuc-vat-hoa-kho#cach-lam-tieu-ban-la-cay) một cách hiệu quả, cần chuẩn bị đầy đủ các dụng cụ cần thiết:
 
 – Kéo cắt cây: Sử dụng kéo sắc để cắt mẫu vật, tránh làm tổn thương cây.
 
@@ -106,7 +106,7 @@ Thời điểm thu thập mẫu tiêu bản trong ngày cũng ảnh hưởng đ�
 
 ## Bảo quản và trưng bày mẫu tiêu bản
 
-Sau khi đã hoàn tất quy trình thu thập và xử lý, bước cuối cùng là bảo quản và trưng bày mẫu [tiêu bản thực vật hoa khô](https://nhavantuonglai.com/article/tieu-ban-thuc-vat-hoa-kho).
+Sau khi đã hoàn tất quy trình thu thập và xử lý, bước cuối cùng là bảo quản và trưng bày mẫu [tiêu bản thực vật hoa khô](/article/tieu-ban-thuc-vat-hoa-kho).
 
 – Bảo quản: Đặt mẫu tiêu bản vào túi zip cùng với hạt hút ẩm để duy trì độ khô và ngăn ngừa mốc. Bảo quản mẫu tiêu bản ở nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp.
 
@@ -120,7 +120,7 @@ Sau khi đã hoàn tất quy trình thu thập và xử lý, bước cuối cùn
 
 ## Kết luận
 
-Việc thu thập mẫu [tiêu bản thực vật hoa khô](https://nhavantuonglai.com/article/tieu-ban-thuc-vat-hoa-kho#mua-tieu-ban-thuc-vat-hoa-kho) và thực vật khô đòi hỏi sự kỹ lưỡng và chú ý đến nhiều yếu tố quan trọng. Bằng việc xác định đúng mùa vụ và thời điểm thu thập, bạn có thể đảm bảo mẫu vật đạt chất lượng tốt nhất.
+Việc thu thập mẫu [tiêu bản thực vật hoa khô](/article/tieu-ban-thuc-vat-hoa-kho#mua-tieu-ban-thuc-vat-hoa-kho) và thực vật khô đòi hỏi sự kỹ lưỡng và chú ý đến nhiều yếu tố quan trọng. Bằng việc xác định đúng mùa vụ và thời điểm thu thập, bạn có thể đảm bảo mẫu vật đạt chất lượng tốt nhất.
 
 Quy trình thu thập và xử lý mẫu tiêu bản, cùng với việc bảo quản và trưng bày, giúp tạo ra những tác phẩm nghệ thuật và tài liệu nghiên cứu quý giá. Việc này không chỉ giúp bảo tồn vẻ đẹp tự nhiên của thực vật mà còn đóng góp vào việc nghiên cứu và giáo dục về đa dạng sinh học.
 

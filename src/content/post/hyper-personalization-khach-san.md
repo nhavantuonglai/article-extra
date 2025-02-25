@@ -39,7 +39,7 @@ Như mọi giải pháp khác, các khách sạn hiện nay cũng nên khai thá
 
 Theo nghiên cứu từ McKinsey, 76% người dùng quyết định mua hàng của giải pháp đã tiếp thị cá nhân hóa, và 78% trong số đó lặp lại hành vi này. Điều này có nghĩ rằng: dữ liệu siêu cá nhân hóa giúp các chiến dịch tiếp thị, bán phòng đạt tỷ lệ thành công cao hơn. Để hình dung, hãy tham khảo ví dụ dưới đây:
 
-– Một du khách đang tìm kiếm khách sạn thân thiện với vật nuôi cho chuyến du lịch cuối tuần. Họ thường truy cập kênh bán phòng và [website khách sạn](https://nhavantuonglai.com/article), tìm kiếm trong khoảng thời gian cụ thể (từ 12h30 trưa – 1h chiều) vào tất cả các ngày trong tuần, nhưng chưa tìm thấy nơi nào ưng ý. Hành vi này tiếp tục lặp lại, và đó là cơ hội để khách sạn của bạn tiếp thị siêu cá nhân hóa vị du khách ấy.
+– Một du khách đang tìm kiếm khách sạn thân thiện với vật nuôi cho chuyến du lịch cuối tuần. Họ thường truy cập kênh bán phòng và [website khách sạn](/article), tìm kiếm trong khoảng thời gian cụ thể (từ 12h30 trưa – 1h chiều) vào tất cả các ngày trong tuần, nhưng chưa tìm thấy nơi nào ưng ý. Hành vi này tiếp tục lặp lại, và đó là cơ hội để khách sạn của bạn tiếp thị siêu cá nhân hóa vị du khách ấy.
 
 – Nếu website khách sạn được thiết lập cơ chế theo dõi, đo lường hành vi của người dùng, các thuật toán liên quan sẽ chỉ ra hành trình mua sắm và các đề xuất tiếp cận cho phù hợp.
 
@@ -57,7 +57,7 @@ Với nhóm khách đặt phòng chi tiêu cao, dựa trên nhu cầu mà khách
 
 Chiến lược tiếp cận
 
-Để bắt đầu, hãy thông qua [phần mềm quản lý khách sạn](https://nhavantuonglai.com/article), công cụ quản lý khách hàng (CRM) để thu thập dữ liệu chi tiêu của tất cả khách hàng.
+Để bắt đầu, hãy thông qua [phần mềm quản lý khách sạn](/article), công cụ quản lý khách hàng (CRM) để thu thập dữ liệu chi tiêu của tất cả khách hàng.
 
 Tiếp theo, xác định các dịch vụ hiện có của khách sạn phù hợp với từng tiêu chí, khả năng chi tiêu của từng nhóm khách hàng.
 
@@ -75,7 +75,7 @@ Chiến lược tiếp cận
 
 Với nhóm khách đặt phòng lần đầu, hãy cung cấp thông tin chi tiết về nội thất, cảnh quan của khách sạn. Chúng cũng phải bao gồm những tiện nghi, dịch vụ có trong khách sạn. Cách tiếp cận tốt nhất là thông qua video, hình ảnh min hoạt, chúng sẽ trực quan và dễ hình dung hơn là bài viết, đoạn văn giới thiệu.
 
-Với khách đặt phòng trở lại, những thông tin trên là không cần thiết. Thay vào đó, hãy tối ưu những trải nghiệm có sẵn, họ từng hài lòng nhằm [đáp ứng tốt hơn những kỳ vọng](https://nhavantuonglai.com/article) của họ.
+Với khách đặt phòng trở lại, những thông tin trên là không cần thiết. Thay vào đó, hãy tối ưu những trải nghiệm có sẵn, họ từng hài lòng nhằm [đáp ứng tốt hơn những kỳ vọng](/article) của họ.
 
 #### Khách đặt phòng thường xuyên và khách đặt phòng vãng lai
 
@@ -91,7 +91,7 @@ Và cũng đừng quên tạo sự liên kết, thông qua những trao đổi l
 
 #### Khách đặt phòng gia đình và khách đặt phòng một mình
 
-Khách đặt phòng nói chung luôn có những nhu cầu và sở thích riêng biệt. Bằng cách điều chỉnh chiến lược tiếp thị cho nhóm khách gia đình và khách đi một mình, khách sạn có thể cung cấp những tiện nghi, dịch vụ và [trải nghiệm khách hàng](https://nhavantuonglai.com/article) tương ứng; đáp ứng tốt các yêu cầu của họ, từ đó nâng cao sự hài lòng và cải thiện lòng trung thành của du khách.
+Khách đặt phòng nói chung luôn có những nhu cầu và sở thích riêng biệt. Bằng cách điều chỉnh chiến lược tiếp thị cho nhóm khách gia đình và khách đi một mình, khách sạn có thể cung cấp những tiện nghi, dịch vụ và [trải nghiệm khách hàng](/article) tương ứng; đáp ứng tốt các yêu cầu của họ, từ đó nâng cao sự hài lòng và cải thiện lòng trung thành của du khách.
 
 Với nhóm khách đặt phòng gia đình, thường họ đem theo trẻ em. Điều này khiến các yêu cầu trở nên phức tạp và cần được giải quyết gọn gàng, dứt điểm hơn. Còn với nhóm khách đặt phòng một mình, họ đề cao sự thoải mái và các nhu cầu cụ thể dường như hiếm được nêu ra.
 
@@ -131,7 +131,7 @@ Với khách du lịch, tương tự như nhóm khách đặt phòng một mình
 
 #### Chương trình khách hàng thân thiết
 
-Trong khách sạn, [chương trình khách hàng thân thiết](https://nhavantuonglai.com/article) luôn đóng vai trò quan trọng trong việc giữ chân khách hàng. Điều này có nghĩa là – khách sạn cung cấp những dịch vụ đặc quyền cho một nhóm khách hàng nhất định. Đó là mấu chốt quan trọng, giúp khách sạn có được nhiều khách hàng trung thành hơn, thường xuyên lui tới đặt phòng tại khách sạn của bạn.
+Trong khách sạn, [chương trình khách hàng thân thiết](/article) luôn đóng vai trò quan trọng trong việc giữ chân khách hàng. Điều này có nghĩa là – khách sạn cung cấp những dịch vụ đặc quyền cho một nhóm khách hàng nhất định. Đó là mấu chốt quan trọng, giúp khách sạn có được nhiều khách hàng trung thành hơn, thường xuyên lui tới đặt phòng tại khách sạn của bạn.
 
 Chiến lược tiếp cận
 
@@ -141,7 +141,7 @@ Ngoài ra, khách sạn cũng có thể cung cấp các dịch vụ đi kèm nh�
 
 #### Khách đặt phòng trực tuyến và khách đặt phòng trực tiếp
 
-Nhóm khách hàng cuối cùng mà khách sạn cần quan tâm là khách [đặt phòng trực tuyến](https://nhavantuonglai.com/article) và [khách đặt phòng trực tiếp](https://nhavantuonglai.com/article). Sự khác biệt của 2 nhóm này nằm ở dữ liệu mà khách sạn thu thập được, khi nhóm khách đặt phòng qua kênh trực tuyến thường không có nhiều dữ liệu được chia sẻ, và bị hạn chế bởi kênh bán phòng. Còn với khách đặt phòng trực tiếp, dữ liệu được khách sạn chủ động thu thập, kiểm tra, từ đó giúp việc vận hành trở nên ổn định và đảm bảo hơn.
+Nhóm khách hàng cuối cùng mà khách sạn cần quan tâm là khách [đặt phòng trực tuyến](/article) và [khách đặt phòng trực tiếp](/article). Sự khác biệt của 2 nhóm này nằm ở dữ liệu mà khách sạn thu thập được, khi nhóm khách đặt phòng qua kênh trực tuyến thường không có nhiều dữ liệu được chia sẻ, và bị hạn chế bởi kênh bán phòng. Còn với khách đặt phòng trực tiếp, dữ liệu được khách sạn chủ động thu thập, kiểm tra, từ đó giúp việc vận hành trở nên ổn định và đảm bảo hơn.
 
 Hành vi đặt phòng của 2 nhóm này cũng có sự khác biệt, dựa trên hiểu biết và mục tiêu tìm kiếm thông tin trong quá trình đặt phòng. Cụ thể, với khách đặt phòng trực tuyến, họ tham khảo và lựa chọn nhiều trước khi ra quyết định cuối cùng (chọn khách sạn của bạn). Còn với khách đặt phòng trực tiếp, họ đã biết và xác định khách sạn cần đặt phòng, rồi từ đó đi đến quyết định là đặt phòng tại khách sạn của bạn.
 

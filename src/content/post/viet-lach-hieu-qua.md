@@ -277,7 +277,7 @@ Việc viết hàng ngày là một phương pháp cơ bản nhưng hiệu quả
 
 ### Tham gia các khóa học viết blog
 
-Tham gia các [Khóa học viết blog](https://nhavantuonglai.com/article) là cách tốt để học từ những người có kinh nghiệm và nhận phản hồi từ người giảng dạy cũng như bạn bè cùng lớp. Các khóa học này cung cấp kiến thức về cấu trúc văn bản, cách sử dụng ngôn ngữ hiệu quả, và cách phát triển ý tưởng. Bạn cũng có thể học được cách xây dựng nhân vật, diễn biến và kết cấu câu chuyện từ những bài giảng chuyên sâu. Điều này giúp bạn không chỉ nâng cao kỹ năng viết mà còn mở rộng tầm hiểu biết về văn hóa và nghệ thuật viết.
+Tham gia các [Khóa học viết blog](/article) là cách tốt để học từ những người có kinh nghiệm và nhận phản hồi từ người giảng dạy cũng như bạn bè cùng lớp. Các khóa học này cung cấp kiến thức về cấu trúc văn bản, cách sử dụng ngôn ngữ hiệu quả, và cách phát triển ý tưởng. Bạn cũng có thể học được cách xây dựng nhân vật, diễn biến và kết cấu câu chuyện từ những bài giảng chuyên sâu. Điều này giúp bạn không chỉ nâng cao kỹ năng viết mà còn mở rộng tầm hiểu biết về văn hóa và nghệ thuật viết.
 
 ### Tham gia cộng đồng viết lách
 

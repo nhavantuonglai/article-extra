@@ -301,23 +301,23 @@ Thầy Châu Toàn thật sự là một nghệ sĩ. Hồi đó các thầy Châ
 
 Nguyễn Du có lẽ là nhà thơ lớn nhất trên thi đàn Việt Nam. Hồi còn trẻ, đọc Nguyễn Du tôi rất kinh ngạc thấy một nhà nho đạo mạo như thế mà viết ra được những câu thơ tình tứ đến thế, những câu thơ nói lên được cả những đam mê, những liều lĩnh và ngông cuồng của tuổi trẻ. Nguyễn Du đã thấy được tất cả những xấu xa bỉ ổi của một xã hội băng hoại, nhưng Nguyễn Du cũng đã thấy được nét đẹp tinh thần và tâm linh cao khiết có thể có khả năng cứu độ cho một xã hội thối nát như thế. Những danh từ mà Nguyễn Du sử dụng về thời gian như _bao giờ, bây giờ, bấy giờ, bấy lâu, có lúc, có khi, hôm nay…_ đã gây cảm hứng cho tôi viết ra tác phẩm _Bây giờ mới thấy_ này. Đây là một quán chiếu về thời gian, về tình yêu và về hạnh phúc. Bạn chỉ nên đọc mỗi lần một đoạn ngắn. Cũng như khi bạn đọc đoạn văn _Hữu Thời_ của thiền sư Đạo Nguyên.
 
-Đọc [Bây giờ mới thấy, chương 01](https://nhavantuonglai.com/article/bay-gio-moi-thay-chuong-01) tại đây.
+Đọc [Bây giờ mới thấy, chương 01](/article/bay-gio-moi-thay-chuong-01) tại đây.
 
-Đọc [Bây giờ mới thấy, chương 02](https://nhavantuonglai.com/article/bay-gio-moi-thay-chuong-02) tại đây.
+Đọc [Bây giờ mới thấy, chương 02](/article/bay-gio-moi-thay-chuong-02) tại đây.
 
-Đọc [Bây giờ mới thấy, chương 03](https://nhavantuonglai.com/article/bay-gio-moi-thay-chuong-03) tại đây.
+Đọc [Bây giờ mới thấy, chương 03](/article/bay-gio-moi-thay-chuong-03) tại đây.
 
-Đọc [Bây giờ mới thấy, chương 04](https://nhavantuonglai.com/article/bay-gio-moi-thay-chuong-04) tại đây.
+Đọc [Bây giờ mới thấy, chương 04](/article/bay-gio-moi-thay-chuong-04) tại đây.
 
-Đọc [Bây giờ mới thấy, chương 05](https://nhavantuonglai.com/article/bay-gio-moi-thay-chuong-05) tại đây.
+Đọc [Bây giờ mới thấy, chương 05](/article/bay-gio-moi-thay-chuong-05) tại đây.
 
-Đọc [Bây giờ mới thấy, chương 06](https://nhavantuonglai.com/article/bay-gio-moi-thay-chuong-06) tại đây.
+Đọc [Bây giờ mới thấy, chương 06](/article/bay-gio-moi-thay-chuong-06) tại đây.
 
-Đọc [Bây giờ mới thấy, chương 07](https://nhavantuonglai.com/article/bay-gio-moi-thay-chuong-07) tại đây.
+Đọc [Bây giờ mới thấy, chương 07](/article/bay-gio-moi-thay-chuong-07) tại đây.
 
-Đọc [Bây giờ mới thấy, chương 08](https://nhavantuonglai.com/article/bay-gio-moi-thay-chuong-08) tại đây.
+Đọc [Bây giờ mới thấy, chương 08](/article/bay-gio-moi-thay-chuong-08) tại đây.
 
-Đọc [Bây giờ mới thấy, chương 09](https://nhavantuonglai.com/article/bay-gio-moi-thay-chuong-09) tại đây.
+Đọc [Bây giờ mới thấy, chương 09](/article/bay-gio-moi-thay-chuong-09) tại đây.
 
 Đọc [Bây giờ mới thấy, toàn tập](https://banmaixanh.vercel.app/ebook/bay-gio-moi-thay.pdf) tại đây.
 

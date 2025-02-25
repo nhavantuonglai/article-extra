@@ -21,13 +21,13 @@ _Lựa chọn kênh bán phòng trực tuyến mà khách sạn sử dụng và 
 
 Kênh bán phòng trực tuyến cần phải đưa vào danh sách đầu tiên chính là website của khách sạn, và đây cũng là một trong những công cụ tiếp thị hiệu quả nhất về chi phí mà giải pháp của bạn sẽ sử dụng. Chỉ cần đầu tư chi phí phát triển ban đầu và phí duy trì hàng tháng là tương đối nhỏ.
 
-[website của khách sạn](https://nhavantuonglai.com/article) sẽ cung cấp cho bạn một nền tảng lý tưởng để truyền tải các giá trị thương hiệu và đưa ra thông điệp tiếp thị thu hút đối tượng mục tiêu của bạn. Đồng thời, các website cũng giúp tăng khả năng hiển thị tổng thể cho khách sạn của bạn trên công cụ tìm kiếm, đặc biệt là khi nhiệm vụ SEO được thực hiện hiệu quả và nội dung mới được bổ sung thường xuyên.
+[website của khách sạn](/article) sẽ cung cấp cho bạn một nền tảng lý tưởng để truyền tải các giá trị thương hiệu và đưa ra thông điệp tiếp thị thu hút đối tượng mục tiêu của bạn. Đồng thời, các website cũng giúp tăng khả năng hiển thị tổng thể cho khách sạn của bạn trên công cụ tìm kiếm, đặc biệt là khi nhiệm vụ SEO được thực hiện hiệu quả và nội dung mới được bổ sung thường xuyên.
 
-Ngoài ra, tất nhiên, [website của khách sạn](https://nhavantuonglai.com/article) là kênh bán phòng trực tuyến duy nhất có thể tạo ra doanh số bán hàng trực tiếp mà không phải trả hoa hồng cho bên thứ ba. Vì lý do này, bạn cần cố gắng tạo càng nhiều đặt phòng qua website của mình càng tốt, đó là lý do tại sao nhiều khách sạn cung cấp ưu đãi cho các đặt phòng trực tiếp.
+Ngoài ra, tất nhiên, [website của khách sạn](/article) là kênh bán phòng trực tuyến duy nhất có thể tạo ra doanh số bán hàng trực tiếp mà không phải trả hoa hồng cho bên thứ ba. Vì lý do này, bạn cần cố gắng tạo càng nhiều đặt phòng qua website của mình càng tốt, đó là lý do tại sao nhiều khách sạn cung cấp ưu đãi cho các đặt phòng trực tiếp.
 
 Ngày nay, nhiều người gần như dựa hoàn toàn vào thiết bị di động và máy tính bảng để cập nhật internet. Do đó, điều cần thiết là các website khách sạn phải được tối ưu cho thiết bị di động.
 
-Để có thể có một website khách sạn hoạt động hiệu quả, bạn có thể đọc thêm về bài viết về [các tips cải thiện website khách sạn](https://nhavantuonglai.com/article) để tăng lượng booking từ các kênh bán phòng trực tuyến.
+Để có thể có một website khách sạn hoạt động hiệu quả, bạn có thể đọc thêm về bài viết về [các tips cải thiện website khách sạn](/article) để tăng lượng booking từ các kênh bán phòng trực tuyến.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-033.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
@@ -39,7 +39,7 @@ Lợi ích chính cho giải pháp của bạn là khả năng hiển thị mà 
 
 Tuỳ vào mô hình kinh doanh của bạn, thông thường hoa hồng khách sạn cần phải trả cho các kênh OTA rơi vào khoảng 15% – 25%. Chính vì vậy kênh OTA có thể đem lại doanh thu ít hơn trên mỗi lượt đặt phòng so với các kênh đặt phòng trực tuyến. Tuy nhiên số lượng phòng được đặt có thể gia tăng nếu như bạn biết điều chỉnh các ưu đãi phù hợp.
 
-Để [cải thiện sự nhận diện của kênh OTA](https://nhavantuonglai.com/article), điều quan trọng là phải cập nhật thông tin của khách sạn đầy đủ trên các kênh này, các hình ảnh cần được rõ nét, có chất lượng cao. Hơn nữa, bạn cũng nên hướng đến việc phản hồi các đánh giá của khách hàng nhanh nhất có thể để tránh tác động của bất kỳ phản hồi tiêu cực nào.
+Để [cải thiện sự nhận diện của kênh OTA](/article), điều quan trọng là phải cập nhật thông tin của khách sạn đầy đủ trên các kênh này, các hình ảnh cần được rõ nét, có chất lượng cao. Hơn nữa, bạn cũng nên hướng đến việc phản hồi các đánh giá của khách hàng nhanh nhất có thể để tránh tác động của bất kỳ phản hồi tiêu cực nào.
 
 ## Hệ thống phân phối toàn cầu (GDS)
 

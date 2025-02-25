@@ -117,25 +117,25 @@ Suy nghĩ không cần có người suy nghĩ. Cảm giác không cần có ngư
 
 Khi thiền quán, chúng ta tập nhìn sâu để đem ánh sáng và sự hiểu biết vào cách nhìn nhận sự vật của mình. Khi chúng ta đạt được cái nhìn vô ngã thì vô minh không còn. Đó là sự chuyển hóa. Trong truyền thống đạo Bụt, hiểu sâu mang đến sự chuyển hóa. Khi đạt được tuệ giác vô ngã thì mạt na thức – ý niệm _tôi là_ – sẽ tan rã và chúng ta sẽ đạt được tự do, hạnh phúc ngay trong giây phút ấy.
 
-Đọc [Bụt là hình hài, Bụt là tâm thức, chương 01](https://nhavantuonglai.com/article/but-la-hinh-hai-but-la-tam-thuc-chuong-01) tại đây.
+Đọc [Bụt là hình hài, Bụt là tâm thức, chương 01](/article/but-la-hinh-hai-but-la-tam-thuc-chuong-01) tại đây.
 
-Đọc [Bụt là hình hài, Bụt là tâm thức, chương 02](https://nhavantuonglai.com/article/but-la-hinh-hai-but-la-tam-thuc-chuong-02) tại đây.
+Đọc [Bụt là hình hài, Bụt là tâm thức, chương 02](/article/but-la-hinh-hai-but-la-tam-thuc-chuong-02) tại đây.
 
-Đọc [Bụt là hình hài, Bụt là tâm thức, chương 03](https://nhavantuonglai.com/article/but-la-hinh-hai-but-la-tam-thuc-chuong-03) tại đây.
+Đọc [Bụt là hình hài, Bụt là tâm thức, chương 03](/article/but-la-hinh-hai-but-la-tam-thuc-chuong-03) tại đây.
 
-Đọc [Bụt là hình hài, Bụt là tâm thức, chương 04](https://nhavantuonglai.com/article/but-la-hinh-hai-but-la-tam-thuc-chuong-04) tại đây.
+Đọc [Bụt là hình hài, Bụt là tâm thức, chương 04](/article/but-la-hinh-hai-but-la-tam-thuc-chuong-04) tại đây.
 
-Đọc [Bụt là hình hài, Bụt là tâm thức, chương 05](https://nhavantuonglai.com/article/but-la-hinh-hai-but-la-tam-thuc-chuong-05) tại đây.
+Đọc [Bụt là hình hài, Bụt là tâm thức, chương 05](/article/but-la-hinh-hai-but-la-tam-thuc-chuong-05) tại đây.
 
-Đọc [Bụt là hình hài, Bụt là tâm thức, chương 06](https://nhavantuonglai.com/article/but-la-hinh-hai-but-la-tam-thuc-chuong-06) tại đây.
+Đọc [Bụt là hình hài, Bụt là tâm thức, chương 06](/article/but-la-hinh-hai-but-la-tam-thuc-chuong-06) tại đây.
 
-Đọc [Bụt là hình hài, Bụt là tâm thức, chương 07](https://nhavantuonglai.com/article/but-la-hinh-hai-but-la-tam-thuc-chuong-07) tại đây.
+Đọc [Bụt là hình hài, Bụt là tâm thức, chương 07](/article/but-la-hinh-hai-but-la-tam-thuc-chuong-07) tại đây.
 
-Đọc [Bụt là hình hài, Bụt là tâm thức, chương 08](https://nhavantuonglai.com/article/but-la-hinh-hai-but-la-tam-thuc-chuong-08) tại đây.
+Đọc [Bụt là hình hài, Bụt là tâm thức, chương 08](/article/but-la-hinh-hai-but-la-tam-thuc-chuong-08) tại đây.
 
-Đọc [Bụt là hình hài, Bụt là tâm thức, chương 09](https://nhavantuonglai.com/article/but-la-hinh-hai-but-la-tam-thuc-chuong-09) tại đây.
+Đọc [Bụt là hình hài, Bụt là tâm thức, chương 09](/article/but-la-hinh-hai-but-la-tam-thuc-chuong-09) tại đây.
 
-Đọc [Bụt là hình hài, Bụt là tâm thức, chương 10](https://nhavantuonglai.com/article/but-la-hinh-hai-but-la-tam-thuc-chuong-10) tại đây.
+Đọc [Bụt là hình hài, Bụt là tâm thức, chương 10](/article/but-la-hinh-hai-but-la-tam-thuc-chuong-10) tại đây.
 
 Đọc [Bụt là hình hài, Bụt là tâm thức, toàn tập](https://banmaixanh.vercel.app/ebook/but-la-hinh-hai-but-la-tam-thuc.pdf) tại đây.
 

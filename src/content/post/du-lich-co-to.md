@@ -53,7 +53,7 @@ Giá tham khảo: xe điện 7 chỗ trọn gói 1.200.000 đồng một ngày; 
 
 Biển
 
-Điểm hấp dẫn nhất ở Cô Tô là những bãi biển dài, bờ cát trắng mịn và làn nước trong vắt. Trên đảo Cô Tô lớn có các bãi tắm đẹp như Vàn Chảy, Tình Yêu (còn gọi là bãi Tàu Đắm), [Hồng Vàn](https://nhavantuonglai.com/article), Bắc Vàn.
+Điểm hấp dẫn nhất ở Cô Tô là những bãi biển dài, bờ cát trắng mịn và làn nước trong vắt. Trên đảo Cô Tô lớn có các bãi tắm đẹp như Vàn Chảy, Tình Yêu (còn gọi là bãi Tàu Đắm), [Hồng Vàn](/article), Bắc Vàn.
 
 Đảo Cô Tô Con có bãi Nam và bãi Đông. Để ra đảo Cô Tô Con, khách du lịch đi tàu từ cảng Bắc Vàn (cách thị trấn khoảng 7km), thời gian ra đảo khoảng 30 đến 45 phút tùy thời tiết.
 
@@ -79,7 +79,7 @@ Ngoài những đảo lớn quen thuộc, du khách có thể thuê tàu thuyề
 
 Bãi đá Móng Rồng
 
-[Bãi đá Móng Rồng](https://nhavantuonglai.com/article) (hay còn gọi là Cầu Mỵ) có hệ thống đá trầm tích được bào mòn qua hàng vạn năm bởi nước biển. Bãi đá tự nhiên đầy màu sắc này thuộc khu 4, thị trấn Cô Tô trên đảo Cô Tô. Bãi đá rộng hơn 40 ha, trải dài khoảng 2 km.
+[Bãi đá Móng Rồng](/article) (hay còn gọi là Cầu Mỵ) có hệ thống đá trầm tích được bào mòn qua hàng vạn năm bởi nước biển. Bãi đá tự nhiên đầy màu sắc này thuộc khu 4, thị trấn Cô Tô trên đảo Cô Tô. Bãi đá rộng hơn 40 ha, trải dài khoảng 2 km.
 
 Theo tài liệu cổ, bãi đá ban đầu có tên Cầu Thủ Mỵ, dần người dân quen gọi là Cầu Mỵ. Đến năm 2015, bãi được đổi tên là Móng Rồng bởi hình thù của những tảng đá vươn ra biển gợi nhớ đến móng vuốt của rồng.
 

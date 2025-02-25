@@ -13,7 +13,7 @@ _Tú Lệ, nằm sát sườn đèo Khau Phạ, từ lâu đã là điểm đế
 
 ## Tú Lệ mùa nào đẹp
 
-[Mùa nước đổ](https://nhavantuonglai.com/article) ở Tú Lệ vào khoảng tháng 5 có vẻ đẹp riêng với những thửa ruộng bậc thang như gương trời giữa núi rừng Tây Bắc. Tháng 9, tháng 10 hàng năm là thời điểm đẹp nhất để ngắm trọn mùa vàng Tú Lệ.
+[Mùa nước đổ](/article) ở Tú Lệ vào khoảng tháng 5 có vẻ đẹp riêng với những thửa ruộng bậc thang như gương trời giữa núi rừng Tây Bắc. Tháng 9, tháng 10 hàng năm là thời điểm đẹp nhất để ngắm trọn mùa vàng Tú Lệ.
 
 ## Đường đến Tú Lệ
 
@@ -61,7 +61,7 @@ Một trong những trải nghiệm nhất định phải thử khi đến Tú L
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/du-lich-tu-le-652.jpg" alt="cam-nang-du-lich-tu-le" height=100% width=100%><figcaption><p>cam-nang-du-lich-tu-le-nhavantuonglai</p></figcaption></figure>
 
-Nếu may mắn chiêm ngưỡng cảnh [tắm tiên](https://nhavantuonglai.com/article), bạn nên cẩn trọng khi muốn chụp ảnh. Hãy cư xử tế nhị, giữ khoảng cách để vừa có những tấm hình đẹp, vừa không làm mất đi sự tự nhiên của người bản địa. Nếu bạn ngại tắm lộ thiên, có thể chọn một địa điểm kín đáo nhưng vẫn thoải mái trong khu nghỉ dưỡng ở trung tâm thị xã.
+Nếu may mắn chiêm ngưỡng cảnh [tắm tiên](/article), bạn nên cẩn trọng khi muốn chụp ảnh. Hãy cư xử tế nhị, giữ khoảng cách để vừa có những tấm hình đẹp, vừa không làm mất đi sự tự nhiên của người bản địa. Nếu bạn ngại tắm lộ thiên, có thể chọn một địa điểm kín đáo nhưng vẫn thoải mái trong khu nghỉ dưỡng ở trung tâm thị xã.
 
 Đu zipline
 
@@ -75,6 +75,6 @@ Tú Lệ về đêm đặc biệt là những ngày rằm, ánh trăng sáng v�
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/du-lich-tu-le-653.jpg" alt="cam-nang-du-lich-tu-le" height=100% width=100%><figcaption><p>cam-nang-du-lich-tu-le-nhavantuonglai</p></figcaption></figure>
 
-Ở Tú Lệ có những món đặc sản xôi nếp, thịt nướng dẻo thơm, thịt trâu gác bếp, cá suối, gà đen và đặc biệt là cốm. [Cốm Tú Lệ](https://nhavantuonglai.com/article) rất được lòng du khách bởi vị ngọt, dẻo chỉ có riêng từ lúa nơi đây, nếu bạn tới vào tầm tháng 9-10 sau khi mùa màng đã kết thúc.
+Ở Tú Lệ có những món đặc sản xôi nếp, thịt nướng dẻo thơm, thịt trâu gác bếp, cá suối, gà đen và đặc biệt là cốm. [Cốm Tú Lệ](/article) rất được lòng du khách bởi vị ngọt, dẻo chỉ có riêng từ lúa nơi đây, nếu bạn tới vào tầm tháng 9-10 sau khi mùa màng đã kết thúc.
 
 <figure><img src="https://banmaixanh.vercel.app/image/cover/001-317.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

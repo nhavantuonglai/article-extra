@@ -145,7 +145,7 @@ Học hỏi từ các tác giả khác giúp bạn mở rộng kiến thức và
 
 – Đọc sách, bài viết và blog của các tác giả nổi tiếng.
 
-– Tham gia các [Khóa học viết blog](https://nhavantuonglai.com/article) trực tuyến hoặc offline.
+– Tham gia các [Khóa học viết blog](/article) trực tuyến hoặc offline.
 
 – Theo dõi và tham gia các diễn đàn, nhóm thảo luận về viết lách.
 

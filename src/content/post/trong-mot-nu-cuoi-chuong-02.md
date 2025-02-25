@@ -176,27 +176,27 @@ Thầy từng nói rằng nếu anh không giải thích được cho các cháu
 
 _Chúng ta phải tìm ra những phương pháp thực tập làm cho các em cảm thấy vui thích. Điều này rất quan trọng. Sẽ rất thiếu sót nếu các em không được tham gia thực tập cùng người lớn. Khi các em được tham gia thì cả gia đình có cơ hội thực tập chung với nhau, rất vui._ Những lời của Thầy thực sự để lại ấn tượng sâu sắc trong tôi. Tôi thường nghe bạn bè mình than vãn rằng họ bị giằng xé giữa việc có mặt cho con cái và thiền tập. Có những phụ huynh mà công việc đòi hỏi phải vắng nhà nhiều, họ cảm thấy miễn cưỡng xa con vào buổi tối hoặc ngày cuối tuần để có thể thiền tập. Một số gia đình trong nhóm thiền tập của chúng tôi đã từng cố gắng nhưng họ không thành công. Tôi nghĩ rằng cho các em tham gia thực tập chung với người lớn là một giải pháp hay, có thể giải quyết được nhiều vấn đề và làm phong phú thêm trải nghiệm của tất cả chúng ta. Thầy từng nói: _Sự thực tập của chúng ta sẽ không thể thành tựu nếu không có sự yểm trợ của trẻ em. Nếu không có trẻ em cùng tham gia thì thiền tập của chúng ta chẳng khác nào một sự trốn chạy khỏi gia đình và xã hội._
 
-Đọc [Trồng một nụ cười, chương 01](https://nhavantuonglai.com/article/trong-mot-nu-cuoi-chuong-01) tại đây.
+Đọc [Trồng một nụ cười, chương 01](/article/trong-mot-nu-cuoi-chuong-01) tại đây.
 
-Đọc [Trồng một nụ cười, chương 02](https://nhavantuonglai.com/article/trong-mot-nu-cuoi-chuong-02) tại đây.
+Đọc [Trồng một nụ cười, chương 02](/article/trong-mot-nu-cuoi-chuong-02) tại đây.
 
-Đọc [Trồng một nụ cười, chương 03](https://nhavantuonglai.com/article/trong-mot-nu-cuoi-chuong-03) tại đây.
+Đọc [Trồng một nụ cười, chương 03](/article/trong-mot-nu-cuoi-chuong-03) tại đây.
 
-Đọc [Trồng một nụ cười, chương 04](https://nhavantuonglai.com/article/trong-mot-nu-cuoi-chuong-04) tại đây.
+Đọc [Trồng một nụ cười, chương 04](/article/trong-mot-nu-cuoi-chuong-04) tại đây.
 
-Đọc [Trồng một nụ cười, chương 05](https://nhavantuonglai.com/article/trong-mot-nu-cuoi-chuong-05) tại đây.
+Đọc [Trồng một nụ cười, chương 05](/article/trong-mot-nu-cuoi-chuong-05) tại đây.
 
-Đọc [Trồng một nụ cười, chương 06](https://nhavantuonglai.com/article/trong-mot-nu-cuoi-chuong-06) tại đây.
+Đọc [Trồng một nụ cười, chương 06](/article/trong-mot-nu-cuoi-chuong-06) tại đây.
 
-Đọc [Trồng một nụ cười, chương 07](https://nhavantuonglai.com/article/trong-mot-nu-cuoi-chuong-07) tại đây.
+Đọc [Trồng một nụ cười, chương 07](/article/trong-mot-nu-cuoi-chuong-07) tại đây.
 
-Đọc [Trồng một nụ cười, chương 08](https://nhavantuonglai.com/article/trong-mot-nu-cuoi-chuong-08) tại đây.
+Đọc [Trồng một nụ cười, chương 08](/article/trong-mot-nu-cuoi-chuong-08) tại đây.
 
-Đọc [Trồng một nụ cười, chương 09](https://nhavantuonglai.com/article/trong-mot-nu-cuoi-chuong-09) tại đây.
+Đọc [Trồng một nụ cười, chương 09](/article/trong-mot-nu-cuoi-chuong-09) tại đây.
 
-Đọc [Trồng một nụ cười, chương 10](https://nhavantuonglai.com/article/trong-mot-nu-cuoi-chuong-10) tại đây.
+Đọc [Trồng một nụ cười, chương 10](/article/trong-mot-nu-cuoi-chuong-10) tại đây.
 
-Đọc [Trồng một nụ cười, chương 11](https://nhavantuonglai.com/article/trong-mot-nu-cuoi-chuong-11) tại đây.
+Đọc [Trồng một nụ cười, chương 11](/article/trong-mot-nu-cuoi-chuong-11) tại đây.
 
 Đọc [Trồng một nụ cười, toàn tập](https://banmaixanh.vercel.app/ebook/trong-mot-nu-cuoi.pdf) tại đây.
 

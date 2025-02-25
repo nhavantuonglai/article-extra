@@ -13,15 +13,15 @@ _Cách Hà Nội hơn 300 km về phía Bắc, Mù Cang Chải là một trong n
 
 ## Mù Cang Chải mùa nào đẹp?
 
-Mù Cang Chải đẹp quanh năm. Vào mùa xuân, mạ non sáng trên mặt nước; trong những tháng hè ấm áp, ruộng bậc thang xanh rực rỡ núi đồi. Ấn tượng nhất vào mùa đổ nước (mùa cấy mạ) và mùa lúa chín (mùa thu hoạch vụ Đông Xuân). [Mùa đổ nước](https://nhavantuonglai.com/article) rơi vào cuối tháng 5 đến đầu tháng 6, những [thửa ruộng](https://nhavantuonglai.com/article) như _tráng gương_ soi cả đất trời.
+Mù Cang Chải đẹp quanh năm. Vào mùa xuân, mạ non sáng trên mặt nước; trong những tháng hè ấm áp, ruộng bậc thang xanh rực rỡ núi đồi. Ấn tượng nhất vào mùa đổ nước (mùa cấy mạ) và mùa lúa chín (mùa thu hoạch vụ Đông Xuân). [Mùa đổ nước](/article) rơi vào cuối tháng 5 đến đầu tháng 6, những [thửa ruộng](/article) như _tráng gương_ soi cả đất trời.
 
-Từ tháng 9 đến tháng 10 là [mùa vàng](https://nhavantuonglai.com/article) Mù Cang Chải, hấp dẫn các nhiếp ảnh gia, du khách đến ngắm bức tranh vùng cao đầy màu sắc. Mùa đông, những thửa ruộng như bức tranh thuỷ mặc của núi rừng. Cuối tháng 12 là mùa đào rừng đua nở.
+Từ tháng 9 đến tháng 10 là [mùa vàng](/article) Mù Cang Chải, hấp dẫn các nhiếp ảnh gia, du khách đến ngắm bức tranh vùng cao đầy màu sắc. Mùa đông, những thửa ruộng như bức tranh thuỷ mặc của núi rừng. Cuối tháng 12 là mùa đào rừng đua nở.
 
 ## Di chuyển
 
-Từ Hà Nội tới Mù Cang Chải khoảng 300 km – không quá xa nhưng đường khó đi hơn Sa Pa, Mộc Châu vì những [quãng đèo](https://nhavantuonglai.com/article), dốc vắt từ lộ này sang lộ khác.
+Từ Hà Nội tới Mù Cang Chải khoảng 300 km – không quá xa nhưng đường khó đi hơn Sa Pa, Mộc Châu vì những [quãng đèo](/article), dốc vắt từ lộ này sang lộ khác.
 
-Mù Cang Chải, Văn Chấn, Trạm Tấu, thị xã Nghĩa Lộ là 4 huyện thị miền tây Yên Bái nằm tách biệt bên sườn phía Tây dãy Hoàng Liên Sơn – Púng Luông. Để đến đây, chỉ có con đường độc đạo là quốc lộ 32, còn lại là những đường nhánh chỉ dành cho các phượt thủ và [người dân địa phương](https://nhavantuonglai.com/article).
+Mù Cang Chải, Văn Chấn, Trạm Tấu, thị xã Nghĩa Lộ là 4 huyện thị miền tây Yên Bái nằm tách biệt bên sườn phía Tây dãy Hoàng Liên Sơn – Púng Luông. Để đến đây, chỉ có con đường độc đạo là quốc lộ 32, còn lại là những đường nhánh chỉ dành cho các phượt thủ và [người dân địa phương](/article).
 
 _Xe khách_
 
@@ -39,7 +39,7 @@ Lộ trình từ Hà Nội đi theo cao tốc Nội Bài – Lào Cai – QL 279
 
 ## Lưu trú
 
-Mù Cang Chải chủ yếu có các khách sạn bình dân, [homestay](https://nhavantuonglai.com/article) kiểu phòng trọ, nhà sàn và không nhiều sự lựa chọn cao cấp. Trong đó, nhà sàn và homestay của người dân là loại hình lưu trú phổ biến nhất ở Mù Cang Chải. Các nhà sàn có phòng ngủ tập thể cho từ 10 đến 30 người. Du khách có thể dễ dàng tìm một nhà sàn xung quanh các điểm du lịch nổi tiếng như: Bản Thái, khu ruộng bậc thang La Pán Tẩn, Tú Lệ… Tại đây đều có dịch vụ ăn nghỉ và bán hàng tạp hoá ngay dưới chân nhà.
+Mù Cang Chải chủ yếu có các khách sạn bình dân, [homestay](/article) kiểu phòng trọ, nhà sàn và không nhiều sự lựa chọn cao cấp. Trong đó, nhà sàn và homestay của người dân là loại hình lưu trú phổ biến nhất ở Mù Cang Chải. Các nhà sàn có phòng ngủ tập thể cho từ 10 đến 30 người. Du khách có thể dễ dàng tìm một nhà sàn xung quanh các điểm du lịch nổi tiếng như: Bản Thái, khu ruộng bậc thang La Pán Tẩn, Tú Lệ… Tại đây đều có dịch vụ ăn nghỉ và bán hàng tạp hoá ngay dưới chân nhà.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/du-lich-mu-cang-chai-414.jpg" alt="cam-nang-du-lich-mu-cang-chai" height=100% width=100%><figcaption><p>cam-nang-du-lich-mu-cang-chai-nhavantuonglai</p></figcaption></figure>
 
@@ -53,7 +53,7 @@ Ngoài ra, du khách có thể nghỉ ở Hello Mu Cang Chai, Vu Linh Family, Th
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/du-lich-mu-cang-chai-415.jpg" alt="cam-nang-du-lich-mu-cang-chai" height=100% width=100%><figcaption><p>cam-nang-du-lich-mu-cang-chai-nhavantuonglai</p></figcaption></figure>
 
-Đèo Khau Phạ là nơi diễn ra hoạt động [dù lượn](https://nhavantuonglai.com/article) hàng năm với tên gọi lễ hội Bay trên mùa vàng. Từ đây, phi công và du khách vừa nhảy dù trải nghiệm cảm giác mạnh vừa có thể ngắm nhìn toàn cảnh thung lũng Lìm Mông trong mùa lúa chín. Nếu yêu thích du khách nên đặt tour trước để có suất nhảy dù.
+Đèo Khau Phạ là nơi diễn ra hoạt động [dù lượn](/article) hàng năm với tên gọi lễ hội Bay trên mùa vàng. Từ đây, phi công và du khách vừa nhảy dù trải nghiệm cảm giác mạnh vừa có thể ngắm nhìn toàn cảnh thung lũng Lìm Mông trong mùa lúa chín. Nếu yêu thích du khách nên đặt tour trước để có suất nhảy dù.
 
 Thung lũng Lìm Mông, Lìm Thái là nơi có những bản làng người Thái nằm ở thung lũng ngay dưới đèo Khau Phạ – một trong tứ đại đỉnh đèo của Việt Nam.
 
@@ -77,7 +77,7 @@ Bạn có thể nghỉ chân ở Tú Lệ một đêm hoặc chạy thẳng từ
 
 Rừng Trúc bản Nả Háng Tủa
 
-[Rừng trúc 60 năm tuổi](https://nhavantuonglai.com/article) nằm cách trung tâm thị trấn Mù Cang Chải 20 km. Đây cũng là nơi cung cấp đặc sản măng trúc cho vùng. Đường tới đây ngày mưa rất lầy lội, dốc dựng đứng. Du khách thường phải đi bộ hoặc thuê dân địa phương chở xe máy lên tận điểm tham quan do đường đất nhỏ hẹp, dốc và trơn không thể đi ôtô.
+[Rừng trúc 60 năm tuổi](/article) nằm cách trung tâm thị trấn Mù Cang Chải 20 km. Đây cũng là nơi cung cấp đặc sản măng trúc cho vùng. Đường tới đây ngày mưa rất lầy lội, dốc dựng đứng. Du khách thường phải đi bộ hoặc thuê dân địa phương chở xe máy lên tận điểm tham quan do đường đất nhỏ hẹp, dốc và trơn không thể đi ôtô.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/du-lich-mu-cang-chai-418.jpg" alt="cam-nang-du-lich-mu-cang-chai" height=100% width=100%><figcaption><p>cam-nang-du-lich-mu-cang-chai-nhavantuonglai</p></figcaption></figure>
 
@@ -119,7 +119,7 @@ Tổng chi phí khoảng 3.000.000 đồng một người.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/du-lich-mu-cang-chai-421.jpg" alt="cam-nang-du-lich-mu-cang-chai" height=100% width=100%><figcaption><p>cam-nang-du-lich-mu-cang-chai-nhavantuonglai</p></figcaption></figure>
 
-Mù Cang Chải, du khách đừng quên các [đặc sản](https://nhavantuonglai.com/article) như xôi nếp nương, nhộng ong rừng, măng đắng xào, thịt lợn đen nướng, cá suối nướng (pa pỉnh tộp), cá hồi, cá tầm Khau Phạ, cải mèo…
+Mù Cang Chải, du khách đừng quên các [đặc sản](/article) như xôi nếp nương, nhộng ong rừng, măng đắng xào, thịt lợn đen nướng, cá suối nướng (pa pỉnh tộp), cá hồi, cá tầm Khau Phạ, cải mèo…
 
 Đồ ăn vặt đem về làm quà có Cốm xanh Tú Lệ. Du khách được trực tiếp xem người dân sàng sảy và giã cốm, giá ngày mùa là 90.000 đồng/kg cốm tươi.
 

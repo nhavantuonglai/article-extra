@@ -17,7 +17,7 @@ tags:
 
 _Làm thế nào để quản lý khách sạn tốt? Quản lý khách sạn có khó không, có cần phải học hỏi nhiều không, và học những gì? Khi vận hành khách sạn, hẳn nhiều người sẽ nảy sinh những câu hỏi như vậy và đi tìm câu trả lời thỏa đáng. Bài viết sau, sẽ cung cấp những điều cần thiết để người quản lý khách sạn biết nên làm gì để vận hành được tốt hơn._
 
-Ngoài những vẫn đề cần [chuẩn bị trước khi kinh doanh doanh khách sạn](https://nhavantuonglai.com/article) thì Quản lý khách sạn, hay quản trị khách sạn là công việc tổ chức, quản lý tất cả các hoạt động của khách sạn một cách khoa học và hiệu quả. Người đảm nhiệm vị trí này, thường sẽ thiết lập các quy tắc, quy trình làm việc tương ứng với từng bộ phận và theo dõi toàn bộ quá trình hoạt động để xây dựng chiến lược phát triển, vận hành phù hợp. Để quản lý khách sạn tốt, khách sạn cần quản lý các _vệ tinh_ đi kèm như hệ thống, nhân sự, khách sạn và sử dụng các phần mềm quản lý phụ trợ để đem lại hiệu quả như mong muốn.
+Ngoài những vẫn đề cần [chuẩn bị trước khi kinh doanh doanh khách sạn](/article) thì Quản lý khách sạn, hay quản trị khách sạn là công việc tổ chức, quản lý tất cả các hoạt động của khách sạn một cách khoa học và hiệu quả. Người đảm nhiệm vị trí này, thường sẽ thiết lập các quy tắc, quy trình làm việc tương ứng với từng bộ phận và theo dõi toàn bộ quá trình hoạt động để xây dựng chiến lược phát triển, vận hành phù hợp. Để quản lý khách sạn tốt, khách sạn cần quản lý các _vệ tinh_ đi kèm như hệ thống, nhân sự, khách sạn và sử dụng các phần mềm quản lý phụ trợ để đem lại hiệu quả như mong muốn.
 
 ## Quản lý hệ thống khách sạn tốt và hiệu quả như thế nào?
 
@@ -27,7 +27,7 @@ Hệ thống của khách sạn bao gồm nhiều yếu tố: bán phòng, nhân
 
 Bán phòng là nguồn thu chính của khách sạn, khai thác không gian là nguồn thu phụ trợ và bị động. Kết hợp linh hoạt, tận dụng tối đa nguồn lực này, sẽ giúp khách sạn vận hành hiệu quả hơn.
 
-Để bán phòng hiệu quả, chúng ta cần đến đảm bảo công suất [công suất phòng](https://nhavantuonglai.com/article). Nếu khách sạn luôn đo lường, phân tích và đánh giá để cải thiện, áp dụng các yếu tố cải thiện công suất phòng để đem lại hiệu quả cho khách sạn.
+Để bán phòng hiệu quả, chúng ta cần đến đảm bảo công suất [công suất phòng](/article). Nếu khách sạn luôn đo lường, phân tích và đánh giá để cải thiện, áp dụng các yếu tố cải thiện công suất phòng để đem lại hiệu quả cho khách sạn.
 
 Để khai thác không gian khách sạn hiệu quả, cần phải xác định lợi thế của vị trí khách sạn. Nếu khách sạn ở khu vực đông người qua lại như trung tâm thành phố, phố đi bộ… thì khách sạn có thể bán nước giải khát, thức ăn nhanh; nếu khách sạn ở khu du lịch, danh lam thắng cảnh, gần biển… thì bán nước uống, đồ lưu niệm, vé tour…
 
@@ -119,7 +119,7 @@ Chính vì thế, khách sạn cần xây dựng, làm rõ tư tưởng với nh
 
 ## Quản lý khách hàng cần đảm bảo những yếu tố nào?
 
-Khách hàng là người trả tiền cho khách sạn, trả lương cho các nhân viên. Nên trải nghiệm của khách hàng được đảm bảo, các tình huống nảy sinh được xử lý tốt là điều cần quan tâm khi [quản lý khách sạn hiệu quả](https://nhavantuonglai.com/article).
+Khách hàng là người trả tiền cho khách sạn, trả lương cho các nhân viên. Nên trải nghiệm của khách hàng được đảm bảo, các tình huống nảy sinh được xử lý tốt là điều cần quan tâm khi [quản lý khách sạn hiệu quả](/article).
 
 ### Thái độ chuẩn mực với khách hàng và đồng nghiệp
 
@@ -151,7 +151,7 @@ Môi trường làm việc trong khách sạn, từ lâu đã được xem là m
 
 ## Sử dụng phần mềm quản lý khách sạn phù hợp giúp quản lý khách sạn tốt hơn
 
-Sử dụng [phần mềm quản lý khách sạn phù hợp](https://nhavantuonglai.com/article), giúp khách sạn vận hành ổn định, hiệu quả và chắc chắn hơn. Cụ thể, những lợi ích mà phần mềm quản lý đem đến cho khách sạn được liệt kê dưới đây.
+Sử dụng [phần mềm quản lý khách sạn phù hợp](/article), giúp khách sạn vận hành ổn định, hiệu quả và chắc chắn hơn. Cụ thể, những lợi ích mà phần mềm quản lý đem đến cho khách sạn được liệt kê dưới đây.
 
 ### Tiết kiệm thời gian, tiền bạc cho cả hệ thống
 
@@ -181,7 +181,7 @@ Phần mềm quản lý khách sạn không chỉ giúp quản lý khách sạn,
 
 Nếu khách sạn chưa có website chính chủ, đơn vị cung cấp giải pháp quản lý khách sạn sẽ gợi ý, tư vấn để phát triển, giúp cải thiện thứ hạng và nhận diện tốt hơn khi khách hàng tìm hiểu nơi phù hợp để đặt phòng.
 
-Nếu đã có, khách sạn của bạn có thể tích hợp [Booking Engine](https://nhavantuonglai.com/article) để tăng lượt đặt phòng trên website khách sạn, song hành cùng các kênh bán phòng khác đang triển khai.
+Nếu đã có, khách sạn của bạn có thể tích hợp [Booking Engine](/article) để tăng lượt đặt phòng trên website khách sạn, song hành cùng các kênh bán phòng khác đang triển khai.
 
 Thông qua các kênh bán phòng trực tuyến đang tích hợp trên phần mềm quản lý, khách sạn của bạn được hiện diện nhiều hơn, giúp khách hàng nhận biết khách sạn tốt hơn.
 

@@ -13,7 +13,7 @@ _Ba Vì là huyện thuộc vùng bán sơn địa, nằm về phía tây bắc 
 
 ## Ba Vì mùa nào đẹp
 
-Từ tháng 4 đến tháng 10, Ba Vì trở thành điểm _trốn nóng_ lý tưởng khi nắng hè oi bức hơn. Từ tháng 10 đến tháng 11 là [mùa hoa dã](https://nhavantuonglai.com/article) quỳ nở rộ dọc những con đường.
+Từ tháng 4 đến tháng 10, Ba Vì trở thành điểm _trốn nóng_ lý tưởng khi nắng hè oi bức hơn. Từ tháng 10 đến tháng 11 là [mùa hoa dã](/article) quỳ nở rộ dọc những con đường.
 
 ## Di chuyển
 
@@ -31,7 +31,7 @@ Với diện tích gần 11.000 ha, vườn quốc gia Ba Vì được coi là _
 
 Cũng như [Đà Lạt](/article/du-lich-da-lat), [Sa Pa](/article/du-lich-sa-pa) hay [Tam Đảo](/article/du-lich-tam-dao), người Pháp xây dựng ở Ba Vì nhiều biệt thự nghỉ dưỡng ở cốt 400, 600 và 1.000. Chỉ khác là chúng đã bị tàn phá theo thăng trầm thời gian cùng thời cuộc. Bởi thế, du khách sẽ ngỡ ngàng trước những nền móng kiến trúc từ hàng trăm năm trước khi đi sâu vào trong rừng. Những khu nghỉ dưỡng, những bếp lò, những bức tường, tất cả đều được bao phủ bởi cây rừng và sương núi.
 
-Ở cốt 600, khu dinh đại tá là một công trình tiêu biểu của [kiến trúc Pháp](https://nhavantuonglai.com/article) tại Ba Vì, hiện vẫn còn khá nguyên vẹn. Nơi đây có hàng rào dây thép gai, tường đá bao quanh, cao hơn 2 m, dày 0,5 m và một số ụ súng trung đại liên.
+Ở cốt 600, khu dinh đại tá là một công trình tiêu biểu của [kiến trúc Pháp](/article) tại Ba Vì, hiện vẫn còn khá nguyên vẹn. Nơi đây có hàng rào dây thép gai, tường đá bao quanh, cao hơn 2 m, dày 0,5 m và một số ụ súng trung đại liên.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/du-lich-ba-vi-055.jpg" alt="cam-nang-du-lich-ba-vi" height=100% width=100%><figcaption><p>cam-nang-du-lich-ba-vi-nhavantuonglai</p></figcaption></figure>
 
@@ -49,15 +49,15 @@ Trên bức vách, dấu thập tự phủ một màu hoài cổ, hắt tia nắ
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/du-lich-ba-vi-057.jpg" alt="cam-nang-du-lich-ba-vi" height=100% width=100%><figcaption><p>cam-nang-du-lich-ba-vi-nhavantuonglai</p></figcaption></figure>
 
-Du khách cũng có thể thử thách bản thân bằng cách leo 500 bậc thang lên đỉnh núi tham quan [Đền Thượng](https://nhavantuonglai.com/article). Đây là nơi thờ Đức Thánh núi Tản Viên Sơn Tinh. Ngoài ra, Ba Vì còn có các địa điểm tham quan như Đền thờ Chủ tịch Hồ Chí Minh, động Ngọc Hoa, khu quân sự Pháp…
+Du khách cũng có thể thử thách bản thân bằng cách leo 500 bậc thang lên đỉnh núi tham quan [Đền Thượng](/article). Đây là nơi thờ Đức Thánh núi Tản Viên Sơn Tinh. Ngoài ra, Ba Vì còn có các địa điểm tham quan như Đền thờ Chủ tịch Hồ Chí Minh, động Ngọc Hoa, khu quân sự Pháp…
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/du-lich-ba-vi-058.jpg" alt="cam-nang-du-lich-ba-vi" height=100% width=100%><figcaption><p>cam-nang-du-lich-ba-vi-nhavantuonglai</p></figcaption></figure>
 
-Nếu bạn không đi xe lên đến đỉnh núi, chuyến đi bộ khám phá rừng Ba Vì kéo dài 2 – 4 tiếng phù hợp với những người thích [trekking](https://nhavantuonglai.com/article) nhẹ nhàng. Đường đi dẫn qua những lối mòn băng qua rừng nguyên sinh rậm rạp, hay rừng trúc cao vút. Tuyến dễ nhất bắt đầu từ cốt 600 hướng xuống cốt 300, kéo dài hơn 2 tiếng. Du khách cũng có thể đạp xe để khám phá khu rừng qua một số tuyến đường trải bê-tông.
+Nếu bạn không đi xe lên đến đỉnh núi, chuyến đi bộ khám phá rừng Ba Vì kéo dài 2 – 4 tiếng phù hợp với những người thích [trekking](/article) nhẹ nhàng. Đường đi dẫn qua những lối mòn băng qua rừng nguyên sinh rậm rạp, hay rừng trúc cao vút. Tuyến dễ nhất bắt đầu từ cốt 600 hướng xuống cốt 300, kéo dài hơn 2 tiếng. Du khách cũng có thể đạp xe để khám phá khu rừng qua một số tuyến đường trải bê-tông.
 
 Khoang Xanh – Suối Tiên
 
-[Khoang Xanh](https://nhavantuonglai.com/article) nằm ở sườn phía đông của núi Ba Vì, trong một khu vực có rừng nguyên sinh, và thuộc quần thể vườn quốc gia Ba Vì. Khoang Xanh có nhiều khoảng rừng nguyên sinh và có trên 2 km suối tự nhiên. Mùa hè, những dòng thác đẹp như thác Mơ, thác Hoa, thác Tràn, thác Mâm Xôi… ngày đêm đổ xuống từ trên núi. Ngoài khu vực suối và rừng tự nhiên, Khoang Xanh còn nhiều khu vực nhân tạo khác như: công viên nước, hồ tắm khoáng, khu vui chơi dành cho cả trẻ em và người lớn, bùn khoáng nóng…
+[Khoang Xanh](/article) nằm ở sườn phía đông của núi Ba Vì, trong một khu vực có rừng nguyên sinh, và thuộc quần thể vườn quốc gia Ba Vì. Khoang Xanh có nhiều khoảng rừng nguyên sinh và có trên 2 km suối tự nhiên. Mùa hè, những dòng thác đẹp như thác Mơ, thác Hoa, thác Tràn, thác Mâm Xôi… ngày đêm đổ xuống từ trên núi. Ngoài khu vực suối và rừng tự nhiên, Khoang Xanh còn nhiều khu vực nhân tạo khác như: công viên nước, hồ tắm khoáng, khu vui chơi dành cho cả trẻ em và người lớn, bùn khoáng nóng…
 
 Ao Vua
 
@@ -69,7 +69,7 @@ Nằm dưới chân núi Tản Lĩnh, khu du lịch có cảnh quan rừng, hồ
 
 Lên tới Trung Sơn, du khách có thể nghỉ trong nhà sàn và dùng bữa tại nhà hàng đặc sản gà quay, cá suối, thịt nướng… Đến khu Ngoạn Sơn, du khách sẽ thấy thác Cổng Trời ở độ cao hơn 60 m đổ xuống sườn núi tạo thành bể bơi thiên nhiên sâu 1,5-2 m.
 
-Du khách thích tắm suối cần mặc áo phao, chú ý an toàn nếu không biết bơi. Vì trải nghiệm ở [Thiên Sơn – Suối Ngà](https://nhavantuonglai.com/article) gần thiên nhiên, du khách nên bôi kem chống côn trùng, quan sát tránh rắn, rết… Địa chỉ tại Vân Hòa, Ba Vì, Hà Nội. Vé vào cửa 150.000 đồng một lượt.
+Du khách thích tắm suối cần mặc áo phao, chú ý an toàn nếu không biết bơi. Vì trải nghiệm ở [Thiên Sơn – Suối Ngà](/article) gần thiên nhiên, du khách nên bôi kem chống côn trùng, quan sát tránh rắn, rết… Địa chỉ tại Vân Hòa, Ba Vì, Hà Nội. Vé vào cửa 150.000 đồng một lượt.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/du-lich-ba-vi-059.jpg" alt="cam-nang-du-lich-ba-vi" height=100% width=100%><figcaption><p>cam-nang-du-lich-ba-vi-nhavantuonglai</p></figcaption></figure>
 
@@ -81,7 +81,7 @@ Rừng Bằng Tạ nằm ở xã Cẩm Lĩnh, huyện Ba Vì, cách trung tâm t
 
 Khu du lịch Đồng Mô gồm hồ nước khoảng 200 ha dưới chân núi Ba Vì, với các khu nghỉ dưỡng rải rác trên các hòn đảo, sân golf…
 
-Theo truyền thuyết [hồ Đồng Mô](https://nhavantuonglai.com/article) là nơi diễn ra cuộc chiến giành công chúa Mị Nương giữa Sơn Tinh và Thủy Tinh. Trong trận chiến, Thủy Tinh đưa nước dâng đến đâu thì Sơn Tinh làm phép nâng núi cao tới đó. Cuối cùng Thủy Tinh chịu thua, hồ nước rộng lớn còn lại đến nay là kết quả của cuộc chiến xưa kia.
+Theo truyền thuyết [hồ Đồng Mô](/article) là nơi diễn ra cuộc chiến giành công chúa Mị Nương giữa Sơn Tinh và Thủy Tinh. Trong trận chiến, Thủy Tinh đưa nước dâng đến đâu thì Sơn Tinh làm phép nâng núi cao tới đó. Cuối cùng Thủy Tinh chịu thua, hồ nước rộng lớn còn lại đến nay là kết quả của cuộc chiến xưa kia.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/du-lich-ba-vi-060.jpg" alt="cam-nang-du-lich-ba-vi" height=100% width=100%><figcaption><p>cam-nang-du-lich-ba-vi-nhavantuonglai</p></figcaption></figure>
 
@@ -119,7 +119,7 @@ Nơi này có dịch vụ lưu trú cao cấp, khu cắm trại, khu vui chơi t
 
 Trang trại
 
-Một số trang trại đón du khách trải nghiệm cuộc sống nhà nông là [Trang Trại Đồng Quê Ba Vì](https://nhavantuonglai.com/article), Detrang Farm… Trong đó, Detrang Farm rộng khoảng 12 ha với khu chăn nuôi dê, ngựa, lạc đà, đà điểu… Tới đây, du khách được hòa mình vào thiên nhiên dưới nhiều tán cây xanh, trải nghiệm cho động vật ăn, vắt sữa dê hay các hoạt động dân gian như nhảy sạp, làm bánh trôi nước, làm gốm…
+Một số trang trại đón du khách trải nghiệm cuộc sống nhà nông là [Trang Trại Đồng Quê Ba Vì](/article), Detrang Farm… Trong đó, Detrang Farm rộng khoảng 12 ha với khu chăn nuôi dê, ngựa, lạc đà, đà điểu… Tới đây, du khách được hòa mình vào thiên nhiên dưới nhiều tán cây xanh, trải nghiệm cho động vật ăn, vắt sữa dê hay các hoạt động dân gian như nhảy sạp, làm bánh trôi nước, làm gốm…
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/du-lich-ba-vi-062.jpg" alt="cam-nang-du-lich-ba-vi" height=100% width=100%><figcaption><p>cam-nang-du-lich-ba-vi-nhavantuonglai</p></figcaption></figure>
 

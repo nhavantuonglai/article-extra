@@ -25,13 +25,13 @@ Tìm mua [Tuyển tập sách của Thiền sư Thích Nhất Hạnh](https://sh
 
 _Chúng ta thuộc về truyền thống đạo Bụt, chúng ta cũng có những phương pháp thực tập như tụng kinh, hộ niệm, niệm Bụt._
 
-Đọc [Đạo Phật của tuổi trẻ, chương 01](https://nhavantuonglai.com/article/dao-phat-cua-tuoi-tre-chuong-01) tại đây.
+Đọc [Đạo Phật của tuổi trẻ, chương 01](/article/dao-phat-cua-tuoi-tre-chuong-01) tại đây.
 
-Đọc [Đạo Phật của tuổi trẻ, chương 02](https://nhavantuonglai.com/article/dao-phat-cua-tuoi-tre-chuong-02) tại đây.
+Đọc [Đạo Phật của tuổi trẻ, chương 02](/article/dao-phat-cua-tuoi-tre-chuong-02) tại đây.
 
-Đọc [Đạo Phật của tuổi trẻ, chương 03](https://nhavantuonglai.com/article/dao-phat-cua-tuoi-tre-chuong-03) tại đây.
+Đọc [Đạo Phật của tuổi trẻ, chương 03](/article/dao-phat-cua-tuoi-tre-chuong-03) tại đây.
 
-Đọc [Đạo Phật của tuổi trẻ, chương 04](https://nhavantuonglai.com/article/dao-phat-cua-tuoi-tre-chuong-04) tại đây.
+Đọc [Đạo Phật của tuổi trẻ, chương 04](/article/dao-phat-cua-tuoi-tre-chuong-04) tại đây.
 
 Đọc [Đạo Phật của tuổi trẻ, toàn tập](https://banmaixanh.vercel.app/ebook/dao-phat-cua-tuoi-tre.pdf) tại đây.
 

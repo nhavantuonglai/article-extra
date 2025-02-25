@@ -65,43 +65,43 @@ Trước hết chúng ta phải sử dụng trí tuệ của chúng ta qua ba ph
 
 Chúng ta nói rằng khổ đau đóng một vai trò nào đó để tạo nên hạnh phúc. Vì vậy mỗi người trong chúng ta cũng cần có một liều lượng khổ đau nào đó thì mới lớn lên được, mới có hạnh phúc. Nhưng liều lượng đó là bao nhiêu? Khôn g ai muốn có khổ đau nhiều hết. Và nếu theo đúng luật nhân quả, thì mỗi khi ai đó gặp khó khăn mình sẽ nói: _Ráng chịu đi, ai bảo gây ra cái nhân đó, gieo gió thì gặt bão, tại sao tôi phải giúp chứ._ Nhưng một vị Bồ Tát không bao giờ nói và nghĩ như vậy, vị Bồ Tát luôn luôn muốn giúp những người đang lâm vào hoàn cảnh khổ đau. Bồ Tát có khuynh hướng muốn theo Công Ích Luận tức là cho rằng đời đã có quá nhiều đau khổ rồi, trừng phạt nhau làm chi cho khổ thêm. Ví dụ có một ông hàng xóm tính tình ích kỷ, không bao giờ chịu giúp đỡ ai điều gì. Hôm ấy ông ta bị hỏng xe và nhờ mình chở giúp tới cơ quan. Thường thì mình suy nghĩ cái kiểu Chủ Nghĩa Báo Ứng, mình nghĩ: cái ông này đáng ghét lắm, mặc xác ông ta, để ông ta đi làm muộn cho đáng đời. Nhưng theo chủ thuyết Công Ích Luận mình thấy người ta đang khổ mà bỏ mặc người ta thì tội nghiệp quá. Thôi giúp đỡ đi, trừng phạt làm chi, và mình nói: _Được, lên đây tôi chở._ Mình không trừng phạt mà mở lòng từ bi để giúp đỡ. Nhiều khi không trừng phạt mà lại làm cho người ta thay đổi. Nhờ hành động bao dung của mình mà sau này người ta không còn ích kỷ nữa. Cái dễ thương của khuynh hướng này là mở rộng lòng từ bi tới cả những loài cầm thú, họ không thích việc lấy động vật để làm thí nghiệm gây đau đớn cho các loài động vật. Vì vậy chủ thuyết này rất là gần với đạo Bụt, chỉ thiếu yếu tố tương tức và bất nhị mà thôi. Trong các chủ thuyết về đạo đức học trên thế giới, chủ thuyết này có thể gọi là thành công nhất. Nếu nghiên cứu về đạo đức học Phật giáo thì quý vị nên tìm hiểu về chủ thuyết này, chủ thuyết này có nguồn gốc từ Anh.
 
-Đọc [Con đã có đường đi, chương 01](https://nhavantuonglai.com/article/con-da-co-duong-di-chuong-01) tại đây.
+Đọc [Con đã có đường đi, chương 01](/article/con-da-co-duong-di-chuong-01) tại đây.
 
-Đọc [Con đã có đường đi, chương 02](https://nhavantuonglai.com/article/con-da-co-duong-di-chuong-02) tại đây.
+Đọc [Con đã có đường đi, chương 02](/article/con-da-co-duong-di-chuong-02) tại đây.
 
-Đọc [Con đã có đường đi, chương 03](https://nhavantuonglai.com/article/con-da-co-duong-di-chuong-03) tại đây.
+Đọc [Con đã có đường đi, chương 03](/article/con-da-co-duong-di-chuong-03) tại đây.
 
-Đọc [Con đã có đường đi, chương 04](https://nhavantuonglai.com/article/con-da-co-duong-di-chuong-04) tại đây.
+Đọc [Con đã có đường đi, chương 04](/article/con-da-co-duong-di-chuong-04) tại đây.
 
-Đọc [Con đã có đường đi, chương 05](https://nhavantuonglai.com/article/con-da-co-duong-di-chuong-05) tại đây.
+Đọc [Con đã có đường đi, chương 05](/article/con-da-co-duong-di-chuong-05) tại đây.
 
-Đọc [Con đã có đường đi, chương 06](https://nhavantuonglai.com/article/con-da-co-duong-di-chuong-06) tại đây.
+Đọc [Con đã có đường đi, chương 06](/article/con-da-co-duong-di-chuong-06) tại đây.
 
-Đọc [Con đã có đường đi, chương 07](https://nhavantuonglai.com/article/con-da-co-duong-di-chuong-07) tại đây.
+Đọc [Con đã có đường đi, chương 07](/article/con-da-co-duong-di-chuong-07) tại đây.
 
-Đọc [Con đã có đường đi, chương 09](https://nhavantuonglai.com/article/con-da-co-duong-di-chuong-09) tại đây.
+Đọc [Con đã có đường đi, chương 09](/article/con-da-co-duong-di-chuong-09) tại đây.
 
-Đọc [Con đã có đường đi, chương 10](https://nhavantuonglai.com/article/con-da-co-duong-di-chuong-10) tại đây.
+Đọc [Con đã có đường đi, chương 10](/article/con-da-co-duong-di-chuong-10) tại đây.
 
-Đọc [Con đã có đường đi, chương 11](https://nhavantuonglai.com/article/con-da-co-duong-di-chuong-11) tại đây.
+Đọc [Con đã có đường đi, chương 11](/article/con-da-co-duong-di-chuong-11) tại đây.
 
-Đọc [Con đã có đường đi, chương 12](https://nhavantuonglai.com/article/con-da-co-duong-di-chuong-12) tại đây.
+Đọc [Con đã có đường đi, chương 12](/article/con-da-co-duong-di-chuong-12) tại đây.
 
-Đọc [Con đã có đường đi, chương 13](https://nhavantuonglai.com/article/con-da-co-duong-di-chuong-13) tại đây.
+Đọc [Con đã có đường đi, chương 13](/article/con-da-co-duong-di-chuong-13) tại đây.
 
-Đọc [Con đã có đường đi, chương 14](https://nhavantuonglai.com/article/con-da-co-duong-di-chuong-14) tại đây.
+Đọc [Con đã có đường đi, chương 14](/article/con-da-co-duong-di-chuong-14) tại đây.
 
-Đọc [Con đã có đường đi, chương 15](https://nhavantuonglai.com/article/con-da-co-duong-di-chuong-15) tại đây.
+Đọc [Con đã có đường đi, chương 15](/article/con-da-co-duong-di-chuong-15) tại đây.
 
-Đọc [Con đã có đường đi, chương 16](https://nhavantuonglai.com/article/con-da-co-duong-di-chuong-16) tại đây.
+Đọc [Con đã có đường đi, chương 16](/article/con-da-co-duong-di-chuong-16) tại đây.
 
-Đọc [Con đã có đường đi, chương 17](https://nhavantuonglai.com/article/con-da-co-duong-di-chuong-17) tại đây.
+Đọc [Con đã có đường đi, chương 17](/article/con-da-co-duong-di-chuong-17) tại đây.
 
-Đọc [Con đã có đường đi, chương 18](https://nhavantuonglai.com/article/con-da-co-duong-di-chuong-18) tại đây.
+Đọc [Con đã có đường đi, chương 18](/article/con-da-co-duong-di-chuong-18) tại đây.
 
-Đọc [Con đã có đường đi, chương 19](https://nhavantuonglai.com/article/con-da-co-duong-di-chuong-19) tại đây.
+Đọc [Con đã có đường đi, chương 19](/article/con-da-co-duong-di-chuong-19) tại đây.
 
-Đọc [Con đã có đường đi, chương 20](https://nhavantuonglai.com/article/con-da-co-duong-di-chuong-20) tại đây.
+Đọc [Con đã có đường đi, chương 20](/article/con-da-co-duong-di-chuong-20) tại đây.
 
 Đọc [Con đã có đường đi, toàn tập](https://banmaixanh.vercel.app/ebook/con-da-co-duong-di.pdf) tại đây.
 

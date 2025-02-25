@@ -65,13 +65,13 @@ Chi phí Marketing: Với tiệm Spa nhỏ, bạn không nên đầu tư quá nh
 
 _Tìm hiểu thêm:_
 
-– [Tại sao nên quản lý spa bằng phần mềm](https://nhavantuonglai.com/article)
+– [Tại sao nên quản lý spa bằng phần mềm](/article)
 
-– [Phần mềm quản lý Spa là gì? Làm thế nào để chọn phần mềm phù hợp cho cơ sở kinh doanh của bạn?](https://nhavantuonglai.com/article)
+– [Phần mềm quản lý Spa là gì? Làm thế nào để chọn phần mềm phù hợp cho cơ sở kinh doanh của bạn?](/article)
 
-– [Những câu hỏi thường gặp về Phần mềm quản lý tiệm Spa](https://nhavantuonglai.com/article)
+– [Những câu hỏi thường gặp về Phần mềm quản lý tiệm Spa](/article)
 
-– [Tại sao phần mềm quản lý Spa lại cần thiết?](https://nhavantuonglai.com/article)
+– [Tại sao phần mềm quản lý Spa lại cần thiết?](/article)
 
 ### Chi phí khấu hao
 

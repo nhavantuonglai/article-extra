@@ -119,17 +119,17 @@ Thiền là con đường thực hiện con người thực (chân nhân) của 
 
 Văn minh cơ khí trong những thế kỷ qua luôn luôn tạo thêm những nhu yếu tiêu thụ mới cho con người, những nhu yếu vật chất và không thực sự căn bản. Thấy người khác thỏa mãn những nhu yếu này, ai cũng muốn tranh đấu để cũng được bình đẳng về phương diện hưởng thụ. Nhân loại bị cuốn đi theo đà đòi hỏi hưởng thụ. Nhưng văn minh cơ khí đã gây khổ đau, đã trình bày tình trạng bất công và phi nhân của cuộc sống, đồng thời làm hiển lộ ra một nhu yếu căn bản: nhu yếu khôi phục nhân tính. Đây là một diễn biến lành mạnh. Nhu yếu này cần được khai thác và làm hiển lộ. Nhu yếu này sẽ dọn đường cho văn hóa mới. Các tổ chức giáo hội nếu muốn khôi phục uy tín lãnh đạo tinh thần của mình, cần phải chú trọng đến nhu yếu này. Với những phương tiện nằm trong tầm tay mình, các giáo hội phải hỗ trợ công cuộc thể hiện những trung tâm văn hóa mới, những cộng đồng sinh hoạt, trong đó con người có thể sống một nếp sống có nhân tính, không bị guồng máy sản xuất tiêu thụ khống chế và kiểm soát. Chỉ có dứt khoát với guồng máy này thì mới có thể thắng vượt được nó mà mở ra một đường thoát mới. Con người sẽ được cứu thoát khỏi tình trạng hiểm nghèo hiện tại, khi thấy rằng hạnh phúc không nằm trong sự hưởng thụ hối hả trên khổ đau và cái chết của người đồng loại, mà là trong ý thức trách nhiệm đại đồng. Cái nhìn ấy, Thiền, cũng như những truyền thống tâm linh khác, có thể khai thị cho con người.
 
-Đọc [Nẻo vào thiền học, chương 01](https://nhavantuonglai.com/article/neo-vao-thien-hoc-chuong-01) tại đây.
+Đọc [Nẻo vào thiền học, chương 01](/article/neo-vao-thien-hoc-chuong-01) tại đây.
 
-Đọc [Nẻo vào thiền học, chương 02](https://nhavantuonglai.com/article/neo-vao-thien-hoc-chuong-02) tại đây.
+Đọc [Nẻo vào thiền học, chương 02](/article/neo-vao-thien-hoc-chuong-02) tại đây.
 
-Đọc [Nẻo vào thiền học, chương 03](https://nhavantuonglai.com/article/neo-vao-thien-hoc-chuong-03) tại đây.
+Đọc [Nẻo vào thiền học, chương 03](/article/neo-vao-thien-hoc-chuong-03) tại đây.
 
-Đọc [Nẻo vào thiền học, chương 04](https://nhavantuonglai.com/article/neo-vao-thien-hoc-chuong-04) tại đây.
+Đọc [Nẻo vào thiền học, chương 04](/article/neo-vao-thien-hoc-chuong-04) tại đây.
 
-Đọc [Nẻo vào thiền học, chương 05](https://nhavantuonglai.com/article/neo-vao-thien-hoc-chuong-05) tại đây.
+Đọc [Nẻo vào thiền học, chương 05](/article/neo-vao-thien-hoc-chuong-05) tại đây.
 
-Đọc [Nẻo vào thiền học, chương 06](https://nhavantuonglai.com/article/neo-vao-thien-hoc-chuong-06) tại đây.
+Đọc [Nẻo vào thiền học, chương 06](/article/neo-vao-thien-hoc-chuong-06) tại đây.
 
 Đọc [Nẻo vào thiền học, toàn tập](https://banmaixanh.vercel.app/ebook/neo-vao-thien-hoc.pdf) tại đây.
 

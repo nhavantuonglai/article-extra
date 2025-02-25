@@ -22,11 +22,11 @@ nhavantuonglai là một diễn đàn viết lách tiếng Việt, tập trung v
 
 Trên nhavantuonglai, bạn có thể tìm thấy các chuyên mục như:
 
-– [Kỹ năng viết lách](https://nhavantuonglai.com/article): Các bài viết và thảo luận về cách viết mạch lạc, cách xây dựng câu chuyện hấp dẫn, và cách sử dụng ngôn ngữ hiệu quả.
+– [Kỹ năng viết lách](/article): Các bài viết và thảo luận về cách viết mạch lạc, cách xây dựng câu chuyện hấp dẫn, và cách sử dụng ngôn ngữ hiệu quả.
 
-– [Kinh nghiệm viết lách](https://nhavantuonglai.com/article): Chia sẻ kinh nghiệm từ những người đã thành công trong lĩnh vực viết lách, giúp bạn học hỏi và áp dụng vào công việc của mình.
+– [Kinh nghiệm viết lách](/article): Chia sẻ kinh nghiệm từ những người đã thành công trong lĩnh vực viết lách, giúp bạn học hỏi và áp dụng vào công việc của mình.
 
-– [Cơ hội việc làm viết lách](https://nhavantuonglai.com/article): Thông tin về các cơ hội việc làm viết lách, từ các công ty tuyển dụng đến các dự án viết lách tự do.
+– [Cơ hội việc làm viết lách](/article): Thông tin về các cơ hội việc làm viết lách, từ các công ty tuyển dụng đến các dự án viết lách tự do.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-097.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
@@ -40,7 +40,7 @@ Các chuyên mục chính trên Writers Helping Writers bao gồm:
 
 – Công cụ hỗ trợ: Các công cụ và tài nguyên giúp nhà văn cải thiện kỹ năng viết và sáng tác.
 
-– [Cộng đồng viết lách](https://nhavantuonglai.com/article): Các bài viết và diễn đàn giúp nhà văn kết nối và chia sẻ kinh nghiệm với nhau.
+– [Cộng đồng viết lách](/article): Các bài viết và diễn đàn giúp nhà văn kết nối và chia sẻ kinh nghiệm với nhau.
 
 ## Absolute Write Water Cooler (absolutewrite.com/forums)
 
@@ -48,7 +48,7 @@ Absolute Write Water Cooler là một trong những diễn đàn viết lách l�
 
 Các chuyên mục chính trên Absolute Write Water Cooler bao gồm:
 
-– [Kỹ năng viết](https://nhavantuonglai.com/article): Thảo luận về các kỹ năng viết và các vấn đề liên quan đến viết lách.
+– [Kỹ năng viết](/article): Thảo luận về các kỹ năng viết và các vấn đề liên quan đến viết lách.
 
 – Xuất bản: Lời khuyên và kinh nghiệm về xuất bản sách, từ tự xuất bản đến làm việc với các nhà xuất bản.
 
@@ -146,7 +146,7 @@ Các chuyên mục chính trên Creative Writing Forums bao gồm:
 
 ## Kết luận
 
-Các [diễn đàn viết lách](https://nhavantuonglai.com/article) chất lượng cao là nguồn tài nguyên quý giá cho những ai muốn cải thiện kỹ năng viết lách và phát triển sự nghiệp trong lĩnh vực này. Từ những hướng dẫn chi tiết về kỹ thuật viết, lời khuyên về xuất bản và tiếp thị sách, đến các cơ hội việc làm và cộng đồng viết lách, các diễn đàn này cung cấp mọi thứ bạn cần để trở thành một nhà viết lách thành công.
+Các [diễn đàn viết lách](/article) chất lượng cao là nguồn tài nguyên quý giá cho những ai muốn cải thiện kỹ năng viết lách và phát triển sự nghiệp trong lĩnh vực này. Từ những hướng dẫn chi tiết về kỹ thuật viết, lời khuyên về xuất bản và tiếp thị sách, đến các cơ hội việc làm và cộng đồng viết lách, các diễn đàn này cung cấp mọi thứ bạn cần để trở thành một nhà viết lách thành công.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-102.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 

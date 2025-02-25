@@ -31,7 +31,7 @@ Trước khi bắt đầu, bạn cần nắm vững một vài khái niệm, cô
 
 ### Github là gì?
 
-Github là nền tảng lưu trữ mã nguồn, được sử dụng để quản lý và kiểm soát phiên bản mã nguồn của các dự án phần mềm. Github cho phép người dùng lưu trữ mã nguồn, theo dõi các thay đổi qua từng phiên bản. Để tìm hiểu chi tiết hơn về Github, hãy đọc bài về [GitHub](https://nhavantuonglai.com/article/github) tại đây.
+Github là nền tảng lưu trữ mã nguồn, được sử dụng để quản lý và kiểm soát phiên bản mã nguồn của các dự án phần mềm. Github cho phép người dùng lưu trữ mã nguồn, theo dõi các thay đổi qua từng phiên bản. Để tìm hiểu chi tiết hơn về Github, hãy đọc bài về [GitHub](/article/github) tại đây.
 
 ### Repository trên Github là gì?
 
@@ -39,21 +39,21 @@ Repository, hay còn gọi là _repo,_ là thư mục chứa mã nguồn, tài n
 
 ### Visual Studio Code (VS Code) là gì?
 
-VS Code là trình soạn thảo mã nguồn miễn phí, mã nguồn mở và cực kỳ phổ biến do Microsoft phát triển. Nó cung cấp nhiều tiện ích như Git integration, hỗ trợ gỡ lỗi, và một thư viện extension phong phú. Để tìm hiểu chi tiết hơn về VS Code, hãy đọc bài về [Visual Studio Code](https://nhavantuonglai.com/article/vs-code) tại đây.
+VS Code là trình soạn thảo mã nguồn miễn phí, mã nguồn mở và cực kỳ phổ biến do Microsoft phát triển. Nó cung cấp nhiều tiện ích như Git integration, hỗ trợ gỡ lỗi, và một thư viện extension phong phú. Để tìm hiểu chi tiết hơn về VS Code, hãy đọc bài về [Visual Studio Code](/article/vs-code) tại đây.
 
 npm (Node Package Manager) là công cụ không thể thiếu khi làm việc với các dự án JavaScript. Để có thể chạy mã nguồn và cài đặt các gói thư viện cần thiết, bạn cần cài đặt npm trên máy tính của mình. Trước tiên, hãy chắc chắn rằng bạn đã cài đặt Node.js, vì npm được tích hợp cùng Node.js. Sau khi cài đặt xong, bạn có thể kiểm tra bằng lệnh `npm -v` trên terminal của VS Code để xác minh phiên bản.
 
 ### Astro là gì?
 
-Astro là framework dùng để xây dựng website nhanh chóng và hiện đại. Điểm đặc biệt của Astro là nó hỗ trợ xuất ra website hoàn toàn tĩnh, giúp tải nhanh hơn và tiêu thụ ít tài nguyên. Astro cũng tương thích tốt với nhiều thư viện JavaScript và các framework frontend phổ biến khác, giúp các nhà phát triển xây dựng giao diện người dùng phong phú mà không ảnh hưởng đến hiệu suất. Để tìm hiểu chi tiết hơn về VS Code, hãy đọc bài về [Astro](https://nhavantuonglai.com/article/astro) tại đây.
+Astro là framework dùng để xây dựng website nhanh chóng và hiện đại. Điểm đặc biệt của Astro là nó hỗ trợ xuất ra website hoàn toàn tĩnh, giúp tải nhanh hơn và tiêu thụ ít tài nguyên. Astro cũng tương thích tốt với nhiều thư viện JavaScript và các framework frontend phổ biến khác, giúp các nhà phát triển xây dựng giao diện người dùng phong phú mà không ảnh hưởng đến hiệu suất. Để tìm hiểu chi tiết hơn về VS Code, hãy đọc bài về [Astro](/article/astro) tại đây.
 
 ### Vercel là gì?
 
-Vercel là nền tảng hosting phổ biến để lưu trữ website. Khác với các giải pháp hosting khác, Vercel cung cấp gói miễn phí hào phóng, đáp ứng đúng và đủ nhu cầu của đa số người dùng. Để tìm hiểu chi tiết hơn về VS Code, hãy đọc bài về [Vercel](https://nhavantuonglai.com/article/vercel) tại đây.
+Vercel là nền tảng hosting phổ biến để lưu trữ website. Khác với các giải pháp hosting khác, Vercel cung cấp gói miễn phí hào phóng, đáp ứng đúng và đủ nhu cầu của đa số người dùng. Để tìm hiểu chi tiết hơn về VS Code, hãy đọc bài về [Vercel](/article/vercel) tại đây.
 
 ## Giới thiệu về template website mã nguồn mở `\article-open`
 
-`\article` là mã nguồn website [nhavantuonglai.com](https://nhavantuonglai.com/), hạn chế quyền truy cập nhưng không giới hạn các tính năng.
+`\article` là mã nguồn website [nhavantuonglai.com](/), hạn chế quyền truy cập nhưng không giới hạn các tính năng.
 
 [\article-open](https://github.com/nhavantuonglai/article-open) là phiên bản mã nguồn mở của `\article` với quyền truy cập miễn phí và giới hạn tính năng.
 
@@ -67,7 +67,7 @@ Mã nguồn dựa trên template AstroWind, sử dụng Astro 5.0 và Tailwind C
 
 – Áp dụng hiệu ứng chuyển động, giúp giao diện trở nên hiện đại và thân thiện với người dùng.
 
-Dự án cũng giữ lại, đảm bảo điểm `PageSpeed Insights` ấn tượng, chế độ Dark mode và nhiều tính năng tiên tiến khác, giúp đây trở thành template website [Astro](https://nhavantuonglai.com/article/astro) lý tưởng cho các developer, SEOer lẫn Editor website bán chuyên và chuyên nghiệp.
+Dự án cũng giữ lại, đảm bảo điểm `PageSpeed Insights` ấn tượng, chế độ Dark mode và nhiều tính năng tiên tiến khác, giúp đây trở thành template website [Astro](/article/astro) lý tưởng cho các developer, SEOer lẫn Editor website bán chuyên và chuyên nghiệp.
 
 ## Cấu trúc thư mục dự án
 
@@ -294,6 +294,6 @@ Sau khi hoàn tất, bạn chỉ cần mở Github Desktop lên, commit các tha
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/vercel-website-deploy-01.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>
 
-Hy vọng rằng bài hướng dẫn này sẽ giúp bạn hiểu rõ các bước tạo và quản lý website cá nhân trên Github và Vercel, với [mã nguồn mở](https://nhavantuonglai.com/article/ma-nguon-mo) của nhavantuonglai.
+Hy vọng rằng bài hướng dẫn này sẽ giúp bạn hiểu rõ các bước tạo và quản lý website cá nhân trên Github và Vercel, với [mã nguồn mở](/article/ma-nguon-mo) của nhavantuonglai.
 
 <figure><img src="https://banmaixanh.vercel.app/image/cover/001-524.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

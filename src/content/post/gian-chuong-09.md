@@ -85,27 +85,27 @@ Tôi cũng là một David. Tôi có nhiều Angelinas trong đời tôi. Trong 
 
 Nếu Angelina của bạn đã bỏ bạn mà đi thì bạn phải làm sao để đem Angelina trở về với bạn? Angelina có thể còn đó nhưng sắp sửa bỏ đi hay Angelina đã bỏ đi rồi. Trong cả hai trường hợp thực tập bảo vệ là cần thiết. Bởi vì nhờ đó mà bạn có thể lưu giữ hay đem Angelina trở về. Xin đừng lạc vào khu rừng của ý niệm trừu tượng. Giáo pháp tâm linh sống động và có thể giúp bạn bảo vệ Angelina. Tuệ giác và từ bi đích thực phát khởi từ sự tiếp xúc với đau khổ hiện thực. Giáo pháp này xứng hợp, có hiệu quả và đáp ứng đúng hoàn cảnh. Hãy để thì giờ và năng lực để nhìn lại và tự hỏi: Angelina của tôi bây giờ ở đâu? Tôi đối xử với Angelina như thế nào? Nếu Angelina bỏ tôi mà đi thì tôi phải làm gì để đem Angelina trở về?
 
-Đọc [Giận, chương 01](https://nhavantuonglai.com/article/gian-chuong-01) tại đây.
+Đọc [Giận, chương 01](/article/gian-chuong-01) tại đây.
 
-Đọc [Giận, chương 02](https://nhavantuonglai.com/article/gian-chuong-02) tại đây.
+Đọc [Giận, chương 02](/article/gian-chuong-02) tại đây.
 
-Đọc [Giận, chương 03](https://nhavantuonglai.com/article/gian-chuong-03) tại đây.
+Đọc [Giận, chương 03](/article/gian-chuong-03) tại đây.
 
-Đọc [Giận, chương 04](https://nhavantuonglai.com/article/gian-chuong-04) tại đây.
+Đọc [Giận, chương 04](/article/gian-chuong-04) tại đây.
 
-Đọc [Giận, chương 05](https://nhavantuonglai.com/article/gian-chuong-05) tại đây.
+Đọc [Giận, chương 05](/article/gian-chuong-05) tại đây.
 
-Đọc [Giận, chương 06](https://nhavantuonglai.com/article/gian-chuong-06) tại đây.
+Đọc [Giận, chương 06](/article/gian-chuong-06) tại đây.
 
-Đọc [Giận, chương 07](https://nhavantuonglai.com/article/gian-chuong-07) tại đây.
+Đọc [Giận, chương 07](/article/gian-chuong-07) tại đây.
 
-Đọc [Giận, chương 08](https://nhavantuonglai.com/article/gian-chuong-08) tại đây.
+Đọc [Giận, chương 08](/article/gian-chuong-08) tại đây.
 
-Đọc [Giận, chương 09](https://nhavantuonglai.com/article/gian-chuong-09) tại đây.
+Đọc [Giận, chương 09](/article/gian-chuong-09) tại đây.
 
-Đọc [Giận, chương 10](https://nhavantuonglai.com/article/gian-chuong-10) tại đây.
+Đọc [Giận, chương 10](/article/gian-chuong-10) tại đây.
 
-Đọc [Giận, chương 11](https://nhavantuonglai.com/article/gian-chuong-11) tại đây.
+Đọc [Giận, chương 11](/article/gian-chuong-11) tại đây.
 
 Đọc [Giận, toàn tập](https://banmaixanh.vercel.app/ebook/gian.pdf) tại đây.
 

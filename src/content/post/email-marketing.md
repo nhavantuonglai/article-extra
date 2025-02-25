@@ -45,7 +45,7 @@ Email marketing là một trong những phương tiện nhanh nhất để tiế
 
 ## Triển khai Email marketing trong khách sạn trong 5 bước
 
-Triển khai chiến dịch Email marketing trong khách sạn cần các công cụ phù hợp, đặc biệt là [phần mềm quản lý quan hệ khách hàng (CRM)](https://nhavantuonglai.com/article).
+Triển khai chiến dịch Email marketing trong khách sạn cần các công cụ phù hợp, đặc biệt là [phần mềm quản lý quan hệ khách hàng (CRM)](/article).
 
 ### Tạo danh sách Email
 
@@ -81,7 +81,7 @@ Các nghiên cứu chỉ ra rằng, hủy bỏ kế hoạch đặt phòng với 
 
 ### Giảm giá đặt phòng và ưu đãi đặc biệt
 
-Một cách khác để thu hút du khách đăng ký nhận Email và đặt phòng khách sạn. Cách tiếp cận này hoạt động tốt vì ưu đãi và giảm giá phòng có hiệu lực trong một thời gian giới hạn, tạo ra cảm giác cấp bách và sợ bỏ lỡ nếu họ không nắm bắt cơ hội như vậy. Khách sạn cũng có thể gửi Email [đặt phòng phút chót](https://nhavantuonglai.com/article) cho ai đã click vào Email nhưng chưa đặt phòng.
+Một cách khác để thu hút du khách đăng ký nhận Email và đặt phòng khách sạn. Cách tiếp cận này hoạt động tốt vì ưu đãi và giảm giá phòng có hiệu lực trong một thời gian giới hạn, tạo ra cảm giác cấp bách và sợ bỏ lỡ nếu họ không nắm bắt cơ hội như vậy. Khách sạn cũng có thể gửi Email [đặt phòng phút chót](/article) cho ai đã click vào Email nhưng chưa đặt phòng.
 
 ### Email khuyến mãi
 
@@ -173,6 +173,6 @@ Theo dõi tỷ lệ mở,, số lượng đặt phòng mới và hiệu quả đ
 
 ## Kết luận
 
-Cho dù mục tiêu bán phòng là tăng lượt đặt phòng, [cải thiện doanh thu](https://nhavantuonglai.com/article) hay giới thiệu về khách sạn, thì Email marketing trong khách sạn cũng đều là công cụ hữu hiệu, cả về chi phí lẫn lợi ích để đạt được mục tiêu ấy. Hãy bắt đầu với Email marketing trong khách sạn ngay hôm nay với những hướng dẫn được nêu ở trên để nhìn thấy sự thay đổi, khác biệt trong hoạt động kinh doanh của khách sạn.
+Cho dù mục tiêu bán phòng là tăng lượt đặt phòng, [cải thiện doanh thu](/article) hay giới thiệu về khách sạn, thì Email marketing trong khách sạn cũng đều là công cụ hữu hiệu, cả về chi phí lẫn lợi ích để đạt được mục tiêu ấy. Hãy bắt đầu với Email marketing trong khách sạn ngay hôm nay với những hướng dẫn được nêu ở trên để nhìn thấy sự thay đổi, khác biệt trong hoạt động kinh doanh của khách sạn.
 
 <figure><img src="https://banmaixanh.vercel.app/image/cover/001-639.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach san, kenh OTA, free booking links, channel manager, property management system." height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>

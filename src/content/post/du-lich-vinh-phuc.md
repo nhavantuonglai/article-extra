@@ -9,11 +9,11 @@ tags:
   - du lich mien bac
 ---
 
-_Vĩnh Phúc nằm trong vùng khí hậu nhiệt đới gió mùa, nóng ẩm. Nhiệt độ trung bình năm 23 – 25 độ C. Bạn nên ghé thăm vào mùa hè hoặc thu để tận hưởng không khí mát mẻ, dễ chịu. [Mùa hoa dã quỳ](https://nhavantuonglai.com/article) vào khoảng cuối tháng 11, đầu tháng 12 hàng năm._
+_Vĩnh Phúc nằm trong vùng khí hậu nhiệt đới gió mùa, nóng ẩm. Nhiệt độ trung bình năm 23 – 25 độ C. Bạn nên ghé thăm vào mùa hè hoặc thu để tận hưởng không khí mát mẻ, dễ chịu. [Mùa hoa dã quỳ](/article) vào khoảng cuối tháng 11, đầu tháng 12 hàng năm._
 
 ## Vĩnh Phúc mùa nào đẹp
 
-Vĩnh Phúc nằm trong vùng khí hậu nhiệt đới gió mùa, nóng ẩm. Nhiệt độ trung bình năm 23 – 25 độ C. Bạn nên ghé thăm vào mùa hè hoặc thu để tận hưởng không khí mát mẻ, dễ chịu. [Mùa hoa dã quỳ](https://nhavantuonglai.com/article) vào khoảng cuối tháng 11, đầu tháng 12 hàng năm.
+Vĩnh Phúc nằm trong vùng khí hậu nhiệt đới gió mùa, nóng ẩm. Nhiệt độ trung bình năm 23 – 25 độ C. Bạn nên ghé thăm vào mùa hè hoặc thu để tận hưởng không khí mát mẻ, dễ chịu. [Mùa hoa dã quỳ](/article) vào khoảng cuối tháng 11, đầu tháng 12 hàng năm.
 
 ## Di chuyển
 
@@ -35,13 +35,13 @@ Một số khách sạn 5 sao là Flamingo Đại Lải Resort, Westlake Hotel &
 
 Tam Đảo
 
-Tam Đảo được mệnh danh là Đà Lạt ngay gần Hà Nội, với vẻ đẹp hoang sơ của các ngọn núi ẩn hiện trong mây, cùng những kiến trúc Pháp tuyệt đẹp còn sót lại. Đến đây, bạn có thể thưởng ngoạn cảnh đẹp ở nhà thờ đá, [vườn quốc gia Tam Đảo](https://nhavantuonglai.com/article), hoặc lên tháp truyền hình, chiêm bái đền thờ Bà Chúa Thượng Ngàn, đền Đức Thánh Trần; chinh phục đỉnh Rùng Rình vào sớm mai để thấy toàn cảnh thị trấn từ trên cao trong làn mây trắng bảng lảng trôi qua trước mặt…
+Tam Đảo được mệnh danh là Đà Lạt ngay gần Hà Nội, với vẻ đẹp hoang sơ của các ngọn núi ẩn hiện trong mây, cùng những kiến trúc Pháp tuyệt đẹp còn sót lại. Đến đây, bạn có thể thưởng ngoạn cảnh đẹp ở nhà thờ đá, [vườn quốc gia Tam Đảo](/article), hoặc lên tháp truyền hình, chiêm bái đền thờ Bà Chúa Thượng Ngàn, đền Đức Thánh Trần; chinh phục đỉnh Rùng Rình vào sớm mai để thấy toàn cảnh thị trấn từ trên cao trong làn mây trắng bảng lảng trôi qua trước mặt…
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/du-lich-vinh-phuc-670.jpg" alt="cam-nang-du-lich-vinh-phuc" height=100% width=100%><figcaption><p>cam-nang-du-lich-vinh-phuc-nhavantuonglai</p></figcaption></figure>
 
 Thiền viện Trúc Lâm Tây Thiên
 
-Cách Tam Đảo khoảng 25 km, [thiền viện Trúc Lâm Tây Thiên](https://nhavantuonglai.com/article) sở hữu phong cảnh sơn thủy hữu tình, tọa lạc trên sườn núi cao bề thế giữa rừng thông và mây ngàn. Không chỉ là ngôi chùa có kiến trúc hoành tráng bậc nhất miền bắc Việt Nam, đây còn là một trong 3 thiền viện lớn nhất nước. Cảnh quan thiên nhiên hoang sơ kỳ vĩ, cùng khí vị linh thiêng của chốn tu hành khiến Thiền viện mang vẻ đẹp thanh bình, thoát tục.
+Cách Tam Đảo khoảng 25 km, [thiền viện Trúc Lâm Tây Thiên](/article) sở hữu phong cảnh sơn thủy hữu tình, tọa lạc trên sườn núi cao bề thế giữa rừng thông và mây ngàn. Không chỉ là ngôi chùa có kiến trúc hoành tráng bậc nhất miền bắc Việt Nam, đây còn là một trong 3 thiền viện lớn nhất nước. Cảnh quan thiên nhiên hoang sơ kỳ vĩ, cùng khí vị linh thiêng của chốn tu hành khiến Thiền viện mang vẻ đẹp thanh bình, thoát tục.
 
 Cùng với Thiền viện Trúc Lâm Đà Lạt và Yên Tử, Thiền viện Trúc Lâm Tây Thiên là một trong ba thiền viện lớn nhất cả nước. Viếng chùa, du khách không chỉ dâng hương cầu may, cầu tài mà còn được thưởng ngoạn cảnh đẹp núi rừng trùng điệp ở nơi đây. Bên cạnh Thiền viện trúc lâm Tây thiên là Thiền viện trúc lâm An tâm, nơi tu tập của các Ni sư.
 

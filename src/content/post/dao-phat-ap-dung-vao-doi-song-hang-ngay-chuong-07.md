@@ -59,19 +59,19 @@ Phật tử lại càng mở rộng tầm mắt để thấy những vùng đói
 
 Sau cùng, Phật tử nên nhận thức rằng, nếu hiện nay có nhiều vấn đề không thể giải quyết bằng những phương thức cục bộ thì ta phải tán đồng và tham dự vào việc thực hiện những giải pháp thế giới. Vấn đề thực phẩm cho thế giới, vấn đề nhân mãn, vấn đề nhiễm độc đất nước… chỉ có thể được giải quyết bằng sự cộng tác của toàn thể thế giới mà thôi.
 
-Đọc [Đạo Phật áp dụng vào đời sống hàng ngày, chương 01](https://nhavantuonglai.com/article/dao-phat-ap-dung-vao-doi-song-hang-ngay-chuong-01) tại đây.
+Đọc [Đạo Phật áp dụng vào đời sống hàng ngày, chương 01](/article/dao-phat-ap-dung-vao-doi-song-hang-ngay-chuong-01) tại đây.
 
-Đọc [Đạo Phật áp dụng vào đời sống hàng ngày, chương 02](https://nhavantuonglai.com/article/dao-phat-ap-dung-vao-doi-song-hang-ngay-chuong-02) tại đây.
+Đọc [Đạo Phật áp dụng vào đời sống hàng ngày, chương 02](/article/dao-phat-ap-dung-vao-doi-song-hang-ngay-chuong-02) tại đây.
 
-Đọc [Đạo Phật áp dụng vào đời sống hàng ngày, chương 03](https://nhavantuonglai.com/article/dao-phat-ap-dung-vao-doi-song-hang-ngay-chuong-03) tại đây.
+Đọc [Đạo Phật áp dụng vào đời sống hàng ngày, chương 03](/article/dao-phat-ap-dung-vao-doi-song-hang-ngay-chuong-03) tại đây.
 
-Đọc [Đạo Phật áp dụng vào đời sống hàng ngày, chương 04](https://nhavantuonglai.com/article/dao-phat-ap-dung-vao-doi-song-hang-ngay-chuong-04) tại đây.
+Đọc [Đạo Phật áp dụng vào đời sống hàng ngày, chương 04](/article/dao-phat-ap-dung-vao-doi-song-hang-ngay-chuong-04) tại đây.
 
-Đọc [Đạo Phật áp dụng vào đời sống hàng ngày, chương 05](https://nhavantuonglai.com/article/dao-phat-ap-dung-vao-doi-song-hang-ngay-chuong-05) tại đây.
+Đọc [Đạo Phật áp dụng vào đời sống hàng ngày, chương 05](/article/dao-phat-ap-dung-vao-doi-song-hang-ngay-chuong-05) tại đây.
 
-Đọc [Đạo Phật áp dụng vào đời sống hàng ngày, chương 06](https://nhavantuonglai.com/article/dao-phat-ap-dung-vao-doi-song-hang-ngay-chuong-06) tại đây.
+Đọc [Đạo Phật áp dụng vào đời sống hàng ngày, chương 06](/article/dao-phat-ap-dung-vao-doi-song-hang-ngay-chuong-06) tại đây.
 
-Đọc [Đạo Phật áp dụng vào đời sống hàng ngày, chương 07](https://nhavantuonglai.com/article/dao-phat-ap-dung-vao-doi-song-hang-ngay-chuong-07) tại đây.
+Đọc [Đạo Phật áp dụng vào đời sống hàng ngày, chương 07](/article/dao-phat-ap-dung-vao-doi-song-hang-ngay-chuong-07) tại đây.
 
 Đọc [Đạo Phật áp dụng vào đời sống hàng ngày, toàn tập](https://banmaixanh.vercel.app/ebook/dao-phat-ap-dung-vao-doi-song-hang-ngay.pdf) tại đây.
 

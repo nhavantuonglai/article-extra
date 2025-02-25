@@ -15,7 +15,7 @@ tags:
   - property management system
 ---
 
-_Thế giới hậu Covid trông như thế nào? Không ai trong chúng ta biết rõ, nhưng ước tính nền kinh tế du lịch quốc tế sẽ suy giảm từ 60 đến 80%. Nên là, đổi mới và áp dụng công nghệ vào quản lý khách sạn rất có thể sẽ đóng_ [_vai trò then chốt trong quá trình phục hồi_](https://nhavantuonglai.com/article) _tuy chậm chạp nhưng ổn định trong thời điểm hiện tại._
+_Thế giới hậu Covid trông như thế nào? Không ai trong chúng ta biết rõ, nhưng ước tính nền kinh tế du lịch quốc tế sẽ suy giảm từ 60 đến 80%. Nên là, đổi mới và áp dụng công nghệ vào quản lý khách sạn rất có thể sẽ đóng_ [_vai trò then chốt trong quá trình phục hồi_](/article) _tuy chậm chạp nhưng ổn định trong thời điểm hiện tại._
 
 Sẽ có những cân nhắc mới được đưa ra, để giúp trải nghiệm của khách hàng được thoải mái, dễ dàng và hạn chế rắc rối hơn. Các chính sách mới cần được áp dụng như giữ khoảng cách, hạn chế tụ tập đông người, ưu tiên ăn uống và chăm sóc sức khỏe tại phòng.
 
@@ -25,9 +25,9 @@ Cách đây vài tuần, eCommerce & Digital Manager của Sara Antoszewicz đã
 
 ## Tận dụng các công cụ, công nghệ đang có sẵn
 
-Khách sạn của bạn đang sử dụng [phần mềm quản lý khách sạn](https://nhavantuonglai.com/article) nào, có [website khách sạn](https://nhavantuonglai.com/article) chưa, hay bất kỳ công cụ công nghệ nào khác không? Và khả năng đáp ứng của nó với nhu cầu công việc là ra sao?
+Khách sạn của bạn đang sử dụng [phần mềm quản lý khách sạn](/article) nào, có [website khách sạn](/article) chưa, hay bất kỳ công cụ công nghệ nào khác không? Và khả năng đáp ứng của nó với nhu cầu công việc là ra sao?
 
-Trong bối cảnh hiện tại, công nghệ bạn đang sử dụng phải đóng vai trò quan trọng, giúp khách sạn [phục hồi và tăng doanh thu hiệu quả](https://nhavantuonglai.com/article), hạn chế tiêu cực mà dịch bệnh gây ra. Đây là thời điểm phù hợp để bạn có thể tiếp cận, đánh giá các chiến lược kinh doanh của mình bằng góc nhìn mới mẻ, và tập trung nhiều hơn vào kinh doanh bán phòng để tăng lượt đặt phòng trực tiếp.
+Trong bối cảnh hiện tại, công nghệ bạn đang sử dụng phải đóng vai trò quan trọng, giúp khách sạn [phục hồi và tăng doanh thu hiệu quả](/article), hạn chế tiêu cực mà dịch bệnh gây ra. Đây là thời điểm phù hợp để bạn có thể tiếp cận, đánh giá các chiến lược kinh doanh của mình bằng góc nhìn mới mẻ, và tập trung nhiều hơn vào kinh doanh bán phòng để tăng lượt đặt phòng trực tiếp.
 
 Có thể rằng bạn sẽ phải cạnh tranh gay gắt với các kênh OTA, và các chuỗi khách sạn có ngân sách khổng lồ; nhưng điều đó không có nghĩa rằng – những khách sạn độc lập là không thể cạnh tranh. Cho nên, nếu bạn đang sử dụng các giải pháp mà mình đang có hiệu quả, thì đó chính là bước khởi đầu hoàn hảo.
 
@@ -63,7 +63,7 @@ Còn nếu khi khách sạn đang đóng cửa, hãy có thông điệp rõ ràn
 
 ### Kết nối và chia sẻ thông tin về khách hàng
 
-Các phần mềm quản lý đặt phòng, [Booking Engine](https://nhavantuonglai.com/article) đều có thể cung cấp thông tin về giá, tình trạng phòng, cũng như các thông tin quan trọng khác. Bạn có thể chia sẻ những thông tin đó đến người quản lý PMS và Channel Manager, giúp việc nắm bắt thông tin, đánh giá và điều chỉnh kế hoạch bán phòng hiệu quả hơn.
+Các phần mềm quản lý đặt phòng, [Booking Engine](/article) đều có thể cung cấp thông tin về giá, tình trạng phòng, cũng như các thông tin quan trọng khác. Bạn có thể chia sẻ những thông tin đó đến người quản lý PMS và Channel Manager, giúp việc nắm bắt thông tin, đánh giá và điều chỉnh kế hoạch bán phòng hiệu quả hơn.
 
 ### Đảm bảo thanh toán trực tuyến an toàn
 
@@ -73,7 +73,7 @@ An toàn là yêu cầu quan trọng hàng đầu trong thanh toán online. Bở
 
 ## Website khách sạn
 
-[Website khách sạn](https://nhavantuonglai.com/article) là một yếu tố quan trọng khác, điều đơn giản cần nhớ là hãy luôn [cập nhật và duy trì sự mới mẻ cho website](https://nhavantuonglai.com/article), để vừa giữ chân người đọc khi họ ghé thăm, vừa tạo ra sự tò mò khi bạn nói về những gì có sẵn tại khách sạn.
+[Website khách sạn](/article) là một yếu tố quan trọng khác, điều đơn giản cần nhớ là hãy luôn [cập nhật và duy trì sự mới mẻ cho website](/article), để vừa giữ chân người đọc khi họ ghé thăm, vừa tạo ra sự tò mò khi bạn nói về những gì có sẵn tại khách sạn.
 
 Một mẹo nhỏ là hãy tận dụng pop-up để truyền tải thông tin một cách thông minh, lôi cuốn, để thôi thúc người đọc click vào banner, hoặc để lại thông tin đăng ký, lưu trú.
 

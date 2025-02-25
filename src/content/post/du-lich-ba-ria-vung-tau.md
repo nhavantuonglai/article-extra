@@ -41,7 +41,7 @@ Thành phố Bà Rịa cách Thành phố Hồ Chí Minh 90 km về hướng Đ�
 
 _Núi Thị Vải_
 
-Đi từ Quốc lộ 51 đến thị trấn Phú Mỹ, bạn muốn đến [núi Thị Vải](https://nhavantuonglai.com/article) thì rẽ trái khoảng 3 km để chạy theo đường mòn đến chân núi. Bạn có thể gửi xe ở nhà dân dưới chân núi và bắt đầu hành trình đi bộ trên những bậc thang được xây bằng đá hoa cương dẫn lên núi. Nơi đây còn có ba ngôi chùa chính là chùa Linh Sơn Liên Trì (chùa Hạ), chùa Linh Sơn Hồng Phúc (chùa Trung), và Linh Sơn Bửu Thiền (chùa Thượng).
+Đi từ Quốc lộ 51 đến thị trấn Phú Mỹ, bạn muốn đến [núi Thị Vải](/article) thì rẽ trái khoảng 3 km để chạy theo đường mòn đến chân núi. Bạn có thể gửi xe ở nhà dân dưới chân núi và bắt đầu hành trình đi bộ trên những bậc thang được xây bằng đá hoa cương dẫn lên núi. Nơi đây còn có ba ngôi chùa chính là chùa Linh Sơn Liên Trì (chùa Hạ), chùa Linh Sơn Hồng Phúc (chùa Trung), và Linh Sơn Bửu Thiền (chùa Thượng).
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/du-lich-ba-ria-vung-tau-037.jpg" alt="cam-nang-du-lich-ba-ria-vung-tau" height=100% width=100%><figcaption><p>cam-nang-du-lich-ba-ria-vung-tau-nhavantuonglai</p></figcaption></figure>
 
@@ -87,7 +87,7 @@ Cát vàng nơi đây mịn trải dài, xen lẫn màu xanh của hàng dương
 
 _Bãi biển Dinh Cô:_ Nằm dưới chân điện Dinh Cô, bãi biển này cũng mang tên như vậy với cát vàng, mịn. Bãi cát ở đây rộng, phù hợp cho các hoạt động thể thao theo nhóm hay giải trí cuối tuần với lửa trại, ca hát, nhảy múa. Khi thủy triều xuống, nước biển lùi xa hơn, bạn sẽ nhìn thấy các loài nhuyễn thể và cá trong lớp cát mịn màng ngay dưới chân.
 
-_Thiền Viện Trúc Lâm Chân Nguyên:_ Tọa lạc dưới chân núi Minh Đạm và khai sơn năm 1987, [thiền viện Trúc Lâm Chân Nguyên](https://nhavantuonglai.com/article) nằm trong không gian tu hành hòa quyện với thiên nhiên hùng vĩ. Nổi bật trong không gian xanh của núi rừng là tòa chính điện. Nơi này nằm dưới dãy núi mà sau lưng là những tảng đá với nhiều hình thù như đầu rắn, rùa được khắc chữ.
+_Thiền Viện Trúc Lâm Chân Nguyên:_ Tọa lạc dưới chân núi Minh Đạm và khai sơn năm 1987, [thiền viện Trúc Lâm Chân Nguyên](/article) nằm trong không gian tu hành hòa quyện với thiên nhiên hùng vĩ. Nổi bật trong không gian xanh của núi rừng là tòa chính điện. Nơi này nằm dưới dãy núi mà sau lưng là những tảng đá với nhiều hình thù như đầu rắn, rùa được khắc chữ.
 
 Thấp thoáng trong rừng là những chiếc am nhỏ bằng gỗ đơn sơ dành cho các vị sư đang tu hành tại đây. Điểm đặc biệt nhất là sự xuất hiện của hàng trăm con khỉ. Chúng xem chùa như chốn bình yên nên thường xuyên kéo đến. Đó cũng là lý do khiến nhiều người gọi nơi đây là chùa Khỉ.
 
@@ -111,7 +111,7 @@ Hồ Tràm là điểm nằm giữa đoạn đường từ Thành phố Hồ Ch�
 
 Hồ Cốc
 
-Nằm ở tỉnh Bà Rịa Vũng Tàu, [Hồ Cốc](https://nhavantuonglai.com/article) là một bãi biển hoang sơ, có không khí trong lành, lý tưởng cho những người thích lặn. Điểm đặc biệt là du khách có thể tắm mát giữa một bên là biển rộng bao la, còn một bên là rừng nguyên sinh thuộc khu bảo tồn thiên nhiên Bình Châu – Phước Bửu có diện tích trên 11.000 ha, với khí hậu quanh năm mát mẻ.
+Nằm ở tỉnh Bà Rịa Vũng Tàu, [Hồ Cốc](/article) là một bãi biển hoang sơ, có không khí trong lành, lý tưởng cho những người thích lặn. Điểm đặc biệt là du khách có thể tắm mát giữa một bên là biển rộng bao la, còn một bên là rừng nguyên sinh thuộc khu bảo tồn thiên nhiên Bình Châu – Phước Bửu có diện tích trên 11.000 ha, với khí hậu quanh năm mát mẻ.
 
 Biển Hồ Cốc được _Lonely Planet_ xếp hạng là một trong tám bãi biển đẹp nhất Việt Nam và được website du lịch nổi tiếng của Anh _Rough Guides_ đưa vào danh sách 20 bãi biển ở Việt Nam có phong cảnh đẹp nhất để giới thiệu cho độc giả.
 
@@ -133,7 +133,7 @@ Với hơn 70 điểm phun nước lộ thiên với nhiệt độ thường ở
 
 Chùa Bánh Xèo
 
-Chùa Bánh Xèo có tên chính thức là [ni viện Thiện Hòa](https://nhavantuonglai.com/article), nằm ở bên phải, sau Đại Tòng Lâm Tự, thuộc thị trấn Phú Mỹ, huyện Tân Thành, tỉnh Bà Rịa – Vũng Tàu. Thuở ban đầu ni viện Thiện Hòa chỉ là một am nhỏ được dựng lên vào năm 1989.
+Chùa Bánh Xèo có tên chính thức là [ni viện Thiện Hòa](/article), nằm ở bên phải, sau Đại Tòng Lâm Tự, thuộc thị trấn Phú Mỹ, huyện Tân Thành, tỉnh Bà Rịa – Vũng Tàu. Thuở ban đầu ni viện Thiện Hòa chỉ là một am nhỏ được dựng lên vào năm 1989.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/du-lich-ba-ria-vung-tau-044.jpg" alt="cam-nang-du-lich-ba-ria-vung-tau" height=100% width=100%><figcaption><p>cam-nang-du-lich-ba-ria-vung-tau-nhavantuonglai</p></figcaption></figure>
 
@@ -143,7 +143,7 @@ Ni sư trụ trì chùa, pháp danh là Thích nữ Như Như, từ kinh nghiệ
 
 Đồng cừu Suối Nghệ
 
-[Đồng cừu](https://nhavantuonglai.com/article) ở xã Suối Nghệ thuộc huyện Châu Đức, tỉnh Bà Rịa – Vũng Tàu. 6h sáng, đồng cừu bắt đầu mở cửa, đến khoảng 10h chật kín du khách. Xe du lịch đậu kín lối vào. Cừu được người dân tập trung ở một bãi đất trống. Hiện có 2 chỗ cho du khách tham quan và thu phí 20.000 đồng tại khu vực này.
+[Đồng cừu](/article) ở xã Suối Nghệ thuộc huyện Châu Đức, tỉnh Bà Rịa – Vũng Tàu. 6h sáng, đồng cừu bắt đầu mở cửa, đến khoảng 10h chật kín du khách. Xe du lịch đậu kín lối vào. Cừu được người dân tập trung ở một bãi đất trống. Hiện có 2 chỗ cho du khách tham quan và thu phí 20.000 đồng tại khu vực này.
 
 Cách đây hơn 4 năm, nơi này được người địa phương sử dụng để thả cừu ăn cỏ. Khi du khách khắp nơi đến tham quan và chụp ảnh đông dần, người dân mở thêm dịch vụ để phục vụ. Du khách cũng có thể mua thức ăn để vừa trải nghiệm cho cừu ăn, vừa thu hút được sự chú ý của chúng. Giá mỗi suất ăn cho cừu là 10.000 đồng.
 
@@ -153,11 +153,11 @@ Cung đường gợi ý: Thành phố Hồ Chí Minh – theo hướng quốc l�
 
 ## Đặc sản
 
-Nguồn hải sản phong phú đã làm nên những món ăn [đặc sản đa dạng](https://nhavantuonglai.com/article) về chủng loại ở Bà Rịa – Vũng Tàu. Các món ăn truyền thống đặc trưng mang hương vị vùng miền phải kể đến bánh khọt Vũng Tàu, bánh xèo Long Hải, mắm bằm Long Điền, bánh hỏi An Nhứt, [bánh canh](https://nhavantuonglai.com/article)… Những địa điểm ăn uống thuận tiện nhất chủ yếu tập trung ở thành phố Vũng Tàu.
+Nguồn hải sản phong phú đã làm nên những món ăn [đặc sản đa dạng](/article) về chủng loại ở Bà Rịa – Vũng Tàu. Các món ăn truyền thống đặc trưng mang hương vị vùng miền phải kể đến bánh khọt Vũng Tàu, bánh xèo Long Hải, mắm bằm Long Điền, bánh hỏi An Nhứt, [bánh canh](/article)… Những địa điểm ăn uống thuận tiện nhất chủ yếu tập trung ở thành phố Vũng Tàu.
 
 _Bánh khọt Vũng Tàu_
 
-[Bánh khọt](https://nhavantuonglai.com/article) dân dã, mang hương vị rất riêng của miền biển Vũng Tàu được nhiều người ưa thích, từ người dân đến khách thập phương và cả du khách quốc tế. Màu trắng của bột gạo quyện với vị béo thơm của mỡ hành, cộng với vị ngọt của tôm thật sự làm hài lòng thực khách.
+[Bánh khọt](/article) dân dã, mang hương vị rất riêng của miền biển Vũng Tàu được nhiều người ưa thích, từ người dân đến khách thập phương và cả du khách quốc tế. Màu trắng của bột gạo quyện với vị béo thơm của mỡ hành, cộng với vị ngọt của tôm thật sự làm hài lòng thực khách.
 
 Khu đường Nguyễn Trường Tộ được xem là nơi hội tụ của đặc sản này. Ngoài ra, bánh được bán nhiều ở các quán vỉa hè, quán ăn trên đường phố Vũng Tàu, ngon nhất là quán Gốc Vú Sữa, và quán bánh khọt của bà Hai, cô Ba trên đường Trần Đồng, Hoàng Hoa Thám, Lương Văn Can… Khi đến các quán này bạn nên tránh giờ cao điểm lúc tan tầm bởi bạn sẽ phải đợi hơi lâu do lượng khách khá đông.
 

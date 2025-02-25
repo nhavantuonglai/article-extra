@@ -35,7 +35,7 @@ Với chiều về, xe khách Mai Châu – Hà Nội có nhiều chuyến tập
 
 ## Khách sạn, resort
 
-Nếu yêu thích sự yên bình thì nên chọn các homestay như: A Páo Homestay, Y Múa, Y Sao, A Dơ… Các homestay này đều gần [điểm săn mây](https://nhavantuonglai.com/article) Hang Kia – Pà Cò nổi tiếng nên rất tiện di chuyển. Gần nhất là Y Múa Homestay, chỉ cách điểm săn mây 3 km. Giá phòng phải chăng, chỉ khoảng 100.000 đồng với phòng nghỉ cộng đồng. Các homestay thường nằm trong bản làng yên bình, với những đồi chè, vườn mận xanh ngát.
+Nếu yêu thích sự yên bình thì nên chọn các homestay như: A Páo Homestay, Y Múa, Y Sao, A Dơ… Các homestay này đều gần [điểm săn mây](/article) Hang Kia – Pà Cò nổi tiếng nên rất tiện di chuyển. Gần nhất là Y Múa Homestay, chỉ cách điểm săn mây 3 km. Giá phòng phải chăng, chỉ khoảng 100.000 đồng với phòng nghỉ cộng đồng. Các homestay thường nằm trong bản làng yên bình, với những đồi chè, vườn mận xanh ngát.
 
 Bản Lác có nhiều homestay để du khách lựa chọn, trong đó có Little Mai Chau nằm tách khỏi khu du lịch, không gian yên bình. Giá phòng là 80.000 đồng một giường đơn, 160.000 đồng một giường đôi.
 
@@ -55,7 +55,7 @@ Những khu nghỉ dưỡng này thường nhanh hết phòng, đặc biệt là
 
 Điểm tham quan đầu tiên là đèo Thung Khe hay đèo Đá Trắng, nằm trên QL6, giữa địa phận Tân Lạc và Mai Châu. Đây vốn là núi đá vôi, do quá trình mở đường tạo thành. Đây cũng là nơi thường xuyên có mây phủ, tạo thành khung cảnh mờ ảo. Trên đèo cũng có những chòi bán đặc sản, đồ ăn, thức uống cho khách nghỉ chân.
 
-Muốn tìm hiểu về văn hóa địa phương, bạn không nên bỏ qua [Bản Lác](https://nhavantuonglai.com/article), nơi có hàng trăm nhà sàn tuổi đời lên tới 700 năm. Nơi đây còn có khung cảnh cánh đồng lúa trải dài bất tận và những homestay nhà sàn để lưu trú.
+Muốn tìm hiểu về văn hóa địa phương, bạn không nên bỏ qua [Bản Lác](/article), nơi có hàng trăm nhà sàn tuổi đời lên tới 700 năm. Nơi đây còn có khung cảnh cánh đồng lúa trải dài bất tận và những homestay nhà sàn để lưu trú.
 
 Nếu thích mua sắm bạn còn có thể thăm thú bản Pom Coọng để tìm mua cho mình những món đồ thủ công bé xinh. Còn muốn thưởng thức hương vị của nhịp sống không thương mại, bạn nên ghé Tòng Đậu, Cha Long… để lắng lại mình và cảm nhận nhiều hơn vì người dân chủ yếu vẫn làm nông.
 

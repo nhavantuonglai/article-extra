@@ -83,21 +83,21 @@ Cho nên một cuộc đối thoại giữa người Phật tử với người 
 
 Vì vậy, ta bắt đầu từ sự khổ đau, từ _con người_ mà không phải từ thế giới siêu hình.
 
-Đọc [Đạo Phật đi vào cuộc đời, chương 01](https://nhavantuonglai.com/article/dao-phat-di-vao-cuoc-doi-chuong-01) tại đây.
+Đọc [Đạo Phật đi vào cuộc đời, chương 01](/article/dao-phat-di-vao-cuoc-doi-chuong-01) tại đây.
 
-Đọc [Đạo Phật đi vào cuộc đời, chương 02](https://nhavantuonglai.com/article/dao-phat-di-vao-cuoc-doi-chuong-02) tại đây.
+Đọc [Đạo Phật đi vào cuộc đời, chương 02](/article/dao-phat-di-vao-cuoc-doi-chuong-02) tại đây.
 
-Đọc [Đạo Phật đi vào cuộc đời, chương 03](https://nhavantuonglai.com/article/dao-phat-di-vao-cuoc-doi-chuong-03) tại đây.
+Đọc [Đạo Phật đi vào cuộc đời, chương 03](/article/dao-phat-di-vao-cuoc-doi-chuong-03) tại đây.
 
-Đọc [Đạo Phật đi vào cuộc đời, chương 04](https://nhavantuonglai.com/article/dao-phat-di-vao-cuoc-doi-chuong-04) tại đây.
+Đọc [Đạo Phật đi vào cuộc đời, chương 04](/article/dao-phat-di-vao-cuoc-doi-chuong-04) tại đây.
 
-Đọc [Đạo Phật đi vào cuộc đời, chương 05](https://nhavantuonglai.com/article/dao-phat-di-vao-cuoc-doi-chuong-05) tại đây.
+Đọc [Đạo Phật đi vào cuộc đời, chương 05](/article/dao-phat-di-vao-cuoc-doi-chuong-05) tại đây.
 
-Đọc [Đạo Phật đi vào cuộc đời, chương 06](https://nhavantuonglai.com/article/dao-phat-di-vao-cuoc-doi-chuong-06) tại đây.
+Đọc [Đạo Phật đi vào cuộc đời, chương 06](/article/dao-phat-di-vao-cuoc-doi-chuong-06) tại đây.
 
-Đọc [Đạo Phật đi vào cuộc đời, chương 07](https://nhavantuonglai.com/article/dao-phat-di-vao-cuoc-doi-chuong-07) tại đây.
+Đọc [Đạo Phật đi vào cuộc đời, chương 07](/article/dao-phat-di-vao-cuoc-doi-chuong-07) tại đây.
 
-Đọc [Đạo Phật đi vào cuộc đời, chương 08](https://nhavantuonglai.com/article/dao-phat-di-vao-cuoc-doi-chuong-08) tại đây.
+Đọc [Đạo Phật đi vào cuộc đời, chương 08](/article/dao-phat-di-vao-cuoc-doi-chuong-08) tại đây.
 
 Đọc [Đạo Phật đi vào cuộc đời, toàn tập](https://banmaixanh.vercel.app/ebook/dao-phat-di-vao-cuoc-doi.pdf) tại đây.
 

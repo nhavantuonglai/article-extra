@@ -63,21 +63,21 @@ Chỉ đứng về phương diện _vô vi_ mà thôi ta cũng đã thấy rằn
 
 Và vì thế chúng tôi ước mong khi tìm giải đáp cho câu hỏi: _Phật giáo có thể đóng góp được gì cho tình trạng hiện thời của dân tộc_ xin quý ngài đừng quên lời tâm nguyện của chúng tôi là trong niềm tin tưởng đạo Phật có thể đóng góp rất lớn lao cho lịch sử, chúng tôi đòi hỏi đạo Phật trước tiên phải giữ phong độ đạo Phật.
 
-Đọc [Đạo Phật đi vào cuộc đời, chương 01](https://nhavantuonglai.com/article/dao-phat-di-vao-cuoc-doi-chuong-01) tại đây.
+Đọc [Đạo Phật đi vào cuộc đời, chương 01](/article/dao-phat-di-vao-cuoc-doi-chuong-01) tại đây.
 
-Đọc [Đạo Phật đi vào cuộc đời, chương 02](https://nhavantuonglai.com/article/dao-phat-di-vao-cuoc-doi-chuong-02) tại đây.
+Đọc [Đạo Phật đi vào cuộc đời, chương 02](/article/dao-phat-di-vao-cuoc-doi-chuong-02) tại đây.
 
-Đọc [Đạo Phật đi vào cuộc đời, chương 03](https://nhavantuonglai.com/article/dao-phat-di-vao-cuoc-doi-chuong-03) tại đây.
+Đọc [Đạo Phật đi vào cuộc đời, chương 03](/article/dao-phat-di-vao-cuoc-doi-chuong-03) tại đây.
 
-Đọc [Đạo Phật đi vào cuộc đời, chương 04](https://nhavantuonglai.com/article/dao-phat-di-vao-cuoc-doi-chuong-04) tại đây.
+Đọc [Đạo Phật đi vào cuộc đời, chương 04](/article/dao-phat-di-vao-cuoc-doi-chuong-04) tại đây.
 
-Đọc [Đạo Phật đi vào cuộc đời, chương 05](https://nhavantuonglai.com/article/dao-phat-di-vao-cuoc-doi-chuong-05) tại đây.
+Đọc [Đạo Phật đi vào cuộc đời, chương 05](/article/dao-phat-di-vao-cuoc-doi-chuong-05) tại đây.
 
-Đọc [Đạo Phật đi vào cuộc đời, chương 06](https://nhavantuonglai.com/article/dao-phat-di-vao-cuoc-doi-chuong-06) tại đây.
+Đọc [Đạo Phật đi vào cuộc đời, chương 06](/article/dao-phat-di-vao-cuoc-doi-chuong-06) tại đây.
 
-Đọc [Đạo Phật đi vào cuộc đời, chương 07](https://nhavantuonglai.com/article/dao-phat-di-vao-cuoc-doi-chuong-07) tại đây.
+Đọc [Đạo Phật đi vào cuộc đời, chương 07](/article/dao-phat-di-vao-cuoc-doi-chuong-07) tại đây.
 
-Đọc [Đạo Phật đi vào cuộc đời, chương 08](https://nhavantuonglai.com/article/dao-phat-di-vao-cuoc-doi-chuong-08) tại đây.
+Đọc [Đạo Phật đi vào cuộc đời, chương 08](/article/dao-phat-di-vao-cuoc-doi-chuong-08) tại đây.
 
 Đọc [Đạo Phật đi vào cuộc đời, toàn tập](https://banmaixanh.vercel.app/ebook/dao-phat-di-vao-cuoc-doi.pdf) tại đây.
 

@@ -31,13 +31,13 @@ Tôi còn nhớ hôm các sư cô Định Nghiêm và Giải Nghiêm đi thăm v
 
 Câu nói đó còn nằm ở trong tim của tôi, và vì vậy trong bài giảng hôm nay tôi sẽ tìm cách giải đáp cho hai vị đó, cũng như cho những ai thường thắc mắc về vấn đề linh ứng của sự cầu nguyện.
 
-Đọc [Hiệu lực cầu nguyện, chương 01](https://nhavantuonglai.com/article/hieu-luc-cau-nguyen-chuong-01) tại đây.
+Đọc [Hiệu lực cầu nguyện, chương 01](/article/hieu-luc-cau-nguyen-chuong-01) tại đây.
 
-Đọc [Hiệu lực cầu nguyện, chương 02](https://nhavantuonglai.com/article/hieu-luc-cau-nguyen-chuong-02) tại đây.
+Đọc [Hiệu lực cầu nguyện, chương 02](/article/hieu-luc-cau-nguyen-chuong-02) tại đây.
 
-Đọc [Hiệu lực cầu nguyện, chương 03](https://nhavantuonglai.com/article/hieu-luc-cau-nguyen-chuong-03) tại đây.
+Đọc [Hiệu lực cầu nguyện, chương 03](/article/hieu-luc-cau-nguyen-chuong-03) tại đây.
 
-Đọc [Hiệu lực cầu nguyện, chương 04](https://nhavantuonglai.com/article/hieu-luc-cau-nguyen-chuong-04) tại đây.
+Đọc [Hiệu lực cầu nguyện, chương 04](/article/hieu-luc-cau-nguyen-chuong-04) tại đây.
 
 Đọc [Hiệu lực cầu nguyện, toàn tập](https://banmaixanh.vercel.app/ebook/hieu-luc-cau-nguyen.pdf) tại đây.
 

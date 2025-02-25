@@ -29,7 +29,7 @@ Khi Poe 6 tuổi, ông đến Anh học trong 5 năm. Ông học tiếng Latin v
 
 ## Poe trong quân đội
 
-[Edgar Allan Poe](https://nhavantuonglai.com/article/edgar-allan-poe) không có tiền, không có kỹ năng nghề nghiệp và bị John Allan từ chối. Edgar đến Boston và gia nhập quân đội Hoa Kỳ năm 1827, khi ông 18 tuổi. Ông làm việc khá tốt trong quân đội và đạt cấp bậc trung sĩ. Năm 1829, bà Allan qua đời và John Allan cố gắng trở nên thân thiện với Edgar bằng cách ký vào đơn xin nhập học West Point của Edgar.
+[Edgar Allan Poe](/article/edgar-allan-poe) không có tiền, không có kỹ năng nghề nghiệp và bị John Allan từ chối. Edgar đến Boston và gia nhập quân đội Hoa Kỳ năm 1827, khi ông 18 tuổi. Ông làm việc khá tốt trong quân đội và đạt cấp bậc trung sĩ. Năm 1829, bà Allan qua đời và John Allan cố gắng trở nên thân thiện với Edgar bằng cách ký vào đơn xin nhập học West Point của Edgar.
 
 Trong lúc chờ đợi vào West Point, Edgar sống với bà nội và dì của mình, bà Clemm. Cũng sống cùng là anh trai Henry và cô em họ trẻ tuổi Virginia. Năm 1830, Edgar Allan vào West Point với tư cách là học viên. Ông không ở lại lâu vì John Allan từ chối gửi tiền cho ông. Người ta cho rằng Edgar cố tình vi phạm quy tắc và phớt lờ nhiệm vụ để bị đuổi.
 
@@ -61,7 +61,7 @@ Bí ẩn xung quanh cái chết của Poe đã dẫn đến nhiều huyền tho�
 
 – The Tell – Tale Heart (1843): Một truyện ngắn kinh dị về sự mất lý trí và ám ảnh tội lỗi, thể hiện kỹ thuật tường thuật nội tâm đặc trưng của Poe.
 
-– [The Fall of the House of Usher](https://nhavantuonglai.com/article/the-fall-of-the-house-of-usher) (1839): Tác phẩm này là một câu chuyện kinh dị tâm linh, khắc họa sự suy tàn của một gia đình đầy bí ẩn và bất an.
+– [The Fall of the House of Usher](/article/the-fall-of-the-house-of-usher) (1839): Tác phẩm này là một câu chuyện kinh dị tâm linh, khắc họa sự suy tàn của một gia đình đầy bí ẩn và bất an.
 
 – The Murders in the Rue Morgue (1841): Được coi là câu chuyện trinh thám đầu tiên, tác phẩm này đã khai sinh ra thể loại văn học trinh thám hiện đại.
 

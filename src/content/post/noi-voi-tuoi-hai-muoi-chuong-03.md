@@ -79,21 +79,21 @@ Sức sống rào rạt của em, nếu được hướng về khám phá và y�
 
 Em là một kiến trúc kỳ diệu cũng như vũ trụ là một kiến trúc kỳ diệu; ngày nào trí tuệ và trái tim em nhận thức được điều đó một cách xác thực và thực nghiệm, ngày ấy em thực hiện được thiên đường, hái được bông hoa tươi đẹp của chân như.
 
-Đọc [Nói với tuổi hai mươi, chương 01](https://nhavantuonglai.com/article/noi-voi-tuoi-hai-muoi-chuong-01) tại đây.
+Đọc [Nói với tuổi hai mươi, chương 01](/article/noi-voi-tuoi-hai-muoi-chuong-01) tại đây.
 
-Đọc [Nói với tuổi hai mươi, chương 02](https://nhavantuonglai.com/article/noi-voi-tuoi-hai-muoi-chuong-02) tại đây.
+Đọc [Nói với tuổi hai mươi, chương 02](/article/noi-voi-tuoi-hai-muoi-chuong-02) tại đây.
 
-Đọc [Nói với tuổi hai mươi, chương 03](https://nhavantuonglai.com/article/noi-voi-tuoi-hai-muoi-chuong-03) tại đây.
+Đọc [Nói với tuổi hai mươi, chương 03](/article/noi-voi-tuoi-hai-muoi-chuong-03) tại đây.
 
-Đọc [Nói với tuổi hai mươi, chương 04](https://nhavantuonglai.com/article/noi-voi-tuoi-hai-muoi-chuong-04) tại đây.
+Đọc [Nói với tuổi hai mươi, chương 04](/article/noi-voi-tuoi-hai-muoi-chuong-04) tại đây.
 
-Đọc [Nói với tuổi hai mươi, chương 05](https://nhavantuonglai.com/article/noi-voi-tuoi-hai-muoi-chuong-05) tại đây.
+Đọc [Nói với tuổi hai mươi, chương 05](/article/noi-voi-tuoi-hai-muoi-chuong-05) tại đây.
 
-Đọc [Nói với tuổi hai mươi, chương 06](https://nhavantuonglai.com/article/noi-voi-tuoi-hai-muoi-chuong-06) tại đây.
+Đọc [Nói với tuổi hai mươi, chương 06](/article/noi-voi-tuoi-hai-muoi-chuong-06) tại đây.
 
-Đọc [Nói với tuổi hai mươi, chương 07](https://nhavantuonglai.com/article/noi-voi-tuoi-hai-muoi-chuong-07) tại đây.
+Đọc [Nói với tuổi hai mươi, chương 07](/article/noi-voi-tuoi-hai-muoi-chuong-07) tại đây.
 
-Đọc [Nói với tuổi hai mươi, chương 08](https://nhavantuonglai.com/article/noi-voi-tuoi-hai-muoi-chuong-08) tại đây.
+Đọc [Nói với tuổi hai mươi, chương 08](/article/noi-voi-tuoi-hai-muoi-chuong-08) tại đây.
 
 Đọc [Nói với tuổi hai mươi, toàn tập](https://banmaixanh.vercel.app/ebook/noi-voi-tuoi-hai-muoi.pdf) tại đây.
 

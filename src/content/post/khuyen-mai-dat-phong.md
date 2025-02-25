@@ -23,7 +23,7 @@ Ngành khách sạn có tính cạnh tranh cao, nên sự khác biệt giữa c�
 
 – Tăng tỷ lệ lấp đầy phòng trống: Chương trình khuyến mãi giúp lấp đầy phòng trống của khách sạn trong thời điểm nhu cầu đặt phòng thấp (giữa tuần, mùa du lịch thấp điểm…) và tăng sự chú ý từ du khách với khách sạn của bạn.
 
-– [Cải thiện lòng trung thành của du khách](https://nhavantuonglai.com/article): Du khách hưởng lợi từ các chính sách ưu đãi, khuyến mãi đặt phòng có nhiều khả năng đặt phòng trở lại, từ đó tăng giá trị khách hàng dài lâu. Không chỉ vậy, họ cũng có thể quảng bá, làm hiệu ứng truyền miệng cho những trải nghiệm tại khách sạn, để nhiều du khách tiềm năng khác tiếp cận, tìm đến và đặt phòng hơn.
+– [Cải thiện lòng trung thành của du khách](/article): Du khách hưởng lợi từ các chính sách ưu đãi, khuyến mãi đặt phòng có nhiều khả năng đặt phòng trở lại, từ đó tăng giá trị khách hàng dài lâu. Không chỉ vậy, họ cũng có thể quảng bá, làm hiệu ứng truyền miệng cho những trải nghiệm tại khách sạn, để nhiều du khách tiềm năng khác tiếp cận, tìm đến và đặt phòng hơn.
 
 – Nâng cao trải nghiệm khách đặt phòng: Các dịch vụ, tiện nghi không thu phí của khách sạn được xem như một phần của chương trình ưu đãi, khuyến mãi. Chúng có thể nâng cao, cải thiện trải nghiệm của du khách tại khách sạn, từ đó họ sẵn sàng chi tiền nhiều hơn cho các dịch vụ, trải nghiệm trong khách sạn.
 
@@ -41,9 +41,9 @@ Chương trình ưu đãi, khuyến mãi đặt phòng khách sạn đem lại h
 
 – Cảm giác cấp bách, khan hiếm: Các ưu đãi, khuyến mãi tạo ra cảm giác nhạy cảm, khơi gợi du khách nhanh chóng ra quyết định đặt phòng.
 
-– [Hiệu ứng truyền miệng](https://nhavantuonglai.com/article): Khi du khách có trải nghiệm tích cực với các ưu đãi, họ sẽ lan truyền chúng đến với mọi người xung quanh.
+– [Hiệu ứng truyền miệng](/article): Khi du khách có trải nghiệm tích cực với các ưu đãi, họ sẽ lan truyền chúng đến với mọi người xung quanh.
 
-– Tăng cơ hội bán thêm ([upselling](https://nhavantuonglai.com/article): Khi du khách đặt phòng thành công, khách sạn có thể bán thêm các dịch vụ như ăn uống hoặc spa… để tăng doanh thu khách sạn.
+– Tăng cơ hội bán thêm ([upselling](/article): Khi du khách đặt phòng thành công, khách sạn có thể bán thêm các dịch vụ như ăn uống hoặc spa… để tăng doanh thu khách sạn.
 
 Như vậy, khách sạn có thể áp dụng chiến lược ưu đãi, khuyến mãi để thu hút nhiều khách đặt phòng trực tiếp hơn cho khách sạn của mình.
 
@@ -79,7 +79,7 @@ Dưới đây là những cách để tăng lượt đặt phòng, tăng doanh t
 
 ### Chương trình khuyến mãi khách sạn theo mùa du lịch
 
-Kinh doanh khách sạn thường dựa vào [mùa du lịch](https://nhavantuonglai.com/article), và mùa thấp điểm là thời điểm trầm lắng khiến các khách sạn phải có giải pháp để cải thiện, thu hút lượt bán phòng mới.
+Kinh doanh khách sạn thường dựa vào [mùa du lịch](/article), và mùa thấp điểm là thời điểm trầm lắng khiến các khách sạn phải có giải pháp để cải thiện, thu hút lượt bán phòng mới.
 
 Chiến lược đơn giản nhất là giảm giá phòng khách sạn, nhưng đây không phải là ý tưởng tốt nhất, bởi không đảm bảo tăng công suất phòng cho khách sạn được. Thay vào đó, hãy kết hợp giảm giá với các chương trình khuyến mãi thú vị như kỳ nghỉ mùa hè, khóa tu mùa đông để nhắc du khách biết khách sạn của bạn đẹp như thế nào và họ có thể trải nghiệm nhiều hơn khi ít du khách hơn.
 
@@ -97,7 +97,7 @@ Các sự kiện có thể bao gồm: lễ hội âm nhạc, nghệ thuật, gi�
 
 ### Khuyến mãi đặt phòng trực tiếp
 
-Khách sạn xây dựng các chính sách khuyến mãi độc quyền, áp dụng trong [công cụ đặt phòng](https://nhavantuonglai.com/article), website khách sạn để du khách có thêm động lực đặt phòng trực tiếp thay vì thông qua kênh OTA. Chúng cũng sẽ biến [kênh đặt phòng trực tiếp](https://nhavantuonglai.com/article) trở thành kênh bán phòng quan trọng nhất của khách sạn. Ưu đãi có thể áp dụng như là giảm giá, một món quà nhỏ, phiếu mua hàng hoặc thẻ quà tặng…
+Khách sạn xây dựng các chính sách khuyến mãi độc quyền, áp dụng trong [công cụ đặt phòng](/article), website khách sạn để du khách có thêm động lực đặt phòng trực tiếp thay vì thông qua kênh OTA. Chúng cũng sẽ biến [kênh đặt phòng trực tiếp](/article) trở thành kênh bán phòng quan trọng nhất của khách sạn. Ưu đãi có thể áp dụng như là giảm giá, một món quà nhỏ, phiếu mua hàng hoặc thẻ quà tặng…
 
 ### Hợp tác khuyến mãi với các giải pháp, đối tác trong khu vực
 

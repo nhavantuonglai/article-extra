@@ -83,7 +83,7 @@ Một trong những điểm dừng chân khác khi đến thành phố là tư�
 
 ## Đặc sản
 
-[Hồ Hòa Bình](https://nhavantuonglai.com/article) mang đến nhiều đặc sản hấp dẫn, trong đó phải kể đến các loài cá như lăng, chép, mè, trắm…
+[Hồ Hòa Bình](/article) mang đến nhiều đặc sản hấp dẫn, trong đó phải kể đến các loài cá như lăng, chép, mè, trắm…
 
 Cá kẹp thanh tre, nướng trên bếp than hồng là đặc sản dễ tìm thấy trên đường lên động Thác Bờ. Những mẻ cá thiểu, ngão được làm sạch vảy, ruột, ướp muối tiêu rồi nướng. Cá sau đó được bày lên lá chuối xanh, ăn kèm lá sấu non, lá mơ, lá lốt. Thịt cá chắc, ngọt và thơm phức mùi nướng than và thoang thoảng hương chuối, tre.
 

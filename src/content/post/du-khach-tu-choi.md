@@ -19,9 +19,9 @@ _Không chỉ riêng việc chịu cạnh tranh gay gắt từ các đối thủ
 
 ## Nâng giá khi cao điểm khiến khách lại không chọn khách sạn
 
-Mùa du lịch cao điểm, Lễ Tết là [những thời điểm hốt bạc](https://nhavantuonglai.com/article) của người làm du lịch, dịch vụ khách sạn. Bởi rằng, đây là những lúc mà khách du lịch hoạt động tích cực bằng việc đặt phòng nhiều nhất. Chính vì thế, nhiều khách sạn đã kiếm cớ để tăng giá phòng, nhằm tăng thêm doanh thu cho mình.
+Mùa du lịch cao điểm, Lễ Tết là [những thời điểm hốt bạc](/article) của người làm du lịch, dịch vụ khách sạn. Bởi rằng, đây là những lúc mà khách du lịch hoạt động tích cực bằng việc đặt phòng nhiều nhất. Chính vì thế, nhiều khách sạn đã kiếm cớ để tăng giá phòng, nhằm tăng thêm doanh thu cho mình.
 
-Tuy rằng điều này có thể dễ dàng giải thích, nhưng lại khiến [khách đặt phòng cảm thấy khó chịu](https://nhavantuonglai.com/article) và không phải ai cũng sẵn lòng trả tiền nhiều hơn, đặc biệt là khi so sánh với mức giá trước đó mà họ có. Bên cạnh đó, nhiều khách sạn không tinh tế trong việc phát đi những thông điệp, khi trước đó họ giảm giá vào mùa vắng khách để kích cầu, và đưa mức giá trở lại bình thường lúc đông khách, làm khách hàng lầm tưởng rằng họ đang tăng giá.
+Tuy rằng điều này có thể dễ dàng giải thích, nhưng lại khiến [khách đặt phòng cảm thấy khó chịu](/article) và không phải ai cũng sẵn lòng trả tiền nhiều hơn, đặc biệt là khi so sánh với mức giá trước đó mà họ có. Bên cạnh đó, nhiều khách sạn không tinh tế trong việc phát đi những thông điệp, khi trước đó họ giảm giá vào mùa vắng khách để kích cầu, và đưa mức giá trở lại bình thường lúc đông khách, làm khách hàng lầm tưởng rằng họ đang tăng giá.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-050.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
@@ -43,7 +43,7 @@ Những vấn đề này giống như cách các hãng hàng không giá rẻ ti
 
 Quản lý, vận hành khách sạn là nền tảng để giúp cả hệ thống hoạt động trơn tru, phối hợp ổn định, qua đó tạo nên sự chuyên nghiệp trong mắt khách hàng. Khi việc quản lý trở nên lỏng lẻo, khách hàng là người chịu trận bởi những vấn đề phát sinh sau:
 
-– [Overbooking](https://nhavantuonglai.com/article), đặt phòng rồi nhưng khi đến thì lại bị báo hết phòng. Thiếu trang bị phần mềm quản lý khách sạn toàn diện khiến nhiều khi các khách sạn lúng túng, lịch đặt phòng chồng chéo nhưng không được đồng bộ, dẫn đến tình trạng Overbooking, gián tiếp gây mất thiện cảm trong mắt của khách hàng.
+– [Overbooking](/article), đặt phòng rồi nhưng khi đến thì lại bị báo hết phòng. Thiếu trang bị phần mềm quản lý khách sạn toàn diện khiến nhiều khi các khách sạn lúng túng, lịch đặt phòng chồng chéo nhưng không được đồng bộ, dẫn đến tình trạng Overbooking, gián tiếp gây mất thiện cảm trong mắt của khách hàng.
 
 – Option thiếu, cung cấp không đủ. Nhiều khách khi đi chơi xa, thường sẽ có những yêu cầu từ trước như thuê xe, đón ở sân bay… tùy tình huống mà khách sạn có thể đáp ứng hoặc không. Nhưng nếu khách sạn không tính toán, sắp xếp từ trước, gây cập rập trong quá trình chuẩn bị, khiến khách hàng phiền hà khó chịu thì sẽ là một điều vô cùng tệ hại.
 

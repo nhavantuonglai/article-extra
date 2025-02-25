@@ -23,7 +23,7 @@ Các ngày cuối tuần hay dịp lễ, Tết, khách du lịch đổ về đô
 
 Từ Thành phố Hồ Chí Minh, du khách có thể chọn xe máy, ôtô hoặc tàu cao tốc, phà. Nếu đi xe, bạn đi theo hướng Quốc lộ 1 – Quốc lộ 51 – Vũng Tàu; hoặc từ phà Cát Lái (quận 2, Thành phố Hồ Chí Minh) – Nhơn Trạch (Đồng Nai) – Quốc lộ 51 – Vũng Tàu. Đối với những du khách tự lái ôtô, đi hướng cao tốc Long Thành – Đồng Nai.
 
-Nếu muốn trải nghiệm đi phà, du khách từ Thành phố Hồ Chí Minh đi khoảng 70 km đến bến đò Tắc Suất (Cần Giờ) để lên phà. [Phà biển Cần Giờ – Vũng Tàu](https://nhavantuonglai.com/article) có thời gian di chuyển khoảng 30 phút. Tuy nhiên, hành khách lưu ý thời gian thực tế có thể kéo dài hơn, tùy thuộc vào tình hình thời tiết và mực nước biển. Giá vé mỗi lượt khách là 70.000 đồng. Phí chở xe máy và xe đạp 50.000 đồng mỗi xe. Ôtô từ 4 chỗ đến 26 chỗ trở lên có giá từ 350.000 đến 800.000 đồng mỗi chiếc.
+Nếu muốn trải nghiệm đi phà, du khách từ Thành phố Hồ Chí Minh đi khoảng 70 km đến bến đò Tắc Suất (Cần Giờ) để lên phà. [Phà biển Cần Giờ – Vũng Tàu](/article) có thời gian di chuyển khoảng 30 phút. Tuy nhiên, hành khách lưu ý thời gian thực tế có thể kéo dài hơn, tùy thuộc vào tình hình thời tiết và mực nước biển. Giá vé mỗi lượt khách là 70.000 đồng. Phí chở xe máy và xe đạp 50.000 đồng mỗi xe. Ôtô từ 4 chỗ đến 26 chỗ trở lên có giá từ 350.000 đến 800.000 đồng mỗi chiếc.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/du-lich-vung-tau-680.jpg" alt="cam-nang-du-lich-vung-tau" height=100% width=100%><figcaption><p>cam-nang-du-lich-vung-tau-nhavantuonglai</p></figcaption></figure>
 
@@ -69,7 +69,7 @@ Mũi Nghinh Phong
 
 Nghinh Phong có nghĩa là _đón gió,_ còn gọi là mũi Vũng Tàu, đón gió suốt 4 mùa. Đây là mũi đất vươn dài nhất ở phía Nam của bán đảo Vũng Tàu. Từ đây du khách có thể ngắm hòn Bà, xa hơn nữa là thuyền đánh cá.
 
-Đường ra [mũi Nghinh Phong](https://nhavantuonglai.com/article) gập ghềnh và nhiều đá, bạn cần đi giày hoặc dép, tránh đi chân trần. Hạn chế mặc váy để dễ dàng di chuyển. Khu vực này gió to nên du khách có thể mang theo áo khoác mỏng để tránh ngấm lạnh.
+Đường ra [mũi Nghinh Phong](/article) gập ghềnh và nhiều đá, bạn cần đi giày hoặc dép, tránh đi chân trần. Hạn chế mặc váy để dễ dàng di chuyển. Khu vực này gió to nên du khách có thể mang theo áo khoác mỏng để tránh ngấm lạnh.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/du-lich-vung-tau-683.jpg" alt="cam-nang-du-lich-vung-tau" height=100% width=100%><figcaption><p>cam-nang-du-lich-vung-tau-nhavantuonglai</p></figcaption></figure>
 
@@ -85,7 +85,7 @@ _Cổng trời_ nằm ở vị trí cao, hai bên có bậc thang đá. Địa �
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/du-lich-vung-tau-685.jpg" alt="cam-nang-du-lich-vung-tau" height=100% width=100%><figcaption><p>cam-nang-du-lich-vung-tau-nhavantuonglai</p></figcaption></figure>
 
-Tọa lạc ngay Bãi Sau, [đồi Con Heo](https://nhavantuonglai.com/article) trước đây là nơi khai thác đá. Đứng ở đồi Con Heo, du khách có thể nhìn ngắm toàn bộ khung cảnh của Vũng Tàu.
+Tọa lạc ngay Bãi Sau, [đồi Con Heo](/article) trước đây là nơi khai thác đá. Đứng ở đồi Con Heo, du khách có thể nhìn ngắm toàn bộ khung cảnh của Vũng Tàu.
 
 Lối lên đồi bắt đầu từ con hẻm nhỏ đường Phan Chu Trinh (phường ) với chiều dài khoảng 500 m. Với địa hình núi đá dốc và khúc khuỷu, để lên được đây, du khách phải đi bằng xe máy hoặc cuốc bộ.
 
@@ -107,15 +107,15 @@ Thích Ca Phật Đài
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/du-lich-vung-tau-702.jpg" alt="cam-nang-du-lich-vung-tau" height=100% width=100%><figcaption><p>cam-nang-du-lich-vung-tau-nhavantuonglai</p></figcaption></figure>
 
-Đây là một quần thể kiến trúc Phật giáo lớn, điểm [du lịch tâm linh](https://nhavantuonglai.com/article) nổi tiếng ở thành phố biển Vũng Tàu. Thích Ca Phật Đài nằm trên sườn của Núi Lớn, nổi bật với bức tượng Thích Ca Mâu Ni tọa thiền trên lưng chừng núi. Đứng từ rất xa, du khách cũng có thể chiêm ngưỡng bức tượng.
+Đây là một quần thể kiến trúc Phật giáo lớn, điểm [du lịch tâm linh](/article) nổi tiếng ở thành phố biển Vũng Tàu. Thích Ca Phật Đài nằm trên sườn của Núi Lớn, nổi bật với bức tượng Thích Ca Mâu Ni tọa thiền trên lưng chừng núi. Đứng từ rất xa, du khách cũng có thể chiêm ngưỡng bức tượng.
 
-[Thích Ca Phật Đài](https://nhavantuonglai.com/article) phần nào tái hiện cuộc đời của Đức Phật Thích Ca với các hình tượng Phật đản sanh, thái tử Tất Đạt Đa xuất gia, Phật Thích Ca thành đạo, Đức Phật ngồi trên tòa sen và Đức Phật nhập Niết Bàn. Ngoài ra, chùa còn có một bảo tháp Xá Lợi cao 17 m, bên trong là hộp vàng đựng 13 viên xá lợi của nhà chân tu. Dưới chân bảo tháp là bốn đỉnh lớn, trong đó đặt đất thiêng được thỉnh về từ nơi Đức Phật ra đời.
+[Thích Ca Phật Đài](/article) phần nào tái hiện cuộc đời của Đức Phật Thích Ca với các hình tượng Phật đản sanh, thái tử Tất Đạt Đa xuất gia, Phật Thích Ca thành đạo, Đức Phật ngồi trên tòa sen và Đức Phật nhập Niết Bàn. Ngoài ra, chùa còn có một bảo tháp Xá Lợi cao 17 m, bên trong là hộp vàng đựng 13 viên xá lợi của nhà chân tu. Dưới chân bảo tháp là bốn đỉnh lớn, trong đó đặt đất thiêng được thỉnh về từ nơi Đức Phật ra đời.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/du-lich-vung-tau-687.jpg" alt="cam-nang-du-lich-vung-tau" height=100% width=100%><figcaption><p>cam-nang-du-lich-vung-tau-nhavantuonglai</p></figcaption></figure>
 
 Ngọn hải đăng Vũng Tàu
 
-Ngọn hải đăng nằm trên núi Nhỏ, từ đây du khách có thể thu vào tầm mắt toàn cảnh thành phố ẩn hiện trong sương. Để lên đỉnh, bạn sẽ men theo đường hầm được xây kiên cố trong ngôi nhà hai tầng vốn là nơi cư trú và sinh hoạt của những người gác hải đăng. Nơi đây đẹp nhất vào mùa lá rụng. Còn nếu đến tham quan trực tiếp [ngọn hải đăng](https://nhavantuonglai.com/article), bạn nên đến vào chiều tối, khung cảnh sẽ thú vị hơn so với ban ngày.
+Ngọn hải đăng nằm trên núi Nhỏ, từ đây du khách có thể thu vào tầm mắt toàn cảnh thành phố ẩn hiện trong sương. Để lên đỉnh, bạn sẽ men theo đường hầm được xây kiên cố trong ngôi nhà hai tầng vốn là nơi cư trú và sinh hoạt của những người gác hải đăng. Nơi đây đẹp nhất vào mùa lá rụng. Còn nếu đến tham quan trực tiếp [ngọn hải đăng](/article), bạn nên đến vào chiều tối, khung cảnh sẽ thú vị hơn so với ban ngày.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/du-lich-vung-tau-688.jpg" alt="cam-nang-du-lich-vung-tau" height=100% width=100%><figcaption><p>cam-nang-du-lich-vung-tau-nhavantuonglai</p></figcaption></figure>
 
@@ -131,7 +131,7 @@ Nhà thờ công giáo mang đậm nét Á Đông được xây dựng từ năm
 
 Bạch Dinh
 
-Còn có tên là Villa Blanche, [Bạch Dinh](https://nhavantuonglai.com/article) là một trong những công trình nổi tiếng nhất ở Thành phố Vũng Tàu. Dinh thự kiến trúc kiểu châu Âu này được xây cuối thế kỷ 19, nằm bên sườn Núi Lớn. Nơi đây từng được dùng làm nơi nghỉ mát cho Toàn quyền Đông Dương Paul Doumer. Hiện nơi đây còn lưu giữ 19 khẩu thần công. Địa chỉ ở số 10 đường Trần Phú, thành phố Vũng Tàu.
+Còn có tên là Villa Blanche, [Bạch Dinh](/article) là một trong những công trình nổi tiếng nhất ở Thành phố Vũng Tàu. Dinh thự kiến trúc kiểu châu Âu này được xây cuối thế kỷ 19, nằm bên sườn Núi Lớn. Nơi đây từng được dùng làm nơi nghỉ mát cho Toàn quyền Đông Dương Paul Doumer. Hiện nơi đây còn lưu giữ 19 khẩu thần công. Địa chỉ ở số 10 đường Trần Phú, thành phố Vũng Tàu.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/du-lich-vung-tau-690.jpg" alt="cam-nang-du-lich-vung-tau" height=100% width=100%><figcaption><p>cam-nang-du-lich-vung-tau-nhavantuonglai</p></figcaption></figure>
 
@@ -173,7 +173,7 @@ Ngoài các loại tươi sống, nơi đây còn bán đồ khô để mang v�
 
 Check-in hẻm 107-109 Trần Phú
 
-Con hẻm được mệnh danh là _điểm [check-in](https://nhavantuonglai.com/article) thần thánh._ Hẻm hơi khó tìm, du khách đi đường Trần Phú tới gần bãi Dâu, nhìn phía bên tay trái thấy hàng hoa giấy thì con hẻm này sát gần đó. Thời điểm đẹp nhất để tham quan là đi vào buổi chiều khi thủy triều lên sát bờ.
+Con hẻm được mệnh danh là _điểm [check-in](/article) thần thánh._ Hẻm hơi khó tìm, du khách đi đường Trần Phú tới gần bãi Dâu, nhìn phía bên tay trái thấy hàng hoa giấy thì con hẻm này sát gần đó. Thời điểm đẹp nhất để tham quan là đi vào buổi chiều khi thủy triều lên sát bờ.
 
 ## Lễ hội
 
@@ -195,7 +195,7 @@ Những món hải sản đặc trưng của miền biển bạn nên thưởng 
 
 Bánh khọt
 
-Món ăn nổi tiếng của Vũng Tàu là bánh khọt. Quán [bánh khọt Gốc Vú Sữa](https://nhavantuonglai.com/article) là địa chỉ ẩm thực nổi tiếng trên đường Nguyễn Trường Tộ, phường 2, Thành phố Vũng Tàu. Địa chỉ này chỉ phục vụ bánh khọt nhân tôm. Tuy hình thức chế biến không mấy khác biệt so với các quán xung quanh, Gốc Vú Sữa vẫn ghi điểm bởi cách pha bột gạo không chỗ nào bắt chước được. Bánh được đổ trực tiếp trên chiếc lò gang rồi mang ra cho khách nên giữ được độ giòn và nóng. Tôm ăn vào có vị ngọt.
+Món ăn nổi tiếng của Vũng Tàu là bánh khọt. Quán [bánh khọt Gốc Vú Sữa](/article) là địa chỉ ẩm thực nổi tiếng trên đường Nguyễn Trường Tộ, phường 2, Thành phố Vũng Tàu. Địa chỉ này chỉ phục vụ bánh khọt nhân tôm. Tuy hình thức chế biến không mấy khác biệt so với các quán xung quanh, Gốc Vú Sữa vẫn ghi điểm bởi cách pha bột gạo không chỗ nào bắt chước được. Bánh được đổ trực tiếp trên chiếc lò gang rồi mang ra cho khách nên giữ được độ giòn và nóng. Tôm ăn vào có vị ngọt.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/du-lich-vung-tau-695.jpg" alt="cam-nang-du-lich-vung-tau" height=100% width=100%><figcaption><p>cam-nang-du-lich-vung-tau-nhavantuonglai</p></figcaption></figure>
 
@@ -211,13 +211,13 @@ Muốn ăn lẩu cá đuối ngon, bạn nên tìm đến đường Nguyễn Tr�
 
 Mì _thảy_
 
-Trải qua nhiều đời cha truyền con nối, tiệm [Nghiệp Ký Mì Gia](https://nhavantuonglai.com/article) nằm trên đường Ba Cu ở bãi Trước Vũng Tàu đã không còn xa lạ với thực khách. Khi bước vào đây bạn sẽ được chứng kiến màn thảy (quăng, ném) mì điệu nghệ. Mì được chia thành từng vắt đều nhau rồi cho vào chiếc vợt để trụng. Vừa trụng, đầu bếp vừa thảy lên không trung mấy vòng cho ráo nước trước khi cho vào tô. Điều này đã tạo nên sự đặc biệt hút khách của địa chỉ này.
+Trải qua nhiều đời cha truyền con nối, tiệm [Nghiệp Ký Mì Gia](/article) nằm trên đường Ba Cu ở bãi Trước Vũng Tàu đã không còn xa lạ với thực khách. Khi bước vào đây bạn sẽ được chứng kiến màn thảy (quăng, ném) mì điệu nghệ. Mì được chia thành từng vắt đều nhau rồi cho vào chiếc vợt để trụng. Vừa trụng, đầu bếp vừa thảy lên không trung mấy vòng cho ráo nước trước khi cho vào tô. Điều này đã tạo nên sự đặc biệt hút khách của địa chỉ này.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/du-lich-vung-tau-697.jpg" alt="cam-nang-du-lich-vung-tau" height=100% width=100%><figcaption><p>cam-nang-du-lich-vung-tau-nhavantuonglai</p></figcaption></figure>
 
 Bánh mì chả cá
 
-[Bánh mì chả cá](https://nhavantuonglai.com/article) có giá khoảng 10.000 – 15.000 đồng một ổ. Ở thành phố Vũng Tàu, du khách có thể dễ dàng tìm thấy các xe đẩy và quầy tủ nhỏ bán món đặc sản bình dân này trên đường Hoàng Hoa Thám, Võ Thị Sáu, Ba Cu, Trương Công Định, Lê Lai…
+[Bánh mì chả cá](/article) có giá khoảng 10.000 – 15.000 đồng một ổ. Ở thành phố Vũng Tàu, du khách có thể dễ dàng tìm thấy các xe đẩy và quầy tủ nhỏ bán món đặc sản bình dân này trên đường Hoàng Hoa Thám, Võ Thị Sáu, Ba Cu, Trương Công Định, Lê Lai…
 
 ## Cà phê
 

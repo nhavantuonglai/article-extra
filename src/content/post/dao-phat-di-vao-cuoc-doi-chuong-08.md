@@ -67,21 +67,21 @@ Thực ra những chất liệu quý giá kia đã được phát sinh và nuôi
 
 Trong những năm tháng tha phương cầu thực, đứa con cùng khổ tuy mang viên ngọc quý trong áo nhưng vẫn không biết không hay. Mà dù nếu có biết rằng viên ngọc đang nằm trong túi áo nhưng không lấy được nó ra thì đứa con cũng chưa có thể gọi là thực sự giàu có. Chúng ta cũng vậy. Nếu chỉ bằng lòng với ý tưởng rằng chúng ta có viên ngọc, mà không chịu nỗ lực để làm hiển lộ nó – hiển lộ tiềm lực và khả năng đạo Phật – thì chúng ta vẫn chưa là thực sự giàu có. Và công việc đòi hỏi tất cả chúng ta – những người giữ ngọc – một thái độ khiêm tốn, một tinh thần cấp cứu, một ý chí cương quyết thực hiện. Phải trở lại với đạo Phật, phải trả đạo Phật về cho trí thức và thanh niên, phải xây dựng lại nền Phật học, phải đem nền học ấy ra áp dụng trong sinh hoạt tâm linh, áp dụng trong mọi sinh hoạt văn hóa, kinh tế, mỹ thuật, xã hội… như các nhà Phật học xưa kia đã thực hiện và đã thành công trong xã hội Lý Trần.
 
-Đọc [Đạo Phật đi vào cuộc đời, chương 01](https://nhavantuonglai.com/article/dao-phat-di-vao-cuoc-doi-chuong-01) tại đây.
+Đọc [Đạo Phật đi vào cuộc đời, chương 01](/article/dao-phat-di-vao-cuoc-doi-chuong-01) tại đây.
 
-Đọc [Đạo Phật đi vào cuộc đời, chương 02](https://nhavantuonglai.com/article/dao-phat-di-vao-cuoc-doi-chuong-02) tại đây.
+Đọc [Đạo Phật đi vào cuộc đời, chương 02](/article/dao-phat-di-vao-cuoc-doi-chuong-02) tại đây.
 
-Đọc [Đạo Phật đi vào cuộc đời, chương 03](https://nhavantuonglai.com/article/dao-phat-di-vao-cuoc-doi-chuong-03) tại đây.
+Đọc [Đạo Phật đi vào cuộc đời, chương 03](/article/dao-phat-di-vao-cuoc-doi-chuong-03) tại đây.
 
-Đọc [Đạo Phật đi vào cuộc đời, chương 04](https://nhavantuonglai.com/article/dao-phat-di-vao-cuoc-doi-chuong-04) tại đây.
+Đọc [Đạo Phật đi vào cuộc đời, chương 04](/article/dao-phat-di-vao-cuoc-doi-chuong-04) tại đây.
 
-Đọc [Đạo Phật đi vào cuộc đời, chương 05](https://nhavantuonglai.com/article/dao-phat-di-vao-cuoc-doi-chuong-05) tại đây.
+Đọc [Đạo Phật đi vào cuộc đời, chương 05](/article/dao-phat-di-vao-cuoc-doi-chuong-05) tại đây.
 
-Đọc [Đạo Phật đi vào cuộc đời, chương 06](https://nhavantuonglai.com/article/dao-phat-di-vao-cuoc-doi-chuong-06) tại đây.
+Đọc [Đạo Phật đi vào cuộc đời, chương 06](/article/dao-phat-di-vao-cuoc-doi-chuong-06) tại đây.
 
-Đọc [Đạo Phật đi vào cuộc đời, chương 07](https://nhavantuonglai.com/article/dao-phat-di-vao-cuoc-doi-chuong-07) tại đây.
+Đọc [Đạo Phật đi vào cuộc đời, chương 07](/article/dao-phat-di-vao-cuoc-doi-chuong-07) tại đây.
 
-Đọc [Đạo Phật đi vào cuộc đời, chương 08](https://nhavantuonglai.com/article/dao-phat-di-vao-cuoc-doi-chuong-08) tại đây.
+Đọc [Đạo Phật đi vào cuộc đời, chương 08](/article/dao-phat-di-vao-cuoc-doi-chuong-08) tại đây.
 
 Đọc [Đạo Phật đi vào cuộc đời, toàn tập](https://banmaixanh.vercel.app/ebook/dao-phat-di-vao-cuoc-doi.pdf) tại đây.
 

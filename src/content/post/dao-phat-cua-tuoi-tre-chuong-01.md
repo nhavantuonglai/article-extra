@@ -101,13 +101,13 @@ Những quyển sách, những quyển kinh, những bài pháp thoại, tất c
 
 Ba ngày của chúng ta đây, ba ngày mà chúng ta tập họp, sống với nhau, ngồi bên nhau, thở với nhau, đi thiền hành với nhau, chúng ta hãy tập quán chiếu để tìm ra con đường làm mới cho tổ chức của chúng ta. Tôi muốn rằng đó là một món quà mà chúng ta sẽ gửi về quê hương cho các bạn ở Việt Nam. Vậy thì trong ba ngày này chúng ta phải có mặt cho nhau, có mặt đích thực với nhau. Chúng ta phải cùng nhau bước những bước chân thiền hành cho vững chãi. Chúng ta phải cùng nhau ngồi cho thật yên, thở cho thật có ý thức, rồi với năng lượng chánh niệm, chánh định đó mà chúng ta sẽ nhìn sâu vào tình trạng của chúng ta, tình trạng của Gia Đình Phật Tử trong nước cũng như ngoài nước. Và chúng ta sẽ phát kiến ra được những cái chúng ta gọi là _tuệ giác._ Những tuệ giác đó là hoa trái của khóa tu này mà chúng ta sẽ hiến tặng cho quê hương và cho đoàn thể của chúng ta. Chúng ta phải sống sâu sắc thì món quà đó mới có giá trị. Còn nếu chúng ta chỉ sống hình thức thôi thì món quà đó tuy có mặt nhưng không có chất liệu cao như chúng ta mong ước.
 
-Đọc [Đạo Phật của tuổi trẻ, chương 01](https://nhavantuonglai.com/article/dao-phat-cua-tuoi-tre-chuong-01) tại đây.
+Đọc [Đạo Phật của tuổi trẻ, chương 01](/article/dao-phat-cua-tuoi-tre-chuong-01) tại đây.
 
-Đọc [Đạo Phật của tuổi trẻ, chương 02](https://nhavantuonglai.com/article/dao-phat-cua-tuoi-tre-chuong-02) tại đây.
+Đọc [Đạo Phật của tuổi trẻ, chương 02](/article/dao-phat-cua-tuoi-tre-chuong-02) tại đây.
 
-Đọc [Đạo Phật của tuổi trẻ, chương 03](https://nhavantuonglai.com/article/dao-phat-cua-tuoi-tre-chuong-03) tại đây.
+Đọc [Đạo Phật của tuổi trẻ, chương 03](/article/dao-phat-cua-tuoi-tre-chuong-03) tại đây.
 
-Đọc [Đạo Phật của tuổi trẻ, chương 04](https://nhavantuonglai.com/article/dao-phat-cua-tuoi-tre-chuong-04) tại đây.
+Đọc [Đạo Phật của tuổi trẻ, chương 04](/article/dao-phat-cua-tuoi-tre-chuong-04) tại đây.
 
 Đọc [Đạo Phật của tuổi trẻ, toàn tập](https://banmaixanh.vercel.app/ebook/dao-phat-cua-tuoi-tre.pdf) tại đây.
 

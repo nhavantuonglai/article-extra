@@ -19,13 +19,13 @@ _Một khi thông tin bị lộ, các hacker hoặc tội phạm mạng có th�
 
 Chuỗi bài _Phơi bày dữ liệu, thông tin cá nhân công khai – Rủi ro, khai thác và cách phòng tránh:_
 
-Bài 1: [Những rủi ro tiềm ẩn khi không bảo mật dữ liệu, thông tin cá nhân trên mạng](https://nhavantuonglai.com/article/du-lieu-ca-nhan)
+Bài 1: [Những rủi ro tiềm ẩn khi không bảo mật dữ liệu, thông tin cá nhân trên mạng](/article/du-lieu-ca-nhan)
 
-Bài 2: [Hướng dẫn khai thác dữ liệu, thông tin cá nhân từ nguồn công khai](https://nhavantuonglai.com/article/du-lieu-ca-nhan-stalk)
+Bài 2: [Hướng dẫn khai thác dữ liệu, thông tin cá nhân từ nguồn công khai](/article/du-lieu-ca-nhan-stalk)
 
-Bài 3: [6 phương pháp bảo vệ dữ liệu, thông tin cá nhân trên mạng mà bạn nên biết](https://nhavantuonglai.com/article/du-lieu-ca-nhan-bao-ve)
+Bài 3: [6 phương pháp bảo vệ dữ liệu, thông tin cá nhân trên mạng mà bạn nên biết](/article/du-lieu-ca-nhan-bao-ve)
 
-Bài 4: [10 cách bảo mật dữ liệu, thông tin cá nhân trên mạng hiệu quả nhất 2024](https://nhavantuonglai.com/article/du-lieu-ca-nhan-bao-mat)
+Bài 4: [10 cách bảo mật dữ liệu, thông tin cá nhân trên mạng hiệu quả nhất 2024](/article/du-lieu-ca-nhan-bao-mat)
 
 ### Không click vào các link lạ
 
@@ -39,7 +39,7 @@ Nếu link có vẻ đáng ngờ hoặc bạn không quen thuộc với nguồn 
 
 Việc sử dụng mật khẩu dễ đoán như _123456_ hay _abcdef_ có thể khiến tài khoản của bạn trở thành mục tiêu dễ dàng cho các cuộc tấn công. Kẻ tấn công có thể dễ dàng sử dụng các công cụ tự động để thử hàng triệu mật khẩu phổ biến và xâm nhập vào tài khoản của bạn.
 
-Để tăng cường [bảo mật dữ liệu cá nhân](https://nhavantuonglai.com/article/du-lieu-ca-nhan-bao-mat), hãy sử dụng mật khẩu phức tạp kết hợp giữa chữ cái in hoa, chữ cái thường, số và ký tự đặc biệt. Một mật khẩu tốt nên dài ít nhất 12 ký tự và không nên chứa dữ liệu, thông tin cá nhân dễ đoán như tên, ngày sinh. Nếu bạn lo lắng về việc quên mật khẩu, có thể sử dụng một ứng dụng quản lý mật khẩu để lưu trữ và bảo vệ các mật khẩu của bạn.
+Để tăng cường [bảo mật dữ liệu cá nhân](/article/du-lieu-ca-nhan-bao-mat), hãy sử dụng mật khẩu phức tạp kết hợp giữa chữ cái in hoa, chữ cái thường, số và ký tự đặc biệt. Một mật khẩu tốt nên dài ít nhất 12 ký tự và không nên chứa dữ liệu, thông tin cá nhân dễ đoán như tên, ngày sinh. Nếu bạn lo lắng về việc quên mật khẩu, có thể sử dụng một ứng dụng quản lý mật khẩu để lưu trữ và bảo vệ các mật khẩu của bạn.
 
 Các ứng dụng này không chỉ lưu mật khẩu một cách an toàn mà còn có thể tạo mật khẩu mạnh mẽ và độc đáo cho mỗi tài khoản của bạn.
 

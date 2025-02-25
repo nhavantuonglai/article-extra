@@ -25,7 +25,7 @@ Fujicolor 200 là một ví dụ điển hình về sự đổi mới trong ngà
 
 ### Từ film điện ảnh đến nhiếp ảnh đại chúng
 
-[Fujicolor 200](https://nhavantuonglai.com/article/fujicolor-200) bắt nguồn từ cuộn film điện ảnh Kodak Vision3 500T, vốn được thiết kế cho các nhà làm phim Hollywood. Quá trình chuyển đổi từ film điện ảnh sang film nhiếp ảnh đòi hỏi sự đổi mới về mặt kỹ thuật và quy trình sản xuất phức tạp. Công ty đã phải nghiên cứu và phát triển phương pháp loại bỏ lớp RemJet mà không ảnh hưởng đến các đặc tính quan trọng của film, đồng thời đảm bảo film có thể được xử lý trong các phòng tối thông thường.
+[Fujicolor 200](/article/fujicolor-200) bắt nguồn từ cuộn film điện ảnh Kodak Vision3 500T, vốn được thiết kế cho các nhà làm phim Hollywood. Quá trình chuyển đổi từ film điện ảnh sang film nhiếp ảnh đòi hỏi sự đổi mới về mặt kỹ thuật và quy trình sản xuất phức tạp. Công ty đã phải nghiên cứu và phát triển phương pháp loại bỏ lớp RemJet mà không ảnh hưởng đến các đặc tính quan trọng của film, đồng thời đảm bảo film có thể được xử lý trong các phòng tối thông thường.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/cinestill-800-t-01.jpg" alt="Fujicolor 200" height=100% width=100%><figcaption><p>Fujicolor 200</p></figcaption></figure>
 

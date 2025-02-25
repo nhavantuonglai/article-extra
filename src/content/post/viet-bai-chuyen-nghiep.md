@@ -28,7 +28,7 @@ Google, Yahoo và các công cụ tìm kiếm khác yêu thích nội dung mới
 
 Việc đăng bài blog thường xuyên không chỉ giúp bạn thu hút khách hàng tiềm năng mới và tăng chuyển đổi mà còn giúp tăng nhận diện thương hiệu và khẳng định bạn hoặc công ty của bạn như một chuyên gia trong ngành. Phần lớn khách hàng, dù là doanh nghiệp hay người tiêu dùng trực tiếp, đều nghiên cứu các sản phẩm và dịch vụ họ cần trực tuyến trước khi liên hệ với ai đó, vì vậy bạn nên bắt đầu đăng blog ngay bây giờ.
 
-Hãy đầu tư vào một [dịch vụ viết bài blog](https://nhavantuonglai.com/article/viet-bai-chuyen-nghiep) mang lại kết quả mà bạn mong muốn.
+Hãy đầu tư vào một [dịch vụ viết bài blog](/article/viet-bai-chuyen-nghiep) mang lại kết quả mà bạn mong muốn.
 
 ## Điều gì tạo nên một bài viết blog chất lượng?
 

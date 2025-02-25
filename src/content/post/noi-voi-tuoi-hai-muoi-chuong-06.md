@@ -45,21 +45,21 @@ Tìm được một người mà em cót hể yêu với một tình yêu như t
 
 Và nếu em đã sung sướng thì em hãy nghĩ đến chúng tôi, đến kẻ khác. Tình yêu của em sẽ nhờ đó mà bền vững hơn lên và chúng tôi cũng sẽ nhờ đó mà sung sướng hơn lên.
 
-Đọc [Nói với tuổi hai mươi, chương 01](https://nhavantuonglai.com/article/noi-voi-tuoi-hai-muoi-chuong-01) tại đây.
+Đọc [Nói với tuổi hai mươi, chương 01](/article/noi-voi-tuoi-hai-muoi-chuong-01) tại đây.
 
-Đọc [Nói với tuổi hai mươi, chương 02](https://nhavantuonglai.com/article/noi-voi-tuoi-hai-muoi-chuong-02) tại đây.
+Đọc [Nói với tuổi hai mươi, chương 02](/article/noi-voi-tuoi-hai-muoi-chuong-02) tại đây.
 
-Đọc [Nói với tuổi hai mươi, chương 03](https://nhavantuonglai.com/article/noi-voi-tuoi-hai-muoi-chuong-03) tại đây.
+Đọc [Nói với tuổi hai mươi, chương 03](/article/noi-voi-tuoi-hai-muoi-chuong-03) tại đây.
 
-Đọc [Nói với tuổi hai mươi, chương 04](https://nhavantuonglai.com/article/noi-voi-tuoi-hai-muoi-chuong-04) tại đây.
+Đọc [Nói với tuổi hai mươi, chương 04](/article/noi-voi-tuoi-hai-muoi-chuong-04) tại đây.
 
-Đọc [Nói với tuổi hai mươi, chương 05](https://nhavantuonglai.com/article/noi-voi-tuoi-hai-muoi-chuong-05) tại đây.
+Đọc [Nói với tuổi hai mươi, chương 05](/article/noi-voi-tuoi-hai-muoi-chuong-05) tại đây.
 
-Đọc [Nói với tuổi hai mươi, chương 06](https://nhavantuonglai.com/article/noi-voi-tuoi-hai-muoi-chuong-06) tại đây.
+Đọc [Nói với tuổi hai mươi, chương 06](/article/noi-voi-tuoi-hai-muoi-chuong-06) tại đây.
 
-Đọc [Nói với tuổi hai mươi, chương 07](https://nhavantuonglai.com/article/noi-voi-tuoi-hai-muoi-chuong-07) tại đây.
+Đọc [Nói với tuổi hai mươi, chương 07](/article/noi-voi-tuoi-hai-muoi-chuong-07) tại đây.
 
-Đọc [Nói với tuổi hai mươi, chương 08](https://nhavantuonglai.com/article/noi-voi-tuoi-hai-muoi-chuong-08) tại đây.
+Đọc [Nói với tuổi hai mươi, chương 08](/article/noi-voi-tuoi-hai-muoi-chuong-08) tại đây.
 
 Đọc [Nói với tuổi hai mươi, toàn tập](https://banmaixanh.vercel.app/ebook/noi-voi-tuoi-hai-muoi.pdf) tại đây.
 

@@ -17,7 +17,7 @@ _Viết truyện trinh thám là một nghệ thuật đòi hỏi sự tỉ mỉ
 
 ## Giới thiệu về thể loại truyện trinh thám
 
-Truyện trinh thám [kinh dị](https://nhavantuonglai.com/article) là một thể loại văn học tập trung vào việc giải quyết các bí ẩn, thường liên quan đến tội phạm hoặc các vụ án khó hiểu. Những câu chuyện này đòi hỏi sự logic, tư duy phản biện và kỹ năng giải quyết vấn đề của nhân vật chính, thường là một thám tử hoặc nhà điều tra tài ba.
+Truyện trinh thám [kinh dị](/article) là một thể loại văn học tập trung vào việc giải quyết các bí ẩn, thường liên quan đến tội phạm hoặc các vụ án khó hiểu. Những câu chuyện này đòi hỏi sự logic, tư duy phản biện và kỹ năng giải quyết vấn đề của nhân vật chính, thường là một thám tử hoặc nhà điều tra tài ba.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-065.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
@@ -115,7 +115,7 @@ Truyện trinh thám [kinh dị](https://nhavantuonglai.com/article) là một t
 
 – Nghiên cứu và học hỏi từ các tác giả trinh thám nổi tiếng: Đọc và phân tích cách họ xây dựng cốt truyện, nhân vật và bầu không khí.
 
-– Tham gia cộng đồng viết lách: Tham gia các [cộng đồng viết lách](https://nhavantuonglai.com/article), [diễn đàn viết lách](https://nhavantuonglai.com/article) và [Khóa học viết blog](https://nhavantuonglai.com/article) để nhận được phản hồi và cải thiện kỹ năng.
+– Tham gia cộng đồng viết lách: Tham gia các [cộng đồng viết lách](/article), [diễn đàn viết lách](/article) và [Khóa học viết blog](/article) để nhận được phản hồi và cải thiện kỹ năng.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-070.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 

@@ -103,13 +103,13 @@ Bán hàng qua gợi ý được phân tích từ phần mềm quản lý Spa l�
 
 ### Tìm hiểu thêm:
 
-– [Tại sao nên quản lý spa bằng phần mềm?](https://nhavantuonglai.com/article)
+– [Tại sao nên quản lý spa bằng phần mềm?](/article)
 
-– [Mở tiệm Spa nhỏ cần bao nhiêu tiền?](https://nhavantuonglai.com/article)
+– [Mở tiệm Spa nhỏ cần bao nhiêu tiền?](/article)
 
-– [Phần mềm quản lý Spa là gì? Làm thế nào để chọn phần mềm phù hợp cho cơ sở kinh doanh của bạn?](https://nhavantuonglai.com/article)
+– [Phần mềm quản lý Spa là gì? Làm thế nào để chọn phần mềm phù hợp cho cơ sở kinh doanh của bạn?](/article)
 
-– [Những câu hỏi thường gặp về Phần mềm quản lý tiệm Spa](https://nhavantuonglai.com/article)
+– [Những câu hỏi thường gặp về Phần mềm quản lý tiệm Spa](/article)
 
 ### Marketing thương hiệu
 

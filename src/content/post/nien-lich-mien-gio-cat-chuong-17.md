@@ -41,47 +41,47 @@ Anh ta liệt kê một danh sách dài các loài gây hại cho vườn tượ
 
 Cũng giống như với loài cá chép, sáo đá, hay cây hoa kế Nga, những vùng bị cỏ lúa mì xâm lấn buộc phải tiếp nhận và tìm ra những giá trị hữu ích của kẻ xâm phạm này. Những cọng cỏ lúa mì non vẫn là nguồn thức ăn ẳ cho gia súc (con cừu mà bạn vừa xẻ thịt chắc hẳn đã gặm bông cỏ lúa mì trong những ngày đầu xuân mơn mởn), cỏ lúa mì cũng giảm xói mòn đất sau khi bầy gia súc càn quét những cánh đồng. (Vòng tròn sinh thái luẩn quẩn này đủ khiến cho chúng ta suy ngẫm.) Tôi vẫn lắng nghe cẩn thận để xem phương Tây đã học cách _sống chung với lũ_ và chấp nhận cỏ lúa mì, hay họ vẫn đang coi nó như một thử thách cần loại bỏ, nhằm chuộc lại những lỗi lầm trước kia trong việc sử dụng đất đai. Và tôi nhận thấy ai ai cũng đều tuyệt vọng bế tắc. Và cho đến nay, chúng ta vẫn chưa hề tỏ ra tự hào về việc canh tác và thuần hóa những cây những con hoang dã, hay xấu hổ trong việc sở hữu một mảnh đất cằn cỗi suy kiệt. Chúng ta khoe khoang trong các phòng hội thảo hay các ban biên tập về xây cối xay gió để bảo toàn năng lượng, nhưng khi ra ngoài thì chúng ta thậm chí còn chối là mình sở hữu một cái cuốc hay cây lao.
 
-Đọc [Niên lịch miền gió cát, chương 01](https://nhavantuonglai.com/article/nien-lich-mien-gio-cat-chuong-01) tại đây.
+Đọc [Niên lịch miền gió cát, chương 01](/article/nien-lich-mien-gio-cat-chuong-01) tại đây.
 
-Đọc [Niên lịch miền gió cát, chương 02](https://nhavantuonglai.com/article/nien-lich-mien-gio-cat-chuong-02) tại đây.
+Đọc [Niên lịch miền gió cát, chương 02](/article/nien-lich-mien-gio-cat-chuong-02) tại đây.
 
-Đọc [Niên lịch miền gió cát, chương 03](https://nhavantuonglai.com/article/nien-lich-mien-gio-cat-chuong-03) tại đây.
+Đọc [Niên lịch miền gió cát, chương 03](/article/nien-lich-mien-gio-cat-chuong-03) tại đây.
 
-Đọc [Niên lịch miền gió cát, chương 04](https://nhavantuonglai.com/article/nien-lich-mien-gio-cat-chuong-04) tại đây.
+Đọc [Niên lịch miền gió cát, chương 04](/article/nien-lich-mien-gio-cat-chuong-04) tại đây.
 
-Đọc [Niên lịch miền gió cát, chương 05](https://nhavantuonglai.com/article/nien-lich-mien-gio-cat-chuong-05) tại đây.
+Đọc [Niên lịch miền gió cát, chương 05](/article/nien-lich-mien-gio-cat-chuong-05) tại đây.
 
-Đọc [Niên lịch miền gió cát, chương 06](https://nhavantuonglai.com/article/nien-lich-mien-gio-cat-chuong-06) tại đây.
+Đọc [Niên lịch miền gió cát, chương 06](/article/nien-lich-mien-gio-cat-chuong-06) tại đây.
 
-Đọc [Niên lịch miền gió cát, chương 07](https://nhavantuonglai.com/article/nien-lich-mien-gio-cat-chuong-07) tại đây.
+Đọc [Niên lịch miền gió cát, chương 07](/article/nien-lich-mien-gio-cat-chuong-07) tại đây.
 
-Đọc [Niên lịch miền gió cát, chương 09](https://nhavantuonglai.com/article/nien-lich-mien-gio-cat-chuong-09) tại đây.
+Đọc [Niên lịch miền gió cát, chương 09](/article/nien-lich-mien-gio-cat-chuong-09) tại đây.
 
-Đọc [Niên lịch miền gió cát, chương 10](https://nhavantuonglai.com/article/nien-lich-mien-gio-cat-chuong-10) tại đây.
+Đọc [Niên lịch miền gió cát, chương 10](/article/nien-lich-mien-gio-cat-chuong-10) tại đây.
 
-Đọc [Niên lịch miền gió cát, chương 11](https://nhavantuonglai.com/article/nien-lich-mien-gio-cat-chuong-11) tại đây.
+Đọc [Niên lịch miền gió cát, chương 11](/article/nien-lich-mien-gio-cat-chuong-11) tại đây.
 
-Đọc [Niên lịch miền gió cát, chương 12](https://nhavantuonglai.com/article/nien-lich-mien-gio-cat-chuong-12) tại đây.
+Đọc [Niên lịch miền gió cát, chương 12](/article/nien-lich-mien-gio-cat-chuong-12) tại đây.
 
-Đọc [Niên lịch miền gió cát, chương 13](https://nhavantuonglai.com/article/nien-lich-mien-gio-cat-chuong-13) tại đây.
+Đọc [Niên lịch miền gió cát, chương 13](/article/nien-lich-mien-gio-cat-chuong-13) tại đây.
 
-Đọc [Niên lịch miền gió cát, chương 14](https://nhavantuonglai.com/article/nien-lich-mien-gio-cat-chuong-14) tại đây.
+Đọc [Niên lịch miền gió cát, chương 14](/article/nien-lich-mien-gio-cat-chuong-14) tại đây.
 
-Đọc [Niên lịch miền gió cát, chương 15](https://nhavantuonglai.com/article/nien-lich-mien-gio-cat-chuong-15) tại đây.
+Đọc [Niên lịch miền gió cát, chương 15](/article/nien-lich-mien-gio-cat-chuong-15) tại đây.
 
-Đọc [Niên lịch miền gió cát, chương 16](https://nhavantuonglai.com/article/nien-lich-mien-gio-cat-chuong-16) tại đây.
+Đọc [Niên lịch miền gió cát, chương 16](/article/nien-lich-mien-gio-cat-chuong-16) tại đây.
 
-Đọc [Niên lịch miền gió cát, chương 17](https://nhavantuonglai.com/article/nien-lich-mien-gio-cat-chuong-17) tại đây.
+Đọc [Niên lịch miền gió cát, chương 17](/article/nien-lich-mien-gio-cat-chuong-17) tại đây.
 
-Đọc [Niên lịch miền gió cát, chương 18](https://nhavantuonglai.com/article/nien-lich-mien-gio-cat-chuong-18) tại đây.
+Đọc [Niên lịch miền gió cát, chương 18](/article/nien-lich-mien-gio-cat-chuong-18) tại đây.
 
-Đọc [Niên lịch miền gió cát, chương 19](https://nhavantuonglai.com/article/nien-lich-mien-gio-cat-chuong-19) tại đây.
+Đọc [Niên lịch miền gió cát, chương 19](/article/nien-lich-mien-gio-cat-chuong-19) tại đây.
 
-Đọc [Niên lịch miền gió cát, chương 20](https://nhavantuonglai.com/article/nien-lich-mien-gio-cat-chuong-20) tại đây.
+Đọc [Niên lịch miền gió cát, chương 20](/article/nien-lich-mien-gio-cat-chuong-20) tại đây.
 
-Đọc [Niên lịch miền gió cát, chương 21](https://nhavantuonglai.com/article/nien-lich-mien-gio-cat-chuong-21) tại đây.
+Đọc [Niên lịch miền gió cát, chương 21](/article/nien-lich-mien-gio-cat-chuong-21) tại đây.
 
-Đọc [Niên lịch miền gió cát, chương 22](https://nhavantuonglai.com/article/nien-lich-mien-gio-cat-chuong-22) tại đây.
+Đọc [Niên lịch miền gió cát, chương 22](/article/nien-lich-mien-gio-cat-chuong-22) tại đây.
 
 Đọc [Niên lịch miền gió cát, toàn tập](https://banmaixanh.vercel.app/ebook/nien-lich-mien-gio-cat.pdf) tại đây.
 

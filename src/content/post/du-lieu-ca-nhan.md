@@ -19,13 +19,13 @@ _Một khi thông tin bị lộ, các hacker hoặc tội phạm mạng có th�
 
 Chuỗi bài _Phơi bày dữ liệu, thông tin cá nhân công khai – Rủi ro, khai thác và cách phòng tránh:_
 
-Bài 1: [Những rủi ro tiềm ẩn khi không bảo mật dữ liệu, thông tin cá nhân trên mạng](https://nhavantuonglai.com/article/du-lieu-ca-nhan)
+Bài 1: [Những rủi ro tiềm ẩn khi không bảo mật dữ liệu, thông tin cá nhân trên mạng](/article/du-lieu-ca-nhan)
 
-Bài 2: [Hướng dẫn khai thác dữ liệu, thông tin cá nhân từ nguồn công khai](https://nhavantuonglai.com/article/du-lieu-ca-nhan-stalk)
+Bài 2: [Hướng dẫn khai thác dữ liệu, thông tin cá nhân từ nguồn công khai](/article/du-lieu-ca-nhan-stalk)
 
-Bài 3: [6 phương pháp bảo vệ dữ liệu, thông tin cá nhân trên mạng mà bạn nên biết](https://nhavantuonglai.com/article/du-lieu-ca-nhan-bao-ve)
+Bài 3: [6 phương pháp bảo vệ dữ liệu, thông tin cá nhân trên mạng mà bạn nên biết](/article/du-lieu-ca-nhan-bao-ve)
 
-Bài 4: [10 cách bảo mật dữ liệu, thông tin cá nhân trên mạng hiệu quả nhất 2024](https://nhavantuonglai.com/article/du-lieu-ca-nhan-bao-mat)
+Bài 4: [10 cách bảo mật dữ liệu, thông tin cá nhân trên mạng hiệu quả nhất 2024](/article/du-lieu-ca-nhan-bao-mat)
 
 ## Dữ liệu, thông tin cá nhân bị lộ qua những nguồn nào?
 
@@ -51,7 +51,7 @@ Bên cạnh đó, các nền tảng tài chính trực tuyến cũng có thể b
 
 Một trong những cách thức phổ biến mà dữ liệu, thông tin cá nhân bị lộ trên mạng là qua việc mua bán dữ liệu trái phép.
 
-Trên thị trường chợ đen, dữ liệu, thông tin cá nhân như tên, địa chỉ, số điện thoại, và thậm chí là thông tin tài chính của hàng triệu người dùng được giao dịch như một loại hàng hóa. Những thông tin này có thể được thu thập từ nhiều nguồn khác nhau, bao gồm việc hacker tấn công vào các hệ thống lưu trữ dữ liệu, hoặc từ các công ty không tuân thủ nghiêm ngặt các quy định [bảo mật dữ liệu cá nhân](https://nhavantuonglai.com/article/du-lieu-ca-nhan).
+Trên thị trường chợ đen, dữ liệu, thông tin cá nhân như tên, địa chỉ, số điện thoại, và thậm chí là thông tin tài chính của hàng triệu người dùng được giao dịch như một loại hàng hóa. Những thông tin này có thể được thu thập từ nhiều nguồn khác nhau, bao gồm việc hacker tấn công vào các hệ thống lưu trữ dữ liệu, hoặc từ các công ty không tuân thủ nghiêm ngặt các quy định [bảo mật dữ liệu cá nhân](/article/du-lieu-ca-nhan).
 
 Mua bán dữ liệu không chỉ là một hành vi phi pháp mà còn gây ra những hậu quả nghiêm trọng cho người bị hại, khi dữ liệu, thông tin cá nhân của họ bị sử dụng vào các mục đích xấu như lừa đảo, tống tiền, hoặc thậm chí là mạo danh để thực hiện các hành vi phạm pháp. Điều này đặt ra một thách thức lớn cho cả người dùng và các cơ quan quản lý trong việc bảo vệ dữ liệu, thông tin cá nhân.
 

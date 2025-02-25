@@ -15,7 +15,7 @@ tags:
 
 _Viết lách là một kỹ năng quan trọng trong cuộc sống hiện đại, không chỉ cho những người làm nghề viết, mà còn cho bất kỳ ai muốn giao tiếp hiệu quả, sáng tạo và tự tin. Tuy nhiên, viết lách không phải là một việc dễ dàng, đòi hỏi sự kiên nhẫn, tập trung và luyện tập thường xuyên. Vậy làm thế nào để viết lách trở thành thói quen? Dưới đây là một số gợi ý bạn có thể tham khảo._
 
-Chuỗi bài viết [Làm chủ nghệ thuật viết lách](https://nhavantuonglai.com/tags/lam-chu-nghe-thuat-viet-lach) là những hướng dẫn căn bản giúp bạn làm chủ kỹ năng viết lách của bản thân.
+Chuỗi bài viết [Làm chủ nghệ thuật viết lách](/tags/lam-chu-nghe-thuat-viet-lach) là những hướng dẫn căn bản giúp bạn làm chủ kỹ năng viết lách của bản thân.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-072.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
@@ -23,7 +23,7 @@ Chuỗi bài viết [Làm chủ nghệ thuật viết lách](https://nhavantuong
 
 Bạn viết lách vì muốn gì? Bạn muốn cải thiện kỹ năng viết của mình như thế nào? Bạn muốn viết về những chủ đề gì? Bạn muốn đạt được những kết quả gì khi viết lách? Khi bạn có một mục tiêu và một lý do rõ ràng, bạn sẽ có động lực và hướng dẫn cho quá trình viết lách của mình.
 
-[Viết lách](https://nhavantuonglai.com/tags/viet-lach) là một hoạt động sáng tạo và thú vị, nhưng cũng đòi hỏi sự có mục đích và có kế hoạch. Khi bạn viết lách, bạn nên xác định mục tiêu của mình là gì, để bạn có thể hướng tới nó một cách rõ ràng và hiệu quả. Để xác định mục tiêu hiệu quả khi viết lách, bạn có thể áp dụng phương pháp SMART, bao gồm:
+[Viết lách](/tags/viet-lach) là một hoạt động sáng tạo và thú vị, nhưng cũng đòi hỏi sự có mục đích và có kế hoạch. Khi bạn viết lách, bạn nên xác định mục tiêu của mình là gì, để bạn có thể hướng tới nó một cách rõ ràng và hiệu quả. Để xác định mục tiêu hiệu quả khi viết lách, bạn có thể áp dụng phương pháp SMART, bao gồm:
 
 – Specific (Cụ thể): Mục tiêu của bạn nên là cụ thể và rõ ràng, không nên là chung chung hoặc mơ hồ. Bạn nên trả lời được các câu hỏi: Bạn muốn viết gì? Bạn muốn viết cho ai? Bạn muốn viết với mục đích gì?
 
@@ -39,9 +39,9 @@ Bạn viết lách vì muốn gì? Bạn muốn cải thiện kỹ năng viết 
 
 ## Tạo một kế hoạch và lịch trình cho việc viết lách
 
-Bạn nên xác định trước thời gian, địa điểm và phương pháp để [cải thiện kỹ năng viết lách](https://nhavantuonglai.com/article) của mình. Bạn nên chọn một thời điểm trong ngày mà bạn cảm thấy thoải mái và sẵn sàng để viết lách, có thể là sáng sớm, chiều tối hoặc bất kỳ khi nào bạn có thời gian rảnh. Bạn nên chọn một địa điểm yên tĩnh và thoải mái để viết lách, có thể là phòng làm việc, phòng ngủ hoặc quán cà phê. Bạn nên chọn một phương pháp viết lách phù hợp với phong cách và sở thích của mình, có thể là viết tay, đánh máy hoặc dùng giọng nói.
+Bạn nên xác định trước thời gian, địa điểm và phương pháp để [cải thiện kỹ năng viết lách](/article) của mình. Bạn nên chọn một thời điểm trong ngày mà bạn cảm thấy thoải mái và sẵn sàng để viết lách, có thể là sáng sớm, chiều tối hoặc bất kỳ khi nào bạn có thời gian rảnh. Bạn nên chọn một địa điểm yên tĩnh và thoải mái để viết lách, có thể là phòng làm việc, phòng ngủ hoặc quán cà phê. Bạn nên chọn một phương pháp viết lách phù hợp với phong cách và sở thích của mình, có thể là viết tay, đánh máy hoặc dùng giọng nói.
 
-[Kỹ năng viết lách](https://nhavantuonglai.com/article) là một công việc đòi hỏi sự có mục đích và có kế hoạch. Nếu bạn chỉ viết lách khi có hứng thú hoặc khi có thời gian rảnh, bạn sẽ khó có thể duy trì và cải thiện kỹ năng viết của mình. Do đó, bạn nên tạo một kế hoạch và lịch trình cho việc viết lách, để bạn có thể theo dõi tiến trình và kết quả của mình. Dưới đây là một số bước để tạo một kế hoạch và lịch trình cho việc viết lách:
+[Kỹ năng viết lách](/article) là một công việc đòi hỏi sự có mục đích và có kế hoạch. Nếu bạn chỉ viết lách khi có hứng thú hoặc khi có thời gian rảnh, bạn sẽ khó có thể duy trì và cải thiện kỹ năng viết của mình. Do đó, bạn nên tạo một kế hoạch và lịch trình cho việc viết lách, để bạn có thể theo dõi tiến trình và kết quả của mình. Dưới đây là một số bước để tạo một kế hoạch và lịch trình cho việc viết lách:
 
 – Xác định mục tiêu và lý do của bạn khi viết lách. Bạn nên biết rõ bạn viết lách vì muốn gì, bạn muốn cải thiện kỹ năng viết của mình như thế nào, bạn muốn viết về những chủ đề gì, bạn muốn đạt được những kết quả gì khi viết lách. Khi bạn có một mục tiêu và một lý do rõ ràng, bạn sẽ có động lực và hướng dẫn cho quá trình viết lách của mình.
 
@@ -65,7 +65,7 @@ Sau khi bạn đã tạo một kế hoạch và lịch trình cho việc viết 
 
 – Nghiên cứu và thu thập thông tin cho bài viết của bạn. Bạn nên tìm kiếm và thu thập các thông tin liên quan đến chủ đề và từ khóa của bạn từ nhiều nguồn khác nhau, như internet, sách báo, cuộc sống xung quanh… Bạn nên kiểm tra tính xác thực và cập nhật của các thông tin mà bạn sử dụng, và ghi lại nguồn gốc của chúng. Bạn nên sắp xếp và phân loại các thông tin theo các tiêu chí như: Mục đích, ý nghĩa, chi tiết, ví dụ…
 
-– Soạn thảo và [biên tập bài viết](https://nhavantuonglai.com/article/viet-lach-say-sua) của bạn. Bạn nên dựa vào các thông tin mà bạn đã thu thập, để soạn thảo bài viết của bạn theo một cấu trúc rõ ràng và hợp lý. Bạn nên chia bài viết của bạn thành các phần như: Tiêu đề, giới thiệu, thân bài, kết luận… Bạn nên sử dụng các từ khóa chính và từ khóa dài một cách tự nhiên và hợp lý trong bài viết của bạn, để tối ưu cho công cụ tìm kiếm. Bạn nên biên tập lại bài viết của bạn để kiểm tra và sửa lại các lỗi chính tả, ngữ pháp, câu chữ… Bạn nên đọc lại bài viết của bạn để đảm bảo rằng nó có thể truyền đạt được ý định tìm kiếm của người dùng.
+– Soạn thảo và [biên tập bài viết](/article/viet-lach-say-sua) của bạn. Bạn nên dựa vào các thông tin mà bạn đã thu thập, để soạn thảo bài viết của bạn theo một cấu trúc rõ ràng và hợp lý. Bạn nên chia bài viết của bạn thành các phần như: Tiêu đề, giới thiệu, thân bài, kết luận… Bạn nên sử dụng các từ khóa chính và từ khóa dài một cách tự nhiên và hợp lý trong bài viết của bạn, để tối ưu cho công cụ tìm kiếm. Bạn nên biên tập lại bài viết của bạn để kiểm tra và sửa lại các lỗi chính tả, ngữ pháp, câu chữ… Bạn nên đọc lại bài viết của bạn để đảm bảo rằng nó có thể truyền đạt được ý định tìm kiếm của người dùng.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-075.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
@@ -77,10 +77,10 @@ Một cách hiệu quả để học hỏi và cải thiện kỹ năng viết l
 
 – Chọn tác phẩm văn chương phù hợp với mục đích và sở thích của bạn. Bạn nên chọn những tác phẩm văn chương liên quan đến chủ đề hoặc thể loại mà bạn muốn viết về, hoặc những tác phẩm văn chương của những tác giả mà bạn ngưỡng mộ hoặc muốn học hỏi. Bạn nên chọn những tác phẩm văn chương có chất lượng và uy tín, được nhiều người đánh giá cao hoặc được công nhận là những kiệt tác.
 
-– Đọc kỹ và cẩn thận [tác phẩm văn chương](https://nhavantuonglai.com/article) mà bạn đã chọn. Bạn nên đọc tác phẩm văn chương mà bạn đã chọn một cách kỹ lưỡng và cẩn thận, để có thể hiểu được nội dung, ý nghĩa, thông điệp và cảm xúc mà tác giả muốn truyền đạt. Bạn nên đọc tác phẩm văn chương một cách chủ động và tư duy phản biện, không chỉ tiếp thu mà còn phản hồi và đặt câu hỏi cho bản thân.
+– Đọc kỹ và cẩn thận [tác phẩm văn chương](/article) mà bạn đã chọn. Bạn nên đọc tác phẩm văn chương mà bạn đã chọn một cách kỹ lưỡng và cẩn thận, để có thể hiểu được nội dung, ý nghĩa, thông điệp và cảm xúc mà tác giả muốn truyền đạt. Bạn nên đọc tác phẩm văn chương một cách chủ động và tư duy phản biện, không chỉ tiếp thu mà còn phản hồi và đặt câu hỏi cho bản thân.
 
 – Phân tích các yếu tố văn học trong tác phẩm văn chương mà bạn đã đọc. Bạn nên phân tích các yếu tố văn học trong tác phẩm văn chương mà bạn đã đọc, để có thể nhận ra những kỹ thuật và phong cách viết của tác giả. Bạn nên phân tích các yếu tố văn học như: Cấu trúc, ngôn ngữ, góc nhìn, nhân vật, mô tả, hình ảnh, biểu tượng, so sánh, nghịch lý…
 
-– So sánh và đánh giá [tác phẩm văn chương](https://nhavantuonglai.com/article) mà bạn đã đọc. Bạn nên so sánh và đánh giá tác phẩm văn chương mà bạn đã đọc, để có thể nhận ra những điểm mạnh và điểm yếu của nó, cũng như những ưu điểm và nhược điểm của kỹ thuật và phong cách viết của tác giả. Bạn nên so sánh và đánh giá tác phẩm văn chương dựa trên các tiêu chí như: Mục đích, ý nghĩa, thông điệp, cảm xúc, sự thuyết phục, sự sáng tạo, sự mới lạ…
+– So sánh và đánh giá [tác phẩm văn chương](/article) mà bạn đã đọc. Bạn nên so sánh và đánh giá tác phẩm văn chương mà bạn đã đọc, để có thể nhận ra những điểm mạnh và điểm yếu của nó, cũng như những ưu điểm và nhược điểm của kỹ thuật và phong cách viết của tác giả. Bạn nên so sánh và đánh giá tác phẩm văn chương dựa trên các tiêu chí như: Mục đích, ý nghĩa, thông điệp, cảm xúc, sự thuyết phục, sự sáng tạo, sự mới lạ…
 
 <figure><img src="https://banmaixanh.vercel.app/image/cover/001-610.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

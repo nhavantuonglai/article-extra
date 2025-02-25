@@ -137,23 +137,23 @@ Hạnh phúc tới từ nhiều phương. Nếu bạn có quan niệm nó chỉ 
 
 Một quốc gia cũng có thể tin rằng chỉ có một con đường để cho nước giàu dân mạnh. Quốc gia và dân tộc đó có thể tự buộc mình vào một chủ thuyết hàng trăm năm hay nhiều hơn. Trong khi đó, người dân phải chịu nhiều đau khổ. Ai bất đồng ý kiến hay nói ngược với chính phủ liền bị cầm tù. Họ cũng có thể bị cho là điên rồ. Bạn có thể biến xứ sở của bạn thành một nhà tù nếu bạn bị kẹt vào một chủ nghĩa. Xin nhớ rằng quan niệm về hạnh phúc của bạn có thể rất nguy hiểm. Bụt dạy hạnh phúc chỉ có mặt bây giờ và ở đây. Vậy, ta nên cần nhìn lại và coi xét cho kỹ các quan niệm về hạnh phúc của mình. Bạn có thể nhận ra rằng các điều kiện của hạnh phúc bạn đang có trong đời là đầy đủ rồi. Vậy là bạn sẽ có hạnh phúc ngay lập tức.
 
-Đọc [Không diệt không sinh không sợ hãi, chương 01](https://nhavantuonglai.com/article/khong-diet-khong-sinh-dung-so-hai-chuong-01) tại đây.
+Đọc [Không diệt không sinh không sợ hãi, chương 01](/article/khong-diet-khong-sinh-dung-so-hai-chuong-01) tại đây.
 
-Đọc [Không diệt không sinh không sợ hãi, chương 02](https://nhavantuonglai.com/article/khong-diet-khong-sinh-dung-so-hai-chuong-02) tại đây.
+Đọc [Không diệt không sinh không sợ hãi, chương 02](/article/khong-diet-khong-sinh-dung-so-hai-chuong-02) tại đây.
 
-Đọc [Không diệt không sinh không sợ hãi, chương 03](https://nhavantuonglai.com/article/khong-diet-khong-sinh-dung-so-hai-chuong-03) tại đây.
+Đọc [Không diệt không sinh không sợ hãi, chương 03](/article/khong-diet-khong-sinh-dung-so-hai-chuong-03) tại đây.
 
-Đọc [Không diệt không sinh không sợ hãi, chương 04](https://nhavantuonglai.com/article/khong-diet-khong-sinh-dung-so-hai-chuong-04) tại đây.
+Đọc [Không diệt không sinh không sợ hãi, chương 04](/article/khong-diet-khong-sinh-dung-so-hai-chuong-04) tại đây.
 
-Đọc [Không diệt không sinh không sợ hãi, chương 05](https://nhavantuonglai.com/article/khong-diet-khong-sinh-dung-so-hai-chuong-05) tại đây.
+Đọc [Không diệt không sinh không sợ hãi, chương 05](/article/khong-diet-khong-sinh-dung-so-hai-chuong-05) tại đây.
 
-Đọc [Không diệt không sinh không sợ hãi, chương 06](https://nhavantuonglai.com/article/khong-diet-khong-sinh-dung-so-hai-chuong-06) tại đây.
+Đọc [Không diệt không sinh không sợ hãi, chương 06](/article/khong-diet-khong-sinh-dung-so-hai-chuong-06) tại đây.
 
-Đọc [Không diệt không sinh không sợ hãi, chương 07](https://nhavantuonglai.com/article/khong-diet-khong-sinh-dung-so-hai-chuong-07) tại đây.
+Đọc [Không diệt không sinh không sợ hãi, chương 07](/article/khong-diet-khong-sinh-dung-so-hai-chuong-07) tại đây.
 
-Đọc [Không diệt không sinh không sợ hãi, chương 08](https://nhavantuonglai.com/article/khong-diet-khong-sinh-dung-so-hai-chuong-08) tại đây.
+Đọc [Không diệt không sinh không sợ hãi, chương 08](/article/khong-diet-khong-sinh-dung-so-hai-chuong-08) tại đây.
 
-Đọc [Không diệt không sinh không sợ hãi, chương 09](https://nhavantuonglai.com/article/khong-diet-khong-sinh-dung-so-hai-chuong-09) tại đây.
+Đọc [Không diệt không sinh không sợ hãi, chương 09](/article/khong-diet-khong-sinh-dung-so-hai-chuong-09) tại đây.
 
 Đọc [Không diệt không sinh không sợ hãi, toàn tập](https://banmaixanh.vercel.app/ebook/khong-diet-khong-sinh-dung-so-hai.pdf) tại đây.
 

@@ -15,7 +15,7 @@ Quảng Ninh có biên giới trên đất liền và hải phận giáp với T
 
 ## Mùa du lịch
 
-Quảng Ninh có bốn mùa, tùy vùng mà bạn chọn thời điểm du lịch cho phù hợp. Nếu xuất hành du xuân đầu năm, Quảng Ninh là lựa chọn lý tưởng với rất nhiều điểm du lịch tâm linh. Hè mát mẻ thích hợp cho những chuyến nghỉ dưỡng trên vịnh song đây cũng là mùa cao điểm du lịch, giá cả dịch vụ có thể tăng. Thời tiết mùa thu thích hợp để trekking, vãn cảnh. Mùa đông khô hanh, nhưng bạn hoàn toàn có thể cân nhắc tới một [kỳ nghỉ trái mùa trên du thuyền](https://nhavantuonglai.com/article) hoặc [săn băng giá](https://nhavantuonglai.com/article).
+Quảng Ninh có bốn mùa, tùy vùng mà bạn chọn thời điểm du lịch cho phù hợp. Nếu xuất hành du xuân đầu năm, Quảng Ninh là lựa chọn lý tưởng với rất nhiều điểm du lịch tâm linh. Hè mát mẻ thích hợp cho những chuyến nghỉ dưỡng trên vịnh song đây cũng là mùa cao điểm du lịch, giá cả dịch vụ có thể tăng. Thời tiết mùa thu thích hợp để trekking, vãn cảnh. Mùa đông khô hanh, nhưng bạn hoàn toàn có thể cân nhắc tới một [kỳ nghỉ trái mùa trên du thuyền](/article) hoặc [săn băng giá](/article).
 
 ## Di chuyển
 
@@ -39,7 +39,7 @@ Toàn bộ vịnh có gần 2.000 đảo đá vôi, trong đó có khoảng 900 
 
 Vịnh Bái Tử Long
 
-[Vịnh Bái Tử Long](https://nhavantuonglai.com/article) cuốn hút du khách bởi các hòn đảo đá sừng sững bao bọc, ánh đèn lấp lánh từ xa của những chiếc đò nhỏ và những làn gió mát rượi. Trải nghiệm ngủ đêm trên du thuyền giữa vịnh giúp bạn thư giãn đồng thời tĩnh tâm tận hưởng cảnh đẹp hiếm có.
+[Vịnh Bái Tử Long](/article) cuốn hút du khách bởi các hòn đảo đá sừng sững bao bọc, ánh đèn lấp lánh từ xa của những chiếc đò nhỏ và những làn gió mát rượi. Trải nghiệm ngủ đêm trên du thuyền giữa vịnh giúp bạn thư giãn đồng thời tĩnh tâm tận hưởng cảnh đẹp hiếm có.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/du-lich-quang-ninh-536.jpg" alt="cam-nang-du-lich-quang-ninh" height=100% width=100%><figcaption><p>cam-nang-du-lich-quang-ninh-nhavantuonglai</p></figcaption></figure>
 
@@ -57,11 +57,11 @@ Nếu tìm một bãi biển còn còn hoang sơ để nghỉ dưỡng, hãy ch�
 
 Đảo Cái Chiên
 
-[Đảo Cái Chiên](https://nhavantuonglai.com/article) khá hoang sơ với bãi cát dài trắng mịn, bao quanh là hàng phi lao xanh rì ngút tầm mắt. Với diện tích trên 500 ha rừng nguyên sinh, đây là nơi cư ngụ của rất nhiều loài chim, thú rừng.
+[Đảo Cái Chiên](/article) khá hoang sơ với bãi cát dài trắng mịn, bao quanh là hàng phi lao xanh rì ngút tầm mắt. Với diện tích trên 500 ha rừng nguyên sinh, đây là nơi cư ngụ của rất nhiều loài chim, thú rừng.
 
 Đảo Ngọc Vừng
 
-[Đảo Ngọc Vừng](https://nhavantuonglai.com/article) thuộc huyện Vân Đồn, Quảng Ninh, rộng khoảng 45 km vuông. Sở dĩ đảo có tên này vì tương truyền, khu vực này xưa kia có nhiều loài trai ngọc quý hiếm, đêm đêm phát sáng cả một vùng trời. Ngày nay, nghề nuôi trai lấy ngọc ở đây phát triển mạnh.
+[Đảo Ngọc Vừng](/article) thuộc huyện Vân Đồn, Quảng Ninh, rộng khoảng 45 km vuông. Sở dĩ đảo có tên này vì tương truyền, khu vực này xưa kia có nhiều loài trai ngọc quý hiếm, đêm đêm phát sáng cả một vùng trời. Ngày nay, nghề nuôi trai lấy ngọc ở đây phát triển mạnh.
 
 Ngọc Vừng còn có Bãi cát Trường Chinh, Thành cổ Nhà Mạc, Trận địa pháo 12 ly 7 – nơi bắn rơi chiếc máy bay thứ 200 của giặc Mỹ trên bầu trời Miền Bắc những năm chống chiến tranh phá hoại của đế quốc Mỹ, Cột cờ Quốc gia trên đảo Ngọc Vừng… Ngoài ra là hệ thống đảo đá có cảnh quan đẹp, hoang sơ, có tiềm năng lớn phát triển du lịch biển là đảo Phượng Hoàng, Đất Nứt, Hạ Mai, Vạn Cảnh…
 
@@ -107,7 +107,7 @@ Tuy cực Đông của Việt Nam ở tận mũi Điện (Phú Yên), nhưng mũ
 
 Cửa khẩu Quốc tế Móng Cái
 
-[Thành phố Móng Cái](https://nhavantuonglai.com/article) nơi có [cửa khẩu](https://nhavantuonglai.com/article) giao thương với Trung Quốc được xây dựng đầu tiên của Việt Nam. Cửa khẩu Móng Cái là điểm du lịch nổi tiếng ở Quảng Ninh, nhất là với những người yêu thích mua sắm. Nơi đây lúc nào cũng nhộn nhịp những chuyến tàu chở hàng hóa ngược xuôi, tấp nập người mua kẻ bán với đủ mặt hàng, nào vải vóc, quần áo, giày dép, nào đồ điện tử, đồ gia dụng.
+[Thành phố Móng Cái](/article) nơi có [cửa khẩu](/article) giao thương với Trung Quốc được xây dựng đầu tiên của Việt Nam. Cửa khẩu Móng Cái là điểm du lịch nổi tiếng ở Quảng Ninh, nhất là với những người yêu thích mua sắm. Nơi đây lúc nào cũng nhộn nhịp những chuyến tàu chở hàng hóa ngược xuôi, tấp nập người mua kẻ bán với đủ mặt hàng, nào vải vóc, quần áo, giày dép, nào đồ điện tử, đồ gia dụng.
 
 Khu cửa khẩu gồm ba công trình chính: Nhà cửa khẩu Quốc tế Bắc Luân, cầu Bắc Luân và cột mốc 1369. Trong đó có Cột mốc 1369 là cột mốc đầu tiên được cắm trên biên giới đất liền phân giới, cắm mốc giữa Việt Nam và Trung Quốc, trên tổng số 1400 cột mốc dọc theo 1350 Km chiều dài biên giới bộ. Đây cũng là điểm đến hấp dẫn nhiều du khách tới tham quan.
 
@@ -147,7 +147,7 @@ Núi Bài Thơ cao 200 m, được coi là điểm ngắm cảnh thú vị nhìn
 
 Di tích lịch sử Bạch Đằng
 
-Hiện nay, thị xã Quảng Yên khai quật được ba [bãi cọc gỗ](https://nhavantuonglai.com/article) có niên đại từ thế kỷ XIII, phân bố trên địa bàn phường Yên Giang, phường Nam Hòa, xã Liên Hòa.
+Hiện nay, thị xã Quảng Yên khai quật được ba [bãi cọc gỗ](/article) có niên đại từ thế kỷ XIII, phân bố trên địa bàn phường Yên Giang, phường Nam Hòa, xã Liên Hòa.
 
 _Bãi cọc Yên Giang:_ Ở vị trí cửa sông Chanh, một nhánh của sông Bạch Đằng, thuộc phường Yên Giang, thị xã Quảng Yên. Phát hiện năm 1953, khai quật vào các năm 1958, 1969, 1976, 1984, 1988.
 
@@ -161,7 +161,7 @@ Ngoài ra du khách có thể ghé thăm _đền Trần Hưng Đạo_ tọa lạ
 
 Cây lim giếng Rừng
 
-Hai [cây lim giếng Rừng](https://nhavantuonglai.com/article) nằm dưới chân núi Tiên Sơn, phường Quảng Yên (thị xã Quảng Yên, Quảng Ninh) được nhà chức trách xác định khoảng 700 tuổi. Hai cây cổ thụ cùng các địa danh như: Bến Rừng, chợ Rừng… là những dấu tích của khu rừng cổ mà quân và dân nhà Trần đã lấy gỗ dựng trận địa cọc, góp phần quan trọng làm nên chiến thắng Bạch Đằng oanh liệt ngày 8/3 năm Mậu Tý 1288.
+Hai [cây lim giếng Rừng](/article) nằm dưới chân núi Tiên Sơn, phường Quảng Yên (thị xã Quảng Yên, Quảng Ninh) được nhà chức trách xác định khoảng 700 tuổi. Hai cây cổ thụ cùng các địa danh như: Bến Rừng, chợ Rừng… là những dấu tích của khu rừng cổ mà quân và dân nhà Trần đã lấy gỗ dựng trận địa cọc, góp phần quan trọng làm nên chiến thắng Bạch Đằng oanh liệt ngày 8/3 năm Mậu Tý 1288.
 
 Bên cạnh hai cây lim cổ có hai giếng nước được xây từ thời Pháp, gắn liền với đời sống sinh hoạt của người dân nơi đây nên được gọi là hai cây lim giếng Rừng. Hiện hai giếng được xây xung quanh, lát gạch sạch sẽ và có nắp đậy.
 
@@ -191,7 +191,7 @@ Di tích Yên Tử
 
 Quần thể di tích Yên Tử nằm ở thành phố Uông Bí, cách Hà Nội khoảng 130 km. Từ quốc lộ 18A vào đến chân núi Yên Tử (khoảng 10 km) du khách đã có thể cảm nhận không khí linh thiêng, trầm lắng của trường phái trúc lâm.
 
-Từ chân [núi Yên Tử](https://nhavantuonglai.com/article), du khách lên đỉnh chùa Đồng bằng hai cách: leo bộ hoặc cáp treo 2 chặng. So với cáp treo, leo bộ mất nhiều thời gian hơn với quãng đường khoảng 6 km đường mòn dốc đứng nhưng với nhiều du khách, đây là cách thể hiện lòng thành kính trong hành trình lễ Phật đầu năm.
+Từ chân [núi Yên Tử](/article), du khách lên đỉnh chùa Đồng bằng hai cách: leo bộ hoặc cáp treo 2 chặng. So với cáp treo, leo bộ mất nhiều thời gian hơn với quãng đường khoảng 6 km đường mòn dốc đứng nhưng với nhiều du khách, đây là cách thể hiện lòng thành kính trong hành trình lễ Phật đầu năm.
 
 Dù chọn cách nào, du khách cũng sẽ bắt đầu từ suối Giải Oan, qua chùa Hoa Yên, chùa Một Mái, tượng đá An Kỳ Sinh rồi lên chùa Đồng – ngôi chùa bằng đồng trên đỉnh núi lớn nhất châu Á. Đứng trên đỉnh cao 1.068 m nhìn xuống, cõi Phật như trong tầm mắt khi làn sương mờ lẩn khuất dưới chân và trên đầu mây trắng lững lờ trôi trên nền trời xanh thẳm.
 
@@ -207,7 +207,7 @@ Nằm gần khu du lịch Bãi Dài nên không gian ở đây không chỉ yên
 
 Đền Cửa Ông thuộc thành phố Cẩm Phả là nơi thờ phụng Hưng Nhượng Đại Vương Trần Quốc Tảng cùng nhiều nhân vật nổi tiếng thời nhà Trần. Mặc dù chính hội đền Cửa Ông diễn ra vào tháng 2 âm lịch nhưng ngay từ những ra ngày Tết, nơi đây đã tập trung rất đông du khách từ các tỉnh thành về dâng hương hành lễ.
 
-Cũng như chùa Cái Bầu, đền Cửa Ông tọa lạc trên ngọn đồi cao nhìn thẳng ra vịnh Bái Tử Long. Chỉ có khác là từ đây, ngoài biển cả mênh mông, toàn cảnh thành phố công nghiệp khai thác vàng đen gói trọn trong tầm mắt. Không chỉ dâng hương tại hai cụm kiến trúc là đền Thượng và đền Hạ, du khách còn được thưởng thức đặc sản có một không hai bày bán dọc lối vào đền là [bánh tài lồng ệp](https://nhavantuonglai.com/article) (hay còn gọi là bánh Tày nồng ệp).
+Cũng như chùa Cái Bầu, đền Cửa Ông tọa lạc trên ngọn đồi cao nhìn thẳng ra vịnh Bái Tử Long. Chỉ có khác là từ đây, ngoài biển cả mênh mông, toàn cảnh thành phố công nghiệp khai thác vàng đen gói trọn trong tầm mắt. Không chỉ dâng hương tại hai cụm kiến trúc là đền Thượng và đền Hạ, du khách còn được thưởng thức đặc sản có một không hai bày bán dọc lối vào đền là [bánh tài lồng ệp](/article) (hay còn gọi là bánh Tày nồng ệp).
 
 Miếu Vua Bà
 
@@ -275,11 +275,11 @@ Ruốc lỗ Hoành Bồ: giống bạch tuộc nhưng nhỏ hơn, hấp với l�
 
 Tu hài: đặc sản của huyện Vân Đồn; bạn có thể tìm mua ở các của hàng bán hải sản hoặc thưởng thức các món ngon chế biến từ tu hài ở các nhà hàng ở Hạ Long, Quảng Ninh.
 
-Cù kỳ: còn được gọi là cua sấm, cua đá hay con cùm vùm… là một loài cua thường chỉ có ở vùng biển Quảng Ninh. Theo người dân nơi đây, con cù kỳ nhìn rất giống cua nhưng có phần càng lớn hơn và phần thân lại nhỏ hơn. Cù kỳ chỉ có phần thịt ở hai bên càng còn phần thân thì xốp. Thịt ở thân không nhiều nhưng gạch ngon. Ngoài cù kỳ hấp, bạn nên thử [bún cù kỳ](https://nhavantuonglai.com/article).
+Cù kỳ: còn được gọi là cua sấm, cua đá hay con cùm vùm… là một loài cua thường chỉ có ở vùng biển Quảng Ninh. Theo người dân nơi đây, con cù kỳ nhìn rất giống cua nhưng có phần càng lớn hơn và phần thân lại nhỏ hơn. Cù kỳ chỉ có phần thịt ở hai bên càng còn phần thân thì xốp. Thịt ở thân không nhiều nhưng gạch ngon. Ngoài cù kỳ hấp, bạn nên thử [bún cù kỳ](/article).
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/du-lich-quang-ninh-557.jpg" alt="cam-nang-du-lich-quang-ninh" height=100% width=100%><figcaption><p>cam-nang-du-lich-quang-ninh-nhavantuonglai</p></figcaption></figure>
 
-Sá sùng: đặc sản của biển Quảng Ninh, đặc biệt là Quan Lạn, bạn có thể tìm mua ở [chợ Hạ Long](https://nhavantuonglai.com/article). Một kg sá sùng tươi nếu giao ngay tại bãi có giá 250.000-300.000 đồng mỗi kg; sá sùng khô khoảng 3,5-4 triệu đồng mỗi kg.
+Sá sùng: đặc sản của biển Quảng Ninh, đặc biệt là Quan Lạn, bạn có thể tìm mua ở [chợ Hạ Long](/article). Một kg sá sùng tươi nếu giao ngay tại bãi có giá 250.000-300.000 đồng mỗi kg; sá sùng khô khoảng 3,5-4 triệu đồng mỗi kg.
 
 Ngon nhất là sá sùng tươi xào tỏi, rau muống hay xào chua ngọt ăn giòn mà mềm, thơm mà ngọt. Sá sùng khô rang lên chấm tương ớt, thêm dăm ngọn rau thơm, diếp cá nhấm cùng bia lại mang đến một thú ẩm thực riêng. Hay sá sùng hầm thuốc bắc cũng được coi là một _thần dược_ dành cho nam giới.
 

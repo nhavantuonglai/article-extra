@@ -49,7 +49,7 @@ Công viên biển Đồi Dương trước đây thường được gọi là b�
 
 Tháp nước Phan Thiết
 
-[Tháp nước Phan Thiết](https://nhavantuonglai.com/article) là biểu tượng của tỉnh Bình Thuận, được xây dựng năm 1928 và hoàn thành vào năm 1934 do kiến trúc sư, hoàng thân Souphanouvong (sau này là Chủ tịch nước CHDCND Lào) thiết kế. Tháp nước được xây dựng bằng gạch nung, có chiều cao 32 m. Nhìn từ xa, tháp như một bông hoa sen khổng lồ.
+[Tháp nước Phan Thiết](/article) là biểu tượng của tỉnh Bình Thuận, được xây dựng năm 1928 và hoàn thành vào năm 1934 do kiến trúc sư, hoàng thân Souphanouvong (sau này là Chủ tịch nước CHDCND Lào) thiết kế. Tháp nước được xây dựng bằng gạch nung, có chiều cao 32 m. Nhìn từ xa, tháp như một bông hoa sen khổng lồ.
 
 Khu di tích trường Dục Thanh
 

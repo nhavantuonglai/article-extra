@@ -31,9 +31,9 @@ Ví dụ: khách sạn của bạn chủ yếu thu hút khách trong độ tuổ
 
 Dựa theo đó, bạn có thể xây dựng những phương pháp, chiến lược tiếp cận phù hợp với nhóm đối tượng này như cải thiện không gian nhằm thu hút khách hàng đến ở và checkin, tăng cường quảng bá hình ảnh theo hướng gắn kết cảm xúc và tạo nhiều kỷ niệm cùng bạn bè. Như vậy, tùy vào nhóm đối tượng, mô hình kinh doanh, hạng phòng khách sạn bạn đang có để xây dựng chân dung phù hợp, qua đó tiếp cận đến từng nhóm đối tượng phù hợp nhằm cải thiện doanh thu cho khách sạn của mình.
 
-Một ví dụ khác, là tùy vào từng thời điểm mà công suất phòng của khách sạn cũng sẽ khác nhau. Như [mùa cao điểm khách thường sẽ nhanh kín phòng hơn](https://nhavantuonglai.com/article), và mùa thấp điểm thì công suất phòng sẽ không cao. Do thế, tùy thuộc vào từng thời điểm khác nhau, mà bạn cần xây dựng những chiến lược khác nhau. Như bán phòng kèm các chương trình giảm giá ở mùa thấp điểm, các gói giá Early Bird, Last minutes để hợp lý hóa việc tăng giá phòng vào mùa cao điểm hoặc kèm theo các điều kiện như không cần thanh toán trước hay miễn phí hủy đặt phòng… để thu hút lượt đặt phòng mới.
+Một ví dụ khác, là tùy vào từng thời điểm mà công suất phòng của khách sạn cũng sẽ khác nhau. Như [mùa cao điểm khách thường sẽ nhanh kín phòng hơn](/article), và mùa thấp điểm thì công suất phòng sẽ không cao. Do thế, tùy thuộc vào từng thời điểm khác nhau, mà bạn cần xây dựng những chiến lược khác nhau. Như bán phòng kèm các chương trình giảm giá ở mùa thấp điểm, các gói giá Early Bird, Last minutes để hợp lý hóa việc tăng giá phòng vào mùa cao điểm hoặc kèm theo các điều kiện như không cần thanh toán trước hay miễn phí hủy đặt phòng… để thu hút lượt đặt phòng mới.
 
-Cho nên, chủ khách sạn cần tìm hiểu khách hàng của mình là ai, thị trường đang vận hành như thế nào để [điều chỉnh những chiến lược](https://nhavantuonglai.com/article), sự đầu tư cho phù hợp, qua đó tối ưu tối đa nguồn lực và thu về lợi nhuận như mong muốn.
+Cho nên, chủ khách sạn cần tìm hiểu khách hàng của mình là ai, thị trường đang vận hành như thế nào để [điều chỉnh những chiến lược](/article), sự đầu tư cho phù hợp, qua đó tối ưu tối đa nguồn lực và thu về lợi nhuận như mong muốn.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-075.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
@@ -57,7 +57,7 @@ Trải nghiệm tốt, sẽ làm khách hàng nhớ mãi và muốn quay lại. 
 
 Trải nghiệm tốt cũng khiến khách hàng giới thiệu với bạn bè. Và trải nghiệm tệ cũng sẽ làm họ cảnh báo bạn bè đừng đến khách sạn của bạn.
 
-Khi [công suất phòng](https://nhavantuonglai.com/article) đang thấp, rõ ràng là trải nghiệm khách hàng của bạn đang có vấn đề. Bởi có vấn đề nên không ai muốn đến ở cả. Vậy phải làm thế nào?
+Khi [công suất phòng](/article) đang thấp, rõ ràng là trải nghiệm khách hàng của bạn đang có vấn đề. Bởi có vấn đề nên không ai muốn đến ở cả. Vậy phải làm thế nào?
 
 Đầu tiên, hãy khảo sát, đánh giá trải nghiệm của mọi người khi đến ở khách sạn của bạn. Việc khảo sát nhằm giúp bạn biết hơn về suy nghĩ, cảm nhận của khách hàng khi họ sử dụng khách sạn, để xem liệu bạn đang có những vấn đề, vướng mắc nào. Từ việc có được những thông tin này, hãy tích cực thay đổi những trải nghiệm mới tại khách sạn và cải thiện chất lượng dịch vụ tại không gian lưu trú của mình. Rõ ràng, việc bạn giữ những quan điểm riêng về khách sạn của mình sẽ tạo nên cá tính, khác biệt. Nhưng khi những giá trị đó không phải là điều mà khách hàng cần, hãy cân nhắc việc duy trì – bởi nó sẽ tạo nên trải nghiệm vô cùng tệ hại mà họ không muốn có.
 
@@ -67,11 +67,11 @@ Thứ hai, hãy học hỏi đối thủ, xem họ đang làm như thế nào v�
 
 ## Xây dựng, phát triển kênh quảng bá khách sạn phù hợp
 
-Khi khách hàng chưa từng ghé khách sạn của bạn, làm thế nào họ biết được đây là lựa chọn tốt nhất, phù hợp với nhu cầu của họ? Họ sẽ đọc thông tin, xem hình về khách sạn trên fanpage, website và cả [các trang kênh OTA](https://nhavantuonglai.com/article); họ cũng sẽ đọc các bài đánh giá, xem hình mọi người checkin, tìm hiểu liệu người khác đánh giá như thế nào về bạn.
+Khi khách hàng chưa từng ghé khách sạn của bạn, làm thế nào họ biết được đây là lựa chọn tốt nhất, phù hợp với nhu cầu của họ? Họ sẽ đọc thông tin, xem hình về khách sạn trên fanpage, website và cả [các trang kênh OTA](/article); họ cũng sẽ đọc các bài đánh giá, xem hình mọi người checkin, tìm hiểu liệu người khác đánh giá như thế nào về bạn.
 
 Với những thông tin, hình ảnh về khách sạn do bạn chủ động tạo ra trên internet – đây là những thứ mà bạn hoàn toàn có thể kiểm soát, cải thiện chất lượng và lựa chọn thông điệp để truyền tải. Do đó, hãy tập trung nâng cao chất lượng của những bức hình, những câu chuyện về khách sạn mà bạn có thể chia sẻ. Nội dung càng chân thực, chất lượng càng ổn định thì niềm tin của khách hàng khi ghé thăm và tìm hiểu khách sạn bạn lại thêm càng chắc chắn.
 
-Đồng thời, hãy xác định kênh quảng bá để có những chiến lược phù hợp. Bởi lẽ, tùy vào từng kênh mà nhóm đối tượng, nhu cầu sẽ khác nhau. Khách hàng thông qua mạng xã hội có xu hướng trẻ trung, năng động, thích các bài viết mang tính tương tác và tạo cảm xúc. Khách hàng thông qua kênh OTA lại cần những hình ảnh rõ ràng, đánh giá chắc chắn về chất lượng và dịch vụ tại khách sạn. Và trong từng [kênh OTA thì cũng chia ra nhiều nhóm đối tượng khác nhau](https://nhavantuonglai.com/article). Với Airbnb, Expedia… thì khách nước ngoài lựa chọn nhiều. VNTrip, Booking, Luxstay… lại phù hợp với khách hàng trong nước. Cũng như thế, Facebook thì cần những bài viết mang tính cảm hứng, tương tác bạn bè, Tiktok lại cần tạo ra bất ngờ thú vị…
+Đồng thời, hãy xác định kênh quảng bá để có những chiến lược phù hợp. Bởi lẽ, tùy vào từng kênh mà nhóm đối tượng, nhu cầu sẽ khác nhau. Khách hàng thông qua mạng xã hội có xu hướng trẻ trung, năng động, thích các bài viết mang tính tương tác và tạo cảm xúc. Khách hàng thông qua kênh OTA lại cần những hình ảnh rõ ràng, đánh giá chắc chắn về chất lượng và dịch vụ tại khách sạn. Và trong từng [kênh OTA thì cũng chia ra nhiều nhóm đối tượng khác nhau](/article). Với Airbnb, Expedia… thì khách nước ngoài lựa chọn nhiều. VNTrip, Booking, Luxstay… lại phù hợp với khách hàng trong nước. Cũng như thế, Facebook thì cần những bài viết mang tính cảm hứng, tương tác bạn bè, Tiktok lại cần tạo ra bất ngờ thú vị…
 
 Như vậy, xác định đúng đối tượng cho từng kênh, chủ khách sạn có thể triển khai những chương trình khuyến mại, chính sách giá phù hợp. Qua đó, tiếp cận chính xác và gia tăng tỷ lệ chuyển đổi với các nhóm khách hàng này.
 
@@ -89,11 +89,11 @@ Và cuối cùng, hãy xác định đúng kênh, xây dựng đúng content ph�
 
 Bạn đang tìm hiểu về công suất phòng? Đừng bỏ lỡ chuỗi bài liên quan của giải pháp tại đây:
 
-– [Hiểu đúng về công suất phòng khi làm khách sạn](https://nhavantuonglai.com/article).
+– [Hiểu đúng về công suất phòng khi làm khách sạn](/article).
 
-– [Các yếu tố ảnh hưởng đến công suất phòng của khách sạn](https://nhavantuonglai.com/article).
+– [Các yếu tố ảnh hưởng đến công suất phòng của khách sạn](/article).
 
-– [Ứng dụng công nghệ để cải thiện doanh thu khi công suất phòng thấp](https://nhavantuonglai.com/article).
+– [Ứng dụng công nghệ để cải thiện doanh thu khi công suất phòng thấp](/article).
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-077.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 

@@ -19,7 +19,7 @@ Xu hướng chuyển căn hộ thông thường thành căn hộ dịch vụ đa
 
 ## Căn hộ dịch vụ là gì?
 
-[Căn hộ dịch vụ](https://nhavantuonglai.com/article) là các căn hộ nhà ở truyền thống, được cập nhật và thêm các tiện nghi, dịch vụ như khách sạn thông thường nhằm phục vụ nhu cầu lưu trú. Căn hộ dịch vụ ra đời nhằm đáp ứng nhu cầu từ 2 phía:
+[Căn hộ dịch vụ](/article) là các căn hộ nhà ở truyền thống, được cập nhật và thêm các tiện nghi, dịch vụ như khách sạn thông thường nhằm phục vụ nhu cầu lưu trú. Căn hộ dịch vụ ra đời nhằm đáp ứng nhu cầu từ 2 phía:
 
 – Với người cho thuê: tận dụng căn hộ nhàn rỗi và sinh lời từ chúng. Cũng đôi khi, căn hộ vốn dĩ được thuê lại từ bên khác, cải tạo rồi tiếp tục cho thuê thêm lần nữa nhằm khai thác tối đa giá trị của căn hộ.
 
@@ -27,7 +27,7 @@ Xu hướng chuyển căn hộ thông thường thành căn hộ dịch vụ đa
 
 Theo báo cáo Global Serviced Apartment Industry Report 2021 (Báo cáo ngành căn hộ dịch vụ toàn cầu, ấn bản năm), cung cấp bởi The Apartment Service Worldwide, chúng ta có:
 
-– Doanh thu, [công suất phòng](https://nhavantuonglai.com/article) của thị trường căn hộ dịch vụ tăng mỗi 24% mỗi năm.
+– Doanh thu, [công suất phòng](/article) của thị trường căn hộ dịch vụ tăng mỗi 24% mỗi năm.
 
 – 12 triệu căn hộ dịch vụ sẵn sàng tại 15 nghìn địa điểm.
 
@@ -119,7 +119,7 @@ Ngoài ra, nếu căn hộ dịch vụ nằm trong tòa nhà, chung cư… và c
 
 Từ lâu tại các khách sạn, áp dụng công nghệ là điều phổ biến, giúp hệ thống quản lý hiệu quả, kinh doanh được tốt hơn. Trên thực tế, đáp ứng nhu cầu này mà hiện nay có rất nhiều giải pháp cung cấp giải pháp, giúp các khách sạn vận hành hiệu quả dựa trên nền tảng công nghệ, đặc biệt là thông qua cloud, SaaS…
 
-Một trong những giải pháp được sử dụng nhiều đó là [phần mềm quản lý khách sạn](https://nhavantuonglai.com/article), giúp theo dõi và quản lý trạng thái đặt phòng, quản lý thông tin khách hàng, kiểm toán và lập báo cáo… từ một màn hình duy nhất. Chúng cũng kết hợp với [Channel Manager](https://nhavantuonglai.com/article) để tự động đồng bộ, quản lý thông tin từ các kênh bán phòng khác. Nhìn chung, đây là giải pháp không thể thiếu với các căn hộ dịch vụ, giúp hệ vận hành trở nên hiệu quả và liền mạch.
+Một trong những giải pháp được sử dụng nhiều đó là [phần mềm quản lý khách sạn](/article), giúp theo dõi và quản lý trạng thái đặt phòng, quản lý thông tin khách hàng, kiểm toán và lập báo cáo… từ một màn hình duy nhất. Chúng cũng kết hợp với [Channel Manager](/article) để tự động đồng bộ, quản lý thông tin từ các kênh bán phòng khác. Nhìn chung, đây là giải pháp không thể thiếu với các căn hộ dịch vụ, giúp hệ vận hành trở nên hiệu quả và liền mạch.
 
 ### Chia để bán
 
@@ -131,7 +131,7 @@ Lưu ý, khi chia để bán, mục đích là khai thác phòng hiệu quả d�
 
 ### Xây dựng chiến lược bán phòng hiệu quả
 
-Kinh doanh thì cần có chiến lược, [chiến lược bán phòng](https://nhavantuonglai.com/article) phổ biến thường là các gói giá, chính sách và ưu đãi khi đặt phòng. Khi áp dụng những [chiến lược giá](https://nhavantuonglai.com/article) cho căn hộ dịch vụ, du khách sẽ có lý do để lựa chọn và đặt phòng dài ngày hơn, cũng như giới thiệu với bạn bè để tìm đến đặt phòng tại căn hộ của bạn.
+Kinh doanh thì cần có chiến lược, [chiến lược bán phòng](/article) phổ biến thường là các gói giá, chính sách và ưu đãi khi đặt phòng. Khi áp dụng những [chiến lược giá](/article) cho căn hộ dịch vụ, du khách sẽ có lý do để lựa chọn và đặt phòng dài ngày hơn, cũng như giới thiệu với bạn bè để tìm đến đặt phòng tại căn hộ của bạn.
 
 Một vài gợi ý về chiến lược giá có thể áp dụng cho căn hộ dịch vụ của bạn như là:
 
@@ -165,7 +165,7 @@ Một chính sách hoàn hủy linh hoạt là chính sách hướng đến tr�
 
 ### Có một chiến lược tiếp thị mạnh mẽ
 
-[Marketing căn hộ dịch vụ](https://nhavantuonglai.com/article) là một khía cạnh quan trọng, là chiến lược cần phải được áp dụng nếu muốn thu hút và nhận nhiều lượt đặt phòng cho khách sạn của mình. Marketing căn hộ dịch vụ là các giải pháp nhằm thu hút sự chú ý, tăng nhận diện của người dùng vào căn hộ dịch vụ. Có 2 hướng tiếp cận khi marketing căn hộ dịch vụ phổ biến, mà bạn có thể áp dụng là:
+[Marketing căn hộ dịch vụ](/article) là một khía cạnh quan trọng, là chiến lược cần phải được áp dụng nếu muốn thu hút và nhận nhiều lượt đặt phòng cho khách sạn của mình. Marketing căn hộ dịch vụ là các giải pháp nhằm thu hút sự chú ý, tăng nhận diện của người dùng vào căn hộ dịch vụ. Có 2 hướng tiếp cận khi marketing căn hộ dịch vụ phổ biến, mà bạn có thể áp dụng là:
 
 – Xây dựng thông điệp và truyền tải chúng: Căn hộ dịch vụ của bạn phù hợp cho nhóm đối tượng nào, ai nên chọn đây là điểm dừng chân… là những câu hỏi để xây dựng thông điệp cho phù hợp. Ví dụ: căn hộ dịch vụ phù hợp với gia đình nhỏ, hoặc nhóm từ 1 – 2 khách du lịch ngắn ngày. Định vị phân khúc phù hợp sẽ dễ dàng tìm được du khách tiềm năng, xác định đây là lựa chọn phù hợp với họ.
 
@@ -173,7 +173,7 @@ Một chính sách hoàn hủy linh hoạt là chính sách hướng đến tr�
 
 ### Tập trung vào sự hài lòng của khách
 
-Sự hài lòng của du khách tạo nên thành công cho khách sạn của bạn. Mục tiêu là vậy, nên việc đem lại những [trải nghiệm khách hàng](https://nhavantuonglai.com/article) tích cực, khiến du khách hài lòng là điều vô cùng cần thiết và nên có. Do vậy, hãy luôn đảm bảo rằng khi du khách ở trong căn hộ dịch vụ của bạn, họ sẽ luôn nhận được những trải nghiệm tích cực, tốt nhất có thể. Ngoài ra, bạn cũng có thể tương tác với họ để tạo nên sự gần gũi, thấu hiểu và phục vụ họ được tốt hơn, thông qua những vấn đề, nhu cầu họ cần được giải quyết.
+Sự hài lòng của du khách tạo nên thành công cho khách sạn của bạn. Mục tiêu là vậy, nên việc đem lại những [trải nghiệm khách hàng](/article) tích cực, khiến du khách hài lòng là điều vô cùng cần thiết và nên có. Do vậy, hãy luôn đảm bảo rằng khi du khách ở trong căn hộ dịch vụ của bạn, họ sẽ luôn nhận được những trải nghiệm tích cực, tốt nhất có thể. Ngoài ra, bạn cũng có thể tương tác với họ để tạo nên sự gần gũi, thấu hiểu và phục vụ họ được tốt hơn, thông qua những vấn đề, nhu cầu họ cần được giải quyết.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-077.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 

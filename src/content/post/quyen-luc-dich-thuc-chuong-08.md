@@ -115,25 +115,25 @@ Kinh nghiệm này chứng minh một cách hùng hồn, rằng sự thức tậ
 
 Chúng ta chỉ có một thời điểm thôi, và chúng ta có thể lựa chọn. Hoặc chạy theo dục vọng với vẻ bề ngoài hùng mạnh, nhưng tôi xin cam đoan là bạn sẽ không tìm thấy hạnh phúc. Hoặc thực tập năm sức mạnh tâm linh và đem lại cho bản thân, cho người thân, đồng nghiệp, cộng đồng sức mạnh của một vị Bồ Tát. Đó là con đường đem lại hạnh phúc thực sự. Đó là con đường duy nhất có thể thay đổi thế giới.
 
-Đọc [Quyền lực đích thực, chương 01](https://nhavantuonglai.com/article/quyen-luc-dich-thuc-chuong-01) tại đây.
+Đọc [Quyền lực đích thực, chương 01](/article/quyen-luc-dich-thuc-chuong-01) tại đây.
 
-Đọc [Quyền lực đích thực, chương 02](https://nhavantuonglai.com/article/quyen-luc-dich-thuc-chuong-02) tại đây.
+Đọc [Quyền lực đích thực, chương 02](/article/quyen-luc-dich-thuc-chuong-02) tại đây.
 
-Đọc [Quyền lực đích thực, chương 03](https://nhavantuonglai.com/article/quyen-luc-dich-thuc-chuong-03) tại đây.
+Đọc [Quyền lực đích thực, chương 03](/article/quyen-luc-dich-thuc-chuong-03) tại đây.
 
-Đọc [Quyền lực đích thực, chương 04](https://nhavantuonglai.com/article/quyen-luc-dich-thuc-chuong-04) tại đây.
+Đọc [Quyền lực đích thực, chương 04](/article/quyen-luc-dich-thuc-chuong-04) tại đây.
 
-Đọc [Quyền lực đích thực, chương 05](https://nhavantuonglai.com/article/quyen-luc-dich-thuc-chuong-05) tại đây.
+Đọc [Quyền lực đích thực, chương 05](/article/quyen-luc-dich-thuc-chuong-05) tại đây.
 
-Đọc [Quyền lực đích thực, chương 06](https://nhavantuonglai.com/article/quyen-luc-dich-thuc-chuong-06) tại đây.
+Đọc [Quyền lực đích thực, chương 06](/article/quyen-luc-dich-thuc-chuong-06) tại đây.
 
-Đọc [Quyền lực đích thực, chương 07](https://nhavantuonglai.com/article/quyen-luc-dich-thuc-chuong-07) tại đây.
+Đọc [Quyền lực đích thực, chương 07](/article/quyen-luc-dich-thuc-chuong-07) tại đây.
 
-Đọc [Quyền lực đích thực, chương 08](https://nhavantuonglai.com/article/quyen-luc-dich-thuc-chuong-08) tại đây.
+Đọc [Quyền lực đích thực, chương 08](/article/quyen-luc-dich-thuc-chuong-08) tại đây.
 
-Đọc [Quyền lực đích thực, chương 09](https://nhavantuonglai.com/article/quyen-luc-dich-thuc-chuong-09) tại đây.
+Đọc [Quyền lực đích thực, chương 09](/article/quyen-luc-dich-thuc-chuong-09) tại đây.
 
-Đọc [Quyền lực đích thực, chương 10](https://nhavantuonglai.com/article/quyen-luc-dich-thuc-chuong-10) tại đây.
+Đọc [Quyền lực đích thực, chương 10](/article/quyen-luc-dich-thuc-chuong-10) tại đây.
 
 Đọc [Quyền lực đích thực, toàn tập](https://banmaixanh.vercel.app/ebook/quyen-luc-dich-thuc.pdf) tại đây.
 

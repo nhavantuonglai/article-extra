@@ -37,9 +37,9 @@ Với khả năng đặt phòng trực tiếp cùng những tính năng hỗ tr�
 
 Mới đây, Google đã thông báo và bắt tay vào hành động, trong việc đưa Things To Do thành sự thay thế cho Reserve, trong nhiệm vụ giúp người dùng tìm kiếm thông tin lưu trú. Ưu điểm của Things To Do là một giao diện hiện đại, đơn giản và mới mẻ phù hợp với xu hướng hiện nay, giúp người dùng có được những thông tin mới, trực quan và quan trọng nhất. Hạn chế của nó, là sẽ không có tính năng đặt phòng trực tiếp, vốn xuất hiện từ trước ở trên Reserve.
 
-Sự thay đổi này liên quan đến mục tiêu tối ưu trải nghiệm người dùng và tập trung vào [_hành vi đặt phòng_](https://nhavantuonglai.com/article) từ Google, và đảm bảo rằng thêm 1 sản phẩm nữa sẽ gắn liền với hoạt động kinh doanh cốt lõi của Google, đó là tìm kiếm thông tin theo chiều dọc. Nói đơn giản thì, Google đang làm những gì họ làm tốt nhất, và đang nỗ lực cải thiện công nghệ của mình.
+Sự thay đổi này liên quan đến mục tiêu tối ưu trải nghiệm người dùng và tập trung vào [_hành vi đặt phòng_](/article) từ Google, và đảm bảo rằng thêm 1 sản phẩm nữa sẽ gắn liền với hoạt động kinh doanh cốt lõi của Google, đó là tìm kiếm thông tin theo chiều dọc. Nói đơn giản thì, Google đang làm những gì họ làm tốt nhất, và đang nỗ lực cải thiện công nghệ của mình.
 
-Với các khách sạn, nhà quản lý kênh, đây là một cơ hội để có thêm một nền tảng đặt phòng mạnh mẽ, chi phí hợp lý và hiệu suất cao. Ngoài ra, với các công ty lữ hành, bán tour, hay làm dịch vụ liên quan đến du lịch, đây không chỉ là giải pháp để [_cải thiện và tối ưu công cụ tìm kiếm_](https://nhavantuonglai.com/article) (SEM), mà còn giúp họ xuất hiện nhiều hơn trên Things To Do để tiếp cận các khách hàng tiềm năng là những người đang tra cứu thông tin.
+Với các khách sạn, nhà quản lý kênh, đây là một cơ hội để có thêm một nền tảng đặt phòng mạnh mẽ, chi phí hợp lý và hiệu suất cao. Ngoài ra, với các công ty lữ hành, bán tour, hay làm dịch vụ liên quan đến du lịch, đây không chỉ là giải pháp để [_cải thiện và tối ưu công cụ tìm kiếm_](/article) (SEM), mà còn giúp họ xuất hiện nhiều hơn trên Things To Do để tiếp cận các khách hàng tiềm năng là những người đang tra cứu thông tin.
 
 ### Tóm lại:
 
@@ -47,7 +47,7 @@ Với các khách sạn, nhà quản lý kênh, đây là một cơ hội để 
 
 – Nội dung truyền thống, không quảng cáo xuất hiện kế tiếp bên dưới.
 
-– Reserve sẽ bị thay thế bằng các link đến [website đặt phòng của khách sạn](https://nhavantuonglai.com/article), hoặc danh sách các kênh OTA hiện có.
+– Reserve sẽ bị thay thế bằng các link đến [website đặt phòng của khách sạn](/article), hoặc danh sách các kênh OTA hiện có.
 
 ## Bán phòng qua Things To Do có ưu điểm gì?
 
@@ -77,7 +77,7 @@ Tóm lại:
 
 – Google Search vẫn là nguồn bán phòng quan trọng nhất của khách sạn.
 
-– Các khách sạn, [quản lý kênh bán phòng](https://nhavantuonglai.com/article) nên hiểu cách vận hành, mô hình kinh doanh của Google.
+– Các khách sạn, [quản lý kênh bán phòng](/article) nên hiểu cách vận hành, mô hình kinh doanh của Google.
 
 – Tối ưu công cụ tìm kiếm sẽ trở nên ít quan trọng hơn theo thời gian.
 

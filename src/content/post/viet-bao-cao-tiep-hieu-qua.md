@@ -21,7 +21,7 @@ Nhưng chính xác thì viết báo cáo là gì và tại sao nó lại quan tr
 
 Viết báo cáo là quá trình tạo một tài liệu trình bày thông tin một cách có cấu trúc và có tổ chức. Nó được sử dụng để truyền đạt những phát hiện, khuyến nghị hoặc thông tin quan trọng khác cho một đối tượng cụ thể.
 
-[Báo cáo](https://nhavantuonglai.com/article) có thể khác nhau về độ dài và độ phức tạp, từ bản tóm tắt một trang đến phân tích chi tiết kéo dài nhiều trang. Chúng cũng có thể được viết cho nhiều mục đích khác nhau, chẳng hạn như học thuật, kinh doanh hoặc pháp lý.
+[Báo cáo](/article) có thể khác nhau về độ dài và độ phức tạp, từ bản tóm tắt một trang đến phân tích chi tiết kéo dài nhiều trang. Chúng cũng có thể được viết cho nhiều mục đích khác nhau, chẳng hạn như học thuật, kinh doanh hoặc pháp lý.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-001.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
@@ -95,7 +95,7 @@ Chúng cũng bao gồm các chủ đề như cấu trúc báo cáo, ngữ pháp 
 
 Để thấy sức mạnh của việc viết báo cáo hiệu quả trong thực tế, chúng ta hãy xem xét một ví dụ thực tế.
 
-Năm 2018, Ủy ban liên chính phủ về biến đổi khí hậu (IPCC) đã công bố một báo cáo về tác động của sự nóng lên toàn cầu ở mức 1,5 ° C so với mức tiền công nghiệp. [Báo cáo](https://nhavantuonglai.com/article) này là kết quả của nhiều năm nghiên cứu và hợp tác giữa hàng trăm nhà khoa học và chuyên gia.
+Năm 2018, Ủy ban liên chính phủ về biến đổi khí hậu (IPCC) đã công bố một báo cáo về tác động của sự nóng lên toàn cầu ở mức 1,5 ° C so với mức tiền công nghiệp. [Báo cáo](/article) này là kết quả của nhiều năm nghiên cứu và hợp tác giữa hàng trăm nhà khoa học và chuyên gia.
 
 Báo cáo được viết một cách rõ ràng và súc tích, sử dụng ngôn ngữ đơn giản và các phương tiện trực quan để trình bày dữ liệu phức tạp. Nó cũng bao gồm một bản tóm tắt cho các nhà hoạch định chính sách, làm cho thông tin dễ tiếp cận hơn với đối tượng phi kỹ thuật.
 

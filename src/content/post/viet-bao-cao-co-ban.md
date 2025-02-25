@@ -31,7 +31,7 @@ Trong kinh doanh, báo cáo được sử dụng để truyền đạt thông ti
 
 ### Tài liệu thông tin để tham khảo trong tương lai
 
-[Báo cáo](https://nhavantuonglai.com/article) phục vụ như một hồ sơ thông tin vĩnh viễn. Chúng có thể được tham chiếu trong tương lai cho các mục đích khác nhau, chẳng hạn như tố tụng pháp lý hoặc đánh giá dự án. Do đó, điều quan trọng là phải đảm bảo rằng thông tin trong báo cáo là chính xác và được ghi chép đầy đủ.
+[Báo cáo](/article) phục vụ như một hồ sơ thông tin vĩnh viễn. Chúng có thể được tham chiếu trong tương lai cho các mục đích khác nhau, chẳng hạn như tố tụng pháp lý hoặc đánh giá dự án. Do đó, điều quan trọng là phải đảm bảo rằng thông tin trong báo cáo là chính xác và được ghi chép đầy đủ.
 
 ### Thể hiện sự chuyên nghiệp
 
@@ -43,7 +43,7 @@ Một báo cáo được viết tốt phản ánh tích cực về người vi�
 
 ### Ngôn ngữ rõ ràng và súc tích
 
-Ngôn ngữ được sử dụng trong báo cáo phải rõ ràng và súc tích. Tránh sử dụng biệt ngữ hoặc thuật ngữ kỹ thuật mà tất cả người đọc có thể không hiểu. Sử dụng ngôn ngữ đơn giản, dễ hiểu để đảm bảo rằng thông tin dễ hiểu và dễ dàng [giao tiếp](https://nhavantuonglai.com/article).
+Ngôn ngữ được sử dụng trong báo cáo phải rõ ràng và súc tích. Tránh sử dụng biệt ngữ hoặc thuật ngữ kỹ thuật mà tất cả người đọc có thể không hiểu. Sử dụng ngôn ngữ đơn giản, dễ hiểu để đảm bảo rằng thông tin dễ hiểu và dễ dàng [giao tiếp](/article).
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-012.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 

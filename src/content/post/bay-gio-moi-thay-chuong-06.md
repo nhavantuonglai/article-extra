@@ -45,23 +45,23 @@ Bạn ơi, đừng nói cơ hội đã qua rồi và bây giờ đã là quá mu
 
 Ta nghĩ rằng tất cả đã bị đổ vỡ, ta nghĩ rằng trăng đã tàn, hoa đã héo và ta đã mất nhau. Nhưng bạn ơi, nếu trong giây phút hiện tại có chánh niệm, có thiền định thì ta sẽ có thể làm tiêu tan được những hiểu lầm, những buồn giận hoặc nghi ngờ ngày trước. Chính trong cái bây giờ và trong ngày hôm nay mà ta phải làm công việc ấy. Ta phải ngồi lại định tĩnh, dùng thiền quán quét sạch vọng tưởng, thành kiến và tri giác sai lầm. Ta sẽ làm cho mây bay đi để mặt trăng hiện ra rõ ràng trở lại giữa trời, làm cho sương mù tan biến để những đóa hoa diễm lệ có cơ hội hiển hiện ra rõ ràng đầu ngõ. Ta vẫn còn có nhau. Không có gì đã qua và đã mất. Đó là vì cái bây giờ đang còn đó, đó là vì cái ngày hôm nay vẫn còn đây. Trăng sẽ sáng hơn xưa, hoa sẽ tươi hơn trước vì ta đã biết cách làm cho tan sương đầu ngõ và vén mây ở giữa trời. Cuộc đời còn giữ cho ta ngày hôm nay, thì cũng không đến nỗi nào. Còn ngày hôm nay là còn tất cả. _Trời còn để có hôm nay, tan sương đầu ngõ, vén mây giữa trời. Hoa tàn mà lại thêm tươi, trăng tàn mà lại hơn mười rằm xưa._
 
-Đọc [Bây giờ mới thấy, chương 01](https://nhavantuonglai.com/article/bay-gio-moi-thay-chuong-01) tại đây.
+Đọc [Bây giờ mới thấy, chương 01](/article/bay-gio-moi-thay-chuong-01) tại đây.
 
-Đọc [Bây giờ mới thấy, chương 02](https://nhavantuonglai.com/article/bay-gio-moi-thay-chuong-02) tại đây.
+Đọc [Bây giờ mới thấy, chương 02](/article/bay-gio-moi-thay-chuong-02) tại đây.
 
-Đọc [Bây giờ mới thấy, chương 03](https://nhavantuonglai.com/article/bay-gio-moi-thay-chuong-03) tại đây.
+Đọc [Bây giờ mới thấy, chương 03](/article/bay-gio-moi-thay-chuong-03) tại đây.
 
-Đọc [Bây giờ mới thấy, chương 04](https://nhavantuonglai.com/article/bay-gio-moi-thay-chuong-04) tại đây.
+Đọc [Bây giờ mới thấy, chương 04](/article/bay-gio-moi-thay-chuong-04) tại đây.
 
-Đọc [Bây giờ mới thấy, chương 05](https://nhavantuonglai.com/article/bay-gio-moi-thay-chuong-05) tại đây.
+Đọc [Bây giờ mới thấy, chương 05](/article/bay-gio-moi-thay-chuong-05) tại đây.
 
-Đọc [Bây giờ mới thấy, chương 06](https://nhavantuonglai.com/article/bay-gio-moi-thay-chuong-06) tại đây.
+Đọc [Bây giờ mới thấy, chương 06](/article/bay-gio-moi-thay-chuong-06) tại đây.
 
-Đọc [Bây giờ mới thấy, chương 07](https://nhavantuonglai.com/article/bay-gio-moi-thay-chuong-07) tại đây.
+Đọc [Bây giờ mới thấy, chương 07](/article/bay-gio-moi-thay-chuong-07) tại đây.
 
-Đọc [Bây giờ mới thấy, chương 08](https://nhavantuonglai.com/article/bay-gio-moi-thay-chuong-08) tại đây.
+Đọc [Bây giờ mới thấy, chương 08](/article/bay-gio-moi-thay-chuong-08) tại đây.
 
-Đọc [Bây giờ mới thấy, chương 09](https://nhavantuonglai.com/article/bay-gio-moi-thay-chuong-09) tại đây.
+Đọc [Bây giờ mới thấy, chương 09](/article/bay-gio-moi-thay-chuong-09) tại đây.
 
 Đọc [Bây giờ mới thấy, toàn tập](https://banmaixanh.vercel.app/ebook/bay-gio-moi-thay.pdf) tại đây.
 

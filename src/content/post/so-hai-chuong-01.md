@@ -47,45 +47,45 @@ Nỗi lo sợ lớn nhất là sợ rằng khi chết ta không còn là gì n�
 
 Tại sao Đức Thế Tôn có thể bình tĩnh trước một tên giết người? Đây là một câu chuyện hiếm có nhưng tất cả chúng ta hằng ngày đều đã đối diện với hết lo sợ này đến lo sợ khác. Thực tập chánh niệm mỗi ngày có thể giúp ích rất nhiều. Với hơi thở, với tỉnh thức, chúng ta có thể đối xử với bất cứ điều gì xảy đến cho ta. Không sợ hãi không chỉ là thói quen tốt mà còn là một niềm vui thâm diệu. Mỗi khi tâm ta không có sợ hãi, ta được tự do. Nếu đang trên máy bay mà phi công báo cho biết máy bay bị hư và có thể rơi xuống, tôi trở về với hơi thở chánh niệm. Tôi hy vọng bạn cũng thực tập hơi thở chánh niệm như tôi lúc đó. Đừng đợi tới lúc gặp nguy hiểm mới bắt đầu thực tập chuyển hóa lo sợ và sống chánh niệm. Không ai có thể cho ta sự không sợ hãi. Ngay khi có đức Bụt ngồi đó bên cạnh, ngài cũng không thể cho bạn sự không sợ hãi. Nếu bạn tập được thói quen chánh niệm thì khi gặp khó khăn, bạn sẽ biết là bạn phải làm gì.
 
-Đọc [Sợ hãi, chương 01](https://nhavantuonglai.com/article/so-hai-chuong-01) tại đây.
+Đọc [Sợ hãi, chương 01](/article/so-hai-chuong-01) tại đây.
 
-Đọc [Sợ hãi, chương 02](https://nhavantuonglai.com/article/so-hai-chuong-02) tại đây.
+Đọc [Sợ hãi, chương 02](/article/so-hai-chuong-02) tại đây.
 
-Đọc [Sợ hãi, chương 03](https://nhavantuonglai.com/article/so-hai-chuong-03) tại đây.
+Đọc [Sợ hãi, chương 03](/article/so-hai-chuong-03) tại đây.
 
-Đọc [Sợ hãi, chương 04](https://nhavantuonglai.com/article/so-hai-chuong-04) tại đây.
+Đọc [Sợ hãi, chương 04](/article/so-hai-chuong-04) tại đây.
 
-Đọc [Sợ hãi, chương 05](https://nhavantuonglai.com/article/so-hai-chuong-05) tại đây.
+Đọc [Sợ hãi, chương 05](/article/so-hai-chuong-05) tại đây.
 
-Đọc [Sợ hãi, chương 06](https://nhavantuonglai.com/article/so-hai-chuong-06) tại đây.
+Đọc [Sợ hãi, chương 06](/article/so-hai-chuong-06) tại đây.
 
-Đọc [Sợ hãi, chương 07](https://nhavantuonglai.com/article/so-hai-chuong-07) tại đây.
+Đọc [Sợ hãi, chương 07](/article/so-hai-chuong-07) tại đây.
 
-Đọc [Sợ hãi, chương 08](https://nhavantuonglai.com/article/so-hai-chuong-08) tại đây.
+Đọc [Sợ hãi, chương 08](/article/so-hai-chuong-08) tại đây.
 
-Đọc [Sợ hãi, chương 09](https://nhavantuonglai.com/article/so-hai-chuong-09) tại đây.
+Đọc [Sợ hãi, chương 09](/article/so-hai-chuong-09) tại đây.
 
-Đọc [Sợ hãi, chương 10](https://nhavantuonglai.com/article/so-hai-chuong-10) tại đây.
+Đọc [Sợ hãi, chương 10](/article/so-hai-chuong-10) tại đây.
 
-Đọc [Sợ hãi, chương 11](https://nhavantuonglai.com/article/so-hai-chuong-11) tại đây.
+Đọc [Sợ hãi, chương 11](/article/so-hai-chuong-11) tại đây.
 
-Đọc [Sợ hãi, chương 12](https://nhavantuonglai.com/article/so-hai-chuong-12) tại đây.
+Đọc [Sợ hãi, chương 12](/article/so-hai-chuong-12) tại đây.
 
-Đọc [Sợ hãi, chương 13](https://nhavantuonglai.com/article/so-hai-chuong-13) tại đây.
+Đọc [Sợ hãi, chương 13](/article/so-hai-chuong-13) tại đây.
 
-Đọc [Sợ hãi, chương 14](https://nhavantuonglai.com/article/so-hai-chuong-14) tại đây.
+Đọc [Sợ hãi, chương 14](/article/so-hai-chuong-14) tại đây.
 
-Đọc [Sợ hãi, chương 15](https://nhavantuonglai.com/article/so-hai-chuong-15) tại đây.
+Đọc [Sợ hãi, chương 15](/article/so-hai-chuong-15) tại đây.
 
-Đọc [Sợ hãi, chương 16](https://nhavantuonglai.com/article/so-hai-chuong-16) tại đây.
+Đọc [Sợ hãi, chương 16](/article/so-hai-chuong-16) tại đây.
 
-Đọc [Sợ hãi, chương 17](https://nhavantuonglai.com/article/so-hai-chuong-17) tại đây.
+Đọc [Sợ hãi, chương 17](/article/so-hai-chuong-17) tại đây.
 
-Đọc [Sợ hãi, chương 18](https://nhavantuonglai.com/article/so-hai-chuong-18) tại đây.
+Đọc [Sợ hãi, chương 18](/article/so-hai-chuong-18) tại đây.
 
-Đọc [Sợ hãi, chương 19](https://nhavantuonglai.com/article/so-hai-chuong-19) tại đây.
+Đọc [Sợ hãi, chương 19](/article/so-hai-chuong-19) tại đây.
 
-Đọc [Sợ hãi, chương 20](https://nhavantuonglai.com/article/so-hai-chuong-20) tại đây.
+Đọc [Sợ hãi, chương 20](/article/so-hai-chuong-20) tại đây.
 
 Đọc [Sợ hãi, toàn tập](https://banmaixanh.vercel.app/ebook/so-hai.pdf) tại đây.
 

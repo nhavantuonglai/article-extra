@@ -39,21 +39,21 @@ Tôi chỉ đem một ví dụ. Nếu Phật tử không am hiểu đạo Phật
 
 Nhân loại hiện giờ đang khổ đau vì cố chấp, vì riêng rẽ, vì tị hiềm, vì chủng tộc, vì đảng phái, vì địa phương, vì nhân ngã. Văn hóa nhân loại phải đi về tinh thần tổng hợp để phụng sự nhân loại. Đạo Phật với tâm niệm từ bi, với thái độ cởi mở, với ý nguyện độ sinh có thể có đủ phong độ và điều kiện để đứng ra cùng với những tư trào trọng đại nhất của kho tàng tri thức nhân loại hiện đại, chủ xướng và lãnh đạo cho cuộc tổng hợp vĩ đại đó của văn hóa nhân loại. Trên niềm thao thức thực hiện ý nguyện ấy, chắc chắn bạn sẽ có những khám phá bất ngờ và kỳ diệu khi trở về nghiên cứu thực tại Phật giáo qua hai ngàn năm trăm năm lịch sử.
 
-Đọc [Đạo phật ngày nay, chương 01](https://nhavantuonglai.com/article/dao-phat-ngay-nay-chuong-01) tại đây.
+Đọc [Đạo phật ngày nay, chương 01](/article/dao-phat-ngay-nay-chuong-01) tại đây.
 
-Đọc [Đạo phật ngày nay, chương 02](https://nhavantuonglai.com/article/dao-phat-ngay-nay-chuong-02) tại đây.
+Đọc [Đạo phật ngày nay, chương 02](/article/dao-phat-ngay-nay-chuong-02) tại đây.
 
-Đọc [Đạo phật ngày nay, chương 03](https://nhavantuonglai.com/article/dao-phat-ngay-nay-chuong-03) tại đây.
+Đọc [Đạo phật ngày nay, chương 03](/article/dao-phat-ngay-nay-chuong-03) tại đây.
 
-Đọc [Đạo phật ngày nay, chương 04](https://nhavantuonglai.com/article/dao-phat-ngay-nay-chuong-04) tại đây.
+Đọc [Đạo phật ngày nay, chương 04](/article/dao-phat-ngay-nay-chuong-04) tại đây.
 
-Đọc [Đạo phật ngày nay, chương 05](https://nhavantuonglai.com/article/dao-phat-ngay-nay-chuong-05) tại đây.
+Đọc [Đạo phật ngày nay, chương 05](/article/dao-phat-ngay-nay-chuong-05) tại đây.
 
-Đọc [Đạo phật ngày nay, chương 06](https://nhavantuonglai.com/article/dao-phat-ngay-nay-chuong-06) tại đây.
+Đọc [Đạo phật ngày nay, chương 06](/article/dao-phat-ngay-nay-chuong-06) tại đây.
 
-Đọc [Đạo phật ngày nay, chương 07](https://nhavantuonglai.com/article/dao-phat-ngay-nay-chuong-07) tại đây.
+Đọc [Đạo phật ngày nay, chương 07](/article/dao-phat-ngay-nay-chuong-07) tại đây.
 
-Đọc [Đạo phật ngày nay, chương 08](https://nhavantuonglai.com/article/dao-phat-ngay-nay-chuong-08) tại đây.
+Đọc [Đạo phật ngày nay, chương 08](/article/dao-phat-ngay-nay-chuong-08) tại đây.
 
 Đọc [Đạo phật ngày nay, toàn tập](https://banmaixanh.vercel.app/ebook/dao-phat-ngay-nay.pdf) tại đây.
 

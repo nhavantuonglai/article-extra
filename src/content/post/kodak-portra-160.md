@@ -37,7 +37,7 @@ Kể từ khi ra mắt, Kodak đã liên tục cải tiến quy trình sản xu�
 
 ### Tác động đến ngành công nghiệp film nhiếp ảnh
 
-Sự thành công của [Kodak Portra 160](https://nhavantuonglai.com/article/kodak-portra-160) đã tạo ra một làn sóng mới trong ngành công nghiệp film nhiếp ảnh. Nó không chỉ mở ra một phân khúc thị trường mới mà còn khuyến khích các nhà sản xuất khác nghiên cứu và phát triển các sản phẩm tương tự. Điều này đã góp phần làm phong phú thêm thị trường film nhiếp ảnh và tạo ra nhiều lựa chọn hơn cho người dùng.
+Sự thành công của [Kodak Portra 160](/article/kodak-portra-160) đã tạo ra một làn sóng mới trong ngành công nghiệp film nhiếp ảnh. Nó không chỉ mở ra một phân khúc thị trường mới mà còn khuyến khích các nhà sản xuất khác nghiên cứu và phát triển các sản phẩm tương tự. Điều này đã góp phần làm phong phú thêm thị trường film nhiếp ảnh và tạo ra nhiều lựa chọn hơn cho người dùng.
 
 ## Thông số kỹ thuật của Kodak Portra 160
 

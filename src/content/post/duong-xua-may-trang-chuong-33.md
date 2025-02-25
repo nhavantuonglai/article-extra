@@ -93,171 +93,171 @@ Mà đúng như thế.
 
 Chỉ trong vòng nửa tháng sau, không ai còn nói đến luồng dư luận kia nữa.
 
-Đọc [Đường xưa mây trắng, chương 01](https://nhavantuonglai.com/article/duong-xua-may-trang-chuong-01) tại đây.
+Đọc [Đường xưa mây trắng, chương 01](/article/duong-xua-may-trang-chuong-01) tại đây.
 
-Đọc [Đường xưa mây trắng, chương 02](https://nhavantuonglai.com/article/duong-xua-may-trang-chuong-02) tại đây.
+Đọc [Đường xưa mây trắng, chương 02](/article/duong-xua-may-trang-chuong-02) tại đây.
 
-Đọc [Đường xưa mây trắng, chương 03](https://nhavantuonglai.com/article/duong-xua-may-trang-chuong-03) tại đây.
+Đọc [Đường xưa mây trắng, chương 03](/article/duong-xua-may-trang-chuong-03) tại đây.
 
-Đọc [Đường xưa mây trắng, chương 04](https://nhavantuonglai.com/article/duong-xua-may-trang-chuong-04) tại đây.
+Đọc [Đường xưa mây trắng, chương 04](/article/duong-xua-may-trang-chuong-04) tại đây.
 
-Đọc [Đường xưa mây trắng, chương 05](https://nhavantuonglai.com/article/duong-xua-may-trang-chuong-05) tại đây.
+Đọc [Đường xưa mây trắng, chương 05](/article/duong-xua-may-trang-chuong-05) tại đây.
 
-Đọc [Đường xưa mây trắng, chương 06](https://nhavantuonglai.com/article/duong-xua-may-trang-chuong-06) tại đây.
+Đọc [Đường xưa mây trắng, chương 06](/article/duong-xua-may-trang-chuong-06) tại đây.
 
-Đọc [Đường xưa mây trắng, chương 07](https://nhavantuonglai.com/article/duong-xua-may-trang-chuong-07) tại đây.
+Đọc [Đường xưa mây trắng, chương 07](/article/duong-xua-may-trang-chuong-07) tại đây.
 
-Đọc [Đường xưa mây trắng, chương 08](https://nhavantuonglai.com/article/duong-xua-may-trang-chuong-08) tại đây.
+Đọc [Đường xưa mây trắng, chương 08](/article/duong-xua-may-trang-chuong-08) tại đây.
 
-Đọc [Đường xưa mây trắng, chương 09](https://nhavantuonglai.com/article/duong-xua-may-trang-chuong-09) tại đây.
+Đọc [Đường xưa mây trắng, chương 09](/article/duong-xua-may-trang-chuong-09) tại đây.
 
-Đọc [Đường xưa mây trắng, chương 10](https://nhavantuonglai.com/article/duong-xua-may-trang-chuong-10) tại đây.
+Đọc [Đường xưa mây trắng, chương 10](/article/duong-xua-may-trang-chuong-10) tại đây.
 
-Đọc [Đường xưa mây trắng, chương 11](https://nhavantuonglai.com/article/duong-xua-may-trang-chuong-11) tại đây.
+Đọc [Đường xưa mây trắng, chương 11](/article/duong-xua-may-trang-chuong-11) tại đây.
 
-Đọc [Đường xưa mây trắng, chương 12](https://nhavantuonglai.com/article/duong-xua-may-trang-chuong-12) tại đây.
+Đọc [Đường xưa mây trắng, chương 12](/article/duong-xua-may-trang-chuong-12) tại đây.
 
-Đọc [Đường xưa mây trắng, chương 13](https://nhavantuonglai.com/article/duong-xua-may-trang-chuong-13) tại đây.
+Đọc [Đường xưa mây trắng, chương 13](/article/duong-xua-may-trang-chuong-13) tại đây.
 
-Đọc [Đường xưa mây trắng, chương 14](https://nhavantuonglai.com/article/duong-xua-may-trang-chuong-14) tại đây.
+Đọc [Đường xưa mây trắng, chương 14](/article/duong-xua-may-trang-chuong-14) tại đây.
 
-Đọc [Đường xưa mây trắng, chương 15](https://nhavantuonglai.com/article/duong-xua-may-trang-chuong-15) tại đây.
+Đọc [Đường xưa mây trắng, chương 15](/article/duong-xua-may-trang-chuong-15) tại đây.
 
-Đọc [Đường xưa mây trắng, chương 16](https://nhavantuonglai.com/article/duong-xua-may-trang-chuong-16) tại đây.
+Đọc [Đường xưa mây trắng, chương 16](/article/duong-xua-may-trang-chuong-16) tại đây.
 
-Đọc [Đường xưa mây trắng, chương 17](https://nhavantuonglai.com/article/duong-xua-may-trang-chuong-17) tại đây.
+Đọc [Đường xưa mây trắng, chương 17](/article/duong-xua-may-trang-chuong-17) tại đây.
 
-Đọc [Đường xưa mây trắng, chương 18](https://nhavantuonglai.com/article/duong-xua-may-trang-chuong-18) tại đây.
+Đọc [Đường xưa mây trắng, chương 18](/article/duong-xua-may-trang-chuong-18) tại đây.
 
-Đọc [Đường xưa mây trắng, chương 19](https://nhavantuonglai.com/article/duong-xua-may-trang-chuong-19) tại đây.
+Đọc [Đường xưa mây trắng, chương 19](/article/duong-xua-may-trang-chuong-19) tại đây.
 
-Đọc [Đường xưa mây trắng, chương 20](https://nhavantuonglai.com/article/duong-xua-may-trang-chuong-20) tại đây.
+Đọc [Đường xưa mây trắng, chương 20](/article/duong-xua-may-trang-chuong-20) tại đây.
 
-Đọc [Đường xưa mây trắng, chương 21](https://nhavantuonglai.com/article/duong-xua-may-trang-chuong-21) tại đây.
+Đọc [Đường xưa mây trắng, chương 21](/article/duong-xua-may-trang-chuong-21) tại đây.
 
-Đọc [Đường xưa mây trắng, chương 22](https://nhavantuonglai.com/article/duong-xua-may-trang-chuong-22) tại đây.
+Đọc [Đường xưa mây trắng, chương 22](/article/duong-xua-may-trang-chuong-22) tại đây.
 
-Đọc [Đường xưa mây trắng, chương 23](https://nhavantuonglai.com/article/duong-xua-may-trang-chuong-23) tại đây.
+Đọc [Đường xưa mây trắng, chương 23](/article/duong-xua-may-trang-chuong-23) tại đây.
 
-Đọc [Đường xưa mây trắng, chương 24](https://nhavantuonglai.com/article/duong-xua-may-trang-chuong-24) tại đây.
+Đọc [Đường xưa mây trắng, chương 24](/article/duong-xua-may-trang-chuong-24) tại đây.
 
-Đọc [Đường xưa mây trắng, chương 25](https://nhavantuonglai.com/article/duong-xua-may-trang-chuong-25) tại đây.
+Đọc [Đường xưa mây trắng, chương 25](/article/duong-xua-may-trang-chuong-25) tại đây.
 
-Đọc [Đường xưa mây trắng, chương 26](https://nhavantuonglai.com/article/duong-xua-may-trang-chuong-26) tại đây.
+Đọc [Đường xưa mây trắng, chương 26](/article/duong-xua-may-trang-chuong-26) tại đây.
 
-Đọc [Đường xưa mây trắng, chương 27](https://nhavantuonglai.com/article/duong-xua-may-trang-chuong-27) tại đây.
+Đọc [Đường xưa mây trắng, chương 27](/article/duong-xua-may-trang-chuong-27) tại đây.
 
-Đọc [Đường xưa mây trắng, chương 28](https://nhavantuonglai.com/article/duong-xua-may-trang-chuong-28) tại đây.
+Đọc [Đường xưa mây trắng, chương 28](/article/duong-xua-may-trang-chuong-28) tại đây.
 
-Đọc [Đường xưa mây trắng, chương 29](https://nhavantuonglai.com/article/duong-xua-may-trang-chuong-29) tại đây.
+Đọc [Đường xưa mây trắng, chương 29](/article/duong-xua-may-trang-chuong-29) tại đây.
 
-Đọc [Đường xưa mây trắng, chương 30](https://nhavantuonglai.com/article/duong-xua-may-trang-chuong-30) tại đây.
+Đọc [Đường xưa mây trắng, chương 30](/article/duong-xua-may-trang-chuong-30) tại đây.
 
-Đọc [Đường xưa mây trắng, chương 31](https://nhavantuonglai.com/article/duong-xua-may-trang-chuong-31) tại đây.
+Đọc [Đường xưa mây trắng, chương 31](/article/duong-xua-may-trang-chuong-31) tại đây.
 
-Đọc [Đường xưa mây trắng, chương 32](https://nhavantuonglai.com/article/duong-xua-may-trang-chuong-32) tại đây.
+Đọc [Đường xưa mây trắng, chương 32](/article/duong-xua-may-trang-chuong-32) tại đây.
 
-Đọc [Đường xưa mây trắng, chương 33](https://nhavantuonglai.com/article/duong-xua-may-trang-chuong-33) tại đây.
+Đọc [Đường xưa mây trắng, chương 33](/article/duong-xua-may-trang-chuong-33) tại đây.
 
-Đọc [Đường xưa mây trắng, chương 34](https://nhavantuonglai.com/article/duong-xua-may-trang-chuong-34) tại đây.
+Đọc [Đường xưa mây trắng, chương 34](/article/duong-xua-may-trang-chuong-34) tại đây.
 
-Đọc [Đường xưa mây trắng, chương 35](https://nhavantuonglai.com/article/duong-xua-may-trang-chuong-35) tại đây.
+Đọc [Đường xưa mây trắng, chương 35](/article/duong-xua-may-trang-chuong-35) tại đây.
 
-Đọc [Đường xưa mây trắng, chương 36](https://nhavantuonglai.com/article/duong-xua-may-trang-chuong-36) tại đây.
+Đọc [Đường xưa mây trắng, chương 36](/article/duong-xua-may-trang-chuong-36) tại đây.
 
-Đọc [Đường xưa mây trắng, chương 37](https://nhavantuonglai.com/article/duong-xua-may-trang-chuong-37) tại đây.
+Đọc [Đường xưa mây trắng, chương 37](/article/duong-xua-may-trang-chuong-37) tại đây.
 
-Đọc [Đường xưa mây trắng, chương 38](https://nhavantuonglai.com/article/duong-xua-may-trang-chuong-38) tại đây.
+Đọc [Đường xưa mây trắng, chương 38](/article/duong-xua-may-trang-chuong-38) tại đây.
 
-Đọc [Đường xưa mây trắng, chương 39](https://nhavantuonglai.com/article/duong-xua-may-trang-chuong-39) tại đây.
+Đọc [Đường xưa mây trắng, chương 39](/article/duong-xua-may-trang-chuong-39) tại đây.
 
-Đọc [Đường xưa mây trắng, chương 40](https://nhavantuonglai.com/article/duong-xua-may-trang-chuong-40) tại đây.
+Đọc [Đường xưa mây trắng, chương 40](/article/duong-xua-may-trang-chuong-40) tại đây.
 
-Đọc [Đường xưa mây trắng, chương 41](https://nhavantuonglai.com/article/duong-xua-may-trang-chuong-41) tại đây.
+Đọc [Đường xưa mây trắng, chương 41](/article/duong-xua-may-trang-chuong-41) tại đây.
 
-Đọc [Đường xưa mây trắng, chương 42](https://nhavantuonglai.com/article/duong-xua-may-trang-chuong-42) tại đây.
+Đọc [Đường xưa mây trắng, chương 42](/article/duong-xua-may-trang-chuong-42) tại đây.
 
-Đọc [Đường xưa mây trắng, chương 43](https://nhavantuonglai.com/article/duong-xua-may-trang-chuong-43) tại đây.
+Đọc [Đường xưa mây trắng, chương 43](/article/duong-xua-may-trang-chuong-43) tại đây.
 
-Đọc [Đường xưa mây trắng, chương 44](https://nhavantuonglai.com/article/duong-xua-may-trang-chuong-44) tại đây.
+Đọc [Đường xưa mây trắng, chương 44](/article/duong-xua-may-trang-chuong-44) tại đây.
 
-Đọc [Đường xưa mây trắng, chương 45](https://nhavantuonglai.com/article/duong-xua-may-trang-chuong-45) tại đây.
+Đọc [Đường xưa mây trắng, chương 45](/article/duong-xua-may-trang-chuong-45) tại đây.
 
-Đọc [Đường xưa mây trắng, chương 46](https://nhavantuonglai.com/article/duong-xua-may-trang-chuong-46) tại đây.
+Đọc [Đường xưa mây trắng, chương 46](/article/duong-xua-may-trang-chuong-46) tại đây.
 
-Đọc [Đường xưa mây trắng, chương 47](https://nhavantuonglai.com/article/duong-xua-may-trang-chuong-47) tại đây.
+Đọc [Đường xưa mây trắng, chương 47](/article/duong-xua-may-trang-chuong-47) tại đây.
 
-Đọc [Đường xưa mây trắng, chương 48](https://nhavantuonglai.com/article/duong-xua-may-trang-chuong-48) tại đây.
+Đọc [Đường xưa mây trắng, chương 48](/article/duong-xua-may-trang-chuong-48) tại đây.
 
-Đọc [Đường xưa mây trắng, chương 49](https://nhavantuonglai.com/article/duong-xua-may-trang-chuong-49) tại đây.
+Đọc [Đường xưa mây trắng, chương 49](/article/duong-xua-may-trang-chuong-49) tại đây.
 
-Đọc [Đường xưa mây trắng, chương 50](https://nhavantuonglai.com/article/duong-xua-may-trang-chuong-50) tại đây.
+Đọc [Đường xưa mây trắng, chương 50](/article/duong-xua-may-trang-chuong-50) tại đây.
 
-Đọc [Đường xưa mây trắng, chương 51](https://nhavantuonglai.com/article/duong-xua-may-trang-chuong-51) tại đây.
+Đọc [Đường xưa mây trắng, chương 51](/article/duong-xua-may-trang-chuong-51) tại đây.
 
-Đọc [Đường xưa mây trắng, chương 52](https://nhavantuonglai.com/article/duong-xua-may-trang-chuong-52) tại đây.
+Đọc [Đường xưa mây trắng, chương 52](/article/duong-xua-may-trang-chuong-52) tại đây.
 
-Đọc [Đường xưa mây trắng, chương 53](https://nhavantuonglai.com/article/duong-xua-may-trang-chuong-53) tại đây.
+Đọc [Đường xưa mây trắng, chương 53](/article/duong-xua-may-trang-chuong-53) tại đây.
 
-Đọc [Đường xưa mây trắng, chương 54](https://nhavantuonglai.com/article/duong-xua-may-trang-chuong-54) tại đây.
+Đọc [Đường xưa mây trắng, chương 54](/article/duong-xua-may-trang-chuong-54) tại đây.
 
-Đọc [Đường xưa mây trắng, chương 55](https://nhavantuonglai.com/article/duong-xua-may-trang-chuong-55) tại đây.
+Đọc [Đường xưa mây trắng, chương 55](/article/duong-xua-may-trang-chuong-55) tại đây.
 
-Đọc [Đường xưa mây trắng, chương 56](https://nhavantuonglai.com/article/duong-xua-may-trang-chuong-56) tại đây.
+Đọc [Đường xưa mây trắng, chương 56](/article/duong-xua-may-trang-chuong-56) tại đây.
 
-Đọc [Đường xưa mây trắng, chương 57](https://nhavantuonglai.com/article/duong-xua-may-trang-chuong-57) tại đây.
+Đọc [Đường xưa mây trắng, chương 57](/article/duong-xua-may-trang-chuong-57) tại đây.
 
-Đọc [Đường xưa mây trắng, chương 58](https://nhavantuonglai.com/article/duong-xua-may-trang-chuong-58) tại đây.
+Đọc [Đường xưa mây trắng, chương 58](/article/duong-xua-may-trang-chuong-58) tại đây.
 
-Đọc [Đường xưa mây trắng, chương 59](https://nhavantuonglai.com/article/duong-xua-may-trang-chuong-59) tại đây.
+Đọc [Đường xưa mây trắng, chương 59](/article/duong-xua-may-trang-chuong-59) tại đây.
 
-Đọc [Đường xưa mây trắng, chương 60](https://nhavantuonglai.com/article/duong-xua-may-trang-chuong-60) tại đây.
+Đọc [Đường xưa mây trắng, chương 60](/article/duong-xua-may-trang-chuong-60) tại đây.
 
-Đọc [Đường xưa mây trắng, chương 61](https://nhavantuonglai.com/article/duong-xua-may-trang-chuong-61) tại đây.
+Đọc [Đường xưa mây trắng, chương 61](/article/duong-xua-may-trang-chuong-61) tại đây.
 
-Đọc [Đường xưa mây trắng, chương 62](https://nhavantuonglai.com/article/duong-xua-may-trang-chuong-62) tại đây.
+Đọc [Đường xưa mây trắng, chương 62](/article/duong-xua-may-trang-chuong-62) tại đây.
 
-Đọc [Đường xưa mây trắng, chương 63](https://nhavantuonglai.com/article/duong-xua-may-trang-chuong-63) tại đây.
+Đọc [Đường xưa mây trắng, chương 63](/article/duong-xua-may-trang-chuong-63) tại đây.
 
-Đọc [Đường xưa mây trắng, chương 64](https://nhavantuonglai.com/article/duong-xua-may-trang-chuong-64) tại đây.
+Đọc [Đường xưa mây trắng, chương 64](/article/duong-xua-may-trang-chuong-64) tại đây.
 
-Đọc [Đường xưa mây trắng, chương 65](https://nhavantuonglai.com/article/duong-xua-may-trang-chuong-65) tại đây.
+Đọc [Đường xưa mây trắng, chương 65](/article/duong-xua-may-trang-chuong-65) tại đây.
 
-Đọc [Đường xưa mây trắng, chương 66](https://nhavantuonglai.com/article/duong-xua-may-trang-chuong-66) tại đây.
+Đọc [Đường xưa mây trắng, chương 66](/article/duong-xua-may-trang-chuong-66) tại đây.
 
-Đọc [Đường xưa mây trắng, chương 67](https://nhavantuonglai.com/article/duong-xua-may-trang-chuong-67) tại đây.
+Đọc [Đường xưa mây trắng, chương 67](/article/duong-xua-may-trang-chuong-67) tại đây.
 
-Đọc [Đường xưa mây trắng, chương 68](https://nhavantuonglai.com/article/duong-xua-may-trang-chuong-68) tại đây.
+Đọc [Đường xưa mây trắng, chương 68](/article/duong-xua-may-trang-chuong-68) tại đây.
 
-Đọc [Đường xưa mây trắng, chương 69](https://nhavantuonglai.com/article/duong-xua-may-trang-chuong-69) tại đây.
+Đọc [Đường xưa mây trắng, chương 69](/article/duong-xua-may-trang-chuong-69) tại đây.
 
-Đọc [Đường xưa mây trắng, chương 70](https://nhavantuonglai.com/article/duong-xua-may-trang-chuong-70) tại đây.
+Đọc [Đường xưa mây trắng, chương 70](/article/duong-xua-may-trang-chuong-70) tại đây.
 
-Đọc [Đường xưa mây trắng, chương 71](https://nhavantuonglai.com/article/duong-xua-may-trang-chuong-71) tại đây.
+Đọc [Đường xưa mây trắng, chương 71](/article/duong-xua-may-trang-chuong-71) tại đây.
 
-Đọc [Đường xưa mây trắng, chương 72](https://nhavantuonglai.com/article/duong-xua-may-trang-chuong-72) tại đây.
+Đọc [Đường xưa mây trắng, chương 72](/article/duong-xua-may-trang-chuong-72) tại đây.
 
-Đọc [Đường xưa mây trắng, chương 73](https://nhavantuonglai.com/article/duong-xua-may-trang-chuong-73) tại đây.
+Đọc [Đường xưa mây trắng, chương 73](/article/duong-xua-may-trang-chuong-73) tại đây.
 
-Đọc [Đường xưa mây trắng, chương 74](https://nhavantuonglai.com/article/duong-xua-may-trang-chuong-74) tại đây.
+Đọc [Đường xưa mây trắng, chương 74](/article/duong-xua-may-trang-chuong-74) tại đây.
 
-Đọc [Đường xưa mây trắng, chương 75](https://nhavantuonglai.com/article/duong-xua-may-trang-chuong-75) tại đây.
+Đọc [Đường xưa mây trắng, chương 75](/article/duong-xua-may-trang-chuong-75) tại đây.
 
-Đọc [Đường xưa mây trắng, chương 76](https://nhavantuonglai.com/article/duong-xua-may-trang-chuong-76) tại đây.
+Đọc [Đường xưa mây trắng, chương 76](/article/duong-xua-may-trang-chuong-76) tại đây.
 
-Đọc [Đường xưa mây trắng, chương 77](https://nhavantuonglai.com/article/duong-xua-may-trang-chuong-77) tại đây.
+Đọc [Đường xưa mây trắng, chương 77](/article/duong-xua-may-trang-chuong-77) tại đây.
 
-Đọc [Đường xưa mây trắng, chương 78](https://nhavantuonglai.com/article/duong-xua-may-trang-chuong-78) tại đây.
+Đọc [Đường xưa mây trắng, chương 78](/article/duong-xua-may-trang-chuong-78) tại đây.
 
-Đọc [Đường xưa mây trắng, chương 79](https://nhavantuonglai.com/article/duong-xua-may-trang-chuong-79) tại đây.
+Đọc [Đường xưa mây trắng, chương 79](/article/duong-xua-may-trang-chuong-79) tại đây.
 
-Đọc [Đường xưa mây trắng, chương 80](https://nhavantuonglai.com/article/duong-xua-may-trang-chuong-80) tại đây.
+Đọc [Đường xưa mây trắng, chương 80](/article/duong-xua-may-trang-chuong-80) tại đây.
 
-Đọc [Đường xưa mây trắng, chương 81](https://nhavantuonglai.com/article/duong-xua-may-trang-chuong-81) tại đây.
+Đọc [Đường xưa mây trắng, chương 81](/article/duong-xua-may-trang-chuong-81) tại đây.
 
-Đọc [Đường xưa mây trắng, chương 82](https://nhavantuonglai.com/article/duong-xua-may-trang-chuong-82) tại đây.
+Đọc [Đường xưa mây trắng, chương 82](/article/duong-xua-may-trang-chuong-82) tại đây.
 
-Đọc [Đường xưa mây trắng, chương 83](https://nhavantuonglai.com/article/duong-xua-may-trang-chuong-83) tại đây.
+Đọc [Đường xưa mây trắng, chương 83](/article/duong-xua-may-trang-chuong-83) tại đây.
 
 Đọc [Đường xưa mây trắng, toàn tập](https://banmaixanh.vercel.app/ebook/duong-xua-may-trang.pdf) tại đây.
 

@@ -27,7 +27,7 @@ _Astro là một framework hiện đại giúp xây dựng các website  tĩnh n
 
 ## Giới thiệu framework Astro
 
-[Astro](https://nhavantuonglai.com/article/astro-cai-dat) là một framework hiện đại giúp xây dựng các website  tĩnh nhanh chóng và hiệu quả. Điểm mạnh của Astro nằm ở việc sử dụng ít JavaScript nhất có thể trên trình duyệt, giúp tối ưu tốc độ tải trang và trải nghiệm người dùng. Các đặc điểm nổi bật của Astro bao gồm:
+[Astro](/article/astro-cai-dat) là một framework hiện đại giúp xây dựng các website  tĩnh nhanh chóng và hiệu quả. Điểm mạnh của Astro nằm ở việc sử dụng ít JavaScript nhất có thể trên trình duyệt, giúp tối ưu tốc độ tải trang và trải nghiệm người dùng. Các đặc điểm nổi bật của Astro bao gồm:
 
 – Performance tối ưu: Bằng cách chỉ gửi những gì cần thiết đến trình duyệt, Astro giảm thiểu JavaScript tải xuống và thực thi.
 
@@ -145,7 +145,7 @@ Trong thư mục dự án của bạn, chạy lệnh sau để khởi tạo deve
 npm run dev
 ```
 
-Quá trình triển khai này giúp bạn nhanh chóng và dễ dàng đưa ứng dụng Astro của mình lên Firebase Hosting. Việc triển khai ứng dụng [Astro](https://nhavantuonglai.com/article/astro) lên Firebase Hosting là một quy trình đơn giản và nhanh chóng.
+Quá trình triển khai này giúp bạn nhanh chóng và dễ dàng đưa ứng dụng Astro của mình lên Firebase Hosting. Việc triển khai ứng dụng [Astro](/article/astro) lên Firebase Hosting là một quy trình đơn giản và nhanh chóng.
 
 Với sự kết hợp của các công cụ mạnh mẽ từ Firebase và tính linh hoạt của Astro, bạn có thể dễ dàng xây dựng và triển khai các ứng dụng website hiệu quả. Nếu bạn có bất kỳ câu hỏi nào hoặc cần hỗ trợ thêm, đừng ngần ngại liên hệ với github/nhavantuonglai qua email [info@nhavantuonglai.com](mailto:info@nhavantuonglai.com).
 

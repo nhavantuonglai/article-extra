@@ -18,7 +18,7 @@ _Tiêu bản thực vật dược học là các mẫu thực vật được x�
 
 ## Tiêu bản thực vật dược học là gì
 
-[Tiêu bản thực vật](https://nhavantuonglai.com/article/tieu-ban-thuc-vat-hoa-kho) dược học là các mẫu thực vật được xử lý và bảo quản một cách khoa học nhằm mục đích nghiên cứu, giảng dạy và ứng dụng trong dược học. Các tiêu bản này thường được thu thập từ các loài thực vật có giá trị y học, sau đó được ép khô hoặc bảo quản trong dung dịch bảo quản để giữ nguyên các đặc tính quan trọng của chúng.
+[Tiêu bản thực vật](/article/tieu-ban-thuc-vat-hoa-kho) dược học là các mẫu thực vật được xử lý và bảo quản một cách khoa học nhằm mục đích nghiên cứu, giảng dạy và ứng dụng trong dược học. Các tiêu bản này thường được thu thập từ các loài thực vật có giá trị y học, sau đó được ép khô hoặc bảo quản trong dung dịch bảo quản để giữ nguyên các đặc tính quan trọng của chúng.
 
 – Nghiên cứu: Các tiêu bản thực vật dược học là cơ sở để các nhà nghiên cứu phân tích các thành phần hóa học, hoạt chất và tác dụng sinh học của thực vật.
 
@@ -40,7 +40,7 @@ Tiêu bản thực vật dược không chỉ là một công cụ học tập m
 
 – Hỗ trợ nghiên cứu: Các nhà nghiên cứu sử dụng tiêu bản thực vật để xác định các hợp chất hóa học có trong cây, từ đó phát triển các phương pháp điều trị mới.
 
-– Giáo dục: [Tiêu bản thực vật](https://nhavantuonglai.com/article/tieu-ban-thuc-vat-hoa-kho#bao-quan-tieu-ban-thuc-vat-hoa-kho) dược là tài liệu học tập quan trọng trong các trường đại học y dược, giúp sinh viên hiểu rõ hơn về các loài cây thuốc và cách sử dụng chúng.
+– Giáo dục: [Tiêu bản thực vật](/article/tieu-ban-thuc-vat-hoa-kho#bao-quan-tieu-ban-thuc-vat-hoa-kho) dược là tài liệu học tập quan trọng trong các trường đại học y dược, giúp sinh viên hiểu rõ hơn về các loài cây thuốc và cách sử dụng chúng.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/tieu-ban-thuc-vat-hoa-kho-17.jpg" alt="thuc vat hoc, tieu ban thuc vat, tieu ban, tieu ban hoa kho, tieu ban thuc vat kho, tieu ban hoa." title="thuc vat hoc, tieu ban thuc vat, tieu ban, tieu ban hoa kho, tieu ban thuc vat kho, tieu ban hoa." height=100% width=100%><figcaption><p>Tiêu bản hoa khô và tiêu bản thực vật khô là những mẫu thực vật đã qua xử lý, nhằm giữ nguyên hình dáng, cấu trúc và màu sắc.</p></figcaption></figure>
 
@@ -54,7 +54,7 @@ Trong các trường đại học y dược, tiêu bản thực vật đóng vai
 
 – Giảng dạy: Sinh viên học về các loài cây thuốc qua các tiêu bản thực vật, từ đó hiểu rõ về đặc điểm nhận dạng, thành phần hóa học và công dụng của từng loài.
 
-– Nghiên cứu: [Tiêu bản thực vật](https://nhavantuonglai.com/article/tieu-ban-thuc-vat-hoa-kho#lam-tieu-ban) là nguồn tài liệu quý giá để các nhà nghiên cứu phân tích và phát hiện các hợp chất dược liệu mới.
+– Nghiên cứu: [Tiêu bản thực vật](/article/tieu-ban-thuc-vat-hoa-kho#lam-tieu-ban) là nguồn tài liệu quý giá để các nhà nghiên cứu phân tích và phát hiện các hợp chất dược liệu mới.
 
 – Thực hành: Sinh viên có thể thực hành nhận dạng và phân loại các loài cây thuốc thông qua các tiêu bản, từ đó nâng cao kỹ năng và kiến thức chuyên môn.
 
@@ -70,7 +70,7 @@ Trong các trường đại học y dược, tiêu bản thực vật đóng vai
 
 ## Làm tiêu bản thực vật dược
 
-Quá trình làm [tiêu bản thực vật](https://nhavantuonglai.com/article/tieu-ban-thuc-vat-hoa-kho#tieu-ban-mau-ep-thuc-vat) dược đòi hỏi sự tỉ mỉ và kỹ thuật cao để đảm bảo các mẫu thực vật được bảo quản tốt nhất. Dưới đây là các bước cơ bản để làm tiêu bản thực vật dược:
+Quá trình làm [tiêu bản thực vật](/article/tieu-ban-thuc-vat-hoa-kho#tieu-ban-mau-ep-thuc-vat) dược đòi hỏi sự tỉ mỉ và kỹ thuật cao để đảm bảo các mẫu thực vật được bảo quản tốt nhất. Dưới đây là các bước cơ bản để làm tiêu bản thực vật dược:
 
 <iframe width="100%" height="1280" src="https://www.youtube.com/embed/enCACyBWrT0" title="thuc vat hoc, tieu ban thuc vat, tieu ban, tieu ban hoa kho, tieu ban thuc vat kho, tieu ban hoa." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -80,7 +80,7 @@ Quá trình làm [tiêu bản thực vật](https://nhavantuonglai.com/article/t
 
 – Ép khô: Đặt mẫu vật giữa hai lớp giấy thấm và ép khô bằng ván ép hoặc máy ép.
 
-– Bảo quản: Sau khi ép [tiêu bản thực vật](https://nhavantuonglai.com/article/tieu-ban-thuc-vat-hoa-kho#mua-tieu-ban-thuc-vat-hoa-kho), các mẫu vật được đặt trong các túi nylon hoặc khung kính để bảo quản.
+– Bảo quản: Sau khi ép [tiêu bản thực vật](/article/tieu-ban-thuc-vat-hoa-kho#mua-tieu-ban-thuc-vat-hoa-kho), các mẫu vật được đặt trong các túi nylon hoặc khung kính để bảo quản.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/tieu-ban-thuc-vat-hoa-kho-09.jpg" alt="thuc vat hoc, tieu ban thuc vat, tieu ban, tieu ban hoa kho, tieu ban thuc vat kho, tieu ban hoa." title="thuc vat hoc, tieu ban thuc vat, tieu ban, tieu ban hoa kho, tieu ban thuc vat kho, tieu ban hoa." height=100% width=100%><figcaption><p>Tiêu bản hoa khô và tiêu bản thực vật khô là những mẫu thực vật đã qua xử lý, nhằm giữ nguyên hình dáng, cấu trúc và màu sắc.</p></figcaption></figure>
 
@@ -92,7 +92,7 @@ Quá trình làm [tiêu bản thực vật](https://nhavantuonglai.com/article/t
 
 ## Đánh giá tiêu bản thực vật dược dựa trên những tiêu chí nào
 
-Để đánh giá chất lượng của một [tiêu bản thực vật](https://nhavantuonglai.com/article/tieu-ban-thuc-vat-hoa-kho#cach-lam-tieu-ban-la-cay), cần xem xét các tiêu chí sau:
+Để đánh giá chất lượng của một [tiêu bản thực vật](/article/tieu-ban-thuc-vat-hoa-kho#cach-lam-tieu-ban-la-cay), cần xem xét các tiêu chí sau:
 
 – Độ chính xác: Tiêu bản phải được thu thập và bảo quản đúng quy trình để đảm bảo độ chính xác về mặt hình thái và cấu trúc của mẫu vật.
 
@@ -114,6 +114,6 @@ Quá trình làm [tiêu bản thực vật](https://nhavantuonglai.com/article/t
 
 ## Kết luận
 
-[Tiêu bản thực vật](https://nhavantuonglai.com/article/tieu-ban-thuc-vat-hoa-kho#ban-tieu-ban-thuc-vat-kho) dược là một công cụ quan trọng trong nghiên cứu và giảng dạy y học. Bài viết này đã trình bày chi tiết về khái niệm, ý nghĩa và quy trình làm tiêu bản thực vật dược, cũng như các tiêu chí để đánh giá chất lượng của chúng. Hy vọng rằng những thông tin này sẽ giúp ích cho những ai đang quan tâm và muốn tìm hiểu về tiêu bản thực vật dược trong nghiên cứu và ứng dụng y học.
+[Tiêu bản thực vật](/article/tieu-ban-thuc-vat-hoa-kho#ban-tieu-ban-thuc-vat-kho) dược là một công cụ quan trọng trong nghiên cứu và giảng dạy y học. Bài viết này đã trình bày chi tiết về khái niệm, ý nghĩa và quy trình làm tiêu bản thực vật dược, cũng như các tiêu chí để đánh giá chất lượng của chúng. Hy vọng rằng những thông tin này sẽ giúp ích cho những ai đang quan tâm và muốn tìm hiểu về tiêu bản thực vật dược trong nghiên cứu và ứng dụng y học.
 
 <figure><img src="https://banmaixanh.vercel.app/image/cover/001-502.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

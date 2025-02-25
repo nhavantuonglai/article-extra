@@ -57,23 +57,23 @@ Rong chơi trời phương ngoại
 
 Thiền sư Không Lộ cũng như thiền sư Đạo Nguyên là những người đã có được cái _bây_giờ_ cho nên đồng thời họ cũng có được cái _ở đây._ Các vị không phải chỉ đang rong chơi trong cái _bây giờ_ và cái _ở đây,_ mà họ cũng chính là cái _bây giờ_ và cái _ở đây._ Thời gian, không gian, vật thể và tâm thức không phải là bốn cái riêng biệt. Tập sống được với cái _bây giờ,_ bạn sẽ thấy được cái không gian của vật thể cũng như cái thời gian của một kiếp người không đủ thiếu gì với bạn. _Cõi người ta_ nếu chỉ là _trăm năm_ thì quả là chật hẹp. Nếu _cõi người ta_ mà chỉ như thế thì bầu trời được nhìn thấy trên đỉnh núi của Không Lộ cũng không đủ bao la. Sống sâu sắc trong cái _bây giờ,_ bạn sẽ có cơ hội vượt thoát được thời gian, đi vào kiếp ngoại. Kiếp ngoại (akalpa) là thời gian ngoài thời gian, cũng như phương ngoại là không gian ngoài không gian. Tuệ Trung Thượng Sĩ đã nói đến chuyện chống gậy rong chơi trời phương ngoại.
 
-Đọc [Bây giờ mới thấy, chương 01](https://nhavantuonglai.com/article/bay-gio-moi-thay-chuong-01) tại đây.
+Đọc [Bây giờ mới thấy, chương 01](/article/bay-gio-moi-thay-chuong-01) tại đây.
 
-Đọc [Bây giờ mới thấy, chương 02](https://nhavantuonglai.com/article/bay-gio-moi-thay-chuong-02) tại đây.
+Đọc [Bây giờ mới thấy, chương 02](/article/bay-gio-moi-thay-chuong-02) tại đây.
 
-Đọc [Bây giờ mới thấy, chương 03](https://nhavantuonglai.com/article/bay-gio-moi-thay-chuong-03) tại đây.
+Đọc [Bây giờ mới thấy, chương 03](/article/bay-gio-moi-thay-chuong-03) tại đây.
 
-Đọc [Bây giờ mới thấy, chương 04](https://nhavantuonglai.com/article/bay-gio-moi-thay-chuong-04) tại đây.
+Đọc [Bây giờ mới thấy, chương 04](/article/bay-gio-moi-thay-chuong-04) tại đây.
 
-Đọc [Bây giờ mới thấy, chương 05](https://nhavantuonglai.com/article/bay-gio-moi-thay-chuong-05) tại đây.
+Đọc [Bây giờ mới thấy, chương 05](/article/bay-gio-moi-thay-chuong-05) tại đây.
 
-Đọc [Bây giờ mới thấy, chương 06](https://nhavantuonglai.com/article/bay-gio-moi-thay-chuong-06) tại đây.
+Đọc [Bây giờ mới thấy, chương 06](/article/bay-gio-moi-thay-chuong-06) tại đây.
 
-Đọc [Bây giờ mới thấy, chương 07](https://nhavantuonglai.com/article/bay-gio-moi-thay-chuong-07) tại đây.
+Đọc [Bây giờ mới thấy, chương 07](/article/bay-gio-moi-thay-chuong-07) tại đây.
 
-Đọc [Bây giờ mới thấy, chương 08](https://nhavantuonglai.com/article/bay-gio-moi-thay-chuong-08) tại đây.
+Đọc [Bây giờ mới thấy, chương 08](/article/bay-gio-moi-thay-chuong-08) tại đây.
 
-Đọc [Bây giờ mới thấy, chương 09](https://nhavantuonglai.com/article/bay-gio-moi-thay-chuong-09) tại đây.
+Đọc [Bây giờ mới thấy, chương 09](/article/bay-gio-moi-thay-chuong-09) tại đây.
 
 Đọc [Bây giờ mới thấy, toàn tập](https://banmaixanh.vercel.app/ebook/bay-gio-moi-thay.pdf) tại đây.
 

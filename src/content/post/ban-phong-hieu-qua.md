@@ -19,9 +19,9 @@ _Bán phòng trên nhiều kênh (hay còn gọi là bán phòng đa kênh) là 
 
 ## Các công việc của quản lý các kênh bán phòng
 
-Hiện nay, bán phòng đa kênh đang là xu hướng và cũng là một trong những [chiến lược bán phòng hiệu quả](https://nhavantuonglai.com/article) giúp khách sạn tối ưu doanh thu đáng kể. Một số kênh bán phòng phổ biến như: bán phòng trực tiếp, bán phòng thông qua các đại lý du lịch trực tuyến (Kênh OTA), các công ty du lịch lữ hành (TA) hay bán phòng trực tiếp qua website khách sạn…
+Hiện nay, bán phòng đa kênh đang là xu hướng và cũng là một trong những [chiến lược bán phòng hiệu quả](/article) giúp khách sạn tối ưu doanh thu đáng kể. Một số kênh bán phòng phổ biến như: bán phòng trực tiếp, bán phòng thông qua các đại lý du lịch trực tuyến (Kênh OTA), các công ty du lịch lữ hành (TA) hay bán phòng trực tiếp qua website khách sạn…
 
-Tuy nhiên, có thể thấy rằng bán phòng thông qua các đại lý kênh OTA đang được các khách sạn chú trọng vì đem lại hiệu quả nhanh chóng. Việc theo dõi và quản lý bán phòng qua các kênh OTA thường do nhân viên sale online ([Sale kênh OTA](https://nhavantuonglai.com/article) chịu trách nhiệm chính. Các công việc mà một nhân viên Sale kênh OTA phải xử lý và theo dõi bao gồm:
+Tuy nhiên, có thể thấy rằng bán phòng thông qua các đại lý kênh OTA đang được các khách sạn chú trọng vì đem lại hiệu quả nhanh chóng. Việc theo dõi và quản lý bán phòng qua các kênh OTA thường do nhân viên sale online ([Sale kênh OTA](/article) chịu trách nhiệm chính. Các công việc mà một nhân viên Sale kênh OTA phải xử lý và theo dõi bao gồm:
 
 – Đăng ký và tài khoản bán phòng trên kênh OTA Extranet.
 
@@ -59,19 +59,19 @@ Số lượng nhiều kênh nên việc giám sát giá phòng trên các ít nh
 
 ### Tình trạng overbooking xảy ra liên tục
 
-Tình trạng [overbooking](https://nhavantuonglai.com/article) tại khách sạn thường xảy ra vào những mùa cao điểm khi số lượng khách đặt phòng vượt mức số lượng phòng cho phép. Một trong những nguyên nhân dẫn đến tình trạng này là do thiếu sót trong quá trình quản lý kênh bán phòng, đóng/ mở phòng không chính xác và không kịp thời.
+Tình trạng [overbooking](/article) tại khách sạn thường xảy ra vào những mùa cao điểm khi số lượng khách đặt phòng vượt mức số lượng phòng cho phép. Một trong những nguyên nhân dẫn đến tình trạng này là do thiếu sót trong quá trình quản lý kênh bán phòng, đóng/ mở phòng không chính xác và không kịp thời.
 
 ### Chưa có nhiều kinh nghiệm quản lý bán lý kênh bán phòng
 
-Mong muốn mở bán phòng, quản lý đa kênh nhưng khách sạn lại chưa hiểu rõ các chính sách cũng như cơ chế bán phòng của từng kênh OTA. Chính vì vậy, khiến khách sạn gặp nhiều khó khăn trong việc xây dựng [chiến lược kênh OTA](https://nhavantuonglai.com/article) để gia tăng và thu hút lượt khách đặt phòng qua các kênh OTA bằng cách tạo các gói quà tặng, chương trình khuyến mãi, tạo các chính sách giá hoàn/ hủy linh động…
+Mong muốn mở bán phòng, quản lý đa kênh nhưng khách sạn lại chưa hiểu rõ các chính sách cũng như cơ chế bán phòng của từng kênh OTA. Chính vì vậy, khiến khách sạn gặp nhiều khó khăn trong việc xây dựng [chiến lược kênh OTA](/article) để gia tăng và thu hút lượt khách đặt phòng qua các kênh OTA bằng cách tạo các gói quà tặng, chương trình khuyến mãi, tạo các chính sách giá hoàn/ hủy linh động…
 
 ### Khó khăn quản lý từ xa
 
-Một trong những trở ngại đối với người làm kinh doanh khách sạn là làm cách nào để [quản lý từ khách sạn từ xa hiệu quả](https://nhavantuonglai.com/article) ngay cả khi chủ khách sạn hay nhân viên sale không có mặt trực tiếp tại khách sạn, không có công cụ để làm việc. Nhưng vẫn có theo dõi và nhận thông báo toàn bộ các trạng thái đặt phòng từ các kênh OTA đổ về. Song theo đó là xử lý đóng/mở phòng và cập nhật tình trạng phòng trống trên các kênh OTA nhanh chóng và tức thời.
+Một trong những trở ngại đối với người làm kinh doanh khách sạn là làm cách nào để [quản lý từ khách sạn từ xa hiệu quả](/article) ngay cả khi chủ khách sạn hay nhân viên sale không có mặt trực tiếp tại khách sạn, không có công cụ để làm việc. Nhưng vẫn có theo dõi và nhận thông báo toàn bộ các trạng thái đặt phòng từ các kênh OTA đổ về. Song theo đó là xử lý đóng/mở phòng và cập nhật tình trạng phòng trống trên các kênh OTA nhanh chóng và tức thời.
 
 ## Sự cần thiết công cụ quản lý kênh Channel Manager – nguyên tắc hoạt động
 
-Như đã phân tích ở trên, bán phòng đa kênh vừa đem lại hiệu quả cho khách sạn nhưng cũng phát sinh ra nhiều vấn đề. Và hầu như việc quản lý ngoài sự hỗ trợ của công cụ là điều không thể. Với khách sạn nhiều phòng, nhiều booking thì khá phức tạp, khách sạn ít phòng như homestay thì lại dễ bị overbooking. Khi đó, việc sử công cụ quản lý kênh bán phòng kênh OTA – [Channel Manager](https://nhavantuonglai.com/article) (CMS) càng trở nên quan trọng và cần thiết đối với khách sạn.
+Như đã phân tích ở trên, bán phòng đa kênh vừa đem lại hiệu quả cho khách sạn nhưng cũng phát sinh ra nhiều vấn đề. Và hầu như việc quản lý ngoài sự hỗ trợ của công cụ là điều không thể. Với khách sạn nhiều phòng, nhiều booking thì khá phức tạp, khách sạn ít phòng như homestay thì lại dễ bị overbooking. Khi đó, việc sử công cụ quản lý kênh bán phòng kênh OTA – [Channel Manager](/article) (CMS) càng trở nên quan trọng và cần thiết đối với khách sạn.
 
 ### Channel Manager: là công cụ trung gian ở trung tâm, chịu trách nhiệm kết nối CMS và đồng bộ với tất cả các kênh OTA của khách sạn. Và nhân viên sale kênh OTA hàng ngày chỉ làm việc với CMS thay vì từng tài khoản do kênh OTA cung cấp
 
@@ -107,7 +107,7 @@ Vì vậy khách sạn nên lựa chọn mô hình CMS phù hợp để đảm b
 
 ### Liên kết tích hợp với phần mềm quản lý khách sạn PMS
 
-CMS thực ra mới chỉ giải quyết được các kênh online, tuy nhiên khách sạn của bạn còn nhiều kênh khác nữa như: TA, Booking engine, Walk – in, điện thoại… như vậy việc tự động và giảm công sức nhân viên vẫn chưa triệt để. Để giải quyết vấn đề này, các giải pháp quản lý khách sạn tiên tiến ngày nay thì CMS phải tích hợp được với [phần mềm quản lý khách sạn PMS](https://nhavantuonglai.com/article) và công cụ đặt phòng trực tiếp trên website khách sạn. Bằng cách này, sẽ cung cấp cho khách sạn một giải pháp quản lý khách sạn toàn diện _[Tất cả trong một](https://nhavantuonglai.com/article)_ giúp:
+CMS thực ra mới chỉ giải quyết được các kênh online, tuy nhiên khách sạn của bạn còn nhiều kênh khác nữa như: TA, Booking engine, Walk – in, điện thoại… như vậy việc tự động và giảm công sức nhân viên vẫn chưa triệt để. Để giải quyết vấn đề này, các giải pháp quản lý khách sạn tiên tiến ngày nay thì CMS phải tích hợp được với [phần mềm quản lý khách sạn PMS](/article) và công cụ đặt phòng trực tiếp trên website khách sạn. Bằng cách này, sẽ cung cấp cho khách sạn một giải pháp quản lý khách sạn toàn diện _[Tất cả trong một](/article)_ giúp:
 
 – Quản lý kênh OTA hầu như là tự động, đối với các công việc như nhập booking, đóng mở phòng, hủy booking, sửa booking… mà không cần sự thao tác của nhân viên khách sạn.
 

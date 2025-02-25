@@ -83,19 +83,19 @@ Một ngày nọ đứa con trai của ông trốn thoát khỏi tay bọn cư�
 
 Bảo vệ kiến thức không phải là cách hiểu biết đúng đắn. Hiểu nghĩa là buông bỏ kiến thức của mình. Chúng ta phải có khả năng buông bỏ kiến thức của ta như người leo thang. Nếu ta bước lên nấc thang thứ năm và cho rằng ta đang ở trên nấc thang cao nhất thì ta không có hy vọng leo lên nấc thang thứ sáu. Cách hay nhất là ta phải buông bỏ nấc thang thứ năm. Theo đạo Bụt, muốn hiểu ta phải có khả năng buông bỏ những kiến thức, quan điểm của ta để vượt thoát. Đây là giáo lý quan trọng nhất. Cũng vì lý do đó mà tôi sử dụng hình ảnh của nước để nói về cái hiểu. Kiến thức thì cứng nhắc, nó sẽ làm cản trở sự hiểu biết. Nước thì trôi chảy, có thể thâm nhập được.
 
-Đọc [Muốn an được an, chương 01](https://nhavantuonglai.com/article/muon-an-duoc-an-chuong-01) tại đây.
+Đọc [Muốn an được an, chương 01](/article/muon-an-duoc-an-chuong-01) tại đây.
 
-Đọc [Muốn an được an, chương 02](https://nhavantuonglai.com/article/muon-an-duoc-an-chuong-02) tại đây.
+Đọc [Muốn an được an, chương 02](/article/muon-an-duoc-an-chuong-02) tại đây.
 
-Đọc [Muốn an được an, chương 03](https://nhavantuonglai.com/article/muon-an-duoc-an-chuong-03) tại đây.
+Đọc [Muốn an được an, chương 03](/article/muon-an-duoc-an-chuong-03) tại đây.
 
-Đọc [Muốn an được an, chương 04](https://nhavantuonglai.com/article/muon-an-duoc-an-chuong-04) tại đây.
+Đọc [Muốn an được an, chương 04](/article/muon-an-duoc-an-chuong-04) tại đây.
 
-Đọc [Muốn an được an, chương 05](https://nhavantuonglai.com/article/muon-an-duoc-an-chuong-05) tại đây.
+Đọc [Muốn an được an, chương 05](/article/muon-an-duoc-an-chuong-05) tại đây.
 
-Đọc [Muốn an được an, chương 06](https://nhavantuonglai.com/article/muon-an-duoc-an-chuong-06) tại đây.
+Đọc [Muốn an được an, chương 06](/article/muon-an-duoc-an-chuong-06) tại đây.
 
-Đọc [Muốn an được an, chương 07](https://nhavantuonglai.com/article/muon-an-duoc-an-chuong-07) tại đây.
+Đọc [Muốn an được an, chương 07](/article/muon-an-duoc-an-chuong-07) tại đây.
 
 Đọc [Muốn an được an, toàn tập](https://banmaixanh.vercel.app/ebook/muon-an-duoc-an.pdf) tại đây.
 

@@ -63,13 +63,13 @@ Cây cầu mới nhất là cầu Rào được xây lại. Đỉnh cầu gắn 
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/du-lich-hai-phong-265.jpg" alt="cam-nang-du-lich-hai-phong" height=100% width=100%><figcaption><p>cam-nang-du-lich-hai-phong-nhavantuonglai</p></figcaption></figure>
 
-Hồ nước ở Hải Phòng được các bạn trẻ ví như [_Tuyệt tình cốc_](https://nhavantuonglai.com/article) bởi màu nước xanh lạ mắt và bao bọc bởi núi đá vôi.
+Hồ nước ở Hải Phòng được các bạn trẻ ví như [_Tuyệt tình cốc_](/article) bởi màu nước xanh lạ mắt và bao bọc bởi núi đá vôi.
 
 Hồ nước này nằm ở thôn Trại Sơn, xã An Sơn, huyện Thủy Nguyên. Nơi đây trước kia có tên là hồ Cổ Yếm, nổi bật với màu xanh ngắt bao trùm khắp không gian rộng lớn với diện tích khoảng 20 ha. Độ đậm nhạt của màu xanh thay đổi nhiều lần trong ngày, tùy thuộc vào mây trời.
 
 > Đồ Sơn
 
-Đồ Sơn chia làm 3 khu, trong đó khu 2 chuyên để tắm biển, khu 1 để ăn uống và đi dạo. Dọc đường ven biển, du khách có thể tham quan [chùa Hang](https://nhavantuonglai.com/article) được lưu truyền là nơi đầu tiên Phật giáo du nhập vào Việt Nam; đền Ngọc Hoàng; đền Vạn Ngang. [Chùa Tháp Tường Long](https://nhavantuonglai.com/article) nằm ở đỉnh núi cao nhất Đồ Sơn, từ đây có thể nhìn toàn cảnh vùng biển đẹp. Đền Bà Đế trên đường tới Đồ Sơn cũng rất nổi tiếng, thờ Trịnh Chúa phu nhân.
+Đồ Sơn chia làm 3 khu, trong đó khu 2 chuyên để tắm biển, khu 1 để ăn uống và đi dạo. Dọc đường ven biển, du khách có thể tham quan [chùa Hang](/article) được lưu truyền là nơi đầu tiên Phật giáo du nhập vào Việt Nam; đền Ngọc Hoàng; đền Vạn Ngang. [Chùa Tháp Tường Long](/article) nằm ở đỉnh núi cao nhất Đồ Sơn, từ đây có thể nhìn toàn cảnh vùng biển đẹp. Đền Bà Đế trên đường tới Đồ Sơn cũng rất nổi tiếng, thờ Trịnh Chúa phu nhân.
 
 Đừng quên ghé thăm biệt thự Bảo Đại trên ngọn đồi với tầm nhìn ra 4 hướng lộng gió, mát mẻ ngay giữa mùa hè. Biệt thự bao phủ trong mùi hoa đại, tạo cảm giác dễ chịu khi tham quan. Bạn có thể thuê quần áo hoàng tộc để chụp ảnh tại đây, với giá 30.000 đồng một lượt.
 
@@ -83,7 +83,7 @@ Ngoài những địa điểm trên, Cát Bà là _viên ngọc_ của du lịch
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/du-lich-hai-phong-267.jpg" alt="cam-nang-du-lich-hai-phong" height=100% width=100%><figcaption><p>cam-nang-du-lich-hai-phong-nhavantuonglai</p></figcaption></figure>
 
-Hải Phòng nổi tiếng nhất với các món ẩm thực đường phố. Du khách từ các tỉnh lựa chọn [food tour](https://nhavantuonglai.com/article) trong ngày để thưởng thức các món ngon Hải Phòng như bánh bèo, bánh đa cua, bánh mì cay, dừa dầm, bún cá cay, ốc, trà cúc, sủi dìn, bánh đúc tàu…
+Hải Phòng nổi tiếng nhất với các món ẩm thực đường phố. Du khách từ các tỉnh lựa chọn [food tour](/article) trong ngày để thưởng thức các món ngon Hải Phòng như bánh bèo, bánh đa cua, bánh mì cay, dừa dầm, bún cá cay, ốc, trà cúc, sủi dìn, bánh đúc tàu…
 
 Bánh đúc tàu là món nghe khá lạ với người tỉnh khác gồm bánh đúc được cắt nhỏ, đu đủ cắt hạt lựu, với tôm và thịt rán kỹ ăn rất bùi. Sau đó chúng được chan cùng nước mắm giấm chua cay.
 

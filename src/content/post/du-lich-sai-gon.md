@@ -73,7 +73,7 @@ Ngoài ra, du khách có thể bao trọn du thuyền loại nhỏ, với sức 
 
 Ngắm cảnh từ xe buýt hai tầng
 
-Trung tâm thành phố có xe buýt 2 tầng mui trần. Xe có hệ thống thuyết minh đa ngôn ngữ tự động hướng dẫn về các địa điểm trên đường, bản đồ du lịch, wifi miễn phí, hướng dẫn viên. Mỗi chuyến dài khoảng 60 phút, qua những địa điểm nổi tiếng như Thảo Cầm Viên, bảo tàng Chứng tích chiến tranh, phố đi bộ Bùi Viện, chợ Bến Thành, [phố đi bộ Nguyễn Huệ](https://nhavantuonglai.com/article), nhà hát thành phố và kết thúc bằng trải nghiệm ngắm thành phố từ trên cao tại Saigon Skydeck tầng 49 toà tháp Bitexco Financial Tower.
+Trung tâm thành phố có xe buýt 2 tầng mui trần. Xe có hệ thống thuyết minh đa ngôn ngữ tự động hướng dẫn về các địa điểm trên đường, bản đồ du lịch, wifi miễn phí, hướng dẫn viên. Mỗi chuyến dài khoảng 60 phút, qua những địa điểm nổi tiếng như Thảo Cầm Viên, bảo tàng Chứng tích chiến tranh, phố đi bộ Bùi Viện, chợ Bến Thành, [phố đi bộ Nguyễn Huệ](/article), nhà hát thành phố và kết thúc bằng trải nghiệm ngắm thành phố từ trên cao tại Saigon Skydeck tầng 49 toà tháp Bitexco Financial Tower.
 
 Xe hoạt động từ 9h đến 22h30 hằng ngày, mỗi 30 phút sẽ có một chuyến. Buổi tối, xe cung cấp thêm gói dịch vụ ăn tối trên du thuyền cao cấp dọc sông Sài Gòn. Có thể mua vé trực tiếp tại quầy ở điểm xuất phát 92-96 Nguyễn Huệ, quận 1 hoặc đặt online.
 
@@ -107,19 +107,19 @@ Dinh Độc Lập
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/du-lich-sai-gon-588.jpg" alt="cam-nang-du-lich-sai-gon" height=100% width=100%><figcaption><p>cam-nang-du-lich-sai-gon-nhavantuonglai</p></figcaption></figure>
 
-[Dinh Độc Lập](https://nhavantuonglai.com/article) hay Dinh Thống Nhất là một trong những địa điểm tham quan không thể bỏ qua khi ghé thăm Sài Gòn. Tọa lạc tại trung tâm quận 1, Dinh Độc Lập vừa cổ kính, vừa hiện đại, từ lâu đã trở thành một trong những biểu tượng của thành phố. Vào các ngày cuối tuần hoặc dịp lễ lớn như 30/4, Dinh Độc Lập thường kín khách tham quan.
+[Dinh Độc Lập](/article) hay Dinh Thống Nhất là một trong những địa điểm tham quan không thể bỏ qua khi ghé thăm Sài Gòn. Tọa lạc tại trung tâm quận 1, Dinh Độc Lập vừa cổ kính, vừa hiện đại, từ lâu đã trở thành một trong những biểu tượng của thành phố. Vào các ngày cuối tuần hoặc dịp lễ lớn như 30/4, Dinh Độc Lập thường kín khách tham quan.
 
 Vé tham quan Tòa nhà chính và Nhà trưng bày _Từ Dinh Norodom đến Dinh Độc Lập 1868 – 1966_ có giá từ 15.000 đồng đến 65.000 đồng. Nếu chỉ tham quan tòa nhà chính, giá vé là 10.000 đến 40.000 đồng.
 
 Bảo tàng chứng tích chiến tranh
 
-Bảo tàng chứng tích chiến tranh đứng thứ 61 và là đại diện duy nhất của Việt Nam trong [danh sách 99 điểm đến hút khách](https://nhavantuonglai.com/article) nhất thế giới. Bảo tàng nằm trên đường Võ Văn Tần, quận 3, thành lập năm 1975, chuyên nghiên cứu, sưu tầm, bảo quản và trưng bày về chứng tích tội ác, hậu quả của các cuộc chiến tranh xâm lược Việt Nam. Bảo tàng lưu giữ hơn 20.000 tài liệu, hiện vật và phim ảnh. Các chủ đề gồm có Vũ khí trưng ngoài trời, Chế độ lao tù, Chất độc da cam, Những sự thật lịch sử, Tội ác chiến tranh.
+Bảo tàng chứng tích chiến tranh đứng thứ 61 và là đại diện duy nhất của Việt Nam trong [danh sách 99 điểm đến hút khách](/article) nhất thế giới. Bảo tàng nằm trên đường Võ Văn Tần, quận 3, thành lập năm 1975, chuyên nghiên cứu, sưu tầm, bảo quản và trưng bày về chứng tích tội ác, hậu quả của các cuộc chiến tranh xâm lược Việt Nam. Bảo tàng lưu giữ hơn 20.000 tài liệu, hiện vật và phim ảnh. Các chủ đề gồm có Vũ khí trưng ngoài trời, Chế độ lao tù, Chất độc da cam, Những sự thật lịch sử, Tội ác chiến tranh.
 
 Vé tham quan bảo tàng: 40.000 đồng mỗi người, trẻ em dưới 6 tuổi được miễn phí. Giờ mở cửa thứ hai đến thứ sáu từ 7h30 đến 11h30. Thứ 7 và chủ nhật mở từ 7h30 đến 16h30.
 
 Bảo tàng Biệt động Sài Gòn
 
-[Bảo tàng biệt động Sài Gòn](https://nhavantuonglai.com/article) nằm ở tầng hai của một căn nhà xây dựng năm 1963 trên đường Trần Quang Khải, quận 1. Ngôi nhà ban đầu là cơ sở hoạt động bí mật của lực lượng biệt động Sài Gòn dưới sự quản lý của ông Trần Văn Lai (tức Năm Lai). Bảo tàng hoạt động từ ngày 24/12/2019, diện tích hơn 100 m2, trưng bày hơn 100 hiện vật của những người lính biệt động. Các đồ vật trong nhà vẫn còn nguyên và được bài trí gần giống trước kia. Khách tham quan được xem những bộ phim ngắn về lực lượng biệt động Sài Gòn.
+[Bảo tàng biệt động Sài Gòn](/article) nằm ở tầng hai của một căn nhà xây dựng năm 1963 trên đường Trần Quang Khải, quận 1. Ngôi nhà ban đầu là cơ sở hoạt động bí mật của lực lượng biệt động Sài Gòn dưới sự quản lý của ông Trần Văn Lai (tức Năm Lai). Bảo tàng hoạt động từ ngày 24/12/2019, diện tích hơn 100 m2, trưng bày hơn 100 hiện vật của những người lính biệt động. Các đồ vật trong nhà vẫn còn nguyên và được bài trí gần giống trước kia. Khách tham quan được xem những bộ phim ngắn về lực lượng biệt động Sài Gòn.
 
 Giờ tham quan: từ 7h đến 22h các ngày trong tuần, miễn vé vào cửa.
 
@@ -177,7 +177,7 @@ Di chuyển: Từ trung tâm thành phố, theo hướng cầu Tân Thuận, t�
 
 Địa đạo Củ Chi
 
-Cách trung tâm Sài Gòn khoảng 70 km, [địa đạo Củ Chi](https://nhavantuonglai.com/article) (huyện Củ Chi) với hệ thống đường hầm dài khoảng 250 km, là căn cứ địa vững chắc của Khu ủy Quân khu, Bộ tư lệnh Sài Gòn – Gia Định, góp phần không nhỏ vào công cuộc thống nhất đất nước. Ngày nay di tích địa đạo được bảo tồn ở hai khu vực Bến Dược (xã Phú Mỹ Hưng) và Bến Đình (xã Nhuận Đức), thu hút du khách khi đến Sài Gòn. Một số đường hầm được cải tạo, mở nắp rộng hơn cho du khách tham quan.
+Cách trung tâm Sài Gòn khoảng 70 km, [địa đạo Củ Chi](/article) (huyện Củ Chi) với hệ thống đường hầm dài khoảng 250 km, là căn cứ địa vững chắc của Khu ủy Quân khu, Bộ tư lệnh Sài Gòn – Gia Định, góp phần không nhỏ vào công cuộc thống nhất đất nước. Ngày nay di tích địa đạo được bảo tồn ở hai khu vực Bến Dược (xã Phú Mỹ Hưng) và Bến Đình (xã Nhuận Đức), thu hút du khách khi đến Sài Gòn. Một số đường hầm được cải tạo, mở nắp rộng hơn cho du khách tham quan.
 
 Di chuyển: xe buýt số 13 xuất phát từ chợ Bến Thành tới thẳng Củ Chi, taxi khoảng 500.000 đồng một lượt. Nếu đi bằng ôtô riêng hay xe máy, du khách theo quốc lộ 22 sau đó rẽ vào tỉnh lộ 15.
 
@@ -201,7 +201,7 @@ Chợ nằm ở cửa ngõ phía tây thành phố, trong khu phố Tàu, luôn 
 
 ## Ẩm thực
 
-Sài Gòn là nơi hội tụ của [ẩm thực nhiều vùng miền](https://nhavantuonglai.com/article) và nhiều quốc gia. Du khách có thể tìm thấy món ăn dọc ba miền, còn có món Hoa đặc trưng, ẩm thực Ấn Độ, Nhật Bản, Hàn Quốc, Thái Lan… hay đồ chay tại vô số các nhà hàng lớn nhỏ trong thành phố. Các món ăn đặc trưng du khách nên thử gồm: cơm tấm, hủ tíu, bánh mì, cá lóc nướng trui, bánh xèo, cơm cháy kho quẹt.
+Sài Gòn là nơi hội tụ của [ẩm thực nhiều vùng miền](/article) và nhiều quốc gia. Du khách có thể tìm thấy món ăn dọc ba miền, còn có món Hoa đặc trưng, ẩm thực Ấn Độ, Nhật Bản, Hàn Quốc, Thái Lan… hay đồ chay tại vô số các nhà hàng lớn nhỏ trong thành phố. Các món ăn đặc trưng du khách nên thử gồm: cơm tấm, hủ tíu, bánh mì, cá lóc nướng trui, bánh xèo, cơm cháy kho quẹt.
 
 Các phố ẩm thực dưới đây là gợi ý cho những người lần đầu đến Sài Gòn.
 
@@ -217,17 +217,17 @@ Các món ốc là đặc sản của Sài Gòn. Bất kỳ ở đâu trong thà
 
 Phố ẩm thực Hồ Thị Kỷ
 
-[Phố ẩm thực trên đường Hồ Thị Kỷ](https://nhavantuonglai.com/article), quận 10 là một trong những điểm đến hút cả du khách lẫn dân địa phương. Mở cửa từ 15h mỗi ngày, hơn 100 hàng quán bán đủ món Âu-Á và nhiều vùng miền khác ở Việt Nam. Khu phố thu hút thực khách nhờ những món xiên nướng, các loại hải sản chế biến như tôm hùm nướng phô mai, răng mực nướng muối ớt. Các món có mức giá dao động từ 7.000 đến 100.000 đồng.
+[Phố ẩm thực trên đường Hồ Thị Kỷ](/article), quận 10 là một trong những điểm đến hút cả du khách lẫn dân địa phương. Mở cửa từ 15h mỗi ngày, hơn 100 hàng quán bán đủ món Âu-Á và nhiều vùng miền khác ở Việt Nam. Khu phố thu hút thực khách nhờ những món xiên nướng, các loại hải sản chế biến như tôm hùm nướng phô mai, răng mực nướng muối ớt. Các món có mức giá dao động từ 7.000 đến 100.000 đồng.
 
 Phố ẩm thực Nguyễn Thượng Hiền
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/du-lich-sai-gon-595.jpg" alt="cam-nang-du-lich-sai-gon" height=100% width=100%><figcaption><p>cam-nang-du-lich-sai-gon-nhavantuonglai</p></figcaption></figure>
 
-[Phố ẩm thực Nguyễn Thượng Hiền ](https://nhavantuonglai.com/article)(từ đường Điện Biên Phủ đến Nguyễn Đình Chiểu, quận ) hoạt động từ 19h đến 23h mỗi ngày. Trên tuyến có hơn 90 điểm kinh doanh ăn uống cùng hơn 50 cửa hàng buôn bán quần áo, giày dép, làm đẹp. Con phố nổi tiếng với những món ăn như bánh tráng trộn, tré trộn, nước ép bưởi. Một số cửa tiệm cũng phục vụ món ăn kiểu Campuchia.
+[Phố ẩm thực Nguyễn Thượng Hiền ](/article)(từ đường Điện Biên Phủ đến Nguyễn Đình Chiểu, quận ) hoạt động từ 19h đến 23h mỗi ngày. Trên tuyến có hơn 90 điểm kinh doanh ăn uống cùng hơn 50 cửa hàng buôn bán quần áo, giày dép, làm đẹp. Con phố nổi tiếng với những món ăn như bánh tráng trộn, tré trộn, nước ép bưởi. Một số cửa tiệm cũng phục vụ món ăn kiểu Campuchia.
 
 Phố sủi cảo Hà Tôn Quyền
 
-Đường Hà Tôn Quyền, quận 11, là địa chỉ [bán sủi cảo gốc Hoa](https://nhavantuonglai.com/article) có tiếng, với các cửa hàng dọc hai bên phố. Cả khu phố lúc nào cũng tấp nập người ra vào, nhất là chiều và tối. Các món ở đây phong phú như chiên, khô (sốt dầu hào), mì sủi cảo, tôm mực, thập cẩm, cá viên, mì kéo với giá trung bình từ 50.000 đồng một phần. Khách thường chạy xe dọc phố, sẽ có người từ hàng quán ra chào mời, hướng dẫn chỗ để xe miễn phí rồi vào nhà gọi món.
+Đường Hà Tôn Quyền, quận 11, là địa chỉ [bán sủi cảo gốc Hoa](/article) có tiếng, với các cửa hàng dọc hai bên phố. Cả khu phố lúc nào cũng tấp nập người ra vào, nhất là chiều và tối. Các món ở đây phong phú như chiên, khô (sốt dầu hào), mì sủi cảo, tôm mực, thập cẩm, cá viên, mì kéo với giá trung bình từ 50.000 đồng một phần. Khách thường chạy xe dọc phố, sẽ có người từ hàng quán ra chào mời, hướng dẫn chỗ để xe miễn phí rồi vào nhà gọi món.
 
 ## Lưu ý
 

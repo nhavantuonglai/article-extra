@@ -91,13 +91,13 @@ Quý vị nhìn xem có lần nào ta đã như chàng Trương chưa? Và chuy�
 
 Đây là một vài bài pháp thoại cho thiếu nhi, cũng như cho những người trẻ. Nếu quý vị huynh trưởng trong Gia Đình Phật Tử có thể dạy các em những bài pháp thoại như thế thì các em sẽ biết đem Phật Pháp áp dụng vào cuộc sống hàng ngày của các em.
 
-Đọc [Đạo Phật của tuổi trẻ, chương 01](https://nhavantuonglai.com/article/dao-phat-cua-tuoi-tre-chuong-01) tại đây.
+Đọc [Đạo Phật của tuổi trẻ, chương 01](/article/dao-phat-cua-tuoi-tre-chuong-01) tại đây.
 
-Đọc [Đạo Phật của tuổi trẻ, chương 02](https://nhavantuonglai.com/article/dao-phat-cua-tuoi-tre-chuong-02) tại đây.
+Đọc [Đạo Phật của tuổi trẻ, chương 02](/article/dao-phat-cua-tuoi-tre-chuong-02) tại đây.
 
-Đọc [Đạo Phật của tuổi trẻ, chương 03](https://nhavantuonglai.com/article/dao-phat-cua-tuoi-tre-chuong-03) tại đây.
+Đọc [Đạo Phật của tuổi trẻ, chương 03](/article/dao-phat-cua-tuoi-tre-chuong-03) tại đây.
 
-Đọc [Đạo Phật của tuổi trẻ, chương 04](https://nhavantuonglai.com/article/dao-phat-cua-tuoi-tre-chuong-04) tại đây.
+Đọc [Đạo Phật của tuổi trẻ, chương 04](/article/dao-phat-cua-tuoi-tre-chuong-04) tại đây.
 
 Đọc [Đạo Phật của tuổi trẻ, toàn tập](https://banmaixanh.vercel.app/ebook/dao-phat-cua-tuoi-tre.pdf) tại đây.
 

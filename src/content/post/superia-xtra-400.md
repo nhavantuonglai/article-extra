@@ -36,7 +36,7 @@ Kể từ khi ra mắt, Fujufilm đã liên tục cải tiến quy trình sản 
 
 ### Tác động đến ngành công nghiệp film nhiếp ảnh
 
-Sự thành công của Fujufilm [Superia XTRA 400](https://nhavantuonglai.com/article/superia-xtra-400) đã tạo ra một làn sóng mới trong ngành công nghiệp film nhiếp ảnh. Nó không chỉ mở ra một phân khúc thị trường mới mà còn khuyến khích các nhà sản xuất khác nghiên cứu và phát triển các sản phẩm tương tự. Điều này đã góp phần làm phong phú thêm thị trường film nhiếp ảnh và tạo ra nhiều lựa chọn hơn cho người dùng.
+Sự thành công của Fujufilm [Superia XTRA 400](/article/superia-xtra-400) đã tạo ra một làn sóng mới trong ngành công nghiệp film nhiếp ảnh. Nó không chỉ mở ra một phân khúc thị trường mới mà còn khuyến khích các nhà sản xuất khác nghiên cứu và phát triển các sản phẩm tương tự. Điều này đã góp phần làm phong phú thêm thị trường film nhiếp ảnh và tạo ra nhiều lựa chọn hơn cho người dùng.
 
 ## Thông số kỹ thuật của Fujufilm Superia XTRA 400
 

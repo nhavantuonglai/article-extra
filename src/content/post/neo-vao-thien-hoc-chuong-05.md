@@ -135,17 +135,17 @@ Tùy thuận thể nhập tức là trở về với thế giới như như và 
 
 Thiền tuy trên nguyên tắc có tuyên bố bất lập văn tự, nhưng trên thực tế vẫn xử dụng ngôn ngữ để làm phương tiện khai dẫn sự ngộ nhập thực tại vô ngôn, vô niệm. Sự thành công hay thất bại của thiền sư là ở chỗ người thiền giả có nương vào ngôn ngữ ấy để _tùy thuận_ mà thực chứng hay không. Còn nếu thiền giả ôm chặt lấy ngôn ngữ một cách biến kế sở chấp thì không có hy vọng gì sự đạt ngộ được thực hiện. Lý do khiến thiền sư không khuyến khích đệ tử đi sâu vào tư tưởng Bát Nhã và Duy Thức không phải là vì tư tưởng Bát Nhã và Duy Thức chống đối lại tư tưởng Thiền. Trái lại, tư tưởng Bát Nhã và Duy Thức có thể giúp soi sáng thiền học. Tuy nhiên Thiền không phải là thiền học; Thiền là sự sống trực tiếp trong lòng thực tại. Sự uyên bác về Bát Nhã và Duy Thức có thể giải đáp những thắc mắc về Thiền học, nhưng không đẩy người thiền giả vào lòng thực tại thêm một ly tấc nào. Thiền chỉ có thể thực chứng, cũng như Tuệ Trung Thượng Sĩ nói: _Nhạc khúc vi diệu kia phải được trình diễn lên_ (Diệu khúc bản lai tu cử xướng – Thượng sĩ Ngữ Lục). Đàm luận về một nhạc khúc thì có gì là thú vị?
 
-Đọc [Nẻo vào thiền học, chương 01](https://nhavantuonglai.com/article/neo-vao-thien-hoc-chuong-01) tại đây.
+Đọc [Nẻo vào thiền học, chương 01](/article/neo-vao-thien-hoc-chuong-01) tại đây.
 
-Đọc [Nẻo vào thiền học, chương 02](https://nhavantuonglai.com/article/neo-vao-thien-hoc-chuong-02) tại đây.
+Đọc [Nẻo vào thiền học, chương 02](/article/neo-vao-thien-hoc-chuong-02) tại đây.
 
-Đọc [Nẻo vào thiền học, chương 03](https://nhavantuonglai.com/article/neo-vao-thien-hoc-chuong-03) tại đây.
+Đọc [Nẻo vào thiền học, chương 03](/article/neo-vao-thien-hoc-chuong-03) tại đây.
 
-Đọc [Nẻo vào thiền học, chương 04](https://nhavantuonglai.com/article/neo-vao-thien-hoc-chuong-04) tại đây.
+Đọc [Nẻo vào thiền học, chương 04](/article/neo-vao-thien-hoc-chuong-04) tại đây.
 
-Đọc [Nẻo vào thiền học, chương 05](https://nhavantuonglai.com/article/neo-vao-thien-hoc-chuong-05) tại đây.
+Đọc [Nẻo vào thiền học, chương 05](/article/neo-vao-thien-hoc-chuong-05) tại đây.
 
-Đọc [Nẻo vào thiền học, chương 06](https://nhavantuonglai.com/article/neo-vao-thien-hoc-chuong-06) tại đây.
+Đọc [Nẻo vào thiền học, chương 06](/article/neo-vao-thien-hoc-chuong-06) tại đây.
 
 Đọc [Nẻo vào thiền học, toàn tập](https://banmaixanh.vercel.app/ebook/neo-vao-thien-hoc.pdf) tại đây.
 

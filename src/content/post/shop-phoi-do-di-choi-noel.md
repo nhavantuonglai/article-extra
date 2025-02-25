@@ -64,13 +64,13 @@ Những chiếc áo len form rộng luôn được các cô nàng ưa chuộng v
 
 Các bài viết cùng chủ đề nên đọc để chuẩn trang trí Noel ấn tượng, đẹp nhất:
 
-– [18 cách trang trí Noel ấn tượng cho từng không gian](https://nhavantuonglai.com/article).
+– [18 cách trang trí Noel ấn tượng cho từng không gian](/article).
 
-– [20+ cách phối đồ đi chơi Noel & phụ kiện đẹp, hot trend](https://nhavantuonglai.com/article).
+– [20+ cách phối đồ đi chơi Noel & phụ kiện đẹp, hot trend](/article).
 
-– [21+ quà Noel cho người yêu, crush và bạn bè ý nghĩa nhất](https://nhavantuonglai.com/article).
+– [21+ quà Noel cho người yêu, crush và bạn bè ý nghĩa nhất](/article).
 
-– [Top shop bán đồ trang trí Noel giá tốt nhất trên Shopee](https://nhavantuonglai.com/article/shop-ban-do-trang-tri-noel-shopee).
+– [Top shop bán đồ trang trí Noel giá tốt nhất trên Shopee](/article/shop-ban-do-trang-tri-noel-shopee).
 
 #### Skinny jean phối cùng áo len
 

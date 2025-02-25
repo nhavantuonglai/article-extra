@@ -89,27 +89,27 @@ Khi một người làm vườn dùng một loại phân bón mà không thấy 
 
 Chúng ta đang sống trong một thời đại với biết bao phương tiện truyền thông tinh xảo. Tin tức có thể được truyền đi xa vạn dặm trong nháy mắt nhưng đồng thời truyền thông giữa chúng ta, giữa cha và con, giữa chồng và vợ thì lại rất khó khăn. Nếu không thiết lập lại được truyền thông giữa ta và những người khác thì không thể nào có được hạnh phúc. Trong giáo lý của Đạo Bụt pháp môn thực tập lắng nghe với tâm từ bi, thực tập ái ngữ cũng như pháp môn thực tập chăm sóc sân hận đã được diễn bày rất rõ ràng. Chúng ta phải đem ra áp dụng hầu mong có thể thiết lập lại truyền thông và xây dựng hạnh phúc cho gia đình, học đường, cho cộng đồng của riêng chúng ta, rồi từ đó mới có thể giúp ích những người khác trên thế giới.
 
-Đọc [Giận, chương 01](https://nhavantuonglai.com/article/gian-chuong-01) tại đây.
+Đọc [Giận, chương 01](/article/gian-chuong-01) tại đây.
 
-Đọc [Giận, chương 02](https://nhavantuonglai.com/article/gian-chuong-02) tại đây.
+Đọc [Giận, chương 02](/article/gian-chuong-02) tại đây.
 
-Đọc [Giận, chương 03](https://nhavantuonglai.com/article/gian-chuong-03) tại đây.
+Đọc [Giận, chương 03](/article/gian-chuong-03) tại đây.
 
-Đọc [Giận, chương 04](https://nhavantuonglai.com/article/gian-chuong-04) tại đây.
+Đọc [Giận, chương 04](/article/gian-chuong-04) tại đây.
 
-Đọc [Giận, chương 05](https://nhavantuonglai.com/article/gian-chuong-05) tại đây.
+Đọc [Giận, chương 05](/article/gian-chuong-05) tại đây.
 
-Đọc [Giận, chương 06](https://nhavantuonglai.com/article/gian-chuong-06) tại đây.
+Đọc [Giận, chương 06](/article/gian-chuong-06) tại đây.
 
-Đọc [Giận, chương 07](https://nhavantuonglai.com/article/gian-chuong-07) tại đây.
+Đọc [Giận, chương 07](/article/gian-chuong-07) tại đây.
 
-Đọc [Giận, chương 08](https://nhavantuonglai.com/article/gian-chuong-08) tại đây.
+Đọc [Giận, chương 08](/article/gian-chuong-08) tại đây.
 
-Đọc [Giận, chương 09](https://nhavantuonglai.com/article/gian-chuong-09) tại đây.
+Đọc [Giận, chương 09](/article/gian-chuong-09) tại đây.
 
-Đọc [Giận, chương 10](https://nhavantuonglai.com/article/gian-chuong-10) tại đây.
+Đọc [Giận, chương 10](/article/gian-chuong-10) tại đây.
 
-Đọc [Giận, chương 11](https://nhavantuonglai.com/article/gian-chuong-11) tại đây.
+Đọc [Giận, chương 11](/article/gian-chuong-11) tại đây.
 
 Đọc [Giận, toàn tập](https://banmaixanh.vercel.app/ebook/gian.pdf) tại đây.
 

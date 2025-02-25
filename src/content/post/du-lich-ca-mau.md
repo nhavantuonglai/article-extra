@@ -43,7 +43,7 @@ Nếu muốn nghỉ ngơi giữa thiên nhiên Đất Mũi, du khách có nhiề
 
 ## Chơi đâu
 
-_Mũi Cà Mau_ là nơi đặt cột mốc tọa độ GPS 0001 (cây số ). Cột mốc này mang hình một con tàu no gió, vươn mình ra biển. [Mũi Cà Mau](https://nhavantuonglai.com/article) là nơi có thể quan sát mặt trời mọc lên từ mặt biển phía đông vào buổi sáng và lặn xuống mặt biển phía tây vào buổi chiều.
+_Mũi Cà Mau_ là nơi đặt cột mốc tọa độ GPS 0001 (cây số ). Cột mốc này mang hình một con tàu no gió, vươn mình ra biển. [Mũi Cà Mau](/article) là nơi có thể quan sát mặt trời mọc lên từ mặt biển phía đông vào buổi sáng và lặn xuống mặt biển phía tây vào buổi chiều.
 
 Đất Mũi, thuộc huyện Ngọc Hiển, còn là điểm cuối cùng của đường Hồ Chí Minh. Km 2436 của đường Hồ Chí Minh thuộc Khu du lịch Quốc gia Mũi Cà Mau. Con đường bắt đầu từ Pác Bó – Cao Bằng đi qua 28 tỉnh thành phố và kết thúc ở điểm cực nam của Tổ quốc.
 
@@ -53,9 +53,9 @@ _Mũi Cà Mau_ là nơi đặt cột mốc tọa độ GPS 0001 (cây số ). C�
 
 _Lâm ngư trường 184_ nằm ở giữa rừng đước Năm Căn, thuộc ấp Chà Là, xã Tam Giang, huyện Năm Căn. Nơi đây có 44 loài thực vật, trong đó một số loài quý hiếm như cóc trắng, đưng, sú, trang… Đến đây du khách có thể chèo thuyền đi sâu vào rừng ngập mặn, ngắm khỉ nô đùa trên cây.
 
-_Khu dự trữ sinh quyển thế giới Mũi Cà Mau_ là một hệ sinh thái rừng ngập mặn tự nhiên được UNESCO công nhận, bao gồm [Vườn quốc gia Mũi Cà Mau](https://nhavantuonglai.com/article), [Vườn quốc gia U Minh Hạ](https://nhavantuonglai.com/article) và khu vực rừng phòng hộ ven Biển Tây.
+_Khu dự trữ sinh quyển thế giới Mũi Cà Mau_ là một hệ sinh thái rừng ngập mặn tự nhiên được UNESCO công nhận, bao gồm [Vườn quốc gia Mũi Cà Mau](/article), [Vườn quốc gia U Minh Hạ](/article) và khu vực rừng phòng hộ ven Biển Tây.
 
-Trải nghiệm không nên bỏ lỡ là ngồi thuyền [đi xuyên rừng](https://nhavantuonglai.com/article) tại Vườn quốc gia Mũi Cà Mau hay tham gia [trồng rừng ngập mặn](https://nhavantuonglai.com/article), quan sát các loài động thực vật hoặc trải nghiệm [ăn ong](https://nhavantuonglai.com/article) với người dân địa phương trong rừng U Minh Hạ, nghe những mẩu chuyện về bác Ba Phi.
+Trải nghiệm không nên bỏ lỡ là ngồi thuyền [đi xuyên rừng](/article) tại Vườn quốc gia Mũi Cà Mau hay tham gia [trồng rừng ngập mặn](/article), quan sát các loài động thực vật hoặc trải nghiệm [ăn ong](/article) với người dân địa phương trong rừng U Minh Hạ, nghe những mẩu chuyện về bác Ba Phi.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/du-lich-ca-mau-110.jpg" alt="cam-nang-du-lich-ca-mau" height=100% width=100%><figcaption><p>cam-nang-du-lich-ca-mau-nhavantuonglai</p></figcaption></figure>
 
@@ -87,7 +87,7 @@ _Du ngoạn sông Trẹm_ Với chiều dài 42 km, xuất phát từ Kiên Gian
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/du-lich-ca-mau-113.jpg" alt="cam-nang-du-lich-ca-mau" height=100% width=100%><figcaption><p>cam-nang-du-lich-ca-mau-nhavantuonglai</p></figcaption></figure>
 
-_Đầm Thị Tường_ được mệnh danh là _biển hồ giữa đồng bằng._ Đây còn là đầm nước có diện tích lớn nhất vùng Đồng bằng sông Cửu Long với chiều dài 12 km, chỗ rộng nhất 2 km, chỗ sâu nhất 1,5 m. [Đầm Thị Tường](https://nhavantuonglai.com/article) gồm ba đầm chính là Đầm Trên, Đầm Giữa và Đầm Dưới, trong đó Đầm Giữa là đầm lớn nhất.
+_Đầm Thị Tường_ được mệnh danh là _biển hồ giữa đồng bằng._ Đây còn là đầm nước có diện tích lớn nhất vùng Đồng bằng sông Cửu Long với chiều dài 12 km, chỗ rộng nhất 2 km, chỗ sâu nhất 1,5 m. [Đầm Thị Tường](/article) gồm ba đầm chính là Đầm Trên, Đầm Giữa và Đầm Dưới, trong đó Đầm Giữa là đầm lớn nhất.
 
 Ngồi thuyền máy lướt trên mặt đầm, du khách vừa thưởng ngoạn thiên nhiên tươi đẹp, vừa quan sát đời sống của những ngư dân địa phương, hoặc trải nghiệm chài lưới, câu, bắt cá bằng đó… Ngoài ra là thưởng thức đặc sản cá, sò, tôm, cua… tươi ngon.
 
@@ -95,7 +95,7 @@ Ngồi thuyền máy lướt trên mặt đầm, du khách vừa thưởng ngo�
 
 ## Đặc sản
 
-[_Cua Cà Mau_](https://nhavantuonglai.com/article) nổi tiếng ngon. Khách sành ăn thường tìm mua cua tự nhiên vì thịt ngon, ngọt hơn nhiều so với cua nuôi. Cua tại các vuông tôm Cà Mau luôn tươi, giá cả phải chăng. Giá cua thịt Cà Mau dao động 150.000 – 300.000 đồng một kg và cua gạch từ 300.000 500.000 đồng một kg.
+[_Cua Cà Mau_](/article) nổi tiếng ngon. Khách sành ăn thường tìm mua cua tự nhiên vì thịt ngon, ngọt hơn nhiều so với cua nuôi. Cua tại các vuông tôm Cà Mau luôn tươi, giá cả phải chăng. Giá cua thịt Cà Mau dao động 150.000 – 300.000 đồng một kg và cua gạch từ 300.000 500.000 đồng một kg.
 
 Nhiều hàng quán chế biến cua thành nhiều món khác nhau, từ đơn giản như luộc, hấp, nướng than đến cầu kỳ hơn như rang me, lẩu, bánh canh cua…
 
@@ -109,28 +109,28 @@ _Cá nâu kho trái giác_ là món ăn bình dị. Thịt cá nâu dai ngọt, 
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/du-lich-ca-mau-115.jpg" alt="cam-nang-du-lich-ca-mau" height=100% width=100%><figcaption><p>cam-nang-du-lich-ca-mau-nhavantuonglai</p></figcaption></figure>
 
-[Cá thòi lòi](https://nhavantuonglai.com/article) trông khá kỳ dị, sống ở vùng đầm lầy. Thịt cá chắc, ngon và không tanh. Cá thòi lòi thường được nướng muối ớt, chiên giòn hoặc nấu canh chua, kho tương, nấu mẻ.
+[Cá thòi lòi](/article) trông khá kỳ dị, sống ở vùng đầm lầy. Thịt cá chắc, ngon và không tanh. Cá thòi lòi thường được nướng muối ớt, chiên giòn hoặc nấu canh chua, kho tương, nấu mẻ.
 
 _Cá lóc nướng trui_ là món ăn có vị ngọt thanh tao, thơm của nước phù sa và vị mặn của biển quê hương. Cá không cần tẩm ướp vẫn sẽ thơm và ngọt thịt. Bạn có thể cầm nguyên con cá nướng ăn cho đúng chất nhà quê, hoặc bỏ lên lá chuối, đem cuốn bánh tráng cùng các loại rau, khế, dưa leo… và chấm mắm chua ngọt.
 
 _Gỏi nhộng ong_ được mệnh danh là hấp dẫn nhất nhì Cà Mau. Sáp nhộng ong thường được thợ lấy trong rừng đem về, sau đó chế biến thành các món như cháo, nhộng ong xào hoặc ngon nhất là đem đi bóp gỏi.
 
-[_Mắm ong_](https://nhavantuonglai.com/article) là đặc sản không phải ai cũng dám thử. Người dân đất Mũi thường dùng [mắm ong](https://nhavantuonglai.com/article) ăn cùng với cơm trắng. Ở một số nhà hàng, người ta thường sử dụng thịt ba chỉ cuốn với các loại rau quả như chuối chát, dưa leo, lá cóc, gừng, ớt hay mùi tàu, chấm cùng mắm ong.
+[_Mắm ong_](/article) là đặc sản không phải ai cũng dám thử. Người dân đất Mũi thường dùng [mắm ong](/article) ăn cùng với cơm trắng. Ở một số nhà hàng, người ta thường sử dụng thịt ba chỉ cuốn với các loại rau quả như chuối chát, dưa leo, lá cóc, gừng, ớt hay mùi tàu, chấm cùng mắm ong.
 
 _Bồn bồn_ mọc hoang nhiều ở vùng rìa các đầm, ao hồ. Bồn bồn được chế biến như rau thành nhiều món khác nhau, trong đó có gỏi hải sản, muối chua. Lõi bồn bồn ăn giòn, mềm, chua lạ, như thể ngó sen và măng hòa quyện.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/du-lich-ca-mau-116.jpg" alt="cam-nang-du-lich-ca-mau" height=100% width=100%><figcaption><p>cam-nang-du-lich-ca-mau-nhavantuonglai</p></figcaption></figure>
 
-[_Bánh tằm_](https://nhavantuonglai.com/article) xuất hiện khiêm tốn ở các quán nhỏ hè phố thay vì trong các thực đơn nhà hàng. Món ăn này dân dã chân chất nhưng lại có sức thu hút đặc biệt.
+[_Bánh tằm_](/article) xuất hiện khiêm tốn ở các quán nhỏ hè phố thay vì trong các thực đơn nhà hàng. Món ăn này dân dã chân chất nhưng lại có sức thu hút đặc biệt.
 
 Đông khách nhất là quán bánh tằm trên đường Lê Lợi, đường Nguyễn Hữu Lễ phường 2 hay quán ăn sáng ở đường Quang Trung, đường Lưu Tấn Tài ở phường 5, thành phố Cà Mau… Nếu may mắn bạn sẽ được _thổ địa_ chỉ đến một quán ăn chuyên bán bánh tằm cà ri gà cay trong con hẻm khuất, rất chiều thực khách.
 
-Những đặc sản khác phải kể đến [_cá kèo_](https://nhavantuonglai.com/article),_ hàu, chuột đồng chiên sả ớt, chả mực trứng,_ [_cháo tống_](https://nhavantuonglai.com/article)_…_ là món ăn bình dân của người Cà Mau. Món này có nhiều chất dinh dưỡng, thơm thịt và đậm đà.
+Những đặc sản khác phải kể đến [_cá kèo_](/article),_ hàu, chuột đồng chiên sả ớt, chả mực trứng,_ [_cháo tống_](/article)_…_ là món ăn bình dân của người Cà Mau. Món này có nhiều chất dinh dưỡng, thơm thịt và đậm đà.
 
 ## Mua gì làm quà
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/du-lich-ca-mau-117.jpg" alt="cam-nang-du-lich-ca-mau" height=100% width=100%><figcaption><p>cam-nang-du-lich-ca-mau-nhavantuonglai</p></figcaption></figure>
 
-Du khách có thể mua các loại hải sản tươi ngon, giá rẻ trong ngày như cua biển, ba khía Rạch Gốc; hay các loại khô nổi tiếng như: khô cá lóc đồng, khô cá lù đù, [khô cá sặc bổi](https://nhavantuonglai.com/article), khô cá thòi lòi; hoặc mắm tép, mắm cá đồng. Đặc biệt nhất là mật ong nguyên chất từ rừng tràm U Minh. Dưa [bồn bồn](https://nhavantuonglai.com/article) cũng thường được du khách mua về làm quà khi đến các vùng Cà Mau.
+Du khách có thể mua các loại hải sản tươi ngon, giá rẻ trong ngày như cua biển, ba khía Rạch Gốc; hay các loại khô nổi tiếng như: khô cá lóc đồng, khô cá lù đù, [khô cá sặc bổi](/article), khô cá thòi lòi; hoặc mắm tép, mắm cá đồng. Đặc biệt nhất là mật ong nguyên chất từ rừng tràm U Minh. Dưa [bồn bồn](/article) cũng thường được du khách mua về làm quà khi đến các vùng Cà Mau.
 
 <figure><img src="https://banmaixanh.vercel.app/image/cover/001-516.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

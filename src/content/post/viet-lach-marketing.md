@@ -21,7 +21,7 @@ Trong thời đại kỹ thuật số, việc tạo ra nội dung chất lượn
 
 ### Viết lách: nền tảng của marketing nội dung
 
-[Học viết lách](https://nhavantuonglai.com/article) là kỹ năng quan trọng giúp bạn truyền tải thông điệp một cách rõ ràng và hấp dẫn. Để thành công trong marketing nội dung, bạn cần phát triển kỹ năng viết lách mạnh mẽ.
+[Học viết lách](/article) là kỹ năng quan trọng giúp bạn truyền tải thông điệp một cách rõ ràng và hấp dẫn. Để thành công trong marketing nội dung, bạn cần phát triển kỹ năng viết lách mạnh mẽ.
 
 ### Tầm quan trọng của viết lách trong marketing nội dung
 
@@ -83,11 +83,11 @@ Nội dung chất lượng là yếu tố quyết định sự thành công củ
 
 ## Kết hợp viết lách và marketing nội dung
 
-[Content Marketing](https://nhavantuonglai.com/article) và marketing nội dung cần phải được kết hợp một cách hài hòa để đạt được hiệu quả tốt nhất. Dưới đây là một số chiến lược kết hợp hai yếu tố này:
+[Content Marketing](/article) và marketing nội dung cần phải được kết hợp một cách hài hòa để đạt được hiệu quả tốt nhất. Dưới đây là một số chiến lược kết hợp hai yếu tố này:
 
 ### Tạo bài viết blog chuẩn SEO
 
-Bài [viết blog](https://nhavantuonglai.com/article) là một phần quan trọng của marketing nội dung. Để tạo bài viết blog chuẩn SEO:
+Bài [viết blog](/article) là một phần quan trọng của marketing nội dung. Để tạo bài viết blog chuẩn SEO:
 
 – Chọn từ khóa chính và từ khóa phụ: Sử dụng các công cụ nghiên cứu từ khóa để chọn từ khóa phù hợp.
 

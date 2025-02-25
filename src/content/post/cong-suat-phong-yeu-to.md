@@ -21,7 +21,7 @@ _Công suất phòng khách sạn là yếu tố gián tiếp khiến tác độ
 
 Du lịch hay lưu trú lữ hành đều chịu tác động của mùa vụ, chính vì thế mà sinh ra khái niệm mùa du lịch cao điểm – thấp điểm.
 
-[Mùa du lịch cao điểm](https://nhavantuonglai.com/article) ở Việt Nam thường là từ tháng 7 đến tháng 9, bởi đây là lúc học sinh sinh viên được nghỉ hè, nên ba mẹ sẽ có thêm nhiều thời gian với con cái hơn, cho nên dù thời điểm này không có nhiều ngày nghỉ lễ nhưng vẫn được nhiều gia đình lựa chọn để du lịch cùng nhau. Thời tiết cũng là yếu tố thuận lợi, khi mưa bão ít hơn, di chuyển hay du lịch sẽ ít gặp rủi ro hơn mùa mưa bão, các địa điểm tham quan cũng sẵn sàng cho việc đón khách. Bên cạnh đó, trùng với thời điểm kỳ nghỉ hè hàng năm các nước châu Âu, nên lượt khách quốc tế cũng có xu hướng tăng mạnh.
+[Mùa du lịch cao điểm](/article) ở Việt Nam thường là từ tháng 7 đến tháng 9, bởi đây là lúc học sinh sinh viên được nghỉ hè, nên ba mẹ sẽ có thêm nhiều thời gian với con cái hơn, cho nên dù thời điểm này không có nhiều ngày nghỉ lễ nhưng vẫn được nhiều gia đình lựa chọn để du lịch cùng nhau. Thời tiết cũng là yếu tố thuận lợi, khi mưa bão ít hơn, di chuyển hay du lịch sẽ ít gặp rủi ro hơn mùa mưa bão, các địa điểm tham quan cũng sẵn sàng cho việc đón khách. Bên cạnh đó, trùng với thời điểm kỳ nghỉ hè hàng năm các nước châu Âu, nên lượt khách quốc tế cũng có xu hướng tăng mạnh.
 
 Mùa du lịch thấp điểm ở Việt Nam thường từ tháng 9 đến tháng 11, bởi đây là thời điểm học sinh sinh viên nhập trường, cha mẹ ít có thời gian cho con cái hơn, nên những chuyến du lịch cũng sẽ hạn chế. Tần suất mưa bão hàng năm ở nước ta trong giai đoạn này cũng lớn nhất, ảnh hưởng trực tiếp đến ngành du lịch lữ hành.
 
@@ -35,7 +35,7 @@ Hiện nay, các khách sạn đang áp dụng các nhóm chính sách giá phò
 
 – Chính sách giá phòng theo số lượng khách: cá nhân, đôi, nhóm, quá số người quy định…
 
-Bên cạnh chính sách giá phòng, còn có thêm cả chính sách bán phòng. Chính sách bán phòng thể hiện qua việc các [Sale kênh OTA triển khai việc bán phòng](https://nhavantuonglai.com/article/ OTA-va-tam-voi-homestay), mức chênh lệch giá giữa các nền tảng bán hay khuyến mãi cho khách hàng trung thành.
+Bên cạnh chính sách giá phòng, còn có thêm cả chính sách bán phòng. Chính sách bán phòng thể hiện qua việc các [Sale kênh OTA triển khai việc bán phòng](/article/ OTA-va-tam-voi-homestay), mức chênh lệch giá giữa các nền tảng bán hay khuyến mãi cho khách hàng trung thành.
 
 Chính sách giá phòng khi được triển khai chặt chẽ, sẽ tạo nên sức hút và thúc đẩy hành vi đặt phòng, qua đó làm tăng công suất phòng khách sạn. Không một người khách nào lại bỏ qua, từ chối một đề nghị khuyến mãi vô cùng hấp dẫn từ khách sạn của bạn cả.
 
@@ -83,11 +83,11 @@ Cho nên, hãy duy trì thái độ phục vụ ngay cả khi họ rời đi, c�
 
 Bạn đang tìm hiểu về công suất phòng? Đừng bỏ lỡ chuỗi bài liên quan của giải pháp tại đây:
 
-– [Hiểu đúng về công suất phòng khi làm khách sạn](https://nhavantuonglai.com/article).
+– [Hiểu đúng về công suất phòng khi làm khách sạn](/article).
 
-– [Làm thế nào để cải thiện doanh thu khi công suất phòng thấp](https://nhavantuonglai.com/article).
+– [Làm thế nào để cải thiện doanh thu khi công suất phòng thấp](/article).
 
-– [Ứng dụng công nghệ để cải thiện doanh thu khi công suất phòng thấp](https://nhavantuonglai.com/article).
+– [Ứng dụng công nghệ để cải thiện doanh thu khi công suất phòng thấp](/article).
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-082.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 

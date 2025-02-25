@@ -37,7 +37,7 @@ Cấu Trúc Ba Hồi: Một trong những cấu trúc phổ biến nhất trong 
 
 ### Nhân vật (characters)
 
-[Xây dựng nhân vật](https://nhavantuonglai.com/article): Nhân vật phải được xây dựng với chiều sâu, có động cơ và mục tiêu rõ ràng. Một nhân vật tốt thường có sự phát triển qua các tình huống trong kịch bản.
+[Xây dựng nhân vật](/article): Nhân vật phải được xây dựng với chiều sâu, có động cơ và mục tiêu rõ ràng. Một nhân vật tốt thường có sự phát triển qua các tình huống trong kịch bản.
 
 Nhân vật chính và phụ: Nhân vật chính là trung tâm của câu chuyện, trong khi các nhân vật phụ hỗ trợ và làm nổi bật các khía cạnh của nhân vật chính.
 
@@ -59,9 +59,9 @@ Tương tác với nhân vật: Bối cảnh ảnh hưởng đến hành động
 
 ### Sự Sáng Tạo
 
-Phát triển ý tưởng: Tìm kiếm và phát triển [ý tưởng viết lách](https://nhavantuonglai.com/article) là bước đầu tiên và quan trọng. Ý tưởng có thể đến từ cuộc sống hàng ngày, từ sách báo, phim ảnh hoặc chính từ những giấc mơ.
+Phát triển ý tưởng: Tìm kiếm và phát triển [ý tưởng viết lách](/article) là bước đầu tiên và quan trọng. Ý tưởng có thể đến từ cuộc sống hàng ngày, từ sách báo, phim ảnh hoặc chính từ những giấc mơ.
 
-Đột phá và khác biệt: Sự [sáng tạo](https://nhavantuonglai.com/article) giúp kịch bản của bạn nổi bật giữa hàng ngàn kịch bản khác. Hãy thử nghiệm với các góc nhìn mới, các tình huống độc đáo và những kết cục bất ngờ.
+Đột phá và khác biệt: Sự [sáng tạo](/article) giúp kịch bản của bạn nổi bật giữa hàng ngàn kịch bản khác. Hãy thử nghiệm với các góc nhìn mới, các tình huống độc đáo và những kết cục bất ngờ.
 
 ### Kỹ năng kể chuyện
 

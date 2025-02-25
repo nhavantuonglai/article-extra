@@ -167,15 +167,15 @@ Phóng tầm mắt chánh niệm để quan sát những cuộc tình xung quanh
 
 Nếu chúng ta không có chánh niệm và khôn khéo thì tình thương của chúng ta sẽ mang nặng tính chất vướng mắc, chiếm hữu và độc tài và ta sẽ làm khổ chính ta, làm khổ người ta thương. Khi thấy được điều đó rồi chúng ta mới tự bảo là khi thương nhau, chúng ta không nên để cho tình thương đi vào nẻo của chiếm hữu, độc tài và vướng mắc. Nếu quý vị đang ở vào tình trạng của sự vướng mắc, chiếm hữu và độc tài thì quý vị nên nhận thức rằng sở dĩ tình trạng bây giờ như vậy vì trong quá khứ quý vị đã không có chánh niệm, quý vị đã để cho tình trạng đó xảy ra. Người thương cũng vậy và người được thương cũng vậy, vì không có chánh niệm nên cả hai đã cho phép tình trạng đó xảy ra. Nó ràng buộc cả hai người, nó làm khổ cả hai người.
 
-Đọc [Thương yêu theo phương pháp Bụt dạy, chương 01](https://nhavantuonglai.com/article/thuong-yeu-theo-phuong-phap-but-day-chuong-01) tại đây.
+Đọc [Thương yêu theo phương pháp Bụt dạy, chương 01](/article/thuong-yeu-theo-phuong-phap-but-day-chuong-01) tại đây.
 
-Đọc [Thương yêu theo phương pháp Bụt dạy, chương 02](https://nhavantuonglai.com/article/thuong-yeu-theo-phuong-phap-but-day-chuong-02) tại đây.
+Đọc [Thương yêu theo phương pháp Bụt dạy, chương 02](/article/thuong-yeu-theo-phuong-phap-but-day-chuong-02) tại đây.
 
-Đọc [Thương yêu theo phương pháp Bụt dạy, chương 03](https://nhavantuonglai.com/article/thuong-yeu-theo-phuong-phap-but-day-chuong-03) tại đây.
+Đọc [Thương yêu theo phương pháp Bụt dạy, chương 03](/article/thuong-yeu-theo-phuong-phap-but-day-chuong-03) tại đây.
 
-Đọc [Thương yêu theo phương pháp Bụt dạy, chương 04](https://nhavantuonglai.com/article/thuong-yeu-theo-phuong-phap-but-day-chuong-04) tại đây.
+Đọc [Thương yêu theo phương pháp Bụt dạy, chương 04](/article/thuong-yeu-theo-phuong-phap-but-day-chuong-04) tại đây.
 
-Đọc [Thương yêu theo phương pháp Bụt dạy, chương 05](https://nhavantuonglai.com/article/thuong-yeu-theo-phuong-phap-but-day-chuong-05) tại đây.
+Đọc [Thương yêu theo phương pháp Bụt dạy, chương 05](/article/thuong-yeu-theo-phuong-phap-but-day-chuong-05) tại đây.
 
 Đọc [Thương yêu theo phương pháp Bụt dạy, toàn tập](https://banmaixanh.vercel.app/ebook/thuong-yeu-theo-phuong-phap-but-day.pdf) tại đây.
 

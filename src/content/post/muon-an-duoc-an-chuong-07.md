@@ -85,19 +85,19 @@ Khi nào bực bội, bức bối, bất an thì ta đừng nói hay làm gì c�
 
 Mở đầu một ngày bằng ý thức _trong ta có Bụt_ rất đẹp. Mỗi khi thấy mình sắp từ bỏ Bụt mà đi thì hãy ngồi xuống, thở nhẹ nhàng cho đến khi trở về được với chính mình. Tôi đề nghị các bạn làm ba điều. Thứ nhất là tạo một phòng thở trong gia đình, thứ hai là tập thở chánh niệm và ngồi thiền với con vài phút vào mỗi sáng, thứ ba là đi thiền hành với con trước khi đi ngủ, chỉ mười phút thôi cũng đủ. Điều này rất quan trọng, có thể làm thay đổi cả một nền văn minh của chúng ta.
 
-Đọc [Muốn an được an, chương 01](https://nhavantuonglai.com/article/muon-an-duoc-an-chuong-01) tại đây.
+Đọc [Muốn an được an, chương 01](/article/muon-an-duoc-an-chuong-01) tại đây.
 
-Đọc [Muốn an được an, chương 02](https://nhavantuonglai.com/article/muon-an-duoc-an-chuong-02) tại đây.
+Đọc [Muốn an được an, chương 02](/article/muon-an-duoc-an-chuong-02) tại đây.
 
-Đọc [Muốn an được an, chương 03](https://nhavantuonglai.com/article/muon-an-duoc-an-chuong-03) tại đây.
+Đọc [Muốn an được an, chương 03](/article/muon-an-duoc-an-chuong-03) tại đây.
 
-Đọc [Muốn an được an, chương 04](https://nhavantuonglai.com/article/muon-an-duoc-an-chuong-04) tại đây.
+Đọc [Muốn an được an, chương 04](/article/muon-an-duoc-an-chuong-04) tại đây.
 
-Đọc [Muốn an được an, chương 05](https://nhavantuonglai.com/article/muon-an-duoc-an-chuong-05) tại đây.
+Đọc [Muốn an được an, chương 05](/article/muon-an-duoc-an-chuong-05) tại đây.
 
-Đọc [Muốn an được an, chương 06](https://nhavantuonglai.com/article/muon-an-duoc-an-chuong-06) tại đây.
+Đọc [Muốn an được an, chương 06](/article/muon-an-duoc-an-chuong-06) tại đây.
 
-Đọc [Muốn an được an, chương 07](https://nhavantuonglai.com/article/muon-an-duoc-an-chuong-07) tại đây.
+Đọc [Muốn an được an, chương 07](/article/muon-an-duoc-an-chuong-07) tại đây.
 
 Đọc [Muốn an được an, toàn tập](https://banmaixanh.vercel.app/ebook/muon-an-duoc-an.pdf) tại đây.
 

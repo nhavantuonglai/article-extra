@@ -107,9 +107,9 @@ Vì những lý do đó, tôi thấy ta bà là nơi thuận lợi nhất cho ta
 
 Phép thiền hành giúp ta mở mắt để thấy được bao nhiêu nhiệm mầu trong vũ trụ, chuyển ta ba thành tịnh độ, giúp ta cởi bỏ phiền não lo âu, cho ta sự an lạc. Nhưng phép thiền hành cũng giúp ta thấy được những đau thương, những rên siết và quằn quại của cuộc đời. Khi ta tỉnh thức ta thấy được tình trạng thực của cuộc sống. Tôi thường nói với các thiền sinh: các bạn làm sao thấy được tự tính (kiến tánh) nếu các bạn không thấy được những gì đang xãy ra trước mắt và xung quanh các bạn. Không phải nhắm mắt lại là thấy được tự tánh. Trái lại, phải mở mắt ra, và thức thỉnh dậy trong tình trạng thực của cuộc đời, nghĩa là thấy được pháp thân toàn vẹn của các bạn. Những con đường lúa thơm tho, những ngỏ trúc râm mát, những công viên đầy lá thắm rụng… những con đường ấy là thiền lộ của bạn, bạn hãy thưởng thức đi. Những con đường ấy không đưa bạn đi vào quên lãng mà trái lại sẽ đưa bạn đi tới sự tỉnh thức để bạn thấy rõ được những khổ đau hiện thực của thế giới. Lúc bấy giờ thiền lộ của bạn là mọi nẻo đường thế gian; đã tỉnh thức rồi, bạn sẽ không còn ngần ngại gì mà không đi vào những con đường ấy. Bạn sẽ đau khổ nhưng không phải đau khổ vì những phiền muộn, ưu tư và sợ hãi của mình, bạn đau khổ vì đồng loại, vì muôn loài, vì tình thương của một người tỉnh thức, nghĩa là một vị bồ tát. Bồ tát, Bodhistva, người Trung Hoa dịch là giác hữu tình. Giác hữu tình là một người tỉnh thức. Và lúc đó, trên đường bạn đi, tất cả những người đồng hành với bạn đều là những vị bồ tát bất thối chuyển.
 
-Đọc [Thiền hành yếu chỉ, chương 01](https://nhavantuonglai.com/article/thien-hanh-yeu-chi-chuong-01) tại đây.
+Đọc [Thiền hành yếu chỉ, chương 01](/article/thien-hanh-yeu-chi-chuong-01) tại đây.
 
-Đọc [Thiền hành yếu chỉ, chương 02](https://nhavantuonglai.com/article/thien-hanh-yeu-chi-chuong-02) tại đây.
+Đọc [Thiền hành yếu chỉ, chương 02](/article/thien-hanh-yeu-chi-chuong-02) tại đây.
 
 Đọc [Thiền hành yếu chỉ, toàn tập](https://banmaixanh.vercel.app/ebook/thien-hanh-yeu-chi.pdf) tại đây.
 

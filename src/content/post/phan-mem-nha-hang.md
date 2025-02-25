@@ -56,7 +56,7 @@ Hệ thống đặt đồ ăn điện tử được gọi là KDS (Kitchen Displ
 
 Thông qua điện toán đám mây, dữ liệu của khách sạn được duy trì hiệu quả. Hệ thống quản lý nhà hàng truyền thống thông thường sử dụng dữ liệu và làm việc cục bộ. Tức rằng chúng chiếm nhiều diện tích sàn cho hệ thống máy móc, phát sinh chi phí cài đặt trên các thiết bị và dữ liệu được lưu trữ trên máy tính cục bộ.
 
-Với hệ thống quản lý nhà hàng hiện đại, điều này đã thay đổi. Không chỉ có thể đăng ký sử dụng phần mềm ở mọi lúc mọi nơi, mà khách hàng của bạn cũng có thể tiếp cận nhà hàng của bạn ở mọi vị trí với sự trợ giúp của [hệ thống POS](https://nhavantuonglai.com/article) và mạng Internet. Nó cho phép dữ liệu có thể truy xuất từ các máy chủ ở xa thông qua đám mây. Hơn thế, nó cũng đi kèm khả năng phân tích, quản lý khách hàng (thông thường và thân thiết), tiếp thị nhà hàng…
+Với hệ thống quản lý nhà hàng hiện đại, điều này đã thay đổi. Không chỉ có thể đăng ký sử dụng phần mềm ở mọi lúc mọi nơi, mà khách hàng của bạn cũng có thể tiếp cận nhà hàng của bạn ở mọi vị trí với sự trợ giúp của [hệ thống POS](/article) và mạng Internet. Nó cho phép dữ liệu có thể truy xuất từ các máy chủ ở xa thông qua đám mây. Hơn thế, nó cũng đi kèm khả năng phân tích, quản lý khách hàng (thông thường và thân thiết), tiếp thị nhà hàng…
 
 ### Bán hàng qua POS
 

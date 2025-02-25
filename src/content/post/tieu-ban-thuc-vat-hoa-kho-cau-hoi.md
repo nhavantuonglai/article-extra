@@ -30,7 +30,7 @@ Việc ép tiêu bản thực vật là một phương pháp bảo quản và ng
 
 ## Làm thế nào để bạn làm cho ép tiêu bản thực vật?
 
-Để tạo ra một [tiêu bản thực vật](https://nhavantuonglai.com/article/tieu-ban-thuc-vat-hoa-kho), cần thực hiện một số bước cơ bản sau:
+Để tạo ra một [tiêu bản thực vật](/article/tieu-ban-thuc-vat-hoa-kho), cần thực hiện một số bước cơ bản sau:
 
 – Thu thập mẫu vật: Chọn các mẫu thực vật tươi tốt, không bị sâu bệnh hoặc hư hỏng.
 
@@ -44,7 +44,7 @@ Việc ép tiêu bản thực vật là một phương pháp bảo quản và ng
 
 ## Cây ép để được bao lâu?
 
-Thời gian bảo quản của một [tiêu bản thực vật](https://nhavantuonglai.com/article/tieu-ban-thuc-vat-hoa-kho#bao-quan-tieu-ban-thuc-vat-hoa-kho) phụ thuộc vào cách bảo quản và môi trường xung quanh. Nếu được bảo quản đúng cách, các tiêu bản thực vật có thể giữ nguyên tình trạng trong nhiều năm, thậm chí hàng chục năm. Để đảm bảo tiêu bản được bảo quản lâu dài, cần chú ý các yếu tố sau:
+Thời gian bảo quản của một [tiêu bản thực vật](/article/tieu-ban-thuc-vat-hoa-kho#bao-quan-tieu-ban-thuc-vat-hoa-kho) phụ thuộc vào cách bảo quản và môi trường xung quanh. Nếu được bảo quản đúng cách, các tiêu bản thực vật có thể giữ nguyên tình trạng trong nhiều năm, thậm chí hàng chục năm. Để đảm bảo tiêu bản được bảo quản lâu dài, cần chú ý các yếu tố sau:
 
 – Độ ẩm: Tránh để tiêu bản ở nơi ẩm ướt, vì độ ẩm cao có thể gây ra nấm mốc và hư hỏng mẫu vật.
 
@@ -66,7 +66,7 @@ Thời gian bảo quản của một [tiêu bản thực vật](https://nhavantu
 
 ## Làm thế nào để thu thập mẫu vật thực vật?
 
-Thu thập mẫu [tiêu bản thực vật](https://nhavantuonglai.com/article/tieu-ban-thuc-vat-hoa-kho#lam-tieu-ban) là bước đầu tiên và quan trọng nhất trong quá trình làm tiêu bản. Để thu thập mẫu vật hiệu quả, cần chú ý các điểm sau:
+Thu thập mẫu [tiêu bản thực vật](/article/tieu-ban-thuc-vat-hoa-kho#lam-tieu-ban) là bước đầu tiên và quan trọng nhất trong quá trình làm tiêu bản. Để thu thập mẫu vật hiệu quả, cần chú ý các điểm sau:
 
 – Chọn thời điểm thích hợp: Thu thập mẫu vào buổi sáng khi cây còn tươi tốt, tránh thu thập vào buổi trưa khi cây đã héo.
 
@@ -82,7 +82,7 @@ Nhà thực vật học ép cây để bảo quản và nghiên cứu các đặ
 
 ## Làm thế nào để bảo quản một mẫu vật thực vật?
 
-Để bảo quản mẫu [tiêu bản thực vật](https://nhavantuonglai.com/article/tieu-ban-thuc-vat-hoa-kho#tieu-ban-mau-ep-thuc-vat) lâu dài, cần chú ý các yếu tố sau:
+Để bảo quản mẫu [tiêu bản thực vật](/article/tieu-ban-thuc-vat-hoa-kho#tieu-ban-mau-ep-thuc-vat) lâu dài, cần chú ý các yếu tố sau:
 
 – Độ ẩm: Tránh để tiêu bản ở nơi ẩm ướt, vì độ ẩm cao có thể gây ra nấm mốc và hư hỏng mẫu vật.
 
@@ -100,13 +100,13 @@ Việc ép cây mang lại nhiều lợi ích quan trọng trong nghiên cứu v
 
 – Hỗ trợ nghiên cứu: Các nhà khoa học có thể sử dụng tiêu bản thực vật để nghiên cứu các đặc điểm hình thái, sinh học và hóa học của thực vật.
 
-– Giáo dục: [Tiêu bản thực vật](https://nhavantuonglai.com/article/tieu-ban-thuc-vat-hoa-kho#mua-tieu-ban-thuc-vat-hoa-kho) là công cụ học tập quan trọng trong các trường học và đại học, giúp sinh viên hiểu rõ hơn về các loài cây và cách nhận dạng chúng.
+– Giáo dục: [Tiêu bản thực vật](/article/tieu-ban-thuc-vat-hoa-kho#mua-tieu-ban-thuc-vat-hoa-kho) là công cụ học tập quan trọng trong các trường học và đại học, giúp sinh viên hiểu rõ hơn về các loài cây và cách nhận dạng chúng.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/tieu-ban-thuc-vat-hoa-kho-16.jpg" alt="thuc vat hoc, tieu ban thuc vat, tieu ban, tieu ban hoa kho, tieu ban thuc vat kho, tieu ban hoa." title="thuc vat hoc, tieu ban thuc vat, tieu ban, tieu ban hoa kho, tieu ban thuc vat kho, tieu ban hoa." height=100% width=100%><figcaption><p>Tiêu bản hoa khô và tiêu bản thực vật khô là những mẫu thực vật đã qua xử lý, nhằm giữ nguyên hình dáng, cấu trúc và màu sắc.</p></figcaption></figure>
 
 ## Tại sao hoa ép lại đắt như vậy?
 
-Hoa ép đắt vì quá trình ép [tiêu bản thực vật](https://nhavantuonglai.com/article/tieu-ban-thuc-vat-hoa-kho#cach-lam-tieu-ban-la-cay) yêu cầu kỹ thuật cao, thời gian và sự tỉ mỉ. Ngoài ra, một số loại hoa quý hiếm và khó tìm, do đó giá thành của chúng cũng cao hơn.
+Hoa ép đắt vì quá trình ép [tiêu bản thực vật](/article/tieu-ban-thuc-vat-hoa-kho#cach-lam-tieu-ban-la-cay) yêu cầu kỹ thuật cao, thời gian và sự tỉ mỉ. Ngoài ra, một số loại hoa quý hiếm và khó tìm, do đó giá thành của chúng cũng cao hơn.
 
 – Kỹ thuật cao: Quá trình ép hoa đòi hỏi kỹ thuật cao và sự tỉ mỉ để đảm bảo hoa giữ nguyên màu sắc và hình dáng.
 
@@ -118,7 +118,7 @@ Hoa ép đắt vì quá trình ép [tiêu bản thực vật](https://nhavantuon
 
 ## Làm thế nào để ép cây mà không cần giấy?
 
-Nếu không có máy ép chuyên dụng, bạn có thể ép [tiêu bản thực vật](https://nhavantuonglai.com/article/tieu-ban-thuc-vat-hoa-kho#ban-tieu-ban-thuc-vat-kho) bằng cách sử dụng các vật liệu có sẵn trong nhà:
+Nếu không có máy ép chuyên dụng, bạn có thể ép [tiêu bản thực vật](/article/tieu-ban-thuc-vat-hoa-kho#ban-tieu-ban-thuc-vat-kho) bằng cách sử dụng các vật liệu có sẵn trong nhà:
 
 – Sử dụng sách nặng: Đặt mẫu vật giữa hai lớp giấy thấm và đặt chúng giữa các trang sách dày. Đặt thêm vật nặng lên trên sách để tạo áp lực.
 
@@ -136,7 +136,7 @@ Giấy thấm hoặc giấy lọc là loại giấy tốt nhất để ép cây,
 
 ## Làm thế nào để lưu trữ tiêu bản thực vật?
 
-Để lưu trữ [tiêu bản thực vật](https://nhavantuonglai.com/article/tieu-ban-thuc-vat-hoa-kho#tieu-ban-thuc-vat-hoa-kho-duoc-hoc) lâu dài, cần chú ý các yếu tố sau:
+Để lưu trữ [tiêu bản thực vật](/article/tieu-ban-thuc-vat-hoa-kho#tieu-ban-thuc-vat-hoa-kho-duoc-hoc) lâu dài, cần chú ý các yếu tố sau:
 
 – Bảo quản kín: Đặt tiêu bản trong các túi nylon hoặc khung kính kín để tránh bụi bẩn và côn trùng.
 
@@ -148,7 +148,7 @@ Giấy thấm hoặc giấy lọc là loại giấy tốt nhất để ép cây,
 
 ## Các quy trình ép tiêu bản thực vật là gì?
 
-Quy trình [tiêu bản thực vật](https://nhavantuonglai.com/article/tieu-ban-thuc-vat-hoa-kho#tieu-ban-thuc-vat-hoa-kho-khung-kinh) bao gồm các bước sau:
+Quy trình [tiêu bản thực vật](/article/tieu-ban-thuc-vat-hoa-kho#tieu-ban-thuc-vat-hoa-kho-khung-kinh) bao gồm các bước sau:
 
 – Thu thập mẫu vật: Chọn các mẫu thực vật tươi tốt, không bị sâu bệnh hoặc hư hỏng.
 
@@ -162,7 +162,7 @@ Quy trình [tiêu bản thực vật](https://nhavantuonglai.com/article/tieu-ba
 
 ## Làm thế nào để ép tiêu bản thực vật?
 
-Để làm một [tiêu bản thực vật](https://nhavantuonglai.com/article/tieu-ban-thuc-vat-hoa-kho#tieu-ban-thuc-vat-hoa-kho-nghien-cuu) tại nhà, bạn cần các vật liệu sau:
+Để làm một [tiêu bản thực vật](/article/tieu-ban-thuc-vat-hoa-kho#tieu-ban-thuc-vat-hoa-kho-nghien-cuu) tại nhà, bạn cần các vật liệu sau:
 
 – Hai tấm ván ép: Sử dụng hai tấm ván ép có kích thước vừa đủ để đặt mẫu vật.
 
@@ -176,7 +176,7 @@ Thời gian ép cây phụ thuộc vào loại cây và độ dày của mẫu v
 
 ## Làm thế nào để bạn ép lá và hoa?
 
-Để [tiêu bản thực vật](https://nhavantuonglai.com/article/tieu-ban-thuc-vat-hoa-kho#tieu-ban-thuc-vat-hoa-kho-tai-nha), bạn cần thực hiện các bước sau:
+Để [tiêu bản thực vật](/article/tieu-ban-thuc-vat-hoa-kho#tieu-ban-thuc-vat-hoa-kho-tai-nha), bạn cần thực hiện các bước sau:
 
 – Chọn mẫu vật: Chọn các lá và hoa tươi tốt, không bị sâu bệnh hoặc hư hỏng.
 
@@ -196,7 +196,7 @@ Lá ép có thể được bảo quản trong nhiều năm nếu được bảo 
 
 ## Lá ép có giữ được màu không?
 
-Lá [tiêu bản thực vật](https://nhavantuonglai.com/article/tieu-ban-thuc-vat-hoa-kho#cach-lam-tieu-ban-thuc-vat-hoa-kho) có thể giữ được màu nếu được ép và bảo quản đúng cách. Tuy nhiên, màu sắc của lá có thể phai dần theo thời gian do tác động của ánh sáng và không khí. Để giữ màu tốt nhất, cần tránh ánh sáng mặt trời trực tiếp và bảo quản lá ép trong môi trường kín.
+Lá [tiêu bản thực vật](/article/tieu-ban-thuc-vat-hoa-kho#cach-lam-tieu-ban-thuc-vat-hoa-kho) có thể giữ được màu nếu được ép và bảo quản đúng cách. Tuy nhiên, màu sắc của lá có thể phai dần theo thời gian do tác động của ánh sáng và không khí. Để giữ màu tốt nhất, cần tránh ánh sáng mặt trời trực tiếp và bảo quản lá ép trong môi trường kín.
 
 ## Hoa ép để được bao lâu?
 
@@ -224,7 +224,7 @@ Hoa ép có thể bị nâu do một số nguyên nhân sau:
 
 ## Những bông hoa nào là tốt nhất để ép?
 
-Một số loài hoa tốt nhất để ép [tiêu bản thực vật](https://nhavantuonglai.com/article/tieu-ban-thuc-vat-hoa-kho#tieu-ban-thuc-vat-hoa-kho-tim-hieu) bao gồm:
+Một số loài hoa tốt nhất để ép [tiêu bản thực vật](/article/tieu-ban-thuc-vat-hoa-kho#tieu-ban-thuc-vat-hoa-kho-tim-hieu) bao gồm:
 
 – Hoa hồng: Hoa hồng có cánh hoa dày và màu sắc đa dạng, rất phù hợp để ép.
 

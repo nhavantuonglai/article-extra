@@ -27,7 +27,7 @@ Chúng ta sẽ cùng tìm hiểu về đặt phòng trực tiếp so với đặ
 
 ### Chăm sóc hành trình khách hàng từ đầu đến cuối
 
-Khi khách [đặt phòng trực tiếp](https://nhavantuonglai.com/article/dich-vu-khach-san), khách sạn có thể quản lý toàn bộ hành trình của họ, đảm bảo trải nghiệm mượt mà từ đầu đến cuối. Khách sạn có thể tạo các thông báo cá nhân hóa, như email xác nhận và trước khi khách đến, để tăng cường sự gắn kết và chuẩn bị cho kỳ nghỉ của họ. Điều này giúp tạo ra trải nghiệm độc đáo với khách hàng là trung tâm.
+Khi khách [đặt phòng trực tiếp](/article/dich-vu-khach-san), khách sạn có thể quản lý toàn bộ hành trình của họ, đảm bảo trải nghiệm mượt mà từ đầu đến cuối. Khách sạn có thể tạo các thông báo cá nhân hóa, như email xác nhận và trước khi khách đến, để tăng cường sự gắn kết và chuẩn bị cho kỳ nghỉ của họ. Điều này giúp tạo ra trải nghiệm độc đáo với khách hàng là trung tâm.
 
 Sau khi khách trả phòng, khách sạn có thể gửi khảo sát hài lòng để thu thập ý kiến phản hồi và nhận diện các điểm cần cải thiện. Điều này cũng cho phép khách sạn quản lý tốt hơn lòng trung thành của khách bằng cách tạo ra con đường rõ ràng để đạt được điều đó.
 

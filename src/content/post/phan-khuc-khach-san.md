@@ -19,7 +19,7 @@ _Cùng tìm hiểu về phân khúc thị trường để thu hút đúng khách
 
 ## Mở đầu
 
-Lý do các du khách hiện nay thích đặt phòng tại các khách sạn độc lập là bởi chúng cung cấp những trải nghiệm tích cực thân thiện, được cá nhân hóa theo từng du khách. Chất lượng này khác biệt, vượt trội khi so với trải nghiệm tương tự tại các [khách sạn boutique](https://nhavantuonglai.com/article), nhà nghỉ, dorm hay bed breakfast (loại hình lưu trú chỉ bao gồm giường ngủ và bữa sáng) từ các khách sạn lớn.
+Lý do các du khách hiện nay thích đặt phòng tại các khách sạn độc lập là bởi chúng cung cấp những trải nghiệm tích cực thân thiện, được cá nhân hóa theo từng du khách. Chất lượng này khác biệt, vượt trội khi so với trải nghiệm tương tự tại các [khách sạn boutique](/article), nhà nghỉ, dorm hay bed breakfast (loại hình lưu trú chỉ bao gồm giường ngủ và bữa sáng) từ các khách sạn lớn.
 
 Điều này cũng đồng nghĩa rằng – nếu khách sạn tạo được những trải nghiệm cá nhân hóa tích cực cho du khách, thì có thể thu hút được nhiều lượt đặt phòng, cải thiện giá phòng trung bình hàng ngày (average daily rate) và có nhiều đánh giá trực tuyến tích cực hơn.
 
@@ -41,7 +41,7 @@ Tùy vào quy mô của từng khách sạn mà phân khúc thị trường có 
 
 ### Khách qua đường
 
-Khách đặt phòng qua đường là những cá nhân đi công tác hoặc du lịch, họ thường đặt phòng trực tiếp với khách sạn, hoặc thông qua [kênh OTA](https://nhavantuonglai.com/article) với giá phòng cố định. Với một số khách sạn, đây là phân khúc thị trường chính, chiếm phần lớn doanh thu.
+Khách đặt phòng qua đường là những cá nhân đi công tác hoặc du lịch, họ thường đặt phòng trực tiếp với khách sạn, hoặc thông qua [kênh OTA](/article) với giá phòng cố định. Với một số khách sạn, đây là phân khúc thị trường chính, chiếm phần lớn doanh thu.
 
 ### Khách công tác
 
@@ -69,7 +69,7 @@ Theo báo cáo về tình trạng nhà nghỉ độc lập năm 2023 của Cloud
 
 Tuy vậy, các khách sạn rất cần phân loại các nhóm du khách, giúp việc phục vụ và đáp ứng nhu cầu của họ được tốt, hoàn thiện hơn. Điều này dựa trên những hiểu biết cơ bản, chung nhất về từng phân khúc, như thói quen, cách giao tiếp hay nhu cầu được phục vụ… Nên thay vì tương tác với mọi khách đặt phòng như nhau, khách sạn có thể điều chỉnh ấn phẩm Marketing, phản hồi liên lạc, chính sách giá và dịch vụ… nhằm đáp ứng đúng, đủ nhu cầu và mong đợi của riêng từng phân khúc thị trường.
 
-Ví dụ: Về hành vi đặt phòng, khách nhóm và khách qua đường có cách đặt phòng rất khác nhau. Với khách nhóm, họ thường đi theo đoàn, đặt trước và nhiều phòng cùng một lúc, và muốn nhận giá phòng ưu đãi nhất. Với khách qua đường, họ tự do hơn, có thể đặt trước hoặc đến trực tiếp khách sạn đặt, đa số lần đặt chỉ một phòng, và chấp nhận giá thấp nhất trong ngày ([best available rate](https://nhavantuonglai.com/article).
+Ví dụ: Về hành vi đặt phòng, khách nhóm và khách qua đường có cách đặt phòng rất khác nhau. Với khách nhóm, họ thường đi theo đoàn, đặt trước và nhiều phòng cùng một lúc, và muốn nhận giá phòng ưu đãi nhất. Với khách qua đường, họ tự do hơn, có thể đặt trước hoặc đến trực tiếp khách sạn đặt, đa số lần đặt chỉ một phòng, và chấp nhận giá thấp nhất trong ngày ([best available rate](/article).
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-032.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
@@ -85,11 +85,11 @@ Ví dụ: Chiến lược bán phòng cho khách qua đường là kèm bữa ă
 
 ### Xây dựng chiến lược bán phòng đa dạng
 
-Thay vì phụ thuộc vào các kênh OTA cố định, khách sạn có thể xây dựng các [chiến lược bán phòng](https://nhavantuonglai.com/article), điều chỉnh ngân sách cho riêng từng kênh nhằm thu hút phân khúc thị trường cụ thể. Ngoài ra, khách sạn có thể dựa vào thông tin đã thu thập để xây dựng các chiến lược tương ứng, đáp ứng mọi nhu cầu, mong muốn của mọi phân khúc thị trường khi đặt phòng tại khách sạn.
+Thay vì phụ thuộc vào các kênh OTA cố định, khách sạn có thể xây dựng các [chiến lược bán phòng](/article), điều chỉnh ngân sách cho riêng từng kênh nhằm thu hút phân khúc thị trường cụ thể. Ngoài ra, khách sạn có thể dựa vào thông tin đã thu thập để xây dựng các chiến lược tương ứng, đáp ứng mọi nhu cầu, mong muốn của mọi phân khúc thị trường khi đặt phòng tại khách sạn.
 
 ### Tăng doanh thu, lợi nhuận cho khách sạn
 
-Khi xác định đúng phân khúc thị trường và có những chiến lược tương ứng để thu hút khách đặt phòng, khách sạn có thể [cải thiện công suất phòng](https://nhavantuonglai.com/article), giá phòng khách sạn.
+Khi xác định đúng phân khúc thị trường và có những chiến lược tương ứng để thu hút khách đặt phòng, khách sạn có thể [cải thiện công suất phòng](/article), giá phòng khách sạn.
 
 Để cải thiện lợi nhuận trên mỗi lượt đặt phòng thành công, khách sạn có thể nhắm mục tiêu vào các phân khúc thị trường có chi phí lợi nhuận thấp, như đặt phòng qua website, đặt phòng theo nhóm…
 
@@ -101,7 +101,7 @@ Ví dụ: Khách đặt phòng qua website, khách sạn có thể thu thập th
 
 ### Cải thiện trải nghiệm du khách
 
-Khi xác định được phân khúc thị trường, khách sạn có thể điều chỉnh các trải nghiệm tương ứng với từng khách đặt phòng, nhằm [đáp ứng và vượt qua kỳ vọng của khách hàng tại khách sạn](https://nhavantuonglai.com/article).
+Khi xác định được phân khúc thị trường, khách sạn có thể điều chỉnh các trải nghiệm tương ứng với từng khách đặt phòng, nhằm [đáp ứng và vượt qua kỳ vọng của khách hàng tại khách sạn](/article).
 
 Ví dụ: Ưu tiên nhận đặt phòng thành công từ tài khoản giải pháp, giúp dù trong bất kỳ tình huống nào thì họ – khách đặt phòng doanh nhân đều có phòng sẵn. Điều này giúp khách sạn duy trì các thỏa thuận, hợp đồng với các giải pháp trong việc cung cấp chỗ nghỉ đáp ứng tiêu chuẩn cho chuyến công tác của nhân viên của họ.
 
@@ -129,7 +129,7 @@ Danh sách dưới đây là các bước để xác định đúng phân khúc 
 
 ### Xác định kênh đặt phòng chính, phù hợp với khách sạn
 
-Đầu tiên, khách sạn cần xác định khách đặt phòng chủ yếu qua kênh, thời điểm nào trong năm. Để thực hiện, khách sạn nên sử dụng [phần mềm quản lý khách sạn](https://nhavantuonglai.com/article), hoặc công cụ quản lý quan hệ khách hàng ([customer relationship management](https://nhavantuonglai.com/article) nhằm theo dõi, quản lý thông tin khách được chính xác, hiệu quả. Dữ liệu này là cơ sở để phân tích, xây dựng phân khúc thị trường phù hợp với khách sạn.
+Đầu tiên, khách sạn cần xác định khách đặt phòng chủ yếu qua kênh, thời điểm nào trong năm. Để thực hiện, khách sạn nên sử dụng [phần mềm quản lý khách sạn](/article), hoặc công cụ quản lý quan hệ khách hàng ([customer relationship management](/article) nhằm theo dõi, quản lý thông tin khách được chính xác, hiệu quả. Dữ liệu này là cơ sở để phân tích, xây dựng phân khúc thị trường phù hợp với khách sạn.
 
 Ngoài ra, khách sạn cũng cần xác định kênh bán phòng trọng tâm – là kênh đem lại nhiều lượt đặt phòng cho khách sạn nhất. Bên cạnh đó, khách sạn cũng cần lưu ý, xu hướng flexcation đang phát triển mạnh mẽ trong hiện tại lẫn tương lai, vậy nên trong thực tế khách sạn rất dễ bắt gặp những du khách vừa là khách du lịch, và vừa là khách công tác. Một số kênh bán phòng mà khách sạn có thể đo lường, theo dõi như là: thông qua bán tour, kênh OTA hoặc từ tài khoản giải pháp…
 
@@ -161,7 +161,7 @@ Sau khi xác định và xây dựng phân khúc thị trường, khách sạn c
 
 ### Thu thập dữ liệu khách đặt phòng
 
-Khi dữ liệu khách đặt phòng được thu thập càng nhiều, chiến lược bán phòng sẽ càng hiệu quả, bởi khách sạn càng hiểu rõ hơn về du khách. Vậy nên, việc thu thập và [khai thác dữ liệu khách đặt phòng](https://nhavantuonglai.com/article) rất quan trọng và cần thiết cho khách sạn. Thông qua chúng, khách sạn có thể tối ưu các giải pháp nhằm cải thiện chiến lược bán phòng để mọi thứ thêm hiệu quả và hữu ích.
+Khi dữ liệu khách đặt phòng được thu thập càng nhiều, chiến lược bán phòng sẽ càng hiệu quả, bởi khách sạn càng hiểu rõ hơn về du khách. Vậy nên, việc thu thập và [khai thác dữ liệu khách đặt phòng](/article) rất quan trọng và cần thiết cho khách sạn. Thông qua chúng, khách sạn có thể tối ưu các giải pháp nhằm cải thiện chiến lược bán phòng để mọi thứ thêm hiệu quả và hữu ích.
 
 ### Tìm hiểu suy nghĩ của khách đặt phòng
 
@@ -225,7 +225,7 @@ Nếu khách sạn xây dựng chiến lược, nhằm cấu trúc lại phòng 
 
 ### Tùy chỉnh dịch vụ
 
-Hãy tạo ra những tiện nghi, dịch vụ phù hợp với từng phân khúc thị trường; cụ thể là cung cấp những trải nghiệm tích cực, thân mật, được cá nhân hóa với từng nhóm du khách, nhằm thu hút họ đặt phòng tại khách sạn. Ngoài ra, hãy hợp tác với các công ty lữ hành, du lịch tại địa phương để làm cầu nối, liên kết và thu hút khách du lịch từ mọi nơi tìm đến, chọn khách sạn của bạn là nơi đặt phòng chính thức. Những điều này sẽ giúp khách sạn đảm bảo được [trải nghiệm của du khách](https://nhavantuonglai.com/article) đúng như kỳ vọng, và vượt qua những kỳ vọng vốn có của họ để giành được các [đánh giá tích cực](https://nhavantuonglai.com/article).
+Hãy tạo ra những tiện nghi, dịch vụ phù hợp với từng phân khúc thị trường; cụ thể là cung cấp những trải nghiệm tích cực, thân mật, được cá nhân hóa với từng nhóm du khách, nhằm thu hút họ đặt phòng tại khách sạn. Ngoài ra, hãy hợp tác với các công ty lữ hành, du lịch tại địa phương để làm cầu nối, liên kết và thu hút khách du lịch từ mọi nơi tìm đến, chọn khách sạn của bạn là nơi đặt phòng chính thức. Những điều này sẽ giúp khách sạn đảm bảo được [trải nghiệm của du khách](/article) đúng như kỳ vọng, và vượt qua những kỳ vọng vốn có của họ để giành được các [đánh giá tích cực](/article).
 
 ### Nhắm mục tiêu để Marketing và bán phòng hiệu quả
 
@@ -239,7 +239,7 @@ Với tất cả chiến lược nêu trên, khách sạn không nên bỏ qua v
 
 – Hệ thống đặt phòng (reservation systems), nhằm hỗ trợ bán phòng và thu thập dữ liệu khách hàng hiệu quả.
 
-– [Phần mềm quản lý khách sạn](https://nhavantuonglai.com/article) (property management system), nhằm lưu trữ và cung cấp dữ liệu về nhân khẩu học, hành vi đặt phòng được chi tiết và sâu sắc.
+– [Phần mềm quản lý khách sạn](/article) (property management system), nhằm lưu trữ và cung cấp dữ liệu về nhân khẩu học, hành vi đặt phòng được chi tiết và sâu sắc.
 
 – Hệ thống quản lý doanh thu (revenue management system), nhằm dự báo công suất phòng, và hiểu rõ hơn về mô hình đặt phòng, lợi nhuận thu về dựa trên phân khúc thị trường khác nhau.
 

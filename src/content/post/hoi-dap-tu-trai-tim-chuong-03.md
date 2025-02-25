@@ -187,17 +187,17 @@ Giấc mộng còn là một sáng tạo phẩm chung của tâm thức, đượ
 
 Mỉm cười, nhớ lại giấc mộng, quán chiếu giấc mộng là một điều rất thú vị. Nhưng những giấc mộng của ban đêm đâu phải là quan trọng hơn những giấc mộng của ban ngày. Bởi vì những gì ta nghe, ta thấy khi ta đang thức hầu hết đều là sáng tạo phẩm của tâm thức. Những gì mà ta cho là thực tại thì hầu hết chỉ là sáng tạo phẩm từ tâm thức của chính ta. Vì thế cho nên sự thực tập chánh niệm để nhận diện những đối tượng của tâm thức, cũng như thực tập quán chiếu để biết những cảm nhận (tưởng) của ta có sai lầm hay không là rất quan trọng. Nhiều người trong chúng ta đang sống như sống trong giấc mộng. Vì vậy, chúng ta cần phải tỉnh mộng. Giáo lý của đạo Bụt là giáo lý của sự thức tỉnh. Những lời Bụt dạy là để thức tỉnh chúng ta. Bụt là một người đã tỉnh thức. Và đạo Bụt là đạo dạy phép tu để tỉnh thức.
 
-Đọc [Hỏi đáp từ trái tim, chương 01](https://nhavantuonglai.com/article/hoi-dap-tu-trai-tim-chuong-01) tại đây.
+Đọc [Hỏi đáp từ trái tim, chương 01](/article/hoi-dap-tu-trai-tim-chuong-01) tại đây.
 
-Đọc [Hỏi đáp từ trái tim, chương 02](https://nhavantuonglai.com/article/hoi-dap-tu-trai-tim-chuong-02) tại đây.
+Đọc [Hỏi đáp từ trái tim, chương 02](/article/hoi-dap-tu-trai-tim-chuong-02) tại đây.
 
-Đọc [Hỏi đáp từ trái tim, chương 03](https://nhavantuonglai.com/article/hoi-dap-tu-trai-tim-chuong-03) tại đây.
+Đọc [Hỏi đáp từ trái tim, chương 03](/article/hoi-dap-tu-trai-tim-chuong-03) tại đây.
 
-Đọc [Hỏi đáp từ trái tim, chương 04](https://nhavantuonglai.com/article/hoi-dap-tu-trai-tim-chuong-04) tại đây.
+Đọc [Hỏi đáp từ trái tim, chương 04](/article/hoi-dap-tu-trai-tim-chuong-04) tại đây.
 
-Đọc [Hỏi đáp từ trái tim, chương 05](https://nhavantuonglai.com/article/hoi-dap-tu-trai-tim-chuong-05) tại đây.
+Đọc [Hỏi đáp từ trái tim, chương 05](/article/hoi-dap-tu-trai-tim-chuong-05) tại đây.
 
-Đọc [Hỏi đáp từ trái tim, chương 06](https://nhavantuonglai.com/article/hoi-dap-tu-trai-tim-chuong-06) tại đây.
+Đọc [Hỏi đáp từ trái tim, chương 06](/article/hoi-dap-tu-trai-tim-chuong-06) tại đây.
 
 Đọc [Hỏi đáp từ trái tim, toàn tập](https://banmaixanh.vercel.app/ebook/hoi-dap-tu-trai-tim.pdf) tại đây.
 

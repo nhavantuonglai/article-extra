@@ -17,7 +17,7 @@ _Viết lách luận văn là một nhiệm vụ quan trọng và phức tạp m
 
 ## Viết luận văn là gì?
 
-Luận văn là một bài [nghiên cứu khoa học](https://nhavantuonglai.com/tags/nghien-cuu-khoa-hoc) chi tiết về một chủ đề cụ thể, thường được yêu cầu ở bậc đại học hoặc sau đại học. Nó bao gồm việc thu thập, phân tích và trình bày thông tin một cách có hệ thống nhằm đóng góp vào kiến thức hiện có trong lĩnh vực nghiên cứu.
+Luận văn là một bài [nghiên cứu khoa học](/tags/nghien-cuu-khoa-hoc) chi tiết về một chủ đề cụ thể, thường được yêu cầu ở bậc đại học hoặc sau đại học. Nó bao gồm việc thu thập, phân tích và trình bày thông tin một cách có hệ thống nhằm đóng góp vào kiến thức hiện có trong lĩnh vực nghiên cứu.
 
 Luận văn không chỉ là yêu cầu để tốt nghiệp mà còn là cơ hội để sinh viên thể hiện năng lực nghiên cứu độc lập, khả năng tư duy phản biện và kỹ năng viết lách. Một luận văn tốt có thể mở ra nhiều cơ hội nghề nghiệp và học thuật cho tác giả.
 
@@ -117,7 +117,7 @@ Thảo luận và trao đổi: Thảo luận và trao đổi với các chuyên 
 
 ## Kết luận
 
-[Học viết lách](https://nhavantuonglai.com/article) luận văn là một quá trình đầy thử thách nhưng cũng rất đáng giá. Đó là cơ hội để sinh viên chứng tỏ khả năng nghiên cứu độc lập, tư duy phân tích và kỹ năng viết lách của mình. Một luận văn tốt không chỉ giúp bạn đạt được mục tiêu học tập mà còn mở ra nhiều cơ hội nghề nghiệp và học thuật trong tương lai.
+[Học viết lách](/article) luận văn là một quá trình đầy thử thách nhưng cũng rất đáng giá. Đó là cơ hội để sinh viên chứng tỏ khả năng nghiên cứu độc lập, tư duy phân tích và kỹ năng viết lách của mình. Một luận văn tốt không chỉ giúp bạn đạt được mục tiêu học tập mà còn mở ra nhiều cơ hội nghề nghiệp và học thuật trong tương lai.
 
 Để viết được một luận văn xuất sắc, bạn cần chọn một đề tài có ý nghĩa và khả thi, lập kế hoạch nghiên cứu chi tiết, tìm kiếm và đánh giá tài liệu một cách cẩn thận, viết và chỉnh sửa cẩn thận từng phần của luận văn, và cuối cùng là trình bày kết quả một cách rõ ràng và logic. Hãy luôn kiên trì và nỗ lực, vì kết quả cuối cùng sẽ là phần thưởng xứng đáng cho tất cả những cố gắng của bạn.
 

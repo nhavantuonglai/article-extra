@@ -97,105 +97,105 @@ Trở về kính lạy, gia đình huyết thống, gia đình tâm linh, gia h�
 
 Con mở rộng lòng ra để truyền đi năng lượng hiểu biết và lòng xót thương của con tới những người đã làm con khổ đau và điêu đứng. Con biết người ấy cũng đã đi qua nhiều khổ đau, đã chứa chấp quá nhiều cay đắng và bực bội trong trái tim nên đã làm vung vãi những khổ đau và bực bội của người ấy lên con. Con biết những người ấy không được may mắn, có thể là từ hồi còn bé thơ đã thiếu sự chăm sóc và thương yêu, đã bị cuộc đời dằn vặt và ngược đãi bao nhiêu lần. Con biết những người như người ấy chưa được may mắn được học, được tu, đã chứa chấp những tri giác sai lầm về cuộc đời và về con, nên đã làm khổ con và làm khổ những người con thương. Con xin gia đình huyết thống và gia đình tâm linh của con truyền năng lượng cho (những) người ấy, để cho trái tim của họ được tiếp nhận giọt nước cam lồ mà nở ra được như một bông hoa. Con chỉ cầu mong cho người ấy được chuyển hóa để người ấy tìm ra được niềm vui sống, để không còn giữ tâm hận thù mà tự làm khổ mình và làm khổ người. Con biết vì những người ấy khổ mà không tự chủ được nên đã làm khổ con và làm khổ những người con thương. Con cũng cầu mong cho tất cả những ai đã làm cho gia đình con khổ, dân tộc con điêu đứng, kể cả những kẻ xâm lăng, cướp nước, những người hải tặc, những kẻ ích kỷ, dối trá và tàn bạo được nhờ ơn Bụt, ơn tổ, ơn tiền nhân mà cải hóa. Con thấy họ khổ và nỗi khổ ấy đang kéo dài qua nhiều thế hệ và con không muốn giữ tâm niệm sân hận, oán thù. Con không muốn cho họ khổ. Con có gốc rễ nơi tổ tiên, nơi dòng họ huyết thống và dòng họ tâm linh; trái tim con đã nở ra như một đóa hoa, con xin buông bỏ tất cả mọi hiềm hận, một lòng cầu nguyện cho kẻ đã làm khổ con, làm khổ gia đình và dân tộc con được thoát vòng tai nạn và đớn đau, để họ có thể thấy được ánh sáng của niềm vui sống và an lạc như con. Tâm con không còn mang một mảy may trách móc và oán thù. Con xin truyền đạt năng lượng của con cho tất cả những người ấy. Lạy Bụt, lạy tổ, lạy ông bà chứng minh cho con.
 
-Đọc [Gieo trồng hạnh phúc, chương 01](https://nhavantuonglai.com/article/gieo-trong-hanh-phuc-chuong-01) tại đây.
+Đọc [Gieo trồng hạnh phúc, chương 01](/article/gieo-trong-hanh-phuc-chuong-01) tại đây.
 
-Đọc [Gieo trồng hạnh phúc, chương 02](https://nhavantuonglai.com/article/gieo-trong-hanh-phuc-chuong-02) tại đây.
+Đọc [Gieo trồng hạnh phúc, chương 02](/article/gieo-trong-hanh-phuc-chuong-02) tại đây.
 
-Đọc [Gieo trồng hạnh phúc, chương 03](https://nhavantuonglai.com/article/gieo-trong-hanh-phuc-chuong-03) tại đây.
+Đọc [Gieo trồng hạnh phúc, chương 03](/article/gieo-trong-hanh-phuc-chuong-03) tại đây.
 
-Đọc [Gieo trồng hạnh phúc, chương 04](https://nhavantuonglai.com/article/gieo-trong-hanh-phuc-chuong-04) tại đây.
+Đọc [Gieo trồng hạnh phúc, chương 04](/article/gieo-trong-hanh-phuc-chuong-04) tại đây.
 
-Đọc [Gieo trồng hạnh phúc, chương 05](https://nhavantuonglai.com/article/gieo-trong-hanh-phuc-chuong-05) tại đây.
+Đọc [Gieo trồng hạnh phúc, chương 05](/article/gieo-trong-hanh-phuc-chuong-05) tại đây.
 
-Đọc [Gieo trồng hạnh phúc, chương 06](https://nhavantuonglai.com/article/gieo-trong-hanh-phuc-chuong-06) tại đây.
+Đọc [Gieo trồng hạnh phúc, chương 06](/article/gieo-trong-hanh-phuc-chuong-06) tại đây.
 
-Đọc [Gieo trồng hạnh phúc, chương 07](https://nhavantuonglai.com/article/gieo-trong-hanh-phuc-chuong-07) tại đây.
+Đọc [Gieo trồng hạnh phúc, chương 07](/article/gieo-trong-hanh-phuc-chuong-07) tại đây.
 
-Đọc [Gieo trồng hạnh phúc, chương 08](https://nhavantuonglai.com/article/gieo-trong-hanh-phuc-chuong-08) tại đây.
+Đọc [Gieo trồng hạnh phúc, chương 08](/article/gieo-trong-hanh-phuc-chuong-08) tại đây.
 
-Đọc [Gieo trồng hạnh phúc, chương 09](https://nhavantuonglai.com/article/gieo-trong-hanh-phuc-chuong-09) tại đây.
+Đọc [Gieo trồng hạnh phúc, chương 09](/article/gieo-trong-hanh-phuc-chuong-09) tại đây.
 
-Đọc [Gieo trồng hạnh phúc, chương 10](https://nhavantuonglai.com/article/gieo-trong-hanh-phuc-chuong-10) tại đây.
+Đọc [Gieo trồng hạnh phúc, chương 10](/article/gieo-trong-hanh-phuc-chuong-10) tại đây.
 
-Đọc [Gieo trồng hạnh phúc, chương 11](https://nhavantuonglai.com/article/gieo-trong-hanh-phuc-chuong-11) tại đây.
+Đọc [Gieo trồng hạnh phúc, chương 11](/article/gieo-trong-hanh-phuc-chuong-11) tại đây.
 
-Đọc [Gieo trồng hạnh phúc, chương 12](https://nhavantuonglai.com/article/gieo-trong-hanh-phuc-chuong-12) tại đây.
+Đọc [Gieo trồng hạnh phúc, chương 12](/article/gieo-trong-hanh-phuc-chuong-12) tại đây.
 
-Đọc [Gieo trồng hạnh phúc, chương 13](https://nhavantuonglai.com/article/gieo-trong-hanh-phuc-chuong-13) tại đây.
+Đọc [Gieo trồng hạnh phúc, chương 13](/article/gieo-trong-hanh-phuc-chuong-13) tại đây.
 
-Đọc [Gieo trồng hạnh phúc, chương 14](https://nhavantuonglai.com/article/gieo-trong-hanh-phuc-chuong-14) tại đây.
+Đọc [Gieo trồng hạnh phúc, chương 14](/article/gieo-trong-hanh-phuc-chuong-14) tại đây.
 
-Đọc [Gieo trồng hạnh phúc, chương 15](https://nhavantuonglai.com/article/gieo-trong-hanh-phuc-chuong-15) tại đây.
+Đọc [Gieo trồng hạnh phúc, chương 15](/article/gieo-trong-hanh-phuc-chuong-15) tại đây.
 
-Đọc [Gieo trồng hạnh phúc, chương 16](https://nhavantuonglai.com/article/gieo-trong-hanh-phuc-chuong-16) tại đây.
+Đọc [Gieo trồng hạnh phúc, chương 16](/article/gieo-trong-hanh-phuc-chuong-16) tại đây.
 
-Đọc [Gieo trồng hạnh phúc, chương 17](https://nhavantuonglai.com/article/gieo-trong-hanh-phuc-chuong-17) tại đây.
+Đọc [Gieo trồng hạnh phúc, chương 17](/article/gieo-trong-hanh-phuc-chuong-17) tại đây.
 
-Đọc [Gieo trồng hạnh phúc, chương 18](https://nhavantuonglai.com/article/gieo-trong-hanh-phuc-chuong-18) tại đây.
+Đọc [Gieo trồng hạnh phúc, chương 18](/article/gieo-trong-hanh-phuc-chuong-18) tại đây.
 
-Đọc [Gieo trồng hạnh phúc, chương 19](https://nhavantuonglai.com/article/gieo-trong-hanh-phuc-chuong-19) tại đây.
+Đọc [Gieo trồng hạnh phúc, chương 19](/article/gieo-trong-hanh-phuc-chuong-19) tại đây.
 
-Đọc [Gieo trồng hạnh phúc, chương 20](https://nhavantuonglai.com/article/gieo-trong-hanh-phuc-chuong-20) tại đây.
+Đọc [Gieo trồng hạnh phúc, chương 20](/article/gieo-trong-hanh-phuc-chuong-20) tại đây.
 
-Đọc [Gieo trồng hạnh phúc, chương 21](https://nhavantuonglai.com/article/gieo-trong-hanh-phuc-chuong-21) tại đây.
+Đọc [Gieo trồng hạnh phúc, chương 21](/article/gieo-trong-hanh-phuc-chuong-21) tại đây.
 
-Đọc [Gieo trồng hạnh phúc, chương 22](https://nhavantuonglai.com/article/gieo-trong-hanh-phuc-chuong-22) tại đây.
+Đọc [Gieo trồng hạnh phúc, chương 22](/article/gieo-trong-hanh-phuc-chuong-22) tại đây.
 
-Đọc [Gieo trồng hạnh phúc, chương 23](https://nhavantuonglai.com/article/gieo-trong-hanh-phuc-chuong-23) tại đây.
+Đọc [Gieo trồng hạnh phúc, chương 23](/article/gieo-trong-hanh-phuc-chuong-23) tại đây.
 
-Đọc [Gieo trồng hạnh phúc, chương 24](https://nhavantuonglai.com/article/gieo-trong-hanh-phuc-chuong-24) tại đây.
+Đọc [Gieo trồng hạnh phúc, chương 24](/article/gieo-trong-hanh-phuc-chuong-24) tại đây.
 
-Đọc [Gieo trồng hạnh phúc, chương 25](https://nhavantuonglai.com/article/gieo-trong-hanh-phuc-chuong-25) tại đây.
+Đọc [Gieo trồng hạnh phúc, chương 25](/article/gieo-trong-hanh-phuc-chuong-25) tại đây.
 
-Đọc [Gieo trồng hạnh phúc, chương 26](https://nhavantuonglai.com/article/gieo-trong-hanh-phuc-chuong-26) tại đây.
+Đọc [Gieo trồng hạnh phúc, chương 26](/article/gieo-trong-hanh-phuc-chuong-26) tại đây.
 
-Đọc [Gieo trồng hạnh phúc, chương 27](https://nhavantuonglai.com/article/gieo-trong-hanh-phuc-chuong-27) tại đây.
+Đọc [Gieo trồng hạnh phúc, chương 27](/article/gieo-trong-hanh-phuc-chuong-27) tại đây.
 
-Đọc [Gieo trồng hạnh phúc, chương 28](https://nhavantuonglai.com/article/gieo-trong-hanh-phuc-chuong-28) tại đây.
+Đọc [Gieo trồng hạnh phúc, chương 28](/article/gieo-trong-hanh-phuc-chuong-28) tại đây.
 
-Đọc [Gieo trồng hạnh phúc, chương 29](https://nhavantuonglai.com/article/gieo-trong-hanh-phuc-chuong-29) tại đây.
+Đọc [Gieo trồng hạnh phúc, chương 29](/article/gieo-trong-hanh-phuc-chuong-29) tại đây.
 
-Đọc [Gieo trồng hạnh phúc, chương 30](https://nhavantuonglai.com/article/gieo-trong-hanh-phuc-chuong-30) tại đây.
+Đọc [Gieo trồng hạnh phúc, chương 30](/article/gieo-trong-hanh-phuc-chuong-30) tại đây.
 
-Đọc [Gieo trồng hạnh phúc, chương 31](https://nhavantuonglai.com/article/gieo-trong-hanh-phuc-chuong-31) tại đây.
+Đọc [Gieo trồng hạnh phúc, chương 31](/article/gieo-trong-hanh-phuc-chuong-31) tại đây.
 
-Đọc [Gieo trồng hạnh phúc, chương 32](https://nhavantuonglai.com/article/gieo-trong-hanh-phuc-chuong-32) tại đây.
+Đọc [Gieo trồng hạnh phúc, chương 32](/article/gieo-trong-hanh-phuc-chuong-32) tại đây.
 
-Đọc [Gieo trồng hạnh phúc, chương 33](https://nhavantuonglai.com/article/gieo-trong-hanh-phuc-chuong-33) tại đây.
+Đọc [Gieo trồng hạnh phúc, chương 33](/article/gieo-trong-hanh-phuc-chuong-33) tại đây.
 
-Đọc [Gieo trồng hạnh phúc, chương 34](https://nhavantuonglai.com/article/gieo-trong-hanh-phuc-chuong-34) tại đây.
+Đọc [Gieo trồng hạnh phúc, chương 34](/article/gieo-trong-hanh-phuc-chuong-34) tại đây.
 
-Đọc [Gieo trồng hạnh phúc, chương 35](https://nhavantuonglai.com/article/gieo-trong-hanh-phuc-chuong-35) tại đây.
+Đọc [Gieo trồng hạnh phúc, chương 35](/article/gieo-trong-hanh-phuc-chuong-35) tại đây.
 
-Đọc [Gieo trồng hạnh phúc, chương 36](https://nhavantuonglai.com/article/gieo-trong-hanh-phuc-chuong-36) tại đây.
+Đọc [Gieo trồng hạnh phúc, chương 36](/article/gieo-trong-hanh-phuc-chuong-36) tại đây.
 
-Đọc [Gieo trồng hạnh phúc, chương 37](https://nhavantuonglai.com/article/gieo-trong-hanh-phuc-chuong-37) tại đây.
+Đọc [Gieo trồng hạnh phúc, chương 37](/article/gieo-trong-hanh-phuc-chuong-37) tại đây.
 
-Đọc [Gieo trồng hạnh phúc, chương 38](https://nhavantuonglai.com/article/gieo-trong-hanh-phuc-chuong-38) tại đây.
+Đọc [Gieo trồng hạnh phúc, chương 38](/article/gieo-trong-hanh-phuc-chuong-38) tại đây.
 
-Đọc [Gieo trồng hạnh phúc, chương 39](https://nhavantuonglai.com/article/gieo-trong-hanh-phuc-chuong-39) tại đây.
+Đọc [Gieo trồng hạnh phúc, chương 39](/article/gieo-trong-hanh-phuc-chuong-39) tại đây.
 
-Đọc [Gieo trồng hạnh phúc, chương 40](https://nhavantuonglai.com/article/gieo-trong-hanh-phuc-chuong-40) tại đây.
+Đọc [Gieo trồng hạnh phúc, chương 40](/article/gieo-trong-hanh-phuc-chuong-40) tại đây.
 
-Đọc [Gieo trồng hạnh phúc, chương 41](https://nhavantuonglai.com/article/gieo-trong-hanh-phuc-chuong-41) tại đây.
+Đọc [Gieo trồng hạnh phúc, chương 41](/article/gieo-trong-hanh-phuc-chuong-41) tại đây.
 
-Đọc [Gieo trồng hạnh phúc, chương 42](https://nhavantuonglai.com/article/gieo-trong-hanh-phuc-chuong-42) tại đây.
+Đọc [Gieo trồng hạnh phúc, chương 42](/article/gieo-trong-hanh-phuc-chuong-42) tại đây.
 
-Đọc [Gieo trồng hạnh phúc, chương 43](https://nhavantuonglai.com/article/gieo-trong-hanh-phuc-chuong-43) tại đây.
+Đọc [Gieo trồng hạnh phúc, chương 43](/article/gieo-trong-hanh-phuc-chuong-43) tại đây.
 
-Đọc [Gieo trồng hạnh phúc, chương 44](https://nhavantuonglai.com/article/gieo-trong-hanh-phuc-chuong-44) tại đây.
+Đọc [Gieo trồng hạnh phúc, chương 44](/article/gieo-trong-hanh-phuc-chuong-44) tại đây.
 
-Đọc [Gieo trồng hạnh phúc, chương 45](https://nhavantuonglai.com/article/gieo-trong-hanh-phuc-chuong-45) tại đây.
+Đọc [Gieo trồng hạnh phúc, chương 45](/article/gieo-trong-hanh-phuc-chuong-45) tại đây.
 
-Đọc [Gieo trồng hạnh phúc, chương 46](https://nhavantuonglai.com/article/gieo-trong-hanh-phuc-chuong-46) tại đây.
+Đọc [Gieo trồng hạnh phúc, chương 46](/article/gieo-trong-hanh-phuc-chuong-46) tại đây.
 
-Đọc [Gieo trồng hạnh phúc, chương 47](https://nhavantuonglai.com/article/gieo-trong-hanh-phuc-chuong-47) tại đây.
+Đọc [Gieo trồng hạnh phúc, chương 47](/article/gieo-trong-hanh-phuc-chuong-47) tại đây.
 
-Đọc [Gieo trồng hạnh phúc, chương 48](https://nhavantuonglai.com/article/gieo-trong-hanh-phuc-chuong-48) tại đây.
+Đọc [Gieo trồng hạnh phúc, chương 48](/article/gieo-trong-hanh-phuc-chuong-48) tại đây.
 
-Đọc [Gieo trồng hạnh phúc, chương 49](https://nhavantuonglai.com/article/gieo-trong-hanh-phuc-chuong-49) tại đây.
+Đọc [Gieo trồng hạnh phúc, chương 49](/article/gieo-trong-hanh-phuc-chuong-49) tại đây.
 
-Đọc [Gieo trồng hạnh phúc, chương 50](https://nhavantuonglai.com/article/gieo-trong-hanh-phuc-chuong-50) tại đây.
+Đọc [Gieo trồng hạnh phúc, chương 50](/article/gieo-trong-hanh-phuc-chuong-50) tại đây.
 
 Đọc [Gieo trồng hạnh phúc, toàn tập](https://banmaixanh.vercel.app/ebook/gieo-trong-hanh-phuc.pdf) tại đây.
 

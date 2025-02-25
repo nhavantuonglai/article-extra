@@ -157,17 +157,17 @@ Hỏi: Xin cho biết những gì mà một người bình thường có thể l
 
 Trả lời: Thiền hành là một việc mà ai cũng làm được. Có nhiều người thấy khó khăn trong khi ngồi thiền nhưng phần lớn thì ai cũng đi thiền được. Nếu ta ngồi trên xe lăn thì ta cũng có thể thực tập thiền lăn xe được. Bất cứ ở đâu, Berkeley, New York, Amsterdam, Paris hay Bangkok và bất cứ ai cũng đều có thể thưởng thức niềm vui khi đi thiền. Mỗi bước chân giúp ta dừng lại sự thất niệm, trở về tiếp xúc với sự sống mầu nhiệm để được nuôi dưỡng và chuyển hóa. Thiền hành là một sự thực tập rất dễ chịu, có công năng chuyển hóa và trị liệu. Khi thực tập thiền hành ta đem tâm về hợp nhất với thân và trở về với hơi thở. Theo dõi hơi thở, giúp cho thân và tâm ta hợp nhất. Khi đó ta sẽ thực sự có mặt, thực sự sống và tìm thấy hạnh phúc trong giờ phút hiện tại.
 
-Đọc [Hỏi đáp từ trái tim, chương 01](https://nhavantuonglai.com/article/hoi-dap-tu-trai-tim-chuong-01) tại đây.
+Đọc [Hỏi đáp từ trái tim, chương 01](/article/hoi-dap-tu-trai-tim-chuong-01) tại đây.
 
-Đọc [Hỏi đáp từ trái tim, chương 02](https://nhavantuonglai.com/article/hoi-dap-tu-trai-tim-chuong-02) tại đây.
+Đọc [Hỏi đáp từ trái tim, chương 02](/article/hoi-dap-tu-trai-tim-chuong-02) tại đây.
 
-Đọc [Hỏi đáp từ trái tim, chương 03](https://nhavantuonglai.com/article/hoi-dap-tu-trai-tim-chuong-03) tại đây.
+Đọc [Hỏi đáp từ trái tim, chương 03](/article/hoi-dap-tu-trai-tim-chuong-03) tại đây.
 
-Đọc [Hỏi đáp từ trái tim, chương 04](https://nhavantuonglai.com/article/hoi-dap-tu-trai-tim-chuong-04) tại đây.
+Đọc [Hỏi đáp từ trái tim, chương 04](/article/hoi-dap-tu-trai-tim-chuong-04) tại đây.
 
-Đọc [Hỏi đáp từ trái tim, chương 05](https://nhavantuonglai.com/article/hoi-dap-tu-trai-tim-chuong-05) tại đây.
+Đọc [Hỏi đáp từ trái tim, chương 05](/article/hoi-dap-tu-trai-tim-chuong-05) tại đây.
 
-Đọc [Hỏi đáp từ trái tim, chương 06](https://nhavantuonglai.com/article/hoi-dap-tu-trai-tim-chuong-06) tại đây.
+Đọc [Hỏi đáp từ trái tim, chương 06](/article/hoi-dap-tu-trai-tim-chuong-06) tại đây.
 
 Đọc [Hỏi đáp từ trái tim, toàn tập](https://banmaixanh.vercel.app/ebook/hoi-dap-tu-trai-tim.pdf) tại đây.
 

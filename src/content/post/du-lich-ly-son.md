@@ -13,7 +13,7 @@ _Lý Sơn là một huyện đảo thuộc tỉnh Quảng Ngãi. Huyện đảo 
 
 ## Lý Sơn mùa nào đẹp
 
-Với hai mùa mưa, nắng rõ rệt, thời điểm đẹp nhất để du lịch Lý Sơn là từ tháng 4 đến tháng 8. Vào khoảng thời gian này thời tiết ổn định, trời ít mưa và có nắng. Song bạn nên tránh đi vào mùa cao điểm từ tháng 4 đến tháng 6, để không phải chịu cảnh đông đúc. Tháng 9 đến tháng 12 là mùa mưa, bão và biển động. Từ cuối tháng 12 đến tháng 4 là [mùa rêu xanh](https://nhavantuonglai.com/article) phủ khắp những bãi đá ven biển Lý Sơn.
+Với hai mùa mưa, nắng rõ rệt, thời điểm đẹp nhất để du lịch Lý Sơn là từ tháng 4 đến tháng 8. Vào khoảng thời gian này thời tiết ổn định, trời ít mưa và có nắng. Song bạn nên tránh đi vào mùa cao điểm từ tháng 4 đến tháng 6, để không phải chịu cảnh đông đúc. Tháng 9 đến tháng 12 là mùa mưa, bão và biển động. Từ cuối tháng 12 đến tháng 4 là [mùa rêu xanh](/article) phủ khắp những bãi đá ven biển Lý Sơn.
 
 Lưu ý, bạn cần theo dõi thời tiết trước khi khởi hành để tránh tình trạng kẹt lại trên đảo từ vài ngày vì biển động, gió mùa…
 
@@ -43,11 +43,11 @@ Du khách có thể thuê xe điện 300.000 đồng một lượt để khám p
 
 Đỉnh Thới Lới
 
-Đây là một trong 5 ngọn [núi lửa](https://nhavantuonglai.com/article) đã ngưng hoạt động của huyện đảo, với phần mỏm đá nhô ra nhìn xuống biển. Núi có độ cao khoảng 170 m so với mặt nước biển và đỉnh núi là lòng chảo khổng lồ, với hồ nước ngọt cấp nước cho huyện đảo. Ở đây có cột cờ tổ quốc cao 20 m, điểm đến yêu thích của nhiều du khách khi tới Lý Sơn.
+Đây là một trong 5 ngọn [núi lửa](/article) đã ngưng hoạt động của huyện đảo, với phần mỏm đá nhô ra nhìn xuống biển. Núi có độ cao khoảng 170 m so với mặt nước biển và đỉnh núi là lòng chảo khổng lồ, với hồ nước ngọt cấp nước cho huyện đảo. Ở đây có cột cờ tổ quốc cao 20 m, điểm đến yêu thích của nhiều du khách khi tới Lý Sơn.
 
 Cánh đồng tỏi
 
-Từ đỉnh Thới Lới, bạn cũng có thể trải rộng tầm mắt ngắm nhìn [cánh đồng tỏi](https://nhavantuonglai.com/article) xanh ngút ngàn. Tỏi cũng chính là đặc sản nổi tiếng ở Lý Sơn, không chỉ làm gia vị mà còn được chế biến thành nhiều món ngon, trong đó có gỏi tỏi.
+Từ đỉnh Thới Lới, bạn cũng có thể trải rộng tầm mắt ngắm nhìn [cánh đồng tỏi](/article) xanh ngút ngàn. Tỏi cũng chính là đặc sản nổi tiếng ở Lý Sơn, không chỉ làm gia vị mà còn được chế biến thành nhiều món ngon, trong đó có gỏi tỏi.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/du-lich-ly-son-378.jpg" alt="cam-nang-du-lich-ly-son" height=100% width=100%><figcaption><p>cam-nang-du-lich-ly-son-nhavantuonglai</p></figcaption></figure>
 
@@ -97,7 +97,7 @@ Giá vé khứ hồi từ đảo Lớn tới đảo Bé 80.000 – 100.000 đồ
 
 Làng bích họa
 
-Gần khu vực cảng đảo Bé là [làng bích họa](https://nhavantuonglai.com/article), với những bức tranh tường nhiều màu sắc. Đây là một trong những điểm chụp ảnh yêu thích của du khách, dù không lớn và đẹp như những làng bích họa khác trên cả nước.
+Gần khu vực cảng đảo Bé là [làng bích họa](/article), với những bức tranh tường nhiều màu sắc. Đây là một trong những điểm chụp ảnh yêu thích của du khách, dù không lớn và đẹp như những làng bích họa khác trên cả nước.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/du-lich-ly-son-382.jpg" alt="cam-nang-du-lich-ly-son" height=100% width=100%><figcaption><p>cam-nang-du-lich-ly-son-nhavantuonglai</p></figcaption></figure>
 
@@ -117,6 +117,6 @@ Gần bãi tắm có cây cầu Tình Yêu, với phí tham quan 5.000 đồng m
 
 Các quán ăn tập trung ở dọc cảng, một số quán gợi ý là quán Phát Hải, quán Khói Chiều… Ngoài ra còn có cơm hải sản Đại Hằng, quán Út Ngọc.
 
-Đặc sản Lý Sơn chủ yếu là [hải sản](https://nhavantuonglai.com/article), đặc biệt là cua huỳnh đế, tôm hùm, ốc cừ, cá tà ma, chả cá… Một số đặc sản khác là [gỏi tỏi](https://nhavantuonglai.com/article), nộm rong biển, [bún riêu cua](https://nhavantuonglai.com/article), dưa hấu hắc mỹ nhân, ốc tượng, bánh ít lá gai… Hãy ghé các quầy đồ khô trên đảo để mua tỏi, hải sản khô về làm quà.
+Đặc sản Lý Sơn chủ yếu là [hải sản](/article), đặc biệt là cua huỳnh đế, tôm hùm, ốc cừ, cá tà ma, chả cá… Một số đặc sản khác là [gỏi tỏi](/article), nộm rong biển, [bún riêu cua](/article), dưa hấu hắc mỹ nhân, ốc tượng, bánh ít lá gai… Hãy ghé các quầy đồ khô trên đảo để mua tỏi, hải sản khô về làm quà.
 
 <figure><img src="https://banmaixanh.vercel.app/image/cover/001-616.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

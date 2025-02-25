@@ -70,17 +70,17 @@ Còn một đề nghị nữa: Các bạn không nên quan tâm lắm đến nh�
 
 Thu Giang.
 
-Đọc [Để trở thành nhà văn, chương 01](https://nhavantuonglai.com/article/de-tro-thanh-nha-van-chuong-01) tại đây.
+Đọc [Để trở thành nhà văn, chương 01](/article/de-tro-thanh-nha-van-chuong-01) tại đây.
 
-Đọc [Để trở thành nhà văn, chương 02](https://nhavantuonglai.com/article/de-tro-thanh-nha-van-chuong-02) tại đây.
+Đọc [Để trở thành nhà văn, chương 02](/article/de-tro-thanh-nha-van-chuong-02) tại đây.
 
-Đọc [Để trở thành nhà văn, chương 03](https://nhavantuonglai.com/article/de-tro-thanh-nha-van-chuong-03) tại đây.
+Đọc [Để trở thành nhà văn, chương 03](/article/de-tro-thanh-nha-van-chuong-03) tại đây.
 
-Đọc [Để trở thành nhà văn, chương 04](https://nhavantuonglai.com/article/de-tro-thanh-nha-van-chuong-04) tại đây.
+Đọc [Để trở thành nhà văn, chương 04](/article/de-tro-thanh-nha-van-chuong-04) tại đây.
 
-Đọc [Để trở thành nhà văn, chương 05](https://nhavantuonglai.com/article/de-tro-thanh-nha-van-chuong-05) tại đây.
+Đọc [Để trở thành nhà văn, chương 05](/article/de-tro-thanh-nha-van-chuong-05) tại đây.
 
-Đọc [Để trở thành nhà văn, chương 06](https://nhavantuonglai.com/article/de-tro-thanh-nha-van-chuong-06) tại đây.
+Đọc [Để trở thành nhà văn, chương 06](/article/de-tro-thanh-nha-van-chuong-06) tại đây.
 
 Đọc [Để trở thành nhà văn, toàn tập](https://banmaixanh.vercel.app/ebook/de-tro-thanh-nha-van.pdf) tại đây.
 

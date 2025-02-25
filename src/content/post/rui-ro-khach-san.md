@@ -43,9 +43,9 @@ Sự thật là gì?
 
 Đầu tiên, bạn cần hiểu rõ ràng – công nghệ chỉ là công cụ, giúp cuộc sống của chúng ta trở nên dễ dàng hơn.
 
-Ví dụ, [phần mềm quản lý khách sạn](https://nhavantuonglai.com/article) là công cụ hữu ích trong việc quản lý hoạt động của khách sạn. Một trong những nhiệm vụ quan trọng của phần mềm này, là lưu trữ hồ sơ, thông tin khách hàng. Trước khi áp dụng công nghệ, nhiệm vụ này được thực hiện thủ công. Khi áp dụng công nghệ, nhiệm vụ này trở nên đơn giản, cả việc thu thập lẫn quản lý.
+Ví dụ, [phần mềm quản lý khách sạn](/article) là công cụ hữu ích trong việc quản lý hoạt động của khách sạn. Một trong những nhiệm vụ quan trọng của phần mềm này, là lưu trữ hồ sơ, thông tin khách hàng. Trước khi áp dụng công nghệ, nhiệm vụ này được thực hiện thủ công. Khi áp dụng công nghệ, nhiệm vụ này trở nên đơn giản, cả việc thu thập lẫn quản lý.
 
-Điều này giúp nhân viên khách sạn có thêm nhiều thời gian, [cải thiện trải nghiệm khách hàng](https://nhavantuonglai.com/article) hiệu quả. Nhưng, nó cũng không làm giảm vai trò của họ, khiến họ mất việc làm.
+Điều này giúp nhân viên khách sạn có thêm nhiều thời gian, [cải thiện trải nghiệm khách hàng](/article) hiệu quả. Nhưng, nó cũng không làm giảm vai trò của họ, khiến họ mất việc làm.
 
 Tương tự như vậy, việc áp dụng các giải pháp công nghệ khác cho khách sạn, cũng đều đem lại hiệu quả và không khiến ai phải mất việc làm.
 
@@ -93,7 +93,7 @@ Rõ ràng, kênh OTA thúc đẩy tối đa lượng đặt phòng khách sạn.
 
 Bởi lẽ, nếu đặt phòng qua kênh OTA, khi có vấn đề họ sẽ liên hệ với họ để tìm hiểu và giải quyết. Nhưng đó sẽ là một quá trình phức tạp, tốn nhiều thời gian. Điều này khiến trải nghiệm của khách hàng bị gián đoạn, ảnh hưởng tiêu cực.
 
-Cách giải quyết là cần kết nối trực tiếp với khách đặt phòng ngay khi nhận được booking từ kênh OTA để hỗ trợ tốt nhất. Hoặc nữa, [khuyến khích đặt phòng trực tiếp](https://nhavantuonglai.com/article) để hỗ trợ được nhiều hơn.
+Cách giải quyết là cần kết nối trực tiếp với khách đặt phòng ngay khi nhận được booking từ kênh OTA để hỗ trợ tốt nhất. Hoặc nữa, [khuyến khích đặt phòng trực tiếp](/article) để hỗ trợ được nhiều hơn.
 
 Theo thống kê từ Guest Centric, đặt phòng trực tiếp đang tăng trưởng mạnh mẽ, theo cấp số nhân với 78% từ 2019 đến 2021. Xu hướng này cho thấy đặt phòng trực tiếp đang được chú ý nhiều hơn. Cho nên, điều cần làm là đảm bảo số phòng trống để việc phân phối trở nên dễ dàng và liền mạch.
 
@@ -163,7 +163,7 @@ Một nhầm lẫn khác trong ngành khách sạn là tất cả các phần m�
 
 Sự thật là gì?
 
-Để hiểu rõ hơn, hãy tham khảo bài viết về [phần mềm quản lý khách sạn](https://nhavantuonglai.com/article), và [Channel Manager](https://nhavantuonglai.com/article) để củng cố thêm kiến thức. Về cơ bản, phần mềm quản lý khách sạn là công cụ hỗ trợ quản lý khách sạn với các công việc như quản lý phòng (danh sách phòng, trạng thái phòng…), tài chính (báo cáo doanh thu, in hóa đơn, quản lý dòng tiền…), quản lý nhân sự, quản lý khách hàng…
+Để hiểu rõ hơn, hãy tham khảo bài viết về [phần mềm quản lý khách sạn](/article), và [Channel Manager](/article) để củng cố thêm kiến thức. Về cơ bản, phần mềm quản lý khách sạn là công cụ hỗ trợ quản lý khách sạn với các công việc như quản lý phòng (danh sách phòng, trạng thái phòng…), tài chính (báo cáo doanh thu, in hóa đơn, quản lý dòng tiền…), quản lý nhân sự, quản lý khách hàng…
 
 Mặt khác, Channel Manager tự động cập nhật, đồng bộ trạng thái phòng của tất cả các kênh bán phòng đang có của khách sạn trong thời gian thực.
 
@@ -185,7 +185,7 @@ Các hạng mục quan trọng trên website như là thông tin địa điểm,
 
 Chi phí cũng cực kỳ linh hoạt, đặc biệt là một số nhà cung cấp còn miễn phí nếu khách sạn sử dụng các dịch vụ khác của họ. Nên về cơ bản, chi phí xây dựng và vận hành website, có thể không tốn, hoặc tốn rất ít.
 
-Cho nên – đã đến lúc bạn ngừng tin vào quan điểm sai lầm này, và hãy bắt tay vào [xây dựng website khách sạn](https://nhavantuonglai.com/article) ngay bây giờ thôi nào.
+Cho nên – đã đến lúc bạn ngừng tin vào quan điểm sai lầm này, và hãy bắt tay vào [xây dựng website khách sạn](/article) ngay bây giờ thôi nào.
 
 ### Lầm tưởng: Xếp hạng khách sạn theo sao được cập nhật theo xếp hạng đánh giá của khách
 

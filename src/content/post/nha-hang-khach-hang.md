@@ -38,7 +38,7 @@ Tình trạng thiếu hụt nhân sự tạo ra thách thức kép cho các nhà
 
 Trong khi đó, kỳ vọng của khách hàng đã thay đổi, đặc biệt sau 2 năm vừa qua. Họ đòi một sự cải thiện, thay đổi nhanh chóng, họ quen với việc đặt hàng online và thanh toán trực tuyến, thậm chí là đặt hàng trước – hay thao tác trên điện thoại thông minh.
 
-Nhưng đó cũng có thể là tin tốt khi [công nghệ nhà hàng](https://nhavantuonglai.com/article) có thể giải quyết giúp bạn. Chúng không chỉ giúp bạn giải quyết 2 vấn đề về nhân sự và khách hàng, mà còn đảm bảo chúng được thực hiện tốt hơn. Các công nghệ được vận hành đúng mức, sẽ cần ít nhân viên hơn để phục vụ khách hàng, và vẫn đảm bảo họ hài lòng với những trải nghiệm. Đồng thời, chúng cũng đơn giản quá quá trình bán hàng, bằng cách tích hợp các phương thức thanh toán, đặt hàng trước và hợp lý hóa các hoạt động, cũng như cập nhật các thực đơn dễ dàng và nhanh chóng.
+Nhưng đó cũng có thể là tin tốt khi [công nghệ nhà hàng](/article) có thể giải quyết giúp bạn. Chúng không chỉ giúp bạn giải quyết 2 vấn đề về nhân sự và khách hàng, mà còn đảm bảo chúng được thực hiện tốt hơn. Các công nghệ được vận hành đúng mức, sẽ cần ít nhân viên hơn để phục vụ khách hàng, và vẫn đảm bảo họ hài lòng với những trải nghiệm. Đồng thời, chúng cũng đơn giản quá quá trình bán hàng, bằng cách tích hợp các phương thức thanh toán, đặt hàng trước và hợp lý hóa các hoạt động, cũng như cập nhật các thực đơn dễ dàng và nhanh chóng.
 
 ## 4 giải pháp nhà hàng có thể áp dụng để đảm bảo trải nghiệm của khách hàng bằng công nghệ
 
@@ -52,9 +52,9 @@ Cụ thể hơn, nhà hàng có thể cải thiện trải nghiệm của khách
 
 ### Chống lại tâm lý _thực khách nên ăn ở trong nhà hàng_ để tạo ra một trải nghiệm đáng giá
 
-Hãy nhớ rằng: không phải ai cũng cảm thấy thoải mái với việc ăn uống ở trong nhà hàng. Nhiều người đang có [xu hướng đặt đồ ăn trực tuyến](https://nhavantuonglai.com/article) và thưởng thức chúng ở những nơi mà họ cảm thấy thoải mái, chứ không chỉ giới hạn thưởng thức tại nhà hàng. Nhưng với những người khác – những người thích dùng bữa tại nhà hàng, họ mong đợi một trải nghiệm xứng đáng cho thời gian họ bỏ ra; và họ cũng không ngại để chia sẻ một trải nghiệm tệ lên mạng xã hội.
+Hãy nhớ rằng: không phải ai cũng cảm thấy thoải mái với việc ăn uống ở trong nhà hàng. Nhiều người đang có [xu hướng đặt đồ ăn trực tuyến](/article) và thưởng thức chúng ở những nơi mà họ cảm thấy thoải mái, chứ không chỉ giới hạn thưởng thức tại nhà hàng. Nhưng với những người khác – những người thích dùng bữa tại nhà hàng, họ mong đợi một trải nghiệm xứng đáng cho thời gian họ bỏ ra; và họ cũng không ngại để chia sẻ một trải nghiệm tệ lên mạng xã hội.
 
-Vậy làm thế nào để đáp ứng trải nghiệm của khách hàng theo 2 hướng này. Hãy ghi nhớ 3 từ quan trọng để tạo nên thành công khi điều hành nhà hàng: make people happy (làm mọi người hạnh phúc). Lòng hiếu khách sẽ thông qua đó để [lan tỏa đến những trải nghiệm của mọi khách hàng](https://nhavantuonglai.com/article), dù họ dùng bữa trực tiếp hay đặt hàng trực tuyến.
+Vậy làm thế nào để đáp ứng trải nghiệm của khách hàng theo 2 hướng này. Hãy ghi nhớ 3 từ quan trọng để tạo nên thành công khi điều hành nhà hàng: make people happy (làm mọi người hạnh phúc). Lòng hiếu khách sẽ thông qua đó để [lan tỏa đến những trải nghiệm của mọi khách hàng](/article), dù họ dùng bữa trực tiếp hay đặt hàng trực tuyến.
 
 Điều này đồng nghĩa là, khách hàng không chỉ có thể đặt hàng và thanh toán bằng các cách, mà họ còn có thể tùy chỉnh đơn hàng, bổ sung hoặc thêm bớt các thuộc tính của đơn hàng, theo dõi và nhận thông báo khi đơn sẵn sàng phục vụ. Khi áp dụng công nghệ, nhà hàng có thể tự động ưu tiên các đơn hàng quan trọng, giảm thời gian chờ và nhận hàng.
 

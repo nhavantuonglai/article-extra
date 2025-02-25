@@ -17,7 +17,7 @@ Viết truyện kinh dị là một nghệ thuật cần sự khéo léo và tin
 
 ## Giới thiệu về thể loại truyện kinh dị
 
-Truyện [kinh dị](https://nhavantuonglai.com/article) là thể loại văn học nhằm gợi lên sự sợ hãi, rùng rợn và cảm giác bất an cho người đọc. Những câu chuyện này thường chứa đựng các yếu tố siêu nhiên, bí ẩn và những tình huống đầy nguy hiểm. Viết truyện kinh dị không chỉ đòi hỏi khả năng viết lách tốt mà còn cần sự sáng tạo và hiểu biết về tâm lý con người.
+Truyện [kinh dị](/article) là thể loại văn học nhằm gợi lên sự sợ hãi, rùng rợn và cảm giác bất an cho người đọc. Những câu chuyện này thường chứa đựng các yếu tố siêu nhiên, bí ẩn và những tình huống đầy nguy hiểm. Viết truyện kinh dị không chỉ đòi hỏi khả năng viết lách tốt mà còn cần sự sáng tạo và hiểu biết về tâm lý con người.
 
 ## Tại sao viết truyện kinh dị?
 
@@ -113,7 +113,7 @@ Truyện [kinh dị](https://nhavantuonglai.com/article) là thể loại văn h
 
 – Nghiên cứu và học hỏi từ các tác giả kinh dị nổi tiếng: Đọc và phân tích cách họ xây dựng câu chuyện, nhân vật và bầu không khí.
 
-– Tham gia cộng đồng viết lách: Tham gia các nhóm, diễn đàn và [Khóa học viết blog](https://nhavantuonglai.com/article) để nhận được phản hồi và cải thiện kỹ năng.
+– Tham gia cộng đồng viết lách: Tham gia các nhóm, diễn đàn và [Khóa học viết blog](/article) để nhận được phản hồi và cải thiện kỹ năng.
 
 ### Viết và chỉnh sửa
 
@@ -131,7 +131,7 @@ Truyện [kinh dị](https://nhavantuonglai.com/article) là thể loại văn h
 
 ## Kết luận
 
-Viết truyện [kinh dị](https://nhavantuonglai.com/article) là một hành trình đầy thử thách nhưng cũng rất thú vị. Với những bước hướng dẫn chi tiết và các mẹo hữu ích trên, hy vọng bạn sẽ tạo ra được những câu chuyện kinh dị gây ấn tượng mạnh mẽ và ám ảnh người đọc. Hãy bắt đầu viết lách và để trí tưởng tượng của bạn bay cao. Chúc bạn thành công.
+Viết truyện [kinh dị](/article) là một hành trình đầy thử thách nhưng cũng rất thú vị. Với những bước hướng dẫn chi tiết và các mẹo hữu ích trên, hy vọng bạn sẽ tạo ra được những câu chuyện kinh dị gây ấn tượng mạnh mẽ và ám ảnh người đọc. Hãy bắt đầu viết lách và để trí tưởng tượng của bạn bay cao. Chúc bạn thành công.
 
 Việc viết truyện kinh dị yêu cầu bạn không chỉ có kỹ năng viết lách mà còn cần sự sáng tạo và hiểu biết về tâm lý con người. Bằng cách áp dụng các kỹ thuật và mẹo hướng dẫn trên, bạn sẽ có thể tạo ra những câu chuyện kinh dị độc đáo và hấp dẫn. Chúc bạn có những trải nghiệm viết truyện kinh dị thú vị và thành công.
 

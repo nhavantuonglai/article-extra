@@ -111,7 +111,7 @@ Bạn cũng có thể thuê thuyền lặn ngắm san hô nếu thích. Bên dư
 
 ## Ăn uống
 
-Ăn uống trên đảo rất rẻ. Bạn có thể ăn hải sản tại các làng bè. Món nhất định phải thử là cua huỳnh đế và [cua mặt trăng](https://nhavantuonglai.com/article). Muốn mua phải đặt trước, bạn có thể nhờ chủ khách sạn đặt giúp. Một đặc sản của Phú Quý là bò nóng, với một số địa chỉ tham khảo là quán Hòa Thướng, Ngọc Tình, Thanh Bình, Thu Viễn…
+Ăn uống trên đảo rất rẻ. Bạn có thể ăn hải sản tại các làng bè. Món nhất định phải thử là cua huỳnh đế và [cua mặt trăng](/article). Muốn mua phải đặt trước, bạn có thể nhờ chủ khách sạn đặt giúp. Một đặc sản của Phú Quý là bò nóng, với một số địa chỉ tham khảo là quán Hòa Thướng, Ngọc Tình, Thanh Bình, Thu Viễn…
 
 Nếu không ăn tại nhà hàng, bạn có thể dùng bữa tại các lồng bè như bè Đại Nam, Anh Sáng, Hải Thiện, Hải Phát, Ba Sinh… để thưởng thức hải sản tươi sống.
 

@@ -40,7 +40,7 @@ Sự thành công của CineStill 50D đã tạo ra một làn sóng mới trong
 
 ## Thông số kỹ thuật của CineStill 50D
 
-Để hiểu rõ về [CineStill 50D](https://nhavantuonglai.com/article/cinestill-50-d), chúng ta cần đi sâu vào các thông số kỹ thuật chi tiết của nó. Những thông số này không chỉ định hình khả năng của film mà còn giúp nhiếp ảnh gia hiểu cách tận dụng tối đa tiềm năng của trong các điều kiện chụp khác nhau.
+Để hiểu rõ về [CineStill 50D](/article/cinestill-50-d), chúng ta cần đi sâu vào các thông số kỹ thuật chi tiết của nó. Những thông số này không chỉ định hình khả năng của film mà còn giúp nhiếp ảnh gia hiểu cách tận dụng tối đa tiềm năng của trong các điều kiện chụp khác nhau.
 
 ### Đặc tính cơ bản và cấu trúc film
 

@@ -23,15 +23,15 @@ Tìm mua [Tuyển tập sách của Thiền sư Thích Nhất Hạnh](https://sh
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/thich-nhat-hanh-0102.jpg" alt="Tuyển tập sách của Thiền sư Thích Nhất Hạnh." title="Tuyển tập sách của Thiền sư Thích Nhất Hạnh." height=100% width=100%><figcaption><p>Tuyển tập sách của Thiền sư Thích Nhất Hạnh.</p></figcaption></figure>
 
-Đọc [Hạnh phúc cầm tay, chương 01](https://nhavantuonglai.com/article/hanh-phuc-cam-tay-chuong-01) tại đây.
+Đọc [Hạnh phúc cầm tay, chương 01](/article/hanh-phuc-cam-tay-chuong-01) tại đây.
 
-Đọc [Hạnh phúc cầm tay, chương 02](https://nhavantuonglai.com/article/hanh-phuc-cam-tay-chuong-02) tại đây.
+Đọc [Hạnh phúc cầm tay, chương 02](/article/hanh-phuc-cam-tay-chuong-02) tại đây.
 
-Đọc [Hạnh phúc cầm tay, chương 03](https://nhavantuonglai.com/article/hanh-phuc-cam-tay-chuong-03) tại đây.
+Đọc [Hạnh phúc cầm tay, chương 03](/article/hanh-phuc-cam-tay-chuong-03) tại đây.
 
-Đọc [Hạnh phúc cầm tay, chương 04](https://nhavantuonglai.com/article/hanh-phuc-cam-tay-chuong-04) tại đây.
+Đọc [Hạnh phúc cầm tay, chương 04](/article/hanh-phuc-cam-tay-chuong-04) tại đây.
 
-Đọc [Hạnh phúc cầm tay, chương 05](https://nhavantuonglai.com/article/hanh-phuc-cam-tay-chuong-05) tại đây.
+Đọc [Hạnh phúc cầm tay, chương 05](/article/hanh-phuc-cam-tay-chuong-05) tại đây.
 
 Đọc [Hạnh phúc cầm tay, toàn tập](https://banmaixanh.vercel.app/ebook/hanh-phuc-cam-tay.pdf) tại đây.
 

@@ -21,7 +21,7 @@ _Hệ thống Reservation là một phần quan trọng trong quản lý khách 
 
 Hệ thống Reservation là công cụ được các khách sạn sử dụng nhằm mục đích cho phép du khách đặt phòng trực tuyến. Chúng được biết đến nhiều như một hệ thống đặt phòng trung tâm và giúp các chủ khách sạn nhận được nhiều đặt phòng hơn thông qua các kênh bán phòng khách sạn đang dùng.
 
-Các kênh bán phòng ở đây có thể bao gồm: [kênh bán phòng trực tuyến](https://nhavantuonglai.com/article) mạnh mẽ như Booking.com và Expedia, website và Facebook (fanpage) của khách sạn hoặc [](https://nhavantuonglai.com/article) như Google Hotel Ads của Google.
+Các kênh bán phòng ở đây có thể bao gồm: [kênh bán phòng trực tuyến](/article) mạnh mẽ như Booking.com và Expedia, website và Facebook (fanpage) của khách sạn hoặc [](/article) như Google Hotel Ads của Google.
 
 Hệ thống Reservation khách sạn có thể tích hợp với các công cụ chính khác như Channel Manager và Booking Engine. Chúng sẽ đảm bảo giá và tình trạng phòng trống của khách sạn luôn được cập nhật, giá đặt phòng luôn ở mức phù hợp với khách sạn lẫn du khách. Ngoài ra, khách sạn cũng có quyền kiểm soát nhiều dữ liệu giá trị để đưa ra quyết định phù hợp.
 
@@ -87,7 +87,7 @@ Khách sạn cần biết, lưu ý các tính năng cần thiết, đem lại gi
 
 Điều bắt buộc là hệ thống Reservation có thể tích hợp liền mạch với các hệ thống khác mà khách sạn đang sử dụng, ví dụ như Channel Manager và Booking Engine. Nếu không, các công việc, hoạt động trong khách sạn sẽ trở nên phức tạp vì thiếu công nghệ tương ứng.
 
-Một tính năng tích hợp khác là xử lý [thanh toán trực tuyến](https://nhavantuonglai.com/article), giúp du khách thoải mái và có nhiều lựa chọn thanh toán, phù hợp với hình thức ưa thích và tiện dụng cho họ. Đây cũng là cách tránh tình huống du khách hủy, không đặt phòng nữa khi không thấy hình thức thanh toán phù hợp, an toàn và chuyển đổi ngoại tệ tương ứng cho họ.
+Một tính năng tích hợp khác là xử lý [thanh toán trực tuyến](/article), giúp du khách thoải mái và có nhiều lựa chọn thanh toán, phù hợp với hình thức ưa thích và tiện dụng cho họ. Đây cũng là cách tránh tình huống du khách hủy, không đặt phòng nữa khi không thấy hình thức thanh toán phù hợp, an toàn và chuyển đổi ngoại tệ tương ứng cho họ.
 
 ### Quản lý đặt phòng của du khách
 
@@ -105,7 +105,7 @@ Nhưng trên hết, tính năng cần và quan trọng nhất của các hệ th
 
 ## Hệ thống Reservation hoạt động như thế nào?
 
-Hệ thống Reservation hoạt động bằng cách gửi và nhận dữ liệu, thông tin về lượt đặt phòng, thường là thông qua Channel Manager và [phần mềm quản lý khách sạn](https://nhavantuonglai.com/article).
+Hệ thống Reservation hoạt động bằng cách gửi và nhận dữ liệu, thông tin về lượt đặt phòng, thường là thông qua Channel Manager và [phần mềm quản lý khách sạn](/article).
 
 Thông tin sẽ được chia sẻ, phản hồi hai chiều giữa Channel Manager, các kênh bán phòng được kết nối và phần mềm quản lý khách sạn. Hệ thống đặt phòng trung tâm (CRS) sẽ là kênh trung gian, đảm bảo dữ liệu truyền tải là chính xác, cập nhật và sẵn sàng truy xuất khi cần thiết.
 
@@ -135,7 +135,7 @@ Bạn chỉ có thể quản lý khách sạn của mình hiệu quả và thàn
 
 ### Đặt phòng trùng do thiếu tích hợp
 
-[Overbooking](https://nhavantuonglai.com/article) không chỉ khiến du khách không hài lòng, mà còn ảnh hưởng đến doanh thu thu. Cách giải quyết là sử dụng hệ thống tích hợp all in one (tất cả trong một), cho phép khách sạn hoạt động liền mạch, chính xác trên mọi kênh và mọi lúc.
+[Overbooking](/article) không chỉ khiến du khách không hài lòng, mà còn ảnh hưởng đến doanh thu thu. Cách giải quyết là sử dụng hệ thống tích hợp all in one (tất cả trong một), cho phép khách sạn hoạt động liền mạch, chính xác trên mọi kênh và mọi lúc.
 
 ### Thiếu các tính năng cần thiết
 

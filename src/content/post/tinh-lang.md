@@ -111,19 +111,19 @@ Thực tập chánh niệm rất đơn giản. Dừng lại, thở và làm cho 
 
 Tất cả những mầu nhiệm của sự sống đã có mặt ở đây rồi. Chúng đang gọi ta. Nếu có khả năng lắng nghe chúng, ta sẽ có khả năng dừng lại. Cái ta cần là sự im lặng. Dừng lại những tiếng ồn trong tâm để ta có thể nghe được những âm thanh vi diệu của sự sống. Và ta có thể bắt đầu sống đời sống của ta một cách chân thành và sâu sắc.
 
-Đọc [Tĩnh lặng, chương 01](https://nhavantuonglai.com/article/tinh-lang-chuong-01) tại đây.
+Đọc [Tĩnh lặng, chương 01](/article/tinh-lang-chuong-01) tại đây.
 
-Đọc [Tĩnh lặng, chương 02](https://nhavantuonglai.com/article/tinh-lang-chuong-02) tại đây.
+Đọc [Tĩnh lặng, chương 02](/article/tinh-lang-chuong-02) tại đây.
 
-Đọc [Tĩnh lặng, chương 03](https://nhavantuonglai.com/article/tinh-lang-chuong-03) tại đây.
+Đọc [Tĩnh lặng, chương 03](/article/tinh-lang-chuong-03) tại đây.
 
-Đọc [Tĩnh lặng, chương 04](https://nhavantuonglai.com/article/tinh-lang-chuong-04) tại đây.
+Đọc [Tĩnh lặng, chương 04](/article/tinh-lang-chuong-04) tại đây.
 
-Đọc [Tĩnh lặng, chương 05](https://nhavantuonglai.com/article/tinh-lang-chuong-05) tại đây.
+Đọc [Tĩnh lặng, chương 05](/article/tinh-lang-chuong-05) tại đây.
 
-Đọc [Tĩnh lặng, chương 06](https://nhavantuonglai.com/article/tinh-lang-chuong-05) tại đây.
+Đọc [Tĩnh lặng, chương 06](/article/tinh-lang-chuong-05) tại đây.
 
-Đọc [Tĩnh lặng, chương 07](https://nhavantuonglai.com/article/tinh-lang-chuong-05) tại đây.
+Đọc [Tĩnh lặng, chương 07](/article/tinh-lang-chuong-05) tại đây.
 
 Đọc [Tĩnh lặng, toàn tập](https://banmaixanh.vercel.app/ebook/tinh-lang.pdf) tại đây.
 

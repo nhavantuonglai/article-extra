@@ -37,7 +37,7 @@ Du khách đến Ninh Bình theo cặp đôi, theo nhóm bạn hoặc một mìn
 
 Đến Ninh Bình, không thể bỏ qua các đặc sản cơm cháy, thịt dê tái chanh, dê xào lăn, dê nướng, cua đồ rang lá lốt, gỏi cá nhệch…
 
-[Thịt dê](https://nhavantuonglai.com/article) là món ăn được nhiều du khách yêu thích khi tới đây. Dê ở Ninh Bình được chăn thả trên các ngọn núi đá nên thịt săn chắc và dai. Để tìm được các hàng quán uy tín, có dê núi chuẩn, thực khách nên tìm đến vùng núi như Hoa Lư, xung quanh khu du lịch sinh thái Tràng An, Tam Cốc… Mỗi phần thịt dê có giá 100.000 – 250.000 đồng tùy theo cách chế biến. Các địa chỉ ăn uống gợi ý ở Ninh Bình:
+[Thịt dê](/article) là món ăn được nhiều du khách yêu thích khi tới đây. Dê ở Ninh Bình được chăn thả trên các ngọn núi đá nên thịt săn chắc và dai. Để tìm được các hàng quán uy tín, có dê núi chuẩn, thực khách nên tìm đến vùng núi như Hoa Lư, xung quanh khu du lịch sinh thái Tràng An, Tam Cốc… Mỗi phần thịt dê có giá 100.000 – 250.000 đồng tùy theo cách chế biến. Các địa chỉ ăn uống gợi ý ở Ninh Bình:
 
 – Nhà hàng thịt dê Chính Thư (Khê Thượng, Hoa Lư, Ninh Bình).
 
@@ -61,11 +61,11 @@ Nơi đây thu hút du khách với phong cảnh núi non hùng vĩ cùng nhữn
 
 ### Tam Cốc – Bích Động
 
-Đến đây, du khách trước tiên thường đi thăm chùa Bích Động – _Nam thiên đệ nhị động_ để có thể nhìn được toàn cảnh từ trên cao. Sau đó, du khách có thể ngồi thuyền xuôi dòng Ngô Đồng để [khám phá Tam Cốc](https://nhavantuonglai.com/article). Tam Cốc nghĩa là ba hang: hang Cả, hang Hai và hang Ba. Tam Cốc đẹp ngỡ ngàng trong mắt du khách với các dãy núi đá vôi cao sừng sững, cùng những tạo hình kỳ thú ở các hang động và những cánh đồng lúa chín vàng hai bên. Phí tham quan 120.000đ/ người, phí đi thuyền tuyến Tam Cốc 150.000/ chuyến.
+Đến đây, du khách trước tiên thường đi thăm chùa Bích Động – _Nam thiên đệ nhị động_ để có thể nhìn được toàn cảnh từ trên cao. Sau đó, du khách có thể ngồi thuyền xuôi dòng Ngô Đồng để [khám phá Tam Cốc](/article). Tam Cốc nghĩa là ba hang: hang Cả, hang Hai và hang Ba. Tam Cốc đẹp ngỡ ngàng trong mắt du khách với các dãy núi đá vôi cao sừng sững, cùng những tạo hình kỳ thú ở các hang động và những cánh đồng lúa chín vàng hai bên. Phí tham quan 120.000đ/ người, phí đi thuyền tuyến Tam Cốc 150.000/ chuyến.
 
 ### Hang Múa
 
-Cách Tràng An khoảng 15 phút lái xe, [khu du lịch Hang Múa](https://nhavantuonglai.com/article) nằm ngay dưới chân núi. Giá vé vào cổng 100.000 đồng/ người lớn. Nơi đây là địa điểm du khách thường check-in khi đến thăm Ninh Bình. Để lên được tới đỉnh Hang Múa, du khách sẽ phải leo bộ qua khoảng 500 bậc đá, trời khá nóng nên lưu ý mang theo nước. Từ đỉnh Hang Múa sẽ ngắm được toàn cảnh Ninh Bình tuyệt đẹp với những dòng sông uốn lượn, đồng lúa và núi non hùng vĩ. Du khách có thể dành khoảng 2 – 3 giờ lưu lại khu du lịch để tham quan, chụp hình.
+Cách Tràng An khoảng 15 phút lái xe, [khu du lịch Hang Múa](/article) nằm ngay dưới chân núi. Giá vé vào cổng 100.000 đồng/ người lớn. Nơi đây là địa điểm du khách thường check-in khi đến thăm Ninh Bình. Để lên được tới đỉnh Hang Múa, du khách sẽ phải leo bộ qua khoảng 500 bậc đá, trời khá nóng nên lưu ý mang theo nước. Từ đỉnh Hang Múa sẽ ngắm được toàn cảnh Ninh Bình tuyệt đẹp với những dòng sông uốn lượn, đồng lúa và núi non hùng vĩ. Du khách có thể dành khoảng 2 – 3 giờ lưu lại khu du lịch để tham quan, chụp hình.
 
 ### Cố đô Hoa Lư
 
@@ -73,33 +73,33 @@ Hoa Lư từng là kinh đô của Việt Nam từ năm 968 – 1010, trải qua
 
 ### Chùa Bái Đính
 
-Quần thể [chùa Bái Đính](https://nhavantuonglai.com/article) được xây dựng từ năm 2003, có diện tích hơn 500 ha, được bao bọc bởi những vòng cung núi đá vôi kỳ vĩ. Chùa được chia thành 2 khu: Tân tự và Cổ tự. Tại đây, du khách có thể đi bộ tham quan hoặc di chuyển bằng xe điện (giá 30.000 đồng/ người/ lượt). Một số điện mà du khách thường ghé thăm khi tới là chùa Pháp Chủ (gồm có 5 gian, gian giữa đặt tượng Phật Thích Ca cao 10m, nặng 100 tấn), điện Tam Thế… hoặc có thể lên tháp chuông để chiêm ngưỡng Đại hồng chung nặng 36 tấn.
+Quần thể [chùa Bái Đính](/article) được xây dựng từ năm 2003, có diện tích hơn 500 ha, được bao bọc bởi những vòng cung núi đá vôi kỳ vĩ. Chùa được chia thành 2 khu: Tân tự và Cổ tự. Tại đây, du khách có thể đi bộ tham quan hoặc di chuyển bằng xe điện (giá 30.000 đồng/ người/ lượt). Một số điện mà du khách thường ghé thăm khi tới là chùa Pháp Chủ (gồm có 5 gian, gian giữa đặt tượng Phật Thích Ca cao 10m, nặng 100 tấn), điện Tam Thế… hoặc có thể lên tháp chuông để chiêm ngưỡng Đại hồng chung nặng 36 tấn.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/du-lich-ninh-binh-457.jpg" alt="cam-nang-du-lich-ninh-binh" height=100% width=100%><figcaption><p>cam-nang-du-lich-ninh-binh-nhavantuonglai</p></figcaption></figure>
 
 ### Động Am Tiên
 
-Là thắng cảnh thuộc quần thể di tích quốc gia cố đô Hoa Lư, [động Am Tiên](https://nhavantuonglai.com/article) nằm tại xã Trường Yên, huyện Hoa Lư, cách trung tâm thành phố Ninh Bình hơn 10 km. Bao quanh khu vực là núi đá vôi cao sừng sững như thành trì, ở giữa là hồ nước xanh mát. Nơi đây thường được du khách nhận xét mang vẻ đẹp nên thơ nhưng pha chút u buồn, bí hiểm. Trước kia, chỉ có con đường duy nhất tới đây là leo núi, vì vậy mà Am Tiên được mệnh danh Tuyệt Tình Cốc. Ngày nay, du khách có thể đi bằng đường hầm xuyên núi, sau đó leo núi thăm chùa dâng hương, ngắm động với các thạch nhũ kỳ ảo. Vé tham quan 20.000 đồng/ người.
+Là thắng cảnh thuộc quần thể di tích quốc gia cố đô Hoa Lư, [động Am Tiên](/article) nằm tại xã Trường Yên, huyện Hoa Lư, cách trung tâm thành phố Ninh Bình hơn 10 km. Bao quanh khu vực là núi đá vôi cao sừng sững như thành trì, ở giữa là hồ nước xanh mát. Nơi đây thường được du khách nhận xét mang vẻ đẹp nên thơ nhưng pha chút u buồn, bí hiểm. Trước kia, chỉ có con đường duy nhất tới đây là leo núi, vì vậy mà Am Tiên được mệnh danh Tuyệt Tình Cốc. Ngày nay, du khách có thể đi bằng đường hầm xuyên núi, sau đó leo núi thăm chùa dâng hương, ngắm động với các thạch nhũ kỳ ảo. Vé tham quan 20.000 đồng/ người.
 
-[Đầm Vân Long](https://nhavantuonglai.com/article)
+[Đầm Vân Long](/article)
 
 Được mệnh danh là _vịnh không sóng,_ vì khi đi thuyền trên đầm, du khách sẽ thấy mặt nước phẳng không một gợn sóng. Nước không xanh như nước biển, mà trong vắt, lộ rõ từng lớp rêu phía dưới. Đây còn là nơi sở hữu 2 kỷ lục của Trung tâm sách kỷ lục Việt Nam năm 2010 là Nơi có số lượng cá thể voọc mông trắng nhiều nhất và Nơi có bức tranh tự nhiên lớn nhất. Vé tham quan 20.000 đồng/ người và vé thuyền 60.000/ 2 người.
 
 ### Vườn Chim Thung Nham
 
-Khu sinh thái [Vườn chim Thung Nham](https://nhavantuonglai.com/article) cách thành phố Ninh Bình khoảng 12 km, là nơi cư trú của rất nhiều loài chim, cỡ khoảng 40 loài và hơn 50.000 con sinh sống. Thời điểm thích hợp nhất để có thể ngắm nhìn những đàn chim đi kiếm ăn về là vào khoảng 5h chiều. Phí tham quan 100.000 đồng/ người, vé thuyền thăm Vườn Chim 20.000 đồng/ người.
+Khu sinh thái [Vườn chim Thung Nham](/article) cách thành phố Ninh Bình khoảng 12 km, là nơi cư trú của rất nhiều loài chim, cỡ khoảng 40 loài và hơn 50.000 con sinh sống. Thời điểm thích hợp nhất để có thể ngắm nhìn những đàn chim đi kiếm ăn về là vào khoảng 5h chiều. Phí tham quan 100.000 đồng/ người, vé thuyền thăm Vườn Chim 20.000 đồng/ người.
 
 ### Nhà thờ đá Phát Diệm
 
-Cách thành phố Ninh Bình 28 km. [Nhà thờ Phát Diệm](https://nhavantuonglai.com/article) có kiến trúc độc đáo, dù là công trình Công giáo nhưng được mô phỏng theo những nét đình chùa truyền thống của Việt Nam với mái cong hình mũi thuyền. Quần thể nhà thờ Phát Diệm gồm nhà thờ lớn và 5 nhà thờ nhỏ (trong đó có một nhà thờ được xây dựng hoàn toàn bằng đá tự nhiên, được gọi là nhà thờ đá); phương đình (tháp chuông); ao hồ và 3 hang đá nhân tạo.
+Cách thành phố Ninh Bình 28 km. [Nhà thờ Phát Diệm](/article) có kiến trúc độc đáo, dù là công trình Công giáo nhưng được mô phỏng theo những nét đình chùa truyền thống của Việt Nam với mái cong hình mũi thuyền. Quần thể nhà thờ Phát Diệm gồm nhà thờ lớn và 5 nhà thờ nhỏ (trong đó có một nhà thờ được xây dựng hoàn toàn bằng đá tự nhiên, được gọi là nhà thờ đá); phương đình (tháp chuông); ao hồ và 3 hang đá nhân tạo.
 
 ### Vườn quốc gia Cúc Phương
 
-Thuộc huyện Nho Quan, tỉnh Ninh Bình, vườn là nơi giáp gianh giữa ba tỉnh Ninh Bình, Hoà Bình và Thanh Hóa. Đây là rừng quốc gia đầu tiên của Việt Nam, có diện tích khoảng 22.000ha, thu hút đông đảo du khách với những loại hình du lịch đa dạng, từ du lịch sinh thái, nghiên cứu, đến mạo hiểm… Du khách đến Cúc Phương được khám phá rừng nguyên sinh, các hang động với những hình thù kỳ thú, hang động chứa những chứng tích văn hoá lịch sử lâu đời như động Trăng Khuyết, động Chúa, động Thủy Tiên, động Người Xưa… Tại [vườn quốc gia Cúc Phương](https://nhavantuonglai.com/article) còn có suối nước nóng, hệ động thực vật phong phú, có cây cổ thụ hàng ngàn năm tuổi như cây chò ngàn năm, khu bảo tồn động vật…
+Thuộc huyện Nho Quan, tỉnh Ninh Bình, vườn là nơi giáp gianh giữa ba tỉnh Ninh Bình, Hoà Bình và Thanh Hóa. Đây là rừng quốc gia đầu tiên của Việt Nam, có diện tích khoảng 22.000ha, thu hút đông đảo du khách với những loại hình du lịch đa dạng, từ du lịch sinh thái, nghiên cứu, đến mạo hiểm… Du khách đến Cúc Phương được khám phá rừng nguyên sinh, các hang động với những hình thù kỳ thú, hang động chứa những chứng tích văn hoá lịch sử lâu đời như động Trăng Khuyết, động Chúa, động Thủy Tiên, động Người Xưa… Tại [vườn quốc gia Cúc Phương](/article) còn có suối nước nóng, hệ động thực vật phong phú, có cây cổ thụ hàng ngàn năm tuổi như cây chò ngàn năm, khu bảo tồn động vật…
 
 ### Đồi dứa Tam Điệp
 
-[Tam Điệp](https://nhavantuonglai.com/article) là điểm check-in mới nổi, hấp dẫn du khách bởi khung cảnh đồng dứa rộng lớn, xanh tươi. Nơi đây cách Thành phố Ninh Bình khoảng 20 km. Du khách lưu ý không nên bẻ dứa của người dân, không phải trả phí khi tham quan và nên xin phép trước khi vào chụp ảnh.
+[Tam Điệp](/article) là điểm check-in mới nổi, hấp dẫn du khách bởi khung cảnh đồng dứa rộng lớn, xanh tươi. Nơi đây cách Thành phố Ninh Bình khoảng 20 km. Du khách lưu ý không nên bẻ dứa của người dân, không phải trả phí khi tham quan và nên xin phép trước khi vào chụp ảnh.
 
 ## Lịch trình tham khảo
 

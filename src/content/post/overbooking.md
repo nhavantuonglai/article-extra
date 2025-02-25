@@ -25,7 +25,7 @@ Overbooking là tình trạng số lượng phòng bán vượt ngưỡng công 
 
 – Khách sạn chủ động nhận lượt đặt phòng, nhằm hạn chế rủi ro phòng trống khi khách no show.
 
-Dù nguyên do là gì đi chăng nữa, thì [overbooking gây ra nhiều rủi ro](https://nhavantuonglai.com/article) hơn là lợi ích, đó là việc cả hệ thống phải chạy theo lượt đặt phòng ảo, và không thể phục vụ cho khách hàng hiện có một cách tốt nhất. Với khách đặt phòng, là trải nghiệm tệ hại khi đã đặt niềm tin khi đặt phòng nhưng lại không có phòng để ở. Và điều quan trọng hơn cả, chính là uy tín của khách sạn giảm sút, ảnh hưởng vô cùng nghiêm trọng và khó lấy lại được.
+Dù nguyên do là gì đi chăng nữa, thì [overbooking gây ra nhiều rủi ro](/article) hơn là lợi ích, đó là việc cả hệ thống phải chạy theo lượt đặt phòng ảo, và không thể phục vụ cho khách hàng hiện có một cách tốt nhất. Với khách đặt phòng, là trải nghiệm tệ hại khi đã đặt niềm tin khi đặt phòng nhưng lại không có phòng để ở. Và điều quan trọng hơn cả, chính là uy tín của khách sạn giảm sút, ảnh hưởng vô cùng nghiêm trọng và khó lấy lại được.
 
 Các cách để giảm tình trạng overbooking tại khách sạn của bạn
 
@@ -57,11 +57,11 @@ Nếu khách sạn của bạn có 50 phòng, hãy chỉ đem lên kênh OTA kho
 
 Giải pháp này không ảnh hưởng tổng thể đến kế hoạch bán phòng của khách sạn, bởi bạn luôn có nguồn phòng trực tuyến để bán, và một số phòng để bán trực tiếp cho khách qua đường, vãng lai… hay khi quả tải số phòng đã bán trực tuyến.
 
-So với bán phòng trực tuyến, hoặc bán qua [booking engine của khách sạn](https://nhavantuonglai.com/article) sẽ có tỷ lệ khách noshow nhất định, thì bán phòng trực tiếp sẽ không gặp tình trạng này. Vì vậy, khách sạn có thể cân đối tỷ lệ để đảm bảo luôn nhận được nhiều lượt đặt phòng và đáp ứng hết các lượt đặt phòng ấy mà không phải gặp tình trạng overbooking.
+So với bán phòng trực tuyến, hoặc bán qua [booking engine của khách sạn](/article) sẽ có tỷ lệ khách noshow nhất định, thì bán phòng trực tiếp sẽ không gặp tình trạng này. Vì vậy, khách sạn có thể cân đối tỷ lệ để đảm bảo luôn nhận được nhiều lượt đặt phòng và đáp ứng hết các lượt đặt phòng ấy mà không phải gặp tình trạng overbooking.
 
 ### Áp dụng chính sách không hoàn cọc, hủy phòng tính phí
 
-Với các khách sạn vừa và nhỏ, tình trạng vắng mặt ([no show](https://nhavantuonglai.com/article) hay hủy phòng vào phút chót là một điều khó chịu và tốn kém. Đó là lý do mà nhiều khách sạn cho phép đặt phòng nhiều hơn mức có thể đáp ứng, bởi có thể đảm bảo rằng khách sạn luôn kín chỗ nhiều nhất có thể, dù rằng chúng sẽ gây ra khó chịu và ảnh hưởng đến uy tín của khách sạn.
+Với các khách sạn vừa và nhỏ, tình trạng vắng mặt ([no show](/article) hay hủy phòng vào phút chót là một điều khó chịu và tốn kém. Đó là lý do mà nhiều khách sạn cho phép đặt phòng nhiều hơn mức có thể đáp ứng, bởi có thể đảm bảo rằng khách sạn luôn kín chỗ nhiều nhất có thể, dù rằng chúng sẽ gây ra khó chịu và ảnh hưởng đến uy tín của khách sạn.
 
 Giải pháp cho vấn đề này chính là thu tiền cọc khi đặt phòng, và nếu khách hủy vào phút chót hoặc trước một thời điểm nhất định (ví dụ như trước 1 ngày nhận phòng), thì khoản cọc này sẽ không được hoàn trả. Hoặc thông qua các kênh OTA, booking engine của khách sạn mà cho phép thanh toán trước bằng thẻ tín dụng để áp dụng chính sách hủy đặt phòng tính phí.
 
@@ -77,7 +77,7 @@ Các khách sạn thường thông qua kênh OTA để tiếp cận và bán đ�
 
 Rủi ro của cách làm này là, nếu hiển thị, chạy quảng cáo trên quá nhiều kênh và không có công cụ quản lý cụ thể, việc chồng chéo lịch đặt phòng, không đồng bộ trạng thái phòng là rất dễ xảy ra.
 
-Do vậy, để giải quyết thì khách sạn nên sử dụng công cụ quản lý khách sạn, [phần mềm quản lý khách sạn](https://nhavantuonglai.com/article) để tích hợp, đồng bộ và quản lý thông tin và trạng thái phòng tức thời. giải pháp này giải quyết vấn đề khi có lượt đặt phòng trên kênh A thì thông tin phòng sẽ tự động đồng bộ, và cập nhật trạng thái đóng phòng lên các kênh B, C… mà khách sạn sử dụng.
+Do vậy, để giải quyết thì khách sạn nên sử dụng công cụ quản lý khách sạn, [phần mềm quản lý khách sạn](/article) để tích hợp, đồng bộ và quản lý thông tin và trạng thái phòng tức thời. giải pháp này giải quyết vấn đề khi có lượt đặt phòng trên kênh A thì thông tin phòng sẽ tự động đồng bộ, và cập nhật trạng thái đóng phòng lên các kênh B, C… mà khách sạn sử dụng.
 
 Hiệu quả của giải pháp có thể nhìn thấy một cách rõ ràng: tình trạng đặt phòng luôn được cập nhật và giúp tránh việc có nhiều người cùng đặt thành công 1 phòng bất kỳ.
 

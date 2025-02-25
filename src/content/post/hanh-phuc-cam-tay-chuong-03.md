@@ -217,15 +217,15 @@ Ta có thể mời ba cùng đi với ta. Ta có thể mời người thương c
 
 Ta có thể đi bằng đôi chân của mẹ. Mẹ thật tội nghiệp, mẹ không có nhiều cơ hội để đi như vậy. Ta có thể nói với mẹ: _Mẹ ơi, mời mẹ đi với con._ Và ta có thể đi với mẹ, trái tim ta sẽ ngập tràn tình thương. Ta giải thoát cho ta và đồng thời giải thoát cho mẹ, bởi vì sự thật là mẹ có trong ta, trong mỗi tế bào cơ thể ta. Ba ta cũng hoàn toàn có mặt trong mỗi tế bào cơ thể ta. Ta có thể nói với ba: _Ba ơi, mời ba đi với con._ Tức thì ta bước đi bằng đôi chân của ba. Rất lý thú và bổ ích. Điều này không khó. Ta không cần phải gồng mình hay đấu tranh để làm chuyện này. Ta chỉ cần ý thức và mọi chuyện sẽ xảy ra rất mầu nhiệm. Ta cũng có thể ngồi cho mẹ. Có rất nhiều người mẹ không có cơ hội để ngồi yên mà không làm gì cả. Đây là một công việc rất quan trọng. Chúng ta chỉ ngồi và thở cho có chánh niệm, đó là điều mà ta có thể làm cho mẹ, cho dù mẹ ta đã qua đời hay còn sống với ta, cho dù mẹ ở xa ta hay gần ta, ta cũng có thể làm được điều ấy. Sau khi có thể đi cho người thương, ta có thể đi cho những người đã làm ta điêu đứng. Đi cho những người đã công kích ta, những người đã tàn phá nhà cửa, đất nước và dân tộc ta. Những người này đã không hạnh phúc. Họ không đủ tình thương cho chính họ và cho những người chung quanh. Họ làm cho đời sống của ta, của gia đình và của dân tộc ta trở nên nghèo nàn khốn đốn. Và đến lúc ta có thể đi cho họ. Đi như thế ta trở thành Bụt, trở thành Bồ tát tràn đầy tình thương và cảm thông, đầy từ bi và hiểu biết.
 
-Đọc [Hạnh phúc cầm tay, chương 01](https://nhavantuonglai.com/article/hanh-phuc-cam-tay-chuong-01) tại đây.
+Đọc [Hạnh phúc cầm tay, chương 01](/article/hanh-phuc-cam-tay-chuong-01) tại đây.
 
-Đọc [Hạnh phúc cầm tay, chương 02](https://nhavantuonglai.com/article/hanh-phuc-cam-tay-chuong-02) tại đây.
+Đọc [Hạnh phúc cầm tay, chương 02](/article/hanh-phuc-cam-tay-chuong-02) tại đây.
 
-Đọc [Hạnh phúc cầm tay, chương 03](https://nhavantuonglai.com/article/hanh-phuc-cam-tay-chuong-03) tại đây.
+Đọc [Hạnh phúc cầm tay, chương 03](/article/hanh-phuc-cam-tay-chuong-03) tại đây.
 
-Đọc [Hạnh phúc cầm tay, chương 04](https://nhavantuonglai.com/article/hanh-phuc-cam-tay-chuong-04) tại đây.
+Đọc [Hạnh phúc cầm tay, chương 04](/article/hanh-phuc-cam-tay-chuong-04) tại đây.
 
-Đọc [Hạnh phúc cầm tay, chương 05](https://nhavantuonglai.com/article/hanh-phuc-cam-tay-chuong-05) tại đây.
+Đọc [Hạnh phúc cầm tay, chương 05](/article/hanh-phuc-cam-tay-chuong-05) tại đây.
 
 Đọc [Hạnh phúc cầm tay, toàn tập](https://banmaixanh.vercel.app/ebook/hanh-phuc-cam-tay.pdf) tại đây.
 

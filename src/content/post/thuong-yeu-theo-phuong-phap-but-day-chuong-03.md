@@ -131,15 +131,15 @@ Nếu muốn thương ai, nếu muốn làm cho ai đó bớt khổ và có hạ
 
 Ta hãy bắt đầu bằng người mà ta thương. Vì ta thương người đó cho nên ta muốn cho người đó có niềm vui và hạnh phúc. Ta đề nghị một vài phép thực tập để người đó cũng làm được như ta. Ta phải thành công cho ta rồi ta mới giúp được những người ta không quen biết, và cuối cùng ta cũng có thể giúp cả những người đã từng làm cho ta đau khổ và giận hờn. Bản chất của hai bài thực tập này là Từ. Nếu không quán chiếu, nếu không biết thực tập những điều đó thì đó không phải là hành Từ, không phải là sự thực tập tình thương chân thật. _Kim nhân bất năng như thị hành từ.,_ người đời bây giờ không biết thực tập tình thương như vậy, đó là một câu trong luật sa di. Ngồi pháp đàm với nhau ta chia sẻ cho nhau về kinh nghiệm thực tập. Ta đã thành công như thế nào, ta thành công tới mức nào, ta có những trở ngại nào, những khó khăn gì. Tôi đã nhận diện và tiếp xúc được với những niềm vui và hạnh phúc của tôi như thế nào? Mỗi ngày tôi đã làm gì để tưới tắm các hạt giống của niềm vui và hạnh phúc trong tôi? Vốn liếng kinh nghiệm là cái quý nhất mà ta có thể chia sẻ với các bạn trong buổi pháp đàm. Một người nói cho hai chục hay ba chục người nghe về kinh nghiệm của mình, cái đó đã là hành Từ. Một người được nghe kinh nghiệm của hai chục hay ba chục người khác. Do đó ta tiếp xúc và thừa hưởng không biết bao nhiêu mà kể trong một buổi pháp đàm. Pháp đàm như thế mới thực sự có lợi ích.
 
-Đọc [Thương yêu theo phương pháp Bụt dạy, chương 01](https://nhavantuonglai.com/article/thuong-yeu-theo-phuong-phap-but-day-chuong-01) tại đây.
+Đọc [Thương yêu theo phương pháp Bụt dạy, chương 01](/article/thuong-yeu-theo-phuong-phap-but-day-chuong-01) tại đây.
 
-Đọc [Thương yêu theo phương pháp Bụt dạy, chương 02](https://nhavantuonglai.com/article/thuong-yeu-theo-phuong-phap-but-day-chuong-02) tại đây.
+Đọc [Thương yêu theo phương pháp Bụt dạy, chương 02](/article/thuong-yeu-theo-phuong-phap-but-day-chuong-02) tại đây.
 
-Đọc [Thương yêu theo phương pháp Bụt dạy, chương 03](https://nhavantuonglai.com/article/thuong-yeu-theo-phuong-phap-but-day-chuong-03) tại đây.
+Đọc [Thương yêu theo phương pháp Bụt dạy, chương 03](/article/thuong-yeu-theo-phuong-phap-but-day-chuong-03) tại đây.
 
-Đọc [Thương yêu theo phương pháp Bụt dạy, chương 04](https://nhavantuonglai.com/article/thuong-yeu-theo-phuong-phap-but-day-chuong-04) tại đây.
+Đọc [Thương yêu theo phương pháp Bụt dạy, chương 04](/article/thuong-yeu-theo-phuong-phap-but-day-chuong-04) tại đây.
 
-Đọc [Thương yêu theo phương pháp Bụt dạy, chương 05](https://nhavantuonglai.com/article/thuong-yeu-theo-phuong-phap-but-day-chuong-05) tại đây.
+Đọc [Thương yêu theo phương pháp Bụt dạy, chương 05](/article/thuong-yeu-theo-phuong-phap-but-day-chuong-05) tại đây.
 
 Đọc [Thương yêu theo phương pháp Bụt dạy, toàn tập](https://banmaixanh.vercel.app/ebook/thuong-yeu-theo-phuong-phap-but-day.pdf) tại đây.
 

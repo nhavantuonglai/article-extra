@@ -179,21 +179,21 @@ _Trăng kia có sáng nhưng buồn cho nó sẽ phải khuất sau nếp núi._
 
 _Cầu mong sao chúng ta có thể thấy ánh sáng vĩnh cửu!_ [72].
 
-Đọc [Đồ nhiên thảo, chương 01](https://nhavantuonglai.com/article/do-nhien-thao-chuong-01) tại đây.
+Đọc [Đồ nhiên thảo, chương 01](/article/do-nhien-thao-chuong-01) tại đây.
 
-Đọc [Đồ nhiên thảo, chương 02](https://nhavantuonglai.com/article/do-nhien-thao-chuong-02) tại đây.
+Đọc [Đồ nhiên thảo, chương 02](/article/do-nhien-thao-chuong-02) tại đây.
 
-Đọc [Đồ nhiên thảo, chương 03](https://nhavantuonglai.com/article/do-nhien-thao-chuong-03) tại đây.
+Đọc [Đồ nhiên thảo, chương 03](/article/do-nhien-thao-chuong-03) tại đây.
 
-Đọc [Đồ nhiên thảo, chương 04](https://nhavantuonglai.com/article/do-nhien-thao-chuong-04) tại đây.
+Đọc [Đồ nhiên thảo, chương 04](/article/do-nhien-thao-chuong-04) tại đây.
 
-Đọc [Đồ nhiên thảo, chương 05](https://nhavantuonglai.com/article/do-nhien-thao-chuong-05) tại đây.
+Đọc [Đồ nhiên thảo, chương 05](/article/do-nhien-thao-chuong-05) tại đây.
 
-Đọc [Đồ nhiên thảo, chương 06](https://nhavantuonglai.com/article/do-nhien-thao-chuong-06) tại đây.
+Đọc [Đồ nhiên thảo, chương 06](/article/do-nhien-thao-chuong-06) tại đây.
 
-Đọc [Đồ nhiên thảo, chương 07](https://nhavantuonglai.com/article/do-nhien-thao-chuong-07) tại đây.
+Đọc [Đồ nhiên thảo, chương 07](/article/do-nhien-thao-chuong-07) tại đây.
 
-Đọc [Đồ nhiên thảo, chương 09](https://nhavantuonglai.com/article/do-nhien-thao-chuong-09) tại đây.
+Đọc [Đồ nhiên thảo, chương 09](/article/do-nhien-thao-chuong-09) tại đây.
 
 Đọc [Đồ nhiên thảo, toàn tập](https://banmaixanh.vercel.app/ebook/do-nhien-thao.pdf) tại đây.
 

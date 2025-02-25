@@ -29,7 +29,7 @@ Một khách đi công tác có thể mong đợi một dịch vụ nhận phòn
 
 Dù khách của bạn đang mong đợi gì, mục tiêu cuối cùng của bộ phận lễ tân khách sạn là tạo ấn tượng đầu tiên tuyệt vời cho khách hàng và bắt đầu thực hiện những dịch vụ mà khách sạn đã cam kết cung cấp khi khách đặt phòng. _Hiểu biết về khách của bạn_ – tức là hiểu được lý do khách hàng lựa chọn khách sạn của bạn là rất quan trọng để đảm bảo bạn có thể đáp ứng kỳ vọng của họ.
 
-Tuy nhiên, như bạn đã biết, bộ phận lễ tân chịu trách nhiệm về nhiều việc hơn thế. Từ ấn tượng đầu tiên đến nhận phòng và trả phòng, [quản lý phòng](https://nhavantuonglai.com/article), đặt chỗ và tỷ giá, giao tiếp với khách và xử lý kế toán, dọn phòng, bảo trì và hơn thế nữa, đó luôn là một hành động phụ thuộc vào hành vi của khách đặt phòng.
+Tuy nhiên, như bạn đã biết, bộ phận lễ tân chịu trách nhiệm về nhiều việc hơn thế. Từ ấn tượng đầu tiên đến nhận phòng và trả phòng, [quản lý phòng](/article), đặt chỗ và tỷ giá, giao tiếp với khách và xử lý kế toán, dọn phòng, bảo trì và hơn thế nữa, đó luôn là một hành động phụ thuộc vào hành vi của khách đặt phòng.
 
 Vì vậy, làm thế nào bạn có thể đảm bảo rằng bạn đang làm mọi thứ có thể để tối ưu các hoạt động của bộ phận lễ tân? Chà, Bạn có thể bắt đầu với bảy mẹo này.
 
@@ -55,7 +55,7 @@ Một lỗi đánh máy đơn giản có thể tạo ra sự nhầm lẫn về t
 
 Lỗi, sự chậm trễ, hiểu lầm, trục trặc và các vấn đề khác với hoạt động của bộ phận lễ tân hường có nguồn gốc chung: thiếu thông tin hoặc thông tin sai lệch. May mắn thay, nó có thể sửa lỗi nhanh chóng. Giao tiếp nhiều hơn, đặt kỳ vọng, xác nhận thời gian, đưa ra lời khuyên về hoạt động của khách sạn, đề xuất các hoạt động và trả lời các câu hỏi trước khi họ được hỏi.
 
-Nhưng nên thế nào? Hãy bắt đầu bằng một [website khách sạn được thiết kế tốt và nhiều thông tin](https://nhavantuonglai.com/article), một chuỗi email tuyệt vời và [sử dụng thông minh các phương tiện truyền thông xã hội](https://nhavantuonglai.com/article) là một khởi đầu tuyệt vời.
+Nhưng nên thế nào? Hãy bắt đầu bằng một [website khách sạn được thiết kế tốt và nhiều thông tin](/article), một chuỗi email tuyệt vời và [sử dụng thông minh các phương tiện truyền thông xã hội](/article) là một khởi đầu tuyệt vời.
 
 ### Ưu tiên hiệu quả
 
@@ -81,19 +81,19 @@ Mục đích lưu trú của họ là gì?
 
 Họ có bị dị ứng hoặc sở thích ăn uống không?
 
-Biết được câu trả lời cho những câu hỏi này sẽ giúp bạn phục vụ khách hàng được tốt hơn, trong thời gian họ lưu trú. Thu thập thông tin này với danh sách kiểm tra trước khi đến, cơ sở dữ liệu thông tin khách ([Phần mềm quản lý khách hàng](https://nhavantuonglai.com/article) và đưa ra một vài câu hỏi thân thiện khi nhận phòng.
+Biết được câu trả lời cho những câu hỏi này sẽ giúp bạn phục vụ khách hàng được tốt hơn, trong thời gian họ lưu trú. Thu thập thông tin này với danh sách kiểm tra trước khi đến, cơ sở dữ liệu thông tin khách ([Phần mềm quản lý khách hàng](/article) và đưa ra một vài câu hỏi thân thiện khi nhận phòng.
 
 ### Sử dụng công nghệ
 
 Công nghệ là công cụ thay đổi cuộc chơi cuối cùng để cải thiện hoạt động bộ phận lễ tân khách sạn. Nó có thể giúp bạn dễ dàng thực hiện tất cả các mẹo trên, nâng trải nghiệm của khách lên một cấp độ hoàn toàn mới và cuối cùng giúp thúc đẩy lượt đặt phòng.
 
-Bạn có thể đã sử dụng các nền tảng công nghệ khác nhau cho một số nhiệm vụ nhất định, nhưng nếu bạn đã sẵn sàng nghiêm túc về việc chuyển đổi hoạt động của mình thì đã đến lúc xem xét [phần mềm chuyên dụng cho bộ phận lễ tân khách sạn](https://nhavantuonglai.com/article).
+Bạn có thể đã sử dụng các nền tảng công nghệ khác nhau cho một số nhiệm vụ nhất định, nhưng nếu bạn đã sẵn sàng nghiêm túc về việc chuyển đổi hoạt động của mình thì đã đến lúc xem xét [phần mềm chuyên dụng cho bộ phận lễ tân khách sạn](/article).
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-079.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
 ## Phần mềm cho lễ tân, tiền sảnh khách sạn là gì?
 
-Phần mềm lễ tân, tiền sảnh khách sạn là phần mềm cung cấp công nghệ để quản lý đặt phòng, phòng, giá phòng, nhận phòng và trả phòng, thanh toán, dọn phòng, giao tiếp với khách và hơn thế nữa – tất cả trong một (all in one). Nó làm cho khách tìm đến khách sạn của bạn cũng dễ dàng hơn, bằng cách cho phép họ [đặt phòng trực tiếp](https://nhavantuonglai.com/article), nhận phòng và liên lạc với bạn.
+Phần mềm lễ tân, tiền sảnh khách sạn là phần mềm cung cấp công nghệ để quản lý đặt phòng, phòng, giá phòng, nhận phòng và trả phòng, thanh toán, dọn phòng, giao tiếp với khách và hơn thế nữa – tất cả trong một (all in one). Nó làm cho khách tìm đến khách sạn của bạn cũng dễ dàng hơn, bằng cách cho phép họ [đặt phòng trực tiếp](/article), nhận phòng và liên lạc với bạn.
 
 Điều tốt nhất về phần mềm khách sạn hiện đại là nó dựa trên đám mây. Truy cập phần mềm khi bạn đang di chuyển và từ các thiết bị khác nhau.
 
@@ -133,7 +133,7 @@ Khi quyết định chọn hệ thống nào, hãy nghĩ về những thách th�
 
 – Bạn đã xem các đánh giá trực tuyến cho sản phẩm chưa? Có bất kỳ chủ đề quen thuộc nào không?
 
-– Có sẵn bản [dùng thử miễn phí](https://nhavantuonglai.com/article) không?
+– Có sẵn bản [dùng thử miễn phí](/article) không?
 
 – Bạn có cảm thấy thoải mái với _giao diện_ của phần mềm không?
 

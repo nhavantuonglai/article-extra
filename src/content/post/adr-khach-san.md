@@ -29,7 +29,7 @@ Bài viết sau sẽ có cái nhìn tổng quan về chỉ số này, cũng như
 
 – Phòng sử dụng bởi nội bộ khách sạn.
 
-– Phòng đặt nhưng khách không đến ([no-show](https://nhavantuonglai.com/article), bỏ cọc).
+– Phòng đặt nhưng khách không đến ([no-show](/article), bỏ cọc).
 
 – Phòng bị hủy.
 
@@ -83,7 +83,7 @@ Cách tốt nhất là sử dụng các công cụ công nghệ, ví dụ như G
 
 Giá phòng là một trong những yếu tố quan trọng nhất trong quản lý khách sạn. Cần phải hiểu một điều, rằng không phải khách hàng nào cũng có khả năng chi tiêu giống nhau. Do đó, khách sạn cần phải đánh giá thị trường, nhu cầu và khả năng chi trả của khách hàng để sàng lọc, phân loại họ theo từng phân khúc cụ thể.
 
-Từ việc phân loại đó, khách sạn sẽ có những [chiến lược giá](https://nhavantuonglai.com/article) phù hợp, đáp ứng được nhu cầu và năng lực chi tiêu của từng nhóm đối tượng để đem lại hiệu quả như mong muốn. Lợi ích dài lâu của giải pháp này, chính là tăng ADR cho khách sạn của bạn.
+Từ việc phân loại đó, khách sạn sẽ có những [chiến lược giá](/article) phù hợp, đáp ứng được nhu cầu và năng lực chi tiêu của từng nhóm đối tượng để đem lại hiệu quả như mong muốn. Lợi ích dài lâu của giải pháp này, chính là tăng ADR cho khách sạn của bạn.
 
 Ngoài chi tiêu, khách sạn cũng có thể phân tích nhu cầu dựa trên thời điểm, có phải mùa du lịch cao điểm hay không, hay sắp có lễ hội, sự kiện gì quan trọng trong khu vực. Những thông tin đó nếu được khai thác đúng cách – thì bạn sẽ nhận được nhiều hơn những gì bạn nghĩ.
 
@@ -97,23 +97,23 @@ Bằng cách này, bạn có thể hỗ trợ ban tổ chức truyền thông b�
 
 Du khách có xu hướng tìm những ưu đãi tốt nhất khi mua một món gì đó, đặt phòng khách sạn cũng không ngoại lệ. Vì vậy, với tư cách là chủ khách sạn, bạn cần xác định những biến động của thị trường và cung cấp các khuyến mãi, gói giá cho phù hợp.
 
-Trong [mùa cao điểm du lịch](https://nhavantuonglai.com/article), khách sạn sẽ nhận được nhiều lượt đặt phòng hơn bằng cách cung cấp các khuyến mãi có giá trị cao mà không cần giảm giá phòng để kích cầu. Tương tự, trong mùa du lịch thấp điểm, khách sạn có thể cung cấp các khuyến mãi giảm giá cuối tuần, theo thời gian lưu trú…
+Trong [mùa cao điểm du lịch](/article), khách sạn sẽ nhận được nhiều lượt đặt phòng hơn bằng cách cung cấp các khuyến mãi có giá trị cao mà không cần giảm giá phòng để kích cầu. Tương tự, trong mùa du lịch thấp điểm, khách sạn có thể cung cấp các khuyến mãi giảm giá cuối tuần, theo thời gian lưu trú…
 
 ### Ưu tiên kênh phân phối của bạn
 
-Đa số khách sạn thích xuất hiện trên nhiều kênh OTA nhất có thể, để có thể bán được nhiều phòng hơn. Tuy nhiên, [tác động của hoa hồng kênh OTA](https://nhavantuonglai.com/article) khiến doanh thu của các khách sạn không phải lúc nào cũng tương xứng.
+Đa số khách sạn thích xuất hiện trên nhiều kênh OTA nhất có thể, để có thể bán được nhiều phòng hơn. Tuy nhiên, [tác động của hoa hồng kênh OTA](/article) khiến doanh thu của các khách sạn không phải lúc nào cũng tương xứng.
 
-Để cải thiện vấn đề này, cần tìm hiểu xem [kênh OTA nào đang hoạt động hiệu quả](https://nhavantuonglai.com/article), đem lại nhiều lượt đặt phòng hơn và ưu tiên cho nó. Quan sát và đánh giá giá trị mà các kênh OTA đem lại, lượng đặt phòng nhận được, doanh thu thu về sẽ là cơ sở để đánh giá hiệu quả nhằm xây dựng chiến lược cải thiện ADR cho khách sạn.
+Để cải thiện vấn đề này, cần tìm hiểu xem [kênh OTA nào đang hoạt động hiệu quả](/article), đem lại nhiều lượt đặt phòng hơn và ưu tiên cho nó. Quan sát và đánh giá giá trị mà các kênh OTA đem lại, lượng đặt phòng nhận được, doanh thu thu về sẽ là cơ sở để đánh giá hiệu quả nhằm xây dựng chiến lược cải thiện ADR cho khách sạn.
 
-Rõ ràng, kênh OTA là kênh tiếp cận tuyệt vời để tăng [nhận thức và cải thiện thương hiệu](https://nhavantuonglai.com/article) và tăng ADR cho khách sạn. Các chiến lược kênh OTA được xây dựng hợp lý sẽ biến đấy trở thành kênh bán phòng quan trọng của khách sạn thay vì chỉ dựa vào một số kênh giới hạn.
+Rõ ràng, kênh OTA là kênh tiếp cận tuyệt vời để tăng [nhận thức và cải thiện thương hiệu](/article) và tăng ADR cho khách sạn. Các chiến lược kênh OTA được xây dựng hợp lý sẽ biến đấy trở thành kênh bán phòng quan trọng của khách sạn thay vì chỉ dựa vào một số kênh giới hạn.
 
 ### Thu hút nhiều lượt đặt phòng trực tiếp hơn
 
-Để cải thiện ADR, khách sạn cần nhận nhiều lượt [đặt phòng trực tiếp](https://nhavantuonglai.com/article) hơn. Để có lượng đặt phòng trực tiếp nhiều hơn, website khách sạn (đã được tích hợp [công cụ đặt phòng](https://nhavantuonglai.com/article) phải có thứ hạng cao, SEO tốt và được liệt kê trên các công cụ tìm kiếm [ khách sạn](https://nhavantuonglai.com/article) khác nhau.
+Để cải thiện ADR, khách sạn cần nhận nhiều lượt [đặt phòng trực tiếp](/article) hơn. Để có lượng đặt phòng trực tiếp nhiều hơn, website khách sạn (đã được tích hợp [công cụ đặt phòng](/article) phải có thứ hạng cao, SEO tốt và được liệt kê trên các công cụ tìm kiếm [ khách sạn](/article) khác nhau.
 
 Cho nên, điều cơ bản để có nhiều lượt đặt phòng trực tiếp, là biến website khách sạn trở nên hoàn thiện, hấp dẫn và đem lại CTA trực tiếp, để thu hút nhiều lượt đặt phòng từ địa phương cũng như trên toàn cầu.
 
-Bên cạnh đó, nếu khách sạn có ngân sách cho quảng cáo, thì [Google Hotel Ads](https://nhavantuonglai.com/article) là một lựa chọn sáng suốt. Doanh thu từ bán phòng trực tiếp sẽ tỷ lệ thuận với ADR của khách sạn.
+Bên cạnh đó, nếu khách sạn có ngân sách cho quảng cáo, thì [Google Hotel Ads](/article) là một lựa chọn sáng suốt. Doanh thu từ bán phòng trực tiếp sẽ tỷ lệ thuận với ADR của khách sạn.
 
 ### Cá nhân hóa dịch vụ với cổng tự phục vụ
 
@@ -147,9 +147,9 @@ Khi khách nhận phòng, hãy cung cấp các tiện nghi bổ sung, email chà
 
 Cuối cùng, hãy ưu tiên tự động hóa bằng công nghệ với các giải pháp sau:
 
-– [Phần mềm quản lý khách sạn](https://nhavantuonglai.com/article) – Giúp khách sạn cập nhật tự động các hoạt động, sắp xếp hợp lý hoạt động kinh doanh khách sạn.
+– [Phần mềm quản lý khách sạn](/article) – Giúp khách sạn cập nhật tự động các hoạt động, sắp xếp hợp lý hoạt động kinh doanh khách sạn.
 
-– [Công cụ đặt phòng](https://nhavantuonglai.com/article) – Giúp khách hàng đặt phòng trực tiếp trên website khách sạn.
+– [Công cụ đặt phòng](/article) – Giúp khách hàng đặt phòng trực tiếp trên website khách sạn.
 
 – Hệ thống CRS khách sạn – Giúp khách sạn quản lý hàng tồn kho, thu hút đặt phòng trực tiếp, chạy khuyến mãi trên các kênh và nhiều hơn thế.
 

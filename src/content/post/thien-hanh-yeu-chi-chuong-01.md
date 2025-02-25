@@ -73,9 +73,9 @@ Chúng ta lo lắng phiền muộn suốt đời, chúng ta muốn rũ bỏ. Rũ
 
 Khởi điểm là thấy được rằng ta đang mang nặng phiền muộn và lo lắng. Thấy được như thế là tỉnh thức. Lập tức ta hãy phát tâm từ bi tự thương xót lấy ta. Ta có biết thương xót được ta, ta mới có khả năng thương xót người khác. Ta thương xót ta bị giam hãm trong vòng phiền muộn lo lắng. Ta biết phiền muộn lo lắng đã không giúp ta giải quyết được gì mà còn làm cho đời ta mất hết an lạc. Từ sự tỉnh thức ấy, ta quyết rũ bỏ phiền muộn và lo âu. Nếu thức tỉnh muốn rũ bỏ, thì ta có thể rũ bỏ ngay được. Như khi ta cởi chiếc áo mưa và rũ một cái khiến cho giọt sương bám trên áo nhất loạt đồng thời bay mất.
 
-Đọc [Thiền hành yếu chỉ, chương 01](https://nhavantuonglai.com/article/thien-hanh-yeu-chi-chuong-01) tại đây.
+Đọc [Thiền hành yếu chỉ, chương 01](/article/thien-hanh-yeu-chi-chuong-01) tại đây.
 
-Đọc [Thiền hành yếu chỉ, chương 02](https://nhavantuonglai.com/article/thien-hanh-yeu-chi-chuong-02) tại đây.
+Đọc [Thiền hành yếu chỉ, chương 02](/article/thien-hanh-yeu-chi-chuong-02) tại đây.
 
 Đọc [Thiền hành yếu chỉ, toàn tập](https://banmaixanh.vercel.app/ebook/thien-hanh-yeu-chi.pdf) tại đây.
 

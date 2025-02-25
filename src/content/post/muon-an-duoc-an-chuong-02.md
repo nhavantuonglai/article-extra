@@ -97,19 +97,19 @@ Thiền tập hay thực hành theo đạo Bụt là để cho chúng ta có bì
 
 Không có các bạn thì Pháp lấy ai để được hành trì. Pháp phải được hành trì bởi một ai đó. Không có các bạn thì Tăng thân cũng không thể có được. Vì vậy khi nói: _Con về nương tựa Bụt,_ ta cũng nghe: _Bụt về nương tựa con._ _Con về nương tựa Pháp,_ _Pháp về nương tựa con._ _Con về nương tựa tăng,_ _Tăng về nương tựa con._
 
-Đọc [Muốn an được an, chương 01](https://nhavantuonglai.com/article/muon-an-duoc-an-chuong-01) tại đây.
+Đọc [Muốn an được an, chương 01](/article/muon-an-duoc-an-chuong-01) tại đây.
 
-Đọc [Muốn an được an, chương 02](https://nhavantuonglai.com/article/muon-an-duoc-an-chuong-02) tại đây.
+Đọc [Muốn an được an, chương 02](/article/muon-an-duoc-an-chuong-02) tại đây.
 
-Đọc [Muốn an được an, chương 03](https://nhavantuonglai.com/article/muon-an-duoc-an-chuong-03) tại đây.
+Đọc [Muốn an được an, chương 03](/article/muon-an-duoc-an-chuong-03) tại đây.
 
-Đọc [Muốn an được an, chương 04](https://nhavantuonglai.com/article/muon-an-duoc-an-chuong-04) tại đây.
+Đọc [Muốn an được an, chương 04](/article/muon-an-duoc-an-chuong-04) tại đây.
 
-Đọc [Muốn an được an, chương 05](https://nhavantuonglai.com/article/muon-an-duoc-an-chuong-05) tại đây.
+Đọc [Muốn an được an, chương 05](/article/muon-an-duoc-an-chuong-05) tại đây.
 
-Đọc [Muốn an được an, chương 06](https://nhavantuonglai.com/article/muon-an-duoc-an-chuong-06) tại đây.
+Đọc [Muốn an được an, chương 06](/article/muon-an-duoc-an-chuong-06) tại đây.
 
-Đọc [Muốn an được an, chương 07](https://nhavantuonglai.com/article/muon-an-duoc-an-chuong-07) tại đây.
+Đọc [Muốn an được an, chương 07](/article/muon-an-duoc-an-chuong-07) tại đây.
 
 Đọc [Muốn an được an, toàn tập](https://banmaixanh.vercel.app/ebook/muon-an-duoc-an.pdf) tại đây.
 

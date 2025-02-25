@@ -37,17 +37,17 @@ Thiền sư Lâm Tế là một thiền sư nổi tiếng ở Trung Quốc thế
 
 Đôi khi vị đạo sư phải trả lời theo cách mà thiền sư Lâm Tế gọi là đoạt cảnh. Nghĩa là khi một thiền sinh nêu lên một câu hỏi, nếu vị đạo sư dành hết thì giờ giải thích thì có khi chẳng giúp ích gì và vị thiền sinh vẫn còn bị kẹt trong suy luận và kiến chấp của mình. Thay vào đó, vị đạo sư gạt bỏ câu hỏi, bởi vì câu hỏi ấy rất có thể nêu lên một trở ngại không thật. Tôi thường đoạt cảnh để đưa câu hỏi về lại với thiền sinh. Tôi hy vọng rằng nhờ những câu hỏi trong cuốn sách này mà hành giả có thể tìm được phương thuốc chữa trị rất cần thiết. Lời dạy của Bụt thường được gọi là viên âm. Nghĩa là lời dạy tròn đầy, phù hợp với mọi chúng sanh. Viên âm cũng có nghĩa là lời dạy thích hợp cho người nghe, có liên hệ trực tiếp với hoàn cảnh hiện thực của người nghe. Tham vấn là một cơ hội giúp ta thực tập khả năng lắng nghe với lòng rộng mở, sẵn sàng đón nhận trong trạng thái tĩnh lặng an nhiên. Lắng nghe như thế thì chắc chắn ta sẽ nhận được phương thuốc mà ta đang cần.
 
-Đọc [Hỏi đáp từ trái tim, chương 01](https://nhavantuonglai.com/article/hoi-dap-tu-trai-tim-chuong-01) tại đây.
+Đọc [Hỏi đáp từ trái tim, chương 01](/article/hoi-dap-tu-trai-tim-chuong-01) tại đây.
 
-Đọc [Hỏi đáp từ trái tim, chương 02](https://nhavantuonglai.com/article/hoi-dap-tu-trai-tim-chuong-02) tại đây.
+Đọc [Hỏi đáp từ trái tim, chương 02](/article/hoi-dap-tu-trai-tim-chuong-02) tại đây.
 
-Đọc [Hỏi đáp từ trái tim, chương 03](https://nhavantuonglai.com/article/hoi-dap-tu-trai-tim-chuong-03) tại đây.
+Đọc [Hỏi đáp từ trái tim, chương 03](/article/hoi-dap-tu-trai-tim-chuong-03) tại đây.
 
-Đọc [Hỏi đáp từ trái tim, chương 04](https://nhavantuonglai.com/article/hoi-dap-tu-trai-tim-chuong-04) tại đây.
+Đọc [Hỏi đáp từ trái tim, chương 04](/article/hoi-dap-tu-trai-tim-chuong-04) tại đây.
 
-Đọc [Hỏi đáp từ trái tim, chương 05](https://nhavantuonglai.com/article/hoi-dap-tu-trai-tim-chuong-05) tại đây.
+Đọc [Hỏi đáp từ trái tim, chương 05](/article/hoi-dap-tu-trai-tim-chuong-05) tại đây.
 
-Đọc [Hỏi đáp từ trái tim, chương 06](https://nhavantuonglai.com/article/hoi-dap-tu-trai-tim-chuong-06) tại đây.
+Đọc [Hỏi đáp từ trái tim, chương 06](/article/hoi-dap-tu-trai-tim-chuong-06) tại đây.
 
 Đọc [Hỏi đáp từ trái tim, toàn tập](https://banmaixanh.vercel.app/ebook/hoi-dap-tu-trai-tim.pdf) tại đây.
 

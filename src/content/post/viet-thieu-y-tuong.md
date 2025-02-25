@@ -15,11 +15,11 @@ tags:
 
 _Viết là một hoạt động sáng tạo và thú vị, nhưng cũng có những lúc bạn gặp phải tình trạng không có ý tưởng, bí ý hoặc mất cảm hứng. Khi đó, bạn có thể cảm thấy khó khăn, chán nản hoặc thậm chí bỏ cuộc. Tuy nhiên, bạn không nên từ bỏ việc viết chỉ vì không có ý tưởng. Bạn có thể áp dụng một số cách sau để vượt qua tình trạng này và tìm lại nguồn cảm hứng cho việc viết._
 
-Chuỗi bài viết [Làm chủ nghệ thuật viết lách](https://nhavantuonglai.com/tags/lam-chu-nghe-thuat-viet-lach) là những hướng dẫn căn bản giúp bạn làm chủ kỹ năng viết lách của bản thân.
+Chuỗi bài viết [Làm chủ nghệ thuật viết lách](/tags/lam-chu-nghe-thuat-viet-lach) là những hướng dẫn căn bản giúp bạn làm chủ kỹ năng viết lách của bản thân.
 
 ## Đọc nhiều hơn
 
-[Đọc nhiều](https://nhavantuonglai.com/article) là một cách hiệu quả để lấy cảm hứng và ý tưởng cho việc viết. Bạn nên đọc nhiều thể loại và chủ đề khác nhau, từ văn học đến khoa học, từ sách báo đến blog… Bạn nên đọc những tác phẩm của những [nhà văn giỏi](https://nhavantuonglai.com/article), để học hỏi kỹ thuật và phong cách của họ. Bạn nên đọc những tác phẩm liên quan đến chủ đề hoặc thể loại mà bạn muốn viết về, để có thêm kiến thức và thông tin.
+[Đọc nhiều](/article) là một cách hiệu quả để lấy cảm hứng và ý tưởng cho việc viết. Bạn nên đọc nhiều thể loại và chủ đề khác nhau, từ văn học đến khoa học, từ sách báo đến blog… Bạn nên đọc những tác phẩm của những [nhà văn giỏi](/article), để học hỏi kỹ thuật và phong cách của họ. Bạn nên đọc những tác phẩm liên quan đến chủ đề hoặc thể loại mà bạn muốn viết về, để có thêm kiến thức và thông tin.
 
 Đọc là một hoạt động bổ ích và thú vị, giúp bạn mở rộng kiến thức, tăng cường trí nhớ, phát triển tư duy và cảm xúc. Tuy nhiên, không phải ai cũng có thói quen đọc sách hay có đủ thời gian và nguồn lực để đọc nhiều. Nếu bạn muốn đọc nhiều hơn, bạn có thể áp dụng một số cách sau:
 
@@ -35,7 +35,7 @@ Chuỗi bài viết [Làm chủ nghệ thuật viết lách](https://nhavantuong
 
 ## Viết theo chủ đề
 
-Viết theo chủ đề là một cách để giúp bạn có một hướng đi rõ ràng trong [hành trình viết](https://nhavantuonglai.com/article). Bạn nên chọn một chủ đề mà bạn quan tâm hoặc muốn tìm hiểu thêm, hoặc một chủ đề mà bạn nghĩ rằng sẽ thu hút sự chú ý của độc giả. Bạn nên xác định mục tiêu và lý do của bạn khi viết về chủ đề đó, để bạn có thể truyền đạt được ý nghĩa và thông điệp của mình.
+Viết theo chủ đề là một cách để giúp bạn có một hướng đi rõ ràng trong [hành trình viết](/article). Bạn nên chọn một chủ đề mà bạn quan tâm hoặc muốn tìm hiểu thêm, hoặc một chủ đề mà bạn nghĩ rằng sẽ thu hút sự chú ý của độc giả. Bạn nên xác định mục tiêu và lý do của bạn khi viết về chủ đề đó, để bạn có thể truyền đạt được ý nghĩa và thông điệp của mình.
 
 Để viết theo chủ đề một cách hiệu quả, bạn có thể thực hiện các bước sau:
 
@@ -51,7 +51,7 @@ Viết theo chủ đề là một cách để giúp bạn có một hướng đi
 
 ## Viết theo lời kể
 
-Viết theo lời kể là một [kỹ năng viết bài](https://nhavantuonglai.com/article) giúp bạn có một nguồn cảm hứng và ý tưởng không giới hạn cho việc viết. Bạn nên lắng nghe và ghi lại những câu chuyện, kinh nghiệm, suy nghĩ hoặc ý kiến của những người xung quanh bạn, như gia đình, bạn bè, đồng nghiệp… Bạn nên chọn những câu chuyện mà bạn thấy thú vị, hấp dẫn hoặc có ý nghĩa, và biến chúng thành những bài viết của riêng bạn.
+Viết theo lời kể là một [kỹ năng viết bài](/article) giúp bạn có một nguồn cảm hứng và ý tưởng không giới hạn cho việc viết. Bạn nên lắng nghe và ghi lại những câu chuyện, kinh nghiệm, suy nghĩ hoặc ý kiến của những người xung quanh bạn, như gia đình, bạn bè, đồng nghiệp… Bạn nên chọn những câu chuyện mà bạn thấy thú vị, hấp dẫn hoặc có ý nghĩa, và biến chúng thành những bài viết của riêng bạn.
 
 Để viết theo lời kể một cách hiệu quả, bạn có thể thực hiện các bước sau:
 
@@ -67,7 +67,7 @@ Viết theo lời kể là một [kỹ năng viết bài](https://nhavantuonglai
 
 ## Viết theo trò chơi
 
-Viết theo trò chơi là một [cách viết hiệu quả](https://nhavantuonglai.com/article) để giúp bạn có một niềm vui và sự thử thách cho việc viết. Bạn nên tham gia vào những trò chơi liên quan đến việc viết, như: Viết theo từ khóa; Viết theo hình ảnh; Viết theo thời gian; Viết theo số lượng; Viết theo chữ cái… Bạn nên coi những trò chơi này như một cơ hội để rèn luyện kỹ năng và khả năng sáng tạo của mình.
+Viết theo trò chơi là một [cách viết hiệu quả](/article) để giúp bạn có một niềm vui và sự thử thách cho việc viết. Bạn nên tham gia vào những trò chơi liên quan đến việc viết, như: Viết theo từ khóa; Viết theo hình ảnh; Viết theo thời gian; Viết theo số lượng; Viết theo chữ cái… Bạn nên coi những trò chơi này như một cơ hội để rèn luyện kỹ năng và khả năng sáng tạo của mình.
 
 Để viết theo trò chơi một cách hiệu quả, bạn có thể thực hiện các bước sau:
 

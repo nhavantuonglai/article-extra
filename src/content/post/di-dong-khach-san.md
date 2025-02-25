@@ -31,7 +31,7 @@ Trước khi đi vào chi tiết về những gợi ý, chiến lược để t�
 
 – …
 
-Các khách sạn có thể tham khảo kỹ hơn về phần này trong bài [Xu hướng đặt phòng khách sạn](https://nhavantuonglai.com/article) và [Xu hướng tìm kiếm trong lĩnh vực khách sạn](https://nhavantuonglai.com/article). Nếu những điều này chưa đủ thuyết phục, hãy nói về sự tiện lợi khi đặt phòng khách sạn trên thiết bị di động, so với các máy tính để bàn hay laptop:
+Các khách sạn có thể tham khảo kỹ hơn về phần này trong bài [Xu hướng đặt phòng khách sạn](/article) và [Xu hướng tìm kiếm trong lĩnh vực khách sạn](/article). Nếu những điều này chưa đủ thuyết phục, hãy nói về sự tiện lợi khi đặt phòng khách sạn trên thiết bị di động, so với các máy tính để bàn hay laptop:
 
 – Chỉ cần mở điện thoại lên, truy cập ứng dụng đặt phòng hoặc ứng dụng khách sạn.
 
@@ -53,15 +53,15 @@ Dưới đây sẽ là một vài gợi ý giúp các chủ khách sạn tăng l
 
 ### Website khách sạn thân thiện với thiết bị di động
 
-Việc đầu tiên và quan trọng nhất để [tăng lượt đặt phòng khách sạn](https://nhavantuonglai.com/article) trên thiết bị di động cho khách sạn là tối ưu, làm website thân thiện với thiết bị di động.
+Việc đầu tiên và quan trọng nhất để [tăng lượt đặt phòng khách sạn](/article) trên thiết bị di động cho khách sạn là tối ưu, làm website thân thiện với thiết bị di động.
 
 Số liệu ở mục trên đã chứng minh rằng: người dùng có xu hướng tìm kiếm thông tin về chuyến đi của mình nhiều hơn trên di động. Và một website khách sạn được tối ưu, hiển thị thân thiện trên thiết bị di động sẽ tạo được thiện cảm, và ấn tượng tốt từ du khách hơn.
 
-Khảo sát mới đây từ Google cũng chung nhận định ấy, khi nếu quá trình đặt phòng trên website gặp lỗi, du khách sẽ tìm khách sạn khác ngay lập tức. Vậy nên, hãy luôn đảm bảo [nền tảng website khách sạn đang sử dụng là thân thiện với thiết bị di động](https://nhavantuonglai.com/article), không chỉ co giãn hiển thị theo từng thiết bị, mà còn tối ưu để chạy nhanh hơn và dễ thao tác hơn.
+Khảo sát mới đây từ Google cũng chung nhận định ấy, khi nếu quá trình đặt phòng trên website gặp lỗi, du khách sẽ tìm khách sạn khác ngay lập tức. Vậy nên, hãy luôn đảm bảo [nền tảng website khách sạn đang sử dụng là thân thiện với thiết bị di động](/article), không chỉ co giãn hiển thị theo từng thiết bị, mà còn tối ưu để chạy nhanh hơn và dễ thao tác hơn.
 
 ### Phát triển ứng dụng đặt phòng trên thiết bị di động
 
-Nhiều khách sạn lẫn [kênh OTA](https://nhavantuonglai.com/article) hiện nay đang xây dựng các ứng dụng đặt phòng khách sạn trên thiết bị di động. Nếu bạn kiểm tra trên CH Play hoặc Apps Store, điều này sẽ được kiểm chứng. Về phía khách sạn, họ chỉ phải trả từ 5 – 20% giá trị booking để nhận được nhiều lượt đặt phòng hơn. Còn về phía du khách, đó là một trải nghiệm liền mạch, thân thiện và dễ dàng.
+Nhiều khách sạn lẫn [kênh OTA](/article) hiện nay đang xây dựng các ứng dụng đặt phòng khách sạn trên thiết bị di động. Nếu bạn kiểm tra trên CH Play hoặc Apps Store, điều này sẽ được kiểm chứng. Về phía khách sạn, họ chỉ phải trả từ 5 – 20% giá trị booking để nhận được nhiều lượt đặt phòng hơn. Còn về phía du khách, đó là một trải nghiệm liền mạch, thân thiện và dễ dàng.
 
 Dù vậy, nhiều khách sạn khá ngần ngại trong việc phát triển ứng dụng đặt phòng khách sạn trên thiết bị di động, bởi lo ngại tốn kém, làm phức tạp thêm hệ thống, cũng như không đem lại hiệu quả thiết thực. Nhưng điều đó không thật sự đúng, dưới đây là một số cách để thực hiện:
 
@@ -77,7 +77,7 @@ Như vậy, có nhiều cách, hình thức để đưa khách sạn của bạn
 
 ### Tạo ưu đãi chỉ dành cho ứng dụng đặt phòng khách sạn trên thiết bị di động
 
-Nhiều khách sạn khi bán phòng trên kênh OTA đã tạo ra các ưu đãi chỉ dành riêng cho ứng dụng đặt phòng khách sạn trên thiết bị di động. Chiến lược này trên thực tế là đem lại hiệu quả rõ ràng: tăng đến 90% [doanh thu khách sạn](https://nhavantuonglai.com/article), vì vậy các khách sạn có thể áp dụng một trong các chiến lược dưới đây:
+Nhiều khách sạn khi bán phòng trên kênh OTA đã tạo ra các ưu đãi chỉ dành riêng cho ứng dụng đặt phòng khách sạn trên thiết bị di động. Chiến lược này trên thực tế là đem lại hiệu quả rõ ràng: tăng đến 90% [doanh thu khách sạn](/article), vì vậy các khách sạn có thể áp dụng một trong các chiến lược dưới đây:
 
 – Trên ứng dụng của kênh OTA: Chủ động tạo voucher ưu đãi, kết hợp cùng các ưu đãi thanh toán khác để đem đến cho du khách một mức chiết khấu hấp dẫn, tăng lợi ích thiết thực khi đặt phòng trên di động.
 
@@ -97,13 +97,13 @@ Nếu khách sạn của bạn có lượng khách quốc tế nhất định, h
 
 ### Biểu mẫu đặt phòng ngắn gọn và đơn giản
 
-Chẳng du khách nào thích điền vào một biểu mẫu đặt phòng trong [công cụ đặt phòng trực tiếp](https://nhavantuonglai.com/article) với nhiều hạng mục. Hãy giữ mọi thứ đơn giản, tập trung vào những thông tin quan trọng nhất, như họ tên, thông tin liên lạc, ghi chú…
+Chẳng du khách nào thích điền vào một biểu mẫu đặt phòng trong [công cụ đặt phòng trực tiếp](/article) với nhiều hạng mục. Hãy giữ mọi thứ đơn giản, tập trung vào những thông tin quan trọng nhất, như họ tên, thông tin liên lạc, ghi chú…
 
 Trong tất cả các trường hợp, một biểu mẫu đặt phòng với nhiều trường cần điền sẽ khiến du khách quay lưng, lựa một kênh bán phòng khác phù hợp, đơn giản hơn với họ.
 
 ### Đặt những CTA hấp dẫn trên trang
 
-Khi tối ưu [website khách sạn](https://nhavantuonglai.com/article), hãy tập trung vào CTA và đưa ra những lời mời, kêu gọi thật hấp dẫn, thu hút. Ngoài ra, với tất cả trang thông tin phòng, hãy cung cấp thông tin chi tiết và rõ ràng, giúp du khách khi tham khảo sẽ nắm bắt thông tin nhanh chóng, hiệu quả hơn.
+Khi tối ưu [website khách sạn](/article), hãy tập trung vào CTA và đưa ra những lời mời, kêu gọi thật hấp dẫn, thu hút. Ngoài ra, với tất cả trang thông tin phòng, hãy cung cấp thông tin chi tiết và rõ ràng, giúp du khách khi tham khảo sẽ nắm bắt thông tin nhanh chóng, hiệu quả hơn.
 
 Chiến lược này khi được áp dụng hiệu quả sẽ rút ngắn thời gian xử lý đặt phòng, tăng tỷ lệ chuyển đổi và thu hút nhiều lượt đặt phòng cho khách sạn hơn.
 
@@ -115,7 +115,7 @@ Về cơ bản, popup là một thông báo đẩy (push notifications) ngay tr�
 
 Một hình thức tương tự là tạo thông báo đẩy về chương trình khuyến mãi, chính sách hoặc các ưu đãi và hiển thị trên màn hình điện thoại của người dùng. Chúng cũng là cách để nhắc nhở, thu hút người dùng truy cập ứng dụng để tìm hiểu thêm.
 
-Nếu khách sạn có chiến lược và biết cách kết hợp cho phù hợp, những push notifications như vậy sẽ tạo hiệu quả tương đương những [email marketing khách sạn](https://nhavantuonglai.com/article), giúp tăng chú ý và tìm hiểu thêm về khách sạn của bạn.
+Nếu khách sạn có chiến lược và biết cách kết hợp cho phù hợp, những push notifications như vậy sẽ tạo hiệu quả tương đương những [email marketing khách sạn](/article), giúp tăng chú ý và tìm hiểu thêm về khách sạn của bạn.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-134.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 

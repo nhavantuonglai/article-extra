@@ -59,45 +59,45 @@ Tập nhìn chúng sanh với con mắt từ bi đó là một phép quán gọi
 
 Thiều ơi ! đối tượng và phương pháp thiền quán nhiều lắm. Trong kinh hệ Pali gọi là Kammatthana, nhưng tôi sẽ không viết hết được cho Thiều và các bạn đâu. Tôi đã chỉ viết một vài phương pháp giản lược nhưng căn bản. Người tác viên cũng như mọi người, anh phải sống đời sống của anh, chị phải sống đời sống của chị. Làm việc chỉ là một phần của sự sống, làm việc trong chánh niệm mới là sống, mới khỏi bị liệt vào hàng _Sống như một người chết._ mỗi người chúng ta cần sự thắp đuốc lên mà đi. Nhưng sự sống của chúng ta có liên hệ tới sự sống của những người xung quanh. Nếu ta biết sống chánh niệm, nếu ta biết giữ gìn tâm ý thì anh em chúng ta cũng được nhờ đó mà biết sống chánh niệm, giữ gìn tâm ý.
 
-Đọc [Phép lạ của sự thức tỉnh, chương 01](https://nhavantuonglai.com/article/phep-la-cua-su-tinh-thuc-chuong-01) tại đây.
+Đọc [Phép lạ của sự thức tỉnh, chương 01](/article/phep-la-cua-su-tinh-thuc-chuong-01) tại đây.
 
-Đọc [Phép lạ của sự thức tỉnh, chương 02](https://nhavantuonglai.com/article/phep-la-cua-su-tinh-thuc-chuong-02) tại đây.
+Đọc [Phép lạ của sự thức tỉnh, chương 02](/article/phep-la-cua-su-tinh-thuc-chuong-02) tại đây.
 
-Đọc [Phép lạ của sự thức tỉnh, chương 03](https://nhavantuonglai.com/article/phep-la-cua-su-tinh-thuc-chuong-03) tại đây.
+Đọc [Phép lạ của sự thức tỉnh, chương 03](/article/phep-la-cua-su-tinh-thuc-chuong-03) tại đây.
 
-Đọc [Phép lạ của sự thức tỉnh, chương 04](https://nhavantuonglai.com/article/phep-la-cua-su-tinh-thuc-chuong-04) tại đây.
+Đọc [Phép lạ của sự thức tỉnh, chương 04](/article/phep-la-cua-su-tinh-thuc-chuong-04) tại đây.
 
-Đọc [Phép lạ của sự thức tỉnh, chương 05](https://nhavantuonglai.com/article/phep-la-cua-su-tinh-thuc-chuong-05) tại đây.
+Đọc [Phép lạ của sự thức tỉnh, chương 05](/article/phep-la-cua-su-tinh-thuc-chuong-05) tại đây.
 
-Đọc [Phép lạ của sự thức tỉnh, chương 06](https://nhavantuonglai.com/article/phep-la-cua-su-tinh-thuc-chuong-06) tại đây.
+Đọc [Phép lạ của sự thức tỉnh, chương 06](/article/phep-la-cua-su-tinh-thuc-chuong-06) tại đây.
 
-Đọc [Phép lạ của sự thức tỉnh, chương 07](https://nhavantuonglai.com/article/phep-la-cua-su-tinh-thuc-chuong-07) tại đây.
+Đọc [Phép lạ của sự thức tỉnh, chương 07](/article/phep-la-cua-su-tinh-thuc-chuong-07) tại đây.
 
-Đọc [Phép lạ của sự thức tỉnh, chương 08](https://nhavantuonglai.com/article/phep-la-cua-su-tinh-thuc-chuong-08) tại đây.
+Đọc [Phép lạ của sự thức tỉnh, chương 08](/article/phep-la-cua-su-tinh-thuc-chuong-08) tại đây.
 
-Đọc [Phép lạ của sự thức tỉnh, chương 09](https://nhavantuonglai.com/article/phep-la-cua-su-tinh-thuc-chuong-09) tại đây.
+Đọc [Phép lạ của sự thức tỉnh, chương 09](/article/phep-la-cua-su-tinh-thuc-chuong-09) tại đây.
 
-Đọc [Phép lạ của sự thức tỉnh, chương 10](https://nhavantuonglai.com/article/phep-la-cua-su-tinh-thuc-chuong-10) tại đây.
+Đọc [Phép lạ của sự thức tỉnh, chương 10](/article/phep-la-cua-su-tinh-thuc-chuong-10) tại đây.
 
-Đọc [Phép lạ của sự thức tỉnh, chương 11](https://nhavantuonglai.com/article/phep-la-cua-su-tinh-thuc-chuong-11) tại đây.
+Đọc [Phép lạ của sự thức tỉnh, chương 11](/article/phep-la-cua-su-tinh-thuc-chuong-11) tại đây.
 
-Đọc [Phép lạ của sự thức tỉnh, chương 12](https://nhavantuonglai.com/article/phep-la-cua-su-tinh-thuc-chuong-12) tại đây.
+Đọc [Phép lạ của sự thức tỉnh, chương 12](/article/phep-la-cua-su-tinh-thuc-chuong-12) tại đây.
 
-Đọc [Phép lạ của sự thức tỉnh, chương 13](https://nhavantuonglai.com/article/phep-la-cua-su-tinh-thuc-chuong-13) tại đây.
+Đọc [Phép lạ của sự thức tỉnh, chương 13](/article/phep-la-cua-su-tinh-thuc-chuong-13) tại đây.
 
-Đọc [Phép lạ của sự thức tỉnh, chương 14](https://nhavantuonglai.com/article/phep-la-cua-su-tinh-thuc-chuong-14) tại đây.
+Đọc [Phép lạ của sự thức tỉnh, chương 14](/article/phep-la-cua-su-tinh-thuc-chuong-14) tại đây.
 
-Đọc [Phép lạ của sự thức tỉnh, chương 15](https://nhavantuonglai.com/article/phep-la-cua-su-tinh-thuc-chuong-15) tại đây.
+Đọc [Phép lạ của sự thức tỉnh, chương 15](/article/phep-la-cua-su-tinh-thuc-chuong-15) tại đây.
 
-Đọc [Phép lạ của sự thức tỉnh, chương 16](https://nhavantuonglai.com/article/phep-la-cua-su-tinh-thuc-chuong-16) tại đây.
+Đọc [Phép lạ của sự thức tỉnh, chương 16](/article/phep-la-cua-su-tinh-thuc-chuong-16) tại đây.
 
-Đọc [Phép lạ của sự thức tỉnh, chương 17](https://nhavantuonglai.com/article/phep-la-cua-su-tinh-thuc-chuong-17) tại đây.
+Đọc [Phép lạ của sự thức tỉnh, chương 17](/article/phep-la-cua-su-tinh-thuc-chuong-17) tại đây.
 
-Đọc [Phép lạ của sự thức tỉnh, chương 18](https://nhavantuonglai.com/article/phep-la-cua-su-tinh-thuc-chuong-18) tại đây.
+Đọc [Phép lạ của sự thức tỉnh, chương 18](/article/phep-la-cua-su-tinh-thuc-chuong-18) tại đây.
 
-Đọc [Phép lạ của sự thức tỉnh, chương 19](https://nhavantuonglai.com/article/phep-la-cua-su-tinh-thuc-chuong-19) tại đây.
+Đọc [Phép lạ của sự thức tỉnh, chương 19](/article/phep-la-cua-su-tinh-thuc-chuong-19) tại đây.
 
-Đọc [Phép lạ của sự thức tỉnh, chương 20](https://nhavantuonglai.com/article/phep-la-cua-su-tinh-thuc-chuong-20) tại đây.
+Đọc [Phép lạ của sự thức tỉnh, chương 20](/article/phep-la-cua-su-tinh-thuc-chuong-20) tại đây.
 
 Đọc [Phép lạ của sự thức tỉnh, toàn tập](https://banmaixanh.vercel.app/ebook/phep-la-cua-su-tinh-thuc.pdf) tại đây.
 

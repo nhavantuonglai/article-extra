@@ -1025,87 +1025,87 @@ Tĩnh Huyền ngạc nhiên, nhưng hiểu ngay, nếu các đệ nhất cao th�
 
 Đêm đó phái Nga Mi phòng bị trong ngoài thật cẩn mật, nhưng không có chuyện gì xảy ra.
 
-Đọc [Ỷ thiên đồ long ký, chương 01](https://nhavantuonglai.com/article/y-thien-do-long-ky-chuong-01) tại đây.
+Đọc [Ỷ thiên đồ long ký, chương 01](/article/y-thien-do-long-ky-chuong-01) tại đây.
 
-Đọc [Ỷ thiên đồ long ký, chương 02](https://nhavantuonglai.com/article/y-thien-do-long-ky-chuong-02) tại đây.
+Đọc [Ỷ thiên đồ long ký, chương 02](/article/y-thien-do-long-ky-chuong-02) tại đây.
 
-Đọc [Ỷ thiên đồ long ký, chương 03](https://nhavantuonglai.com/article/y-thien-do-long-ky-chuong-03) tại đây.
+Đọc [Ỷ thiên đồ long ký, chương 03](/article/y-thien-do-long-ky-chuong-03) tại đây.
 
-Đọc [Ỷ thiên đồ long ký, chương 04](https://nhavantuonglai.com/article/y-thien-do-long-ky-chuong-04) tại đây.
+Đọc [Ỷ thiên đồ long ký, chương 04](/article/y-thien-do-long-ky-chuong-04) tại đây.
 
-Đọc [Ỷ thiên đồ long ký, chương 05](https://nhavantuonglai.com/article/y-thien-do-long-ky-chuong-05) tại đây.
+Đọc [Ỷ thiên đồ long ký, chương 05](/article/y-thien-do-long-ky-chuong-05) tại đây.
 
-Đọc [Ỷ thiên đồ long ký, chương 06](https://nhavantuonglai.com/article/y-thien-do-long-ky-chuong-06) tại đây.
+Đọc [Ỷ thiên đồ long ký, chương 06](/article/y-thien-do-long-ky-chuong-06) tại đây.
 
-Đọc [Ỷ thiên đồ long ký, chương 07](https://nhavantuonglai.com/article/y-thien-do-long-ky-chuong-07) tại đây.
+Đọc [Ỷ thiên đồ long ký, chương 07](/article/y-thien-do-long-ky-chuong-07) tại đây.
 
-Đọc [Ỷ thiên đồ long ký, chương 08](https://nhavantuonglai.com/article/y-thien-do-long-ky-chuong-08) tại đây.
+Đọc [Ỷ thiên đồ long ký, chương 08](/article/y-thien-do-long-ky-chuong-08) tại đây.
 
-Đọc [Ỷ thiên đồ long ký, chương 09](https://nhavantuonglai.com/article/y-thien-do-long-ky-chuong-09) tại đây.
+Đọc [Ỷ thiên đồ long ký, chương 09](/article/y-thien-do-long-ky-chuong-09) tại đây.
 
-Đọc [Ỷ thiên đồ long ký, chương 10](https://nhavantuonglai.com/article/y-thien-do-long-ky-chuong-10) tại đây.
+Đọc [Ỷ thiên đồ long ký, chương 10](/article/y-thien-do-long-ky-chuong-10) tại đây.
 
-Đọc [Ỷ thiên đồ long ký, chương 11](https://nhavantuonglai.com/article/y-thien-do-long-ky-chuong-11) tại đây.
+Đọc [Ỷ thiên đồ long ký, chương 11](/article/y-thien-do-long-ky-chuong-11) tại đây.
 
-Đọc [Ỷ thiên đồ long ký, chương 12](https://nhavantuonglai.com/article/y-thien-do-long-ky-chuong-12) tại đây.
+Đọc [Ỷ thiên đồ long ký, chương 12](/article/y-thien-do-long-ky-chuong-12) tại đây.
 
-Đọc [Ỷ thiên đồ long ký, chương 13](https://nhavantuonglai.com/article/y-thien-do-long-ky-chuong-13) tại đây.
+Đọc [Ỷ thiên đồ long ký, chương 13](/article/y-thien-do-long-ky-chuong-13) tại đây.
 
-Đọc [Ỷ thiên đồ long ký, chương 14](https://nhavantuonglai.com/article/y-thien-do-long-ky-chuong-14) tại đây.
+Đọc [Ỷ thiên đồ long ký, chương 14](/article/y-thien-do-long-ky-chuong-14) tại đây.
 
-Đọc [Ỷ thiên đồ long ký, chương 15](https://nhavantuonglai.com/article/y-thien-do-long-ky-chuong-15) tại đây.
+Đọc [Ỷ thiên đồ long ký, chương 15](/article/y-thien-do-long-ky-chuong-15) tại đây.
 
-Đọc [Ỷ thiên đồ long ký, chương 16](https://nhavantuonglai.com/article/y-thien-do-long-ky-chuong-16) tại đây.
+Đọc [Ỷ thiên đồ long ký, chương 16](/article/y-thien-do-long-ky-chuong-16) tại đây.
 
-Đọc [Ỷ thiên đồ long ký, chương 17](https://nhavantuonglai.com/article/y-thien-do-long-ky-chuong-17) tại đây.
+Đọc [Ỷ thiên đồ long ký, chương 17](/article/y-thien-do-long-ky-chuong-17) tại đây.
 
-Đọc [Ỷ thiên đồ long ký, chương 18](https://nhavantuonglai.com/article/y-thien-do-long-ky-chuong-18) tại đây.
+Đọc [Ỷ thiên đồ long ký, chương 18](/article/y-thien-do-long-ky-chuong-18) tại đây.
 
-Đọc [Ỷ thiên đồ long ký, chương 19](https://nhavantuonglai.com/article/y-thien-do-long-ky-chuong-19) tại đây.
+Đọc [Ỷ thiên đồ long ký, chương 19](/article/y-thien-do-long-ky-chuong-19) tại đây.
 
-Đọc [Ỷ thiên đồ long ký, chương 20](https://nhavantuonglai.com/article/y-thien-do-long-ky-chuong-20) tại đây.
+Đọc [Ỷ thiên đồ long ký, chương 20](/article/y-thien-do-long-ky-chuong-20) tại đây.
 
-Đọc [Ỷ thiên đồ long ký, chương 21](https://nhavantuonglai.com/article/y-thien-do-long-ky-chuong-21) tại đây.
+Đọc [Ỷ thiên đồ long ký, chương 21](/article/y-thien-do-long-ky-chuong-21) tại đây.
 
-Đọc [Ỷ thiên đồ long ký, chương 22](https://nhavantuonglai.com/article/y-thien-do-long-ky-chuong-22) tại đây.
+Đọc [Ỷ thiên đồ long ký, chương 22](/article/y-thien-do-long-ky-chuong-22) tại đây.
 
-Đọc [Ỷ thiên đồ long ký, chương 23](https://nhavantuonglai.com/article/y-thien-do-long-ky-chuong-23) tại đây.
+Đọc [Ỷ thiên đồ long ký, chương 23](/article/y-thien-do-long-ky-chuong-23) tại đây.
 
-Đọc [Ỷ thiên đồ long ký, chương 24](https://nhavantuonglai.com/article/y-thien-do-long-ky-chuong-24) tại đây.
+Đọc [Ỷ thiên đồ long ký, chương 24](/article/y-thien-do-long-ky-chuong-24) tại đây.
 
-Đọc [Ỷ thiên đồ long ký, chương 25](https://nhavantuonglai.com/article/y-thien-do-long-ky-chuong-25) tại đây.
+Đọc [Ỷ thiên đồ long ký, chương 25](/article/y-thien-do-long-ky-chuong-25) tại đây.
 
-Đọc [Ỷ thiên đồ long ký, chương 26](https://nhavantuonglai.com/article/y-thien-do-long-ky-chuong-26) tại đây.
+Đọc [Ỷ thiên đồ long ký, chương 26](/article/y-thien-do-long-ky-chuong-26) tại đây.
 
-Đọc [Ỷ thiên đồ long ký, chương 27](https://nhavantuonglai.com/article/y-thien-do-long-ky-chuong-27) tại đây.
+Đọc [Ỷ thiên đồ long ký, chương 27](/article/y-thien-do-long-ky-chuong-27) tại đây.
 
-Đọc [Ỷ thiên đồ long ký, chương 28](https://nhavantuonglai.com/article/y-thien-do-long-ky-chuong-28) tại đây.
+Đọc [Ỷ thiên đồ long ký, chương 28](/article/y-thien-do-long-ky-chuong-28) tại đây.
 
-Đọc [Ỷ thiên đồ long ký, chương 29](https://nhavantuonglai.com/article/y-thien-do-long-ky-chuong-29) tại đây.
+Đọc [Ỷ thiên đồ long ký, chương 29](/article/y-thien-do-long-ky-chuong-29) tại đây.
 
-Đọc [Ỷ thiên đồ long ký, chương 30](https://nhavantuonglai.com/article/y-thien-do-long-ky-chuong-30) tại đây.
+Đọc [Ỷ thiên đồ long ký, chương 30](/article/y-thien-do-long-ky-chuong-30) tại đây.
 
-Đọc [Ỷ thiên đồ long ký, chương 31](https://nhavantuonglai.com/article/y-thien-do-long-ky-chuong-31) tại đây.
+Đọc [Ỷ thiên đồ long ký, chương 31](/article/y-thien-do-long-ky-chuong-31) tại đây.
 
-Đọc [Ỷ thiên đồ long ký, chương 32](https://nhavantuonglai.com/article/y-thien-do-long-ky-chuong-32) tại đây.
+Đọc [Ỷ thiên đồ long ký, chương 32](/article/y-thien-do-long-ky-chuong-32) tại đây.
 
-Đọc [Ỷ thiên đồ long ký, chương 33](https://nhavantuonglai.com/article/y-thien-do-long-ky-chuong-33) tại đây.
+Đọc [Ỷ thiên đồ long ký, chương 33](/article/y-thien-do-long-ky-chuong-33) tại đây.
 
-Đọc [Ỷ thiên đồ long ký, chương 34](https://nhavantuonglai.com/article/y-thien-do-long-ky-chuong-34) tại đây.
+Đọc [Ỷ thiên đồ long ký, chương 34](/article/y-thien-do-long-ky-chuong-34) tại đây.
 
-Đọc [Ỷ thiên đồ long ký, chương 35](https://nhavantuonglai.com/article/y-thien-do-long-ky-chuong-35) tại đây.
+Đọc [Ỷ thiên đồ long ký, chương 35](/article/y-thien-do-long-ky-chuong-35) tại đây.
 
-Đọc [Ỷ thiên đồ long ký, chương 36](https://nhavantuonglai.com/article/y-thien-do-long-ky-chuong-36) tại đây.
+Đọc [Ỷ thiên đồ long ký, chương 36](/article/y-thien-do-long-ky-chuong-36) tại đây.
 
-Đọc [Ỷ thiên đồ long ký, chương 37](https://nhavantuonglai.com/article/y-thien-do-long-ky-chuong-37) tại đây.
+Đọc [Ỷ thiên đồ long ký, chương 37](/article/y-thien-do-long-ky-chuong-37) tại đây.
 
-Đọc [Ỷ thiên đồ long ký, chương 38](https://nhavantuonglai.com/article/y-thien-do-long-ky-chuong-38) tại đây.
+Đọc [Ỷ thiên đồ long ký, chương 38](/article/y-thien-do-long-ky-chuong-38) tại đây.
 
-Đọc [Ỷ thiên đồ long ký, chương 39](https://nhavantuonglai.com/article/y-thien-do-long-ky-chuong-39) tại đây.
+Đọc [Ỷ thiên đồ long ký, chương 39](/article/y-thien-do-long-ky-chuong-39) tại đây.
 
-Đọc [Ỷ thiên đồ long ký, chương 40](https://nhavantuonglai.com/article/y-thien-do-long-ky-chuong-40) tại đây.
+Đọc [Ỷ thiên đồ long ký, chương 40](/article/y-thien-do-long-ky-chuong-40) tại đây.
 
-Đọc [Ỷ thiên đồ long ký, chương 41](https://nhavantuonglai.com/article/y-thien-do-long-ky-chuong-41) tại đây.
+Đọc [Ỷ thiên đồ long ký, chương 41](/article/y-thien-do-long-ky-chuong-41) tại đây.
 
 Đọc [Ỷ thiên đồ long ký, toàn tập](https://banmaixanh.vercel.app/ebook/y-thien-do-long-ky.pdf) tại đây.
 

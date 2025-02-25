@@ -1388,85 +1388,85 @@ Hôm sau Thành Cát Tư Hãn lên trướng điểm tướng. Đội tiền qu�
 
 Mỗi quân sĩ đều dắt theo bốn con ngựa, thay phiên cưỡi để giữ sức ngựa, tướng lãnh còn mang theo nhiều hơn. Mười lăm vạn người, gần một trăm vạn con ngựa. Tiếng tù và cùng vang lên, trống nổi ầm ầm, ba vạn quân tiên phong trong đội tiền quân người mạnh ngựa khỏe ùn ùn kéo về phía tây. Đại quân dần dần đi xa, vào đất Hoa Thích Tử Mô rồi, dọc đường thế như chẻ tre. Ma Ha Mạt binh lực tuy đông nhưng còn lâu mới là đối thủ của quân Mông Cổ. Quách Tĩnh đánh thành phá địch cũng lập được không ít công lao.
 
-Đọc [Anh hùng xạ điêu, chương 01](https://nhavantuonglai.com/article/xa-dieu-anh-hung-truyen-chuong-01) tại đây.
+Đọc [Anh hùng xạ điêu, chương 01](/article/xa-dieu-anh-hung-truyen-chuong-01) tại đây.
 
-Đọc [Anh hùng xạ điêu, chương 02](https://nhavantuonglai.com/article/xa-dieu-anh-hung-truyen-chuong-02) tại đây.
+Đọc [Anh hùng xạ điêu, chương 02](/article/xa-dieu-anh-hung-truyen-chuong-02) tại đây.
 
-Đọc [Anh hùng xạ điêu, chương 03](https://nhavantuonglai.com/article/xa-dieu-anh-hung-truyen-chuong-03) tại đây.
+Đọc [Anh hùng xạ điêu, chương 03](/article/xa-dieu-anh-hung-truyen-chuong-03) tại đây.
 
-Đọc [Anh hùng xạ điêu, chương 04](https://nhavantuonglai.com/article/xa-dieu-anh-hung-truyen-chuong-04) tại đây.
+Đọc [Anh hùng xạ điêu, chương 04](/article/xa-dieu-anh-hung-truyen-chuong-04) tại đây.
 
-Đọc [Anh hùng xạ điêu, chương 05](https://nhavantuonglai.com/article/xa-dieu-anh-hung-truyen-chuong-05) tại đây.
+Đọc [Anh hùng xạ điêu, chương 05](/article/xa-dieu-anh-hung-truyen-chuong-05) tại đây.
 
-Đọc [Anh hùng xạ điêu, chương 06](https://nhavantuonglai.com/article/xa-dieu-anh-hung-truyen-chuong-06) tại đây.
+Đọc [Anh hùng xạ điêu, chương 06](/article/xa-dieu-anh-hung-truyen-chuong-06) tại đây.
 
-Đọc [Anh hùng xạ điêu, chương 07](https://nhavantuonglai.com/article/xa-dieu-anh-hung-truyen-chuong-07) tại đây.
+Đọc [Anh hùng xạ điêu, chương 07](/article/xa-dieu-anh-hung-truyen-chuong-07) tại đây.
 
-Đọc [Anh hùng xạ điêu, chương 08](https://nhavantuonglai.com/article/xa-dieu-anh-hung-truyen-chuong-08) tại đây.
+Đọc [Anh hùng xạ điêu, chương 08](/article/xa-dieu-anh-hung-truyen-chuong-08) tại đây.
 
-Đọc [Anh hùng xạ điêu, chương 09](https://nhavantuonglai.com/article/xa-dieu-anh-hung-truyen-chuong-09) tại đây.
+Đọc [Anh hùng xạ điêu, chương 09](/article/xa-dieu-anh-hung-truyen-chuong-09) tại đây.
 
-Đọc [Anh hùng xạ điêu, chương 10](https://nhavantuonglai.com/article/xa-dieu-anh-hung-truyen-chuong-10) tại đây.
+Đọc [Anh hùng xạ điêu, chương 10](/article/xa-dieu-anh-hung-truyen-chuong-10) tại đây.
 
-Đọc [Anh hùng xạ điêu, chương 11](https://nhavantuonglai.com/article/xa-dieu-anh-hung-truyen-chuong-11) tại đây.
+Đọc [Anh hùng xạ điêu, chương 11](/article/xa-dieu-anh-hung-truyen-chuong-11) tại đây.
 
-Đọc [Anh hùng xạ điêu, chương 12](https://nhavantuonglai.com/article/xa-dieu-anh-hung-truyen-chuong-12) tại đây.
+Đọc [Anh hùng xạ điêu, chương 12](/article/xa-dieu-anh-hung-truyen-chuong-12) tại đây.
 
-Đọc [Anh hùng xạ điêu, chương 13](https://nhavantuonglai.com/article/xa-dieu-anh-hung-truyen-chuong-13) tại đây.
+Đọc [Anh hùng xạ điêu, chương 13](/article/xa-dieu-anh-hung-truyen-chuong-13) tại đây.
 
-Đọc [Anh hùng xạ điêu, chương 14](https://nhavantuonglai.com/article/xa-dieu-anh-hung-truyen-chuong-14) tại đây.
+Đọc [Anh hùng xạ điêu, chương 14](/article/xa-dieu-anh-hung-truyen-chuong-14) tại đây.
 
-Đọc [Anh hùng xạ điêu, chương 15](https://nhavantuonglai.com/article/xa-dieu-anh-hung-truyen-chuong-15) tại đây.
+Đọc [Anh hùng xạ điêu, chương 15](/article/xa-dieu-anh-hung-truyen-chuong-15) tại đây.
 
-Đọc [Anh hùng xạ điêu, chương 16](https://nhavantuonglai.com/article/xa-dieu-anh-hung-truyen-chuong-16) tại đây.
+Đọc [Anh hùng xạ điêu, chương 16](/article/xa-dieu-anh-hung-truyen-chuong-16) tại đây.
 
-Đọc [Anh hùng xạ điêu, chương 17](https://nhavantuonglai.com/article/xa-dieu-anh-hung-truyen-chuong-17) tại đây.
+Đọc [Anh hùng xạ điêu, chương 17](/article/xa-dieu-anh-hung-truyen-chuong-17) tại đây.
 
-Đọc [Anh hùng xạ điêu, chương 18](https://nhavantuonglai.com/article/xa-dieu-anh-hung-truyen-chuong-18) tại đây.
+Đọc [Anh hùng xạ điêu, chương 18](/article/xa-dieu-anh-hung-truyen-chuong-18) tại đây.
 
-Đọc [Anh hùng xạ điêu, chương 19](https://nhavantuonglai.com/article/xa-dieu-anh-hung-truyen-chuong-19) tại đây.
+Đọc [Anh hùng xạ điêu, chương 19](/article/xa-dieu-anh-hung-truyen-chuong-19) tại đây.
 
-Đọc [Anh hùng xạ điêu, chương 20](https://nhavantuonglai.com/article/xa-dieu-anh-hung-truyen-chuong-20) tại đây.
+Đọc [Anh hùng xạ điêu, chương 20](/article/xa-dieu-anh-hung-truyen-chuong-20) tại đây.
 
-Đọc [Anh hùng xạ điêu, chương 21](https://nhavantuonglai.com/article/xa-dieu-anh-hung-truyen-chuong-21) tại đây.
+Đọc [Anh hùng xạ điêu, chương 21](/article/xa-dieu-anh-hung-truyen-chuong-21) tại đây.
 
-Đọc [Anh hùng xạ điêu, chương 22](https://nhavantuonglai.com/article/xa-dieu-anh-hung-truyen-chuong-22) tại đây.
+Đọc [Anh hùng xạ điêu, chương 22](/article/xa-dieu-anh-hung-truyen-chuong-22) tại đây.
 
-Đọc [Anh hùng xạ điêu, chương 23](https://nhavantuonglai.com/article/xa-dieu-anh-hung-truyen-chuong-23) tại đây.
+Đọc [Anh hùng xạ điêu, chương 23](/article/xa-dieu-anh-hung-truyen-chuong-23) tại đây.
 
-Đọc [Anh hùng xạ điêu, chương 24](https://nhavantuonglai.com/article/xa-dieu-anh-hung-truyen-chuong-24) tại đây.
+Đọc [Anh hùng xạ điêu, chương 24](/article/xa-dieu-anh-hung-truyen-chuong-24) tại đây.
 
-Đọc [Anh hùng xạ điêu, chương 25](https://nhavantuonglai.com/article/xa-dieu-anh-hung-truyen-chuong-25) tại đây.
+Đọc [Anh hùng xạ điêu, chương 25](/article/xa-dieu-anh-hung-truyen-chuong-25) tại đây.
 
-Đọc [Anh hùng xạ điêu, chương 26](https://nhavantuonglai.com/article/xa-dieu-anh-hung-truyen-chuong-26) tại đây.
+Đọc [Anh hùng xạ điêu, chương 26](/article/xa-dieu-anh-hung-truyen-chuong-26) tại đây.
 
-Đọc [Anh hùng xạ điêu, chương 27](https://nhavantuonglai.com/article/xa-dieu-anh-hung-truyen-chuong-27) tại đây.
+Đọc [Anh hùng xạ điêu, chương 27](/article/xa-dieu-anh-hung-truyen-chuong-27) tại đây.
 
-Đọc [Anh hùng xạ điêu, chương 28](https://nhavantuonglai.com/article/xa-dieu-anh-hung-truyen-chuong-28) tại đây.
+Đọc [Anh hùng xạ điêu, chương 28](/article/xa-dieu-anh-hung-truyen-chuong-28) tại đây.
 
-Đọc [Anh hùng xạ điêu, chương 29](https://nhavantuonglai.com/article/xa-dieu-anh-hung-truyen-chuong-29) tại đây.
+Đọc [Anh hùng xạ điêu, chương 29](/article/xa-dieu-anh-hung-truyen-chuong-29) tại đây.
 
-Đọc [Anh hùng xạ điêu, chương 30](https://nhavantuonglai.com/article/xa-dieu-anh-hung-truyen-chuong-30) tại đây.
+Đọc [Anh hùng xạ điêu, chương 30](/article/xa-dieu-anh-hung-truyen-chuong-30) tại đây.
 
-Đọc [Anh hùng xạ điêu, chương 31](https://nhavantuonglai.com/article/xa-dieu-anh-hung-truyen-chuong-31) tại đây.
+Đọc [Anh hùng xạ điêu, chương 31](/article/xa-dieu-anh-hung-truyen-chuong-31) tại đây.
 
-Đọc [Anh hùng xạ điêu, chương 32](https://nhavantuonglai.com/article/xa-dieu-anh-hung-truyen-chuong-32) tại đây.
+Đọc [Anh hùng xạ điêu, chương 32](/article/xa-dieu-anh-hung-truyen-chuong-32) tại đây.
 
-Đọc [Anh hùng xạ điêu, chương 33](https://nhavantuonglai.com/article/xa-dieu-anh-hung-truyen-chuong-33) tại đây.
+Đọc [Anh hùng xạ điêu, chương 33](/article/xa-dieu-anh-hung-truyen-chuong-33) tại đây.
 
-Đọc [Anh hùng xạ điêu, chương 34](https://nhavantuonglai.com/article/xa-dieu-anh-hung-truyen-chuong-34) tại đây.
+Đọc [Anh hùng xạ điêu, chương 34](/article/xa-dieu-anh-hung-truyen-chuong-34) tại đây.
 
-Đọc [Anh hùng xạ điêu, chương 35](https://nhavantuonglai.com/article/xa-dieu-anh-hung-truyen-chuong-35) tại đây.
+Đọc [Anh hùng xạ điêu, chương 35](/article/xa-dieu-anh-hung-truyen-chuong-35) tại đây.
 
-Đọc [Anh hùng xạ điêu, chương 36](https://nhavantuonglai.com/article/xa-dieu-anh-hung-truyen-chuong-36) tại đây.
+Đọc [Anh hùng xạ điêu, chương 36](/article/xa-dieu-anh-hung-truyen-chuong-36) tại đây.
 
-Đọc [Anh hùng xạ điêu, chương 37](https://nhavantuonglai.com/article/xa-dieu-anh-hung-truyen-chuong-37) tại đây.
+Đọc [Anh hùng xạ điêu, chương 37](/article/xa-dieu-anh-hung-truyen-chuong-37) tại đây.
 
-Đọc [Anh hùng xạ điêu, chương 38](https://nhavantuonglai.com/article/xa-dieu-anh-hung-truyen-chuong-38) tại đây.
+Đọc [Anh hùng xạ điêu, chương 38](/article/xa-dieu-anh-hung-truyen-chuong-38) tại đây.
 
-Đọc [Anh hùng xạ điêu, chương 39](https://nhavantuonglai.com/article/xa-dieu-anh-hung-truyen-chuong-39) tại đây.
+Đọc [Anh hùng xạ điêu, chương 39](/article/xa-dieu-anh-hung-truyen-chuong-39) tại đây.
 
-Đọc [Anh hùng xạ điêu, chương 40](https://nhavantuonglai.com/article/xa-dieu-anh-hung-truyen-chuong-40) tại đây.
+Đọc [Anh hùng xạ điêu, chương 40](/article/xa-dieu-anh-hung-truyen-chuong-40) tại đây.
 
 Đọc [Anh hùng xạ điêu, toàn tập](https://banmaixanh.vercel.app/ebook/xa-dieu-anh-hung-truyen.pdf) tại đây.
 

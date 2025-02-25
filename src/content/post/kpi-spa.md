@@ -44,7 +44,7 @@ Danh sách dưới đây là các KPI cơ bản, bao gồm 1 con số, dùng đ�
 
 – Tổng số khách độc lập (người): Số khách biết và tìm đến sử dụng dịch vụ mà không thông qua địa điểm được giới thiệu, áp dụng cho các tiệm Spa ở trong một địa điểm kinh doanh nhất định.
 
-– Tổng số khách đặt chỗ trên 2 lần (người): Số khách quay trở lại và dùng tiếp dịch vụ. Đây là cơ sở để biết họ thành [khách hàng trung thành](https://nhavantuonglai.com/article) cho tiệm.
+– Tổng số khách đặt chỗ trên 2 lần (người): Số khách quay trở lại và dùng tiếp dịch vụ. Đây là cơ sở để biết họ thành [khách hàng trung thành](/article) cho tiệm.
 
 ### Nhóm công suất Spa
 
@@ -86,7 +86,7 @@ Tỷ lệ chuyển đổi là một KPI quan trọng, giúp tiệm Spa biết đ
 
 Được tính bằng: Tổng số khách hàng / Tổng số khách mua hàng.
 
-Tỷ lệ bán lẻ xác định lượng khách có thể dùng dịch vụ hoặc không mua sản phẩm, mỹ phẩm tại tiệm. Chúng đo lường mức độ liên quan giữa khách hàng Spa và dịch vụ đang cung cấp, nhưng cũng phản ánh khách hàng đang quan tâm đến dịch vụ, hay sản phẩm nhiều hơn, đặc biệt là khi tiệm Spa có [upselling](https://nhavantuonglai.com/article).
+Tỷ lệ bán lẻ xác định lượng khách có thể dùng dịch vụ hoặc không mua sản phẩm, mỹ phẩm tại tiệm. Chúng đo lường mức độ liên quan giữa khách hàng Spa và dịch vụ đang cung cấp, nhưng cũng phản ánh khách hàng đang quan tâm đến dịch vụ, hay sản phẩm nhiều hơn, đặc biệt là khi tiệm Spa có [upselling](/article).
 
 ### Tỷ lệ doanh thu (vnđ)
 
@@ -152,7 +152,7 @@ Chỉ số này tương tự như RevPAR trong khách sạn, điểm khác biệ
 
 Được tính bằng: Tổng số khách đặt chỗ trên 2 lần / Tổng số khách hàng.
 
-Đặt chỗ tiếp phản ánh thái độ tích cực của khách hàng Spa sau khi sử dụng dịch vụ, và họ muốn quay trở lại, dùng tiếp thêm lần nữa. Chỉ số này phản ánh sự hài lòng của khách hàng với các giải pháp công nghệ như [phần mềm quản lý Spa](https://nhavantuonglai.com/article) tích hợp công cụ đặt chỗ trực tuyến, dịch vụ tại tiệm mà họ nhận được. Các khách hàng mới, lần đầu sử dụng dịch vụ không được tính vào đây.
+Đặt chỗ tiếp phản ánh thái độ tích cực của khách hàng Spa sau khi sử dụng dịch vụ, và họ muốn quay trở lại, dùng tiếp thêm lần nữa. Chỉ số này phản ánh sự hài lòng của khách hàng với các giải pháp công nghệ như [phần mềm quản lý Spa](/article) tích hợp công cụ đặt chỗ trực tuyến, dịch vụ tại tiệm mà họ nhận được. Các khách hàng mới, lần đầu sử dụng dịch vụ không được tính vào đây.
 
 ### Tỷ lệ nâng cấp (%)
 
@@ -164,13 +164,13 @@ Phần trăm bán ngược phản ánh xu hướng nâng cấp dịch vụ của
 
 Được tính bằng: Tổng số khách đặt chỗ trên 2 lần / Tổng số khách hàng.
 
-Tỷ lệ khách hàng là thước đo đánh giá [sự hài lòng của khách hàng với trải nghiệm tại Spa](https://nhavantuonglai.com/article), khi họ có xu hướng quay trở lại để dùng tiếp dịch vụ hoặc sử dụng các dịch vụ khác.
+Tỷ lệ khách hàng là thước đo đánh giá [sự hài lòng của khách hàng với trải nghiệm tại Spa](/article), khi họ có xu hướng quay trở lại để dùng tiếp dịch vụ hoặc sử dụng các dịch vụ khác.
 
 ### Tỷ lệ khách hàng độc lập (%)
 
 Được tính bằng: Tổng số khách độc lập / Tổng số khách hàng.
 
-Chỉ số này cần thiết khi tiệm Spa hoặc động bên trong một loại hình kinh doanh nhất định, ví dụ khách sạn, khu nghỉ dưỡng. Nó cũng có thấy tầm quan trọng của loại hình kinh doanh ấy với tiệm Spa của bạn, cũng như [khả năng thu hút của Spa](https://nhavantuonglai.com/article) với người khác.
+Chỉ số này cần thiết khi tiệm Spa hoặc động bên trong một loại hình kinh doanh nhất định, ví dụ khách sạn, khu nghỉ dưỡng. Nó cũng có thấy tầm quan trọng của loại hình kinh doanh ấy với tiệm Spa của bạn, cũng như [khả năng thu hút của Spa](/article) với người khác.
 
 ## Làm thế nào để xây dựng KPI nhân viên Spa hiệu quả?
 
@@ -224,7 +224,7 @@ _Ví dụ:_ Áp dụng với nhân viên A cùng các hiệu suất có ở trê
 
 Hiệu suất KPI tổng = 25 + 12 + 28 = 65%
 
-Việc tính KPI dựa trên hiệu suất giúp nhà quản lý nhìn thấy ngay được hiệu quả làm việc, bởi được cụ thể bằng tỷ lệ % áp dụng cho từng nhân viên, điều này sẽ giúp việc đánh giá và [khen thưởng](https://nhavantuonglai.com/article) sẽ hợp lý và công tâm hơn.
+Việc tính KPI dựa trên hiệu suất giúp nhà quản lý nhìn thấy ngay được hiệu quả làm việc, bởi được cụ thể bằng tỷ lệ % áp dụng cho từng nhân viên, điều này sẽ giúp việc đánh giá và [khen thưởng](/article) sẽ hợp lý và công tâm hơn.
 
 15 KPI Spa được gợi ý trên đây, cũng như những cách tính, áp dụng KPI cho phù hợp với tiệm Spa sẽ giúp các tiệm Spa sàng lọc, và đánh giá việc kinh doanh hiện tại có đem lại hiệu quả hay không. Kết hợp với phần mềm quản lý Spa chuyên dụng, cũng như những chiến lược kinh doanh hiệu quả, sẽ giúp tiệm vận hành tốt hơn.
 

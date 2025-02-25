@@ -22,11 +22,11 @@ Công nghệ phục vụ cho nhà hàng được xét trong 2 khía cạnh: khi 
 
 ### Điểm bán hàng tự phục vụ
 
-Tự phục vụ (Self-Service) là một [công nghệ mang tính cách mạng](https://nhavantuonglai.com/article), thay đổi không chỉ thói quen mà còn hành vi của thực khách, giúp họ cảm thấy tiện lợi hơn khi trải nghiệm ăn uống tại các nhà hàng.
+Tự phục vụ (Self-Service) là một [công nghệ mang tính cách mạng](/article), thay đổi không chỉ thói quen mà còn hành vi của thực khách, giúp họ cảm thấy tiện lợi hơn khi trải nghiệm ăn uống tại các nhà hàng.
 
 Theo báo cáo từ Liên đoàn Bán lẻ Quốc gia của Mỹ (National Retail Federation) gần đây cho thấy: 97% người tiêu dùng bỏ việc mua hàng khi quá trình ấy khiến họ cảm thấy bất tiện. Và trong các nhà hàng thức ăn nhanh, 75% số khách được hỏi cho biết họ sẽ rời đi nếu trước mặt có 7 người đang xếp hàng, và con số này tăng lên 90% nếu phía trước là 10 người.
 
-Khi nhà hàng triển khai Điểm bán hàng tự phục vụ, cũng là lúc bạn đang cho phép thực khách tự gọi món và thanh toán trực tiếp trên [hệ thống POS của nhà hàng](https://nhavantuonglai.com/article) mà không cần đến vai trò của nhân viên thu ngân, phục vụ. Chúng cũng giúp thực khác cảm thấy an tâm hơn, khi có thể hạn chế tiếp xúc trực tiếp với nhân viên.
+Khi nhà hàng triển khai Điểm bán hàng tự phục vụ, cũng là lúc bạn đang cho phép thực khách tự gọi món và thanh toán trực tiếp trên [hệ thống POS của nhà hàng](/article) mà không cần đến vai trò của nhân viên thu ngân, phục vụ. Chúng cũng giúp thực khác cảm thấy an tâm hơn, khi có thể hạn chế tiếp xúc trực tiếp với nhân viên.
 
 Công nghệ này cũng mang lại những lợi ích như:
 
@@ -38,11 +38,11 @@ Công nghệ này cũng mang lại những lợi ích như:
 
 ### Phần mềm CRM nhà hàng
 
-Dịch vụ, kinh nghiệm chăm sóc thực khách là yếu tố quan trọng, mang tính trọng tâm ở một nhà hàng tuyệt vời. Nhiều nhà hàng đã không chú ý đến điều đó, dần khiến họ lụn bại, phá sản bởi đem đến trải nghiệm tệ hại cho thực khách. Trên thực tế, 60% khả năng [thực khách sẽ quay lại nhà hàng](https://nhavantuonglai.com/article), nếu trải nghiệm ở đó phù hợp với họ. Để tạo ra những trải nghiệm phù hợp, nhà hàng cần chú ý đến sở thích, nhu cầu và thể hiện sự quan tâm đến cảm xúc của họ.
+Dịch vụ, kinh nghiệm chăm sóc thực khách là yếu tố quan trọng, mang tính trọng tâm ở một nhà hàng tuyệt vời. Nhiều nhà hàng đã không chú ý đến điều đó, dần khiến họ lụn bại, phá sản bởi đem đến trải nghiệm tệ hại cho thực khách. Trên thực tế, 60% khả năng [thực khách sẽ quay lại nhà hàng](/article), nếu trải nghiệm ở đó phù hợp với họ. Để tạo ra những trải nghiệm phù hợp, nhà hàng cần chú ý đến sở thích, nhu cầu và thể hiện sự quan tâm đến cảm xúc của họ.
 
 Phần mềm CRM nhà hàng (Customer Relationship Management – Quản lý mối quan hệ với thực khách) sẽ là công cụ hỗ trợ đắc lực, giúp nhà hàng hệ thống hóa, tập trung toàn bộ thông tin về thực khách. Với các nhà hàng quy mô nhỏ, họ có thể sử dụng chúng để lưu trữ thông tin thực khách, và hỗ trợ bán hàng hiệu quả hơn. Với các nhà hàng ở mọi quy mô, chúng được dùng để triển khai các kế hoạch Marketing, tiếp thị qua mạng xã hội, chăm sóc thực khách hoặc triển khai chương trình thực khách thân thiết.
 
-Trong ngành nhà hàng, việc phát triển cơ sở thực khách là một vấn đề quan trọng, nhưng đó không phải là cái đích cuối cùng. Mục tiêu quan trọng, và cao nhất chính là xây dựng thói quen, khiến họ luôn nghĩ đến bạn mỗi khi muốn [trải nghiệm những điều thú vị](https://nhavantuonglai.com/article). Chính vì vậy, có trong tay tệp thực khách ưng ý là một chuyện, biến chúng trở thành _mỏ vàng_ để khai thác lại là chuyện khác. Dịch vụ, món ăn, hay bất kỳ điều gì tạo nên hấp dẫn cho nhà hàng của bạn đều cần thiết để thực hiện điều ấy.
+Trong ngành nhà hàng, việc phát triển cơ sở thực khách là một vấn đề quan trọng, nhưng đó không phải là cái đích cuối cùng. Mục tiêu quan trọng, và cao nhất chính là xây dựng thói quen, khiến họ luôn nghĩ đến bạn mỗi khi muốn [trải nghiệm những điều thú vị](/article). Chính vì vậy, có trong tay tệp thực khách ưng ý là một chuyện, biến chúng trở thành _mỏ vàng_ để khai thác lại là chuyện khác. Dịch vụ, món ăn, hay bất kỳ điều gì tạo nên hấp dẫn cho nhà hàng của bạn đều cần thiết để thực hiện điều ấy.
 
 ## Công nghệ phục vụ ngoài nhà hàng
 
@@ -52,7 +52,7 @@ Xu hướng phục vụ thực khách ngoài nhà hàng đang trở nên phổ b
 
 Đặt hàng qua ứng dụng, giao hàng trực tuyến là xu hướng tất yếu của ngành ẩm thực, nhằm phục vụ thực khách nhiều hơn và xa hơn. Các ứng dụng gọi xe, đặt đồ ăn, hay ví điện tử cũng đang liên kết, hỗ trợ rất nhiệt tình cho công nghệ này, thông qua việc tích hợp chức năng đặt đồ ăn vào ứng dụng, hỗ trợ thanh toán không tiền mặt.
 
-Trong giai đoạn thành phố phong tỏa, hạn chế đi lại, không cho bán hàng tại chỗ… nguồn cung thực phẩm trở nên hạn chế, thiếu hụt trầm trọng; thì việc [đặt đồ ăn trực tuyến](https://nhavantuonglai.com/article) lại giúp giải quyết vấn đề này, để mọi người có thể mua và tiếp tế thực phẩm, đặt đồ ăn một cách dễ dàng, nhanh chóng. Kết quả là trong hiện tại, đặt đồ ăn trực tuyến đã thành thói quen ăn uống của nhiều người, đặc biệt là dân thành phố, dân công sở.
+Trong giai đoạn thành phố phong tỏa, hạn chế đi lại, không cho bán hàng tại chỗ… nguồn cung thực phẩm trở nên hạn chế, thiếu hụt trầm trọng; thì việc [đặt đồ ăn trực tuyến](/article) lại giúp giải quyết vấn đề này, để mọi người có thể mua và tiếp tế thực phẩm, đặt đồ ăn một cách dễ dàng, nhanh chóng. Kết quả là trong hiện tại, đặt đồ ăn trực tuyến đã thành thói quen ăn uống của nhiều người, đặc biệt là dân thành phố, dân công sở.
 
 Dù vây, nhiều nhà hàng không mặn mà với xu hướng này, bởi họ tin rằng chúng sẽ khiến trải nghiệm của thực khách bị hạn chế. Tư duy này xuất phát từ quan điểm rằng, giá thành từng món được cấu tạo ra thương hiệu, vị trí, dịch vụ và trải nghiệm tại nhà hàng. Nếu thực khách đặt trực tuyến, vị trí, dịch vụ và trải nghiệm là vô nghĩa. Điều đó khiến họ cảm thấy không an toàn với công nghệ này.
 
@@ -76,7 +76,7 @@ Việc các nhà hàng cho bên thứ 3 thuê bếp để họ biến thành că
 
 Làm thương hiệu phụ, thương hiệu ảo
 
-Nhà hàng giải pháp phục vụ khách tại bàn như một nhà hàng bình thường, với các món đặc trưng cụ thể. Vì muốn mở rộng thị phần, và thử nghiệm những món mới, nhà hàng quyết định mở thương hiệu phụ thông qua căn bếp ảo và đưa lên các ứng dụng đặt đồ ăn. Mục đích là [tối ưu chi phí](https://nhavantuonglai.com/article), không phải tốn thêm chi phí cơ sở hạ tầng, và giảm bớt rủi ro ảnh hưởng đến thương hiệu chính nếu hoạt động không thành công.
+Nhà hàng giải pháp phục vụ khách tại bàn như một nhà hàng bình thường, với các món đặc trưng cụ thể. Vì muốn mở rộng thị phần, và thử nghiệm những món mới, nhà hàng quyết định mở thương hiệu phụ thông qua căn bếp ảo và đưa lên các ứng dụng đặt đồ ăn. Mục đích là [tối ưu chi phí](/article), không phải tốn thêm chi phí cơ sở hạ tầng, và giảm bớt rủi ro ảnh hưởng đến thương hiệu chính nếu hoạt động không thành công.
 
 Cách tiếp cận này cũng được nhiều nhà hàng khai thác, thông qua các nhà hàng _spin off,_ vận hành độc lập với thương hiệu chính, nhưng cùng sử dụng cơ sở hạ tầng và nhân sự như một phép thử, và khai thác thêm nguồn lực hiện có.
 

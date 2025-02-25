@@ -73,21 +73,21 @@ Tuy nhiên thái độ không cởi mở của người tín đồ không hẳn 
 
 Tinh thần vô tư của nhà khoa học và tâm trạng thao thức đi tìm chân lý một cách khách quan của nhà triết học (chứ không phải là nhà thần học) cần phải được chiếu rọi vào tôn giáo để giúp cho nhận thức về tôn giáo được sáng tỏ và tiến bộ. Một khi con người có được nhận thức tỉnh táo về tôn giáo (đức tin nơi tôn giáo không cần và không nên là một đức tin say mê vô điều kiện) thì con người sẽ có những khám phá mới lạ về tôn giáo và tránh được cho nhau những va chạm không cần thiết – những va chạm bao giờ cũng gây oán thù chết chóc và khổ đau cho nhân loại.
 
-Đọc [Đạo Phật đi vào cuộc đời, chương 01](https://nhavantuonglai.com/article/dao-phat-di-vao-cuoc-doi-chuong-01) tại đây.
+Đọc [Đạo Phật đi vào cuộc đời, chương 01](/article/dao-phat-di-vao-cuoc-doi-chuong-01) tại đây.
 
-Đọc [Đạo Phật đi vào cuộc đời, chương 02](https://nhavantuonglai.com/article/dao-phat-di-vao-cuoc-doi-chuong-02) tại đây.
+Đọc [Đạo Phật đi vào cuộc đời, chương 02](/article/dao-phat-di-vao-cuoc-doi-chuong-02) tại đây.
 
-Đọc [Đạo Phật đi vào cuộc đời, chương 03](https://nhavantuonglai.com/article/dao-phat-di-vao-cuoc-doi-chuong-03) tại đây.
+Đọc [Đạo Phật đi vào cuộc đời, chương 03](/article/dao-phat-di-vao-cuoc-doi-chuong-03) tại đây.
 
-Đọc [Đạo Phật đi vào cuộc đời, chương 04](https://nhavantuonglai.com/article/dao-phat-di-vao-cuoc-doi-chuong-04) tại đây.
+Đọc [Đạo Phật đi vào cuộc đời, chương 04](/article/dao-phat-di-vao-cuoc-doi-chuong-04) tại đây.
 
-Đọc [Đạo Phật đi vào cuộc đời, chương 05](https://nhavantuonglai.com/article/dao-phat-di-vao-cuoc-doi-chuong-05) tại đây.
+Đọc [Đạo Phật đi vào cuộc đời, chương 05](/article/dao-phat-di-vao-cuoc-doi-chuong-05) tại đây.
 
-Đọc [Đạo Phật đi vào cuộc đời, chương 06](https://nhavantuonglai.com/article/dao-phat-di-vao-cuoc-doi-chuong-06) tại đây.
+Đọc [Đạo Phật đi vào cuộc đời, chương 06](/article/dao-phat-di-vao-cuoc-doi-chuong-06) tại đây.
 
-Đọc [Đạo Phật đi vào cuộc đời, chương 07](https://nhavantuonglai.com/article/dao-phat-di-vao-cuoc-doi-chuong-07) tại đây.
+Đọc [Đạo Phật đi vào cuộc đời, chương 07](/article/dao-phat-di-vao-cuoc-doi-chuong-07) tại đây.
 
-Đọc [Đạo Phật đi vào cuộc đời, chương 08](https://nhavantuonglai.com/article/dao-phat-di-vao-cuoc-doi-chuong-08) tại đây.
+Đọc [Đạo Phật đi vào cuộc đời, chương 08](/article/dao-phat-di-vao-cuoc-doi-chuong-08) tại đây.
 
 Đọc [Đạo Phật đi vào cuộc đời, toàn tập](https://banmaixanh.vercel.app/ebook/dao-phat-di-vao-cuoc-doi.pdf) tại đây.
 

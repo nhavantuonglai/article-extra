@@ -1199,85 +1199,85 @@ Hoàng Dung mời ba chén rượu, một là rất hợp với thân phận c�
 
 Chỉ thấy Chu Tử Liễu viết đến chữ _Đạo_ trong câu _Đảm phu tranh đạo,_ thì nét cuối cùng hất lên, như cái móc kéo toạc vạt áo của Hoắc Đô. Quần hào cười rộ, Hoắc Đô nhảy vội về phía sau.
 
-Đọc [Thần điêu hiệp lữ, chương 01](https://nhavantuonglai.com/article/than-dieu-hiep-lu-chuong-01) tại đây.
+Đọc [Thần điêu hiệp lữ, chương 01](/article/than-dieu-hiep-lu-chuong-01) tại đây.
 
-Đọc [Thần điêu hiệp lữ, chương 02](https://nhavantuonglai.com/article/than-dieu-hiep-lu-chuong-02) tại đây.
+Đọc [Thần điêu hiệp lữ, chương 02](/article/than-dieu-hiep-lu-chuong-02) tại đây.
 
-Đọc [Thần điêu hiệp lữ, chương 03](https://nhavantuonglai.com/article/than-dieu-hiep-lu-chuong-03) tại đây.
+Đọc [Thần điêu hiệp lữ, chương 03](/article/than-dieu-hiep-lu-chuong-03) tại đây.
 
-Đọc [Thần điêu hiệp lữ, chương 04](https://nhavantuonglai.com/article/than-dieu-hiep-lu-chuong-04) tại đây.
+Đọc [Thần điêu hiệp lữ, chương 04](/article/than-dieu-hiep-lu-chuong-04) tại đây.
 
-Đọc [Thần điêu hiệp lữ, chương 05](https://nhavantuonglai.com/article/than-dieu-hiep-lu-chuong-05) tại đây.
+Đọc [Thần điêu hiệp lữ, chương 05](/article/than-dieu-hiep-lu-chuong-05) tại đây.
 
-Đọc [Thần điêu hiệp lữ, chương 06](https://nhavantuonglai.com/article/than-dieu-hiep-lu-chuong-06) tại đây.
+Đọc [Thần điêu hiệp lữ, chương 06](/article/than-dieu-hiep-lu-chuong-06) tại đây.
 
-Đọc [Thần điêu hiệp lữ, chương 07](https://nhavantuonglai.com/article/than-dieu-hiep-lu-chuong-07) tại đây.
+Đọc [Thần điêu hiệp lữ, chương 07](/article/than-dieu-hiep-lu-chuong-07) tại đây.
 
-Đọc [Thần điêu hiệp lữ, chương 08](https://nhavantuonglai.com/article/than-dieu-hiep-lu-chuong-08) tại đây.
+Đọc [Thần điêu hiệp lữ, chương 08](/article/than-dieu-hiep-lu-chuong-08) tại đây.
 
-Đọc [Thần điêu hiệp lữ, chương 09](https://nhavantuonglai.com/article/than-dieu-hiep-lu-chuong-09) tại đây.
+Đọc [Thần điêu hiệp lữ, chương 09](/article/than-dieu-hiep-lu-chuong-09) tại đây.
 
-Đọc [Thần điêu hiệp lữ, chương 10](https://nhavantuonglai.com/article/than-dieu-hiep-lu-chuong-10) tại đây.
+Đọc [Thần điêu hiệp lữ, chương 10](/article/than-dieu-hiep-lu-chuong-10) tại đây.
 
-Đọc [Thần điêu hiệp lữ, chương 11](https://nhavantuonglai.com/article/than-dieu-hiep-lu-chuong-11) tại đây.
+Đọc [Thần điêu hiệp lữ, chương 11](/article/than-dieu-hiep-lu-chuong-11) tại đây.
 
-Đọc [Thần điêu hiệp lữ, chương 12](https://nhavantuonglai.com/article/than-dieu-hiep-lu-chuong-12) tại đây.
+Đọc [Thần điêu hiệp lữ, chương 12](/article/than-dieu-hiep-lu-chuong-12) tại đây.
 
-Đọc [Thần điêu hiệp lữ, chương 13](https://nhavantuonglai.com/article/than-dieu-hiep-lu-chuong-13) tại đây.
+Đọc [Thần điêu hiệp lữ, chương 13](/article/than-dieu-hiep-lu-chuong-13) tại đây.
 
-Đọc [Thần điêu hiệp lữ, chương 14](https://nhavantuonglai.com/article/than-dieu-hiep-lu-chuong-14) tại đây.
+Đọc [Thần điêu hiệp lữ, chương 14](/article/than-dieu-hiep-lu-chuong-14) tại đây.
 
-Đọc [Thần điêu hiệp lữ, chương 15](https://nhavantuonglai.com/article/than-dieu-hiep-lu-chuong-15) tại đây.
+Đọc [Thần điêu hiệp lữ, chương 15](/article/than-dieu-hiep-lu-chuong-15) tại đây.
 
-Đọc [Thần điêu hiệp lữ, chương 16](https://nhavantuonglai.com/article/than-dieu-hiep-lu-chuong-16) tại đây.
+Đọc [Thần điêu hiệp lữ, chương 16](/article/than-dieu-hiep-lu-chuong-16) tại đây.
 
-Đọc [Thần điêu hiệp lữ, chương 17](https://nhavantuonglai.com/article/than-dieu-hiep-lu-chuong-17) tại đây.
+Đọc [Thần điêu hiệp lữ, chương 17](/article/than-dieu-hiep-lu-chuong-17) tại đây.
 
-Đọc [Thần điêu hiệp lữ, chương 18](https://nhavantuonglai.com/article/than-dieu-hiep-lu-chuong-18) tại đây.
+Đọc [Thần điêu hiệp lữ, chương 18](/article/than-dieu-hiep-lu-chuong-18) tại đây.
 
-Đọc [Thần điêu hiệp lữ, chương 19](https://nhavantuonglai.com/article/than-dieu-hiep-lu-chuong-19) tại đây.
+Đọc [Thần điêu hiệp lữ, chương 19](/article/than-dieu-hiep-lu-chuong-19) tại đây.
 
-Đọc [Thần điêu hiệp lữ, chương 20](https://nhavantuonglai.com/article/than-dieu-hiep-lu-chuong-20) tại đây.
+Đọc [Thần điêu hiệp lữ, chương 20](/article/than-dieu-hiep-lu-chuong-20) tại đây.
 
-Đọc [Thần điêu hiệp lữ, chương 21](https://nhavantuonglai.com/article/than-dieu-hiep-lu-chuong-21) tại đây.
+Đọc [Thần điêu hiệp lữ, chương 21](/article/than-dieu-hiep-lu-chuong-21) tại đây.
 
-Đọc [Thần điêu hiệp lữ, chương 22](https://nhavantuonglai.com/article/than-dieu-hiep-lu-chuong-22) tại đây.
+Đọc [Thần điêu hiệp lữ, chương 22](/article/than-dieu-hiep-lu-chuong-22) tại đây.
 
-Đọc [Thần điêu hiệp lữ, chương 23](https://nhavantuonglai.com/article/than-dieu-hiep-lu-chuong-23) tại đây.
+Đọc [Thần điêu hiệp lữ, chương 23](/article/than-dieu-hiep-lu-chuong-23) tại đây.
 
-Đọc [Thần điêu hiệp lữ, chương 24](https://nhavantuonglai.com/article/than-dieu-hiep-lu-chuong-24) tại đây.
+Đọc [Thần điêu hiệp lữ, chương 24](/article/than-dieu-hiep-lu-chuong-24) tại đây.
 
-Đọc [Thần điêu hiệp lữ, chương 25](https://nhavantuonglai.com/article/than-dieu-hiep-lu-chuong-25) tại đây.
+Đọc [Thần điêu hiệp lữ, chương 25](/article/than-dieu-hiep-lu-chuong-25) tại đây.
 
-Đọc [Thần điêu hiệp lữ, chương 26](https://nhavantuonglai.com/article/than-dieu-hiep-lu-chuong-26) tại đây.
+Đọc [Thần điêu hiệp lữ, chương 26](/article/than-dieu-hiep-lu-chuong-26) tại đây.
 
-Đọc [Thần điêu hiệp lữ, chương 27](https://nhavantuonglai.com/article/than-dieu-hiep-lu-chuong-27) tại đây.
+Đọc [Thần điêu hiệp lữ, chương 27](/article/than-dieu-hiep-lu-chuong-27) tại đây.
 
-Đọc [Thần điêu hiệp lữ, chương 28](https://nhavantuonglai.com/article/than-dieu-hiep-lu-chuong-28) tại đây.
+Đọc [Thần điêu hiệp lữ, chương 28](/article/than-dieu-hiep-lu-chuong-28) tại đây.
 
-Đọc [Thần điêu hiệp lữ, chương 29](https://nhavantuonglai.com/article/than-dieu-hiep-lu-chuong-29) tại đây.
+Đọc [Thần điêu hiệp lữ, chương 29](/article/than-dieu-hiep-lu-chuong-29) tại đây.
 
-Đọc [Thần điêu hiệp lữ, chương 30](https://nhavantuonglai.com/article/than-dieu-hiep-lu-chuong-30) tại đây.
+Đọc [Thần điêu hiệp lữ, chương 30](/article/than-dieu-hiep-lu-chuong-30) tại đây.
 
-Đọc [Thần điêu hiệp lữ, chương 31](https://nhavantuonglai.com/article/than-dieu-hiep-lu-chuong-31) tại đây.
+Đọc [Thần điêu hiệp lữ, chương 31](/article/than-dieu-hiep-lu-chuong-31) tại đây.
 
-Đọc [Thần điêu hiệp lữ, chương 32](https://nhavantuonglai.com/article/than-dieu-hiep-lu-chuong-32) tại đây.
+Đọc [Thần điêu hiệp lữ, chương 32](/article/than-dieu-hiep-lu-chuong-32) tại đây.
 
-Đọc [Thần điêu hiệp lữ, chương 33](https://nhavantuonglai.com/article/than-dieu-hiep-lu-chuong-33) tại đây.
+Đọc [Thần điêu hiệp lữ, chương 33](/article/than-dieu-hiep-lu-chuong-33) tại đây.
 
-Đọc [Thần điêu hiệp lữ, chương 34](https://nhavantuonglai.com/article/than-dieu-hiep-lu-chuong-34) tại đây.
+Đọc [Thần điêu hiệp lữ, chương 34](/article/than-dieu-hiep-lu-chuong-34) tại đây.
 
-Đọc [Thần điêu hiệp lữ, chương 35](https://nhavantuonglai.com/article/than-dieu-hiep-lu-chuong-35) tại đây.
+Đọc [Thần điêu hiệp lữ, chương 35](/article/than-dieu-hiep-lu-chuong-35) tại đây.
 
-Đọc [Thần điêu hiệp lữ, chương 36](https://nhavantuonglai.com/article/than-dieu-hiep-lu-chuong-36) tại đây.
+Đọc [Thần điêu hiệp lữ, chương 36](/article/than-dieu-hiep-lu-chuong-36) tại đây.
 
-Đọc [Thần điêu hiệp lữ, chương 37](https://nhavantuonglai.com/article/than-dieu-hiep-lu-chuong-37) tại đây.
+Đọc [Thần điêu hiệp lữ, chương 37](/article/than-dieu-hiep-lu-chuong-37) tại đây.
 
-Đọc [Thần điêu hiệp lữ, chương 38](https://nhavantuonglai.com/article/than-dieu-hiep-lu-chuong-38) tại đây.
+Đọc [Thần điêu hiệp lữ, chương 38](/article/than-dieu-hiep-lu-chuong-38) tại đây.
 
-Đọc [Thần điêu hiệp lữ, chương 39](https://nhavantuonglai.com/article/than-dieu-hiep-lu-chuong-39) tại đây.
+Đọc [Thần điêu hiệp lữ, chương 39](/article/than-dieu-hiep-lu-chuong-39) tại đây.
 
-Đọc [Thần điêu hiệp lữ, chương 40](https://nhavantuonglai.com/article/than-dieu-hiep-lu-chuong-40) tại đây.
+Đọc [Thần điêu hiệp lữ, chương 40](/article/than-dieu-hiep-lu-chuong-40) tại đây.
 
 Đọc [Thần điêu hiệp lữ, toàn tập](https://banmaixanh.vercel.app/ebook/than-dieu-hiep-lu.pdf) tại đây.
 

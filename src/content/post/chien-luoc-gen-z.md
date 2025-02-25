@@ -37,11 +37,11 @@ Do vậy, để thu hút du khách gen Z, khách sạn của bạn phải tăng 
 
 Những việc cần làm, phải có bao gồm:
 
-– Có [website khách sạn](https://nhavantuonglai.com/article), cung cấp đầy đủ thông tin, kênh đặt phòng chính thức.
+– Có [website khách sạn](/article), cung cấp đầy đủ thông tin, kênh đặt phòng chính thức.
 
 – Có kênh mạng xã hội, để tương tác, giao tiếp và kết nối với du khách gen Z.
 
-– Hiển thị tốt trên các [kênh bán phòng](https://nhavantuonglai.com/article), và có thương hiệu trực tuyến từ chúng.
+– Hiển thị tốt trên các [kênh bán phòng](/article), và có thương hiệu trực tuyến từ chúng.
 
 – …
 
@@ -51,9 +51,9 @@ Các khách sạn hiển thị tốt trên internet là các khách sạn thu h�
 
 ### Đánh giá trực tuyến
 
-Du khách gen Z chiếm đa số trong cộng đồng mạng, bởi vậy họ thường đề cao những [đánh giá trực tuyến](https://nhavantuonglai.com/article), nội dung từ mạng xã hội thông qua người dùng khác (du khách từng trải nghiệm). Cụ thể, 95% du khách gen Z tham khảo các đánh giá trước khi quyết định đặt phòng.
+Du khách gen Z chiếm đa số trong cộng đồng mạng, bởi vậy họ thường đề cao những [đánh giá trực tuyến](/article), nội dung từ mạng xã hội thông qua người dùng khác (du khách từng trải nghiệm). Cụ thể, 95% du khách gen Z tham khảo các đánh giá trước khi quyết định đặt phòng.
 
-Trên thực tế, nhiều du khách gen Z đề ra tiêu chí rất cụ thể với các đánh giá trực tuyến. Phổ biến nhất là điểm số tiêu chuẩn, tức khách sạn có trung bình bao nhiêu điểm đánh giá thì du khách mới chọn. Và cũng rất nhiều du khách gen Z không đọc những phản hồi tích cực, họ chỉ xem những [phản hồi tiêu cực](https://nhavantuonglai.com/article) để biết vấn đề của khách sạn và cách khách sạn ứng phó với chúng là như thế nào.
+Trên thực tế, nhiều du khách gen Z đề ra tiêu chí rất cụ thể với các đánh giá trực tuyến. Phổ biến nhất là điểm số tiêu chuẩn, tức khách sạn có trung bình bao nhiêu điểm đánh giá thì du khách mới chọn. Và cũng rất nhiều du khách gen Z không đọc những phản hồi tích cực, họ chỉ xem những [phản hồi tiêu cực](/article) để biết vấn đề của khách sạn và cách khách sạn ứng phó với chúng là như thế nào.
 
 Vì vậy, các khách sạn nên đảm bảo rằng, thương hiệu trực tuyến của khách sạn đang có nhiều đánh giá tốt, tích cực. Đó sẽ là cơ sở để du khách gen Z ra quyết định là có hay không việc đặt phòng tại khách sạn của bạn.
 
@@ -119,7 +119,7 @@ Những bữa ăn linh hoạt, phù hợp với ẩm thực địa phương ho�
 
 Hãy tưởng tượng, nếu bạn du lịch Hàn Quốc. Trong tuần đầu tiên, nếu bạn chưa thử ramen hay mua bất kỳ sản phẩm chăm sóc da nào của họ, thì chắc chắn bạn sẽ rất thất vọng. Đặt trường hợp ngược lại, nếu du khách gen Z đến khách sạn của bạn và không nhận được những đề xuất trải nghiệm, dịch vụ tại địa phương; thì chắc chắn rằng – họ sẽ rất thất vọng, và không hài lòng chút nào với trải nghiệm tại khách sạn.
 
-Bên cạnh đó, du khách gen Z rất coi trọng những trải nghiệm độc đáo và mang tín riêng biệt, như đã nói ở trên. Vì vậy, hãy tìm kiếm và đề xuất những hoạt động [du lịch trải nghiệm](https://nhavantuonglai.com/article), phù hợp với du khách gen Z để giới thiệu cho họ.
+Bên cạnh đó, du khách gen Z rất coi trọng những trải nghiệm độc đáo và mang tín riêng biệt, như đã nói ở trên. Vì vậy, hãy tìm kiếm và đề xuất những hoạt động [du lịch trải nghiệm](/article), phù hợp với du khách gen Z để giới thiệu cho họ.
 
 ### Đề cao tính bền vững và trách nhiệm xã hội
 

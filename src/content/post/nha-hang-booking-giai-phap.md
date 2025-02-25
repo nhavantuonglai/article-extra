@@ -16,13 +16,13 @@ _Dù nhà hàng đã được vận nhiều năm, nhưng nếu chưa quen với 
 
 ## Xác định mức độ phù hợp của nhà hàng
 
-Bước đầu tiên, và quan trọng nhất để đảm bảo rằng [đặt chỗ trước trong nhà hàng](https://nhavantuonglai.com/article) sẽ hoạt động hiệu quả như bạn muốn – là chúng phải thích hợp với nhà hàng của bạn. Rõ ràng, không có giải pháp tốt nhất để thực hiện, mà chỉ có những giải pháp phù hợp với mô hình vận hành hiện có. Dù rằng bạn quyết định giữ nguyên cách vận hành truyền thống cùng giấy bút và cuộc gọi, hay nâng cao chúng bằng đặt chỗ trước và [quản lý với phần mềm quản lý nhà hàng](https://nhavantuonglai.com/article), thì tính phù hợp vẫn rất quan trọng để nội lực, khả năng của nhân viên lẫn hệ thống được phát huy một cách tốt nhất.
+Bước đầu tiên, và quan trọng nhất để đảm bảo rằng [đặt chỗ trước trong nhà hàng](/article) sẽ hoạt động hiệu quả như bạn muốn – là chúng phải thích hợp với nhà hàng của bạn. Rõ ràng, không có giải pháp tốt nhất để thực hiện, mà chỉ có những giải pháp phù hợp với mô hình vận hành hiện có. Dù rằng bạn quyết định giữ nguyên cách vận hành truyền thống cùng giấy bút và cuộc gọi, hay nâng cao chúng bằng đặt chỗ trước và [quản lý với phần mềm quản lý nhà hàng](/article), thì tính phù hợp vẫn rất quan trọng để nội lực, khả năng của nhân viên lẫn hệ thống được phát huy một cách tốt nhất.
 
 ## Có nhân viên cụ thể phụ trách việc đặt trước trong nhà hàng
 
 Khi triển khai đặt chỗ trước, sẽ có nhiều vấn đề phát sinh, như quả tải vì số lượng bàn đặt lớn hơn số lượng có thể phục vụ, thiếu hụt vì khách không đến, hoặc xảy ra tranh chấp vì xung đột bàn…
 
-Để giải quyết, nhà hàng có thể chỉ định, giao trách nhiệm điều phối đặt chỗ trước cho một nhân viên nhất định trong ca làm. Họ sẽ tiếp nhận các lượt đặt chỗ, làm cầu nối thông tin giữa các bộ phận như bếp, phục vụ bàn… để chuẩn bị, sắp xếp trước những gì cần thiết. Nếu có sử dụng phần mềm quản lý và tích hợp tính năng quản lý đặt chỗ trong đó, hãy phân quyền để quản lý tốt hơn, như có thể thêm/ xóa đặt chỗ, điều chỉnh lịch… nhằm giúp hệ thống vận hành tốt hơn. Cho nên, [đào tạo và cải thiện năng lực của nhân viên](https://nhavantuonglai.com/article) là chìa khóa quan trọng để cải thiện, đem lại hiệu quả cho nhà hàng.
+Để giải quyết, nhà hàng có thể chỉ định, giao trách nhiệm điều phối đặt chỗ trước cho một nhân viên nhất định trong ca làm. Họ sẽ tiếp nhận các lượt đặt chỗ, làm cầu nối thông tin giữa các bộ phận như bếp, phục vụ bàn… để chuẩn bị, sắp xếp trước những gì cần thiết. Nếu có sử dụng phần mềm quản lý và tích hợp tính năng quản lý đặt chỗ trong đó, hãy phân quyền để quản lý tốt hơn, như có thể thêm/ xóa đặt chỗ, điều chỉnh lịch… nhằm giúp hệ thống vận hành tốt hơn. Cho nên, [đào tạo và cải thiện năng lực của nhân viên](/article) là chìa khóa quan trọng để cải thiện, đem lại hiệu quả cho nhà hàng.
 
 Trong trường hợp nhân sự mỏng và không có người phụ trách, nhà hàng cũng có thể sử dụng phần mềm quản lý nhà hàng để theo dõi, quản lý mọi thứ nhanh và hiệu quả hơn.
 
@@ -46,7 +46,7 @@ Các thay đổi, chính sách để phù hợp, thì nên dựa vào những ph
 
 Thực khách vắng mặt, không đến khi đã đặt chỗ trước là một vấn đề nhức nhối của nhiều nhà hàng. Rủi ro này thường chiếm khoảng 10 – 20% các lượt đặt chỗ trước trong nhà hàng, đồng nghĩa từ 10 – 20% doanh thu của nhà hàng bị hụt vì vấn đề này. Và cách đơn giản nhất để giảm chúng là gọi điện, xác nhận trước với thực khách khi họ đặt chỗ trước.
 
-Nhà hàng có thể gửi email thông qua một công cụ trực tuyến, hoặc cuộc gọi ngay khi nhận được lượt đặt chỗ trên [phần mềm quản lý nhà hàng](https://nhavantuonglai.com/article) để xác nhận thông tin, và nhắc lại thêm lần nữa trước khi đến giờ đặt chỗ từ 3 – 6 tiếng.
+Nhà hàng có thể gửi email thông qua một công cụ trực tuyến, hoặc cuộc gọi ngay khi nhận được lượt đặt chỗ trên [phần mềm quản lý nhà hàng](/article) để xác nhận thông tin, và nhắc lại thêm lần nữa trước khi đến giờ đặt chỗ từ 3 – 6 tiếng.
 
 Một giải pháp khác là không cho đặt chỗ trước quá lâu, quá dài ngày. Nhà hàng nên giới hạn việc đặt chỗ tối đa là trước 2 tuần hoặc 1 tháng, bởi nếu thời gian đặt trước càng lâu thì nguy cơ vắng mặt lại càng lớn.
 
@@ -72,7 +72,7 @@ Tương tự như trên, hãy sử dụng các dữ liệu nhà hàng, thông qu
 
 ## Sử dụng hệ thống trung tâm đặt chỗ hiện đại
 
-Hệ thống đặt chỗ giúp khách đặt bàn, [đặt chỗ trực tiếp tại nhà hàng](https://nhavantuonglai.com/article) một cách thuận tiện, nhưng cũng kéo theo mối lo ngại rằng chúng sẽ tạo nên tâm lý tách biệt giữa khách đặt chỗ trước và khách đặt chỗ tại nhà hàng.
+Hệ thống đặt chỗ giúp khách đặt bàn, [đặt chỗ trực tiếp tại nhà hàng](/article) một cách thuận tiện, nhưng cũng kéo theo mối lo ngại rằng chúng sẽ tạo nên tâm lý tách biệt giữa khách đặt chỗ trước và khách đặt chỗ tại nhà hàng.
 
 Cách giải quyết là sử dụng một trung tâm đặt chỗ, để hệ thống hóa tất cả các lượt đặt chỗ trước lẫn đặt chỗ tại quầy và không phân biệt chúng khi phục vụ. Đấy sẽ là chìa khóa để quản lý luồng thực khách của bạn nhanh chóng và điều phối nhân viên, chuẩn bị món được tốt hơn.
 
@@ -82,9 +82,9 @@ Quản lý bàn là chức năng giúp nhà hàng phân bổ danh sách bàn cho
 
 ## Tích hợp POS của bạn
 
-[POS nhà hàng](https://nhavantuonglai.com/article) khi được tích hợp, sẽ giúp bạn có được rất nhiều dữ liệu về thực khách. Bạn có thể sử dụng những dữ liệu này để đo lường, tính toán doanh thu lượt đặt trước, đặt tại bàn… và nhiều thông tin khác, giúp việc ra quyết định nên ưu tiên kênh đặt chỗ nào là phù hợp và đem lại nhiều doanh thu nhất.
+[POS nhà hàng](/article) khi được tích hợp, sẽ giúp bạn có được rất nhiều dữ liệu về thực khách. Bạn có thể sử dụng những dữ liệu này để đo lường, tính toán doanh thu lượt đặt trước, đặt tại bàn… và nhiều thông tin khác, giúp việc ra quyết định nên ưu tiên kênh đặt chỗ nào là phù hợp và đem lại nhiều doanh thu nhất.
 
-Tất nhiên, nhà hàng vẫn có thể quản lý bằng giấy và bút, tuy nhiên với sức mạnh của số hóa thì hầu hết các nhà hàng hiện đại đều đang áp dụng đặt chỗ trực tuyến, do những tính năng mà nó đem lại. Một vài lợi ích có thể kể đến khi [nhà hàng áp dụng giải pháp vào quản lý lượt đặt trước](https://nhavantuonglai.com/article) như là:
+Tất nhiên, nhà hàng vẫn có thể quản lý bằng giấy và bút, tuy nhiên với sức mạnh của số hóa thì hầu hết các nhà hàng hiện đại đều đang áp dụng đặt chỗ trực tuyến, do những tính năng mà nó đem lại. Một vài lợi ích có thể kể đến khi [nhà hàng áp dụng giải pháp vào quản lý lượt đặt trước](/article) như là:
 
 – Cơ sở dữ liệu của thực khách đầy đủ, vững chắc.
 

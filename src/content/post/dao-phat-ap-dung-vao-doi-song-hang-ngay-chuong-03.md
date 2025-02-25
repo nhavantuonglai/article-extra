@@ -193,19 +193,19 @@ Hồi Đức Phật Thích Ca tại thế, ngài có thiết lập sáu nguyên 
 
 Sáu nguyên tắc sống chung gọi là LỤC HÒA này được áp dụng cách đây trên 2500 năm, bây giờ nghĩ lại vẫn có thể là căn bản để thiết lập một đời sống cộng đồng rất thích hợp. Không những ta có thể áp dụng lục hòa vào đời sống gia đình, ta cũng có thể áp dụng lục hòa trong đời sống học đường, làng mạc và quốc gia nữa. Áp dụng vào đời sống làng mạc và quốc gia ta có thể thiếp lập được một thể chế xã hội nhân bản, cộng đồng và tự do, biểu lộ được tinh thần từ bi và bình đẳng của đạo Phật.
 
-Đọc [Đạo Phật áp dụng vào đời sống hàng ngày, chương 01](https://nhavantuonglai.com/article/dao-phat-ap-dung-vao-doi-song-hang-ngay-chuong-01) tại đây.
+Đọc [Đạo Phật áp dụng vào đời sống hàng ngày, chương 01](/article/dao-phat-ap-dung-vao-doi-song-hang-ngay-chuong-01) tại đây.
 
-Đọc [Đạo Phật áp dụng vào đời sống hàng ngày, chương 02](https://nhavantuonglai.com/article/dao-phat-ap-dung-vao-doi-song-hang-ngay-chuong-02) tại đây.
+Đọc [Đạo Phật áp dụng vào đời sống hàng ngày, chương 02](/article/dao-phat-ap-dung-vao-doi-song-hang-ngay-chuong-02) tại đây.
 
-Đọc [Đạo Phật áp dụng vào đời sống hàng ngày, chương 03](https://nhavantuonglai.com/article/dao-phat-ap-dung-vao-doi-song-hang-ngay-chuong-03) tại đây.
+Đọc [Đạo Phật áp dụng vào đời sống hàng ngày, chương 03](/article/dao-phat-ap-dung-vao-doi-song-hang-ngay-chuong-03) tại đây.
 
-Đọc [Đạo Phật áp dụng vào đời sống hàng ngày, chương 04](https://nhavantuonglai.com/article/dao-phat-ap-dung-vao-doi-song-hang-ngay-chuong-04) tại đây.
+Đọc [Đạo Phật áp dụng vào đời sống hàng ngày, chương 04](/article/dao-phat-ap-dung-vao-doi-song-hang-ngay-chuong-04) tại đây.
 
-Đọc [Đạo Phật áp dụng vào đời sống hàng ngày, chương 05](https://nhavantuonglai.com/article/dao-phat-ap-dung-vao-doi-song-hang-ngay-chuong-05) tại đây.
+Đọc [Đạo Phật áp dụng vào đời sống hàng ngày, chương 05](/article/dao-phat-ap-dung-vao-doi-song-hang-ngay-chuong-05) tại đây.
 
-Đọc [Đạo Phật áp dụng vào đời sống hàng ngày, chương 06](https://nhavantuonglai.com/article/dao-phat-ap-dung-vao-doi-song-hang-ngay-chuong-06) tại đây.
+Đọc [Đạo Phật áp dụng vào đời sống hàng ngày, chương 06](/article/dao-phat-ap-dung-vao-doi-song-hang-ngay-chuong-06) tại đây.
 
-Đọc [Đạo Phật áp dụng vào đời sống hàng ngày, chương 07](https://nhavantuonglai.com/article/dao-phat-ap-dung-vao-doi-song-hang-ngay-chuong-07) tại đây.
+Đọc [Đạo Phật áp dụng vào đời sống hàng ngày, chương 07](/article/dao-phat-ap-dung-vao-doi-song-hang-ngay-chuong-07) tại đây.
 
 Đọc [Đạo Phật áp dụng vào đời sống hàng ngày, toàn tập](https://banmaixanh.vercel.app/ebook/dao-phat-ap-dung-vao-doi-song-hang-ngay.pdf) tại đây.
 

@@ -37,15 +37,15 @@ Bạn hãy soi sáng những đoạn trong cuốn sách bầng kinh nghiệm s�
 
 Viết ở Rừng Othes, đầu mùa thu năm Tân Dậu.
 
-Đọc [Trái tim mặt trời, chương 01](https://nhavantuonglai.com/article/trai-tim-mat-troi-chuong-01) tại đây.
+Đọc [Trái tim mặt trời, chương 01](/article/trai-tim-mat-troi-chuong-01) tại đây.
 
-Đọc [Trái tim mặt trời, chương 02](https://nhavantuonglai.com/article/trai-tim-mat-troi-chuong-02) tại đây.
+Đọc [Trái tim mặt trời, chương 02](/article/trai-tim-mat-troi-chuong-02) tại đây.
 
-Đọc [Trái tim mặt trời, chương 03](https://nhavantuonglai.com/article/trai-tim-mat-troi-chuong-03) tại đây.
+Đọc [Trái tim mặt trời, chương 03](/article/trai-tim-mat-troi-chuong-03) tại đây.
 
-Đọc [Trái tim mặt trời, chương 04](https://nhavantuonglai.com/article/trai-tim-mat-troi-chuong-04) tại đây.
+Đọc [Trái tim mặt trời, chương 04](/article/trai-tim-mat-troi-chuong-04) tại đây.
 
-Đọc [Trái tim mặt trời, chương 05](https://nhavantuonglai.com/article/trai-tim-mat-troi-chuong-05) tại đây.
+Đọc [Trái tim mặt trời, chương 05](/article/trai-tim-mat-troi-chuong-05) tại đây.
 
 Đọc [Trái tim mặt trời, toàn tập](https://banmaixanh.vercel.app/ebook/trai-tim-mat-troi.pdf) tại đây.
 

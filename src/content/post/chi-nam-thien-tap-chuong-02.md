@@ -139,13 +139,13 @@ Tại Làng Mai các thầy, các sư cô và các vị cư sĩ đều biết th
 
 Số lượng những người trẻ tự tử hàng ngày vì không có khả năng xử lý được niềm đau do bạo động, hận thù và tuyệt vọng gây nên đang càng ngày càng tăng. Mỗi ngày ở Cọng Hòa Pháp có khoảng 35 người thanh niên thiếu nữ tự tử. Ở Nhật Bản con số đó lớn gấp hai lần. Tại Việt Nam, số người trẻ tự tử hàng ngày là bao nhiêu người, bạn có biết không? Ta phải hành động ngay tức khắc để chận đứng lại tình trạng. Vấn đề tiêu thụ trong chánh niệm không còn là một vấn đề cá nhân nữa mà đã trở thành một vấn đề của quốc gia và xã hội.
 
-Đọc [Thiền nam chỉ tập, chương 01](https://nhavantuonglai.com/article/chi-nam-thien-tap-chuong-01) tại đây.
+Đọc [Thiền nam chỉ tập, chương 01](/article/chi-nam-thien-tap-chuong-01) tại đây.
 
-Đọc [Thiền nam chỉ tập, chương 02](https://nhavantuonglai.com/article/chi-nam-thien-tap-chuong-02) tại đây.
+Đọc [Thiền nam chỉ tập, chương 02](/article/chi-nam-thien-tap-chuong-02) tại đây.
 
-Đọc [Thiền nam chỉ tập, chương 03](https://nhavantuonglai.com/article/chi-nam-thien-tap-chuong-03) tại đây.
+Đọc [Thiền nam chỉ tập, chương 03](/article/chi-nam-thien-tap-chuong-03) tại đây.
 
-Đọc [Thiền nam chỉ tập, chương 04](https://nhavantuonglai.com/article/chi-nam-thien-tap-chuong-04) tại đây.
+Đọc [Thiền nam chỉ tập, chương 04](/article/chi-nam-thien-tap-chuong-04) tại đây.
 
 Đọc [Thiền nam chỉ tập, toàn tập](https://banmaixanh.vercel.app/ebook/chi-nam-thien-tap.pdf) tại đây.
 

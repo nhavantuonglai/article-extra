@@ -15,7 +15,7 @@ tags:
 
 _Bí ý tưởng khi viết lách là vấn đề mà nhiều người viết gặp phải, từ nhà văn chuyên nghiệp đến người viết blog nghiệp dư. Bài viết này sẽ cung cấp cho bạn những chiến lược và mẹo hữu ích để vượt qua tình trạng này, đảm bảo bạn luôn có ý tưởng mới và thú vị để viết._
 
-[Viết lách](https://nhavantuonglai.com/article) là một kỹ năng quan trọng trong nhiều lĩnh vực, từ học thuật, kinh doanh đến giải trí. Tuy nhiên, không phải lúc nào ý tưởng cũng trôi chảy và sẵn sàng. Bí ý tưởng là vấn đề phổ biến mà nhiều người viết gặp phải. Vậy làm sao để viết lách không bị bí ý tưởng? Bài viết này sẽ cung cấp cho bạn các phương pháp cụ thể và dễ áp dụng để luôn có ý tưởng sáng tạo cho bài viết của mình.
+[Viết lách](/article) là một kỹ năng quan trọng trong nhiều lĩnh vực, từ học thuật, kinh doanh đến giải trí. Tuy nhiên, không phải lúc nào ý tưởng cũng trôi chảy và sẵn sàng. Bí ý tưởng là vấn đề phổ biến mà nhiều người viết gặp phải. Vậy làm sao để viết lách không bị bí ý tưởng? Bài viết này sẽ cung cấp cho bạn các phương pháp cụ thể và dễ áp dụng để luôn có ý tưởng sáng tạo cho bài viết của mình.
 
 ## Xác định nguyên nhân gây bí ý tưởng
 
@@ -43,7 +43,7 @@ Viết lách đều đặn mỗi ngày giúp bạn duy trì và phát triển k�
 
 ## Đọc nhiều và đa dạng
 
-[Đọc sách](https://nhavantuonglai.com/article), báo, và tài liệu từ nhiều nguồn khác nhau là cách tốt nhất để mở rộng kiến thức và kích thích ý tưởng viết lách. Đọc giúp bạn hiểu rõ hơn về các chủ đề khác nhau và cung cấp nguồn cảm hứng dồi dào. Một số gợi ý để đọc hiệu quả:
+[Đọc sách](/article), báo, và tài liệu từ nhiều nguồn khác nhau là cách tốt nhất để mở rộng kiến thức và kích thích ý tưởng viết lách. Đọc giúp bạn hiểu rõ hơn về các chủ đề khác nhau và cung cấp nguồn cảm hứng dồi dào. Một số gợi ý để đọc hiệu quả:
 
 – Đọc các thể loại khác nhau: Tiểu thuyết, phi tiểu thuyết, bài báo, blog…
 
@@ -55,7 +55,7 @@ Viết lách đều đặn mỗi ngày giúp bạn duy trì và phát triển k�
 
 ## Tham gia cộng đồng viết lách
 
-Tham gia vào các [cộng đồng viết lách](https://nhavantuonglai.com/article), câu lạc bộ sách hoặc nhóm viết trên mạng xã hội giúp bạn kết nối với những người có cùng sở thích. Những cộng đồng này không chỉ cung cấp nguồn cảm hứng mà còn giúp bạn nhận được phản hồi và ý tưởng từ những người khác. Một số lợi ích của việc tham gia cộng đồng viết lách:
+Tham gia vào các [cộng đồng viết lách](/article), câu lạc bộ sách hoặc nhóm viết trên mạng xã hội giúp bạn kết nối với những người có cùng sở thích. Những cộng đồng này không chỉ cung cấp nguồn cảm hứng mà còn giúp bạn nhận được phản hồi và ý tưởng từ những người khác. Một số lợi ích của việc tham gia cộng đồng viết lách:
 
 – Nhận được sự động viên và khích lệ từ những người cùng đam mê.
 
@@ -101,7 +101,7 @@ Brainstorming là một phương pháp sáng tạo giúp bạn ghi lại tất c
 
 ## Thử viết về các chủ đề khác nhau
 
-Đôi khi, viết về một chủ đề mới lạ và khác biệt có thể giúp bạn khơi nguồn [sáng tạo](https://nhavantuonglai.com/article). Đừng ngại thử sức với những chủ đề mà bạn chưa từng viết trước đây. Việc này không chỉ giúp bạn mở rộng vốn hiểu biết mà còn mang lại những trải nghiệm mới mẻ trong viết lách. Một số gợi ý để thử sức với các chủ đề mới:
+Đôi khi, viết về một chủ đề mới lạ và khác biệt có thể giúp bạn khơi nguồn [sáng tạo](/article). Đừng ngại thử sức với những chủ đề mà bạn chưa từng viết trước đây. Việc này không chỉ giúp bạn mở rộng vốn hiểu biết mà còn mang lại những trải nghiệm mới mẻ trong viết lách. Một số gợi ý để thử sức với các chủ đề mới:
 
 – Viết về một sự kiện hoặc xu hướng mới trong xã hội.
 
@@ -113,7 +113,7 @@ Brainstorming là một phương pháp sáng tạo giúp bạn ghi lại tất c
 
 ## Nghỉ ngơi và thư giãn
 
-Đôi khi, bí [ý tưởng viết lách](https://nhavantuonglai.com/article) là dấu hiệu của việc bạn đang làm việc quá sức và cần nghỉ ngơi. Hãy dành thời gian thư giãn, nghỉ ngơi để tái tạo năng lượng và lấy lại cảm hứng. Một số hoạt động giúp bạn thư giãn và khơi nguồn sáng tạo:
+Đôi khi, bí [ý tưởng viết lách](/article) là dấu hiệu của việc bạn đang làm việc quá sức và cần nghỉ ngơi. Hãy dành thời gian thư giãn, nghỉ ngơi để tái tạo năng lượng và lấy lại cảm hứng. Một số hoạt động giúp bạn thư giãn và khơi nguồn sáng tạo:
 
 – Đi dạo, tập thể dục hoặc tham gia các hoạt động ngoài trời.
 
@@ -133,7 +133,7 @@ Tạo ra một lịch trình viết lách giúp bạn có kỷ luật hơn và d
 
 – Xác định khung giờ viết cố định mỗi ngày hoặc mỗi tuần.
 
-– Đặt ra mục tiêu cụ thể cho mỗi buổi viết, chẳng hạn như viết xong một chương sách hoặc [bài blog](https://nhavantuonglai.com/article).
+– Đặt ra mục tiêu cụ thể cho mỗi buổi viết, chẳng hạn như viết xong một chương sách hoặc [bài blog](/article).
 
 – Tự thưởng cho bản thân khi hoàn thành mục tiêu để tạo động lực.
 

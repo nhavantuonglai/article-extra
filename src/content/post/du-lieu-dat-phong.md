@@ -18,13 +18,13 @@ tags:
 
 _Sự thành công của khách sạn phục thuộc vào sự hài lòng của du khách, mọi chủ khách sạn đều nắm và hiểu rõ điều này. Đây cũng là lý do tại sao mà việc thu thập và khai thác dữ liệu khách đặt phòng hiệu quả là điều vô cùng quan trọng, giúp cải thiện trải nghiệm khách hàng và tăng doanh số bán hàng._
 
-Bài viết sau sẽ cung cấp 7 cách để khai thác [dữ liệu khách đặt phòng](https://nhavantuonglai.com/article/du-lieu-dat-phong) để cải thiện doanh số bán phòng cho khách sạn. Từ số liệu đã thu thập, khách sạn có thể tối ưu quá trình đặt phòng, cá nhân hóa trải nghiệm cho đến tự động tiếp thị (Marketing Automation)… nhằm cải thiện lợi nhuận cho khách sạn. Với những thông tin này, khách sạn của bạn sẽ có sự chuẩn bị tốt nhất, nhằm tạo ra trải nghiệm tích cực cho du khách và gia tăng lợi nhuận cho khách sạn của bạn.
+Bài viết sau sẽ cung cấp 7 cách để khai thác [dữ liệu khách đặt phòng](/article/du-lieu-dat-phong) để cải thiện doanh số bán phòng cho khách sạn. Từ số liệu đã thu thập, khách sạn có thể tối ưu quá trình đặt phòng, cá nhân hóa trải nghiệm cho đến tự động tiếp thị (Marketing Automation)… nhằm cải thiện lợi nhuận cho khách sạn. Với những thông tin này, khách sạn của bạn sẽ có sự chuẩn bị tốt nhất, nhằm tạo ra trải nghiệm tích cực cho du khách và gia tăng lợi nhuận cho khách sạn của bạn.
 
 ## Các loại dữ liệu khách đặt phòng mà khách sạn nên thu thập
 
 ### Thông tin liên hệ
 
-Thông tin liên hệ bao gồm họ tên, số điện thoại, email… cho phép khách sạn liên lạc với khách đặt phòng trước, trong và sau khi họ ở tại khách sạn. Thông tin này cho phép khách sạn tiếp thị lại (Remarketing), khuyến khích du khách [đặt phòng trực tiếp](https://nhavantuonglai.com/article) trên website khách sạn thay vì thông qua kênh bán phòng trực tuyến thông thường. Dữ liệu này là nền tảng để phân loại, lọc thành các nhóm như khách hàng trung thành, cơ hội bán hàng tiềm năng… cho khách sạn.
+Thông tin liên hệ bao gồm họ tên, số điện thoại, email… cho phép khách sạn liên lạc với khách đặt phòng trước, trong và sau khi họ ở tại khách sạn. Thông tin này cho phép khách sạn tiếp thị lại (Remarketing), khuyến khích du khách [đặt phòng trực tiếp](/article) trên website khách sạn thay vì thông qua kênh bán phòng trực tuyến thông thường. Dữ liệu này là nền tảng để phân loại, lọc thành các nhóm như khách hàng trung thành, cơ hội bán hàng tiềm năng… cho khách sạn.
 
 ### Sở thích
 
@@ -44,11 +44,11 @@ Ví dụ: Với khách doanh nhân, khách sạn có thể xây dựng gói giá
 
 Thu thập những dữ liệu liên quan, như mục đích chuyến đi và lượt đặt phòng (công tác, du lịch, nghỉ dưỡng…) giúp khách sạn điều chỉnh, cung cấp những tiện ích, dịch vụ liên quan, phù hợp với từng nhóm khách đặt phòng.
 
-Ví dụ: Với khách doanh nhân, [quy trình check-in khách sạn](https://nhavantuonglai.com/article) cần chuyên nghiệp hơn, tốc độ internet cần ổn định và cao; còn với khách du lịch, họ ưu tiên một chiếc giường thoải mái, kèm các lựa chọn ăn uống trong phòng, trong khách sạn.
+Ví dụ: Với khách doanh nhân, [quy trình check-in khách sạn](/article) cần chuyên nghiệp hơn, tốc độ internet cần ổn định và cao; còn với khách du lịch, họ ưu tiên một chiếc giường thoải mái, kèm các lựa chọn ăn uống trong phòng, trong khách sạn.
 
 ### Thông tin tương tác
 
-Các thông tin liên quan đến tương tác với khách sạn từ du khách, như lượt mở email marketing, nhắn tin qua kênh mạng xã hội… là những thông tin quan trọng, giúp khách sạn tối ưu [marketing](https://nhavantuonglai.com/article) và đặt phòng nhằm đáp ứng nhu cầu của họ. Những thông tin này cũng giúp khách sạn xác định đúng kênh liên lạc mà du khách lựa chọn, như email, hotline hay nhắn tin qua SMS, Fanpage… để có sự điều chỉnh cho phù hợp.
+Các thông tin liên quan đến tương tác với khách sạn từ du khách, như lượt mở email marketing, nhắn tin qua kênh mạng xã hội… là những thông tin quan trọng, giúp khách sạn tối ưu [marketing](/article) và đặt phòng nhằm đáp ứng nhu cầu của họ. Những thông tin này cũng giúp khách sạn xác định đúng kênh liên lạc mà du khách lựa chọn, như email, hotline hay nhắn tin qua SMS, Fanpage… để có sự điều chỉnh cho phù hợp.
 
 _Sự thành công của khách sạn phục thuộc vào sự hài lòng của du khách, mọi chủ khách sạn đều nắm và hiểu rõ điều này._
 
@@ -70,7 +70,7 @@ Những điều này không chỉ tạo ra trải nghiệm cá nhân đầy hấ
 
 ### Upselling và Cross-selling
 
-Upselling và Cross-selling là 2 chiến lược quan trọng, bởi giúp cải thiện doanh thu trong khách sạn. 2 chiến lược này khuyến khích khách đặt phòng tăng chi tiêu, và cải thiện sự hài lòng trong trải nghiệm của họ, và cuối cùng là [tăng doanh thu cho khách sạn](https://nhavantuonglai.com/article).
+Upselling và Cross-selling là 2 chiến lược quan trọng, bởi giúp cải thiện doanh thu trong khách sạn. 2 chiến lược này khuyến khích khách đặt phòng tăng chi tiêu, và cải thiện sự hài lòng trong trải nghiệm của họ, và cuối cùng là [tăng doanh thu cho khách sạn](/article).
 
 Thông qua dữ liệu thu thập được, khách sạn có thể xác định nhóm khách hàng nào có khả năng chi tiêu, quan tâm đến các sản phẩm, dịch vụ cụ thể để xây dựng chiến lược tiếp thị cho phù hợp.
 
@@ -82,7 +82,7 @@ Quản lý doanh thu liên quan đến tối ưu giá và phòng trống để t
 
 ### Chương trình khách hàng thân thiết
 
-[Chương trình khách hàng thân thiết](https://nhavantuonglai.com/article) là một cách hiệu quả để xây dựng và cải thiện lòng trung thành của du khách và khuyến khích họ đặt phòng lại. Thông qua các phần thưởng, lợi ích, đặc quyền cá nhân hóa được tích lũy theo thời gian; khách sạn có thể gia tăng sự hài lòng và mức độ gắn bó của khách đặt phòng. Thông qua giải pháp này, thương hiệu trực tuyến cũng được duy trì và phát triển, giúp thêm nhiều du khách biết đến khách sạn hơn.
+[Chương trình khách hàng thân thiết](/article) là một cách hiệu quả để xây dựng và cải thiện lòng trung thành của du khách và khuyến khích họ đặt phòng lại. Thông qua các phần thưởng, lợi ích, đặc quyền cá nhân hóa được tích lũy theo thời gian; khách sạn có thể gia tăng sự hài lòng và mức độ gắn bó của khách đặt phòng. Thông qua giải pháp này, thương hiệu trực tuyến cũng được duy trì và phát triển, giúp thêm nhiều du khách biết đến khách sạn hơn.
 
 Ví dụ: Khách sạn tích lũy điểm thưởng quy đổi từ số lần đặt phòng, hoặc giá tiền mỗi lần họ chi tiêu để cho phép nâng hạng phòng miễn phí, giảm giá cho các lần lưu trú trong tương lai, hoặc bữa ăn sáng và spa miễn phí…
 
@@ -108,7 +108,7 @@ Dữ liệu thu thập cũng cho phép khách sạn điều chỉnh, giảm thi�
 
 Thách thức lớn nhất mà các khách sạn phải đối mặt, đó là xác định mức giá tối ưu cho các dịch vụ, hạng phòng hiện có trong khách sạn. Giá cao sẽ gây trở ngại, khiến du khách ngại ngần; còn giá thấp ảnh hưởng trực tiếp đến doanh thu khách sạn.
 
-Thông qua dữ liệu khách đặt phòng mà khách sạn thu thập được, khách sạn có thể xác định ngưỡng giá phòng hợp nhằm có sự điều chỉnh tương ứng. Thông qua chiến lược [định giá động](https://nhavantuonglai.com/article), định giá chiến lược cho dịch vụ và phòng, khách sạn có thể duy trì và nâng cao tính cạnh tranh, cũng như tạo ra lợi nhuận tốt hơn.
+Thông qua dữ liệu khách đặt phòng mà khách sạn thu thập được, khách sạn có thể xác định ngưỡng giá phòng hợp nhằm có sự điều chỉnh tương ứng. Thông qua chiến lược [định giá động](/article), định giá chiến lược cho dịch vụ và phòng, khách sạn có thể duy trì và nâng cao tính cạnh tranh, cũng như tạo ra lợi nhuận tốt hơn.
 
 Ví dụ: Dữ liệu khách đặt phòng phản ánh một số thời điểm trong tuần, tháng hoặc năm có lượt đặt cao đột biến; khách sạn có thể điều chỉnh giá phòng và dịch vụ theo hướng tăng trong khoảng thời gian này. Tương tự như vậy, khách sạn cũng có thể giảm giá, tạo ra nhiều ưu đãi nhằm thu hút du khách đặt phòng vào các đợt thấp điểm, ít lượt đặt chỗ.
 

@@ -30,11 +30,11 @@ Một số phần mềm còn có khả năng cung cấp mã giảm giá, quà t�
 
 ### Tối ưu hệ thống
 
-[Phần mềm quản lý nhà hàng](https://nhavantuonglai.com/article) giúp cải thiện hiệu quả của hệ thống, góp phần tối ưu không gian truy cập khi sử dụng các trạm nhỏ và hiệu quả hơn.
+[Phần mềm quản lý nhà hàng](/article) giúp cải thiện hiệu quả của hệ thống, góp phần tối ưu không gian truy cập khi sử dụng các trạm nhỏ và hiệu quả hơn.
 
 ### Phục vụ, dịch vụ nhanh hơn
 
-[Phục vụ bàn nhanh hơn](https://nhavantuonglai.com/article) là giảm nhiều hơn những sai sót, và cải thiện giao tiếp giữa các bộ phận tiền sảnh (lễ tân, phục vụ bàn…) và hậu sảnh (kế toán, nhân sự, kỹ thuật…).
+[Phục vụ bàn nhanh hơn](/article) là giảm nhiều hơn những sai sót, và cải thiện giao tiếp giữa các bộ phận tiền sảnh (lễ tân, phục vụ bàn…) và hậu sảnh (kế toán, nhân sự, kỹ thuật…).
 
 ### Thanh toán tự động
 
@@ -64,7 +64,7 @@ Hầu hết các nhà cung cấp giải pháp nhà hàng đều tích hợp tín
 
 ### Đặt hàng trực tuyến
 
-[Phục vụ khách mua đem đi](https://nhavantuonglai.com/article), một số phần mềm tích hợp việc đặt hàng trực tiếp trên hệ thống, hoặc thông qua các ứng dụng từ bên thứ 3 như là Grab, Now…
+[Phục vụ khách mua đem đi](/article), một số phần mềm tích hợp việc đặt hàng trực tiếp trên hệ thống, hoặc thông qua các ứng dụng từ bên thứ 3 như là Grab, Now…
 
 ### Đặt bàn trực tuyến
 

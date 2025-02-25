@@ -23,7 +23,7 @@ Từ thế kỷ thứ XIX, các doanh nhân sử dụng câu _khách hàng luôn
 
 ## Tại sao Khách hàng luôn đúng không còn đúng nữa?
 
-Ngày nay, ngành dịch vụ đã phục vụ tốt hơn, đem lại nhiều trải nghiệm tích cực cho du khách, và thường [vượt qua kỳ vọng lúc ban đầu](https://nhavantuonglai.com/article) của họ. Điều này đồng nghĩa rằng, những sai sót, hạn chế trong quá trình phục vụ, tương tác với du khách trở nên hạn chế, ít gặp hơn trước.
+Ngày nay, ngành dịch vụ đã phục vụ tốt hơn, đem lại nhiều trải nghiệm tích cực cho du khách, và thường [vượt qua kỳ vọng lúc ban đầu](/article) của họ. Điều này đồng nghĩa rằng, những sai sót, hạn chế trong quá trình phục vụ, tương tác với du khách trở nên hạn chế, ít gặp hơn trước.
 
 Bên cạnh đó, sức mạnh của mạng xã hội khiến những phàn nàn, đánh giá tiêu cực dễ lan tỏa khi chưa được kiểm chứng hơn. Chúng cũng trao quyền, cơ hội cho mọi người bày tỏ ý kiến, khiến một nhóm du khách nhất định xem việc phàn nàn, đánh giá tiêu cực là điều hiển nhiên để đạt được những quyền lợi nhất định.
 
@@ -39,7 +39,7 @@ Dưới đây là 7 tình huống du khách phàn nàn thiếu thiện chí, kh�
 
 ### Đánh giá giả mạo để tống tiền khách sạn
 
-TripAdvisor vốn được mọi người sử dụng như kênh tham khảo đánh giá khách sạn, để xem lựa chọn mà bản thân dự định đặt có đem lại trải nghiệm tốt cho tất cả mọi người hay không. Cơ chế của TripAdvisor không kiểm tra chéo liệu người dùng này đã thật sự đặt phòng, ở tại khách sạn hay chưa. Vì vậy, nhiều du khách đã lạm dụng điều này bằng cách, [đánh giá tiêu cực](https://nhavantuonglai.com/article) về một khách sạn trên TripAdvisor và yêu cầu chủ khách sạn cung cấp các mã ưu đãi, voucher để họ xóa, đánh giá tốt trở lại.
+TripAdvisor vốn được mọi người sử dụng như kênh tham khảo đánh giá khách sạn, để xem lựa chọn mà bản thân dự định đặt có đem lại trải nghiệm tốt cho tất cả mọi người hay không. Cơ chế của TripAdvisor không kiểm tra chéo liệu người dùng này đã thật sự đặt phòng, ở tại khách sạn hay chưa. Vì vậy, nhiều du khách đã lạm dụng điều này bằng cách, [đánh giá tiêu cực](/article) về một khách sạn trên TripAdvisor và yêu cầu chủ khách sạn cung cấp các mã ưu đãi, voucher để họ xóa, đánh giá tốt trở lại.
 
 Chúng cũng được sử dụng như công cụ để bôi nhọ, hạ thấp uy tín của khách sạn đối thủ. Cách thức thực hiện đơn giản là tạo một tài khoản giả và đánh giá xấu các khách sạn đối thủ.
 
@@ -49,7 +49,7 @@ _Cách giải quyết_
 
 Tiếp theo, trả lời các bình luận ấy với bằng chứng cụ thể cho việc đánh giá thiếu căn cứ, như không có thông tin đặt phòng, hoặc hình ảnh minh họa sai với thiết kế của khách sạn…
 
-Và cũng đừng quên gắn cờ (report spam) các đánh giá bôi xấu từ đối thủ, để TripAdvisor biết và giải quyết. Các khách sạn cũng có thể tham khảo cách [giải quyết những đánh giá giả mạo tại khách sạn](https://nhavantuonglai.com/article) để áp dụng cho phù hợp.
+Và cũng đừng quên gắn cờ (report spam) các đánh giá bôi xấu từ đối thủ, để TripAdvisor biết và giải quyết. Các khách sạn cũng có thể tham khảo cách [giải quyết những đánh giá giả mạo tại khách sạn](/article) để áp dụng cho phù hợp.
 
 ### Tạo ra sự chú ý không cần thiết trên mạng xã hội
 

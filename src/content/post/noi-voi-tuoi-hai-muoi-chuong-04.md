@@ -63,21 +63,21 @@ Ta cần có thêm hằng ngàn bác sĩ, dược sĩ, kỹ sư, giáo sư và c
 
 Trong khuôn khổ và khả năng của tuổi trẻ, ta có thể làm được gì ? Tôi đã nói với em rằng chúng ta phải có can đảm bắt đầu bằng một sự _không chấp nhận_ những khuôn khổ những tiêu chuẩn cũ. Nghĩa là bằng thái độ _không đầu hàng._ Không đầu hàng ở đây có nghĩa là phải chịu hy sinh quyền lợi của mình để dám đi trên những con đường gai góc nhưng hứa hẹn nhiều cho tương lai dân tộc Trước hết em hãy thử quan sát, nghiên cứu và tố cáo những tội ác của sự cấu kẹt bảo vệ quyền lợi của thiểu số những người có bằng cấp. Bằng học tập, thảo luận, báo chí, em nêu lên cho quần chúng thấy ở những khuyết điểm Lớn lao trong chế độ học hành và thi cử hiện tại. Bằng những con số, những tài liệu chính xác, sống động mà em có thể thu lượm được rất dễ dàng, em trình bày cho quần chúng thấy cái lưới thi cử đang bổ chụp xuống đầu thế hệ trẻ tuổi để hạn chế sự tiến thủ của họ, để gây nên bao nhiêu tấn kịch thảm thương giữa họ. Em hãy liên kết với những bạn đồng chí hướng, gần gũi các bậc phụ huynh nào biết lo cho nền giáo dục mới, ủng hộ họ, nâng đỡ tinh thần cho họ. Em sẽ học thật giỏi và từ chối không dự những kỳ thi hiện tại. Em sẽ cổ động cho những tiêu chuẩn mới để xét định giá trị con người. Các tư sở, các trường đại học tư thục sẽ chịu ảnh hưởng phong trào mới, dư luận mới, và cũng sẽ đi tiên phong trong việc áp dụng những tiêu chuẩn mới ấy. Rồi đến các công sở và các trung đại học công lập. Một số những bài báo viết rải rác đó đây không đủ để tạo nên cách mệnh giáo dục. Nhu yếu cách mệnh đường lối học tập và thi cử đã trở nên cấp bách rồi, ai cũng thấy như vậy. Nhưng chỉ có em, chỉ có sự liên kết của tuổi trẻ để vận động, để đòi hỏi, để tự tạo cho mình một thái độ một phương pháp mới có đủ sức giáng những đòn khá nặng trên sự cấu kết vừa ý thức vừa vô ý thức của những phần tử được xã hội ưu đãi. Việc là việc của đa số, của tuổi trẻ, của em. Em hãy biết rũ bỏ, biết khinh thường, biết đứng dậy. _Nổi loạn_ bằng cách ấy đòi hỏi can đảm, kiên nhẫn, hy sinh và thời gian. _Nổi loạn_ bằng cách ấy sẽ đóng góp lớn lao vào công việc giải phóng tuổi trẻ, giải phóng con người. Còn nếu chỉ phá phách đôi chút, biểu lộ thái độ bất mãn, bất cần, hoặc giả chỉ đày đọa thân thể em, tâm hồn em thì em chỉ gây thêm khổ đau cho em và cho tất cả chúng ta, chứ không thay đổi được gì. Những _người lớn_ như chúng tôi sẽ rất sung sướng tiếp tay với các em. Em hãy đứng dậy để cho chúng tôi cùng được đứng dậy.
 
-Đọc [Nói với tuổi hai mươi, chương 01](https://nhavantuonglai.com/article/noi-voi-tuoi-hai-muoi-chuong-01) tại đây.
+Đọc [Nói với tuổi hai mươi, chương 01](/article/noi-voi-tuoi-hai-muoi-chuong-01) tại đây.
 
-Đọc [Nói với tuổi hai mươi, chương 02](https://nhavantuonglai.com/article/noi-voi-tuoi-hai-muoi-chuong-02) tại đây.
+Đọc [Nói với tuổi hai mươi, chương 02](/article/noi-voi-tuoi-hai-muoi-chuong-02) tại đây.
 
-Đọc [Nói với tuổi hai mươi, chương 03](https://nhavantuonglai.com/article/noi-voi-tuoi-hai-muoi-chuong-03) tại đây.
+Đọc [Nói với tuổi hai mươi, chương 03](/article/noi-voi-tuoi-hai-muoi-chuong-03) tại đây.
 
-Đọc [Nói với tuổi hai mươi, chương 04](https://nhavantuonglai.com/article/noi-voi-tuoi-hai-muoi-chuong-04) tại đây.
+Đọc [Nói với tuổi hai mươi, chương 04](/article/noi-voi-tuoi-hai-muoi-chuong-04) tại đây.
 
-Đọc [Nói với tuổi hai mươi, chương 05](https://nhavantuonglai.com/article/noi-voi-tuoi-hai-muoi-chuong-05) tại đây.
+Đọc [Nói với tuổi hai mươi, chương 05](/article/noi-voi-tuoi-hai-muoi-chuong-05) tại đây.
 
-Đọc [Nói với tuổi hai mươi, chương 06](https://nhavantuonglai.com/article/noi-voi-tuoi-hai-muoi-chuong-06) tại đây.
+Đọc [Nói với tuổi hai mươi, chương 06](/article/noi-voi-tuoi-hai-muoi-chuong-06) tại đây.
 
-Đọc [Nói với tuổi hai mươi, chương 07](https://nhavantuonglai.com/article/noi-voi-tuoi-hai-muoi-chuong-07) tại đây.
+Đọc [Nói với tuổi hai mươi, chương 07](/article/noi-voi-tuoi-hai-muoi-chuong-07) tại đây.
 
-Đọc [Nói với tuổi hai mươi, chương 08](https://nhavantuonglai.com/article/noi-voi-tuoi-hai-muoi-chuong-08) tại đây.
+Đọc [Nói với tuổi hai mươi, chương 08](/article/noi-voi-tuoi-hai-muoi-chuong-08) tại đây.
 
 Đọc [Nói với tuổi hai mươi, toàn tập](https://banmaixanh.vercel.app/ebook/noi-voi-tuoi-hai-muoi.pdf) tại đây.
 

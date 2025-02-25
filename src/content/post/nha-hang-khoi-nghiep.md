@@ -42,9 +42,9 @@ Dù rằng, ngành nhà hàng mang tính đặc thù là khó thu hồi vốn b�
 
 ## Tham gia vườn ươm nhà hàng (restaurant incubator)
 
-Nếu kinh nghiệm và vốn hạn chế, hãy tìm hiểu giải pháp vườn ươm nhà hàng. Nghe thì lạ, nhưng giải pháp này không có gì mới, bởi chúng đã xuất hiện từ 1960, và phổ biến dần từ 1980. Vườn ươm nhà hàng cho phép các cá nhân lập nhà hàng của riêng mình với số vốn rất nhỏ. Ngày nay, chúng vận hành tương tự như nhà hàng ảo – đăng ký bán hàng trên các trang [đặt đồ ăn trực tuyến](https://nhavantuonglai.com/article) và chỉ giao bán trực tuyến.
+Nếu kinh nghiệm và vốn hạn chế, hãy tìm hiểu giải pháp vườn ươm nhà hàng. Nghe thì lạ, nhưng giải pháp này không có gì mới, bởi chúng đã xuất hiện từ 1960, và phổ biến dần từ 1980. Vườn ươm nhà hàng cho phép các cá nhân lập nhà hàng của riêng mình với số vốn rất nhỏ. Ngày nay, chúng vận hành tương tự như nhà hàng ảo – đăng ký bán hàng trên các trang [đặt đồ ăn trực tuyến](/article) và chỉ giao bán trực tuyến.
 
-Giải pháp này giúp bạn giải quyết vấn đề [tốn kém nhất khi thành lập nhà hàng](https://nhavantuonglai.com/article): cơ sở vật chất, từ thuê mặt bằng cho đến bài trí không gian, dọn dẹp và vệ quán mỗi ngày. Bán hàng mang đi chỉ cần đồ nhựa, sử dụng một lần nên chi phí cũng tiết kiệm rất đáng kể.
+Giải pháp này giúp bạn giải quyết vấn đề [tốn kém nhất khi thành lập nhà hàng](/article): cơ sở vật chất, từ thuê mặt bằng cho đến bài trí không gian, dọn dẹp và vệ quán mỗi ngày. Bán hàng mang đi chỉ cần đồ nhựa, sử dụng một lần nên chi phí cũng tiết kiệm rất đáng kể.
 
 Rất nhiều nhà hàng, quán ăn đã khởi nghiệp như vậy, bằng cách đem lên Shopee Food, Grad Food… để bán và nhận được sự công nhận về chất lượng của cộng đồng. Chúng là một khởi đầu hợp lý mà bạn có thể hướng theo khi không có vốn để mở nhà hàng.
 

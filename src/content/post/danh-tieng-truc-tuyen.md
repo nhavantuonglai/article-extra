@@ -77,7 +77,7 @@ Khách sạn cần phải xây dựng chiến lược, hình ảnh và danh ti�
 
 Chúng không phải là những khẩu hiệu hay mánh lời, mà là sự phản ánh mọi khía cạnh về thương hiệu, khách sạn của bạn. Đó là lý do tại sao bạn cần phải thống nhất thông điệp, cách thể hiện trong từng bài viết lẫn từng nhân sự. Hãy giáo dục nhân viên của bạn tầm quan trọng của lời nói, cách phục vụ và đảm bảo không có sự cố đáng buồn nào xảy ra.
 
-Khách sạn cũng nên thường xuyên cập nhật hồ sơ, bài viết trên các [kênh bán phòng](https://nhavantuonglai.com/article), mạng xã hội của khách sạn. Việc tích cực đăng bài sẽ thu hút người dùng chủ động tương tác và để lại đánh giá cho khách sạn của bạn. Vai trò của đánh giá, review của khách hàng rất quan trọng vì khiến khách hàng tiềm năng tin tưởng vào trải nghiệm tại khách sạn của bạn hơn.
+Khách sạn cũng nên thường xuyên cập nhật hồ sơ, bài viết trên các [kênh bán phòng](/article), mạng xã hội của khách sạn. Việc tích cực đăng bài sẽ thu hút người dùng chủ động tương tác và để lại đánh giá cho khách sạn của bạn. Vai trò của đánh giá, review của khách hàng rất quan trọng vì khiến khách hàng tiềm năng tin tưởng vào trải nghiệm tại khách sạn của bạn hơn.
 
 Khi bạn không có một chiến lược để tiếp cận và phát triển thị trường, mọi nguồn lực sẽ dần hao tổn và lãng phí, khách hàng không hứng thú và đối thủ vượt lên trên.
 
@@ -85,7 +85,7 @@ Khi bạn không có một chiến lược để tiếp cận và phát triển 
 
 ### Chủ động với các phản ứng
 
-Bạn không thể [quản lý danh tiếng trực tuyến của khách sạn](https://nhavantuonglai.com/article) nếu không biết nó bao gồm những gì, hãy sử dụng các gợi ý và công cụ giám sát để nhận được thông báo mỗi khi có bài viết, thông tin nhắc đến khách sạn của bạn.
+Bạn không thể [quản lý danh tiếng trực tuyến của khách sạn](/article) nếu không biết nó bao gồm những gì, hãy sử dụng các gợi ý và công cụ giám sát để nhận được thông báo mỗi khi có bài viết, thông tin nhắc đến khách sạn của bạn.
 
 Với các phản hồi tiêu cực, đừng xem đó là một bước lùi, mà hãy học hỏi và cải thiện chúng để trải nghiệm cho những lần tiếp theo được tốt và hoàn thiện hơn. Tương tự, cũng hãy sử dụng những đánh giá tích cực làm nổi bật hồ sơ, và minh họa chúng trong các chiến lược Marketing của khách sạn. Kết hợp chúng, sẽ giúp bạn có cái nhìn tổng quan và rõ ràng nhất về trải nghiệm của khách hàng tại khách sạn.
 
@@ -95,7 +95,7 @@ Cũng đừng quên rằng, nếu đã khuyến khích khách hàng đánh giá,
 
 Danh tiếng trực tuyến của khách sạn không chỉ thể hiện qua những gì nhìn thấy trên Google Search, mà còn ở các kênh bán phòng, website, mạng xã hội, blog hay báo chí. Khi quá tập trung vào một kênh nào đó, và lãng quên những kênh còn lại, danh tiếng của khách sạn sẽ không đảm bảo, vì thiếu nhất quán và không đồng đều.
 
-Nếu cảm thấy quá nhiều kênh để làm việc, hãy chọn ra các kênh quan trọng nhất – là những kênh đem lại khách hàng, hoặc doanh thu cho khách sạn để phát triển, nhắm [tối ưu doanh thu cho khách sạn](https://nhavantuonglai.com/article).
+Nếu cảm thấy quá nhiều kênh để làm việc, hãy chọn ra các kênh quan trọng nhất – là những kênh đem lại khách hàng, hoặc doanh thu cho khách sạn để phát triển, nhắm [tối ưu doanh thu cho khách sạn](/article).
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-096.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
@@ -103,7 +103,7 @@ Nếu cảm thấy quá nhiều kênh để làm việc, hãy chọn ra các kê
 
 Khi tìm kiếm trên Google với từ khóa là khách sạn của bạn, những kết quả đầu tiên sẽ là website chính thức và kênh bán phòng cho khách sạn. Điều này giúp khách sạn xếp hạng cao hơn những đánh giá tiêu cực, và đẩy chúng tới chỗ không thường tìm thấy.
 
-Để làm được điều này, hãy lấp đầy website khách sạn bằng những nội dung chất lượng mà khách hàng của bạn quan tâm, và sử dụng thêm các từ khóa được tối ưu nhằm giúp thứ hạng trên kết quả tìm kiếm luôn được cải thiện. Ngoài ra, cũng đảm bảo rằng website có thể tải nhanh chóng và không có bất kỳ vấn đề kỹ thuật nào ảnh hưởng đến trải nghiệm của khách hàng. Bạn có thể tìm hiểu thêm về những [gợi ý nhằm cải thiện hiển thị cho website](https://nhavantuonglai.com/article) trên di động, vì chúng đem lại nhiều lợi ích hơn bạn tưởng.
+Để làm được điều này, hãy lấp đầy website khách sạn bằng những nội dung chất lượng mà khách hàng của bạn quan tâm, và sử dụng thêm các từ khóa được tối ưu nhằm giúp thứ hạng trên kết quả tìm kiếm luôn được cải thiện. Ngoài ra, cũng đảm bảo rằng website có thể tải nhanh chóng và không có bất kỳ vấn đề kỹ thuật nào ảnh hưởng đến trải nghiệm của khách hàng. Bạn có thể tìm hiểu thêm về những [gợi ý nhằm cải thiện hiển thị cho website](/article) trên di động, vì chúng đem lại nhiều lợi ích hơn bạn tưởng.
 
 ## Trở thành người kể chuyện thú vị
 
@@ -117,9 +117,9 @@ Khi bạn nhận được những phản hồi, tích cực lẫn tiêu cực, b
 
 Đầu tiên, hãy phản hồi nhanh và dứt khoát mọi đánh giá. Chúng sẽ dập tắt đám cháy nếu đó là một đánh giá tiêu cực, và khách hàng cảm thấy bạn luôn quan tâm đến trải nghiệm của họ.
 
-Nếu đó là một phản hồi tiêu cực, hãy trả lời bằng thái độ lịch sự, làm rõ vấn đề họ đang gặp phải và đề ra phương án giải quyết theo hướng có lợi cho khách hàng, cũng như [cải thiện vấn đề ấy trong thực tế](https://nhavantuonglai.com/article). Đừng đôi co và cũng đừng im lặng, đôi co khiến khách hàng cảm thấy không được tôn trọng và sẽ không muốn quay trở lại, im lặng sẽ khiến cuộc thảo luận trong đánh giá đó dễ đi theo chiều hướng xấu, bùng lên khủng hoảng mà bạn có kiểm soát.
+Nếu đó là một phản hồi tiêu cực, hãy trả lời bằng thái độ lịch sự, làm rõ vấn đề họ đang gặp phải và đề ra phương án giải quyết theo hướng có lợi cho khách hàng, cũng như [cải thiện vấn đề ấy trong thực tế](/article). Đừng đôi co và cũng đừng im lặng, đôi co khiến khách hàng cảm thấy không được tôn trọng và sẽ không muốn quay trở lại, im lặng sẽ khiến cuộc thảo luận trong đánh giá đó dễ đi theo chiều hướng xấu, bùng lên khủng hoảng mà bạn có kiểm soát.
 
-Nếu đó là một phản hồi tích cực, hãy cảm ơn và [cải thiện chúng để mọi thứ tốt hơn](https://nhavantuonglai.com/article) nữa. Bạn cũng có thể tham khảo những đánh giá tích cực của các khách sạn đối thủ và xem người ta đã làm khách hàng của họ hài lòng như thế nào để học hỏi theo. Những đánh giá tích cực sẽ làm tăng nhận thức về thương hiệu của bạn trong mắt khách hàng, cho nên hãy luôn khuyến khích mọi người chia sẻ chúng.
+Nếu đó là một phản hồi tích cực, hãy cảm ơn và [cải thiện chúng để mọi thứ tốt hơn](/article) nữa. Bạn cũng có thể tham khảo những đánh giá tích cực của các khách sạn đối thủ và xem người ta đã làm khách hàng của họ hài lòng như thế nào để học hỏi theo. Những đánh giá tích cực sẽ làm tăng nhận thức về thương hiệu của bạn trong mắt khách hàng, cho nên hãy luôn khuyến khích mọi người chia sẻ chúng.
 
 Hãy luôn đồng cảm với khách hàng, bởi đó là nguyên tắc vàng để có được danh tiếng trực tuyến tốt. Không ai hoàn hảo, và khi bạn sẽ gặp nhiều khách hàng với nhiều tầng lớp khác nhau, hãy phục vụ họ theo cách tốt nhất mà bạn có. Theo một nghiên cứu, ½ khách hàng tin tưởng và ra quyết định theo lời khuyên của bạn bè – khi họ đã có trải nghiệm thực tế.
 

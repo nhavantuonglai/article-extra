@@ -79,7 +79,7 @@ _Hang Sơn Đoòng_
 
 Hang Sơn Đoòng hiện là hang động tự nhiên lớn nhất thế giới, được hình thành khoảng 2-5 triệu năm trước, có chiều rộng 150 m, cao hơn 200 m, chiều dài gần 9 km. Ước tính dung tích của Hang Sơn Đoòng là 38,5 triệu m3. Các cột nhũ đá của hang cao 14 m. Trong hang còn có dòng sông ngầm dài 2,5 km. Hang có những quần thể san hô và di tích thú hóa thạch. Sơn Đoòng còn có hai _giếng trời,_ là hai nơi có ánh nắng chiếu, tạo điều kiện cho cây cối phát triển như một khu rừng nhiệt đới, một trong đó được gọi là _vườn Edam._
 
-Để đi Sơn Đoòng, du khách cần mua tour, chuẩn bị thể lực, tìm hiểu các quy định an toàn. Thời gian khai thác tour từ cuối tháng 1 đến tháng 8 hàng năm. Thời gian khám phá 5 ngày 4 đêm. Lượng khách trung bình mỗi tour là 10 người. Giá tour hiện là [72 triệu đồng](https://nhavantuonglai.com/article) một người.
+Để đi Sơn Đoòng, du khách cần mua tour, chuẩn bị thể lực, tìm hiểu các quy định an toàn. Thời gian khai thác tour từ cuối tháng 1 đến tháng 8 hàng năm. Thời gian khám phá 5 ngày 4 đêm. Lượng khách trung bình mỗi tour là 10 người. Giá tour hiện là [72 triệu đồng](/article) một người.
 
 _Hang Tú Làn_
 

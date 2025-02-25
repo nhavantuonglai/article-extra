@@ -195,15 +195,15 @@ Hãy nhìn cái cây trước sân. Cái cây không cần phải làm gì cả.
 
 Có những người làm rất nhiều nhưng lại gây nhiều khổ đau cho người khác. Càng cố giúp thì càng làm cho người khác khổ đau cho dù họ có thiện chí tốt. Bởi vì họ không đủ bình an và hạnh phúc. Tốt hơn là đừng nên cố gắng nhiều quá mà chỉ cần ngồi đó, chỉ cần là mình. Tức thì bình an và từ bi có mặt. Trên nền tảng đó, tất cả những gì ta nói, ta làm đều mang lại kết quả tốt đẹp. Nếu ta có khả năng làm cho một ai đó vơi đi nỗi khổ, niềm đau, nếu ta có khả năng làm cho ai đó mỉm cười, ta sẽ thấy ta xứng đáng và hạnh phúc. Thấy mình có ích cho xã hội đó là một nguồn hạnh phúc. Có được con đường và bước đi hạnh phúc trên con đường này, ta không cần phải trở thành một người khác. Ta đã đạt được cái mà ta cần rồi. Nếu ta đặt ra một mục đích phía trước thì ta sẽ chạy suốt đời, và hạnh phúc không bao giờ có được. Hạnh phúc chỉ có được khi ta có khả năng dừng lại, trân quý giây phút hiện tại và trân quý chính bản thân mình. Ta không cần phải trở thành một người khác. Ta đã là một mầu nhiệm của sự sống rồi.
 
-Đọc [Hạnh phúc cầm tay, chương 01](https://nhavantuonglai.com/article/hanh-phuc-cam-tay-chuong-01) tại đây.
+Đọc [Hạnh phúc cầm tay, chương 01](/article/hanh-phuc-cam-tay-chuong-01) tại đây.
 
-Đọc [Hạnh phúc cầm tay, chương 02](https://nhavantuonglai.com/article/hanh-phuc-cam-tay-chuong-02) tại đây.
+Đọc [Hạnh phúc cầm tay, chương 02](/article/hanh-phuc-cam-tay-chuong-02) tại đây.
 
-Đọc [Hạnh phúc cầm tay, chương 03](https://nhavantuonglai.com/article/hanh-phuc-cam-tay-chuong-03) tại đây.
+Đọc [Hạnh phúc cầm tay, chương 03](/article/hanh-phuc-cam-tay-chuong-03) tại đây.
 
-Đọc [Hạnh phúc cầm tay, chương 04](https://nhavantuonglai.com/article/hanh-phuc-cam-tay-chuong-04) tại đây.
+Đọc [Hạnh phúc cầm tay, chương 04](/article/hanh-phuc-cam-tay-chuong-04) tại đây.
 
-Đọc [Hạnh phúc cầm tay, chương 05](https://nhavantuonglai.com/article/hanh-phuc-cam-tay-chuong-05) tại đây.
+Đọc [Hạnh phúc cầm tay, chương 05](/article/hanh-phuc-cam-tay-chuong-05) tại đây.
 
 Đọc [Hạnh phúc cầm tay, toàn tập](https://banmaixanh.vercel.app/ebook/hanh-phuc-cam-tay.pdf) tại đây.
 

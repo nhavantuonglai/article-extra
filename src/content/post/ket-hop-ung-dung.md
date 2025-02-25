@@ -25,7 +25,7 @@ _Vuốt phải để tạo nên những kết nối có thể thay đổi sự n
 
 Vuốt phải. Kết nối. Gặp gỡ qua cà phê hoặc thiết lập một cuộc gọi.
 
-Không, đây không phải là Tinder. Xin giới thiệu Shapr – ứng dụng miễn phí giúp những người có mục tiêu và kỹ năng chuyên nghiệp tương đồng dễ dàng [gặp gỡ và hợp tác](https://nhavantuonglai.com/article/ket-hop-ung-dung).
+Không, đây không phải là Tinder. Xin giới thiệu Shapr – ứng dụng miễn phí giúp những người có mục tiêu và kỹ năng chuyên nghiệp tương đồng dễ dàng [gặp gỡ và hợp tác](/article/ket-hop-ung-dung).
 
 Shapr là một công cụ hoàn toàn miễn phí để xây dựng mạng lưới chuyên nghiệp. Dù bạn muốn mở rộng mạng lưới trong một ngành công nghiệp mới, tìm kiếm đồng sáng lập và nhà đầu tư cho ý tưởng khởi nghiệp, hay đơn giản là muốn trò chuyện với một người mới, Shapr kết nối những chuyên gia cũng đang mong muốn mở rộng mối quan hệ của họ.
 

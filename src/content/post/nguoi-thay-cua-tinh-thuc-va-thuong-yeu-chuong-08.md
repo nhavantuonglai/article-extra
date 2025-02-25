@@ -116,41 +116,41 @@ Bạn có thể vừa là một người giàu có vừa là một người tâm
 
 Nhưng chúng tôi tìm kiếm sự hỗ trợ về tài chính không phải để mua sắm các sản phẩm mới mẻ và hấp dẫn, mà để có thêm chỗ cho thiền sinh ở trong khóa tu và các vị xuất sĩ có thể tham gia với số lượng đông hơn, để xây dựng thiền đường, nơi tu học. Nhưng tất cả những hỗ trợ đó chỉ xảy ra khi sự thực tập tâm linh của chúng tôi mang lại hoa trái, khi đó sẽ có những người bạn xuất hiện hỗ trợ về mặt tài chính. Rất rõ ràng là sự thực tập tâm linh có thể mang đến rất nhiều hạnh phúc, tình thương và sự mãn ý. Và bạn không cần phải có rất nhiều tiền để có hạnh phúc, vì vậy tiền bạc không còn là một vấn đề đáng lo ngại. Nếu có sự yểm trợ về tài chính thì càng có nhiều người được lợi lạc từ sự thực tập. Nếu chúng tôi có sự giới hạn về điều kiện tài chính thì số lượng thiền sinh đến tu học cũng bị giới hạn, tuy nhiên chúng tôi sẽ không hy sinh đời sống tâm linh của mình để tài chính được dồi dào.
 
-Đọc [Người thầy của tỉnh thức và thương yêu, chương 01](https://nhavantuonglai.com/article/nguoi-thay-cua-tinh-thuc-va-thuong-yeu-chuong-01) tại đây.
+Đọc [Người thầy của tỉnh thức và thương yêu, chương 01](/article/nguoi-thay-cua-tinh-thuc-va-thuong-yeu-chuong-01) tại đây.
 
-Đọc [Người thầy của tỉnh thức và thương yêu, chương 02](https://nhavantuonglai.com/article/nguoi-thay-cua-tinh-thuc-va-thuong-yeu-chuong-02) tại đây.
+Đọc [Người thầy của tỉnh thức và thương yêu, chương 02](/article/nguoi-thay-cua-tinh-thuc-va-thuong-yeu-chuong-02) tại đây.
 
-Đọc [Người thầy của tỉnh thức và thương yêu, chương 03](https://nhavantuonglai.com/article/nguoi-thay-cua-tinh-thuc-va-thuong-yeu-chuong-03) tại đây.
+Đọc [Người thầy của tỉnh thức và thương yêu, chương 03](/article/nguoi-thay-cua-tinh-thuc-va-thuong-yeu-chuong-03) tại đây.
 
-Đọc [Người thầy của tỉnh thức và thương yêu, chương 04](https://nhavantuonglai.com/article/nguoi-thay-cua-tinh-thuc-va-thuong-yeu-chuong-04) tại đây.
+Đọc [Người thầy của tỉnh thức và thương yêu, chương 04](/article/nguoi-thay-cua-tinh-thuc-va-thuong-yeu-chuong-04) tại đây.
 
-Đọc [Người thầy của tỉnh thức và thương yêu, chương 05](https://nhavantuonglai.com/article/nguoi-thay-cua-tinh-thuc-va-thuong-yeu-chuong-05) tại đây.
+Đọc [Người thầy của tỉnh thức và thương yêu, chương 05](/article/nguoi-thay-cua-tinh-thuc-va-thuong-yeu-chuong-05) tại đây.
 
-Đọc [Người thầy của tỉnh thức và thương yêu, chương 06](https://nhavantuonglai.com/article/nguoi-thay-cua-tinh-thuc-va-thuong-yeu-chuong-06) tại đây.
+Đọc [Người thầy của tỉnh thức và thương yêu, chương 06](/article/nguoi-thay-cua-tinh-thuc-va-thuong-yeu-chuong-06) tại đây.
 
-Đọc [Người thầy của tỉnh thức và thương yêu, chương 07](https://nhavantuonglai.com/article/nguoi-thay-cua-tinh-thuc-va-thuong-yeu-chuong-07) tại đây.
+Đọc [Người thầy của tỉnh thức và thương yêu, chương 07](/article/nguoi-thay-cua-tinh-thuc-va-thuong-yeu-chuong-07) tại đây.
 
-Đọc [Người thầy của tỉnh thức và thương yêu, chương 09](https://nhavantuonglai.com/article/nguoi-thay-cua-tinh-thuc-va-thuong-yeu-chuong-09) tại đây.
+Đọc [Người thầy của tỉnh thức và thương yêu, chương 09](/article/nguoi-thay-cua-tinh-thuc-va-thuong-yeu-chuong-09) tại đây.
 
-Đọc [Người thầy của tỉnh thức và thương yêu, chương 10](https://nhavantuonglai.com/article/nguoi-thay-cua-tinh-thuc-va-thuong-yeu-chuong-10) tại đây.
+Đọc [Người thầy của tỉnh thức và thương yêu, chương 10](/article/nguoi-thay-cua-tinh-thuc-va-thuong-yeu-chuong-10) tại đây.
 
-Đọc [Người thầy của tỉnh thức và thương yêu, chương 11](https://nhavantuonglai.com/article/nguoi-thay-cua-tinh-thuc-va-thuong-yeu-chuong-11) tại đây.
+Đọc [Người thầy của tỉnh thức và thương yêu, chương 11](/article/nguoi-thay-cua-tinh-thuc-va-thuong-yeu-chuong-11) tại đây.
 
-Đọc [Người thầy của tỉnh thức và thương yêu, chương 12](https://nhavantuonglai.com/article/nguoi-thay-cua-tinh-thuc-va-thuong-yeu-chuong-12) tại đây.
+Đọc [Người thầy của tỉnh thức và thương yêu, chương 12](/article/nguoi-thay-cua-tinh-thuc-va-thuong-yeu-chuong-12) tại đây.
 
-Đọc [Người thầy của tỉnh thức và thương yêu, chương 13](https://nhavantuonglai.com/article/nguoi-thay-cua-tinh-thuc-va-thuong-yeu-chuong-13) tại đây.
+Đọc [Người thầy của tỉnh thức và thương yêu, chương 13](/article/nguoi-thay-cua-tinh-thuc-va-thuong-yeu-chuong-13) tại đây.
 
-Đọc [Người thầy của tỉnh thức và thương yêu, chương 14](https://nhavantuonglai.com/article/nguoi-thay-cua-tinh-thuc-va-thuong-yeu-chuong-14) tại đây.
+Đọc [Người thầy của tỉnh thức và thương yêu, chương 14](/article/nguoi-thay-cua-tinh-thuc-va-thuong-yeu-chuong-14) tại đây.
 
-Đọc [Người thầy của tỉnh thức và thương yêu, chương 15](https://nhavantuonglai.com/article/nguoi-thay-cua-tinh-thuc-va-thuong-yeu-chuong-15) tại đây.
+Đọc [Người thầy của tỉnh thức và thương yêu, chương 15](/article/nguoi-thay-cua-tinh-thuc-va-thuong-yeu-chuong-15) tại đây.
 
-Đọc [Người thầy của tỉnh thức và thương yêu, chương 16](https://nhavantuonglai.com/article/nguoi-thay-cua-tinh-thuc-va-thuong-yeu-chuong-16) tại đây.
+Đọc [Người thầy của tỉnh thức và thương yêu, chương 16](/article/nguoi-thay-cua-tinh-thuc-va-thuong-yeu-chuong-16) tại đây.
 
-Đọc [Người thầy của tỉnh thức và thương yêu, chương 17](https://nhavantuonglai.com/article/nguoi-thay-cua-tinh-thuc-va-thuong-yeu-chuong-17) tại đây.
+Đọc [Người thầy của tỉnh thức và thương yêu, chương 17](/article/nguoi-thay-cua-tinh-thuc-va-thuong-yeu-chuong-17) tại đây.
 
-Đọc [Người thầy của tỉnh thức và thương yêu, chương 18](https://nhavantuonglai.com/article/nguoi-thay-cua-tinh-thuc-va-thuong-yeu-chuong-18) tại đây.
+Đọc [Người thầy của tỉnh thức và thương yêu, chương 18](/article/nguoi-thay-cua-tinh-thuc-va-thuong-yeu-chuong-18) tại đây.
 
-Đọc [Người thầy của tỉnh thức và thương yêu, chương 19](https://nhavantuonglai.com/article/nguoi-thay-cua-tinh-thuc-va-thuong-yeu-chuong-19) tại đây.
+Đọc [Người thầy của tỉnh thức và thương yêu, chương 19](/article/nguoi-thay-cua-tinh-thuc-va-thuong-yeu-chuong-19) tại đây.
 
 Đọc [Người thầy của tỉnh thức và thương yêu, toàn tập](https://banmaixanh.vercel.app/ebook/nguoi-thay-cua-tinh-thuc-va-thuong-yeu.pdf) tại đây.
 

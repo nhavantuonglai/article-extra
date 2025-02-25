@@ -241,15 +241,15 @@ Khi ta bất lực, khi ta không trả lời được bạo động bằng bạ
 
 Trong hai kinh ta vừa học, Bụt có dạy rằng nếu mình biết mình là kẻ thân thương nhất đối với mình thì mình đừng có đối xử như một kẻ thù đối với bản thân mình. Đó là một lời dạy vàng ngọc. Ai cũng coi tự ngã của mình là thân thương nhất của mình, vì vậy mình đừng làm hại tự ngã của người ta. Đừng làm hại mình và làm hại người đó là chủ đích của Bi quán. Bi quán là để làm tiêu tan cái ý chí muốn làm hại mình và làm hại người. Không phải ai cũng muốn làm lợi cho mình đâu, trong chúng ta ai cũng đều có những lực lượng ma quái có khuynh hướng làm hại cho chính bản thân của mình. Đó là những tập khí. Những tập khí ấy đã trở thành ra nặng nề, và ngày nào chúng cũng làm hại mình mà mình không biết. Phương pháp quán chiếu là để thấy được những nhu yếu đích thực và những tập khí kia để mình có thể chấm dứt hành động tự làm hại mình. Khi ta có thể chấm dứt tập khí làm hại ta, thì ta cũng có thể chấm dứt được tập khí làm hại người.
 
-Đọc [Thương yêu theo phương pháp Bụt dạy, chương 01](https://nhavantuonglai.com/article/thuong-yeu-theo-phuong-phap-but-day-chuong-01) tại đây.
+Đọc [Thương yêu theo phương pháp Bụt dạy, chương 01](/article/thuong-yeu-theo-phuong-phap-but-day-chuong-01) tại đây.
 
-Đọc [Thương yêu theo phương pháp Bụt dạy, chương 02](https://nhavantuonglai.com/article/thuong-yeu-theo-phuong-phap-but-day-chuong-02) tại đây.
+Đọc [Thương yêu theo phương pháp Bụt dạy, chương 02](/article/thuong-yeu-theo-phuong-phap-but-day-chuong-02) tại đây.
 
-Đọc [Thương yêu theo phương pháp Bụt dạy, chương 03](https://nhavantuonglai.com/article/thuong-yeu-theo-phuong-phap-but-day-chuong-03) tại đây.
+Đọc [Thương yêu theo phương pháp Bụt dạy, chương 03](/article/thuong-yeu-theo-phuong-phap-but-day-chuong-03) tại đây.
 
-Đọc [Thương yêu theo phương pháp Bụt dạy, chương 04](https://nhavantuonglai.com/article/thuong-yeu-theo-phuong-phap-but-day-chuong-04) tại đây.
+Đọc [Thương yêu theo phương pháp Bụt dạy, chương 04](/article/thuong-yeu-theo-phuong-phap-but-day-chuong-04) tại đây.
 
-Đọc [Thương yêu theo phương pháp Bụt dạy, chương 05](https://nhavantuonglai.com/article/thuong-yeu-theo-phuong-phap-but-day-chuong-05) tại đây.
+Đọc [Thương yêu theo phương pháp Bụt dạy, chương 05](/article/thuong-yeu-theo-phuong-phap-but-day-chuong-05) tại đây.
 
 Đọc [Thương yêu theo phương pháp Bụt dạy, toàn tập](https://banmaixanh.vercel.app/ebook/thuong-yeu-theo-phuong-phap-but-day.pdf) tại đây.
 

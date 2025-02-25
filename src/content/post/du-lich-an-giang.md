@@ -13,7 +13,7 @@ An Giang là tỉnh ở miền Tây Nam Bộ, một phần trong vùng tứ giá
 
 ## An Giang mùa nào đẹp?
 
-Từ tháng 3 đến tháng 5, An Giang trong mùa nắng khô ráo. Nếu muốn ngắm thảm bèo cũng như thế giới tự nhiên xanh mát ở rừng tràm Trà Sư vào [mùa nước nổi](https://nhavantuonglai.com/article), bạn nên đi vào tháng 10 và 11. Cuối tháng 11 đến đầu tháng 12, bạn có thể chiêm ngưỡng những [cánh đồng lúa chín](https://nhavantuonglai.com/article) vào mùa gặt ở Tà Pạ.
+Từ tháng 3 đến tháng 5, An Giang trong mùa nắng khô ráo. Nếu muốn ngắm thảm bèo cũng như thế giới tự nhiên xanh mát ở rừng tràm Trà Sư vào [mùa nước nổi](/article), bạn nên đi vào tháng 10 và 11. Cuối tháng 11 đến đầu tháng 12, bạn có thể chiêm ngưỡng những [cánh đồng lúa chín](/article) vào mùa gặt ở Tà Pạ.
 
 Vào tháng 4 hay tháng 8 âm lịch là thời gian diễn ra hai lễ hội lớn gồm hội bà Chúa Xứ núi Sam (23 – 27/4 âm lịch) và lễ hội đua bò cuối tháng 8. Các tháng 7 – 8 có mưa khá nhiều nên bạn cần mang theo ô và trang phục phù hợp.
 
@@ -81,13 +81,13 @@ Cách Châu Đốc 25 km, hồ nước ngọt Búng Bình Thiên mênh mông, tr
 
 _Làng người Chăm_
 
-[Làng Châu Giang](https://nhavantuonglai.com/article) là nơi người Chăm tập trung sinh sống, cách thành phố Châu Đốc khoảng 10 phút đi phà. Tại đây, du khách hãy đến tham quan các thánh đường Hồi giáo, những ngôi nhà truyền thống và thưởng thức các món ăn độc đáo của người địa phương.
+[Làng Châu Giang](/article) là nơi người Chăm tập trung sinh sống, cách thành phố Châu Đốc khoảng 10 phút đi phà. Tại đây, du khách hãy đến tham quan các thánh đường Hồi giáo, những ngôi nhà truyền thống và thưởng thức các món ăn độc đáo của người địa phương.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/du-lich-an-giang-006.jpg" alt="cam-nang-du-lich-an-giang" height=100% width=100%><figcaption><p>cam-nang-du-lich-an-giang-nhavantuonglai</p></figcaption></figure>
 
 _Cánh đồng Tà Pạ_
 
-Nằm ở huyện Tri Tôn, [cánh đồng Tà Pạ](https://nhavantuonglai.com/article) như một tấm thảm rộng lớn, điểm xuyết những hàng thốt nốt hiên ngang giữa trời xanh. Hồ Tà Pạ – dấu vết còn sót lại của khu vực khai thác đá trên đỉnh đồi mang vẻ đẹp thơ mộng, phẳng lặng như tranh thủy mặc.
+Nằm ở huyện Tri Tôn, [cánh đồng Tà Pạ](/article) như một tấm thảm rộng lớn, điểm xuyết những hàng thốt nốt hiên ngang giữa trời xanh. Hồ Tà Pạ – dấu vết còn sót lại của khu vực khai thác đá trên đỉnh đồi mang vẻ đẹp thơ mộng, phẳng lặng như tranh thủy mặc.
 
 _Thất Sơn_
 
@@ -111,6 +111,6 @@ Vào mùa nước nổi, rau đồng được xem là đặc sản của miền 
 
 ## Mua gì làm quà
 
-Nếu mua đặc sản về làm quà, một số món dễ mang đi là đường thốt nốt, cốm dẹp, [tung lò mò](https://nhavantuonglai.com/article), các loại mắm cá, bánh phồng cá linh, bánh ngọt người Chăm, cà na đập, các món cá khô…
+Nếu mua đặc sản về làm quà, một số món dễ mang đi là đường thốt nốt, cốm dẹp, [tung lò mò](/article), các loại mắm cá, bánh phồng cá linh, bánh ngọt người Chăm, cà na đập, các món cá khô…
 
 <figure><img src="https://banmaixanh.vercel.app/image/cover/001-316.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

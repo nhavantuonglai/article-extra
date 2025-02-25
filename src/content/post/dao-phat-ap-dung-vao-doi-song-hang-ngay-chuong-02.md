@@ -79,19 +79,19 @@ Muốn tham dự bát quan trai giới phải xin ghi tên ở chùa, và hỏi 
 
 Chú Bảy thường đi chùa tham dự bát quan trai mỗi tháng. Tháng rồi chú đã mời được ông Sáu cùng đi. Chú khéo léo lắm mới thuyết phục được ông Sáu vì ông Sáu cứ nghĩ mình bận rộn không thể bỏ việc nhà. Ông Sáu lần đầu tiên tham dự bát quan trai, thấy mình hơi bỡ ngỡ vụng về; nhưng nhờ có chú Bảy bên cạnh nên ông cũng không cảm thấy lạc lõng. Ông Sáu công nhận rằng sống hăm mươi bốn tiếng ở chùa trong tinh thần tự tĩnh, ông đã có dịp suy gẫm về đời sống của mình và của gia đình mình. Ông cảm thấy như được đi nghỉ mát ở một nơi thật xa, tách rời hoàn toàn đời sống bận rộn thường ngày. Ông cũng cảm thấy như mình dừng lại trong một cuộc hành trình lâu ngày. Đứng trên đồi ông nhìn lại quãng đường ông đã đi qua và ông giật mình thấy rằng lâu nay ít khi ông đã nhìn lại bản thân mình, đời sống mình. Ông ít thì giờ hơn chú Bảy, nhưng ông quyết định phải thỉnh thoảng đi tham dự một kỳ bát quan trai như thế.
 
-Đọc [Đạo Phật áp dụng vào đời sống hàng ngày, chương 01](https://nhavantuonglai.com/article/dao-phat-ap-dung-vao-doi-song-hang-ngay-chuong-01) tại đây.
+Đọc [Đạo Phật áp dụng vào đời sống hàng ngày, chương 01](/article/dao-phat-ap-dung-vao-doi-song-hang-ngay-chuong-01) tại đây.
 
-Đọc [Đạo Phật áp dụng vào đời sống hàng ngày, chương 02](https://nhavantuonglai.com/article/dao-phat-ap-dung-vao-doi-song-hang-ngay-chuong-02) tại đây.
+Đọc [Đạo Phật áp dụng vào đời sống hàng ngày, chương 02](/article/dao-phat-ap-dung-vao-doi-song-hang-ngay-chuong-02) tại đây.
 
-Đọc [Đạo Phật áp dụng vào đời sống hàng ngày, chương 03](https://nhavantuonglai.com/article/dao-phat-ap-dung-vao-doi-song-hang-ngay-chuong-03) tại đây.
+Đọc [Đạo Phật áp dụng vào đời sống hàng ngày, chương 03](/article/dao-phat-ap-dung-vao-doi-song-hang-ngay-chuong-03) tại đây.
 
-Đọc [Đạo Phật áp dụng vào đời sống hàng ngày, chương 04](https://nhavantuonglai.com/article/dao-phat-ap-dung-vao-doi-song-hang-ngay-chuong-04) tại đây.
+Đọc [Đạo Phật áp dụng vào đời sống hàng ngày, chương 04](/article/dao-phat-ap-dung-vao-doi-song-hang-ngay-chuong-04) tại đây.
 
-Đọc [Đạo Phật áp dụng vào đời sống hàng ngày, chương 05](https://nhavantuonglai.com/article/dao-phat-ap-dung-vao-doi-song-hang-ngay-chuong-05) tại đây.
+Đọc [Đạo Phật áp dụng vào đời sống hàng ngày, chương 05](/article/dao-phat-ap-dung-vao-doi-song-hang-ngay-chuong-05) tại đây.
 
-Đọc [Đạo Phật áp dụng vào đời sống hàng ngày, chương 06](https://nhavantuonglai.com/article/dao-phat-ap-dung-vao-doi-song-hang-ngay-chuong-06) tại đây.
+Đọc [Đạo Phật áp dụng vào đời sống hàng ngày, chương 06](/article/dao-phat-ap-dung-vao-doi-song-hang-ngay-chuong-06) tại đây.
 
-Đọc [Đạo Phật áp dụng vào đời sống hàng ngày, chương 07](https://nhavantuonglai.com/article/dao-phat-ap-dung-vao-doi-song-hang-ngay-chuong-07) tại đây.
+Đọc [Đạo Phật áp dụng vào đời sống hàng ngày, chương 07](/article/dao-phat-ap-dung-vao-doi-song-hang-ngay-chuong-07) tại đây.
 
 Đọc [Đạo Phật áp dụng vào đời sống hàng ngày, toàn tập](https://banmaixanh.vercel.app/ebook/dao-phat-ap-dung-vao-doi-song-hang-ngay.pdf) tại đây.
 

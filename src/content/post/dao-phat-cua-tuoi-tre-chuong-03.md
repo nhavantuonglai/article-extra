@@ -109,13 +109,13 @@ Người Huynh Trưởng phải biết quá khứ của người đoàn sinh c�
 
 Chúng tôi mong quý vị phụ huynh hiểu rõ để có thể cộng tác với chúng tôi trong việc nhận diện khổ đau và trị liệu cho các em.
 
-Đọc [Đạo Phật của tuổi trẻ, chương 01](https://nhavantuonglai.com/article/dao-phat-cua-tuoi-tre-chuong-01) tại đây.
+Đọc [Đạo Phật của tuổi trẻ, chương 01](/article/dao-phat-cua-tuoi-tre-chuong-01) tại đây.
 
-Đọc [Đạo Phật của tuổi trẻ, chương 02](https://nhavantuonglai.com/article/dao-phat-cua-tuoi-tre-chuong-02) tại đây.
+Đọc [Đạo Phật của tuổi trẻ, chương 02](/article/dao-phat-cua-tuoi-tre-chuong-02) tại đây.
 
-Đọc [Đạo Phật của tuổi trẻ, chương 03](https://nhavantuonglai.com/article/dao-phat-cua-tuoi-tre-chuong-03) tại đây.
+Đọc [Đạo Phật của tuổi trẻ, chương 03](/article/dao-phat-cua-tuoi-tre-chuong-03) tại đây.
 
-Đọc [Đạo Phật của tuổi trẻ, chương 04](https://nhavantuonglai.com/article/dao-phat-cua-tuoi-tre-chuong-04) tại đây.
+Đọc [Đạo Phật của tuổi trẻ, chương 04](/article/dao-phat-cua-tuoi-tre-chuong-04) tại đây.
 
 Đọc [Đạo Phật của tuổi trẻ, toàn tập](https://banmaixanh.vercel.app/ebook/dao-phat-cua-tuoi-tre.pdf) tại đây.
 

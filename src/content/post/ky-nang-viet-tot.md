@@ -69,7 +69,7 @@ Cách viết rõ ràng và cô đọng:
 
 ## Kỹ năng sáng tạo
 
-[Viết lách sáng tạo](https://nhavantuonglai.com/article) là một yếu tố không thể thiếu trong viết lách, đặc biệt là khi viết văn học hoặc các bài viết yêu cầu sự sáng tạo cao. Khả năng sáng tạo giúp bạn tạo ra các ý tưởng mới và hấp dẫn người đọc.
+[Viết lách sáng tạo](/article) là một yếu tố không thể thiếu trong viết lách, đặc biệt là khi viết văn học hoặc các bài viết yêu cầu sự sáng tạo cao. Khả năng sáng tạo giúp bạn tạo ra các ý tưởng mới và hấp dẫn người đọc.
 
 Cách kích thích sáng tạo:
 

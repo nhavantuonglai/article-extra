@@ -18,7 +18,7 @@ _Tiêu bản hoa khô và tiêu bản thực vật khô là những tác phẩm 
 
 ## Bộ dụng cụ tiêu chuẩn làm tiêu bản hoa khô
 
-Để làm [tiêu bản thực vật hoa khô](https://nhavantuonglai.com/article/tieu-ban-thuc-vat-hoa-kho#mua-tieu-ban-thuc-vat-hoa-kho), tiêu bản thực vật khô, bạn cần chuẩn bị một bộ dụng cụ tiêu chuẩn, bao gồm các vật liệu sau:
+Để làm [tiêu bản thực vật hoa khô](/article/tieu-ban-thuc-vat-hoa-kho#mua-tieu-ban-thuc-vat-hoa-kho), tiêu bản thực vật khô, bạn cần chuẩn bị một bộ dụng cụ tiêu chuẩn, bao gồm các vật liệu sau:
 
 – Mẫu tiêu bản: Mẫu vật cần ép tiêu bản có thể là lá cây, hoa khô hoặc các bộ phận thực vật khác. Những mẫu vật này cần được thu hoạch và xử lý đúng quy tắc để giữ được hình dáng và màu sắc tự nhiên.
 
@@ -44,7 +44,7 @@ _Tiêu bản hoa khô và tiêu bản thực vật khô là những tác phẩm 
 
 ## Quy trình làm tiêu bản hoa khô
 
-Quá trình làm [tiêu bản thực vật hoa khô](https://nhavantuonglai.com/article/tieu-ban-thuc-vat-hoa-kho#bao-quan-tieu-ban-thuc-vat-hoa-kho) bao gồm nhiều bước khác nhau, từ việc thu hoạch mẫu vật cho đến xử lý và ép khô. Dưới đây là các bước cụ thể:
+Quá trình làm [tiêu bản thực vật hoa khô](/article/tieu-ban-thuc-vat-hoa-kho#bao-quan-tieu-ban-thuc-vat-hoa-kho) bao gồm nhiều bước khác nhau, từ việc thu hoạch mẫu vật cho đến xử lý và ép khô. Dưới đây là các bước cụ thể:
 
 ### Thu hoạch và chuẩn bị mẫu vật
 
@@ -70,7 +70,7 @@ Dùng dây đai cao su để buộc chặt các lớp với nhau. Đảm bảo d
 
 ### Bảo quản mẫu tiêu bản
 
-Sau khi ép khô, đặt mẫu [tiêu bản thực vật hoa khô](https://nhavantuonglai.com/article/tieu-ban-thuc-vat-hoa-kho#cach-lam-tieu-ban-thuc-vat-hoa-kho) vào túi zip cùng với hạt hút ẩm. Hạt hút ẩm sẽ giúp duy trì độ khô và bảo quản mẫu vật lâu dài.
+Sau khi ép khô, đặt mẫu [tiêu bản thực vật hoa khô](/article/tieu-ban-thuc-vat-hoa-kho#cach-lam-tieu-ban-thuc-vat-hoa-kho) vào túi zip cùng với hạt hút ẩm. Hạt hút ẩm sẽ giúp duy trì độ khô và bảo quản mẫu vật lâu dài.
 
 Để mẫu tiêu bản ở nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp và độ ẩm cao.
 
@@ -98,7 +98,7 @@ Sau khi ép khô, đặt mẫu [tiêu bản thực vật hoa khô](https://nhava
 
 ## Ứng dụng và giá trị của tiêu bản hoa khô
 
-[Tiêu bản thực vật hoa khô](https://nhavantuonglai.com/article/tieu-ban-thuc-vat-hoa-kho) không chỉ là một phương pháp bảo quản và trưng bày hoa mà còn có nhiều ứng dụng và giá trị trong cuộc sống:
+[Tiêu bản thực vật hoa khô](/article/tieu-ban-thuc-vat-hoa-kho) không chỉ là một phương pháp bảo quản và trưng bày hoa mà còn có nhiều ứng dụng và giá trị trong cuộc sống:
 
 – Giáo dục và nghiên cứu: Tiêu bản hoa khô là công cụ hữu ích cho các nhà nghiên cứu và giáo viên trong việc giảng dạy về thực vật học, giúp học sinh và sinh viên có cái nhìn trực quan và sinh động về các loài thực vật.
 
@@ -116,6 +116,6 @@ Sau khi ép khô, đặt mẫu [tiêu bản thực vật hoa khô](https://nhava
 
 ## Kết luận
 
-Làm [tiêu bản thực vật hoa khô](https://nhavantuonglai.com/article/tieu-ban-thuc-vat-hoa-kho#cach-lam-tieu-ban-la-cay) là một quy trình đòi hỏi sự tỉ mỉ và kỹ thuật cao, nhưng mang lại nhiều giá trị trong nghiên cứu, nghệ thuật và bảo tồn. Bằng việc chuẩn bị đầy đủ các dụng cụ cần thiết và thực hiện đúng quy trình, bạn có thể tạo ra những tiêu bản hoa khô đẹp mắt và bền vững. Những tiêu bản này không chỉ là những tác phẩm nghệ thuật mà còn là bằng chứng sinh học quý giá, giúp chúng ta hiểu rõ hơn về thế giới thực vật xung quanh.
+Làm [tiêu bản thực vật hoa khô](/article/tieu-ban-thuc-vat-hoa-kho#cach-lam-tieu-ban-la-cay) là một quy trình đòi hỏi sự tỉ mỉ và kỹ thuật cao, nhưng mang lại nhiều giá trị trong nghiên cứu, nghệ thuật và bảo tồn. Bằng việc chuẩn bị đầy đủ các dụng cụ cần thiết và thực hiện đúng quy trình, bạn có thể tạo ra những tiêu bản hoa khô đẹp mắt và bền vững. Những tiêu bản này không chỉ là những tác phẩm nghệ thuật mà còn là bằng chứng sinh học quý giá, giúp chúng ta hiểu rõ hơn về thế giới thực vật xung quanh.
 
 <figure><img src="https://banmaixanh.vercel.app/image/cover/001-502.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

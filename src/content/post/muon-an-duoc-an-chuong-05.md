@@ -245,19 +245,19 @@ Phong trào hòa bình có khả năng sử dụng ngôn ngữ hòa ái để di
 
 Tôi hy vọng chúng ta có thể mang một đường hướng mới đến cho hòa bình. Nếu phong trào hòa bình chứa đầy hận thù và giận dữ thì ta không thể hoàn thành sứ mạng như ta mong đợi. Vì vậy chúng ta cần phải làm tươi mới lại sự bình an của chúng ta, cũng như làm tươi mới lại cách thức mà chúng ta muốn đóng góp cho con đường hòa bình. Điều quan trọng là chúng ta phải thiền tập để có khả năng nhìn nhận vấn đề một cách sáng suốt và hiểu rõ chúng. Chúng ta có thể đóng góp cho phong trào hòa bình bằng cách nhìn nhận vấn đề của chúng ta, làm thế nào để có thể xóa bỏ hận thù và xung đột. Vì thế công tác hòa bình trước hết là làm sao cho tự thân có được an lạc. Thiền tập là cho tất cả chúng ta. Chúng ta nương vào nhau mà sống, mà tồn tại. Chúng ta nương vào con cái để được tiếp nối và con cái chúng ta nương vào chúng ta để có tương lai.
 
-Đọc [Muốn an được an, chương 01](https://nhavantuonglai.com/article/muon-an-duoc-an-chuong-01) tại đây.
+Đọc [Muốn an được an, chương 01](/article/muon-an-duoc-an-chuong-01) tại đây.
 
-Đọc [Muốn an được an, chương 02](https://nhavantuonglai.com/article/muon-an-duoc-an-chuong-02) tại đây.
+Đọc [Muốn an được an, chương 02](/article/muon-an-duoc-an-chuong-02) tại đây.
 
-Đọc [Muốn an được an, chương 03](https://nhavantuonglai.com/article/muon-an-duoc-an-chuong-03) tại đây.
+Đọc [Muốn an được an, chương 03](/article/muon-an-duoc-an-chuong-03) tại đây.
 
-Đọc [Muốn an được an, chương 04](https://nhavantuonglai.com/article/muon-an-duoc-an-chuong-04) tại đây.
+Đọc [Muốn an được an, chương 04](/article/muon-an-duoc-an-chuong-04) tại đây.
 
-Đọc [Muốn an được an, chương 05](https://nhavantuonglai.com/article/muon-an-duoc-an-chuong-05) tại đây.
+Đọc [Muốn an được an, chương 05](/article/muon-an-duoc-an-chuong-05) tại đây.
 
-Đọc [Muốn an được an, chương 06](https://nhavantuonglai.com/article/muon-an-duoc-an-chuong-06) tại đây.
+Đọc [Muốn an được an, chương 06](/article/muon-an-duoc-an-chuong-06) tại đây.
 
-Đọc [Muốn an được an, chương 07](https://nhavantuonglai.com/article/muon-an-duoc-an-chuong-07) tại đây.
+Đọc [Muốn an được an, chương 07](/article/muon-an-duoc-an-chuong-07) tại đây.
 
 Đọc [Muốn an được an, toàn tập](https://banmaixanh.vercel.app/ebook/muon-an-duoc-an.pdf) tại đây.
 

@@ -19,7 +19,7 @@ _Nhân viên bảo trì khách sạn đảm bảo mọi trang thiết bị, cơ 
 
 ## Bảo trì khách sạn là gì ?
 
-[Bảo trì khách sạn](https://nhavantuonglai.com/article) là các tiêu chuẩn quản lý, phòng ngừa và khắc phục rủi ro từ trang thiết bị, cơ sở vật chất trong khách sạn gây ra, ảnh hưởng trực tiếp đến quá trình trải nghiệm của du khách khi đặt phòng tại khách sạn. Bảo trì khách sạn nhằm đảm bảo [trải nghiệm du khách](https://nhavantuonglai.com/article) không bị phá hỏng, gặp vấn đề cả từ chủ quan lẫn khách quan; đồng thời, bảo trì khách sạn cũng đảm bảo mọi hệ thống cơ sở vật chất, trang thiết bị trong khách sạn vận hành đúng công năng, ổn định không trục trặc. Tổng quan lại, bảo trì khách sạn nhằm đảm bảo mọi thứ trong khách sạn hoạt động đúng như chúng được mô tả, và phòng ngừa rủi ro, giảm thiểu điều ấy xảy ra.
+[Bảo trì khách sạn](/article) là các tiêu chuẩn quản lý, phòng ngừa và khắc phục rủi ro từ trang thiết bị, cơ sở vật chất trong khách sạn gây ra, ảnh hưởng trực tiếp đến quá trình trải nghiệm của du khách khi đặt phòng tại khách sạn. Bảo trì khách sạn nhằm đảm bảo [trải nghiệm du khách](/article) không bị phá hỏng, gặp vấn đề cả từ chủ quan lẫn khách quan; đồng thời, bảo trì khách sạn cũng đảm bảo mọi hệ thống cơ sở vật chất, trang thiết bị trong khách sạn vận hành đúng công năng, ổn định không trục trặc. Tổng quan lại, bảo trì khách sạn nhằm đảm bảo mọi thứ trong khách sạn hoạt động đúng như chúng được mô tả, và phòng ngừa rủi ro, giảm thiểu điều ấy xảy ra.
 
 Nhân viên bảo trì là nhân sự phụ trách việc bảo trì, quản lý rủi ro của một hoặc nhiều hạng mục cơ sở vật chất, trang thiết bị cụ thể trong khách sạn, ví dụ nhân viên bảo trì điện, nước hoặc cáp mạng… Ngoài ra, tùy quy mô của khách sạn mà có thể có thêm là: bảo trì thang máy, điều hòa, bể bơi…
 
@@ -78,7 +78,7 @@ Nếu khách sạn chưa có kinh nghiệm, chưa biết phải nên bắt đầ
 
 ### Đầu tư sử dụng hệ thống bảo trì khách sạn
 
-Giải pháp đầu tiên và thiết thực nhất là sử dụng [phần mềm quản lý khách sạn](https://nhavantuonglai.com/article), giúp tối ưu hiệu suất bảo trì khách sạn hiệu quả hơn. Trên thực tế, phần mềm quản lý khách sạn sẽ quản lý nhiều khía cạnh trong khách sạn, và một trong những khía cạnh quản lý của chúng là bảo trì khách sạn. Phần mềm sẽ nhận phản hồi từ khách đặt phòng về những vấn đề họ cảm thấy, để lên lịch cập nhật cho phù hợp.
+Giải pháp đầu tiên và thiết thực nhất là sử dụng [phần mềm quản lý khách sạn](/article), giúp tối ưu hiệu suất bảo trì khách sạn hiệu quả hơn. Trên thực tế, phần mềm quản lý khách sạn sẽ quản lý nhiều khía cạnh trong khách sạn, và một trong những khía cạnh quản lý của chúng là bảo trì khách sạn. Phần mềm sẽ nhận phản hồi từ khách đặt phòng về những vấn đề họ cảm thấy, để lên lịch cập nhật cho phù hợp.
 
 Bên cạnh sử dụng chung với phần mềm quản lý khách sạn, bạn cũng có thể cân nhắc việc dùng các phần mềm độc lập, chuyên biệt cho việc bảo trì khách sạn. Lựa chọn này phù hợp nhất là khi bạn cần quản lý bảo trì khách sạn một cách chuyên nghiệp, đi sâu vào từng hệ thống và vấn đề của riêng từng thiết bị.
 

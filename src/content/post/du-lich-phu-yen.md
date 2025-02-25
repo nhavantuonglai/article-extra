@@ -25,41 +25,41 @@ Các hãng hàng không Vietnam Airlines, Bamboo Airways, VietJet Air đều có
 
 Tàu hỏa có giá vé từ 400.000 đến 1.000.000 đồng tùy loại chỗ ngồi và nơi xuất phát. Nếu đi xe ôtô giường nằm từ Thành phố Hồ Chí Minh, bạn xuất phát từ bến xe miền Đông, bắt chuyến 17h hoặc 18h tối để đến Phú Yên vào sáng sớm. Giá vé xe khứ hồi là 540.000 đồng một người.
 
-Nhiều du khách chọn thuê xe [ôtô tự lái](https://nhavantuonglai.com/article) hay xe máy trong hành trình kết hợp du lịch Phú Yên và Quy Nhơn, thuê xe một điểm và trả ở điểm còn lại. Khoảng cách hai nơi này khoảng 90 km.
+Nhiều du khách chọn thuê xe [ôtô tự lái](/article) hay xe máy trong hành trình kết hợp du lịch Phú Yên và Quy Nhơn, thuê xe một điểm và trả ở điểm còn lại. Khoảng cách hai nơi này khoảng 90 km.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/du-lich-phu-yen-495.jpg" alt="cam-nang-du-lich-phu-yen" height=100% width=100%><figcaption><p>cam-nang-du-lich-phu-yen-nhavantuonglai</p></figcaption></figure>
 
 ## Khách sạn
 
-Phú Yên nói chung và Tuy Hòa nói riêng còn ít resort, khách sạn cao cấp. Khách sạn và nhà nghỉ bình dân trong thành phố giá trung bình 150.000 đến 300.000 đồng một đêm. Một số khu nghỉ sang trọng có Rosa Alba Resort, Sala Grand Tuy Hoa Hotel, Saigon Phu Yen Hotel… giá phòng từ 700.000 đến 5.000.000 đồng một đêm. Xa trung tâm hơn có [Zannier Hotels Bãi San Hô](https://nhavantuonglai.com/article) ở thị xã sông Cầu, giá từ 10.000.000 đồng một đêm.
+Phú Yên nói chung và Tuy Hòa nói riêng còn ít resort, khách sạn cao cấp. Khách sạn và nhà nghỉ bình dân trong thành phố giá trung bình 150.000 đến 300.000 đồng một đêm. Một số khu nghỉ sang trọng có Rosa Alba Resort, Sala Grand Tuy Hoa Hotel, Saigon Phu Yen Hotel… giá phòng từ 700.000 đến 5.000.000 đồng một đêm. Xa trung tâm hơn có [Zannier Hotels Bãi San Hô](/article) ở thị xã sông Cầu, giá từ 10.000.000 đồng một đêm.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/du-lich-phu-yen-496.jpg" alt="cam-nang-du-lich-phu-yen" height=100% width=100%><figcaption><p>cam-nang-du-lich-phu-yen-nhavantuonglai</p></figcaption></figure>
 
 ## Chơi đâu
 
-Bốn ngày là đủ để bạn tham quan các điểm du lịch của _[xứ hoa vàng cỏ xanh](https://nhavantuonglai.com/article)._ Từ Tuy Hòa, bạn có thể lên lịch trình theo hướng phía nam và phía bắc. Nếu không dư dả thời gian, bạn có thể dành ra [hai ngày](https://nhavantuonglai.com/article).
+Bốn ngày là đủ để bạn tham quan các điểm du lịch của _[xứ hoa vàng cỏ xanh](/article)._ Từ Tuy Hòa, bạn có thể lên lịch trình theo hướng phía nam và phía bắc. Nếu không dư dả thời gian, bạn có thể dành ra [hai ngày](/article).
 
 Gành Đá Đĩa
 
-Đây là một trong những thắng cảnh nổi tiếng nhất của Phú Yên. Nhìn xa [Gành Đá Đĩa](https://nhavantuonglai.com/article) giống một tổ ong khổng lồ với những khối trụ vuông vức xếp liền nhau vươn mình ra biển. Bãi đá được ví như hàng nghìn viên ngọc đen nổi bật giữa biển xanh và sóng trắng. Bạn còn bắt gặp những chiếc thuyền thúng của ngư dân neo đậu thấp thoáng tạo nên sự hài hòa, yên ả cho bức tranh miền biển nên thơ.
+Đây là một trong những thắng cảnh nổi tiếng nhất của Phú Yên. Nhìn xa [Gành Đá Đĩa](/article) giống một tổ ong khổng lồ với những khối trụ vuông vức xếp liền nhau vươn mình ra biển. Bãi đá được ví như hàng nghìn viên ngọc đen nổi bật giữa biển xanh và sóng trắng. Bạn còn bắt gặp những chiếc thuyền thúng của ngư dân neo đậu thấp thoáng tạo nên sự hài hòa, yên ả cho bức tranh miền biển nên thơ.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/du-lich-phu-yen-497.jpg" alt="cam-nang-du-lich-phu-yen" height=100% width=100%><figcaption><p>cam-nang-du-lich-phu-yen-nhavantuonglai</p></figcaption></figure>
 
 Gành Đèn
 
-Điểm tham quan nằm cách Gành Đá Đĩa khoảng 1 km về phía bắc, thuộc xã An Ninh Đông, huyện Tuy An. [Ngọn hải đăng Gành Đèn](https://nhavantuonglai.com/article) có hai màu đỏ, trắng, có độ cao 22 m so với mực nước biển, phát nguồn sáng cho tàu thuyền ra, vào vịnh Xuân Đài. Đứng trên Gành Đèn có thể quan sát vùng biển mênh mông phía đông và cảnh tàu thuyền đánh cá.
+Điểm tham quan nằm cách Gành Đá Đĩa khoảng 1 km về phía bắc, thuộc xã An Ninh Đông, huyện Tuy An. [Ngọn hải đăng Gành Đèn](/article) có hai màu đỏ, trắng, có độ cao 22 m so với mực nước biển, phát nguồn sáng cho tàu thuyền ra, vào vịnh Xuân Đài. Đứng trên Gành Đèn có thể quan sát vùng biển mênh mông phía đông và cảnh tàu thuyền đánh cá.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/du-lich-phu-yen-498.jpg" alt="cam-nang-du-lich-phu-yen" height=100% width=100%><figcaption><p>cam-nang-du-lich-phu-yen-nhavantuonglai</p></figcaption></figure>
 
 Bãi Xép
 
-[Bãi Xép](https://nhavantuonglai.com/article) là nơi bạn có thể đứng chênh vênh trên vách núi cao và ngắm nhìn màu biển xanh ngọc bích bên dưới. Bãi Xép thuộc xã An Chấn, Thành phố Tuy Hòa, có bờ biển dài khoảng 500 m và sở hữu bãi cát vàng, rừng phi lao chạy dài bát ngát cùng những vách đá chênh vênh mọc đầy xương rồng. Nơi này chính là bối cảnh quay bộ phim _[Tôi thấy hoa vàng trên cỏ xanh](https://nhavantuonglai.com/article)_ nổi tiếng.
+[Bãi Xép](/article) là nơi bạn có thể đứng chênh vênh trên vách núi cao và ngắm nhìn màu biển xanh ngọc bích bên dưới. Bãi Xép thuộc xã An Chấn, Thành phố Tuy Hòa, có bờ biển dài khoảng 500 m và sở hữu bãi cát vàng, rừng phi lao chạy dài bát ngát cùng những vách đá chênh vênh mọc đầy xương rồng. Nơi này chính là bối cảnh quay bộ phim _[Tôi thấy hoa vàng trên cỏ xanh](/article)_ nổi tiếng.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/du-lich-phu-yen-499.jpg" alt="cam-nang-du-lich-phu-yen" height=100% width=100%><figcaption><p>cam-nang-du-lich-phu-yen-nhavantuonglai</p></figcaption></figure>
 
 Mũi Điện
 
-[Đại Lãnh](https://nhavantuonglai.com/article) hay Mũi Điện có những triền cát rất đẹp. Men theo đường mòn bạn có thể lên ngọn hải đăng Đại Lãnh, từ đây phóng tầm mắt ôm trọn cảnh biển bao la, nhìn những con tàu ngược xuôi trên biển. Đây chính là nơi nhìn thấy bình minh sớm nhất ở Việt Nam. Ngọn hải đăng này có tuổi đời lên tới 100 năm và vẫn còn hoạt động. Phí tham quan khoảng 10.000 đồng một người.
+[Đại Lãnh](/article) hay Mũi Điện có những triền cát rất đẹp. Men theo đường mòn bạn có thể lên ngọn hải đăng Đại Lãnh, từ đây phóng tầm mắt ôm trọn cảnh biển bao la, nhìn những con tàu ngược xuôi trên biển. Đây chính là nơi nhìn thấy bình minh sớm nhất ở Việt Nam. Ngọn hải đăng này có tuổi đời lên tới 100 năm và vẫn còn hoạt động. Phí tham quan khoảng 10.000 đồng một người.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/du-lich-phu-yen-501.jpg" alt="cam-nang-du-lich-phu-yen" height=100% width=100%><figcaption><p>cam-nang-du-lich-phu-yen-nhavantuonglai</p></figcaption></figure>
 
@@ -69,13 +69,13 @@ Trên đường trở về Tuy Hòa, bạn có thể dừng lại ngắm vịnh 
 
 Bãi rêu Xóm Rớ
 
-[Bãi rêu Xóm Rớ](https://nhavantuonglai.com/article) thuộc phường Phú Đông, thành phố Tuy Hòa, tỉnh Phú Yên. Với những tảng đá bê tông thô kệch nằm chìm dưới nước biển nay mọc lên từng đám rêu xanh đã hút hồn du khách và các bạn trẻ. Màu rêu xanh ngắt bám chặt vào đá, và càng đẹp hơn khi từng con sóng vỗ vào bờ hòa quyện thêm màu ánh bạc của nước biển. Du khách đừng quên ghi lại những khoảnh khắc có một không hai này.
+[Bãi rêu Xóm Rớ](/article) thuộc phường Phú Đông, thành phố Tuy Hòa, tỉnh Phú Yên. Với những tảng đá bê tông thô kệch nằm chìm dưới nước biển nay mọc lên từng đám rêu xanh đã hút hồn du khách và các bạn trẻ. Màu rêu xanh ngắt bám chặt vào đá, và càng đẹp hơn khi từng con sóng vỗ vào bờ hòa quyện thêm màu ánh bạc của nước biển. Du khách đừng quên ghi lại những khoảnh khắc có một không hai này.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/du-lich-phu-yen-501.jpg" alt="cam-nang-du-lich-phu-yen" height=100% width=100%><figcaption><p>cam-nang-du-lich-phu-yen-nhavantuonglai</p></figcaption></figure>
 
 Núi Nhạn
 
-Đây là ngọn núi cao khoảng 60 m so với mặt nước biển, nhìn từ xa trông như con chim nhạn đang sải cánh bay. Trên núi có ngôi [tháp cổ](https://nhavantuonglai.com/article) 800 tuổi được xây dựng theo kiến trúc nghệ thuật của người Chăm. Đứng từ đỉnh, bạn có thể phóng tầm nhìn bao quát toàn cảnh thành phố Tuy Hòa, chiêm ngưỡng vẻ đẹp của những mảng xanh của biển, cây cỏ và nhà cửa.
+Đây là ngọn núi cao khoảng 60 m so với mặt nước biển, nhìn từ xa trông như con chim nhạn đang sải cánh bay. Trên núi có ngôi [tháp cổ](/article) 800 tuổi được xây dựng theo kiến trúc nghệ thuật của người Chăm. Đứng từ đỉnh, bạn có thể phóng tầm nhìn bao quát toàn cảnh thành phố Tuy Hòa, chiêm ngưỡng vẻ đẹp của những mảng xanh của biển, cây cỏ và nhà cửa.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/du-lich-phu-yen-514.jpg" alt="cam-nang-du-lich-phu-yen" height=100% width=100%><figcaption><p>cam-nang-du-lich-phu-yen-nhavantuonglai</p></figcaption></figure>
 
@@ -83,7 +83,7 @@ Nhà thờ Mằng Lăng
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/du-lich-phu-yen-502.jpg" alt="cam-nang-du-lich-phu-yen" height=100% width=100%><figcaption><p>cam-nang-du-lich-phu-yen-nhavantuonglai</p></figcaption></figure>
 
-Đây là một trong những nhà thờ cổ lâu đời nhất ở Việt Nam, tọa lạc bên bờ sông Kỳ Lộ. [Nhà thờ Mằng Lăng](https://nhavantuonglai.com/article) được xây dựng theo kiến trúc Gothic với những hoa văn trang trí cổ điển và sắc xanh xám chủ đạo.
+Đây là một trong những nhà thờ cổ lâu đời nhất ở Việt Nam, tọa lạc bên bờ sông Kỳ Lộ. [Nhà thờ Mằng Lăng](/article) được xây dựng theo kiến trúc Gothic với những hoa văn trang trí cổ điển và sắc xanh xám chủ đạo.
 
 Đây là nơi lưu giữ quyển sách Tiếng Việt đầu tiên được in bằng chữ Quốc ngữ do linh mục Alexandre de Rhodes biên soạn.
 
@@ -95,7 +95,7 @@ Là di tích danh thắng cấp quốc gia được công nhận năm 1996, đ�
 
 Cầu Ông Cọp
 
-Cầu gỗ Miếu Ông Cọp (hay tên khác là cầu Ông Cọp, Bình Thạnh, Tuy An) Đây là cây cầu gỗ dài nhất Việt Nam. Ngoài là điểm tham quan, [cầu Ông Cọp](https://nhavantuonglai.com/article) còn là lối đi tắt dẫn đến các thắng cảnh nổi tiếng ở Phú Yên như Gành Đá Đĩa, đầm Ô Loan, nhà thờ Mằng Lăng, đập Tam Giang…
+Cầu gỗ Miếu Ông Cọp (hay tên khác là cầu Ông Cọp, Bình Thạnh, Tuy An) Đây là cây cầu gỗ dài nhất Việt Nam. Ngoài là điểm tham quan, [cầu Ông Cọp](/article) còn là lối đi tắt dẫn đến các thắng cảnh nổi tiếng ở Phú Yên như Gành Đá Đĩa, đầm Ô Loan, nhà thờ Mằng Lăng, đập Tam Giang…
 
 Nằm cách Quốc lộ 1 chưa đến trăm mét – đoạn gần dốc Vườn Xoài, cầu bắc qua sông Bình Bá (có bản đồ ghi là sông Phú Ngân). Cầu nối liền các thôn phía bắc xã An Ninh Tây, huyện Tuy An với phường Xuân Đài, thị xã Sông Cầu.
 
@@ -105,7 +105,7 @@ Quảng trường Nghinh Phong
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/du-lich-phu-yen-505.jpg" alt="cam-nang-du-lich-phu-yen" height=100% width=100%><figcaption><p>cam-nang-du-lich-phu-yen-nhavantuonglai</p></figcaption></figure>
 
-Quảng trường nằm ở ngã ba đường Nguyễn Hữu Thọ và Độc Lập, Thành phố Tuy Hòa, nổi bật với công trình [tháp đôi Nghinh Phong](https://nhavantuonglai.com/article) giữa một bên là biển xanh một bên là đường thẳng tắp. Kiến trúc độc đáo của tòa tháp lấy ý tưởng từ Gành Đá Đĩa – biểu tượng của du lịch Phú Yên và truyền thuyết _Con Rồng Cháu Tiên._
+Quảng trường nằm ở ngã ba đường Nguyễn Hữu Thọ và Độc Lập, Thành phố Tuy Hòa, nổi bật với công trình [tháp đôi Nghinh Phong](/article) giữa một bên là biển xanh một bên là đường thẳng tắp. Kiến trúc độc đáo của tòa tháp lấy ý tưởng từ Gành Đá Đĩa – biểu tượng của du lịch Phú Yên và truyền thuyết _Con Rồng Cháu Tiên._
 
 Tháp gồm 2 bên với mỗi bên là 50 khối đá xếp liền kề, chính giữa hai khối đá cao nhất là khe gió chỉ đủ hai người đứng nhưng mỗi khi gió lùa qua sẽ tạo nên âm thanh như nhạc. Các khối đá được xây bằng bê tông cốt thép, bên ngoài ốp đá granite.
 
@@ -113,7 +113,7 @@ Bên cạnh tháp đôi du khách có thể tham quan, chụp hình ở khu vự
 
 Hòn Yến
 
-Cách Thành phố Tuy Hòa hơn 20 km, [Hòn Yến](https://nhavantuonglai.com/article) thuộc thôn Nhơn Hội, huyện Tuy An là điểm check-in yêu thích không chỉ của khách du lịch mà cả giới nhiếp ảnh nhờ có những rạn san hô trên cạn nhiều màu sắc và hình thù.
+Cách Thành phố Tuy Hòa hơn 20 km, [Hòn Yến](/article) thuộc thôn Nhơn Hội, huyện Tuy An là điểm check-in yêu thích không chỉ của khách du lịch mà cả giới nhiếp ảnh nhờ có những rạn san hô trên cạn nhiều màu sắc và hình thù.
 
 Du khách không phải đi tàu ra giữa biển mà chỉ cần thủy triều rút là có thể ngắm san hô. Theo dân địa phương, thủy triều chỉ cạn vào buổi chiều những ngày đầu tháng, hoặc giữa tháng âm lịch. Mỗi đợt nước xuống thường dài 2-3 ngày, lộ ra những lớp đá gai góc chồng chất và bãi cát vàng thơ mộng.
 
@@ -125,13 +125,13 @@ Nếu có thời gian lặn xa, du khách còn được chiêm ngưỡng thêm c
 
 Nhất Tự Sơn
 
-[Nhất Tự Sơn](https://nhavantuonglai.com/article) là một trong những hòn đảo đẹp nhất của vịnh Xuân Đài, thuộc địa bàn xã Xuân Thọ 1, thị xã Sông Cầu. Tính theo quốc lộ 1A, hòn đảo này nằm phía bắc tỉnh Phú Yên, cách trung tâm thành phố Tuy Hòa chừng 50 km. Điều độc đáo của Nhất Tự Sơn là con đường vượt biển ra đảo, nằm chìm dưới làn nước và chỉ hé lộ ra theo dòng thủy triều rút xuống, tạo nên một cảnh quan ngoạn mục đầy kích thích đối với du khách.
+[Nhất Tự Sơn](/article) là một trong những hòn đảo đẹp nhất của vịnh Xuân Đài, thuộc địa bàn xã Xuân Thọ 1, thị xã Sông Cầu. Tính theo quốc lộ 1A, hòn đảo này nằm phía bắc tỉnh Phú Yên, cách trung tâm thành phố Tuy Hòa chừng 50 km. Điều độc đáo của Nhất Tự Sơn là con đường vượt biển ra đảo, nằm chìm dưới làn nước và chỉ hé lộ ra theo dòng thủy triều rút xuống, tạo nên một cảnh quan ngoạn mục đầy kích thích đối với du khách.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/du-lich-phu-yen-508.jpg" alt="cam-nang-du-lich-phu-yen" height=100% width=100%><figcaption><p>cam-nang-du-lich-phu-yen-nhavantuonglai</p></figcaption></figure>
 
 Thác Vực Hòm
 
-[Thác Vực Hòm](https://nhavantuonglai.com/article) nằm ở thôn Vĩnh Xuân, xã An Lĩnh, huyện Tuy An, cách Thành phố Tuy Hòa khoảng 45 km. Đây là thác nước nằm giữa những cột đá bazan được thiên nhiên tạo thành theo cách tương tự như Gành Đá Đĩa của Phú Yên nên còn được mệnh danh là _Gành đá đĩa trên cạn._ Cung đường đến đây không dễ nhưng khi cán đích du khách sẽ phải choáng ngợp vì phong cảnh hùng vĩ của thác nước tự nhiên đổ từ trên độ cao 20 m xuống. Dưới chân thác là hồ nước rộng, mát lạnh, bao quanh là các tán cây rừng xanh mát.
+[Thác Vực Hòm](/article) nằm ở thôn Vĩnh Xuân, xã An Lĩnh, huyện Tuy An, cách Thành phố Tuy Hòa khoảng 45 km. Đây là thác nước nằm giữa những cột đá bazan được thiên nhiên tạo thành theo cách tương tự như Gành Đá Đĩa của Phú Yên nên còn được mệnh danh là _Gành đá đĩa trên cạn._ Cung đường đến đây không dễ nhưng khi cán đích du khách sẽ phải choáng ngợp vì phong cảnh hùng vĩ của thác nước tự nhiên đổ từ trên độ cao 20 m xuống. Dưới chân thác là hồ nước rộng, mát lạnh, bao quanh là các tán cây rừng xanh mát.
 
 Địa điểm này rất thích hợp cho những người mê cắm trại, trốn nóng giữa thiên nhiên núi rừng hoặc thích săn ảnh. Do khu vực thác Vực Hòm còn hoang sơ, không có dịch vụ nên du khách đến khám phá cần chú ý đi theo nhóm, thu dọn rác trước khi về và không chơi trò mạo hiểm.
 
@@ -159,9 +159,9 @@ Ngày 4: Nhà thờ Măng Lăng, cầu gỗ Tuy An, bãi rêu Xóm Rớ.
 
 ## Đặc sản
 
-_Cá ngừ_ là đặc sản bạn không nên bỏ qua. Trong đó, [mắt cá ngừ](https://nhavantuonglai.com/article) tiềm thuốc bắc, [gỏi bao tử cá ngừ](https://nhavantuonglai.com/article) và cá ngừ cuốn cải xanh là những món được yêu thích nhất vì hương vị thơm ngon và có giá trị dinh dưỡng cao. Du khách có thể tìm đến các quán ăn trên đường Lê Duẩn, hay bờ kè Bạch Đằng… để thưởng thức mắt cá ngừ, giá 40.000 đồng một phần.
+_Cá ngừ_ là đặc sản bạn không nên bỏ qua. Trong đó, [mắt cá ngừ](/article) tiềm thuốc bắc, [gỏi bao tử cá ngừ](/article) và cá ngừ cuốn cải xanh là những món được yêu thích nhất vì hương vị thơm ngon và có giá trị dinh dưỡng cao. Du khách có thể tìm đến các quán ăn trên đường Lê Duẩn, hay bờ kè Bạch Đằng… để thưởng thức mắt cá ngừ, giá 40.000 đồng một phần.
 
-[_Sò huyết đầm Ô Loan_](https://nhavantuonglai.com/article) hấp dẫn nhờ phần thịt đỏ hồng được chế biến thành nhiều món như nướng tái, xào me, hấp, làm gỏi… Trong đó hấp dẫn nhất phải kể đến sò huyết rang muối ớt. Món này có vị ngọt thanh, cay nhẹ và thơm lừng quyến rũ.
+[_Sò huyết đầm Ô Loan_](/article) hấp dẫn nhờ phần thịt đỏ hồng được chế biến thành nhiều món như nướng tái, xào me, hấp, làm gỏi… Trong đó hấp dẫn nhất phải kể đến sò huyết rang muối ớt. Món này có vị ngọt thanh, cay nhẹ và thơm lừng quyến rũ.
 
 _Cơm gà Phú Yên_ không nổi tiếng bằng Hội An hay Tam Kỳ nhưng vẫn là một đặc sản nên thử. Thịt gà ở đây dai giòn, ít mỡ, vàng ươm và ngọt. Các loại rau ăn kèm gồm dưa leo, hành ngâm và đồ chua. Địa chỉ gợi ý là 189 Lê Thánh Tôn, 245 Lê Trung Kiên, 23 Phan Đình Phùng.
 
@@ -169,11 +169,11 @@ _Cơm gà Phú Yên_ không nổi tiếng bằng Hội An hay Tam Kỳ nhưng v�
 
 _Cá nục hấp_ được ăn kèm bánh tráng, rau sống và nước chấm chua cay hoặc mắm nêm. Món này có vị ngọt tự nhiên, phần thịt cá săn chắc, thơm mùi hành và các loại gia vị đặc trưng.
 
-_Cháo hàu_ được người dân Phú Yên rất yêu thích. Cách làm món này không quá cầu kỳ. Hàu sơ chế được xào với hành, muối tiêu sau đó ninh chung cùng gạo đỏ, gạo nếp. Bạn nên ăn [cháo hàu](https://nhavantuonglai.com/article) khi còn nóng để cảm nhận trọn vẹn vị thơm ngọt của món ăn.
+_Cháo hàu_ được người dân Phú Yên rất yêu thích. Cách làm món này không quá cầu kỳ. Hàu sơ chế được xào với hành, muối tiêu sau đó ninh chung cùng gạo đỏ, gạo nếp. Bạn nên ăn [cháo hàu](/article) khi còn nóng để cảm nhận trọn vẹn vị thơm ngọt của món ăn.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/du-lich-phu-yen-511.jpg" alt="cam-nang-du-lich-phu-yen" height=100% width=100%><figcaption><p>cam-nang-du-lich-phu-yen-nhavantuonglai</p></figcaption></figure>
 
-[_Bánh canh hẹ_ ](https://nhavantuonglai.com/article)có phần sợi mềm dai, không bở, được ăn cùng chả cá biển. Điểm nhấn của bát canh là phần hẹ xanh và dậy mùi hấp dẫn. Món này được bán cả ngày do vậy bạn dễ dàng tìm thấy. Địa chỉ gợi ý là quán bánh canh ở bưu điện thành phố ở ngã ba Ngô Quyền giao Trần Hưng Đạo.
+[_Bánh canh hẹ_ ](/article)có phần sợi mềm dai, không bở, được ăn cùng chả cá biển. Điểm nhấn của bát canh là phần hẹ xanh và dậy mùi hấp dẫn. Món này được bán cả ngày do vậy bạn dễ dàng tìm thấy. Địa chỉ gợi ý là quán bánh canh ở bưu điện thành phố ở ngã ba Ngô Quyền giao Trần Hưng Đạo.
 
 _Bò một nắng_ được làm từ thịt đùi và thăn bò tươi làm sạch, ướp các loại gia vị như đường, muối, bột ngọt, ớt hiểm và phơi trong một ngày. Khi ăn, miếng thịt được đem nướng chín trên than hoa rồi đập nhỏ cho mềm. Món này ăn kèm rau thơm, dưa leo và chấm với muối kiến vàng.
 

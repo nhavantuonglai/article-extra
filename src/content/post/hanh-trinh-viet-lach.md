@@ -13,9 +13,9 @@ tags:
   - writing process
 ---
 
-_Viết là một hành trình, và mỗi nhà văn sẽ có riêng từng quy tắc để thực hiện chúng. Một số nhà văn thích đắm chìm trong cảm hứng và câu chữ, một số khác lại lập kế hoạch bài bản và rõ ràng trước khi bắt đầu viết. Là một [nhà văn tương lai](https://nhavantuonglai.com/article), tôi cũng ít nhiều trải qua những giai đoạn, có riêng những quy trình như vậy để có cho mình một quy tắc viết lách phù hợp. Trong bài sau, hãy cùng khám phá hành trình thể hiện bản sắc cá nhân qua ngôn từ viết lách để có những bài học, giá trị hữu ích trong hành trình viết của bản thân._
+_Viết là một hành trình, và mỗi nhà văn sẽ có riêng từng quy tắc để thực hiện chúng. Một số nhà văn thích đắm chìm trong cảm hứng và câu chữ, một số khác lại lập kế hoạch bài bản và rõ ràng trước khi bắt đầu viết. Là một [nhà văn tương lai](/article), tôi cũng ít nhiều trải qua những giai đoạn, có riêng những quy trình như vậy để có cho mình một quy tắc viết lách phù hợp. Trong bài sau, hãy cùng khám phá hành trình thể hiện bản sắc cá nhân qua ngôn từ viết lách để có những bài học, giá trị hữu ích trong hành trình viết của bản thân._
 
-Chuỗi bài viết [Làm chủ nghệ thuật viết lách](https://nhavantuonglai.com/tags/lam-chu-nghe-thuat-viet-lach) là những hướng dẫn căn bản giúp bạn làm chủ kỹ năng viết lách của bản thân.
+Chuỗi bài viết [Làm chủ nghệ thuật viết lách](/tags/lam-chu-nghe-thuat-viet-lach) là những hướng dẫn căn bản giúp bạn làm chủ kỹ năng viết lách của bản thân.
 
 ## Hành trình viết (writing process) là gì?
 
@@ -23,7 +23,7 @@ Trước khi bắt đầu, hãy cùng thống nhất cách hiểu, cụ thể l�
 
 ### Viết nháp – nền tảng cơ bản của một tác phẩm
 
-Tương tự như việc [viết truyện trinh thám kinh dị](https://nhavantuonglai.com/article), ý tưởng là khởi đầu cho một tác phẩm hoàn chỉnh. Viết nháp đảm bảo điều này, khi biến ý tưởng mơ hồ trong đầu thành nội dung cụ thể, hữu hình trên giấy. Thông thường, để thực hiện viết nháp tốt, các nhà văn thường sử dụng nhiều hình thức, như lập dàn ý, lập sơ đồ tư duy hoặc tạo checklist trình tự.
+Tương tự như việc [viết truyện trinh thám kinh dị](/article), ý tưởng là khởi đầu cho một tác phẩm hoàn chỉnh. Viết nháp đảm bảo điều này, khi biến ý tưởng mơ hồ trong đầu thành nội dung cụ thể, hữu hình trên giấy. Thông thường, để thực hiện viết nháp tốt, các nhà văn thường sử dụng nhiều hình thức, như lập dàn ý, lập sơ đồ tư duy hoặc tạo checklist trình tự.
 
 Với quan điểm cá nhân, tôi cho rằng viết nháp rất quan trọng trong hành trình viết. Thông thường, khi có ý tưởng và cần thể hiện chúng, tôi bắt đầu với một tờ giấy trắng, một file Word trống trơn và ghi ra từng ý một, lộn xộn và thiếu nhất quán, nhằm đảm bảo không sót điều gì của ý tưởng mà được ghi ra. Chúng sẽ là nền tảng cơ bản, giúp tôi định hình chính xác ý tưởng trông như thế nào, nên bắt đầu từ đâu, và đừng để sót chi tiết nào trong ý tưởng ấy.
 
@@ -31,17 +31,17 @@ Với quan điểm cá nhân, tôi cho rằng viết nháp rất quan trọng tr
 
 ### Viết hoàn chỉnh – biến ý tưởng thành câu từ
 
-Có thể xem rằng, viết nháp là một bản sơ đồ kế hoạch để bạn biết phải viết bắt đầu từ đâu. Điều này sẽ rất hữu ích trong trường hợp bạn muốn [viết nhưng không có ý tưởng, cảm hứng](https://nhavantuonglai.com/article). Khi viết hoàn chỉnh, cũng là lúc bạn biến ý tưởng còn dở dang thành câu chữ rõ ràng.
+Có thể xem rằng, viết nháp là một bản sơ đồ kế hoạch để bạn biết phải viết bắt đầu từ đâu. Điều này sẽ rất hữu ích trong trường hợp bạn muốn [viết nhưng không có ý tưởng, cảm hứng](/article). Khi viết hoàn chỉnh, cũng là lúc bạn biến ý tưởng còn dở dang thành câu chữ rõ ràng.
 
-Lưu ý rằng, đừng quá quan tâm đến câu từ, ngữ pháp trong giai đoạn này, điều quan trọng bạn cần làm là hãy [viết lách say sưa, rồi sau đó chỉnh sửa tỉnh táo](https://nhavantuonglai.com/article/viet-lach-say-sua) sau. Vì quá giới hạn câu chữ trong những quy tắc khi sáng tạo, bạn sẽ khó để chuyển hóa ý tưởng thành câu từ đầy cảm xúc như bạn muốn được.
+Lưu ý rằng, đừng quá quan tâm đến câu từ, ngữ pháp trong giai đoạn này, điều quan trọng bạn cần làm là hãy [viết lách say sưa, rồi sau đó chỉnh sửa tỉnh táo](/article/viet-lach-say-sua) sau. Vì quá giới hạn câu chữ trong những quy tắc khi sáng tạo, bạn sẽ khó để chuyển hóa ý tưởng thành câu từ đầy cảm xúc như bạn muốn được.
 
-Nếu [viết lách](https://nhavantuonglai.com/tags/viet-lach) quá áp lực, hãy hẹn giờ với khoảng thời gian cụ thể và cố gắng hoàn tất việc viết trong khoảng thời gian ấy. Điều này giúp các ý tưởng được giữ nguyên, cảm xúc không bị chi phối và câu từ vẫn được viết ra một cách hoàn chỉnh. Ngoài ra, cũng cân nhắc một không gian yên tĩnh, tập trung để có thể viết lách hiệu quả hơn.
+Nếu [viết lách](/tags/viet-lach) quá áp lực, hãy hẹn giờ với khoảng thời gian cụ thể và cố gắng hoàn tất việc viết trong khoảng thời gian ấy. Điều này giúp các ý tưởng được giữ nguyên, cảm xúc không bị chi phối và câu từ vẫn được viết ra một cách hoàn chỉnh. Ngoài ra, cũng cân nhắc một không gian yên tĩnh, tập trung để có thể viết lách hiệu quả hơn.
 
 ### Sửa đổi – tinh chỉnh bản thảo của bạn
 
 Sau khi viết xong lần đầu, thì đã đến lúc sửa đổi. Đây là lúc bạn lùi lại một bước và nhìn bản thảo với sự khắc nghiệt hơn những gì đã có, nhằm chỉ ra những lỗi sau về câu chữ, thiếu ổn định về nội dung, và không nhất quán về giọng văn lẫn cách dùng từ. Đây là thời gian để bạn sắp xếp lại, thêm hoặc xóa bỏ những đoạn thừa thải, không còn quan trọng hoặc vô nghĩa nhằm thể hiện đúng ý đồ và nội dung mà bạn đang xây dựng.
 
-Với bất kỳ nhà văn nào, đây luôn là giai đoạn khó khăn, bởi đòi hỏi ở họ nhiều sự kiên trì và nhẫn nại, nhưng nếu là một [nhà văn giỏi](https://nhavantuonglai.com/article) thì điều đó sẽ không làm khó được họ. Vậy nên, nếu bạn là một [nhà văn tương lai](https://nhavantuonglai.com) và đang trong hành trình khẳng định bản thân với nghề viết, hãy kiên trì và nhẫn nại nhiều nhất có thể.
+Với bất kỳ nhà văn nào, đây luôn là giai đoạn khó khăn, bởi đòi hỏi ở họ nhiều sự kiên trì và nhẫn nại, nhưng nếu là một [nhà văn giỏi](/article) thì điều đó sẽ không làm khó được họ. Vậy nên, nếu bạn là một [nhà văn tương lai](https://nhavantuonglai.com) và đang trong hành trình khẳng định bản thân với nghề viết, hãy kiên trì và nhẫn nại nhiều nhất có thể.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-086.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
@@ -57,7 +57,7 @@ Bước cuối cùng trong hành trình viết chính là xuất bản. Đơn gi
 
 ## Bật mí những bí mật để viết lách hiệu quả hơn bằng hành trình viết (writing process)
 
-Là một [nhà văn tương lai](https://nhavantuonglai.com/article), tôi ít nhiều trải qua những thăng trầm, vấn đề trong quá trình viết lách. Lúc ban đầu, tôi có quá nhiều thứ để viết, nhưng không biết nên bắt đầu từ đâu. Còn trong hiện tại, tôi biết nên viết như thế nào, triển khai ý ra sao mà nhiều lúc lại chẳng có gì để viết. Dù có thể bạn không theo nghề viết, nhưng nếu làm công việc liên quan đến sáng tạo, hẳn điều này nghe rất quen thuộc.
+Là một [nhà văn tương lai](/article), tôi ít nhiều trải qua những thăng trầm, vấn đề trong quá trình viết lách. Lúc ban đầu, tôi có quá nhiều thứ để viết, nhưng không biết nên bắt đầu từ đâu. Còn trong hiện tại, tôi biết nên viết như thế nào, triển khai ý ra sao mà nhiều lúc lại chẳng có gì để viết. Dù có thể bạn không theo nghề viết, nhưng nếu làm công việc liên quan đến sáng tạo, hẳn điều này nghe rất quen thuộc.
 
 Thách thức lớn nhất của người làm công việc sáng tạo là được công chúng chấp nhận thành quả, nhưng trước đó họ phải vượt qua rào cản lớn hơn – làm thế nào để không khiến bản thân tạo ra những sản phẩm trong lối mòn, thân thuộc đầy nhàm chán. Phải mất một thời gian thử và sai để tìm ra được cách cân bằng, xây dựng quy trình viết lách cho phù hợp với bản thân. Dưới đây là những lời khuyên cho những ai muốn tìm bản sắc cá nhân thông qua hành trình viết lách.
 
@@ -75,7 +75,7 @@ Với từng giai đoạn khi viết lách sẽ cần những mục tiêu cụ t
 
 ### Khai thác công cụ, tài nguyên hỗ trợ viết lách
 
-Có rất nhiều [công cụ, tài nguyên hỗ trợ viết lách hiệu quả](https://nhavantuonglai.com/article). Việc bạn nên làm là cân nhắc, lựa chọn công cụ phù hợp để áp dụng trong quá trình viết lách của bản thân. Bạn cũng có thể sử dụng lời nhắc viết hoặc bài tập viết để có được [giải phóng sức sáng tạo](https://nhavantuonglai.com/article) khi viết lách.
+Có rất nhiều [công cụ, tài nguyên hỗ trợ viết lách hiệu quả](/article). Việc bạn nên làm là cân nhắc, lựa chọn công cụ phù hợp để áp dụng trong quá trình viết lách của bản thân. Bạn cũng có thể sử dụng lời nhắc viết hoặc bài tập viết để có được [giải phóng sức sáng tạo](/article) khi viết lách.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-088.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
@@ -103,7 +103,7 @@ Sau khi tìm hiểu về hành trình viết và lợi ích, hãy biết cách s
 
 ### Không chần chừ khi viết
 
-Khi có một [ý tưởng viết lách](https://nhavantuonglai.com/article), hãy viết chúng ra giấy. Không nên chần chừ khi bắt đầu viết, bởi khi bạn do dự, ý tưởng sẽ trôi vào quên lãng và bạn không hình dung được chúng sinh ra để làm gì. Khi có ý tưởng, hãy lập kế hoạch dựa trên hành trình viết, để từng bước hoàn thiện tác phẩm của mình.
+Khi có một [ý tưởng viết lách](/article), hãy viết chúng ra giấy. Không nên chần chừ khi bắt đầu viết, bởi khi bạn do dự, ý tưởng sẽ trôi vào quên lãng và bạn không hình dung được chúng sinh ra để làm gì. Khi có ý tưởng, hãy lập kế hoạch dựa trên hành trình viết, để từng bước hoàn thiện tác phẩm của mình.
 
 ### Sử dụng sơ đồ nội dung
 
@@ -145,7 +145,7 @@ Hành trình viết là kỹ năng viết lách được áp dụng trong nhiề
 
 ### Nghiên cứu, học thuật
 
-Trong các [tài liệu nghiên cứu](https://nhavantuonglai.com/article), học thuật, hành trình viết được sử dụng để tạo ra các bài viết chuyên ngành chất lượng cao, cấu trúc rõ ràng và mạch lạc. Chúng cũng giúp các nhà nghiên cứu xác định đúng trọng tâm và triển khai dàn ý phù hợp, để tạo ra tác phẩm cuối cùng hoàn chỉnh, có giá trị học thuật cao.
+Trong các [tài liệu nghiên cứu](/article), học thuật, hành trình viết được sử dụng để tạo ra các bài viết chuyên ngành chất lượng cao, cấu trúc rõ ràng và mạch lạc. Chúng cũng giúp các nhà nghiên cứu xác định đúng trọng tâm và triển khai dàn ý phù hợp, để tạo ra tác phẩm cuối cùng hoàn chỉnh, có giá trị học thuật cao.
 
 ### Tiểu thuyết
 

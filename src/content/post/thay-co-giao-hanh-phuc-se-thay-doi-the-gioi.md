@@ -377,7 +377,7 @@ Tất cả chúng tôi, những người tham gia vào công trình biên soạn
 
 Katherine Weare Somerset, UK, Tháng 12 năm 2016.
 
-Đọc [Thầy cô giáo hạnh phúc sẽ thay đổi thế giới, chương 05](https://nhavantuonglai.com/article/thay-co-giao-hanh-phuc-se-thay-doi-the-gioi-chuong-01) tại đây.
+Đọc [Thầy cô giáo hạnh phúc sẽ thay đổi thế giới, chương 05](/article/thay-co-giao-hanh-phuc-se-thay-doi-the-gioi-chuong-01) tại đây.
 
 Đọc [Thầy cô giáo hạnh phúc sẽ thay đổi thế giới, toàn tập](https://banmaixanh.vercel.app/ebook/thay-co-giao-hanh-phuc-se-thay-doi-the-gioi.pdf) tại đây.
 

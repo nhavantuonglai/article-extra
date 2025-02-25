@@ -28,7 +28,7 @@ Một website được tối ưu tốt không chỉ giúp tăng lưu lượng tr
 
 ## Khóa học viết SEO là gì?
 
-[Khóa học viết SEO](https://nhavantuonglai.com/article) là một chương trình đào tạo tập trung vào việc cung cấp các kỹ năng và kiến thức cần thiết để viết nội dung thân thiện với SEO. Khóa học này thường bao gồm các nội dung sau:
+[Khóa học viết SEO](/article) là một chương trình đào tạo tập trung vào việc cung cấp các kỹ năng và kiến thức cần thiết để viết nội dung thân thiện với SEO. Khóa học này thường bao gồm các nội dung sau:
 
 – Nguyên tắc cơ bản của SEO: Hiểu về cách công cụ tìm kiếm hoạt động, các yếu tố ảnh hưởng đến thứ hạng website và tầm quan trọng của từ khóa.
 
@@ -46,7 +46,7 @@ Một website được tối ưu tốt không chỉ giúp tăng lưu lượng tr
 
 Tham gia khóa học viết SEO mang lại nhiều lợi ích đáng kể:
 
-– Nâng cao [kỹ năng viết](https://nhavantuonglai.com/article/viet-lach-say-sua): Bạn sẽ học được cách viết nội dung không chỉ thu hút người đọc mà còn tối ưu cho công cụ tìm kiếm.
+– Nâng cao [kỹ năng viết](/article/viet-lach-say-sua): Bạn sẽ học được cách viết nội dung không chỉ thu hút người đọc mà còn tối ưu cho công cụ tìm kiếm.
 
 – Tăng khả năng cạnh tranh: Với kỹ năng viết SEO, bạn có thể giúp website của mình đạt thứ hạng cao hơn trên các công cụ tìm kiếm, tăng cơ hội tiếp cận với khách hàng tiềm năng.
 
@@ -54,7 +54,7 @@ Tham gia khóa học viết SEO mang lại nhiều lợi ích đáng kể:
 
 – Nâng cao uy tín và sự hiện diện trực tuyến: Nội dung chất lượng và tối ưu giúp nâng cao uy tín của website và thu hút lượng truy cập ổn định.
 
-– [Phát triển sự nghiệp](https://nhavantuonglai.com/article): Kỹ năng viết SEO là một trong những kỹ năng được các nhà tuyển dụng đánh giá cao. Nắm vững kỹ năng này có thể mở ra nhiều cơ hội nghề nghiệp trong lĩnh vực tiếp thị kỹ thuật số.
+– [Phát triển sự nghiệp](/article): Kỹ năng viết SEO là một trong những kỹ năng được các nhà tuyển dụng đánh giá cao. Nắm vững kỹ năng này có thể mở ra nhiều cơ hội nghề nghiệp trong lĩnh vực tiếp thị kỹ thuật số.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-003.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
@@ -78,7 +78,7 @@ Hiểu biết về các nguyên tắc cơ bản của SEO là nền tảng cho b
 
 Nghiên cứu từ khóa là bước quan trọng để xác định những từ khóa mà người dùng có thể sử dụng để tìm kiếm thông tin liên quan đến nội dung của bạn. Trong phần này, bạn sẽ học:
 
-– Cách [tìm kiếm từ khóa](https://nhavantuonglai.com/article): Sử dụng các công cụ như Google Keyword Planner, Ahrefs, và SEMrush để tìm kiếm từ khóa.
+– Cách [tìm kiếm từ khóa](/article): Sử dụng các công cụ như Google Keyword Planner, Ahrefs, và SEMrush để tìm kiếm từ khóa.
 
 – Đánh giá và lựa chọn từ khóa: Xác định từ khóa có lưu lượng tìm kiếm cao và độ cạnh tranh thấp để tối ưu nội dung.
 
@@ -95,7 +95,7 @@ Viết nội dung chuẩn SEO không chỉ là việc đặt từ khóa vào bà
 – Sử dụng thẻ heading: Cách sử dụng thẻ H1, H2, H3 để cấu trúc nội dung một cách logic và dễ đọc.
 tối ưu hình ảnh: Sử dụng thẻ alt và đặt tên tệp hình ảnh chứa từ khóa để cải thiện SEO hình ảnh.
 
-– [Liên kết nội bộ](https://nhavantuonglai.com/article): Cách sử dụng liên kết nội bộ để điều hướng người dùng và phân phối sức mạnh SEO trên website của bạn.
+– [Liên kết nội bộ](/article): Cách sử dụng liên kết nội bộ để điều hướng người dùng và phân phối sức mạnh SEO trên website của bạn.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/viet-lach-005.jpg" alt="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." title="viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach." height=100% width=100%><figcaption><p>viet lach, ky nang viet, writing process, lam chu nghe thuat viet lach, cai thien ky nang viet lach.</p></figcaption></figure>
 
@@ -105,7 +105,7 @@ Liên kết là một yếu tố quan trọng trong SEO. Trong phần này, bạ
 
 – Liên kết nội bộ: Cách tạo liên kết giữa các trang trên cùng một website để giúp công cụ tìm kiếm hiểu được cấu trúc website và cải thiện trải nghiệm người dùng.
 
-– [Liên kết ngoài](https://nhavantuonglai.com/article): Tầm quan trọng của việc có các liên kết chất lượng từ các website khác. Cách xây dựng chiến lược liên kết để tăng uy tín và thứ hạng website.
+– [Liên kết ngoài](/article): Tầm quan trọng của việc có các liên kết chất lượng từ các website khác. Cách xây dựng chiến lược liên kết để tăng uy tín và thứ hạng website.
 
 ### Phân tích và đo lường hiệu quả SEO
 
@@ -137,7 +137,7 @@ Sử dụng các công cụ như Google Analytics và Google Search Console đ�
 
 ### Liên tục cập nhật kiến thức
 
-[SEO](https://nhavantuonglai.com/article) là một lĩnh vực luôn thay đổi, vì vậy điều quan trọng là bạn phải liên tục cập nhật kiến thức. Tham gia các khóa học nâng cao, theo dõi các blog và diễn đàn SEO uy tín, và tham gia vào các cộng đồng chuyên gia để nắm bắt các xu hướng và kỹ thuật mới nhất.
+[SEO](/article) là một lĩnh vực luôn thay đổi, vì vậy điều quan trọng là bạn phải liên tục cập nhật kiến thức. Tham gia các khóa học nâng cao, theo dõi các blog và diễn đàn SEO uy tín, và tham gia vào các cộng đồng chuyên gia để nắm bắt các xu hướng và kỹ thuật mới nhất.
 
 ## Tầm quan trọng của sự sáng tạo trong viết SEO
 
@@ -159,7 +159,7 @@ Hình ảnh và video không chỉ làm cho nội dung trở nên sinh động m
 
 ## Kết luận
 
-[Khóa học viết SEO](https://nhavantuonglai.com/article) không chỉ cung cấp kiến thức cơ bản về tối ưu công cụ tìm kiếm mà còn giúp bạn phát triển kỹ năng viết nội dung chất lượng và thu hút người đọc. Bằng cách áp dụng những kiến thức đã học vào thực tế, bạn có thể cải thiện thứ hạng website của mình, tăng lưu lượng truy cập và đạt được các mục tiêu kinh doanh.
+[Khóa học viết SEO](/article) không chỉ cung cấp kiến thức cơ bản về tối ưu công cụ tìm kiếm mà còn giúp bạn phát triển kỹ năng viết nội dung chất lượng và thu hút người đọc. Bằng cách áp dụng những kiến thức đã học vào thực tế, bạn có thể cải thiện thứ hạng website của mình, tăng lưu lượng truy cập và đạt được các mục tiêu kinh doanh.
 
 SEO không phải là một lĩnh vực dễ dàng, nhưng với sự kiên trì, nỗ lực và sáng tạo, bạn hoàn toàn có thể trở thành một chuyên gia viết SEO. Hãy bắt đầu hành trình của bạn ngay hôm nay và khám phá những cơ hội tuyệt vời mà SEO mang lại cho sự nghiệp và doanh nghiệp của bạn.
 

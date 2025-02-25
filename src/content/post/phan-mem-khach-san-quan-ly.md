@@ -29,7 +29,7 @@ Sau khi xuất hiện các nền tảng cho khách sạn đa chức năng, hệ 
 
 Ngay cả ở các nước phát triển, 31% chủ khách sạn, không thể tích hợp với các hệ thống với nhau là một rào cản ảnh hưởng đến việc áp dụng và sử dụng phần mềm.
 
-Tốt hơn là chọn [phần mềm khách sạn](https://nhavantuonglai.com/article) mở để hoạt động với các ứng dụng hoặc tiện ích mở rộng khác tích hợp với [Công cụ đặt phòng](https://nhavantuonglai.com/article) và [Trình quản lý kênh](https://nhavantuonglai.com/article).
+Tốt hơn là chọn [phần mềm khách sạn](/article) mở để hoạt động với các ứng dụng hoặc tiện ích mở rộng khác tích hợp với [Công cụ đặt phòng](/article) và [Trình quản lý kênh](/article).
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-035.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 

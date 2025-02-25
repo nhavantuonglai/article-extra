@@ -36,7 +36,7 @@ Sau khi thu hoạch, bước tiếp theo là làm khô mẫu vật. Quá trình 
 
 – Ép mẫu vật: Đặt mẫu vật giữa hai lớp giấy và bọt biển, sau đó đặt giữa hai tấm gỗ cứng. Tấm gỗ cần phải mịn, phẳng và có kích thước bằng nhau để đảm bảo quá trình ép được đồng đều. Dùng dây đai cao su để buộc chặt các lớp với nhau. Đảm bảo dây đai không quá chặt để không gây hư hỏng mẫu vật, nhưng đủ để giữ chặt các lớp.
 
-– Kiểm tra và thay giấy: Trong quá trình làm khô, nên kiểm tra [tiêu bản thực vật hoa khô](https://nhavantuonglai.com/article/tieu-ban-thuc-vat-hoa-kho#ban-tieu-ban-thuc-vat-kho) thường xuyên để thay giấy mới khi giấy cũ đã hút đủ ẩm. Điều này giúp quá trình làm khô diễn ra hiệu quả và mẫu vật không bị mốc.
+– Kiểm tra và thay giấy: Trong quá trình làm khô, nên kiểm tra [tiêu bản thực vật hoa khô](/article/tieu-ban-thuc-vat-hoa-kho#ban-tieu-ban-thuc-vat-kho) thường xuyên để thay giấy mới khi giấy cũ đã hút đủ ẩm. Điều này giúp quá trình làm khô diễn ra hiệu quả và mẫu vật không bị mốc.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/tieu-ban-thuc-vat-hoa-kho-01.jpg" alt="thuc vat hoc, tieu ban thuc vat, tieu ban, tieu ban hoa kho, tieu ban thuc vat kho, tieu ban hoa." title="thuc vat hoc, tieu ban thuc vat, tieu ban, tieu ban hoa kho, tieu ban thuc vat kho, tieu ban hoa." height=100% width=100%><figcaption><p>Tiêu bản hoa khô và tiêu bản thực vật khô là những mẫu thực vật đã qua xử lý, nhằm giữ nguyên hình dáng, cấu trúc và màu sắc.</p></figcaption></figure>
 
@@ -48,7 +48,7 @@ Sau khi thu hoạch, bước tiếp theo là làm khô mẫu vật. Quá trình 
 
 Sau khi mẫu vật đã được làm khô hoàn toàn, bước cuối cùng là bảo quản và trưng bày chúng. Dưới đây là các bước chi tiết:
 
-– Bảo quản mẫu tiêu bản: Đặt mẫu [tiêu bản thực vật hoa khô](https://nhavantuonglai.com/article/tieu-ban-thuc-vat-hoa-kho#bao-quan-tieu-ban-thuc-vat-hoa-kho) vào túi zip cùng với hạt hút ẩm. Hạt hút ẩm sẽ giúp duy trì độ khô và bảo quản mẫu vật lâu dài. Để mẫu tiêu bản ở nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp và độ ẩm cao.
+– Bảo quản mẫu tiêu bản: Đặt mẫu [tiêu bản thực vật hoa khô](/article/tieu-ban-thuc-vat-hoa-kho#bao-quan-tieu-ban-thuc-vat-hoa-kho) vào túi zip cùng với hạt hút ẩm. Hạt hút ẩm sẽ giúp duy trì độ khô và bảo quản mẫu vật lâu dài. Để mẫu tiêu bản ở nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp và độ ẩm cao.
 
 – Trưng bày mẫu tiêu bản: Sau khi đã bảo quản mẫu tiêu bản, bạn có thể trưng bày chúng dưới dạng các tác phẩm nghệ thuật. Các mẫu tiêu bản hoa khô có thể được lắp ghép vào khung tranh, bình hoa hoặc các vật trang trí khác. Quá trình này đòi hỏi sự khéo léo và óc sáng tạo để tạo nên những tác phẩm nghệ thuật độc đáo và bền vững.
 
@@ -60,7 +60,7 @@ Sau khi mẫu vật đã được làm khô hoàn toàn, bước cuối cùng l�
 
 ### Những lưu ý quan trọng khi làm tiêu bản hoa khô
 
-Trong quá trình làm [tiêu bản thực vật hoa khô](https://nhavantuonglai.com/article/tieu-ban-thuc-vat-hoa-kho#mua-tieu-ban-thuc-vat-hoa-kho), có một số điều quan trọng cần lưu ý để đảm bảo hiệu quả và an toàn:
+Trong quá trình làm [tiêu bản thực vật hoa khô](/article/tieu-ban-thuc-vat-hoa-kho#mua-tieu-ban-thuc-vat-hoa-kho), có một số điều quan trọng cần lưu ý để đảm bảo hiệu quả và an toàn:
 
 – Đạo đức bảo tồn: Luôn tuân thủ các quy định về bảo tồn và tránh thu thập mẫu vật ở những nơi cấm. Điều này không chỉ bảo vệ môi trường mà còn giúp duy trì sự đa dạng sinh học.
 
@@ -82,7 +82,7 @@ Tiêu bản hoa khô có nhiều ứng dụng phong phú và giá trị trong đ
 
 – Nghệ thuật và trang trí: Các nghệ sĩ và nhà thiết kế thường sử dụng tiêu bản hoa khô để tạo ra các tác phẩm nghệ thuật độc đáo và trang trí nội thất. Những bức tranh, bình hoa hay các vật trang trí từ hoa khô mang lại vẻ đẹp tự nhiên và bền vững.
 
-– Bảo tồn đa dạng sinh học: Việc tạo [tiêu bản thực vật hoa khô](https://nhavantuonglai.com/article/tieu-ban-thuc-vat-hoa-kho#cach-lam-tieu-ban-thuc-vat-hoa-kho) góp phần vào việc bảo tồn các loài thực vật quý hiếm, có nguy cơ tuyệt chủng, giúp duy trì đa dạng sinh học và bảo vệ môi trường.
+– Bảo tồn đa dạng sinh học: Việc tạo [tiêu bản thực vật hoa khô](/article/tieu-ban-thuc-vat-hoa-kho#cach-lam-tieu-ban-thuc-vat-hoa-kho) góp phần vào việc bảo tồn các loài thực vật quý hiếm, có nguy cơ tuyệt chủng, giúp duy trì đa dạng sinh học và bảo vệ môi trường.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/tieu-ban-thuc-vat-hoa-kho-10.jpg" alt="thuc vat hoc, tieu ban thuc vat, tieu ban, tieu ban hoa kho, tieu ban thuc vat kho, tieu ban hoa." title="thuc vat hoc, tieu ban thuc vat, tieu ban, tieu ban hoa kho, tieu ban thuc vat kho, tieu ban hoa." height=100% width=100%><figcaption><p>Tiêu bản hoa khô và tiêu bản thực vật khô là những mẫu thực vật đã qua xử lý, nhằm giữ nguyên hình dáng, cấu trúc và màu sắc.</p></figcaption></figure>
 
@@ -94,6 +94,6 @@ Tiêu bản hoa khô có nhiều ứng dụng phong phú và giá trị trong đ
 
 ## Kết luận
 
-Làm [tiêu bản thực vật hoa khô](https://nhavantuonglai.com/article/tieu-ban-thuc-vat-hoa-kho) là một quy trình đòi hỏi sự tỉ mỉ và kỹ thuật cao, nhưng mang lại nhiều giá trị trong nghiên cứu, nghệ thuật và bảo tồn. Bằng việc chuẩn bị đầy đủ các dụng cụ cần thiết và thực hiện đúng quy trình, bạn có thể tạo ra những tiêu bản hoa khô đẹp mắt và bền vững. Những tiêu bản này không chỉ là những tác phẩm nghệ thuật mà còn là bằng chứng sinh học quý giá, giúp chúng ta hiểu rõ hơn về thế giới thực vật xung quanh.
+Làm [tiêu bản thực vật hoa khô](/article/tieu-ban-thuc-vat-hoa-kho) là một quy trình đòi hỏi sự tỉ mỉ và kỹ thuật cao, nhưng mang lại nhiều giá trị trong nghiên cứu, nghệ thuật và bảo tồn. Bằng việc chuẩn bị đầy đủ các dụng cụ cần thiết và thực hiện đúng quy trình, bạn có thể tạo ra những tiêu bản hoa khô đẹp mắt và bền vững. Những tiêu bản này không chỉ là những tác phẩm nghệ thuật mà còn là bằng chứng sinh học quý giá, giúp chúng ta hiểu rõ hơn về thế giới thực vật xung quanh.
 
 <figure><img src="https://banmaixanh.vercel.app/image/cover/001-502.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

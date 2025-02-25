@@ -21,7 +21,7 @@ _Thanh toán trực tuyến, không dùng tiền mặt đang là xu hướng đ�
 
 Trước đây, các khách sạn thường sẽ ghi lại các khoản thu chi vào sổ giấy, và giữ tiền riêng một ngăn với chìa khóa an toàn, hết ca trực phải kiểm đếm rồi ghi lại để chắc chắn không có thất thoát giữa các ca.
 
-Hiện tại, điều ấy đã thành dĩ vãng, bởi các khách sạn đã chuyển sang [thanh toán trực tuyến](https://nhavantuonglai.com/article/thanh-toan-truc-tuyen), không dùng tiền mặt, mọi ghi chép đều không cần bởi các giao dịch được tự động lưu lại, rủi ro thất thoát hay trộm cắp cũng hiếm hơn bởi tiền đã ở trong ngân hàng.
+Hiện tại, điều ấy đã thành dĩ vãng, bởi các khách sạn đã chuyển sang [thanh toán trực tuyến](/article/thanh-toan-truc-tuyen), không dùng tiền mặt, mọi ghi chép đều không cần bởi các giao dịch được tự động lưu lại, rủi ro thất thoát hay trộm cắp cũng hiếm hơn bởi tiền đã ở trong ngân hàng.
 
 Rõ ràng, giải pháp này đã đem lại nhiều lợi ích, vô cùng thiết thực cho các khách sạn. Thanh toán trực tuyến, không dùng tiền mặt là thông qua công nghệ để giao dịch tài chính, dòng tiền được luân chuyển giữa các tài khoản thanh toán được định danh như tài khoản ngân hàng, ví điện tử… giúp giảm bớt lượng tiền mặt lưu thông trong thị trường. Đây là cách đơn giản, nhanh và an toàn nhất để đưa tiền đến mọi người, mọi nơi trên thế giới.
 

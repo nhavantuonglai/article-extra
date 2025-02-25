@@ -91,21 +91,21 @@ Sau khi nắm được tiêu chuẩn, ta phải nghiên cứu căn cơ của ta,
 
 Trong Phật giáo nghe nói đến tám vạn bốn ngàn Pháp môn tức là có rất nhiều cửa pháp để đi vào Phật địa. Tiền nhân đã ghi lại kinh nghiệm và phương pháp trong sách vở, đã truyền lại kinh nghiệm và phương pháp cho hậu thế. Nhưng dòng kinh nghiệm biến chuyển hoài hoài, vì bản chất của dòng kinh nghiệm là cơ cấu xã hội, lịch sử, tâm lý, sinh lý luôn luôn biến chuyển. Có những Pháp môn ta còn dùng được, có những Pháp môn phải sửa đổi lại cho hợp với những điều mới, có những Pháp môn không dùng được nữa. Ta phải tìm hiểu, thí nghiệm, áp dụng và tìm lấy những phương pháp của chính ta, phù hợp cho chính ta. Ví dụ khi tôi nói đến phương pháp điều tức (điều hòa và chế ngự hơi thở) để giúp người tu nhập chỉ quán, tôi không nói đến một phương pháp có thể áp dụng cho tất cả mọi người. Vì cơ thể sinh lý, tâm lý mỗi người mỗi khác, tôi không thể bắt chước làm giống hệt người kia. Phải tự hiểu tình trạng vốn liếng của chính mình trước. Và vì vậy, bước đầu của người Phật tử và kiểm điểm vốn liếng tâm lý, sinh lý là hoàn cảnh của mình để định cho mình những phương pháp khế hợp. Giáo pháp quan trọng nhất là Bát chánh đạo. Nhưng ở đây, ta chỉ được nghe chánh kiến, chánh tư duy, chánh nghiệp, chánh ngữ… mà không thấy thống kê những gì là chánh kiến, chánh tư duy, chánh nghiệp, chánh ngữ. Bởi vì Bát chánh đạo là tiêu chuẩn hành động mà không phải là giáo điều cố định. Đạo Phật cao siêu và bất diệt một phần là nhờ ở đấy.
 
-Đọc [Đạo phật ngày nay, chương 01](https://nhavantuonglai.com/article/dao-phat-ngay-nay-chuong-01) tại đây.
+Đọc [Đạo phật ngày nay, chương 01](/article/dao-phat-ngay-nay-chuong-01) tại đây.
 
-Đọc [Đạo phật ngày nay, chương 02](https://nhavantuonglai.com/article/dao-phat-ngay-nay-chuong-02) tại đây.
+Đọc [Đạo phật ngày nay, chương 02](/article/dao-phat-ngay-nay-chuong-02) tại đây.
 
-Đọc [Đạo phật ngày nay, chương 03](https://nhavantuonglai.com/article/dao-phat-ngay-nay-chuong-03) tại đây.
+Đọc [Đạo phật ngày nay, chương 03](/article/dao-phat-ngay-nay-chuong-03) tại đây.
 
-Đọc [Đạo phật ngày nay, chương 04](https://nhavantuonglai.com/article/dao-phat-ngay-nay-chuong-04) tại đây.
+Đọc [Đạo phật ngày nay, chương 04](/article/dao-phat-ngay-nay-chuong-04) tại đây.
 
-Đọc [Đạo phật ngày nay, chương 05](https://nhavantuonglai.com/article/dao-phat-ngay-nay-chuong-05) tại đây.
+Đọc [Đạo phật ngày nay, chương 05](/article/dao-phat-ngay-nay-chuong-05) tại đây.
 
-Đọc [Đạo phật ngày nay, chương 06](https://nhavantuonglai.com/article/dao-phat-ngay-nay-chuong-06) tại đây.
+Đọc [Đạo phật ngày nay, chương 06](/article/dao-phat-ngay-nay-chuong-06) tại đây.
 
-Đọc [Đạo phật ngày nay, chương 07](https://nhavantuonglai.com/article/dao-phat-ngay-nay-chuong-07) tại đây.
+Đọc [Đạo phật ngày nay, chương 07](/article/dao-phat-ngay-nay-chuong-07) tại đây.
 
-Đọc [Đạo phật ngày nay, chương 08](https://nhavantuonglai.com/article/dao-phat-ngay-nay-chuong-08) tại đây.
+Đọc [Đạo phật ngày nay, chương 08](/article/dao-phat-ngay-nay-chuong-08) tại đây.
 
 Đọc [Đạo phật ngày nay, toàn tập](https://banmaixanh.vercel.app/ebook/dao-phat-ngay-nay.pdf) tại đây.
 

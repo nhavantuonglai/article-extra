@@ -34,7 +34,7 @@ Khi sao chép văn bản từ định dạng, nền tảng này sang nền tản
 
 ## nhavantuonglai ra mắt công cụ chuyển đổi chữ hoa thành chữ thường
 
-Mới đây, nhavantuonglai đã chính thức ra mắt [công cụ chuyển đổi chữ hoa thành chữ thường](https://nhavantuonglai.com/analytics/lower) ngay trên website, giúp người dùng có thể thống kê và phân tích dữ liệu nhanh chóng, hiệu quả. Công cụ chuyển đổi chữ hoa thành chữ thường hoạt động trực tuyến, không tốn phí sử dụng, không cần cài đặt và trả về kết quả ngay lập tức.
+Mới đây, nhavantuonglai đã chính thức ra mắt [công cụ chuyển đổi chữ hoa thành chữ thường](/analytics/lower) ngay trên website, giúp người dùng có thể thống kê và phân tích dữ liệu nhanh chóng, hiệu quả. Công cụ chuyển đổi chữ hoa thành chữ thường hoạt động trực tuyến, không tốn phí sử dụng, không cần cài đặt và trả về kết quả ngay lập tức.
 
 Để sử dụng, chỉ cần nhập văn bản thô cần chuyển đổi, sau đó bấm _Chuyển đổi_ thì ngay lập tức công cụ sẽ thống kê, đưa ra kết quả nhanh chóng để người dùng có thể sử dụng.
 

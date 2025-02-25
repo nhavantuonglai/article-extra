@@ -117,21 +117,21 @@ Mỗi khi ta được trao một vật gì, như một tách trà, một trái l
 
 Trong những khóa tu dành cho người Âu Mỹ, tôi luôn luôn cho thực tập rất nghiêm chỉnh việc nghe chuông và chắp tay. Thiền sinh nào cũng lấy làm lạ là tại sao chỉ cần thực tập hai điều ấy thôi mà đã thấy tâm hồn thanh tịnh và an lạc nhiều rồi. Chúng ta có truyền thống nghe chuông và chắp tay gần hai ngàn năm, nhưng chúng ta đã để cho sự thực tập trở thành máy móc. Chúng ta phải biết khám phá lại tiếng chuông và búp sen của chúng ta.
 
-Đọc [An trú trong hiện tại, chương 01](https://nhavantuonglai.com/article/an-tru-trong-hien-tai-chuong-01) tại đây.
+Đọc [An trú trong hiện tại, chương 01](/article/an-tru-trong-hien-tai-chuong-01) tại đây.
 
-Đọc [An trú trong hiện tại, chương 02](https://nhavantuonglai.com/article/an-tru-trong-hien-tai-chuong-02) tại đây.
+Đọc [An trú trong hiện tại, chương 02](/article/an-tru-trong-hien-tai-chuong-02) tại đây.
 
-Đọc [An trú trong hiện tại, chương 03](https://nhavantuonglai.com/article/an-tru-trong-hien-tai-chuong-03) tại đây.
+Đọc [An trú trong hiện tại, chương 03](/article/an-tru-trong-hien-tai-chuong-03) tại đây.
 
-Đọc [An trú trong hiện tại, chương 04](https://nhavantuonglai.com/article/an-tru-trong-hien-tai-chuong-04) tại đây.
+Đọc [An trú trong hiện tại, chương 04](/article/an-tru-trong-hien-tai-chuong-04) tại đây.
 
-Đọc [An trú trong hiện tại, chương 05](https://nhavantuonglai.com/article/an-tru-trong-hien-tai-chuong-05) tại đây.
+Đọc [An trú trong hiện tại, chương 05](/article/an-tru-trong-hien-tai-chuong-05) tại đây.
 
-Đọc [An trú trong hiện tại, chương 06](https://nhavantuonglai.com/article/an-tru-trong-hien-tai-chuong-06) tại đây.
+Đọc [An trú trong hiện tại, chương 06](/article/an-tru-trong-hien-tai-chuong-06) tại đây.
 
-Đọc [An trú trong hiện tại, chương 07](https://nhavantuonglai.com/article/an-tru-trong-hien-tai-chuong-08) tại đây.
+Đọc [An trú trong hiện tại, chương 07](/article/an-tru-trong-hien-tai-chuong-08) tại đây.
 
-Đọc [An trú trong hiện tại, chương 08](https://nhavantuonglai.com/article/an-tru-trong-hien-tai-chuong-08) tại đây.
+Đọc [An trú trong hiện tại, chương 08](/article/an-tru-trong-hien-tai-chuong-08) tại đây.
 
 Đọc [An trú trong hiện tại, toàn tập](https://banmaixanh.vercel.app/ebook/an-tru-trong-hien-tai.pdf) tại đây.
 

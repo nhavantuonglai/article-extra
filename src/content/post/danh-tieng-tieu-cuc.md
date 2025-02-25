@@ -19,7 +19,7 @@ _Mọi bộ phận trong khách sạn làm việc chăm chỉ, chỉnh chu nhấ
 
 ## Tầm quan trọng của các đánh giá khách sạn trực tuyến
 
-Các [đánh giá trực tuyến tạo ra ảnh hưởng](https://nhavantuonglai.com/article) có giá trị đến 546 tỷ đô khi tác động trực tiếp đến hành vi đặt phòng khách sạn, khi mỗi phút có 200 đánh giá được cập nhật trên TripAdvisor. Bên cạnh đó, mọi người có [xu hướng tìm kiếm thông tin](https://nhavantuonglai.com/article) trước khi sử dụng một sản phẩm, dịch vụ nào đó.
+Các [đánh giá trực tuyến tạo ra ảnh hưởng](/article) có giá trị đến 546 tỷ đô khi tác động trực tiếp đến hành vi đặt phòng khách sạn, khi mỗi phút có 200 đánh giá được cập nhật trên TripAdvisor. Bên cạnh đó, mọi người có [xu hướng tìm kiếm thông tin](/article) trước khi sử dụng một sản phẩm, dịch vụ nào đó.
 
 Điều này cũng tương đồng với việc tìm và đặt phòng khách sạn. Trong quá trình ấy, họ cũng sẽ đọc được những bình luận, đánh giá trực tuyến về khách sạn của bạn và giúp họ ra quyết định là có – hay không việc tìm hiểu để đặt phòng tại khách sạn này.
 
@@ -35,7 +35,7 @@ Luôn giữ sự hài lòng của du khách trong khách sạn là một nhiệm
 
 ### Vị trí địa lý của khách sạn được mô tả không chính xác
 
-Nếu [vị trí địa lý của khách sạn](https://nhavantuonglai.com/article) ở nơi xa xôi, ngõ hẻm phức tạp và không có hướng dẫn đường đi cụ thể, cũng như định vị trên Google Maps là sai lệch; thì sẽ khiến du khách khi tìm đến phải tốn rất nhiều thời gian, công sức để đến đúng vị trí mà họ cần đến.
+Nếu [vị trí địa lý của khách sạn](/article) ở nơi xa xôi, ngõ hẻm phức tạp và không có hướng dẫn đường đi cụ thể, cũng như định vị trên Google Maps là sai lệch; thì sẽ khiến du khách khi tìm đến phải tốn rất nhiều thời gian, công sức để đến đúng vị trí mà họ cần đến.
 
 Thay đổi vị trí địa lý, từ bỏ USP hiện có không phải điều dễ dàng; nhưng bạn hoàn toàn có thể cập nhật, hướng dẫn đường đi phù hợp, định vị chính xác khách sạn trên bản đồ để du khách tìm đến một cách dễ dàng. Ví dụ, nhiều khách sạn đặt những biển báo dọc đường, ở những ngã rẽ nhằm hướng dẫn du khách đi đúng hướng. Đó là một cách mà bạn có thể áp dụng nhằm cải thiện những đánh giá trực tuyến tiêu cực cho khách sạn của mình.
 
@@ -51,7 +51,7 @@ Một căn phòng nhếch nhác là điều cuối cùng là bất kỳ vị kh�
 
 – Thiết bị phòng bị lỗi: Mọi thiết bị điện tử đều có xu hướng hỏng sau một thời gian sử dụng, hoặc cần được bảo trì thường xuyên. Mỗi tuần, hoặc mỗi tháng, bạn nên kiểm tra tính ổn định của các thiết bị điện, tránh những rủi ro hay trải nghiệm không đáng có cho khách đặt phòng.
 
-– Overbooking: Đây là một trải nghiệm tệ hại, và bạn nên tham khảo [các giải pháp để khắc phục overbooking](https://nhavantuonglai.com/article) này.
+– Overbooking: Đây là một trải nghiệm tệ hại, và bạn nên tham khảo [các giải pháp để khắc phục overbooking](/article) này.
 
 ### Đồ ăn chất lượng thấp
 
@@ -69,7 +69,7 @@ Bạn có thể thông qua nhà cung cấp thực phẩm độc lập để gi�
 
 ### Dịch vụ phòng chậm chạp
 
-Đồ ăn khách sạn chất lượng thấp là một vấn đề, và đồ ăn khách sạn phục vụ chậm chạp lại là một vấn đề khác. Đôi khi, nguyên nhân của chậm chạp đến từ công suất phòng lớn và khách sạn bị quá tải khi đáp ứng, nhưng cũng đều là do khách sạn chưa có phương án ứng phó cụ thể để áp dụng khi tình huống xảy ra như [sử dụng phần mềm quản lý khách sạn](https://nhavantuonglai.com/article) để tối qua các tác vụ trong hệ thống.
+Đồ ăn khách sạn chất lượng thấp là một vấn đề, và đồ ăn khách sạn phục vụ chậm chạp lại là một vấn đề khác. Đôi khi, nguyên nhân của chậm chạp đến từ công suất phòng lớn và khách sạn bị quá tải khi đáp ứng, nhưng cũng đều là do khách sạn chưa có phương án ứng phó cụ thể để áp dụng khi tình huống xảy ra như [sử dụng phần mềm quản lý khách sạn](/article) để tối qua các tác vụ trong hệ thống.
 
 Sự chậm chạp trong dịch vụ là điều tối kỵ, bởi khách sạn đối thủ họ sẽ phục vụ khách hàng của bạn nhanh hơn những gì bạn có thể. Không chỉ là đồ ăn, mà các đánh giá trực tuyến tiêu cực về sự chậm chạp trong dịch vụ phòng còn bao gồm:
 
@@ -105,7 +105,7 @@ Các vấn đề liên quan đến thái độ thường được phản ánh nh
 
 ### Quảng cáo sai sự thật
 
-Khi cập nhật thông tin trên [website khách sạn](https://nhavantuonglai.com/article), kênh bán phòng trực tuyến, nhiều khách sạn có xu hướng liệt kê các tiện nghi nhiều nhất có thể để làm đẹp thông tin. Nhìn qua, chúng không có vấn đề gì đáng lo ngại, nhưng nếu những tiện nghi đó là lý do mà các du khách sạn khách sạn của bạn, ví dụ phòng gym hay spa trong khách sạn… thì họ sẽ rất khó chịu và cảm thấy như bị lừa.
+Khi cập nhật thông tin trên [website khách sạn](/article), kênh bán phòng trực tuyến, nhiều khách sạn có xu hướng liệt kê các tiện nghi nhiều nhất có thể để làm đẹp thông tin. Nhìn qua, chúng không có vấn đề gì đáng lo ngại, nhưng nếu những tiện nghi đó là lý do mà các du khách sạn khách sạn của bạn, ví dụ phòng gym hay spa trong khách sạn… thì họ sẽ rất khó chịu và cảm thấy như bị lừa.
 
 Những vấn đề phổ biến do quảng cáo sai sự thật thường là:
 
@@ -117,11 +117,11 @@ Những vấn đề phổ biến do quảng cáo sai sự thật thường là:
 
 – Điều kiện sử dụng là _bia kèm lạc,_ để được dùng dịch vụ mà họ cần thì khách sạn phải mua kèm một dịch vụ khác
 
-Về cơ bản, [marketing khách sạn](https://nhavantuonglai.com/article) là nói quá lên mọi thứ, nhưng hãy tiết chế và chỉ cung cấp những gì khách sạn của bạn thật sự cung cấp.
+Về cơ bản, [marketing khách sạn](/article) là nói quá lên mọi thứ, nhưng hãy tiết chế và chỉ cung cấp những gì khách sạn của bạn thật sự cung cấp.
 
 ## Các bước cần thiết để xử lý các đánh giá trực tuyến tiêu cực
 
-Khi khách đặt phòng không hài lòng với trải nghiệm và cách hành xử, họ sẽ lên các [trang bán phòng trực tuyến](https://nhavantuonglai.com/article), kênh thông tin của khách sạn (Facebook, Google Business) và để lại các đánh giá trực tuyến tiêu cực. Những đánh giá đó sẽ khiến du khách quay lưng, không muốn đặt phòng tại khách sạn của bạn.
+Khi khách đặt phòng không hài lòng với trải nghiệm và cách hành xử, họ sẽ lên các [trang bán phòng trực tuyến](/article), kênh thông tin của khách sạn (Facebook, Google Business) và để lại các đánh giá trực tuyến tiêu cực. Những đánh giá đó sẽ khiến du khách quay lưng, không muốn đặt phòng tại khách sạn của bạn.
 
 Cho nên, nếu bạn nhận được những đánh giá trực tuyến tiêu cực, danh sách dưới đây là những việc có thể làm để xử lý và giảm thiểu thiệt hại từ chúng.
 
@@ -131,9 +131,9 @@ Không phải mọi đánh giá trực tuyến tiêu cực đều phản ánh đ
 
 Chúng thường được chia làm 3 nhóm chính, bao gồm:
 
-– Trải nghiệm tiêu cực: Khách đặt phòng gặp vấn đề và chúng gây trải nghiệm tiêu cực. Ví dụ như chênh lệch giá khi check in, [overbooking](https://nhavantuonglai.com/article), phòng chưa được dọn… Những tình huống này lỗi hoàn toàn nằm ở khách sạn và bạn nên thừa nhận chúng.
+– Trải nghiệm tiêu cực: Khách đặt phòng gặp vấn đề và chúng gây trải nghiệm tiêu cực. Ví dụ như chênh lệch giá khi check in, [overbooking](/article), phòng chưa được dọn… Những tình huống này lỗi hoàn toàn nằm ở khách sạn và bạn nên thừa nhận chúng.
 
-– [Trải nghiệm khó tính](https://nhavantuonglai.com/article): Khách đặt phòng gặp vấn đề nhưng chúng dựa trên tiêu chuẩn của họ. Ví dụ như phòng được dọn dẹp sạch sẽ nhưng với du khách là vẫn chưa sạch, hoặc thái độ lễ tân của người này thì được nhưng người khác lại chưa. Những tình huống như vậy, cần làm rõ vấn đề, vẫn thừa nhận và hứa hẹn khác phục tốt hơn.
+– [Trải nghiệm khó tính](/article): Khách đặt phòng gặp vấn đề nhưng chúng dựa trên tiêu chuẩn của họ. Ví dụ như phòng được dọn dẹp sạch sẽ nhưng với du khách là vẫn chưa sạch, hoặc thái độ lễ tân của người này thì được nhưng người khác lại chưa. Những tình huống như vậy, cần làm rõ vấn đề, vẫn thừa nhận và hứa hẹn khác phục tốt hơn.
 
 – Trải nghiệm thiếu căn cứ: Người dùng không đặt phòng như để lại đánh giá. Với tình huống này, bạn nên công khai bình luận, yêu cầu họ cung cấp bằng chứng để du khách khi nhìn thấy sẽ biết đây là đánh giá thiếu căn cứ.
 
@@ -145,7 +145,7 @@ Dù đánh giá trực tuyến tích cực hay tiêu cực, nếu bạn phản h
 
 ### Hãy tử tế và tránh phản ứng cá nhân
 
-[Kinh doanh khách sạn](https://nhavantuonglai.com/article) thì không ai muốn nhận các đánh giá trực tuyến tiêu cực, và đôi khi bạn sẽ phản ứng thái quá với người để lại đánh giá trực tuyến tiêu cực. Nhưng đừng làm vậy, phản ứng khi nhận đánh giá trực tuyến tiêu cực là một phần của thái độ chuyên nghiệp, và du khách cũng đang nhìn vào để xem xét liệu nơi tiếp tục tìm hiểu khách sạn của bạn hay không.
+[Kinh doanh khách sạn](/article) thì không ai muốn nhận các đánh giá trực tuyến tiêu cực, và đôi khi bạn sẽ phản ứng thái quá với người để lại đánh giá trực tuyến tiêu cực. Nhưng đừng làm vậy, phản ứng khi nhận đánh giá trực tuyến tiêu cực là một phần của thái độ chuyên nghiệp, và du khách cũng đang nhìn vào để xem xét liệu nơi tiếp tục tìm hiểu khách sạn của bạn hay không.
 
 Do vậy, hãy tiếp nhận các đánh giá trực tuyến tiêu cực một cách tử tế, cảm ơn họ vì đã chỉ ra vấn đề mà khách sạn không nhìn thấy, cũng như hứa hẹn sẽ khác phục chúng được tốt hơn, cũng đừng quên đề xuất món quà hối lỗi chân thành để bù đắp.
 
@@ -159,7 +159,7 @@ Bạn có thể thực hiện các hành động sau để giải quyết vấn 
 
 – Kiểm tra quy trình vận hành các khâu, đặc biệt là vị trí mà khách đặt phòng đánh giá trực tuyến tiêu cực.
 
-– Đánh giá xem các tiêu chí, vấn đề có thể [cải thiện hoạt động khách sạn](https://nhavantuonglai.com/article) để mọi thứ trở nên hoàn hảo hơn.
+– Đánh giá xem các tiêu chí, vấn đề có thể [cải thiện hoạt động khách sạn](/article) để mọi thứ trở nên hoàn hảo hơn.
 
 – Áp dụng thay đổi và đo lường hiệu ứng của sự thay đổi.
 

@@ -47,7 +47,7 @@ Liệu pháp thấu hiểu có một số lợi thế để cung cấp cho nhữ
 
 ### Nâng cao lòng tự trọng
 
-Liệu pháp định hướng insight sâu sắc nhấn mạnh khả năng chịu trách nhiệm cho cuộc sống của chính bạn. Liệu pháp định hướng insight sâu sắc có thể trao quyền cho một người mắc chứng rối loạn lo âu, ví dụ, để giải phóng những thói quen cũ của tâm trí và[ xây dựng lòng tự trọng](https://nhavantuonglai.com/article).
+Liệu pháp định hướng insight sâu sắc nhấn mạnh khả năng chịu trách nhiệm cho cuộc sống của chính bạn. Liệu pháp định hướng insight sâu sắc có thể trao quyền cho một người mắc chứng rối loạn lo âu, ví dụ, để giải phóng những thói quen cũ của tâm trí và[ xây dựng lòng tự trọng](/article).
 
 ### Phát triển kỹ năng ứng phó
 

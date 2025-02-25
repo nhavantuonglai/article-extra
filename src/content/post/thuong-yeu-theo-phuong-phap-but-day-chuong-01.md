@@ -191,15 +191,15 @@ Nhan nhản trong các tác phẩm về luận tạng ta thấy có rất nhiề
 
 Tứ vô lượng tâm là thuốc chữa được rất nhiều chứng bệnh của chúng sanh. Trước hết là chứng bệnh giận hờn. Người nào trong chúng ta cũng có bệnh đó, người nhiều người ít mà thôi. Người nào bệnh ít thì chữa rất mau, người bệnh nhiều thì phải chữa lâu hơn, phải thực tập nhiều. Người ta có thể giận trời, giận đất và giận người. Thứ hai là bệnh cô độc, cô đơn, phóng thể (being cut off, alienated). Phóng thể có nghĩa là bị cắt đứt ra không còn gốc rễ nữa: ta bị tách rời ra khỏi loài người, khỏi gia đình, khỏi xã hội, khỏi sự sống, ta cảm thấy bơ vơ và cô đơn. Thứ ba là bệnh sầu đau, phiền muộn (sorrow). Kế đến là bệnh lo lắng sợ hãi (worries, anxiety), bệnh mặc cảm tội lỗi (guilt) và bệnh kỳ thị và vướng mắc (discrimination, attachment). Tất cả những bệnh này đều có thể chữa lành được bằng phương pháp tứ vô lượng tâm.
 
-Đọc [Thương yêu theo phương pháp Bụt dạy, chương 01](https://nhavantuonglai.com/article/thuong-yeu-theo-phuong-phap-but-day-chuong-01) tại đây.
+Đọc [Thương yêu theo phương pháp Bụt dạy, chương 01](/article/thuong-yeu-theo-phuong-phap-but-day-chuong-01) tại đây.
 
-Đọc [Thương yêu theo phương pháp Bụt dạy, chương 02](https://nhavantuonglai.com/article/thuong-yeu-theo-phuong-phap-but-day-chuong-02) tại đây.
+Đọc [Thương yêu theo phương pháp Bụt dạy, chương 02](/article/thuong-yeu-theo-phuong-phap-but-day-chuong-02) tại đây.
 
-Đọc [Thương yêu theo phương pháp Bụt dạy, chương 03](https://nhavantuonglai.com/article/thuong-yeu-theo-phuong-phap-but-day-chuong-03) tại đây.
+Đọc [Thương yêu theo phương pháp Bụt dạy, chương 03](/article/thuong-yeu-theo-phuong-phap-but-day-chuong-03) tại đây.
 
-Đọc [Thương yêu theo phương pháp Bụt dạy, chương 04](https://nhavantuonglai.com/article/thuong-yeu-theo-phuong-phap-but-day-chuong-04) tại đây.
+Đọc [Thương yêu theo phương pháp Bụt dạy, chương 04](/article/thuong-yeu-theo-phuong-phap-but-day-chuong-04) tại đây.
 
-Đọc [Thương yêu theo phương pháp Bụt dạy, chương 05](https://nhavantuonglai.com/article/thuong-yeu-theo-phuong-phap-but-day-chuong-05) tại đây.
+Đọc [Thương yêu theo phương pháp Bụt dạy, chương 05](/article/thuong-yeu-theo-phuong-phap-but-day-chuong-05) tại đây.
 
 Đọc [Thương yêu theo phương pháp Bụt dạy, toàn tập](https://banmaixanh.vercel.app/ebook/thuong-yeu-theo-phuong-phap-but-day.pdf) tại đây.
 

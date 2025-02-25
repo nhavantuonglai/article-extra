@@ -93,21 +93,21 @@ Em vẫn còn thay lòng mình tràn ngập xót thương khi nhìn thấy giọ
 
 Đó chỉ là những thương tích. Những dấu tích. Những chứng tích của giai đoạn lịch sử này. Hãy bình tâm đi em: đau khổ sẽ làm em trưởng thành. Đau khổ sẽ làm ta trưởng thành. Bình tâm và yêu thương, em sẽ làm nên lịch sử. Thực ra, có thể em không còn tin nơi tôi. Nhưng không phải vì vậy mà tôi đã chết. Bằng cớ là em vừa nói với chúng tôi vừa lý luận với chúng tôi. _Ngoài kia, trời đang vẫn còn mưa, tôi lại đứng đây để lý luận với những người chết sao?_ Tôi thấy rồi, em ơi, cái giận dữ của em chỉ là cái giận dữ bề ngoài. Trong em, vẫn còn tin yêu, vẫn còn những liên hệ muôn đời với tôi, với Mẹ. Em nói tôi đã chết. Em nói em không nên lý luận với những người chết. Nhưng em đã lý luận với người chết rồi, đã lý luận với tôi rồi. Và như vậy trong thâm tâm em vẫn tin rằng tôi còn sống, em vẫn muốn nói chuyện với tôi. Còn gì làm sung sướng hơn nữa. Còn gì làm tôi hy vọng hơn nữa. Tất cả những xua đuổi, những oán ghét, những phũ phàng của em, trước sau, chỉ là những dấu tích, những thương tích, những chứng tích. Nằm trong sâu thẳm của hồn em, là con người đích thực của em, là huyết thống của Mẹ, là chất liệu huynh đệ của anh em ta. Em không thể nào thù ghét tôi được bởi vì em vẫn còn là em. Em hãy bình tĩnh lại, em ngồi xuống. Hãy nghe lại tiếng ru ngày xưa. Cho tâm hồn em lắng dịu. Và để cho tôi nói chuyện với em. Bởi vì dù giận dữ, hung hăng, em cũng đã muốn nói chuyện với tôi rồi.
 
-Đọc [Nói với tuổi hai mươi, chương 01](https://nhavantuonglai.com/article/noi-voi-tuoi-hai-muoi-chuong-01) tại đây.
+Đọc [Nói với tuổi hai mươi, chương 01](/article/noi-voi-tuoi-hai-muoi-chuong-01) tại đây.
 
-Đọc [Nói với tuổi hai mươi, chương 02](https://nhavantuonglai.com/article/noi-voi-tuoi-hai-muoi-chuong-02) tại đây.
+Đọc [Nói với tuổi hai mươi, chương 02](/article/noi-voi-tuoi-hai-muoi-chuong-02) tại đây.
 
-Đọc [Nói với tuổi hai mươi, chương 03](https://nhavantuonglai.com/article/noi-voi-tuoi-hai-muoi-chuong-03) tại đây.
+Đọc [Nói với tuổi hai mươi, chương 03](/article/noi-voi-tuoi-hai-muoi-chuong-03) tại đây.
 
-Đọc [Nói với tuổi hai mươi, chương 04](https://nhavantuonglai.com/article/noi-voi-tuoi-hai-muoi-chuong-04) tại đây.
+Đọc [Nói với tuổi hai mươi, chương 04](/article/noi-voi-tuoi-hai-muoi-chuong-04) tại đây.
 
-Đọc [Nói với tuổi hai mươi, chương 05](https://nhavantuonglai.com/article/noi-voi-tuoi-hai-muoi-chuong-05) tại đây.
+Đọc [Nói với tuổi hai mươi, chương 05](/article/noi-voi-tuoi-hai-muoi-chuong-05) tại đây.
 
-Đọc [Nói với tuổi hai mươi, chương 06](https://nhavantuonglai.com/article/noi-voi-tuoi-hai-muoi-chuong-06) tại đây.
+Đọc [Nói với tuổi hai mươi, chương 06](/article/noi-voi-tuoi-hai-muoi-chuong-06) tại đây.
 
-Đọc [Nói với tuổi hai mươi, chương 07](https://nhavantuonglai.com/article/noi-voi-tuoi-hai-muoi-chuong-07) tại đây.
+Đọc [Nói với tuổi hai mươi, chương 07](/article/noi-voi-tuoi-hai-muoi-chuong-07) tại đây.
 
-Đọc [Nói với tuổi hai mươi, chương 08](https://nhavantuonglai.com/article/noi-voi-tuoi-hai-muoi-chuong-08) tại đây.
+Đọc [Nói với tuổi hai mươi, chương 08](/article/noi-voi-tuoi-hai-muoi-chuong-08) tại đây.
 
 Đọc [Nói với tuổi hai mươi, toàn tập](https://banmaixanh.vercel.app/ebook/noi-voi-tuoi-hai-muoi.pdf) tại đây.
 

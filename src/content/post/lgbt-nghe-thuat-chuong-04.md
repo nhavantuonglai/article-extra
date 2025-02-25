@@ -16,9 +16,9 @@ _Nghiên cứu khoa học về LGBT với nhóm sinh viên trường Đại họ
 
 ### Kết luận
 
-[LGBT](https://nhavantuonglai.com/article/lgbt-nghe-thuat-chuong-01) là một vấn đề nhạy cảm, khi mổ xẻ có nhiều vấn đề để đánh giá, kết quả nghiên cứu là quá trình tìm hiểu, đánh giá các quan điểm xung quanh vấn đề LGBT đề làm rõ các vấn đề. Qua nghiên cứu này, chúng tôi cố gắng làm rõ các vấn đề mang tính trọng tâm, chủ chốt, gây tác động đến hành động, suy nghĩ của sinh viên, từ đó đề ra những biện pháp, điều chỉnh hành vi theo hướng tích cực cho số đông sinh viên.
+[LGBT](/article/lgbt-nghe-thuat-chuong-01) là một vấn đề nhạy cảm, khi mổ xẻ có nhiều vấn đề để đánh giá, kết quả nghiên cứu là quá trình tìm hiểu, đánh giá các quan điểm xung quanh vấn đề LGBT đề làm rõ các vấn đề. Qua nghiên cứu này, chúng tôi cố gắng làm rõ các vấn đề mang tính trọng tâm, chủ chốt, gây tác động đến hành động, suy nghĩ của sinh viên, từ đó đề ra những biện pháp, điều chỉnh hành vi theo hướng tích cực cho số đông sinh viên.
 
-Sinh viên [tham gia khảo sát](https://nhavantuonglai.com/article/lgbt-nghe-thuat-chuong-02) đa phần có quan điểm, chính kiến rõ ràng, thể hiện thái độ, trách nhiệm khi tham gia khảo sát, thể hiện suy nghĩ thoáng, rộng mở, không bị bó hẹp trong một phạm vi, một định kiến nhất định.
+Sinh viên [tham gia khảo sát](/article/lgbt-nghe-thuat-chuong-02) đa phần có quan điểm, chính kiến rõ ràng, thể hiện thái độ, trách nhiệm khi tham gia khảo sát, thể hiện suy nghĩ thoáng, rộng mở, không bị bó hẹp trong một phạm vi, một định kiến nhất định.
 
 Đa phần các sinh viên hiểu và biết về các khái niệm thuộc LGBT, cũng như phân biệt rõ các nhóm phân biệt thuộc cộng đồng LGBT. Tuy nhiên vẫn còn hạn chế về định nghĩa giới và nguồn gốc.
 
@@ -26,7 +26,7 @@ Sinh viên [tham gia khảo sát](https://nhavantuonglai.com/article/lgbt-nghe-t
 
 Đối với nhà trường
 
-Dựa trên [kết quả nghiên cứu](https://nhavantuonglai.com/article/lgbt-nghe-thuat-chuong-03), Cần tạo môi trường học tập trong sáng, lành mạnh cho sinh viên. Thường xuyên tổ chức những buổi giao lưu, nói chuyện, chia sẻ giữa cán bộ giảng dạy, chuyên gia tâm lý và sinh viên, giữa sinh viên các khóa với nhau về vấn đề LGBT để nâng cao, củng cố thêm kiến thức có cái nhìn tích cực hơn về vấn đề này.
+Dựa trên [kết quả nghiên cứu](/article/lgbt-nghe-thuat-chuong-03), Cần tạo môi trường học tập trong sáng, lành mạnh cho sinh viên. Thường xuyên tổ chức những buổi giao lưu, nói chuyện, chia sẻ giữa cán bộ giảng dạy, chuyên gia tâm lý và sinh viên, giữa sinh viên các khóa với nhau về vấn đề LGBT để nâng cao, củng cố thêm kiến thức có cái nhìn tích cực hơn về vấn đề này.
 
 Đối với xã hội
 
@@ -48,13 +48,13 @@ Giúp đỡ, hỗ trợ cộng đồng LGBT hòa nhập, tìm được niềm vu
 
 ## Danh mục bài viết
 
-– [Nhận thức sinh viên nghệ thuật về LGBT (Phần 1: Tổng quan nghiên cứu)](https://nhavantuonglai.com/article/lgbt-nghe-thuat-chuong-01)
+– [Nhận thức sinh viên nghệ thuật về LGBT (Phần 1: Tổng quan nghiên cứu)](/article/lgbt-nghe-thuat-chuong-01)
 
-– [Nhận thức sinh viên nghệ thuật về LGBT (Phần 2: Cơ sở lý luận của đề tài)](https://nhavantuonglai.com/article/lgbt-nghe-thuat-chuong-02)
+– [Nhận thức sinh viên nghệ thuật về LGBT (Phần 2: Cơ sở lý luận của đề tài)](/article/lgbt-nghe-thuat-chuong-02)
 
-– [Nhận thức sinh viên nghệ thuật về LGBT (Phần 3: Nghiên cứu và kết quả nghiên cứu)](https://nhavantuonglai.com/article/lgbt-nghe-thuat-chuong-03)
+– [Nhận thức sinh viên nghệ thuật về LGBT (Phần 3: Nghiên cứu và kết quả nghiên cứu)](/article/lgbt-nghe-thuat-chuong-03)
 
-– [Nhận thức sinh viên nghệ thuật về LGBT (Phần 4: Kết luận và kiến nghị)](https://nhavantuonglai.com/article/lgbt-nghe-thuat-chuong-04)
+– [Nhận thức sinh viên nghệ thuật về LGBT (Phần 4: Kết luận và kiến nghị)](/article/lgbt-nghe-thuat-chuong-04)
 
 ## Tài liệu tham khảo
 

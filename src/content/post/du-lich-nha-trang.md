@@ -93,7 +93,7 @@ Hòn Miễu được biết đến là một trong những đảo đẹp nhất 
 
 Ở đây, du khách đừng quên tham quan thủy cung Trí Nguyên, với thiết kế con tàu khổng lồ. Bên trong là tầng hầm với 4 bể cá. Đây là khu vực tham quan chính, tập trung hàng trăm sinh vật biển như một đại dương thu nhỏ. Ở tầng 2, 3 là nhà hàng và nơi bán đồ lưu niệm.
 
-[Hòn Tằm](https://nhavantuonglai.com/article) cách đất liền khoảng 7 km về phía đông nam của thành phố. Đây là hòn đảo sở hữu thảm rừng xanh, bãi cát dài sóng êm, đặc biệt thích hợp với những du khách yêu thích du lịch nghỉ dưỡng.
+[Hòn Tằm](/article) cách đất liền khoảng 7 km về phía đông nam của thành phố. Đây là hòn đảo sở hữu thảm rừng xanh, bãi cát dài sóng êm, đặc biệt thích hợp với những du khách yêu thích du lịch nghỉ dưỡng.
 
 Hòn Chồng ở đường Phạm Văn Đồng, cách trung tâm thành phố khoảng 3 km về hướng Đông Bắc. Nơi đây là một quần thể khối đá lớn với đủ loại hình thù, xếp chồng lên nhau chạy từ bờ cao xuống biển. Địa điểm du lịch này cũng là một trong những nơi đẹp nhất để ngắm nhìn thành phố biển, không khí trong lành, yên tĩnh.
 
@@ -133,7 +133,7 @@ Ngoài hành hương và chụp ảnh với những tòa tháp cổ nguy nga, du
 
 ### Núi Cô Tiên
 
-Du khách đến Thành phố Nha Trang, đi theo hướng đường Phạm Văn Đồng về phía bắc, đến khu vực Đường Đệ sẽ thấy [núi Cô Tiên](https://nhavantuonglai.com/article) ở phường Vĩnh Hòa, được tạo thành từ ba đỉnh núi liền kề nhau, cao từ 200 m đến hơn 300 m. Điểm đến cách trung tâm thành phố khoảng 10 km, thường xuyên được người dân phố biển leo để rèn luyện sức khỏe hoặc cắm trại.
+Du khách đến Thành phố Nha Trang, đi theo hướng đường Phạm Văn Đồng về phía bắc, đến khu vực Đường Đệ sẽ thấy [núi Cô Tiên](/article) ở phường Vĩnh Hòa, được tạo thành từ ba đỉnh núi liền kề nhau, cao từ 200 m đến hơn 300 m. Điểm đến cách trung tâm thành phố khoảng 10 km, thường xuyên được người dân phố biển leo để rèn luyện sức khỏe hoặc cắm trại.
 
 Đường lên núi Cô Tiên không quá khó, trẻ nhỏ cũng có thể theo người lớn leo, thời gian tầm 30-45 phút, xuất phát từ chân núi đến chỗ cắm trại trên đỉnh số một. Thời gian leo núi để đón bình minh từ 5h30 và ngắm hoàng hôn từ 15h30. Nếu đi xe máy, bạn gửi xe ở nhà dân khu vực đường Ngô Văn Sở, giá 5.000 đồng/xe máy. Tại đây có cho thuê lều, đèn pin…
 

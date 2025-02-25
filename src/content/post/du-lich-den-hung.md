@@ -107,7 +107,7 @@ Trên mỗi mặt tường đều đắp mặt hổ phù, thành bậc đắp k�
 
 Lê Hải, Phó chủ tịch Chi hội hướng dẫn viên Du lịch tỉnh Phú Thọ, cho biết tham quan đền thờ các vua Hùng chỉ mất nửa buổi. Do đó, du khách có thể kết hợp thăm các điểm đến trong thành phố như đàn Tịch điền (nơi vua Hùng dạy dân cấy lúa), đền Tiên (thờ vợ vua Kinh Dương Vương, mẹ đẻ Lạc Long Quân), lầu Kén rể nằm trên Cầu vàng ở công viên Văn Lang.
 
-Nếu dự định đi hai ngày, hãy đến [đồi chè Long Cốc](https://nhavantuonglai.com/article), săn sương sớm và ngắm bình minh, khu du lịch sinh thái vườn quốc gia Xuân Sơn, khu du lịch khoáng nóng Thanh Thủy…
+Nếu dự định đi hai ngày, hãy đến [đồi chè Long Cốc](/article), săn sương sớm và ngắm bình minh, khu du lịch sinh thái vườn quốc gia Xuân Sơn, khu du lịch khoáng nóng Thanh Thủy…
 
 ## Ăn uống
 

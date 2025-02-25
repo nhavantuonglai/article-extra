@@ -69,13 +69,13 @@ Trong khi thực tập hơi thở chánh niệm, ta có đủ bình tĩnh và s�
 
 Phép thực tập đầu để khơi suối yêu thương là phép thực tập lắng nghe. Lắng nghe là hạnh nguyện của bồ tát Quán Thế Âm. Vị bồ tát này có khả năng làm cho người bớt khổ bằng cách sử dụng phép lắng nghe. Lắng nghe với tâm từ bi thì chỉ một giờ đồng hồ sau người kia đã thấy bớt khổ. Lắng nghe với tâm từ bi được gọi là Bi thính (compassionate listening). Lắng nghe với tâm từ bi không phải là chuyện dễ, bạn phải tập luyện ít nhất là một tuần mới có thể làm được. Trước hết, bạn phải ngồi lại và nhìn kỹ để thấy được những khổ đau, những khó khăn, những bức xúc, những tuyệt vọng của người kia. Có thể là bậc thân sinh ra mình đã không có khả năng nhận diện, ôm ấp và chuyển hóa được những khổ đau của bản thân nên đã tự làm khổ mình và trút xuống bạn những đau khổ không được chuyển hóa ấy. Chưa ai từng giúp được người ấy, kể cả bạn. Bạn đã không giúp được người ấy mà bạn còn làm cho tình trạng nặng nề thêm vì những phản ứng phát xuất từ sự bực tức và khổ đau của bạn. Bạn biết là bạn có một phần trách nhiệm trong cái khổ đau và bức xúc của người ấy. Người ấy cần được giúp đỡ để thoát ra khỏi được tình trạng ấy. Thay vì nhận được sự giúp đỡ, người ấy lại bị trách móc, giận hờn và trừng phạt. Thái độ lạnh nhạt của mình cũng là một sự trừng phạt. Trực tiếp hoặc gián tiếp chứng tỏ rằng mình không cần đến người ấy, cũng là một sự trừng phạt. Tự làm khổ mình, đi tự tử cũng là một sự trừng phạt. Chỉ khi nào quán chiếu mà thấy thương được người kia thì bạn mới bắt đầu có khả năng thực tập lắng nghe người ấy. Lắng nghe là để giúp người kia bớt khổ.
 
-Đọc [Thiền nam chỉ tập, chương 01](https://nhavantuonglai.com/article/chi-nam-thien-tap-chuong-01) tại đây.
+Đọc [Thiền nam chỉ tập, chương 01](/article/chi-nam-thien-tap-chuong-01) tại đây.
 
-Đọc [Thiền nam chỉ tập, chương 02](https://nhavantuonglai.com/article/chi-nam-thien-tap-chuong-02) tại đây.
+Đọc [Thiền nam chỉ tập, chương 02](/article/chi-nam-thien-tap-chuong-02) tại đây.
 
-Đọc [Thiền nam chỉ tập, chương 03](https://nhavantuonglai.com/article/chi-nam-thien-tap-chuong-03) tại đây.
+Đọc [Thiền nam chỉ tập, chương 03](/article/chi-nam-thien-tap-chuong-03) tại đây.
 
-Đọc [Thiền nam chỉ tập, chương 04](https://nhavantuonglai.com/article/chi-nam-thien-tap-chuong-04) tại đây.
+Đọc [Thiền nam chỉ tập, chương 04](/article/chi-nam-thien-tap-chuong-04) tại đây.
 
 Đọc [Thiền nam chỉ tập, toàn tập](https://banmaixanh.vercel.app/ebook/chi-nam-thien-tap.pdf) tại đây.
 

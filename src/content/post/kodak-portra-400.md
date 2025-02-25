@@ -45,7 +45,7 @@ Sự thành công của Kodak Portra 400 đã tạo ra một làn sóng mới tr
 
 ### Đặc tính cơ bản và cấu trúc film
 
-[Kodak Portra 400](https://nhavantuonglai.com/article/kodak-portra-400) có cấu trúc nhiều lớp phức tạp, mỗi lớp đều được thiết kế với mục đích cụ thể. Lớp nhũ tương bạc halogen được tinh chỉnh để đạt độ nhạy sáng ISO 800, trong khi các lớp màu được tối ưu hóa cho ánh sáng nhân tạo. Điều đặc biệt là việc loại bỏ lớp RemJet đã tạo ra hiệu ứng halo độc đáo xung quanh các nguồn sáng mạnh, tạo nên đặc trưng riêng cho những bức ảnh chụp bằng Kodak Portra 400.
+[Kodak Portra 400](/article/kodak-portra-400) có cấu trúc nhiều lớp phức tạp, mỗi lớp đều được thiết kế với mục đích cụ thể. Lớp nhũ tương bạc halogen được tinh chỉnh để đạt độ nhạy sáng ISO 800, trong khi các lớp màu được tối ưu hóa cho ánh sáng nhân tạo. Điều đặc biệt là việc loại bỏ lớp RemJet đã tạo ra hiệu ứng halo độc đáo xung quanh các nguồn sáng mạnh, tạo nên đặc trưng riêng cho những bức ảnh chụp bằng Kodak Portra 400.
 
 Cấu trúc film còn bao gồm các lớp lọc màu tinh vi, giúp cân bằng màu sắc trong điều kiện ánh sáng khác nhau. Độ dày của film được kiểm soát chặt chẽ để đảm bảo khả năng cuốn film mượt mà trong máy ảnh và độ phẳng tối ưu khi chụp. Bề mặt film được xử lý đặc biệt để chống trầy xước và bụi bẩn, góp phần bảo vệ chất lượng ảnh.
 

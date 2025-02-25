@@ -31,11 +31,11 @@ Thiền sư chính là người thành lập dòng tu tiếp hiện, hành trì 
 
 Cuối năm 2013, thiền sư Thích Nhất Hạnh đã tổ chức chuyến hoằng pháp đạo Phật dọc nước Mỹ, kéo dài suốt hai tháng với hàng trăm buổi thuyết pháp, hàng chục khóa tu tại rất nhiều địa danh nổi tiếng như Đại học Harvad, Ngân hàng Wold bank, Công ty Google, Facebook. Nhà báo Hoàng Anh Sướng đã theo chân thiền sư trong suốt cuộc hành trình đó và đã thực hiện cuộc trò chuyện này với rất nhiều tâm huyết và niềm hứng khởi._
 
-Đọc [An lạc từng bước chân, chương 01](https://nhavantuonglai.com/article/an-lac-tung-buoc-chan-chuong-01) tại đây.
+Đọc [An lạc từng bước chân, chương 01](/article/an-lac-tung-buoc-chan-chuong-01) tại đây.
 
-Đọc [An lạc từng bước chân, chương 02](https://nhavantuonglai.com/article/an-lac-tung-buoc-chan-chuong-02) tại đây.
+Đọc [An lạc từng bước chân, chương 02](/article/an-lac-tung-buoc-chan-chuong-02) tại đây.
 
-Đọc [An lạc từng bước chân, chương 03](https://nhavantuonglai.com/article/an-lac-tung-buoc-chan-chuong-03) tại đây.
+Đọc [An lạc từng bước chân, chương 03](/article/an-lac-tung-buoc-chan-chuong-03) tại đây.
 
 Đọc [An lạc từng bước chân, toàn tập](https://banmaixanh.vercel.app/ebook/an-lac-tung-buoc-chan.pdf) tại đây.
 

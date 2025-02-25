@@ -69,7 +69,7 @@ Khi áp dụng công nghệ, khách sạn sẽ đáp ứng tốt các nhu cầu,
 
 Một trải nghiệm thông thường là trải nghiệm đáp ứng tốt, hiệu quả những điều mà du khách kỳ vọng. Một trải nghiệm hơn cả bình thường là hơn cả như vậy, khi đáp ứng tốt hơn, khiến du khách phải ngạc nhiên. Để làm được điều này, khách sạn cần phải:
 
-– Tạo ấn tượng tốt trên [kênh bán phòng](https://nhavantuonglai.com/article), [website khách sạn](https://nhavantuonglai.com/article).
+– Tạo ấn tượng tốt trên [kênh bán phòng](/article), [website khách sạn](/article).
 
 – Cung cấp các ưu đãi, khuyến mãi hấp dẫn cho du khách.
 

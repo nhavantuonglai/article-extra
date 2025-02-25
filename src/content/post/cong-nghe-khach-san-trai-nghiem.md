@@ -17,7 +17,7 @@ tags:
 
 _Một trong những thách thức lớn nhất đối với những người làm khách sạn hiện đại là cân bằng giữa công nghệ và yếu tố con người. Công nghệ có thể tối ưu trải nghiệm khách hàng, loại bỏ những rắc rối và điểm khó chịu, nhưng chính con người mới làm nên sự đặc biệt của ngành dịch vụ khách sạn._
 
-Tuy nhiên, công nghệ xuất sắc có thể trao quyền cho con người – không chỉ cho khách hàng mà cả nhân viên khách sạn. Và nó có khả năng làm cho [trải nghiệm khách hàng](/https://nhavantuonglai.com/article/cong-nghe-khach-san-trai-nghiem) trở nên nhân văn hơn, không phải ít đi. Chủ đề này cũng được chúng tôi khám phá trong một bài viết gần đây hợp tác với Deloitte.
+Tuy nhiên, công nghệ xuất sắc có thể trao quyền cho con người – không chỉ cho khách hàng mà cả nhân viên khách sạn. Và nó có khả năng làm cho [trải nghiệm khách hàng](//article/cong-nghe-khach-san-trai-nghiem) trở nên nhân văn hơn, không phải ít đi. Chủ đề này cũng được chúng tôi khám phá trong một bài viết gần đây hợp tác với Deloitte.
 
 Chủ đề này quan trọng đến mức chúng tôi đã đi sâu vào chi tiết hơn trong một buổi hội thảo trực tuyến, cũng hợp tác với Deloitte, mang tên _Nhân văn hóa dịch vụ khách sạn: Làm thế nào để giữ khách hàng và nhân viên hài lòng._ Hãy đăng ký tham gia, sau đó đọc tiếp.
 

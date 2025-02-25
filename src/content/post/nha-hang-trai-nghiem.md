@@ -18,7 +18,7 @@ _Khi nói về một nhà hàng điều hành hiệu quả, chúng không chỉ 
 
 Nhiều người khi tìm đến nhà hàng của bạn, trước tiên là họ tìm đến sự nổi tiếng, được thể hiện qua những bài viết, hình ảnh tích cực trên truyền thông. Nhưng những gì diễn ra bên trong nhà hàng, khi họ đã yên vị và gọi món mới là điểm mấu chốt khiến họ quay trở lại. Không chú ý đến chúng, là nhà hàng của bạn đang bỏ qua thành công.
 
-Một [trải nghiệm ăn uống](https://nhavantuonglai.com/article) tốt sẽ tạo nên một ấn tượng tốt, khiến thực khách nhớ mãi về nhà hàng của bạn. Những điều dù nhỏ nhặt như là nhớ tên và gọi chúng mỗi khi bạn đem món ra, duy trì tương tác hay một cuộc trao đổi ngắn về nguy cơ dị ứng… cũng là cơ sở để hình thành nên tệp khách hàng trung thành.
+Một [trải nghiệm ăn uống](/article) tốt sẽ tạo nên một ấn tượng tốt, khiến thực khách nhớ mãi về nhà hàng của bạn. Những điều dù nhỏ nhặt như là nhớ tên và gọi chúng mỗi khi bạn đem món ra, duy trì tương tác hay một cuộc trao đổi ngắn về nguy cơ dị ứng… cũng là cơ sở để hình thành nên tệp khách hàng trung thành.
 
 Muốn có một tệp khách hàng trung thành là điều ai cũng nhận ra và muốn đạt được; nhưng để tìm kiếm sự phù hợp, và thể hiện chúng một cách nhất quán thì không phải ai cũng đạt được. Sự phù hợp trong trải nghiệm, chính là những bài trí mà bạn bày ra trong nhà hàng, liệu chúng có phù hợp với tổng thể, với số tiền mà thực khách bỏ ra hay không. Sự nhất quán là cách các món ăn, phụ kiện trong nhà hàng tương đồng, hỗ trợ lẫn nhau để thực khách cảm thấy ngon miệng, hấp dẫn hơn khi trải nghiệm trong nhà hàng.
 
@@ -26,11 +26,11 @@ Có thể bạn chưa đo lường, nhưng 5% thực khách quay lại (vì hài
 
 Tìm đọc thêm nội dung liên quan:
 
-– [10 giải pháp thu hút khách hàng đến nhà hàng hiệu quả đã được chứng minh](https://nhavantuonglai.com/article)
+– [10 giải pháp thu hút khách hàng đến nhà hàng hiệu quả đã được chứng minh](/article)
 
-– [Điều hành nhà hàng hiệu quả hơn bằng cách đọc vị thực khách](https://nhavantuonglai.com/article)
+– [Điều hành nhà hàng hiệu quả hơn bằng cách đọc vị thực khách](/article)
 
-– [Mọi điều cần biết về phần mềm quản lý nhà hàng](https://nhavantuonglai.com/article)
+– [Mọi điều cần biết về phần mềm quản lý nhà hàng](/article)
 
 ## Tiêu chuẩn dịch vụ nhà hàng là gì và làm thế nào để duy trì chúng?
 
@@ -50,7 +50,7 @@ Tất nhiên, mọi người điều biết cái gì nên và không nên, nhưn
 
 Có sổ tay hướng dẫn, checklist vận hành nhà hàng là một khởi đầu tuyệt vời. Nhưng sẽ không ích gì nếu chúng không phù hợp, hoặc nhân viên nhà hàng không thực sự hiểu chúng để làm gì. Do vậy, hãy đảm bảo mọi nhân viên trong nhà hàng đều được thông báo, định hướng về các tiêu chuẩn; và bạn cũng nắm rõ những vấn đề mà nhân viên của bạn gặp phải khi triển khai chúng, nhằm có những điều chỉnh cho phù hợp.
 
-Bên cạnh đó, [nhân viên phục vụ](https://nhavantuonglai.com/article) còn là cầu nối giữa thực khách (nhu cầu) và toàn bộ hệ thống nhà hàng (khả năng đáp ứng), cho nên – họ hiểu và rõ nhất về hành vi, sở thích và lựa chọn của thực khách; và những ý kiến đấy sẽ giúp các tiêu chí trở nên phù hợp với khách sạn của bạn hơn.
+Bên cạnh đó, [nhân viên phục vụ](/article) còn là cầu nối giữa thực khách (nhu cầu) và toàn bộ hệ thống nhà hàng (khả năng đáp ứng), cho nên – họ hiểu và rõ nhất về hành vi, sở thích và lựa chọn của thực khách; và những ý kiến đấy sẽ giúp các tiêu chí trở nên phù hợp với khách sạn của bạn hơn.
 
 Khi nhân viên của bạn không nhận thức được tầm quan trọng của các tiêu chuẩn và chuyên tâm vào chúng, thì những gì bạn cố công tạo ra sẽ đổ xuống sông xuống bể, theo cách mà bạn không bao giờ muốn nghĩ tới. Chính vì thế, việc duy trì tương tác và cải thiện năng lực của nhân viên là điều hết sức quan trọng; không chỉ giúp chất lượng phục vụ tổng thể được nâng lên, mà trải nghiệm của thực khách luôn được đảm bảo.
 
@@ -82,7 +82,7 @@ Với từng nhà hàng sẽ có từng tiêu chuẩn riêng, phù hợp với m
 
 – Hỏi về gu ẩm thực, thức ăn gây dị ứng và các yêu cầu khi ăn uống.
 
-– Đảm bảo đơn hàng được chuyển tiếp đến bếp chính xác, [không giao sai món](https://nhavantuonglai.com/article).
+– Đảm bảo đơn hàng được chuyển tiếp đến bếp chính xác, [không giao sai món](/article).
 
 – Theo dõi hành trình ăn uống của thực khách, và hỗ trợ khi họ gặp vấn đề.
 

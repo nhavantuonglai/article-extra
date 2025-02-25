@@ -67,23 +67,23 @@ Nuôi tình yêu bằng thực phẩm nào? Bằng cái hiểu và cái thương
 
 Mà chỉ khi ta _biết_ cách nhìn nhau, và biết cách nhìn lại bản thân mình, ta mới chế tác được hai loại năng lượng quý báu ấy để nuôi lớn tình yêu. Nuôi lớn tình yêu, không những ta trị liệu được cho bản thân mà ta còn trị liệu được cho người bên cạnh. Tình yêu càng được nuôi lớn càng có đối tượng lớn. Người yêu ơi, tình yêu của anh nếu là tình yêu chân thật thì nó sẽ lớn lên không ngừng và sẽ ôm từ từ hết cả mọi người và mọi loài. Tình yêu của anh không những nuôi dưỡng được anh mà còn nuôi dưỡng được tất cả chúng tôi. Đó là tình yêu không biên giới, không kỳ thị. Đó là trái tim chứa đựng được thái hư. Đó là vô lượng từ, vô lượng bi. Nó đem niềm vui cho tất cả cho nên nó là vô lượng hỷ. Nó không loại trừ bất cứ ai cho nên nó là vô lượng xả. Tình yêu không lớn lên là tình yêu đang bắt đầu chết. Cho nên nhìn nhau là để nuôi lớn tình yêu. Nhìn vào nỗi khổ niềm đau của người yêu, ta thấy được nỗi khổ niềm đau của mọi loài, và tâm bi của ta sẽ lớn lên, hùng tráng như sấm động, lòng từ của ta sẽ là mưa cam lộ thấm vào trái tim của mọi loài. Một đám mây trông hiền lành như thế nhưng có khả năng tạo thành sấm sét. Tình thương chân thật không bao giờ là sự yếu đuối. Đại bi là đại dũng. Đại từ cũng là đại dũng.
 
-Đọc [Bây giờ mới thấy, chương 01](https://nhavantuonglai.com/article/bay-gio-moi-thay-chuong-01) tại đây.
+Đọc [Bây giờ mới thấy, chương 01](/article/bay-gio-moi-thay-chuong-01) tại đây.
 
-Đọc [Bây giờ mới thấy, chương 02](https://nhavantuonglai.com/article/bay-gio-moi-thay-chuong-02) tại đây.
+Đọc [Bây giờ mới thấy, chương 02](/article/bay-gio-moi-thay-chuong-02) tại đây.
 
-Đọc [Bây giờ mới thấy, chương 03](https://nhavantuonglai.com/article/bay-gio-moi-thay-chuong-03) tại đây.
+Đọc [Bây giờ mới thấy, chương 03](/article/bay-gio-moi-thay-chuong-03) tại đây.
 
-Đọc [Bây giờ mới thấy, chương 04](https://nhavantuonglai.com/article/bay-gio-moi-thay-chuong-04) tại đây.
+Đọc [Bây giờ mới thấy, chương 04](/article/bay-gio-moi-thay-chuong-04) tại đây.
 
-Đọc [Bây giờ mới thấy, chương 05](https://nhavantuonglai.com/article/bay-gio-moi-thay-chuong-05) tại đây.
+Đọc [Bây giờ mới thấy, chương 05](/article/bay-gio-moi-thay-chuong-05) tại đây.
 
-Đọc [Bây giờ mới thấy, chương 06](https://nhavantuonglai.com/article/bay-gio-moi-thay-chuong-06) tại đây.
+Đọc [Bây giờ mới thấy, chương 06](/article/bay-gio-moi-thay-chuong-06) tại đây.
 
-Đọc [Bây giờ mới thấy, chương 07](https://nhavantuonglai.com/article/bay-gio-moi-thay-chuong-07) tại đây.
+Đọc [Bây giờ mới thấy, chương 07](/article/bay-gio-moi-thay-chuong-07) tại đây.
 
-Đọc [Bây giờ mới thấy, chương 08](https://nhavantuonglai.com/article/bay-gio-moi-thay-chuong-08) tại đây.
+Đọc [Bây giờ mới thấy, chương 08](/article/bay-gio-moi-thay-chuong-08) tại đây.
 
-Đọc [Bây giờ mới thấy, chương 09](https://nhavantuonglai.com/article/bay-gio-moi-thay-chuong-09) tại đây.
+Đọc [Bây giờ mới thấy, chương 09](/article/bay-gio-moi-thay-chuong-09) tại đây.
 
 Đọc [Bây giờ mới thấy, toàn tập](https://banmaixanh.vercel.app/ebook/bay-gio-moi-thay.pdf) tại đây.
 

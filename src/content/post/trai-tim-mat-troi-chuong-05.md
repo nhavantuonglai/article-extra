@@ -93,15 +93,15 @@ Tôi có người bạn là nhà khảo cứu khoa học, hiện dang hướng d
 
 Viết câu ấy cho ông bạn khoa học gia có nghĩa là tôi cùng bơi với anh để vượt qua giai đoạn khó khăn. May mắn cho chúng tôi là cái phao ấy đã giúp nhiều cho tôi và cho ông bạn. Phần đông chúng ta chỉ thấy rằng chúng ta là sóng mà mà quên rằng chúng ta là nước. Chúng ta quen sống với sinh diệt mà không quen sống với bất sinh bất và diệt. Sóng sống đời sống của nước hoặc ta sống đời sống của bất sinh bất diệt, điều ấy nào có lạ lùng gì, nào có khó khăn gì. Thì bao giờ mà sóng chẳng sống đời sống của nước, ta chẳng sống đời sống của bất sinh bất diệt? Chỉ cần biết là ta đang sống trong đời sống của bất sinh bất diệt mà thôi. Tất cả nằm trong một tiếng biết, mà biết tức là nhận ra, là chánh niệm. Bao nhiêu công phu của thiền quán chỉ la_ để tỉnh dậy mà biết một điều đó: sinh diệt đâu có động gì được đến ta.
 
-Đọc [Trái tim mặt trời, chương 01](https://nhavantuonglai.com/article/trai-tim-mat-troi-chuong-01) tại đây.
+Đọc [Trái tim mặt trời, chương 01](/article/trai-tim-mat-troi-chuong-01) tại đây.
 
-Đọc [Trái tim mặt trời, chương 02](https://nhavantuonglai.com/article/trai-tim-mat-troi-chuong-02) tại đây.
+Đọc [Trái tim mặt trời, chương 02](/article/trai-tim-mat-troi-chuong-02) tại đây.
 
-Đọc [Trái tim mặt trời, chương 03](https://nhavantuonglai.com/article/trai-tim-mat-troi-chuong-03) tại đây.
+Đọc [Trái tim mặt trời, chương 03](/article/trai-tim-mat-troi-chuong-03) tại đây.
 
-Đọc [Trái tim mặt trời, chương 04](https://nhavantuonglai.com/article/trai-tim-mat-troi-chuong-04) tại đây.
+Đọc [Trái tim mặt trời, chương 04](/article/trai-tim-mat-troi-chuong-04) tại đây.
 
-Đọc [Trái tim mặt trời, chương 05](https://nhavantuonglai.com/article/trai-tim-mat-troi-chuong-05) tại đây.
+Đọc [Trái tim mặt trời, chương 05](/article/trai-tim-mat-troi-chuong-05) tại đây.
 
 Đọc [Trái tim mặt trời, toàn tập](https://banmaixanh.vercel.app/ebook/trai-tim-mat-troi.pdf) tại đây.
 

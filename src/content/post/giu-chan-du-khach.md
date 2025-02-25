@@ -31,7 +31,7 @@ Cải thiện, biến những trải nghiệm tệ thành trải nghiệm tốt 
 
 – Chi phí thu hút khách hàng mới tốn gấp 5 lần so với chi phí giữ chân khách hàng hiện tại. (từ The National Law Review).
 
-Những con số trên đây đã phản ánh rõ một điều quan trọng: [giữ chân du khách](https://nhavantuonglai.com/article) cho khách sạn là điều tối quan trọng với các khách sạn.
+Những con số trên đây đã phản ánh rõ một điều quan trọng: [giữ chân du khách](/article) cho khách sạn là điều tối quan trọng với các khách sạn.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-093.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
@@ -49,7 +49,7 @@ Khách hàng trung thành cũng sẽ thường xuyên ghé khách sạn của b�
 
 ### Khách đặt phòng lặp lại chia sẻ về khách sạn với bạn bè của họ
 
-Khách đặt phòng lặp lại là [chiến lược Marketing](https://nhavantuonglai.com/article) tốt nhất mà khách sạn của bạn đang có. Họ có thể chia sẻ những điều tích cực, nhưng cũng rất dễ dàng lan tỏa những điều tiêu cực – khi chúng thật sự diễn ra như vậy, nên đảm bảo trải nghiệm dành cho họ luôn là tích cực và khuyến khích họ chia sẻ điều ấy là một việc vô cùng quan trọng.
+Khách đặt phòng lặp lại là [chiến lược Marketing](/article) tốt nhất mà khách sạn của bạn đang có. Họ có thể chia sẻ những điều tích cực, nhưng cũng rất dễ dàng lan tỏa những điều tiêu cực – khi chúng thật sự diễn ra như vậy, nên đảm bảo trải nghiệm dành cho họ luôn là tích cực và khuyến khích họ chia sẻ điều ấy là một việc vô cùng quan trọng.
 
 Theo khảo sát từ Nielsen, 92% du khách tin tưởng vào trải nghiệm của người khác (bạn bè, gia đình hay cộng đồng trên mạng…) về một khách sạn, dịch vụ nào mà họ đang muốn sử dụng. Vậy nên, sẽ là một điều rất tốt nếu du khách trung thành của khách sạn có thể quảng bá, chia sẻ nhiều hơn về những trải nghiệm tích cực trong khách sạn của bạn.
 
@@ -87,7 +87,7 @@ Tips dành cho khách sạn: Thời điểm phù hợp cho chiến lược này 
 
 Đôi khi, du khách sẽ gặp phải một vấn đề nào đó, và nhiệm vụ của bạn là cần giải quyết chúng nhanh nhất có thể. Một vấn đề khi xảy ra có thể tạo nên ấn tượng không tốt, trải nghiệm tồi tệ; nhưng khi chúng được giải quyết triệt để, trải nghiệm tệ ấy sẽ không còn, thay vào đó là ấn tượng mạnh và đầy tích cực.
 
-Khách sạn cũng nên sẵn sàng, có phương án cho các tình huống phát sinh đột ngột, bởi đó là cách tốt nhất để khôi phục, cải thiện hình ảnh và [thương hiệu khách sạn](https://nhavantuonglai.com/article). Khi những điều này được làm tốt, du khách sẽ hào hứng và quay trở lại với khách sạn. Ngoài ra, cũng hãy xây dựng các chính sách đặc trưng, ưu tiên trải nghiệm khách hàng như là:
+Khách sạn cũng nên sẵn sàng, có phương án cho các tình huống phát sinh đột ngột, bởi đó là cách tốt nhất để khôi phục, cải thiện hình ảnh và [thương hiệu khách sạn](/article). Khi những điều này được làm tốt, du khách sẽ hào hứng và quay trở lại với khách sạn. Ngoài ra, cũng hãy xây dựng các chính sách đặc trưng, ưu tiên trải nghiệm khách hàng như là:
 
 – Linh động thời gian ăn sáng và bữa ăn.
 
@@ -129,7 +129,7 @@ Tips dành cho khách sạn: Du khách thường bị thu hút, chú ý bởi nh
 
 ### Đề xuất tương tác, phản hồi
 
-Khi khách đặt phòng phàn nàn, hoặc vấn đề quá rõ ràng thì khách sạn mới biết để giải quyết. Nhưng nếu họ im lặng và rời đi, bạn sẽ không biết trong quá trình lưu trú họ có gặp chuyện gì không hài lòng hay không. Nếu khách sạn không chủ động, bạn sẽ lỡ mất cơ hội tìm hiểu và giải quyết vấn đề họ gặp phải, và chỉ biết khi chúng xuất hiện trên các trang [đánh giá trực tuyến](https://nhavantuonglai.com/article) thì mọi chuyện đã quá muộn để xử lý.
+Khi khách đặt phòng phàn nàn, hoặc vấn đề quá rõ ràng thì khách sạn mới biết để giải quyết. Nhưng nếu họ im lặng và rời đi, bạn sẽ không biết trong quá trình lưu trú họ có gặp chuyện gì không hài lòng hay không. Nếu khách sạn không chủ động, bạn sẽ lỡ mất cơ hội tìm hiểu và giải quyết vấn đề họ gặp phải, và chỉ biết khi chúng xuất hiện trên các trang [đánh giá trực tuyến](/article) thì mọi chuyện đã quá muộn để xử lý.
 
 Do vậy, khách sạn cần tích cực tương tác, yêu cầu khách đặt phòng phản hồi trong quá trình họ lưu trú. Để khi có vấn đề phát sinh, khách sạn có thể nhanh chóng biết và xử lý kịp thời. Hãy hỏi du khách về những trải nghiệm, những điều họ thích và không trong quá trình lưu trú, hãy sẵn sàng đón nhận những phản hồi không thiện chí hoặc tiêu cực – bởi chúng là cơ hội để khách sạn của bạn cải thiện và làm tốt hơn nữa.
 
@@ -153,15 +153,15 @@ Các khách sạn hiện nay đều có rất nhiều kênh thông tin, quảng 
 
 Với sức mạnh của công nghệ, du khách có nhiều lựa chọn để tương tác hơn, và khách sạn của bạn cũng nên chạy theo điều đó. Hãy luôn sẵn sàng liên lạc với du khách ở kênh không phổ biến (với khách sạn), bởi chúng lại là lựa chọn hàng đầu của họ. Cũng đừng ép du khách phải sử dụng kênh liên lạc phổ biến của khách sạn, trừ khi điều ấy là cần thiết và tạo nên trải nghiệm mà khách sạn mong muốn đáp ứng.
 
-Tips cho khách sạn: Hãy tích hợp popup chat trực tuyến, botchat trên [website khách sạn](https://nhavantuonglai.com/article) để nhanh chóng hỗ trợ và giải quyết những vấn đề du khách gặp phải. Bằng cách này, dù du khách truy cập website vào lúc nào, những câu hỏi và suy nghĩ bất chợt nảy sinh trong đầu của họ đều sẽ có câu trả lời ngay lập tức.
+Tips cho khách sạn: Hãy tích hợp popup chat trực tuyến, botchat trên [website khách sạn](/article) để nhanh chóng hỗ trợ và giải quyết những vấn đề du khách gặp phải. Bằng cách này, dù du khách truy cập website vào lúc nào, những câu hỏi và suy nghĩ bất chợt nảy sinh trong đầu của họ đều sẽ có câu trả lời ngay lập tức.
 
 Trên đây là những chiến lược giữ chân du khách và tăng lượt đặt phòng lặp lại, chúng sẽ tăng tỷ suất hoàn vốn (Return on Investment) với một chi phí thấp hơn. Vậy nên, nếu khách sạn chưa có những chiến lược cụ thể, đây là lúc áp dụng để tạo ra hiệu quả cụ thể cho khách sạn của bạn.
 
 ## Đừng quên áp dụng các chương trình khách hàng thân thiết
 
-Chương trình [khách hàng thân thiết](https://nhavantuonglai.com/article) được xem là cách tiếp cận tốt nhất để gia tăng lượt khách đặt phòng lặp lại trong khách sạn.
+Chương trình [khách hàng thân thiết](/article) được xem là cách tiếp cận tốt nhất để gia tăng lượt khách đặt phòng lặp lại trong khách sạn.
 
-Tất cả những gì bạn cần làm là hệ thống dữ liệu khách hàng chính xác, phản hồi của khách đặt phòng lặp lại và [phần mềm quản lý khách hàng (CRM)](https://nhavantuonglai.com/article). Phần mềm quản lý khách hàng sẽ giúp bạn xây dựng, quản lý và duy trì các hoạt động xoay quanh chương trình khách hàng thân thiết của khách sạn. Với sự hỗ trợ này, các chương trình với những ưu đãi, phần thưởng thiết thực sẽ tạo nên sức hút để thu hút du khách quay lại và đặt phòng với khách sạn của bạn.
+Tất cả những gì bạn cần làm là hệ thống dữ liệu khách hàng chính xác, phản hồi của khách đặt phòng lặp lại và [phần mềm quản lý khách hàng (CRM)](/article). Phần mềm quản lý khách hàng sẽ giúp bạn xây dựng, quản lý và duy trì các hoạt động xoay quanh chương trình khách hàng thân thiết của khách sạn. Với sự hỗ trợ này, các chương trình với những ưu đãi, phần thưởng thiết thực sẽ tạo nên sức hút để thu hút du khách quay lại và đặt phòng với khách sạn của bạn.
 
 ## Một vài câu hỏi liên quan đến khách đặt phòng lặp lại
 
@@ -199,7 +199,7 @@ Cuối cùng, dữ liệu từ chương trình khách hàng thân thiết là c�
 
 ## Kết luận
 
-Cung cấp những [trải nghiệm khách hàng tích cực](https://nhavantuonglai.com/article) trong khách sạn là cách tốt nhất để thu hút họ quay trở lại và đặt phòng thêm lần nữa, và giới thiệu với bạn bè, người thân xung quanh họ. Khi xây dựng chiến lược để tăng lượt đặt phòng lặp lại, không nên giới hạn tệp khách hàng hay mùa du lịch, hãy áp dụng chính sách này quanh năm bởi nhu cầu đặt phòng luôn tồn tại.
+Cung cấp những [trải nghiệm khách hàng tích cực](/article) trong khách sạn là cách tốt nhất để thu hút họ quay trở lại và đặt phòng thêm lần nữa, và giới thiệu với bạn bè, người thân xung quanh họ. Khi xây dựng chiến lược để tăng lượt đặt phòng lặp lại, không nên giới hạn tệp khách hàng hay mùa du lịch, hãy áp dụng chính sách này quanh năm bởi nhu cầu đặt phòng luôn tồn tại.
 
 Khi xây dựng chiến lược phù hợp và đúng cách, chi phí vận hành của khách sạn sẽ giảm và lợi nhuận sẽ tăng. Cho nên, đừng bao giờ bỏ quên những vị khách từng đặt phòng, hãy khiến họ quay trở lại thêm lần nữa, bởi đó là tài sản quý giá nhất mà khách sạn của bạn đang có.
 

@@ -25,11 +25,11 @@ _Google Ads thân thiện và dễ dùng, các chiến dịch vì thế tạo ra
 
 Google Ads là hệ thống quảng cáo trả tiền của Google, với nhiều hình thức hoạt động và tính phí, nhưng tất cả đều chung mục đích là tiếp cận đối tượng tiềm năng để phân phối thông điệp cần truyền tải, nhằm tăng nhận diện thương hiệu, cải thiện lượt truy cập trang đích (website, kênh bán phòng khách sạn…), tăng độ phủ cho thương hiệu và các chiến dịch, và tăng tỷ lệ chuyển đổi, bán phòng trực tiếp cho khách sạn.
 
-Trọng tâm của Google Ads là từ khóa và giá thầu. Từ khóa là từ, cụm từ mà đối tượng tiềm năng [sử dụng tìm kiếm, truy vấn thông tin](https://nhavantuonglai.com/article), hoặc truy cập vào các website chứa nội dung tương tự. Giá thầu là số tiền mà khách sạn phải bỏ ra cho mỗi lượt truy vấn, click vào link hoặc tính dựa trên lượt xem video… Giá thầu càng cao thì tỷ lệ, thứ tự xuất hiện của chiến dịch lại càng cao.
+Trọng tâm của Google Ads là từ khóa và giá thầu. Từ khóa là từ, cụm từ mà đối tượng tiềm năng [sử dụng tìm kiếm, truy vấn thông tin](/article), hoặc truy cập vào các website chứa nội dung tương tự. Giá thầu là số tiền mà khách sạn phải bỏ ra cho mỗi lượt truy vấn, click vào link hoặc tính dựa trên lượt xem video… Giá thầu càng cao thì tỷ lệ, thứ tự xuất hiện của chiến dịch lại càng cao.
 
 Google Ads thân thiện và dễ dùng, các chiến dịch vì thế tạo ra rất nhanh chóng và dễ dàng, giúp các khách sạn tiếp cận chính xác nhóm đối tượng mà bạn nghĩ sẽ phù hợp với sản phẩm, dịch vụ đang có. Để làm được điều này, Google Ads dựa vào nguồn dữ liệu khổng lồ về thông tin cá nhân, hành vi sử dụng internet… của hàng tỷ người dùng trên toàn thế giới.
 
-Khác với [Google Hotel Ads](https://nhavantuonglai.com/article), Google Ads tập trung vào nội dung bài viết, phù hợp để nâng cao nhận thức và cải thiện hành vi. Cho nên, tùy thuộc vào nhu cầu của khách sạn, mà lựa chọn loại hình chạy Ads cho phù hợp.
+Khác với [Google Hotel Ads](/article), Google Ads tập trung vào nội dung bài viết, phù hợp để nâng cao nhận thức và cải thiện hành vi. Cho nên, tùy thuộc vào nhu cầu của khách sạn, mà lựa chọn loại hình chạy Ads cho phù hợp.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-110.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
@@ -65,7 +65,7 @@ Mục tiêu chiến dịch phản ánh đối tượng mà bạn và Google cho 
 
 – Tiếp cận đối tượng tương tự: Nhắm mục tiêu là các từ khóa liên quan, không nhắc trực tiếp đến khách sạn của bạn, ví dụ: khách sạn 5 sao Đà Nẵng ven biển, khách sạn 500k phố tây…
 
-– Tiếp thị lại (Remarketing): Tiếp cận những người click vào quảng cáo nhưng không thực hiện hành vi như mục tiêu cần, ví dụ: [đặt phòng tại khách sạn](https://nhavantuonglai.com/article) của bạn. Nhắm mục tiêu và tiếp cận thêm lần nữa, để thuyết phục họ thực hiện hành vi như bạn muốn.
+– Tiếp thị lại (Remarketing): Tiếp cận những người click vào quảng cáo nhưng không thực hiện hành vi như mục tiêu cần, ví dụ: [đặt phòng tại khách sạn](/article) của bạn. Nhắm mục tiêu và tiếp cận thêm lần nữa, để thuyết phục họ thực hiện hành vi như bạn muốn.
 
 – Địa chỉ website: Tiếp cận những người truy cập vào địa chỉ website chỉ định, và bạn cũng có thể đặt quảng cáo của mình ở trên đó, phần này sẽ được trình bày ở bên dưới.
 
@@ -147,7 +147,7 @@ Google Ads cũng cung cấp công cụ để theo dõi lượt chuyển đổi G
 
 ## Kết luận
 
-57% du khách có xu hướng tìm kiếm thông tin để so sánh và chắt lọc các lựa chọn trước khi đặt phòng khách sạn, theo một nghiên cứu được triển khai bởi Ipsos MediaCT Advertising. Trong [hành trình du khách](https://nhavantuonglai.com/article) khi đặt phòng, một trong những giai đoạn đầu tiên của hành trình chính là lên ý tưởng và lập kế hoạch, để hệ thống hóa kế hoạch du lịch, đi chơi ở đâu, ăn những món gì, đặt phòng ở khách sạn nào…
+57% du khách có xu hướng tìm kiếm thông tin để so sánh và chắt lọc các lựa chọn trước khi đặt phòng khách sạn, theo một nghiên cứu được triển khai bởi Ipsos MediaCT Advertising. Trong [hành trình du khách](/article) khi đặt phòng, một trong những giai đoạn đầu tiên của hành trình chính là lên ý tưởng và lập kế hoạch, để hệ thống hóa kế hoạch du lịch, đi chơi ở đâu, ăn những món gì, đặt phòng ở khách sạn nào…
 
 Sức mạnh của SEO là điều không cần phải bàn cãi, và luôn đem lại hiệu quả cho các khách sạn để cạnh tranh thứ hạng một cách tự nhiên. nhưng trên thực tế – chúng tốn nhiều thời gian, và phải kiên trì để gặt hái thành quả mà chỉ tốn chút ngân sách để chạy quảng cáo tạo ra. Cho nên, muốn tiếp cận nhiều hơn các khách hàng tiềm năng, và khiến họ chú ý, biết đến bạn thì Google Ads là điều không nên phớt lờ, và hãy nên bắt đầu ngay từ hôm nay.
 

@@ -29,7 +29,7 @@ Tàu ra đảo thường chạy cố định theo giờ: 7h – 10h – 13h30 �
 
 ## Khách sạn, homestay
 
-Mặc dù tỉnh Khánh Hòa [không khuyến khích phát triển du lịch](https://nhavantuonglai.com/article) ở Bình Ba nhưng nhà nghỉ, khách sạn trên đảo được xây dựng khá khang trang. Một số khách sạn được lòng du khách là Blue Anchor, Lobster Palace, Bãi Nồm Hotel, Beach Pearl Hotel… Giá phòng ở đây không quá đắt, dao động 200.000 – 400.000 đồng một phòng đôi. Mùa cao điểm du khách nên gọi điện đặt trước vì khách sạn ở đây không nhiều, hay hết phòng.
+Mặc dù tỉnh Khánh Hòa [không khuyến khích phát triển du lịch](/article) ở Bình Ba nhưng nhà nghỉ, khách sạn trên đảo được xây dựng khá khang trang. Một số khách sạn được lòng du khách là Blue Anchor, Lobster Palace, Bãi Nồm Hotel, Beach Pearl Hotel… Giá phòng ở đây không quá đắt, dao động 200.000 – 400.000 đồng một phòng đôi. Mùa cao điểm du khách nên gọi điện đặt trước vì khách sạn ở đây không nhiều, hay hết phòng.
 
 Một lựa chọn được nhiều người yêu thích là ở homestay – thực chất là nhà ở bình thường của người dân, không chủ định xây để phục vụ du khách. Mùa cao điểm, bạn có thể xin ở nhờ và gửi một ít tiền cho chủ nhà. Giá phòng homestay ở đây cũng không cố định. Nhiều chủ nhà còn sẵn lòng nấu ăn, dẫn du khách đi chơi quanh đảo.
 
@@ -39,7 +39,7 @@ Một lựa chọn được nhiều người yêu thích là ở homestay – th
 
 Bình Ba không quá lớn, đường đi cũng ít nên bạn có thể thoải mái chạy xe khắp đảo mà không sợ bị lạc. Đường chạy lên đỉnh đảo khá dốc và ngoằn ngoèo. Hầu hết du khách đều men theo đường này để có thể ngắm nhìn cả hòn đảo từ trên cao, do đó lượng xe lên xuống nhiều, bạn nên cẩn thận khi lên đây.
 
-Nếu đã khám phá xong các ngóc ngách trên đảo chính, bạn có thể ra bến tàu để ra các đảo xa, [lặn ngắm san hô](https://nhavantuonglai.com/article), tắm biển. Chiều về bạn có thể dạo quanh chợ Bình Ba để tìm vài món ăn vặt hoặc mua quà về cho người thân. Buổi tối có thể đi theo người dân ra biển câu tôm, mực, soi còng hoặc đi bộ ra bãi Nồm để thưởng thức hải sản, hoà mình vào không khí biển về đêm.
+Nếu đã khám phá xong các ngóc ngách trên đảo chính, bạn có thể ra bến tàu để ra các đảo xa, [lặn ngắm san hô](/article), tắm biển. Chiều về bạn có thể dạo quanh chợ Bình Ba để tìm vài món ăn vặt hoặc mua quà về cho người thân. Buổi tối có thể đi theo người dân ra biển câu tôm, mực, soi còng hoặc đi bộ ra bãi Nồm để thưởng thức hải sản, hoà mình vào không khí biển về đêm.
 
 _Bãi Nồm_ hướng về phía nam đảo do đó bạn không thể ngắm hoàng hôn hay bình minh ở đây, nhưng không có nghĩa là nơi này mất đi sức hút khó cưỡng của nó. Bãi Nồm được hai dãy núi ôm sát hai bên tạo thành một hình vòng cung quanh năm êm sóng, lại thêm cát mịn.
 

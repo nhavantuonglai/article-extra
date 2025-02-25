@@ -105,21 +105,21 @@ Tiếp xúc thường xuyên với thực tại sau khổ người Phật tử v
 
 Người Phật tử tại gia cũng cần có ý thức thâm thiết về đệ nhất khổ đế để có đủ sáng suốt mà định đoạt giá trị của những hành vi luân lý và đạo đức. Hãy để cho lòng thương làm động lực cho mọi hoạt động Phật sự. Hãy biến mình thành người bạn giản dị, khiêm nhượng và thân thiết của lớp người đau khổ. Đừng bao giờ quên rằng khuynh hướng của đạo Phật là đi gần, đi tới với quần chúng khổ đau để nâng đỡ và giải phóng cho họ. Đừng ngồi yên tại chỗ chờ họ đến với mình. Hãy đòi hỏi nơi chư Tăng cuộc sống thao thức của những con người đang luôn luôn hướng về lý tưởng Phật giáo, bỏ quên đi mọi danh lợi tầm thường. Hãy tôn trọng chư Tăng như những bậc khất sĩ thanh cao, đừng xem họ như những bậc nhà giàu có quyền lực cần phải nịnh bợ. Hãy tự mình sống nếp sống Phật tử để cho bóng hình mình hiển hiện ở đâu thì niềm tin vui hiển hiện ở đó. Nên nhận định: đạo Phật là đạo của quần chúng khổ đau, không phải của riêng của một lớp người trưởng giả.
 
-Đọc [Đạo Phật đi vào cuộc đời, chương 01](https://nhavantuonglai.com/article/dao-phat-di-vao-cuoc-doi-chuong-01) tại đây.
+Đọc [Đạo Phật đi vào cuộc đời, chương 01](/article/dao-phat-di-vao-cuoc-doi-chuong-01) tại đây.
 
-Đọc [Đạo Phật đi vào cuộc đời, chương 02](https://nhavantuonglai.com/article/dao-phat-di-vao-cuoc-doi-chuong-02) tại đây.
+Đọc [Đạo Phật đi vào cuộc đời, chương 02](/article/dao-phat-di-vao-cuoc-doi-chuong-02) tại đây.
 
-Đọc [Đạo Phật đi vào cuộc đời, chương 03](https://nhavantuonglai.com/article/dao-phat-di-vao-cuoc-doi-chuong-03) tại đây.
+Đọc [Đạo Phật đi vào cuộc đời, chương 03](/article/dao-phat-di-vao-cuoc-doi-chuong-03) tại đây.
 
-Đọc [Đạo Phật đi vào cuộc đời, chương 04](https://nhavantuonglai.com/article/dao-phat-di-vao-cuoc-doi-chuong-04) tại đây.
+Đọc [Đạo Phật đi vào cuộc đời, chương 04](/article/dao-phat-di-vao-cuoc-doi-chuong-04) tại đây.
 
-Đọc [Đạo Phật đi vào cuộc đời, chương 05](https://nhavantuonglai.com/article/dao-phat-di-vao-cuoc-doi-chuong-05) tại đây.
+Đọc [Đạo Phật đi vào cuộc đời, chương 05](/article/dao-phat-di-vao-cuoc-doi-chuong-05) tại đây.
 
-Đọc [Đạo Phật đi vào cuộc đời, chương 06](https://nhavantuonglai.com/article/dao-phat-di-vao-cuoc-doi-chuong-06) tại đây.
+Đọc [Đạo Phật đi vào cuộc đời, chương 06](/article/dao-phat-di-vao-cuoc-doi-chuong-06) tại đây.
 
-Đọc [Đạo Phật đi vào cuộc đời, chương 07](https://nhavantuonglai.com/article/dao-phat-di-vao-cuoc-doi-chuong-07) tại đây.
+Đọc [Đạo Phật đi vào cuộc đời, chương 07](/article/dao-phat-di-vao-cuoc-doi-chuong-07) tại đây.
 
-Đọc [Đạo Phật đi vào cuộc đời, chương 08](https://nhavantuonglai.com/article/dao-phat-di-vao-cuoc-doi-chuong-08) tại đây.
+Đọc [Đạo Phật đi vào cuộc đời, chương 08](/article/dao-phat-di-vao-cuoc-doi-chuong-08) tại đây.
 
 Đọc [Đạo Phật đi vào cuộc đời, toàn tập](https://banmaixanh.vercel.app/ebook/dao-phat-di-vao-cuoc-doi.pdf) tại đây.
 

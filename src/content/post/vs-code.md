@@ -30,7 +30,7 @@ Sau khi cài đặt các tiện ích cần thiết, bạn sẽ có một môi tr
 
 ## Kết nối repository GitHub với VS Code
 
-Kết nối repository GitHub với [VS Code](https://nhavantuonglai.com/article/vs-code) là bước cần thiết để bạn có thể dễ dàng quản lý và cập nhật các tệp trên website. Khi đã kết nối, bạn có thể trực tiếp thêm, chỉnh sửa, xóa và đẩy các thay đổi từ VS Code lên GitHub mà không cần sử dụng bất kỳ công cụ nào khác. Đầu tiên, bạn cần đảm bảo rằng mình đã có tài khoản GitHub và đã tạo một repository cho website trên đó. Repository là nơi lưu trữ các mã nguồn của website, cho phép bạn quản lý phiên bản và dễ dàng khôi phục lại mã nguồn trong trường hợp cần thiết.
+Kết nối repository GitHub với [VS Code](/article/vs-code) là bước cần thiết để bạn có thể dễ dàng quản lý và cập nhật các tệp trên website. Khi đã kết nối, bạn có thể trực tiếp thêm, chỉnh sửa, xóa và đẩy các thay đổi từ VS Code lên GitHub mà không cần sử dụng bất kỳ công cụ nào khác. Đầu tiên, bạn cần đảm bảo rằng mình đã có tài khoản GitHub và đã tạo một repository cho website trên đó. Repository là nơi lưu trữ các mã nguồn của website, cho phép bạn quản lý phiên bản và dễ dàng khôi phục lại mã nguồn trong trường hợp cần thiết.
 
 Để kết nối GitHub với VS Code, bạn có thể thực hiện qua giao diện hoặc sử dụng các lệnh Git tích hợp sẵn. Trước tiên, mở VS Code và chọn _Clone Repository_ từ giao diện chính. Sau đó, nhập URL của repository mà bạn muốn kết nối. VS Code sẽ tự động tải repository về máy tính và bạn có thể bắt đầu làm việc trực tiếp trên các tệp đó. Ngoài ra, nếu bạn đã có repository trên máy, bạn có thể chọn _Open Folder_ để mở thư mục chứa repository và kết nối với GitHub.
 

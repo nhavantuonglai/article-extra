@@ -43,7 +43,7 @@ Quy trình check-in khách sạn là một thủ tục mang tính lịch sử b�
 
 – …
 
-Sự tồn tại lâu dài của chúng phản ánh [kỳ vọng của du khách](https://nhavantuonglai.com/article), dù vậy – mọi thứ cần phải đơn giản hơn, không chỉ trên giấy tờ mà cả hành trình họ trải nghiệm.
+Sự tồn tại lâu dài của chúng phản ánh [kỳ vọng của du khách](/article), dù vậy – mọi thứ cần phải đơn giản hơn, không chỉ trên giấy tờ mà cả hành trình họ trải nghiệm.
 
 Thông thường, với từng khách sạn sẽ có từng quy định riêng về thời gian nhận, trả phòng. Nhưng đôi khi vì kế hoạch của du khách, mà lịch trình và thời gian check-in của họ sẽ thay đổi. Điều này đặt ra thách thức cho các khách sạn, là làm thế nào để du khách thoải mái nhận, trả phòng theo kế hoạch của họ; và nhân viên khách sạn không phải làm việc quá nhiều để đáp ứng điều này. Để giải quyết, các khách sạn xây dựng các chính sách check-in như một giải pháp để cân bằng lịch trình của du khách, và sự chuẩn bị của khách sạn.
 
@@ -75,13 +75,13 @@ Trên thực tế, đây là một xu hướng không chỉ áp dụng với cá
 
 Quầy lễ tân là trung tâm của trải nghiệm du khách trong suốt chiều dài lịch sử ngành khách sạn. Đây là điểm đến đầu tiên và thực hiện theo mọi chỉ dẫn để tận hưởng không gian, dịch vụ trong khách sạn. Ngành dịch vụ lưu trú, lẫn du khách đều khá thích cách tương tác này; nhưng với sự phát triển của công nghệ, quầy lễ tân nếu không có sự thay đổi đáng kể thì sẽ trở nên lỗi thời, dư thừa so với các yêu cầu của du khách lẫn khách sạn.
 
-[Tự động hóa quầy lễ tân](https://nhavantuonglai.com/article) đang là xu hướng mới, thể hiện qua các hệ thống nhận đặt phòng trực tuyến, check-in online… để cắt giảm và tối ưu phần lớn chi phí lao động. Đây sẽ là điều mà nhiều khách sạn áp dụng và khai thác triệt để trong tương lai gần.
+[Tự động hóa quầy lễ tân](/article) đang là xu hướng mới, thể hiện qua các hệ thống nhận đặt phòng trực tuyến, check-in online… để cắt giảm và tối ưu phần lớn chi phí lao động. Đây sẽ là điều mà nhiều khách sạn áp dụng và khai thác triệt để trong tương lai gần.
 
 Một trong những vấn đề của quầy lễ tân là du khách không muốn tương tác bởi đã phải di chuyển một hành trình rất dài. Quy trình nhiều thủ tục, tương tác qua lại sẽ tạo thêm mệt mỏi, phiền hà và khiến du khách cảm thấy không thoải mái với trải nghiệm lúc mới đến. Nhưng nếu họ hoàn tất cả thủ tục từ trước, thông qua các công cụ và nền tảng trực tuyến, thì các thủ tục khi tương tác với quầy lễ tân sẽ giảm đi nhiều, thậm chí là không cần thiết.
 
 Tuy nhiên, sự tương tác với du khách ở quầy lễ tân vẫn rất quan trọng, chúng đem lại cảm giác họ được chào đón, và khách sạn có thể thực hiện những thủ tục bước đầu, cũng như dựa vào các thông tin để điều chỉnh trải nghiệm cho họ tại khách sạn được tốt hơn.
 
-Để giải quyết, khách sạn có thể áp dụng [quầy POS check-in tự động](https://nhavantuonglai.com/article) – hệ thống giúp du khách tự động nhận, trả phòng mà không phải xếp hàng, chờ đợi ở quầy lễ tân. Tất nhiên, khách sạn vẫn cần nhân viên túc trực ở đó, để hỗ trợ trong những tình huống đột xuất, nhưng khối lượng và áp lực công việc sẽ giảm đi rất nhiều. Đây là mấu chốt để cải thiện quy trình check-in trong khách sạn, và giữ mọi thứ được trôi chảy, nhịp nhàng khi phục vụ mọi loại du khách.
+Để giải quyết, khách sạn có thể áp dụng [quầy POS check-in tự động](/article) – hệ thống giúp du khách tự động nhận, trả phòng mà không phải xếp hàng, chờ đợi ở quầy lễ tân. Tất nhiên, khách sạn vẫn cần nhân viên túc trực ở đó, để hỗ trợ trong những tình huống đột xuất, nhưng khối lượng và áp lực công việc sẽ giảm đi rất nhiều. Đây là mấu chốt để cải thiện quy trình check-in trong khách sạn, và giữ mọi thứ được trôi chảy, nhịp nhàng khi phục vụ mọi loại du khách.
 
 ## Công nghệ check-in khách sạn
 
@@ -107,13 +107,13 @@ Sau khi du khách check-in, khách sạn có thể gợi ý họ về những d�
 
 Nền tảng check-in của khách sạn chắc chắn đã phát triển qua nhiều năm. Dịch vụ nhanh chóng là một trong những ưu tiên hàng đầu đối với bất kỳ khách nào. check-in tự động đảm bảo khách có thể nhanh chóng về phòng mà không mất thời gian ở quầy lễ tân. Các khách sạn vẫn sử dụng các cách nhập thủ công truyền thống làm tăng thời gian chờ đợi cho khách và có nguy cơ tạo ấn tượng sai trong tâm trí của những du khách mệt mỏi.
 
-Chọn một [phần mềm quản lý khách sạn](https://nhavantuonglai.com/article) đảm bảo giải quyết tốt các vấn đề thường gặp, thân thiện với nhân viên là điều cần thiết. giải pháp all in one là lựa chọn hấp dẫn, bởi chúng sẽ cung cấp:
+Chọn một [phần mềm quản lý khách sạn](/article) đảm bảo giải quyết tốt các vấn đề thường gặp, thân thiện với nhân viên là điều cần thiết. giải pháp all in one là lựa chọn hấp dẫn, bởi chúng sẽ cung cấp:
 
-– [Booking Engine](https://nhavantuonglai.com/article) – Công cụ đặt phòng trực tuyến miễn phí, không tốn phí hoa hồng, có thể tích hợp trên website lẫn các kênh mạng xã hội của khách sạn.
+– [Booking Engine](/article) – Công cụ đặt phòng trực tuyến miễn phí, không tốn phí hoa hồng, có thể tích hợp trên website lẫn các kênh mạng xã hội của khách sạn.
 
-– [Channel Manager](https://nhavantuonglai.com/article) – Công cụ quản lý và phân phối kênh bán phòng trực tuyến, giúp đồng bộ và cập nhật nhanh chóng trạng thái phòng trên các kênh bán phòng mà khách sạn đang sử dụng.
+– [Channel Manager](/article) – Công cụ quản lý và phân phối kênh bán phòng trực tuyến, giúp đồng bộ và cập nhật nhanh chóng trạng thái phòng trên các kênh bán phòng mà khách sạn đang sử dụng.
 
-– [Website Builder](https://nhavantuonglai.com/article) – Công cụ tạo website chuẩn khách sạn, có tính thẩm mỹ và có tỷ lệ chuyển đổi cao nhóm người đọc thành khách hàng.
+– [Website Builder](/article) – Công cụ tạo website chuẩn khách sạn, có tính thẩm mỹ và có tỷ lệ chuyển đổi cao nhóm người đọc thành khách hàng.
 
 – Giải pháp thanh toán – Xử lý tiền đặt cọc, thanh toán, hoàn tiền nhanh chóng, dễ dàng.
 
@@ -139,7 +139,7 @@ Và với khách sạn, đây là những lý do nên áp dụng check-in trực
 
 – Giảm khối lượng công việc của nhân viên.
 
-– Nâng cao [trải nghiệm du khách](https://nhavantuonglai.com/article).
+– Nâng cao [trải nghiệm du khách](/article).
 
 – Tạo nguồn doanh thu bổ sung.
 
@@ -171,7 +171,7 @@ Check-in 24/7 đặc biệt hữu ích và cần thiết cho đôi bên bởi:
 
 ### Tăng doanh thu trên mỗi phòng có sẵn (RevPAR)
 
-Check-in 24/7 là một chiến lược tăng [RevPAR](https://nhavantuonglai.com/article) hiệu quả, bởi chúng không chỉ cải thiện dịch vụ khách hàng và những ưu đãi đi kèm, mà còn có thể thông qua đó để bán các dịch vụ, tiện ích bổ sung. Ví dụ: Standard Hotels áp dụng phụ phí 5% cho dịch vụ check-in 24/7, The Marriott cho phép check-in linh hoạt dựa trên tình trạng phòng trống.
+Check-in 24/7 là một chiến lược tăng [RevPAR](/article) hiệu quả, bởi chúng không chỉ cải thiện dịch vụ khách hàng và những ưu đãi đi kèm, mà còn có thể thông qua đó để bán các dịch vụ, tiện ích bổ sung. Ví dụ: Standard Hotels áp dụng phụ phí 5% cho dịch vụ check-in 24/7, The Marriott cho phép check-in linh hoạt dựa trên tình trạng phòng trống.
 
 Rõ ràng, nếu đây là nhu cầu từ khách hàng, họ sẽ không ngại ngần trả thêm tiền để được sử dụng dịch vụ. Đó là điều hiển nhiên để khách sạn của bạn cải thiện RevPAR.
 

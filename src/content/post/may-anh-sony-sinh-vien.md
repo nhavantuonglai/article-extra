@@ -203,6 +203,6 @@ Giá cả và chính sách bảo hành cũng là yếu tố quan trọng khi ch�
 
 Lựa chọn máy ảnh Sony phù hợp với túi tiền của sinh viên có thể là một thách thức, nhưng với những thông tin chi tiết và đánh giá trên, hy vọng bạn đã có thể tìm được mẫu máy ảnh ưng ý. Sony A6400 và Alpha 7 Mark II là những lựa chọn tuyệt vời cho người mới bắt đầu, trong khi Sony A7 C và Alpha 7 C phù hợp cho những ai muốn trải nghiệm chất lượng hình ảnh cao hơn và tính năng chuyên nghiệp. Chúc bạn sớm tìm được chiếc máy ảnh Sony phù hợp với nhu cầu và ngân sách của mình.
 
-Nếu bạn không thích những gợi ý nêu trên, thì có thể tìm hiểu [máy ảnh Canon giá rẻ](https://nhavantuonglai.com/article/may-anh-canon-sinh-vien), cũng như [máy ảnh Nikon giá rẻ](https://nhavantuonglai.com/article/may-anh-nikon-sinh-vien) để có cho mình chiếc máy ảnh ưa ý và hợp túi tiền.
+Nếu bạn không thích những gợi ý nêu trên, thì có thể tìm hiểu [máy ảnh Canon giá rẻ](/article/may-anh-canon-sinh-vien), cũng như [máy ảnh Nikon giá rẻ](/article/may-anh-nikon-sinh-vien) để có cho mình chiếc máy ảnh ưa ý và hợp túi tiền.
 
 <figure><img src="https://banmaixanh.vercel.app/image/cover/001-251.jpg" alt="nhavantuonglai" title="nhavantuonglai" height=100% width=100%><figcaption><p></p></figcaption></figure>

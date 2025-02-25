@@ -99,21 +99,21 @@ Trong phần Phụ lục ta sẽ thấy có một bản luật nghi dành cho th
 
 Phép thực tập căn bản trong khóa tu là duy trì chánh niệm suốt ngày, khi ngồi thiền, khi kinh hành, thiền hành, thiền trà, chấp tác, ăn cơm, rửa bát… Chánh niệm đưa tới sự tỉnh thức và sự an lạc. Hơi thở ý thức là phương tiện mầu nhiệm để thực tập. Hơi thở ý thức là phương tiện mầu nhiệm để thực tập. Chỉ khi nào khả năng chánh niệm đã vững chãi, người hướng dẫn khóa tu mới đưa thiền sinh tới những phép chỉ quán khác: đối trị cảm thọ, quán chiếu nhân duyên, xem xét thoại đầu…Nhưng duy trì chánh niệm bao giờ cũng được xem là phép hành trì căn bản, không những cho người sơ cơ mà cả cho những người tu học lâu ngày.
 
-Đọc [An trú trong hiện tại, chương 01](https://nhavantuonglai.com/article/an-tru-trong-hien-tai-chuong-01) tại đây.
+Đọc [An trú trong hiện tại, chương 01](/article/an-tru-trong-hien-tai-chuong-01) tại đây.
 
-Đọc [An trú trong hiện tại, chương 02](https://nhavantuonglai.com/article/an-tru-trong-hien-tai-chuong-02) tại đây.
+Đọc [An trú trong hiện tại, chương 02](/article/an-tru-trong-hien-tai-chuong-02) tại đây.
 
-Đọc [An trú trong hiện tại, chương 03](https://nhavantuonglai.com/article/an-tru-trong-hien-tai-chuong-03) tại đây.
+Đọc [An trú trong hiện tại, chương 03](/article/an-tru-trong-hien-tai-chuong-03) tại đây.
 
-Đọc [An trú trong hiện tại, chương 04](https://nhavantuonglai.com/article/an-tru-trong-hien-tai-chuong-04) tại đây.
+Đọc [An trú trong hiện tại, chương 04](/article/an-tru-trong-hien-tai-chuong-04) tại đây.
 
-Đọc [An trú trong hiện tại, chương 05](https://nhavantuonglai.com/article/an-tru-trong-hien-tai-chuong-05) tại đây.
+Đọc [An trú trong hiện tại, chương 05](/article/an-tru-trong-hien-tai-chuong-05) tại đây.
 
-Đọc [An trú trong hiện tại, chương 06](https://nhavantuonglai.com/article/an-tru-trong-hien-tai-chuong-06) tại đây.
+Đọc [An trú trong hiện tại, chương 06](/article/an-tru-trong-hien-tai-chuong-06) tại đây.
 
-Đọc [An trú trong hiện tại, chương 07](https://nhavantuonglai.com/article/an-tru-trong-hien-tai-chuong-08) tại đây.
+Đọc [An trú trong hiện tại, chương 07](/article/an-tru-trong-hien-tai-chuong-08) tại đây.
 
-Đọc [An trú trong hiện tại, chương 08](https://nhavantuonglai.com/article/an-tru-trong-hien-tai-chuong-08) tại đây.
+Đọc [An trú trong hiện tại, chương 08](/article/an-tru-trong-hien-tai-chuong-08) tại đây.
 
 Đọc [An trú trong hiện tại, toàn tập](https://banmaixanh.vercel.app/ebook/an-tru-trong-hien-tai.pdf) tại đây.
 

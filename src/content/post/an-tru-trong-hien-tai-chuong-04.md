@@ -123,21 +123,21 @@ Khi thấy buổi thiền trà sắp kết thúc, vị trà giả chuyền nhữ
 
 Thiền trà nên được tổ chức một hay nhiều lần trong các khóa tu học. Thiền trà cũng có thể được tổ chức để mừng một người mới thọ giới hay để mừng bất cứ một cơ hội vui nào khác. Thiền trà cũng đem lại sự nhiếp tâm và an lạc cho chúng ta như thiền hành và thiền tọa.
 
-Đọc [An trú trong hiện tại, chương 01](https://nhavantuonglai.com/article/an-tru-trong-hien-tai-chuong-01) tại đây.
+Đọc [An trú trong hiện tại, chương 01](/article/an-tru-trong-hien-tai-chuong-01) tại đây.
 
-Đọc [An trú trong hiện tại, chương 02](https://nhavantuonglai.com/article/an-tru-trong-hien-tai-chuong-02) tại đây.
+Đọc [An trú trong hiện tại, chương 02](/article/an-tru-trong-hien-tai-chuong-02) tại đây.
 
-Đọc [An trú trong hiện tại, chương 03](https://nhavantuonglai.com/article/an-tru-trong-hien-tai-chuong-03) tại đây.
+Đọc [An trú trong hiện tại, chương 03](/article/an-tru-trong-hien-tai-chuong-03) tại đây.
 
-Đọc [An trú trong hiện tại, chương 04](https://nhavantuonglai.com/article/an-tru-trong-hien-tai-chuong-04) tại đây.
+Đọc [An trú trong hiện tại, chương 04](/article/an-tru-trong-hien-tai-chuong-04) tại đây.
 
-Đọc [An trú trong hiện tại, chương 05](https://nhavantuonglai.com/article/an-tru-trong-hien-tai-chuong-05) tại đây.
+Đọc [An trú trong hiện tại, chương 05](/article/an-tru-trong-hien-tai-chuong-05) tại đây.
 
-Đọc [An trú trong hiện tại, chương 06](https://nhavantuonglai.com/article/an-tru-trong-hien-tai-chuong-06) tại đây.
+Đọc [An trú trong hiện tại, chương 06](/article/an-tru-trong-hien-tai-chuong-06) tại đây.
 
-Đọc [An trú trong hiện tại, chương 07](https://nhavantuonglai.com/article/an-tru-trong-hien-tai-chuong-08) tại đây.
+Đọc [An trú trong hiện tại, chương 07](/article/an-tru-trong-hien-tai-chuong-08) tại đây.
 
-Đọc [An trú trong hiện tại, chương 08](https://nhavantuonglai.com/article/an-tru-trong-hien-tai-chuong-08) tại đây.
+Đọc [An trú trong hiện tại, chương 08](/article/an-tru-trong-hien-tai-chuong-08) tại đây.
 
 Đọc [An trú trong hiện tại, toàn tập](https://banmaixanh.vercel.app/ebook/an-tru-trong-hien-tai.pdf) tại đây.
 

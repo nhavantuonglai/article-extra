@@ -21,7 +21,7 @@ _Truyền thông mạng xã hội là một công cụ quan trọng, là kênh k
 
 Trong bài viết Being Active in Online Communications: Firm Responsiveness and Customer Engagement Behaviour (Hoạt động tích cực trong tương tác trực tuyến: Khả năng đáp ứng của các giải pháp và hành vi tương tác với khách hàng) trên tạp chí Interactive Marketing xuất bản gần đây, nhóm nghiên cứu đã chỉ ra những thông tin thú vị:
 
-– Càng nhiều đánh giá, [tỷ lệ đặt phòng càng tăng](https://nhavantuonglai.com/article): Chứng tỏ lượt đánh giá tạo nên tác động, thay đổi tích cực và củng cố nhu cầu muốn đặt phòng tại khách sạn.
+– Càng nhiều đánh giá, [tỷ lệ đặt phòng càng tăng](/article): Chứng tỏ lượt đánh giá tạo nên tác động, thay đổi tích cực và củng cố nhu cầu muốn đặt phòng tại khách sạn.
 
 – Lượt đánh giá đạt đến giới hạn, thì tỷ lệ đáp ứng không tăng: Chứng tỏ nhiều khách sạn phân bổ nguồn lực không phù hợp, dành quá nhiều thời gian để phản hồi, tương tác với các đánh giá trực tuyến và quên đi việc phục vụ khách hàng của mình.
 
@@ -43,7 +43,7 @@ Một khía cạnh khác, nghiên cứu của Proserpio và Zervas, Chevalier, D
 
 Mỗi phút, 200 bài đánh giá được cập nhật trên TripAdvisor, và tạo ra ảnh hưởng lên đến 546 tỷ đô cho những quyết định chi tiêu, đặt phòng khách sạn khi du lịch. Một số nghiên cứu cũng chỉ ra rằng, với mỗi 1 đánh giá trực tuyến tiêu cực, khách sạn mất đến 30 lượt đặt phòng; và người dùng có xu hướng tin vào đánh giá xấu hơn là tốt.
 
-Bên cạnh đó, mọi người có [xu hướng tìm kiếm thông tin trước khi sử dụng một sản phẩm, dịch vụ nào đó](https://nhavantuonglai.com/article). Điều này cũng tương đồng với việc tìm và đặt phòng khách sạn. Trong quá trình ấy, họ cũng sẽ đọc được những bình luận, đánh giá trực tuyến về khách sạn của bạn và giúp họ ra quyết định là có – hay không việc tìm hiểu để đặt phòng tại khách sạn này. Điều này cho thấy, các đánh giá trực tuyến hoặc xây dựng vững chắc, hoặc phá vỡ cầu nối giữa khách hàng tiềm năng và khách sạn của bạn.
+Bên cạnh đó, mọi người có [xu hướng tìm kiếm thông tin trước khi sử dụng một sản phẩm, dịch vụ nào đó](/article). Điều này cũng tương đồng với việc tìm và đặt phòng khách sạn. Trong quá trình ấy, họ cũng sẽ đọc được những bình luận, đánh giá trực tuyến về khách sạn của bạn và giúp họ ra quyết định là có – hay không việc tìm hiểu để đặt phòng tại khách sạn này. Điều này cho thấy, các đánh giá trực tuyến hoặc xây dựng vững chắc, hoặc phá vỡ cầu nối giữa khách hàng tiềm năng và khách sạn của bạn.
 
 ### Những đánh giá trực tuyến tích cực và bài học nhận được
 
@@ -51,7 +51,7 @@ Một đánh giá tích cực tạo nên 2 lợi ích cho khách sạn:
 
 – Tăng hành trình khách hàng, giúp họ đi dài hơn và dần kết nối được với khách sạn của bạn.
 
-– Tăng lưu lượng truy cập, giúp [website khách sạn](https://nhavantuonglai.com/article) cải thiện thứ hạng trên công cụ tìm kiếm mà không phải tốn quá nhiều tiền bạc.
+– Tăng lưu lượng truy cập, giúp [website khách sạn](/article) cải thiện thứ hạng trên công cụ tìm kiếm mà không phải tốn quá nhiều tiền bạc.
 
 Các đánh giá tích cực còn tăng đến 73% lượng khách hàng trung thành – điều mà trước đây có vẻ khó khăn, thì nay lại rất dễ dàng và nhanh chóng.
 
@@ -85,7 +85,7 @@ Khi đã biết rõ tầm quan trọng của các đánh giá trực tuyến v�
 
 ### Ưu đãi khi khách hàng viết đánh giá trực tuyến
 
-Viết đánh giá để nhận ưu đãi là một mối quan hệ đôi bên cùng có lợi. Lợi của khách đặt phòng là họ nhận được nhiều ưu đãi, khuyến mãi trong lần đặt phòng hiện tại, hoặc kế tiếp. Để tăng hiệu quả, hãy truyền thông thông điệp này lên các [kênh bán phòng](https://nhavantuonglai.com/article), kênh truyền thông của khách sạn hoặc ngay khi họ đến nhận và trả phòng nhằm tiếp cận được nhiều khách hàng tiềm năng, và thúc đẩy hành vi hiệu quả hơn.
+Viết đánh giá để nhận ưu đãi là một mối quan hệ đôi bên cùng có lợi. Lợi của khách đặt phòng là họ nhận được nhiều ưu đãi, khuyến mãi trong lần đặt phòng hiện tại, hoặc kế tiếp. Để tăng hiệu quả, hãy truyền thông thông điệp này lên các [kênh bán phòng](/article), kênh truyền thông của khách sạn hoặc ngay khi họ đến nhận và trả phòng nhằm tiếp cận được nhiều khách hàng tiềm năng, và thúc đẩy hành vi hiệu quả hơn.
 
 ### Đính kèm gợi ý trong thông báo đặt chỗ thành công
 

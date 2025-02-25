@@ -69,107 +69,107 @@ _Nhìn nhau chung bản thể,_
 
 _Nét văn minh tâm hồn._
 
-Đọc [Hiểu về trái tim, chương 01](https://nhavantuonglai.com/article/hieu-ve-trai-tim-chuong-01) tại đây.
+Đọc [Hiểu về trái tim, chương 01](/article/hieu-ve-trai-tim-chuong-01) tại đây.
 
-Đọc [Hiểu về trái tim, chương 02](https://nhavantuonglai.com/article/hieu-ve-trai-tim-chuong-02) tại đây.
+Đọc [Hiểu về trái tim, chương 02](/article/hieu-ve-trai-tim-chuong-02) tại đây.
 
-Đọc [Hiểu về trái tim, chương 03](https://nhavantuonglai.com/article/hieu-ve-trai-tim-chuong-03) tại đây.
+Đọc [Hiểu về trái tim, chương 03](/article/hieu-ve-trai-tim-chuong-03) tại đây.
 
-Đọc [Hiểu về trái tim, chương 04](https://nhavantuonglai.com/article/hieu-ve-trai-tim-chuong-04) tại đây.
+Đọc [Hiểu về trái tim, chương 04](/article/hieu-ve-trai-tim-chuong-04) tại đây.
 
-Đọc [Hiểu về trái tim, chương 05](https://nhavantuonglai.com/article/hieu-ve-trai-tim-chuong-05) tại đây.
+Đọc [Hiểu về trái tim, chương 05](/article/hieu-ve-trai-tim-chuong-05) tại đây.
 
-Đọc [Hiểu về trái tim, chương 06](https://nhavantuonglai.com/article/hieu-ve-trai-tim-chuong-06) tại đây.
+Đọc [Hiểu về trái tim, chương 06](/article/hieu-ve-trai-tim-chuong-06) tại đây.
 
-Đọc [Hiểu về trái tim, chương 07](https://nhavantuonglai.com/article/hieu-ve-trai-tim-chuong-07) tại đây.
+Đọc [Hiểu về trái tim, chương 07](/article/hieu-ve-trai-tim-chuong-07) tại đây.
 
-Đọc [Hiểu về trái tim, chương 08](https://nhavantuonglai.com/article/hieu-ve-trai-tim-chuong-08) tại đây.
+Đọc [Hiểu về trái tim, chương 08](/article/hieu-ve-trai-tim-chuong-08) tại đây.
 
-Đọc [Hiểu về trái tim, chương 09](https://nhavantuonglai.com/article/hieu-ve-trai-tim-chuong-09) tại đây.
+Đọc [Hiểu về trái tim, chương 09](/article/hieu-ve-trai-tim-chuong-09) tại đây.
 
-Đọc [Hiểu về trái tim, chương 10](https://nhavantuonglai.com/article/hieu-ve-trai-tim-chuong-10) tại đây.
+Đọc [Hiểu về trái tim, chương 10](/article/hieu-ve-trai-tim-chuong-10) tại đây.
 
-Đọc [Hiểu về trái tim, chương 11](https://nhavantuonglai.com/article/hieu-ve-trai-tim-chuong-11) tại đây.
+Đọc [Hiểu về trái tim, chương 11](/article/hieu-ve-trai-tim-chuong-11) tại đây.
 
-Đọc [Hiểu về trái tim, chương 12](https://nhavantuonglai.com/article/hieu-ve-trai-tim-chuong-12) tại đây.
+Đọc [Hiểu về trái tim, chương 12](/article/hieu-ve-trai-tim-chuong-12) tại đây.
 
-Đọc [Hiểu về trái tim, chương 13](https://nhavantuonglai.com/article/hieu-ve-trai-tim-chuong-13) tại đây.
+Đọc [Hiểu về trái tim, chương 13](/article/hieu-ve-trai-tim-chuong-13) tại đây.
 
-Đọc [Hiểu về trái tim, chương 14](https://nhavantuonglai.com/article/hieu-ve-trai-tim-chuong-14) tại đây.
+Đọc [Hiểu về trái tim, chương 14](/article/hieu-ve-trai-tim-chuong-14) tại đây.
 
-Đọc [Hiểu về trái tim, chương 15](https://nhavantuonglai.com/article/hieu-ve-trai-tim-chuong-15) tại đây.
+Đọc [Hiểu về trái tim, chương 15](/article/hieu-ve-trai-tim-chuong-15) tại đây.
 
-Đọc [Hiểu về trái tim, chương 16](https://nhavantuonglai.com/article/hieu-ve-trai-tim-chuong-16) tại đây.
+Đọc [Hiểu về trái tim, chương 16](/article/hieu-ve-trai-tim-chuong-16) tại đây.
 
-Đọc [Hiểu về trái tim, chương 17](https://nhavantuonglai.com/article/hieu-ve-trai-tim-chuong-17) tại đây.
+Đọc [Hiểu về trái tim, chương 17](/article/hieu-ve-trai-tim-chuong-17) tại đây.
 
-Đọc [Hiểu về trái tim, chương 18](https://nhavantuonglai.com/article/hieu-ve-trai-tim-chuong-18) tại đây.
+Đọc [Hiểu về trái tim, chương 18](/article/hieu-ve-trai-tim-chuong-18) tại đây.
 
-Đọc [Hiểu về trái tim, chương 19](https://nhavantuonglai.com/article/hieu-ve-trai-tim-chuong-19) tại đây.
+Đọc [Hiểu về trái tim, chương 19](/article/hieu-ve-trai-tim-chuong-19) tại đây.
 
-Đọc [Hiểu về trái tim, chương 20](https://nhavantuonglai.com/article/hieu-ve-trai-tim-chuong-20) tại đây.
+Đọc [Hiểu về trái tim, chương 20](/article/hieu-ve-trai-tim-chuong-20) tại đây.
 
-Đọc [Hiểu về trái tim, chương 21](https://nhavantuonglai.com/article/hieu-ve-trai-tim-chuong-21) tại đây.
+Đọc [Hiểu về trái tim, chương 21](/article/hieu-ve-trai-tim-chuong-21) tại đây.
 
-Đọc [Hiểu về trái tim, chương 22](https://nhavantuonglai.com/article/hieu-ve-trai-tim-chuong-22) tại đây.
+Đọc [Hiểu về trái tim, chương 22](/article/hieu-ve-trai-tim-chuong-22) tại đây.
 
-Đọc [Hiểu về trái tim, chương 23](https://nhavantuonglai.com/article/hieu-ve-trai-tim-chuong-23) tại đây.
+Đọc [Hiểu về trái tim, chương 23](/article/hieu-ve-trai-tim-chuong-23) tại đây.
 
-Đọc [Hiểu về trái tim, chương 24](https://nhavantuonglai.com/article/hieu-ve-trai-tim-chuong-24) tại đây.
+Đọc [Hiểu về trái tim, chương 24](/article/hieu-ve-trai-tim-chuong-24) tại đây.
 
-Đọc [Hiểu về trái tim, chương 25](https://nhavantuonglai.com/article/hieu-ve-trai-tim-chuong-25) tại đây.
+Đọc [Hiểu về trái tim, chương 25](/article/hieu-ve-trai-tim-chuong-25) tại đây.
 
-Đọc [Hiểu về trái tim, chương 26](https://nhavantuonglai.com/article/hieu-ve-trai-tim-chuong-26) tại đây.
+Đọc [Hiểu về trái tim, chương 26](/article/hieu-ve-trai-tim-chuong-26) tại đây.
 
-Đọc [Hiểu về trái tim, chương 27](https://nhavantuonglai.com/article/hieu-ve-trai-tim-chuong-27) tại đây.
+Đọc [Hiểu về trái tim, chương 27](/article/hieu-ve-trai-tim-chuong-27) tại đây.
 
-Đọc [Hiểu về trái tim, chương 28](https://nhavantuonglai.com/article/hieu-ve-trai-tim-chuong-28) tại đây.
+Đọc [Hiểu về trái tim, chương 28](/article/hieu-ve-trai-tim-chuong-28) tại đây.
 
-Đọc [Hiểu về trái tim, chương 29](https://nhavantuonglai.com/article/hieu-ve-trai-tim-chuong-29) tại đây.
+Đọc [Hiểu về trái tim, chương 29](/article/hieu-ve-trai-tim-chuong-29) tại đây.
 
-Đọc [Hiểu về trái tim, chương 30](https://nhavantuonglai.com/article/hieu-ve-trai-tim-chuong-30) tại đây.
+Đọc [Hiểu về trái tim, chương 30](/article/hieu-ve-trai-tim-chuong-30) tại đây.
 
-Đọc [Hiểu về trái tim, chương 31](https://nhavantuonglai.com/article/hieu-ve-trai-tim-chuong-31) tại đây.
+Đọc [Hiểu về trái tim, chương 31](/article/hieu-ve-trai-tim-chuong-31) tại đây.
 
-Đọc [Hiểu về trái tim, chương 32](https://nhavantuonglai.com/article/hieu-ve-trai-tim-chuong-32) tại đây.
+Đọc [Hiểu về trái tim, chương 32](/article/hieu-ve-trai-tim-chuong-32) tại đây.
 
-Đọc [Hiểu về trái tim, chương 33](https://nhavantuonglai.com/article/hieu-ve-trai-tim-chuong-33) tại đây.
+Đọc [Hiểu về trái tim, chương 33](/article/hieu-ve-trai-tim-chuong-33) tại đây.
 
-Đọc [Hiểu về trái tim, chương 34](https://nhavantuonglai.com/article/hieu-ve-trai-tim-chuong-34) tại đây.
+Đọc [Hiểu về trái tim, chương 34](/article/hieu-ve-trai-tim-chuong-34) tại đây.
 
-Đọc [Hiểu về trái tim, chương 35](https://nhavantuonglai.com/article/hieu-ve-trai-tim-chuong-35) tại đây.
+Đọc [Hiểu về trái tim, chương 35](/article/hieu-ve-trai-tim-chuong-35) tại đây.
 
-Đọc [Hiểu về trái tim, chương 36](https://nhavantuonglai.com/article/hieu-ve-trai-tim-chuong-36) tại đây.
+Đọc [Hiểu về trái tim, chương 36](/article/hieu-ve-trai-tim-chuong-36) tại đây.
 
-Đọc [Hiểu về trái tim, chương 37](https://nhavantuonglai.com/article/hieu-ve-trai-tim-chuong-37) tại đây.
+Đọc [Hiểu về trái tim, chương 37](/article/hieu-ve-trai-tim-chuong-37) tại đây.
 
-Đọc [Hiểu về trái tim, chương 38](https://nhavantuonglai.com/article/hieu-ve-trai-tim-chuong-38) tại đây.
+Đọc [Hiểu về trái tim, chương 38](/article/hieu-ve-trai-tim-chuong-38) tại đây.
 
-Đọc [Hiểu về trái tim, chương 39](https://nhavantuonglai.com/article/hieu-ve-trai-tim-chuong-39) tại đây.
+Đọc [Hiểu về trái tim, chương 39](/article/hieu-ve-trai-tim-chuong-39) tại đây.
 
-Đọc [Hiểu về trái tim, chương 40](https://nhavantuonglai.com/article/hieu-ve-trai-tim-chuong-40) tại đây.
+Đọc [Hiểu về trái tim, chương 40](/article/hieu-ve-trai-tim-chuong-40) tại đây.
 
-Đọc [Hiểu về trái tim, chương 41](https://nhavantuonglai.com/article/hieu-ve-trai-tim-chuong-41) tại đây.
+Đọc [Hiểu về trái tim, chương 41](/article/hieu-ve-trai-tim-chuong-41) tại đây.
 
-Đọc [Hiểu về trái tim, chương 42](https://nhavantuonglai.com/article/hieu-ve-trai-tim-chuong-42) tại đây.
+Đọc [Hiểu về trái tim, chương 42](/article/hieu-ve-trai-tim-chuong-42) tại đây.
 
-Đọc [Hiểu về trái tim, chương 43](https://nhavantuonglai.com/article/hieu-ve-trai-tim-chuong-43) tại đây.
+Đọc [Hiểu về trái tim, chương 43](/article/hieu-ve-trai-tim-chuong-43) tại đây.
 
-Đọc [Hiểu về trái tim, chương 44](https://nhavantuonglai.com/article/hieu-ve-trai-tim-chuong-44) tại đây.
+Đọc [Hiểu về trái tim, chương 44](/article/hieu-ve-trai-tim-chuong-44) tại đây.
 
-Đọc [Hiểu về trái tim, chương 45](https://nhavantuonglai.com/article/hieu-ve-trai-tim-chuong-45) tại đây.
+Đọc [Hiểu về trái tim, chương 45](/article/hieu-ve-trai-tim-chuong-45) tại đây.
 
-Đọc [Hiểu về trái tim, chương 46](https://nhavantuonglai.com/article/hieu-ve-trai-tim-chuong-46) tại đây.
+Đọc [Hiểu về trái tim, chương 46](/article/hieu-ve-trai-tim-chuong-46) tại đây.
 
-Đọc [Hiểu về trái tim, chương 47](https://nhavantuonglai.com/article/hieu-ve-trai-tim-chuong-47) tại đây.
+Đọc [Hiểu về trái tim, chương 47](/article/hieu-ve-trai-tim-chuong-47) tại đây.
 
-Đọc [Hiểu về trái tim, chương 48](https://nhavantuonglai.com/article/hieu-ve-trai-tim-chuong-48) tại đây.
+Đọc [Hiểu về trái tim, chương 48](/article/hieu-ve-trai-tim-chuong-48) tại đây.
 
-Đọc [Hiểu về trái tim, chương 49](https://nhavantuonglai.com/article/hieu-ve-trai-tim-chuong-49) tại đây.
+Đọc [Hiểu về trái tim, chương 49](/article/hieu-ve-trai-tim-chuong-49) tại đây.
 
-Đọc [Hiểu về trái tim, chương 50](https://nhavantuonglai.com/article/hieu-ve-trai-tim-chuong-50) tại đây.
+Đọc [Hiểu về trái tim, chương 50](/article/hieu-ve-trai-tim-chuong-50) tại đây.
 
-Đọc [Hiểu về trái tim, chương 51](https://nhavantuonglai.com/article/hieu-ve-trai-tim-chuong-51) tại đây.
+Đọc [Hiểu về trái tim, chương 51](/article/hieu-ve-trai-tim-chuong-51) tại đây.
 
 Đọc [Hiểu về trái tim, toàn tập](https://banmaixanh.vercel.app/ebook/hieu-ve-trai-tim.pdf) tại đây.
 

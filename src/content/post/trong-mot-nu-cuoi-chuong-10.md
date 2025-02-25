@@ -177,27 +177,27 @@ Khen ngợi công khai, phê bình riêng tư: Khi cần sửa lỗi của học
 
 Đối với nhóm học sinh gây mất trật tự, hãy công nhận cảm giác không thoải mái của các em và nhờ các em cùng giúp cải thiện tình hình: Chúng ta có thể yêu cầu các em nghĩ ra một sinh hoạt khác mà các em thích. Tôi còn nhớ lần đó trong chương trình trẻ em tại Làng Mai. Ngày đầu, cả nhóm ngồi trong phòng sinh hoạt để chia sẻ và chơi một vài trò nhẹ nhàng như: làm tóc cho nhau, hát, vẽ, tô màu… Một nhóm các bạn nữ không thèm tham gia. Những tình nguyện viên trong chương trình không có cách gì để làm cho các em hứng thú với sinh hoạt của nhóm. Các em này cũng biết được là các tình nguyện viên không cảm thấy thoải mái với cách hành xử của các em. Hai ngày sau, một sư cô (có trách nhiệm hướng dẫn chương trình thiếu nhi) vào phòng sinh hoạt của các em trong giờ nghỉ ngơi buổi chiều vì sư cô biết là thế nào các em nữ cũng đang chơi trong phòng. Sư cô tham gia làm đồ trang sức với các em, sư cô vừa chơi vừa chia sẻ cho các em biết cảm nhận của mình và mời các em chia sẻ cảm giác của các em về những sinh hoạt trong mấy ngày qua. Sau buổi chia sẻ đó, các em nữ đã có thể hòa chung với mọi người để tập một màn văn nghệ cho buổi tối Tết Trung Thu.
 
-Đọc [Trồng một nụ cười, chương 01](https://nhavantuonglai.com/article/trong-mot-nu-cuoi-chuong-01) tại đây.
+Đọc [Trồng một nụ cười, chương 01](/article/trong-mot-nu-cuoi-chuong-01) tại đây.
 
-Đọc [Trồng một nụ cười, chương 02](https://nhavantuonglai.com/article/trong-mot-nu-cuoi-chuong-02) tại đây.
+Đọc [Trồng một nụ cười, chương 02](/article/trong-mot-nu-cuoi-chuong-02) tại đây.
 
-Đọc [Trồng một nụ cười, chương 03](https://nhavantuonglai.com/article/trong-mot-nu-cuoi-chuong-03) tại đây.
+Đọc [Trồng một nụ cười, chương 03](/article/trong-mot-nu-cuoi-chuong-03) tại đây.
 
-Đọc [Trồng một nụ cười, chương 04](https://nhavantuonglai.com/article/trong-mot-nu-cuoi-chuong-04) tại đây.
+Đọc [Trồng một nụ cười, chương 04](/article/trong-mot-nu-cuoi-chuong-04) tại đây.
 
-Đọc [Trồng một nụ cười, chương 05](https://nhavantuonglai.com/article/trong-mot-nu-cuoi-chuong-05) tại đây.
+Đọc [Trồng một nụ cười, chương 05](/article/trong-mot-nu-cuoi-chuong-05) tại đây.
 
-Đọc [Trồng một nụ cười, chương 06](https://nhavantuonglai.com/article/trong-mot-nu-cuoi-chuong-06) tại đây.
+Đọc [Trồng một nụ cười, chương 06](/article/trong-mot-nu-cuoi-chuong-06) tại đây.
 
-Đọc [Trồng một nụ cười, chương 07](https://nhavantuonglai.com/article/trong-mot-nu-cuoi-chuong-07) tại đây.
+Đọc [Trồng một nụ cười, chương 07](/article/trong-mot-nu-cuoi-chuong-07) tại đây.
 
-Đọc [Trồng một nụ cười, chương 08](https://nhavantuonglai.com/article/trong-mot-nu-cuoi-chuong-08) tại đây.
+Đọc [Trồng một nụ cười, chương 08](/article/trong-mot-nu-cuoi-chuong-08) tại đây.
 
-Đọc [Trồng một nụ cười, chương 09](https://nhavantuonglai.com/article/trong-mot-nu-cuoi-chuong-09) tại đây.
+Đọc [Trồng một nụ cười, chương 09](/article/trong-mot-nu-cuoi-chuong-09) tại đây.
 
-Đọc [Trồng một nụ cười, chương 10](https://nhavantuonglai.com/article/trong-mot-nu-cuoi-chuong-10) tại đây.
+Đọc [Trồng một nụ cười, chương 10](/article/trong-mot-nu-cuoi-chuong-10) tại đây.
 
-Đọc [Trồng một nụ cười, chương 11](https://nhavantuonglai.com/article/trong-mot-nu-cuoi-chuong-11) tại đây.
+Đọc [Trồng một nụ cười, chương 11](/article/trong-mot-nu-cuoi-chuong-11) tại đây.
 
 Đọc [Trồng một nụ cười, toàn tập](https://banmaixanh.vercel.app/ebook/trong-mot-nu-cuoi.pdf) tại đây.
 

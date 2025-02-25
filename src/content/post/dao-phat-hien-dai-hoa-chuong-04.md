@@ -341,15 +341,15 @@ Giáo hội sẽ im lặng khi lực lượng chính trị của những ngườ
 
 Như thế, người Phật tử có thể có mặt trong lĩnh vực chính trị để cố thực hiện việc bảo vệ xây đắp cho một chính quyền tốt đẹp mà Giáo hội vẫn giữ được tính cách phi chính trị của mình, tính cách thực ra không phải đẹp đẽ gì nhưng cần thiết trong căn cơ của thế kỷ.
 
-Đọc [Đạo phật hiện đại hóa, chương 01](https://nhavantuonglai.com/article/dao-phat-hien-dai-hoa-chuong-01) tại đây.
+Đọc [Đạo phật hiện đại hóa, chương 01](/article/dao-phat-hien-dai-hoa-chuong-01) tại đây.
 
-Đọc [Đạo phật hiện đại hóa, chương 02](https://nhavantuonglai.com/article/dao-phat-hien-dai-hoa-chuong-02) tại đây.
+Đọc [Đạo phật hiện đại hóa, chương 02](/article/dao-phat-hien-dai-hoa-chuong-02) tại đây.
 
-Đọc [Đạo phật hiện đại hóa, chương 03](https://nhavantuonglai.com/article/dao-phat-hien-dai-hoa-chuong-03) tại đây.
+Đọc [Đạo phật hiện đại hóa, chương 03](/article/dao-phat-hien-dai-hoa-chuong-03) tại đây.
 
-Đọc [Đạo phật hiện đại hóa, chương 04](https://nhavantuonglai.com/article/dao-phat-hien-dai-hoa-chuong-04) tại đây.
+Đọc [Đạo phật hiện đại hóa, chương 04](/article/dao-phat-hien-dai-hoa-chuong-04) tại đây.
 
-Đọc [Đạo phật hiện đại hóa, chương 05](https://nhavantuonglai.com/article/dao-phat-hien-dai-hoa-chuong-05) tại đây.
+Đọc [Đạo phật hiện đại hóa, chương 05](/article/dao-phat-hien-dai-hoa-chuong-05) tại đây.
 
 Đọc [Đạo phật hiện đại hóa, toàn tập](https://banmaixanh.vercel.app/ebook/dao-phat-di-vao-cuoc-doi.pdf) tại đây.
 

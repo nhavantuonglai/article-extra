@@ -36,7 +36,7 @@ Một khía cạnh khác chính là việc lạm dụng chuyển đổi font ch�
 
 ## nhavantuonglai ra mắt công cụ chuyển đổi font chữ Facebook
 
-Mới đây, nhavantuonglai đã chính thức ra mắt [công cụ chuyển đổi font chữ Facebook](https://nhavantuonglai.com/analytics/unicode) ngay trên website, giúp người dùng có thể chuyển đổi và chuẩn hóa văn bản nhanh chóng và hiệu quả. Công cụ chuyển đổi font chữ Facebook hoạt động trực tuyến, không tốn phí sử dụng, không cần cài đặt và trả về kết quả ngay lập tức.
+Mới đây, nhavantuonglai đã chính thức ra mắt [công cụ chuyển đổi font chữ Facebook](/analytics/unicode) ngay trên website, giúp người dùng có thể chuyển đổi và chuẩn hóa văn bản nhanh chóng và hiệu quả. Công cụ chuyển đổi font chữ Facebook hoạt động trực tuyến, không tốn phí sử dụng, không cần cài đặt và trả về kết quả ngay lập tức.
 
 Để sử dụng, chỉ cần nhập văn bản thô cần chuyển đổi, sau đó bấm _Chuyển đổi_ thì ngay lập tức các định dạng font chữ Facebook sẽ hiển thị và người dùng có thể dễ dàng sao chép, sử dụng.
 

@@ -35,9 +35,9 @@ Ngoài ra có nhiều nhà nghỉ, khách sạn trong nội thành cho bạn d�
 
 ## Chơi đâu
 
-Cồn Quy thuộc huyện Châu Thành với đặc sản là trái cây ngon và tôm cá. Cồn Quy là cồn nhỏ nhất trong _[tứ linh](https://nhavantuonglai.com/article)_ của miệt vườn đồng bằng sông Cửu Long. Tham quan cồn Quy, du khách còn được thưởng thức món _đờn ca tài tử_ mang đậm bản sắc vùng sông nước Nam bộ.
+Cồn Quy thuộc huyện Châu Thành với đặc sản là trái cây ngon và tôm cá. Cồn Quy là cồn nhỏ nhất trong _[tứ linh](/article)_ của miệt vườn đồng bằng sông Cửu Long. Tham quan cồn Quy, du khách còn được thưởng thức món _đờn ca tài tử_ mang đậm bản sắc vùng sông nước Nam bộ.
 
-Cồn Phụng nằm trên một cù lao nổi giữa sông Tiền thuộc địa bàn xã Tân Thạch, huyện Châu Thành. Đến đây du khách có thể đi xuồng máy dọc cồn để tham quan các cơ sở chế biến kẹo dừa, đồ lưu niệm từ dừa hay lên xe ngựa thăm vườn cây ăn trái, dừng chân bên ngôi nhà lợp lá dừa để uống trà với mật ong và quất, thưởng thức trái cây miền nhiệt đới. Trải nghiệm hút khách là [câu cá sấu](https://nhavantuonglai.com/article), cho cá chép bú bình…
+Cồn Phụng nằm trên một cù lao nổi giữa sông Tiền thuộc địa bàn xã Tân Thạch, huyện Châu Thành. Đến đây du khách có thể đi xuồng máy dọc cồn để tham quan các cơ sở chế biến kẹo dừa, đồ lưu niệm từ dừa hay lên xe ngựa thăm vườn cây ăn trái, dừng chân bên ngôi nhà lợp lá dừa để uống trà với mật ong và quất, thưởng thức trái cây miền nhiệt đới. Trải nghiệm hút khách là [câu cá sấu](/article), cho cá chép bú bình…
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/du-lich-ben-tre-067.jpg" alt="cam-nang-du-lich-ben-tre" height="100%" width="100%"><figcaption><p>cam-nang-du-lich-ben-tre-nhavantuonglai</p></figcaption></figure>
 
@@ -59,7 +59,7 @@ Làng du kích Đồng Khởi thuộc điạ phận xã Định Thủy, huyện 
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/du-lich-ben-tre-069.jpg" alt="cam-nang-du-lich-ben-tre" height="100%" width="100%"><figcaption><p>cam-nang-du-lich-ben-tre-nhavantuonglai</p></figcaption></figure>
 
-[Làng nghề Phú Lễ](https://nhavantuonglai.com/article) ở huyện Ba Tri. Đến với làng nghề này, du khách sẽ nghe người dân hát sắc bùa khi đan lát, tìm hiểu về nghề nấu rượu nếp…
+[Làng nghề Phú Lễ](/article) ở huyện Ba Tri. Đến với làng nghề này, du khách sẽ nghe người dân hát sắc bùa khi đan lát, tìm hiểu về nghề nấu rượu nếp…
 
 Một điểm tham quan tại làng là đình Phú Lễ được xây dựng vào năm Minh Mạng thứ 7, trên cơ sở ngôi đình bằng gỗ lá. Vào dịp Tết hoặc Lễ hội cúng đình (Lễ Kỳ Yên) ngày 18 và 19/3 âm lịch hàng năm, ngay trước đình sẽ tổ chức hát bội.
 
@@ -79,7 +79,7 @@ Mỗi nhà chia nhau làm bung, lờ bắt cá hoặc rế, nia. Du khách đế
 
 ## Đặc sản
 
-Đặc sản từ dừa của Bến Tre sẽ khiến du khách bất ngờ. Không chỉ là lấy nước dừa, người dân còn có nhiều món ngon như cơm nấu với dừa, cháo dừa, [tép rang dừa](https://nhavantuonglai.com/article), cổ hũ dừa, bánh dừa Giồng Luông…
+Đặc sản từ dừa của Bến Tre sẽ khiến du khách bất ngờ. Không chỉ là lấy nước dừa, người dân còn có nhiều món ngon như cơm nấu với dừa, cháo dừa, [tép rang dừa](/article), cổ hũ dừa, bánh dừa Giồng Luông…
 
 Chuối đập: chuối được đập dẹt rồi nướng trên lửa than, ăn kèm với nước cốt dừa. Vị nóng giòn thơm của chuối thêm vị béo ngậy của nước cốt dừa sẽ làm bạn thích thú.
 

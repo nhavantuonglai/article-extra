@@ -357,105 +357,105 @@ A Tử mỉm cười đáp: _Xin sư phụ tha thứ. Con là đệ tử phái T
 
 Chưa biết lão muốn nói gì, bỗng nghe một thanh âm dõng dạc vang lên: _Điếm gia! Dọn chỗ ngồi cho ta!_ Đinh Xuân Thu đảo mắt nhìn qua thì thấy một chàng thanh niên công tử mình mặc hoàng bào, lưng đeo trường kiếm, ngồi ngay bàn bên cạnh, không biết vào đây từ lúc nào, chính là Mộ Dung Phục mà lão đã gặp nơi kỳ hội, võ thuật gia truyền lừng danh võ lâm. Đinh Xuân Thu đang mải nghe A Tử tán dương, để chàng đột nhiên vào ngồi cạnh mà không để ý, quả là sơ hở rất lớn. Giả tỉ Mộ Dung Phục ra tay ám toán thì chắc lão phải khốn đốn rồi. Đinh Xuân Thu giật mình một cái, hơi biến sắc mặt, nhưng lại trấn tĩnh được ngay.
 
-Đọc [Thiên long bát bộ, chương 01](https://nhavantuonglai.com/article/thien-long-bat-bo-chuong-01) tại đây.
+Đọc [Thiên long bát bộ, chương 01](/article/thien-long-bat-bo-chuong-01) tại đây.
 
-Đọc [Thiên long bát bộ, chương 02](https://nhavantuonglai.com/article/thien-long-bat-bo-chuong-02) tại đây.
+Đọc [Thiên long bát bộ, chương 02](/article/thien-long-bat-bo-chuong-02) tại đây.
 
-Đọc [Thiên long bát bộ, chương 03](https://nhavantuonglai.com/article/thien-long-bat-bo-chuong-03) tại đây.
+Đọc [Thiên long bát bộ, chương 03](/article/thien-long-bat-bo-chuong-03) tại đây.
 
-Đọc [Thiên long bát bộ, chương 04](https://nhavantuonglai.com/article/thien-long-bat-bo-chuong-04) tại đây.
+Đọc [Thiên long bát bộ, chương 04](/article/thien-long-bat-bo-chuong-04) tại đây.
 
-Đọc [Thiên long bát bộ, chương 05](https://nhavantuonglai.com/article/thien-long-bat-bo-chuong-05) tại đây.
+Đọc [Thiên long bát bộ, chương 05](/article/thien-long-bat-bo-chuong-05) tại đây.
 
-Đọc [Thiên long bát bộ, chương 06](https://nhavantuonglai.com/article/thien-long-bat-bo-chuong-06) tại đây.
+Đọc [Thiên long bát bộ, chương 06](/article/thien-long-bat-bo-chuong-06) tại đây.
 
-Đọc [Thiên long bát bộ, chương 07](https://nhavantuonglai.com/article/thien-long-bat-bo-chuong-07) tại đây.
+Đọc [Thiên long bát bộ, chương 07](/article/thien-long-bat-bo-chuong-07) tại đây.
 
-Đọc [Thiên long bát bộ, chương 08](https://nhavantuonglai.com/article/thien-long-bat-bo-chuong-08) tại đây.
+Đọc [Thiên long bát bộ, chương 08](/article/thien-long-bat-bo-chuong-08) tại đây.
 
-Đọc [Thiên long bát bộ, chương 09](https://nhavantuonglai.com/article/thien-long-bat-bo-chuong-09) tại đây.
+Đọc [Thiên long bát bộ, chương 09](/article/thien-long-bat-bo-chuong-09) tại đây.
 
-Đọc [Thiên long bát bộ, chương 10](https://nhavantuonglai.com/article/thien-long-bat-bo-chuong-10) tại đây.
+Đọc [Thiên long bát bộ, chương 10](/article/thien-long-bat-bo-chuong-10) tại đây.
 
-Đọc [Thiên long bát bộ, chương 11](https://nhavantuonglai.com/article/thien-long-bat-bo-chuong-11) tại đây.
+Đọc [Thiên long bát bộ, chương 11](/article/thien-long-bat-bo-chuong-11) tại đây.
 
-Đọc [Thiên long bát bộ, chương 12](https://nhavantuonglai.com/article/thien-long-bat-bo-chuong-12) tại đây.
+Đọc [Thiên long bát bộ, chương 12](/article/thien-long-bat-bo-chuong-12) tại đây.
 
-Đọc [Thiên long bát bộ, chương 13](https://nhavantuonglai.com/article/thien-long-bat-bo-chuong-13) tại đây.
+Đọc [Thiên long bát bộ, chương 13](/article/thien-long-bat-bo-chuong-13) tại đây.
 
-Đọc [Thiên long bát bộ, chương 14](https://nhavantuonglai.com/article/thien-long-bat-bo-chuong-14) tại đây.
+Đọc [Thiên long bát bộ, chương 14](/article/thien-long-bat-bo-chuong-14) tại đây.
 
-Đọc [Thiên long bát bộ, chương 15](https://nhavantuonglai.com/article/thien-long-bat-bo-chuong-15) tại đây.
+Đọc [Thiên long bát bộ, chương 15](/article/thien-long-bat-bo-chuong-15) tại đây.
 
-Đọc [Thiên long bát bộ, chương 16](https://nhavantuonglai.com/article/thien-long-bat-bo-chuong-16) tại đây.
+Đọc [Thiên long bát bộ, chương 16](/article/thien-long-bat-bo-chuong-16) tại đây.
 
-Đọc [Thiên long bát bộ, chương 17](https://nhavantuonglai.com/article/thien-long-bat-bo-chuong-17) tại đây.
+Đọc [Thiên long bát bộ, chương 17](/article/thien-long-bat-bo-chuong-17) tại đây.
 
-Đọc [Thiên long bát bộ, chương 18](https://nhavantuonglai.com/article/thien-long-bat-bo-chuong-18) tại đây.
+Đọc [Thiên long bát bộ, chương 18](/article/thien-long-bat-bo-chuong-18) tại đây.
 
-Đọc [Thiên long bát bộ, chương 19](https://nhavantuonglai.com/article/thien-long-bat-bo-chuong-19) tại đây.
+Đọc [Thiên long bát bộ, chương 19](/article/thien-long-bat-bo-chuong-19) tại đây.
 
-Đọc [Thiên long bát bộ, chương 20](https://nhavantuonglai.com/article/thien-long-bat-bo-chuong-20) tại đây.
+Đọc [Thiên long bát bộ, chương 20](/article/thien-long-bat-bo-chuong-20) tại đây.
 
-Đọc [Thiên long bát bộ, chương 21](https://nhavantuonglai.com/article/thien-long-bat-bo-chuong-21) tại đây.
+Đọc [Thiên long bát bộ, chương 21](/article/thien-long-bat-bo-chuong-21) tại đây.
 
-Đọc [Thiên long bát bộ, chương 22](https://nhavantuonglai.com/article/thien-long-bat-bo-chuong-22) tại đây.
+Đọc [Thiên long bát bộ, chương 22](/article/thien-long-bat-bo-chuong-22) tại đây.
 
-Đọc [Thiên long bát bộ, chương 23](https://nhavantuonglai.com/article/thien-long-bat-bo-chuong-23) tại đây.
+Đọc [Thiên long bát bộ, chương 23](/article/thien-long-bat-bo-chuong-23) tại đây.
 
-Đọc [Thiên long bát bộ, chương 24](https://nhavantuonglai.com/article/thien-long-bat-bo-chuong-24) tại đây.
+Đọc [Thiên long bát bộ, chương 24](/article/thien-long-bat-bo-chuong-24) tại đây.
 
-Đọc [Thiên long bát bộ, chương 25](https://nhavantuonglai.com/article/thien-long-bat-bo-chuong-25) tại đây.
+Đọc [Thiên long bát bộ, chương 25](/article/thien-long-bat-bo-chuong-25) tại đây.
 
-Đọc [Thiên long bát bộ, chương 26](https://nhavantuonglai.com/article/thien-long-bat-bo-chuong-26) tại đây.
+Đọc [Thiên long bát bộ, chương 26](/article/thien-long-bat-bo-chuong-26) tại đây.
 
-Đọc [Thiên long bát bộ, chương 27](https://nhavantuonglai.com/article/thien-long-bat-bo-chuong-27) tại đây.
+Đọc [Thiên long bát bộ, chương 27](/article/thien-long-bat-bo-chuong-27) tại đây.
 
-Đọc [Thiên long bát bộ, chương 28](https://nhavantuonglai.com/article/thien-long-bat-bo-chuong-28) tại đây.
+Đọc [Thiên long bát bộ, chương 28](/article/thien-long-bat-bo-chuong-28) tại đây.
 
-Đọc [Thiên long bát bộ, chương 29](https://nhavantuonglai.com/article/thien-long-bat-bo-chuong-29) tại đây.
+Đọc [Thiên long bát bộ, chương 29](/article/thien-long-bat-bo-chuong-29) tại đây.
 
-Đọc [Thiên long bát bộ, chương 30](https://nhavantuonglai.com/article/thien-long-bat-bo-chuong-30) tại đây.
+Đọc [Thiên long bát bộ, chương 30](/article/thien-long-bat-bo-chuong-30) tại đây.
 
-Đọc [Thiên long bát bộ, chương 31](https://nhavantuonglai.com/article/thien-long-bat-bo-chuong-31) tại đây.
+Đọc [Thiên long bát bộ, chương 31](/article/thien-long-bat-bo-chuong-31) tại đây.
 
-Đọc [Thiên long bát bộ, chương 32](https://nhavantuonglai.com/article/thien-long-bat-bo-chuong-32) tại đây.
+Đọc [Thiên long bát bộ, chương 32](/article/thien-long-bat-bo-chuong-32) tại đây.
 
-Đọc [Thiên long bát bộ, chương 33](https://nhavantuonglai.com/article/thien-long-bat-bo-chuong-33) tại đây.
+Đọc [Thiên long bát bộ, chương 33](/article/thien-long-bat-bo-chuong-33) tại đây.
 
-Đọc [Thiên long bát bộ, chương 34](https://nhavantuonglai.com/article/thien-long-bat-bo-chuong-34) tại đây.
+Đọc [Thiên long bát bộ, chương 34](/article/thien-long-bat-bo-chuong-34) tại đây.
 
-Đọc [Thiên long bát bộ, chương 35](https://nhavantuonglai.com/article/thien-long-bat-bo-chuong-35) tại đây.
+Đọc [Thiên long bát bộ, chương 35](/article/thien-long-bat-bo-chuong-35) tại đây.
 
-Đọc [Thiên long bát bộ, chương 36](https://nhavantuonglai.com/article/thien-long-bat-bo-chuong-36) tại đây.
+Đọc [Thiên long bát bộ, chương 36](/article/thien-long-bat-bo-chuong-36) tại đây.
 
-Đọc [Thiên long bát bộ, chương 37](https://nhavantuonglai.com/article/thien-long-bat-bo-chuong-37) tại đây.
+Đọc [Thiên long bát bộ, chương 37](/article/thien-long-bat-bo-chuong-37) tại đây.
 
-Đọc [Thiên long bát bộ, chương 38](https://nhavantuonglai.com/article/thien-long-bat-bo-chuong-38) tại đây.
+Đọc [Thiên long bát bộ, chương 38](/article/thien-long-bat-bo-chuong-38) tại đây.
 
-Đọc [Thiên long bát bộ, chương 39](https://nhavantuonglai.com/article/thien-long-bat-bo-chuong-39) tại đây.
+Đọc [Thiên long bát bộ, chương 39](/article/thien-long-bat-bo-chuong-39) tại đây.
 
-Đọc [Thiên long bát bộ, chương 40](https://nhavantuonglai.com/article/thien-long-bat-bo-chuong-40) tại đây.
+Đọc [Thiên long bát bộ, chương 40](/article/thien-long-bat-bo-chuong-40) tại đây.
 
-Đọc [Thiên long bát bộ, chương 41](https://nhavantuonglai.com/article/thien-long-bat-bo-chuong-41) tại đây.
+Đọc [Thiên long bát bộ, chương 41](/article/thien-long-bat-bo-chuong-41) tại đây.
 
-Đọc [Thiên long bát bộ, chương 42](https://nhavantuonglai.com/article/thien-long-bat-bo-chuong-42) tại đây.
+Đọc [Thiên long bát bộ, chương 42](/article/thien-long-bat-bo-chuong-42) tại đây.
 
-Đọc [Thiên long bát bộ, chương 43](https://nhavantuonglai.com/article/thien-long-bat-bo-chuong-43) tại đây.
+Đọc [Thiên long bát bộ, chương 43](/article/thien-long-bat-bo-chuong-43) tại đây.
 
-Đọc [Thiên long bát bộ, chương 44](https://nhavantuonglai.com/article/thien-long-bat-bo-chuong-44) tại đây.
+Đọc [Thiên long bát bộ, chương 44](/article/thien-long-bat-bo-chuong-44) tại đây.
 
-Đọc [Thiên long bát bộ, chương 45](https://nhavantuonglai.com/article/thien-long-bat-bo-chuong-45) tại đây.
+Đọc [Thiên long bát bộ, chương 45](/article/thien-long-bat-bo-chuong-45) tại đây.
 
-Đọc [Thiên long bát bộ, chương 46](https://nhavantuonglai.com/article/thien-long-bat-bo-chuong-46) tại đây.
+Đọc [Thiên long bát bộ, chương 46](/article/thien-long-bat-bo-chuong-46) tại đây.
 
-Đọc [Thiên long bát bộ, chương 47](https://nhavantuonglai.com/article/thien-long-bat-bo-chuong-47) tại đây.
+Đọc [Thiên long bát bộ, chương 47](/article/thien-long-bat-bo-chuong-47) tại đây.
 
-Đọc [Thiên long bát bộ, chương 48](https://nhavantuonglai.com/article/thien-long-bat-bo-chuong-48) tại đây.
+Đọc [Thiên long bát bộ, chương 48](/article/thien-long-bat-bo-chuong-48) tại đây.
 
-Đọc [Thiên long bát bộ, chương 49](https://nhavantuonglai.com/article/thien-long-bat-bo-chuong-49) tại đây.
+Đọc [Thiên long bát bộ, chương 49](/article/thien-long-bat-bo-chuong-49) tại đây.
 
-Đọc [Thiên long bát bộ, chương 40](https://nhavantuonglai.com/article/thien-long-bat-bo-chuong-40) tại đây.
+Đọc [Thiên long bát bộ, chương 40](/article/thien-long-bat-bo-chuong-40) tại đây.
 
 Đọc [Thiên long bát bộ, toàn tập](https://banmaixanh.vercel.app/ebook/thien-long-bat-bo.pdf) tại đây.
 

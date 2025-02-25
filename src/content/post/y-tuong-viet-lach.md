@@ -31,7 +31,7 @@ Viết lách sáng tạo không chỉ giúp phát triển khả năng ngôn ng�
 
 ### Đọc sách và tác phẩm văn học
 
-[Đọc nhiều hiểu sâu viết hay](https://nhavantuonglai.com/article) là nền tảng của viết lách. Hãy đọc nhiều sách và tác phẩm văn học đa dạng, từ các tác giả cổ điển đến hiện đại, từ các thể loại khác nhau để hiểu phong cách viết và cấu trúc câu chuyện.
+[Đọc nhiều hiểu sâu viết hay](/article) là nền tảng của viết lách. Hãy đọc nhiều sách và tác phẩm văn học đa dạng, từ các tác giả cổ điển đến hiện đại, từ các thể loại khác nhau để hiểu phong cách viết và cấu trúc câu chuyện.
 
 Đọc sâu: Khi đọc, hãy chú ý đến cách tác giả xây dựng nhân vật, cốt truyện và sử dụng ngôn ngữ. Ghi chú lại những đoạn văn bạn thấy ấn tượng và phân tích lý do tại sao chúng lại hiệu quả.
 
@@ -39,7 +39,7 @@ Viết lách sáng tạo không chỉ giúp phát triển khả năng ngôn ng�
 
 ### Thực hành viết hàng ngày
 
-[Viết lách](https://nhavantuonglai.com/article) cũng giống như bất kỳ kỹ năng nào khác, cần sự thực hành đều đặn để cải thiện. Hãy dành thời gian hàng ngày để viết, dù chỉ là vài dòng.
+[Viết lách](/article) cũng giống như bất kỳ kỹ năng nào khác, cần sự thực hành đều đặn để cải thiện. Hãy dành thời gian hàng ngày để viết, dù chỉ là vài dòng.
 
 Nhật ký viết lách: Giữ một cuốn nhật ký và viết về những suy nghĩ, cảm xúc, và quan sát hàng ngày. Điều này không chỉ giúp bạn thực hành mà còn là nguồn tài liệu quý giá cho các câu chuyện tương lai.
 
@@ -59,9 +59,9 @@ Sử dụng đối thoại: Đối thoại không chỉ là lời nói của nh�
 
 ## Phát triển kỹ năng nâng cao
 
-### Tham gia [Khóa học viết blog](https://nhavantuonglai.com/article)
+### Tham gia [Khóa học viết blog](/article)
 
-Tham gia các [Khóa học viết blog](https://nhavantuonglai.com/article) trực tuyến hoặc tại các trung tâm giáo dục có thể cung cấp kiến thức chuyên sâu và phản hồi từ giảng viên.
+Tham gia các [Khóa học viết blog](/article) trực tuyến hoặc tại các trung tâm giáo dục có thể cung cấp kiến thức chuyên sâu và phản hồi từ giảng viên.
 
 Khóa học online: Các nền tảng như Coursera, Udemy, và MasterClass cung cấp nhiều khóa học viết blog từ cơ bản đến nâng cao, được giảng dạy bởi các nhà văn nổi tiếng.
 
@@ -99,7 +99,7 @@ Theo dõi tiến độ: Ghi chép lại tiến độ viết lách của bạn đ
 
 ### Tìm cảm hứng từ cuộc sống
 
-[Cảm hứng viết lách](https://nhavantuonglai.com/article) có thể đến từ bất kỳ đâu – từ cuộc sống hàng ngày, từ những cuộc trò chuyện, từ thiên nhiên, hoặc từ những trải nghiệm cá nhân.
+[Cảm hứng viết lách](/article) có thể đến từ bất kỳ đâu – từ cuộc sống hàng ngày, từ những cuộc trò chuyện, từ thiên nhiên, hoặc từ những trải nghiệm cá nhân.
 
 Quan sát và ghi chép: Luôn mang theo một cuốn sổ tay để ghi chép lại những ý tưởng, hình ảnh, hoặc câu chuyện thú vị mà bạn gặp trong cuộc sống hàng ngày.
 
@@ -109,7 +109,7 @@ Khám phá mới: Tham gia vào các hoạt động mới, đi du lịch, hoặc
 
 ## Đọc và học hỏi từ các tác giả khác
 
-Học hỏi từ các tác giả thành công và nổi tiếng giúp bạn [cải thiện kỹ năng viết lách](https://nhavantuonglai.com/article) và tìm ra phong cách viết riêng của mình.
+Học hỏi từ các tác giả thành công và nổi tiếng giúp bạn [cải thiện kỹ năng viết lách](/article) và tìm ra phong cách viết riêng của mình.
 
 Phân tích tác phẩm: Đọc các tác phẩm của những tác giả bạn ngưỡng mộ và phân tích cách họ xây dựng câu chuyện, phát triển nhân vật và sử dụng ngôn ngữ.
 

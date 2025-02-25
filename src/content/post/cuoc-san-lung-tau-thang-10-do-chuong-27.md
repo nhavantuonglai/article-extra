@@ -85,71 +85,71 @@ _FLASHLIGHT, FLASHLIGHT, FLASHLIGHT._ Tín hiệu từ kênh radio kỹ thuật 
 
 – Tuân lệnh. sĩ quan tác chiến điện tử mở nắp nhựa trên thiết bị điều khiển hệ thống gây nhiễu của máy bay, để lộ một số công tắc bật tắt và nút xoay. Đầu tiên anh bật nguồn, khởi động mất vài giây. Các hệ thống điện tử trên chiếc B – 72 đều là sản năm từ những năm 70, nếu không thì phi đội đã không đóng vai trò thứ yếu. Tuy nhiên đây vẫn là công cụ huấn luyện tốt và viên trung úy hy vọng sẽ được chuyển sang lái máy bay B – 1B loại mới do Rockwell lắp ráp ở California. Trong 10 phút, các thiết bị tác chiến điện tử ÉM đặt trên mũi và đầu cánh máy bay đã thu được các tín hiệu từ radar Liên Xô, phân loại tần số, tốc độ lặp lại xung, công suất và các đặc tính riêng của máy phát. Đây là lần đầu tiên viên trung úy chơi trò này. Anh vừa tốt nghiệp Trường Tác Chiến Điện Tử, thành tích đứng đầu lớp. Anh cân nhắc những gì làm trước tiên, rồi sau đó chọn một chế độ gây nhiễu từ một loạt các tùy chọn trong bộ nhớ, không phải chế độ tốt nhất.
 
-Đọc [Cuộc săn lùng tàu tháng 10 đỏ, chương 01](https://nhavantuonglai.com/article/cuoc-san-lung-tau-thang-10-do-chuong-01) tại đây.
+Đọc [Cuộc săn lùng tàu tháng 10 đỏ, chương 01](/article/cuoc-san-lung-tau-thang-10-do-chuong-01) tại đây.
 
-Đọc [Cuộc săn lùng tàu tháng 10 đỏ, chương 02](https://nhavantuonglai.com/article/cuoc-san-lung-tau-thang-10-do-chuong-02) tại đây.
+Đọc [Cuộc săn lùng tàu tháng 10 đỏ, chương 02](/article/cuoc-san-lung-tau-thang-10-do-chuong-02) tại đây.
 
-Đọc [Cuộc săn lùng tàu tháng 10 đỏ, chương 03](https://nhavantuonglai.com/article/cuoc-san-lung-tau-thang-10-do-chuong-03) tại đây.
+Đọc [Cuộc săn lùng tàu tháng 10 đỏ, chương 03](/article/cuoc-san-lung-tau-thang-10-do-chuong-03) tại đây.
 
-Đọc [Cuộc săn lùng tàu tháng 10 đỏ, chương 04](https://nhavantuonglai.com/article/cuoc-san-lung-tau-thang-10-do-chuong-04) tại đây.
+Đọc [Cuộc săn lùng tàu tháng 10 đỏ, chương 04](/article/cuoc-san-lung-tau-thang-10-do-chuong-04) tại đây.
 
-Đọc [Cuộc săn lùng tàu tháng 10 đỏ, chương 05](https://nhavantuonglai.com/article/cuoc-san-lung-tau-thang-10-do-chuong-05) tại đây.
+Đọc [Cuộc săn lùng tàu tháng 10 đỏ, chương 05](/article/cuoc-san-lung-tau-thang-10-do-chuong-05) tại đây.
 
-Đọc [Cuộc săn lùng tàu tháng 10 đỏ, chương 06](https://nhavantuonglai.com/article/cuoc-san-lung-tau-thang-10-do-chuong-06) tại đây.
+Đọc [Cuộc săn lùng tàu tháng 10 đỏ, chương 06](/article/cuoc-san-lung-tau-thang-10-do-chuong-06) tại đây.
 
-Đọc [Cuộc săn lùng tàu tháng 10 đỏ, chương 07](https://nhavantuonglai.com/article/cuoc-san-lung-tau-thang-10-do-chuong-07) tại đây.
+Đọc [Cuộc săn lùng tàu tháng 10 đỏ, chương 07](/article/cuoc-san-lung-tau-thang-10-do-chuong-07) tại đây.
 
-Đọc [Cuộc săn lùng tàu tháng 10 đỏ, chương 08](https://nhavantuonglai.com/article/cuoc-san-lung-tau-thang-10-do-chuong-08) tại đây.
+Đọc [Cuộc săn lùng tàu tháng 10 đỏ, chương 08](/article/cuoc-san-lung-tau-thang-10-do-chuong-08) tại đây.
 
-Đọc [Cuộc săn lùng tàu tháng 10 đỏ, chương 09](https://nhavantuonglai.com/article/cuoc-san-lung-tau-thang-10-do-chuong-09) tại đây.
+Đọc [Cuộc săn lùng tàu tháng 10 đỏ, chương 09](/article/cuoc-san-lung-tau-thang-10-do-chuong-09) tại đây.
 
-Đọc [Cuộc săn lùng tàu tháng 10 đỏ, chương 10](https://nhavantuonglai.com/article/cuoc-san-lung-tau-thang-10-do-chuong-10) tại đây.
+Đọc [Cuộc săn lùng tàu tháng 10 đỏ, chương 10](/article/cuoc-san-lung-tau-thang-10-do-chuong-10) tại đây.
 
-Đọc [Cuộc săn lùng tàu tháng 10 đỏ, chương 11](https://nhavantuonglai.com/article/cuoc-san-lung-tau-thang-10-do-chuong-11) tại đây.
+Đọc [Cuộc săn lùng tàu tháng 10 đỏ, chương 11](/article/cuoc-san-lung-tau-thang-10-do-chuong-11) tại đây.
 
-Đọc [Cuộc săn lùng tàu tháng 10 đỏ, chương 12](https://nhavantuonglai.com/article/cuoc-san-lung-tau-thang-10-do-chuong-12) tại đây.
+Đọc [Cuộc săn lùng tàu tháng 10 đỏ, chương 12](/article/cuoc-san-lung-tau-thang-10-do-chuong-12) tại đây.
 
-Đọc [Cuộc săn lùng tàu tháng 10 đỏ, chương 13](https://nhavantuonglai.com/article/cuoc-san-lung-tau-thang-10-do-chuong-13) tại đây.
+Đọc [Cuộc săn lùng tàu tháng 10 đỏ, chương 13](/article/cuoc-san-lung-tau-thang-10-do-chuong-13) tại đây.
 
-Đọc [Cuộc săn lùng tàu tháng 10 đỏ, chương 14](https://nhavantuonglai.com/article/cuoc-san-lung-tau-thang-10-do-chuong-14) tại đây.
+Đọc [Cuộc săn lùng tàu tháng 10 đỏ, chương 14](/article/cuoc-san-lung-tau-thang-10-do-chuong-14) tại đây.
 
-Đọc [Cuộc săn lùng tàu tháng 10 đỏ, chương 15](https://nhavantuonglai.com/article/cuoc-san-lung-tau-thang-10-do-chuong-15) tại đây.
+Đọc [Cuộc săn lùng tàu tháng 10 đỏ, chương 15](/article/cuoc-san-lung-tau-thang-10-do-chuong-15) tại đây.
 
-Đọc [Cuộc săn lùng tàu tháng 10 đỏ, chương 16](https://nhavantuonglai.com/article/cuoc-san-lung-tau-thang-10-do-chuong-16) tại đây.
+Đọc [Cuộc săn lùng tàu tháng 10 đỏ, chương 16](/article/cuoc-san-lung-tau-thang-10-do-chuong-16) tại đây.
 
-Đọc [Cuộc săn lùng tàu tháng 10 đỏ, chương 17](https://nhavantuonglai.com/article/cuoc-san-lung-tau-thang-10-do-chuong-17) tại đây.
+Đọc [Cuộc săn lùng tàu tháng 10 đỏ, chương 17](/article/cuoc-san-lung-tau-thang-10-do-chuong-17) tại đây.
 
-Đọc [Cuộc săn lùng tàu tháng 10 đỏ, chương 18](https://nhavantuonglai.com/article/cuoc-san-lung-tau-thang-10-do-chuong-18) tại đây.
+Đọc [Cuộc săn lùng tàu tháng 10 đỏ, chương 18](/article/cuoc-san-lung-tau-thang-10-do-chuong-18) tại đây.
 
-Đọc [Cuộc săn lùng tàu tháng 10 đỏ, chương 19](https://nhavantuonglai.com/article/cuoc-san-lung-tau-thang-10-do-chuong-19) tại đây.
+Đọc [Cuộc săn lùng tàu tháng 10 đỏ, chương 19](/article/cuoc-san-lung-tau-thang-10-do-chuong-19) tại đây.
 
-Đọc [Cuộc săn lùng tàu tháng 10 đỏ, chương 20](https://nhavantuonglai.com/article/cuoc-san-lung-tau-thang-10-do-chuong-20) tại đây.
+Đọc [Cuộc săn lùng tàu tháng 10 đỏ, chương 20](/article/cuoc-san-lung-tau-thang-10-do-chuong-20) tại đây.
 
-Đọc [Cuộc săn lùng tàu tháng 10 đỏ, chương 21](https://nhavantuonglai.com/article/cuoc-san-lung-tau-thang-10-do-chuong-21) tại đây.
+Đọc [Cuộc săn lùng tàu tháng 10 đỏ, chương 21](/article/cuoc-san-lung-tau-thang-10-do-chuong-21) tại đây.
 
-Đọc [Cuộc săn lùng tàu tháng 10 đỏ, chương 22](https://nhavantuonglai.com/article/cuoc-san-lung-tau-thang-10-do-chuong-22) tại đây.
+Đọc [Cuộc săn lùng tàu tháng 10 đỏ, chương 22](/article/cuoc-san-lung-tau-thang-10-do-chuong-22) tại đây.
 
-Đọc [Cuộc săn lùng tàu tháng 10 đỏ, chương 23](https://nhavantuonglai.com/article/cuoc-san-lung-tau-thang-10-do-chuong-23) tại đây.
+Đọc [Cuộc săn lùng tàu tháng 10 đỏ, chương 23](/article/cuoc-san-lung-tau-thang-10-do-chuong-23) tại đây.
 
-Đọc [Cuộc săn lùng tàu tháng 10 đỏ, chương 24](https://nhavantuonglai.com/article/cuoc-san-lung-tau-thang-10-do-chuong-24) tại đây.
+Đọc [Cuộc săn lùng tàu tháng 10 đỏ, chương 24](/article/cuoc-san-lung-tau-thang-10-do-chuong-24) tại đây.
 
-Đọc [Cuộc săn lùng tàu tháng 10 đỏ, chương 25](https://nhavantuonglai.com/article/cuoc-san-lung-tau-thang-10-do-chuong-25) tại đây.
+Đọc [Cuộc săn lùng tàu tháng 10 đỏ, chương 25](/article/cuoc-san-lung-tau-thang-10-do-chuong-25) tại đây.
 
-Đọc [Cuộc săn lùng tàu tháng 10 đỏ, chương 26](https://nhavantuonglai.com/article/cuoc-san-lung-tau-thang-10-do-chuong-26) tại đây.
+Đọc [Cuộc săn lùng tàu tháng 10 đỏ, chương 26](/article/cuoc-san-lung-tau-thang-10-do-chuong-26) tại đây.
 
-Đọc [Cuộc săn lùng tàu tháng 10 đỏ, chương 27](https://nhavantuonglai.com/article/cuoc-san-lung-tau-thang-10-do-chuong-27) tại đây.
+Đọc [Cuộc săn lùng tàu tháng 10 đỏ, chương 27](/article/cuoc-san-lung-tau-thang-10-do-chuong-27) tại đây.
 
-Đọc [Cuộc săn lùng tàu tháng 10 đỏ, chương 28](https://nhavantuonglai.com/article/cuoc-san-lung-tau-thang-10-do-chuong-28) tại đây.
+Đọc [Cuộc săn lùng tàu tháng 10 đỏ, chương 28](/article/cuoc-san-lung-tau-thang-10-do-chuong-28) tại đây.
 
-Đọc [Cuộc săn lùng tàu tháng 10 đỏ, chương 29](https://nhavantuonglai.com/article/cuoc-san-lung-tau-thang-10-do-chuong-29) tại đây.
+Đọc [Cuộc săn lùng tàu tháng 10 đỏ, chương 29](/article/cuoc-san-lung-tau-thang-10-do-chuong-29) tại đây.
 
-Đọc [Cuộc săn lùng tàu tháng 10 đỏ, chương 30](https://nhavantuonglai.com/article/cuoc-san-lung-tau-thang-10-do-chuong-30) tại đây.
+Đọc [Cuộc săn lùng tàu tháng 10 đỏ, chương 30](/article/cuoc-san-lung-tau-thang-10-do-chuong-30) tại đây.
 
-Đọc [Cuộc săn lùng tàu tháng 10 đỏ, chương 31](https://nhavantuonglai.com/article/cuoc-san-lung-tau-thang-10-do-chuong-31) tại đây.
+Đọc [Cuộc săn lùng tàu tháng 10 đỏ, chương 31](/article/cuoc-san-lung-tau-thang-10-do-chuong-31) tại đây.
 
-Đọc [Cuộc săn lùng tàu tháng 10 đỏ, chương 32](https://nhavantuonglai.com/article/cuoc-san-lung-tau-thang-10-do-chuong-32) tại đây.
+Đọc [Cuộc săn lùng tàu tháng 10 đỏ, chương 32](/article/cuoc-san-lung-tau-thang-10-do-chuong-32) tại đây.
 
-Đọc [Cuộc săn lùng tàu tháng 10 đỏ, chương 33](https://nhavantuonglai.com/article/cuoc-san-lung-tau-thang-10-do-chuong-33) tại đây.
+Đọc [Cuộc săn lùng tàu tháng 10 đỏ, chương 33](/article/cuoc-san-lung-tau-thang-10-do-chuong-33) tại đây.
 
 Đọc [Cuộc săn lùng tàu tháng 10 đỏ, toàn tập](https://banmaixanh.vercel.app/ebook/cuoc-san-lung-tau-thang-10-do.pdf) tại đây.
 

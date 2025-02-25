@@ -71,11 +71,11 @@ Các công cụ hỗ trợ viết lách có thể giúp bạn cải thiện ch�
 
 ## Phương pháp nâng cao kỹ năng viết
 
-### Tham gia các [Khóa học viết blog](https://nhavantuonglai.com/article)
+### Tham gia các [Khóa học viết blog](/article)
 
-Tham gia các [Khóa học viết blog](https://nhavantuonglai.com/article) chuyên nghiệp là cách tốt nhất để học hỏi từ các chuyên gia và nhận được phản hồi hữu ích.
+Tham gia các [Khóa học viết blog](/article) chuyên nghiệp là cách tốt nhất để học hỏi từ các chuyên gia và nhận được phản hồi hữu ích.
 
-– Coursera và Udemy: Các nền tảng này cung cấp nhiều [Khóa học viết blog](https://nhavantuonglai.com/article) từ cơ bản đến nâng cao, được giảng dạy bởi các nhà văn và giảng viên uy tín.
+– Coursera và Udemy: Các nền tảng này cung cấp nhiều [Khóa học viết blog](/article) từ cơ bản đến nâng cao, được giảng dạy bởi các nhà văn và giảng viên uy tín.
 
 – MasterClass: Học hỏi từ những nhà văn nổi tiếng như Neil Gaiman, Margaret Atwood thông qua các khóa học chất lượng cao.
 

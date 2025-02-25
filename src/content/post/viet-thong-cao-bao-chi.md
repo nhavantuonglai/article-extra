@@ -14,7 +14,7 @@ tags:
 
 _Quan hệ công chúng có thể không phải là thế mạnh của bạn, nhưng đó là  chiến lược tuyệt vời cho các doanh nghiệp. Thông cáo báo chí là  phần trong chiến lược quan hệ công chúng. Tuy nhiên, hầu hết mọi người không chắc chắn cách sử dụng chúng._
 
-Người [viết thông cáo báo chí](https://nhavantuonglai.com/article/viet-thong-cao-bao-chi) tốt sẽ nâng cao nhận thức công chúng về thương hiệu của bạn.
+Người [viết thông cáo báo chí](/article/viet-thong-cao-bao-chi) tốt sẽ nâng cao nhận thức công chúng về thương hiệu của bạn.
 
 ## Mục đích của  thông cáo báo chí là gì?
 

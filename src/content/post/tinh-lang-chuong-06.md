@@ -169,19 +169,19 @@ I enjoy going back to my island.
 
 Thở ra, tôi thấy an toàn. Tôi muốn trở về nơi hải đảo tự thân.)
 
-Đọc [Tĩnh lặng, chương 01](https://nhavantuonglai.com/article/tinh-lang-chuong-01) tại đây.
+Đọc [Tĩnh lặng, chương 01](/article/tinh-lang-chuong-01) tại đây.
 
-Đọc [Tĩnh lặng, chương 02](https://nhavantuonglai.com/article/tinh-lang-chuong-02) tại đây.
+Đọc [Tĩnh lặng, chương 02](/article/tinh-lang-chuong-02) tại đây.
 
-Đọc [Tĩnh lặng, chương 03](https://nhavantuonglai.com/article/tinh-lang-chuong-03) tại đây.
+Đọc [Tĩnh lặng, chương 03](/article/tinh-lang-chuong-03) tại đây.
 
-Đọc [Tĩnh lặng, chương 04](https://nhavantuonglai.com/article/tinh-lang-chuong-04) tại đây.
+Đọc [Tĩnh lặng, chương 04](/article/tinh-lang-chuong-04) tại đây.
 
-Đọc [Tĩnh lặng, chương 05](https://nhavantuonglai.com/article/tinh-lang-chuong-05) tại đây.
+Đọc [Tĩnh lặng, chương 05](/article/tinh-lang-chuong-05) tại đây.
 
-Đọc [Tĩnh lặng, chương 06](https://nhavantuonglai.com/article/tinh-lang-chuong-05) tại đây.
+Đọc [Tĩnh lặng, chương 06](/article/tinh-lang-chuong-05) tại đây.
 
-Đọc [Tĩnh lặng, chương 07](https://nhavantuonglai.com/article/tinh-lang-chuong-05) tại đây.
+Đọc [Tĩnh lặng, chương 07](/article/tinh-lang-chuong-05) tại đây.
 
 Đọc [Tĩnh lặng, toàn tập](https://banmaixanh.vercel.app/ebook/tinh-lang.pdf) tại đây.
 

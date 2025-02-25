@@ -40,7 +40,7 @@ Mật mã thay thế là hình thức mã hóa thông tin bằng cách thay th�
 
 ## nhavantuonglai ra mắt công cụ thống kê tần suất văn bản
 
-Mới đây, nhavantuonglai đã chính thức ra mắt [công cụ thống kê tần suất văn bản](https://nhavantuonglai.com/analytics/count) ngay trên website, giúp người dùng có thể thống kê và phân tích dữ liệu nhanh chóng, hiệu quả. Công cụ thống kê tần suất văn bản hoạt động trực tuyến, không tốn phí sử dụng, không cần cài đặt và trả về kết quả ngay lập tức.
+Mới đây, nhavantuonglai đã chính thức ra mắt [công cụ thống kê tần suất văn bản](/analytics/count) ngay trên website, giúp người dùng có thể thống kê và phân tích dữ liệu nhanh chóng, hiệu quả. Công cụ thống kê tần suất văn bản hoạt động trực tuyến, không tốn phí sử dụng, không cần cài đặt và trả về kết quả ngay lập tức.
 
 Để sử dụng, chỉ cần nhập văn bản thô cần chuyển đổi, sau đó bấm _Chuyển đổi_ thì ngay lập tức công cụ sẽ thống kê, đưa ra kết quả nhanh chóng để người dùng có thể sử dụng.
 

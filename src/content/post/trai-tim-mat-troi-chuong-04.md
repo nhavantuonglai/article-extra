@@ -177,15 +177,15 @@ Gần dây, có một nhà vật lý học tên David Bohm đưa ra thuyết _th
 
 Khoa học ngày nay, theo ông, phải đi từ cái toàn thể của thế giới dung nhiếp mới thấy dược chân tướng của từng vật thể. Tại cuộc tọa đàm Cordoue, ông đã nói về chất tử: _L_électron est toujours la totalité_ (diện tử bao hàm tất cả). Quan niệm của Bohm như vậy rất gần với quan niệm _một là tất cả_ của giáo lý Hoa Nghiêm. Nếu nhà Khoa Học này chịu đi xa hơn việc khảo cứu và trình bày lý thuyết vật lý, và thực hiện thiền quán trong tự thân và tự tâm, ông sẽ có thể đạt được nhiều thành quả bất ngờ và đẩy vật lý học đi tới những bước rất lớn.
 
-Đọc [Trái tim mặt trời, chương 01](https://nhavantuonglai.com/article/trai-tim-mat-troi-chuong-01) tại đây.
+Đọc [Trái tim mặt trời, chương 01](/article/trai-tim-mat-troi-chuong-01) tại đây.
 
-Đọc [Trái tim mặt trời, chương 02](https://nhavantuonglai.com/article/trai-tim-mat-troi-chuong-02) tại đây.
+Đọc [Trái tim mặt trời, chương 02](/article/trai-tim-mat-troi-chuong-02) tại đây.
 
-Đọc [Trái tim mặt trời, chương 03](https://nhavantuonglai.com/article/trai-tim-mat-troi-chuong-03) tại đây.
+Đọc [Trái tim mặt trời, chương 03](/article/trai-tim-mat-troi-chuong-03) tại đây.
 
-Đọc [Trái tim mặt trời, chương 04](https://nhavantuonglai.com/article/trai-tim-mat-troi-chuong-04) tại đây.
+Đọc [Trái tim mặt trời, chương 04](/article/trai-tim-mat-troi-chuong-04) tại đây.
 
-Đọc [Trái tim mặt trời, chương 05](https://nhavantuonglai.com/article/trai-tim-mat-troi-chuong-05) tại đây.
+Đọc [Trái tim mặt trời, chương 05](/article/trai-tim-mat-troi-chuong-05) tại đây.
 
 Đọc [Trái tim mặt trời, toàn tập](https://banmaixanh.vercel.app/ebook/trai-tim-mat-troi.pdf) tại đây.
 

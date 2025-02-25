@@ -43,7 +43,7 @@ _Hồ Đồng Đò_
 
 Hồ nước này tọa lạc ở thôn Minh Tân, xã Minh Trí, huyện Sóc Sơn. Trước đây hồ là suối nhỏ, đến năm 2000 nơi này biến thành hồ chứa nước sau khi đập Đồng Đò được xây xong. Hiện hồ nằm giữa thung lũng, hai bên núi cao có rừng phòng hộ.
 
-Bạn có thể mang lều trại và đồ ăn để tự chế biến, vừa thưởng thức bữa ăn vừa ngắm cảnh hồ thanh bình. Nhóm đông người có thể thuê thêm lều trại, hoặc nghỉ tại homestay, khách sạn, biệt thự để tổ chức vui chơi, tiệc nướng ngoài trời. Chi phí thuê điểm [cắm trại](https://nhavantuonglai.com/article) là 25.000 đồng/người trong ngày, 50.000 đồng/người qua đêm, bao gồm phí dọn dẹp, điện, nước và khu vực vệ sinh. Ngoài ra, bạn có thể thuê cần câu cá, thuyền phao, kayak, SUP… hoặc đơn giản hơn là đạp xe, chạy bộ quanh khu vực hồ.
+Bạn có thể mang lều trại và đồ ăn để tự chế biến, vừa thưởng thức bữa ăn vừa ngắm cảnh hồ thanh bình. Nhóm đông người có thể thuê thêm lều trại, hoặc nghỉ tại homestay, khách sạn, biệt thự để tổ chức vui chơi, tiệc nướng ngoài trời. Chi phí thuê điểm [cắm trại](/article) là 25.000 đồng/người trong ngày, 50.000 đồng/người qua đêm, bao gồm phí dọn dẹp, điện, nước và khu vực vệ sinh. Ngoài ra, bạn có thể thuê cần câu cá, thuyền phao, kayak, SUP… hoặc đơn giản hơn là đạp xe, chạy bộ quanh khu vực hồ.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/du-lich-soc-son-609.jpg" alt="cam-nang-du-lich-soc-son" height=100% width=100%><figcaption><p>cam-nang-du-lich-soc-son-nhavantuonglai</p></figcaption></figure>
 

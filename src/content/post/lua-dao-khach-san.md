@@ -23,7 +23,7 @@ Bạn càng chủ động, bạn càng an toàn. Có một số biện pháp đ�
 
 ## Các cuộc tấn công lừa đảo là gì?
 
-[Lừa đảo khách sạn](https://nhavantuonglai.com/article/lua-dao-khach-san) là một loại tội phạm mạng liên quan đến việc lừa người khác cung cấp dữ liệu nhạy cảm hoặc cài đặt phần mềm độc hại. Kẻ tấn công sử dụng các email, tin nhắn, cuộc gọi điện thoại hoặc website giả mạo để lừa nạn nhân nhấp vào các liên kết độc hại. Các liên kết này có thể dẫn đến các website đánh cắp thông tin cá nhân, tải xuống phần mềm độc hại hoặc làm hỏng hệ thống.
+[Lừa đảo khách sạn](/article/lua-dao-khach-san) là một loại tội phạm mạng liên quan đến việc lừa người khác cung cấp dữ liệu nhạy cảm hoặc cài đặt phần mềm độc hại. Kẻ tấn công sử dụng các email, tin nhắn, cuộc gọi điện thoại hoặc website giả mạo để lừa nạn nhân nhấp vào các liên kết độc hại. Các liên kết này có thể dẫn đến các website đánh cắp thông tin cá nhân, tải xuống phần mềm độc hại hoặc làm hỏng hệ thống.
 
 Đây là một dạng lừa đảo xã hội, trong đó kẻ tấn công giả mạo một thực thể đáng tin cậy (như khách sạn, đối tác công nghệ hoặc CEO) để chiếm được lòng tin của nạn nhân. Email là kênh phổ biến nhất cho các cuộc tấn công lừa đảo trong ngành khách sạn, nhưng ngày càng có nhiều trường hợp công cụ tìm kiếm được sử dụng để quảng cáo các website giả mạo.
 

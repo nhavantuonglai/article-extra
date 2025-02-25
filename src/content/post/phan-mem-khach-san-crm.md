@@ -17,7 +17,7 @@ tags:
 
 _Khi hoạt động kinh doanh, quản lý khách sạn dần trở nên ổn định, một số khách hàng đã bắt đầu biết đến thương hiệu của bạn, đó là lúc bạn bắt đầu nhận ra sự cần thiết của việc quản lý khách hàng nhằm tối ưu hoạt động kinh doanh. Bài viết này giúp bạn hiểu về chức năng quản lý khách hàng trong kinh doanh khách sạn, để bạn có thể chuẩn bị ngay từ bây giờ!_
 
-Trong hoạt động dịch vụ lưu trú, tài sản vô hình vô giá nhất đó chính là thương hiệu, là nguồn khách đã và sẽ đến với khách sạn. Làm thế nào để tài sản này ngày càng được gia tăng ? Đó chính là việc chú trọng vào quản lý khách hàng. Và để việc quản lý khách hàng trở nên hiệu quả và đem lại nhiều lợi ích trong [kinh doanh khách sạn](https://nhavantuonglai.com/article) thì cần có sự chuẩn bị và sẵn sàng cho công việc này sớm nhất có thể.
+Trong hoạt động dịch vụ lưu trú, tài sản vô hình vô giá nhất đó chính là thương hiệu, là nguồn khách đã và sẽ đến với khách sạn. Làm thế nào để tài sản này ngày càng được gia tăng ? Đó chính là việc chú trọng vào quản lý khách hàng. Và để việc quản lý khách hàng trở nên hiệu quả và đem lại nhiều lợi ích trong [kinh doanh khách sạn](/article) thì cần có sự chuẩn bị và sẵn sàng cho công việc này sớm nhất có thể.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-041.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
@@ -47,7 +47,7 @@ Trong hoạt động dịch vụ lưu trú, tài sản vô hình vô giá nhất
 
 ### Tự động lưu trữ và quản lý thông tin khách hàng
 
-Khi nhân viên lễ tân tạo thông tin đặt phòng bao gồm: thông tin người đại diện đặt phòng, tên khách lưu trú, danh sách thông tin những người đi cùng, số điện thoại, email liên hệ… trên hệ thống [phần mềm quản lý khách sạn Pms](https://nhavantuonglai.com/article) thì toàn bộ thông tin sẽ được lưu trữ tự động và đồng bộ với tính năng từ phần mềm, hệ thống quản lý khách hàng, quản lý khách sạn CRM.
+Khi nhân viên lễ tân tạo thông tin đặt phòng bao gồm: thông tin người đại diện đặt phòng, tên khách lưu trú, danh sách thông tin những người đi cùng, số điện thoại, email liên hệ… trên hệ thống [phần mềm quản lý khách sạn Pms](/article) thì toàn bộ thông tin sẽ được lưu trữ tự động và đồng bộ với tính năng từ phần mềm, hệ thống quản lý khách hàng, quản lý khách sạn CRM.
 
 – Tự động lưu trữ toàn bộ thông tin cá nhân và thông tin đặt phòng của khách hàng.
 
@@ -75,7 +75,7 @@ Việc thu thập và tổng hợp thông tin khách hàng là cơ sở để kh
 
 Khi sở hữu và nắm bắt được các thông tin giao dịch của khách hàng qua các loại hình dịch vụ sử dụng tại nhà hàng, Spa, các tour du lịch, số lượt đặt phòng, số đêm lưu trú… thì có thể xác định được mức độ tiềm năng của khách hàng. Giá trị giao dịch càng cao thì họ càng giá trị.
 
-Từ đó xem khách khách đặt phòng qua kênh OTA hay website, hành trình đặt phòng của khách hàng như thế nào… để có thể [xây dựng chiến lược marketing](https://nhavantuonglai.com/article) tiếp cận và thu hút các khách hàng tương tự.
+Từ đó xem khách khách đặt phòng qua kênh OTA hay website, hành trình đặt phòng của khách hàng như thế nào… để có thể [xây dựng chiến lược marketing](/article) tiếp cận và thu hút các khách hàng tương tự.
 
 – _Lựa chọn và điều chỉnh kênh tiếp thị phù hợp_
 
@@ -101,7 +101,7 @@ Ví dụ: Khi một khách hàng cũ quay trở lại lưu trú tại khách s�
 
 #### Tiết kiệm nhiều thời gian trong quy trình làm việc
 
-Khi có tính năng quản lý khách hàng được tích hợp trên hệ thống [phần mềm quản lý khách sạn Pms ](https://nhavantuonglai.com/article)thì toàn bộ thông tin cá nhân khách hàng sẽ được lưu trữ. Giúp lễ tân khách sạn tiết kiệm nhiều thời gian trong việc cập nhật dữ liệu thông tin khách hàng khi tạo đặt phòng.
+Khi có tính năng quản lý khách hàng được tích hợp trên hệ thống [phần mềm quản lý khách sạn Pms ](/article)thì toàn bộ thông tin cá nhân khách hàng sẽ được lưu trữ. Giúp lễ tân khách sạn tiết kiệm nhiều thời gian trong việc cập nhật dữ liệu thông tin khách hàng khi tạo đặt phòng.
 
 Do đó, thời gian làm việc thay vì phải liên tục thực hiện trên máy tính, giấy tờ thì nhân viên tại khách sạn sẽ có cơ hội tương tác và chăm sóc khách lưu trú tại khách sạn. Đem lại cảm giác gần gũi và thân thiện với khách hàng, tạo ấn tượng tốt cho khách hàng để thu hút khách hàng quay trở lại. Bên cạnh đó, nhân viên khách sạn có thể xuất danh sách thông tin khách đang lưu trú đã được tổng hợp để tự động đồng bộ trên hệ thống khai báo lưu trú thay vì phải thủ công nhập thông tin như trước đây.
 
@@ -109,7 +109,7 @@ Do đó, thời gian làm việc thay vì phải liên tục thực hiện trên
 
 ### Giữ chân khách hàng
 
-Kết hợp với những tính năng hữu ích giúp khách sạn lưu trữ tất các giao dịch và thông tin khách hàng, xây dựng chiến lược Marketing phù hợp sẽ là cơ hội để khách sạn giữ chân khách khách hàng quay trở lại và [cải thiện công suất phòng hiệu quả](https://nhavantuonglai.com/article).
+Kết hợp với những tính năng hữu ích giúp khách sạn lưu trữ tất các giao dịch và thông tin khách hàng, xây dựng chiến lược Marketing phù hợp sẽ là cơ hội để khách sạn giữ chân khách khách hàng quay trở lại và [cải thiện công suất phòng hiệu quả](/article).
 
 Bởi lẽ, khi hiểu và thiết lập hồ sơ về khách khách hàng với các thông tin cụ thể như nhân khẩu học, sở thích, nguồn đặt phòng, những điểm du lịch đã ghé đến, tính cách… thì đây sẽ dữ liệu để khách sạn có thể cung cấp cho khách hàng những dịch vụ trải nghiệm miễn phí, những chính sách ưu đãi phù hợp thu hút khách hàng quay trở lại lựa chọn khách sạn lưu trú.
 
@@ -123,7 +123,7 @@ Giữ chân khách hàng quay trở lại, tạo được sự trung thành củ
 
 Thay vì đặt phòng qua các đại lý bán phòng trực tuyến kênh OTA thì giờ đây khi tạo được sự tin tưởng và ấn tượng với khách hàng thì họ thường sẽ liên hệ trực tiếp cho khách sạn để đặt phòng. Khách sạn không còn quá lệ thuộc vào doanh thu từ đặt phòng kênh OTA đem lại, mà chính khách sạn sẽ tận dụng được những tài nguyên sẵn có để có thể khai thác và thu hút đặt phòng trực tiếp.
 
-Bằng cách xây dựng các chiến lược Marketing như gửi email, gọi điện chăm sóc khách hàng, tích hợp công cụ đặt phòng trực tuyến trên website. Khi số lượng đặt phòng trực tiếp ngày càng tăng sẽ đem lại nhiều doanh thu đáng kể cho khách sạn, [tiết kiệm chi phí hoa hồng](https://nhavantuonglai.com/article) phải chi trả cho các kênh OTA.
+Bằng cách xây dựng các chiến lược Marketing như gửi email, gọi điện chăm sóc khách hàng, tích hợp công cụ đặt phòng trực tuyến trên website. Khi số lượng đặt phòng trực tiếp ngày càng tăng sẽ đem lại nhiều doanh thu đáng kể cho khách sạn, [tiết kiệm chi phí hoa hồng](/article) phải chi trả cho các kênh OTA.
 
 <figure><img src="https://banmaixanh.vercel.app/image/article/khach-san-047.jpg" alt="khach san, kenh OTA, free booking links, channel manager, property management system." title="khach-san" height=100% width=100%><figcaption></p>khach san, kenh OTA, free booking links, channel manager, property management system.</p></figcaption></figure>
 
