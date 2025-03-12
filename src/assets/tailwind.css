@@ -3,6 +3,7 @@
 @tailwind utilities;
 
 @layer base {
+
 	html {
 		scrollbar-width: none;
 		-ms-overflow-style: none;
@@ -30,9 +31,17 @@
 	}
 
 	a { @apply hover:text-primary; }
+
+	#starfield {
+		position: fixed;
+		z-index: -1;
+		pointer-events: none;
+	}
+
 }
 
 @layer components {
+
 	.btn {
 		@apply inline-flex items-center justify-center
 					 border border-white bg-primary text-sm text-white
@@ -55,28 +64,10 @@
 		box-shadow: none;
 	}
 
-	.dropdown-menu {
-		@apply hidden absolute;
-	}
-
-	.dropdown:hover .dropdown-menu {
-		@apply block;
-	}
-
-	.faq-answer {
-		max-height: 0;
-		opacity: 0;
-		transition: all 0.3s ease-out;
-	}
-
-	.faq-item:hover .faq-answer {
-		max-height: 500px;
-		opacity: 1;
-		transition: all 0.5s ease-in;
-	}
 }
 
 @layer utilities {
+
 	.bg-page { background-color: var(--aw-color-bg-page); }
 	.text-page { color: var(--aw-color-text-page); }
 	.text-muted { color: var(--aw-color-text-muted); }
@@ -87,38 +78,6 @@
 	[data-aw-toggle-menu] path { transition: all 0.3s; }
 	[data-aw-toggle-menu].expanded g > path:first-child { transform: rotate(-45deg) translate(-15px, 3px); }
 	[data-aw-toggle-menu].expanded g > path:last-child { transform: rotate(45deg) translate(-8px, -14px); }
-
-
-
-	#scrollon {
-		position: fixed;
-		bottom: 50px;
-		width: 40px;
-		height: 40px;
-		background-color: white;
-		border: 2px solid rgb(255 114 94);
-		border-radius: 50%;
-		cursor: pointer;
-		display: none;
-		z-index: 99;
-		transition: all 0.3s ease;
-	}
-
-	#scrollon:hover { background-color: rgba(255, 255, 255, 0.9); }
-
-	#scrollon::after {
-		content: "";
-		position: absolute;
-		top: 50%;
-		left: 50%;
-		border-top: 2px solid rgb(255 114 94);
-		border-left: 2px solid rgb(255 114 94);
-		transform: translate(-50%, -30%) rotate(45deg);
-		opacity: 0;
-		transition: opacity 0.3s ease;
-	}
-
-	#scrollon:hover::after { opacity: 1; }
 
 	.dd *:first-child { margin-top: 0; }
 
