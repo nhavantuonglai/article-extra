@@ -1,72 +1,59 @@
 import slugify from 'limax';
-
 import { SITE, APP_BLOG } from 'nhavantuonglai:config';
-
 import { trim } from '~/utils/utils';
 
-export const trimSlash = (s: string) =>trim(trim(s, '/'));
-const createPath = (...params: string[]) =>{
+export const trimSlash = (s: string = ''): string => trim(trim(s, '/'));
+
+const createPath = (...params: string[]): string => {
 	const paths = params
-		.map((el) =>trimSlash(el))
-		.filter((el) =>!!el)
+		.map(trimSlash)
+		.filter(Boolean)
 		.join('/');
 	return '/' + paths + (SITE.trailingSlash && paths ? '/' : '');
 };
 
-const BASE_PATHNAME = SITE.base || '/';
-
-export const cleanSlug = (text = '') =>
+const BASE_PATHNAME = trimSlash(SITE.base || '/');
+export const cleanSlug = (text = ''): string => 
 	trimSlash(text)
 		.split('/')
-		.map((slug) =>slugify(slug))
+		.map(slugify)
 		.join('/');
 
 export const BLOG_BASE = cleanSlug(APP_BLOG?.list?.pathname);
-export const CATEGORY_BASE = cleanSlug(APP_BLOG?.category?.pathname);
 export const TAG_BASE = cleanSlug(APP_BLOG?.tag?.pathname) || 'tag';
-
 export const POST_PERMALINK_PATTERN = trimSlash(APP_BLOG?.post?.permalink || `https://nhavantuonglai.com/article/%slug%`);
 
-export const getCanonical = (path = ''): string | URL =>{
+export const getCanonical = (path = ''): string => {
 	const url = String(new URL(path, SITE.site));
-	if (SITE.trailingSlash == false && path && url.endsWith('/')) {
+	if (SITE.trailingSlash === false && path && url.endsWith('/')) {
 		return url.slice(0, -1);
-	} else if (SITE.trailingSlash == true && path && !url.endsWith('/')) {
+	} else if (SITE.trailingSlash === true && path && !url.endsWith('/')) {
 		return url + '/';
 	}
 	return url;
 };
 
-export const getPermalink = (slug = '', type = 'page'): string =>{
-	let permalink: string;
+const definitivePermalink = (permalink: string): string => createPath(BASE_PATHNAME, permalink);
 
+export const getPermalink = (slug = '', type = 'page'): string => {
+	let path: string;
+	
 	switch (type) {
 		case 'tag':
-			permalink = createPath(TAG_BASE, trimSlash(slug));
+			path = createPath(TAG_BASE, trimSlash(slug));
 			break;
-
 		case 'post':
-			permalink = createPath(trimSlash(slug));
+			path = createPath(trimSlash(slug));
 			break;
-
 		case 'page':
 		default:
-			permalink = createPath(slug);
+			path = createPath(slug);
 			break;
 	}
-
-	return definitivePermalink(permalink);
+	
+	return definitivePermalink(path);
 };
 
-export const getHomePermalink = (): string =>getPermalink('/');
-
-export const getBlogPermalink = (): string =>getPermalink(BLOG_BASE);
-
-export const getAsset = (path: string): string =>
-	'/' +
-	[BASE_PATHNAME, path]
-		.map((el) =>trimSlash(el))
-		.filter((el) =>!!el)
-		.join('/');
-
-const definitivePermalink = (permalink: string): string =>createPath(BASE_PATHNAME, permalink);
+export const getHomePermalink = (): string => definitivePermalink('');
+export const getBlogPermalink = (): string => definitivePermalink(BLOG_BASE);
+export const getAsset = (path: string): string => createPath(BASE_PATHNAME, path);
