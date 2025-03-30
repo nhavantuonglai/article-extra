@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2002-03-13T10:10:00Z
+pubDatetime: 2016-04-11T10:10:00Z
 title: Thiên long bát bộ | Chương 13
 description: Trong những tinh phẩm thượng thừa, Thiên Long bát bộ luôn được đánh giá là một trong những kiệt tác của Kim Dung.
-image: https://banmaixanh.vercel.app/image/cover/001-697.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-392.jpg
 tags:
   - thu vien
   - van hoc

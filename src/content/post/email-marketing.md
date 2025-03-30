@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2022-04-19T10:10:00Z
+pubDatetime: 2021-05-02T10:10:00Z
 title: Hướng dẫn sử dụng Email Marketing trong khách sạn
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
-image: https://banmaixanh.vercel.app/image/cover/001-357.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-665.jpg
 tags:
   - viet thue
   - marketing

@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2018-08-24T10:10:00Z
+pubDatetime: 2017-06-08T10:10:00Z
 title: Chim lửa | Chương 64
 description: Tezuka Osamu qua Chim lửa đặt ra câu hỏi về sự sống, cái chết, ý nghĩa tồn tại, nhấn mạnh con người chỉ thực sự sống khi hòa hợp với thiên nhiên. Đọc Chim lửa (Hi no Tori) chương 64 trong phần dưới đây.
-image: https://banmaixanh.vercel.app/image/cover/001-464.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-259.jpg
 tags:
   - manga
   - tezuka osamu

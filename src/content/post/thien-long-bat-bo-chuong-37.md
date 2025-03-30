@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2002-04-07T10:10:00Z
+pubDatetime: 2019-09-22T10:10:00Z
 title: Thiên long bát bộ | Chương 37
 description: Trong những tinh phẩm thượng thừa, Thiên Long bát bộ luôn được đánh giá là một trong những kiệt tác của Kim Dung.
-image: https://banmaixanh.vercel.app/image/cover/001-535.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-635.jpg
 tags:
   - thu vien
   - van hoc

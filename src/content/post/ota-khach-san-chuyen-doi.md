@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2022-06-11T10:10:00Z
+pubDatetime: 2017-05-23T10:10:00Z
 title: Tại sao nội dung trên kênh OTA lại quan trọng để cải thiện tỷ lệ chuyển đổi?
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
-image: https://banmaixanh.vercel.app/image/cover/001-590.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-678.jpg
 tags:
   - viet thue
   - marketing

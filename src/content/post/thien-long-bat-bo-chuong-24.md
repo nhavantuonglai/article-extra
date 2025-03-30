@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2002-03-24T10:10:00Z
+pubDatetime: 2022-10-27T10:10:00Z
 title: Thiên long bát bộ | Chương 24
 description: Trong những tinh phẩm thượng thừa, Thiên Long bát bộ luôn được đánh giá là một trong những kiệt tác của Kim Dung.
-image: https://banmaixanh.vercel.app/image/cover/001-311.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-170.jpg
 tags:
   - thu vien
   - van hoc

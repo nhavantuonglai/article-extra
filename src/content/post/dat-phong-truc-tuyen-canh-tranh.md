@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2022-08-06T10:10:00Z
+pubDatetime: 2017-02-28T10:10:00Z
 title: Các kênh bán phòng trực tuyến cạnh tranh hàng đầu của Airbnb và điều gì khiến họ trở nên đặc biệt?
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
-image: https://banmaixanh.vercel.app/image/cover/001-499.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-434.jpg
 tags:
   - viet thue
   - marketing

@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2023-06-29T10:10:00Z
+pubDatetime: 2020-10-08T10:10:00Z
 title: Làm thế nào để thu hút thêm khách hàng đến tiệm Spa thông qua bài đánh giá trực tuyến?
 description: Tìm hiểu các chiến lược tiếp thị Spa hiệu quả trong chuỗi bài viết sau của nhavantuonglai để áp dụng và đem lại hiệu quả thiết thực cho giải pháp của bạn.
-image: https://banmaixanh.vercel.app/image/cover/001-649.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-382.jpg
 tags:
   - viet thue
   - marketing

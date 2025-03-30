@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2023-02-10T10:10:00Z
+pubDatetime: 2020-12-25T10:10:00Z
 title: Thầy cô giáo hạnh phúc sẽ thay đổi thế giới
 description: Thiền sư Thích Nhất Hạnh, sáng lập Làng Mai, truyền cảm hứng Phật giáo dấn thân, chánh niệm, giúp con người tĩnh tâm, hạnh phúc, hòa hợp thiên nhiên.
-image: https://banmaixanh.vercel.app/image/cover/001-685.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-081.jpg
 tags:
   - thu vien
   - van hoc

@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2023-03-13T10:10:00Z
+pubDatetime: 2024-03-26T10:10:00Z
 title: Hiểu 5 loại phân biệt chủng tộc trực tuyến
 description: Phân biệt chủng tộc trực tuyến là một hình thức phân biệt đối xử diễn ra trên phương tiện truyền thông xã hội và các không gian kỹ thuật số khác khi ai đó đăng hoặc chia sẻ nội dung phân biệt.
-image: https://banmaixanh.vercel.app/image/cover/001-610.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-151.jpg
 tags:
   - fake news
   - niem tin

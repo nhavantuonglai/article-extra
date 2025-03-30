@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2023-07-06T10:10:00Z
+pubDatetime: 2021-02-04T10:10:00Z
 title: Tại sao đào tạo nhân viên là chìa khóa thành công của tiệm Spa
 description: Tìm hiểu các chiến lược tiếp thị Spa hiệu quả trong chuỗi bài viết sau của nhavantuonglai để áp dụng và đem lại hiệu quả thiết thực cho giải pháp của bạn.
-image: https://banmaixanh.vercel.app/image/cover/001-125.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-108.jpg
 tags:
   - viet thue
   - marketing

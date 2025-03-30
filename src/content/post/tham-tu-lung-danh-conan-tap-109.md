@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2014-09-01T10:10:00Z
+pubDatetime: 2022-08-06T10:10:00Z
 title: Thám tử lừng danh Conan | Tập 109
 description: Thám tử lừng danh Conan tập 109 là tập truyện trinh thám sáng tác bởi Gosho Aoyama, ấn bản phát từ hành từ 1994 trên tạp chí Weekly Shōnen Sunday.
-image: https://banmaixanh.vercel.app/image/cover/001-205.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-233.jpg
 tags:
   - manga
   - gosho aoyama

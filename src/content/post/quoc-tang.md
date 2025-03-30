@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2023-08-11T10:10:00Z
+pubDatetime: 2016-10-17T10:10:00Z
 title: Tìm hiểu về ngày Quốc Tang trên toàn thế giới
 description: Vương quốc Anh xem thời gian quốc tang để phản ánh tâm trạng của công chúng và mức độ nghiêm trọng của sự kiện.
-image: https://banmaixanh.vercel.app/image/cover/001-365.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-194.jpg
 tags:
   - lich su
   - quoc tang

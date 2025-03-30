@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2022-05-21T10:10:00Z
+pubDatetime: 2016-10-21T10:10:00Z
 title: Quyền lực đích thực | Chương 10
 description: Thiền sư Thích Nhất Hạnh, sáng lập Làng Mai, truyền cảm hứng Phật giáo dấn thân, chánh niệm, giúp con người tĩnh tâm, hạnh phúc, hòa hợp thiên nhiên.
-image: https://banmaixanh.vercel.app/image/cover/001-533.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-111.jpg
 tags:
   - thu vien
   - van hoc

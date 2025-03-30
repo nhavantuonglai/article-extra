@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2024-05-03T10:10:00Z
+pubDatetime: 2016-11-04T10:10:00Z
 title: Hướng dẫn chèn popup social chat trên website bằng code
 description: Popup social chat (Plugin chat) là tính năng cho phép người dùng kết nối với quản trị viên website. Popup social chat (Plugin chat) giúp tăng tương tác, giải quyết những vấn đề mà người dùng gặp phải.
-image: https://banmaixanh.vercel.app/image/cover/001-598.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-274.jpg
 tags:
   - websiteflow
   - website

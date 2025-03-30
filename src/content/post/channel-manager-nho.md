@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2022-02-09T10:10:00Z
+pubDatetime: 2021-05-06T10:10:00Z
 title: Giải pháp Channel Manager nào tốt nhất cho khách sạn vừa và nhỏ?
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
-image: https://banmaixanh.vercel.app/image/cover/001-397.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-162.jpg
 tags:
   - viet thue
   - marketing

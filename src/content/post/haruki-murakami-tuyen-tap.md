@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2021-12-23T10:10:00Z
+pubDatetime: 2018-08-14T10:10:00Z
 title: Tuyển tập sách của nhà văn Haruki Murakami
 description: Haruki Murakami là một trong những tiểu thuyết gia, dịch giả văn học người Nhật Bản được biết đến nhiều nhất hiện nay cả trong lẫn ngoài nước Nhật.
-image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-693.jpg
 tags:
   - viet lach
   - doan van

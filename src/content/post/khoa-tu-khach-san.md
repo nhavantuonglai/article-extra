@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2022-05-15T10:10:00Z
+pubDatetime: 2016-06-16T10:10:00Z
 title: Thẻ từ khách sạn hoạt động như thế nào?
 description: Thẻ từ khách sạn, NFC, thẻ từ và thẻ RFID là các loại thẻ khác nhau giúp việc vào phòng khách sạn trở nên dễ dàng hơn.
-image: https://banmaixanh.vercel.app/image/cover/001-552.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-372.jpg
 tags:
   - viet thue
   - marketing

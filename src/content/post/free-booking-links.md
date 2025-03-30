@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2022-04-20T10:10:00Z
+pubDatetime: 2020-03-11T10:10:00Z
 title: Free Booking Links cho khách sạn – Quá tốt để thành sự thật?
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
-image: https://banmaixanh.vercel.app/image/cover/001-543.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-671.jpg
 tags:
   - viet thue
   - marketing

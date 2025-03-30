@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2015-03-03T10:10:00Z
+pubDatetime: 2019-06-06T10:10:00Z
 title: Thám tử lừng danh Conan | Chương 1133 (Heiji tỏ tình thành công, Heiji và Kazuha chính thức hẹn hò)
 description: Thám tử lừng danh Conan chương 1133 đã đánh dấu bước ngoặt mới quan trọng trong mối quan hệ của Heiji và Kazuha sau hơn 2 thập kỷ truyện ra mắt.
-image: https://banmaixanh.vercel.app/image/cover/001-161.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-032.jpg
 tags:
   - manga
   - gosho aoyama

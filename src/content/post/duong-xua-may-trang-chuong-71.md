@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2015-04-20T10:10:00Z
+pubDatetime: 2019-07-30T10:10:00Z
 title: Đường xưa mây trắng | Chương 70
 description: Tôi viết Đường Xưa Mây Trắng ở quán Xóm Thượng, khi chưa có lò sưởi trung ương, chỉ một lò củi nhỏ giữa trời lạnh.
-image: https://banmaixanh.vercel.app/image/cover/001-374.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-648.jpg
 tags:
   - thu vien
   - van hoc

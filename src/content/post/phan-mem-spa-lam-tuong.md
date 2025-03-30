@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2023-07-10T10:10:00Z
+pubDatetime: 2017-05-06T10:10:00Z
 title: Tiết lộ những lầm tưởng phổ biến về phần mềm quản lý Spa
 description: Tìm hiểu các chiến lược tiếp thị Spa hiệu quả trong chuỗi bài viết sau của nhavantuonglai để áp dụng và đem lại hiệu quả thiết thực cho giải pháp của bạn.
-image: https://banmaixanh.vercel.app/image/cover/001-302.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-427.jpg
 tags:
   - viet thue
   - marketing

@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2022-07-15T10:10:00Z
+pubDatetime: 2016-03-20T10:10:00Z
 title: Tìm hiểu về RevPAM trong quản lý doanh thu khách sạn
 description: Ngành công nghiệp khách sạn đang thay đổi liên tục, và các phương pháp đo lường thành công cũng vậy.
-image: https://banmaixanh.vercel.app/image/cover/001-724.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-151.jpg
 tags:
   - viet thue
   - marketing

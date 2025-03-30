@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2023-10-25T10:10:00Z
+pubDatetime: 2020-10-10T10:10:00Z
 title: 10 cách bảo mật dữ liệu, thông tin cá nhân trên mạng hiệu quả nhất 2024
 description: Dưới đây là 10 cách bảo mật dữ liệu, thông tin cá nhân trên mạng hiệu quả nhất 2024 để bảo vệ tốt bản thân trên mạng và tránh những rủi ro không đáng có.
-image: https://banmaixanh.vercel.app/image/cover/001-548.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-574.jpg
 tags:
   - viet lach
   - developer

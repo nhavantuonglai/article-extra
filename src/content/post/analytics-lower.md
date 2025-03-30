@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2023-01-14T10:10:00Z
+pubDatetime: 2016-10-21T10:10:00Z
 title: Giới thiệu công cụ chuyển đổi chữ hoa thành chữ thường
 description: Công cụ chuyển đổi chữ hoa thành chữ thường là công cụ trực tuyến cho phép người dùng nhanh chóng thay văn bản từ chữ hoa sang chữ thường.
-image: https://banmaixanh.vercel.app/image/cover/001-533.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-021.jpg
 tags:
   - developer
   - javascript

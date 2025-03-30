@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2023-07-27T10:10:00Z
+pubDatetime: 2018-07-13T10:10:00Z
 title: Người Hy Lạp cổ đại đã nghĩ ra một cách để chống lại fake news
 description: Những người ngụy biện quan tâm đến việc đi đến những sự thật thực tế thông qua hùng biện hơn là một Sự thật tuyệt đối (Sophia). Kỹ thuật của họ đã bị Aristotle, Plato và Socrates chỉ trích.
-image: https://banmaixanh.vercel.app/image/cover/001-359.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-517.jpg
 tags:
   - viet lach
   - thuyet am muu

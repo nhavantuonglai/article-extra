@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2005-05-02T10:10:00Z
+pubDatetime: 2018-07-05T10:10:00Z
 title: Biên niên ký chim vặn dây cót | Chương 02
 description: Biên niên ký chim vặn dây cót kể về tiếng chim vang lên trong khoảnh khắc quyết định, khi con người tỉnh thức tiếng lòng thầm kín.
-image: https://banmaixanh.vercel.app/image/cover/001-285.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-051.jpg
 tags:
   - thu vien
   - van hoc

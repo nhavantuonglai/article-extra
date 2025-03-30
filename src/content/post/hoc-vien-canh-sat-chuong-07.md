@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2018-12-17T10:10:00Z
+pubDatetime: 2017-03-05T10:10:00Z
 title: Học viện cảnh sát | Chương 07
 description: Học viện cảnh sát là bộ truyện spinoff và tiền truyện của Thám tử Lừng danh Conan, được viết bởi Gosho Aoyama.
-image: https://banmaixanh.vercel.app/image/cover/001-667.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-035.jpg
 tags:
   - manga
   - gosho aoyama

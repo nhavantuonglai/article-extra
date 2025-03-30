@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2022-06-07T10:10:00Z
+pubDatetime: 2018-05-26T10:10:00Z
 title: Bán phòng tốt mà không cần Sale kênh OTA, làm thế nào để đạt được?
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
-image: https://banmaixanh.vercel.app/image/cover/001-651.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-775.jpg
 tags:
   - viet thue
   - marketing

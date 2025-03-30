@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2023-06-28T10:10:00Z
+pubDatetime: 2017-03-17T10:10:00Z
 title: 7 lý do tiệm Spa cần công cụ đặt lịch hẹn online
 description: Tìm hiểu các chiến lược tiếp thị Spa hiệu quả trong chuỗi bài viết sau của nhavantuonglai để áp dụng và đem lại hiệu quả thiết thực cho giải pháp của bạn.
-image: https://banmaixanh.vercel.app/image/cover/001-548.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-122.jpg
 tags:
   - viet thue
   - marketing

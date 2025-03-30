@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2022-06-25T10:10:00Z
+pubDatetime: 2020-04-11T10:10:00Z
 title: Phần mềm quản lý khách sạn tăng cường trải nghiệm khách hàng, và hỗ trợ nhân viên làm việc hiệu quả
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
-image: https://banmaixanh.vercel.app/image/cover/001-254.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-373.jpg
 tags:
   - viet thue
   - marketing

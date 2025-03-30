@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2021-02-22T10:10:00Z
+pubDatetime: 2019-11-08T10:10:00Z
 title: Làm thế nào để trải nghiệm nghe nhạc (audiophile) tốt nhất?
 description: Trải nghiệm nghe nhạc là một phần quan trọng của cuộc sống đối với nhiều người.
-image: https://banmaixanh.vercel.app/image/cover/001-616.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-448.jpg
 tags:
   - viet lach
   - thuong thuc am thanh

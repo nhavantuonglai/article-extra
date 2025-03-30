@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2018-10-01T10:10:00Z
+pubDatetime: 2023-08-08T10:10:00Z
 title: Niên lịch miền gió cát | Chương 01
 description: Niên lịch miền gió cát hòa quyện lịch sử tự nhiên, nghệ thuật miêu tả phong cảnh và triết học qua ghi chép về sinh vật tại trang trại Wisconsin.
-image: https://banmaixanh.vercel.app/image/cover/001-372.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-216.jpg
 tags:
   - aldo leopold
   - nien lich mien gio cat

@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2023-01-27T10:10:00Z
+pubDatetime: 2020-10-29T10:10:00Z
 title: Tìm hiểu dải tần âm thanh trong tai nghe
 description: Dải tần âm thanh là một trong những yếu tố quan trọng nhất quyết định chất lượng âm nhạc mà bạn nghe thấy.
-image: https://banmaixanh.vercel.app/image/cover/001-431.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-379.jpg
 tags:
   - viet lach
   - thuong thuc am thanh

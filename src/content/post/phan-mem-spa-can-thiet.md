@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2023-07-08T10:10:00Z
+pubDatetime: 2018-04-15T10:10:00Z
 title: Tại sao phần mềm quản lý Spa lại cần thiết?
 description: Tìm hiểu các chiến lược tiếp thị Spa hiệu quả trong chuỗi bài viết sau của nhavantuonglai để áp dụng và đem lại hiệu quả thiết thực cho giải pháp của bạn.
-image: https://banmaixanh.vercel.app/image/cover/001-072.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-469.jpg
 tags:
   - viet thue
   - marketing

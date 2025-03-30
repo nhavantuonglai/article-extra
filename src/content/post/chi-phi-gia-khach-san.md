@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2023-03-04T10:10:00Z
+pubDatetime: 2018-02-15T10:10:00Z
 title: Định giá dựa trên chi phí trong ngành khách sạn là gì?
 description: Định giá dựa trên chi phí là một trong những phương pháp đơn giản nhất để các nhà quản lý khách sạn xác định mức giá phòng khách sạn.
-image: https://banmaixanh.vercel.app/image/cover/001-543.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-176.jpg
 tags:
   - viet thue
   - marketing

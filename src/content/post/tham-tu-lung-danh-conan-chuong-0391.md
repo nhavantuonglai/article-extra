@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2007-05-11T10:10:00Z
+pubDatetime: 2018-04-03T10:10:00Z
 title: Thám tử lừng danh Conan | Chương 0391
 description: Thám tử lừng danh Conan chương 0391 là tập truyện trinh thám sáng tác bởi Gosho Aoyama, ấn bản phát từ hành từ 1994 trên tạp chí Weekly Shōnen Sunday.
-image: https://banmaixanh.vercel.app/image/cover/001-420.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-720.jpg
 tags:
   - manga
   - gosho aoyama

@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2006-02-18T10:10:00Z
+pubDatetime: 2016-03-13T10:10:00Z
 title: Tuyển tập sách của Higashino Keigo
 description: Higashino Keigo là tiểu thuyết gia trinh thám hàng đầu Nhật Bản với nhiều tác phẩm hàng triệu bản bán ra trong và ngoài nước, gặt hái vô vàn giải thưởng.
-image: https://banmaixanh.vercel.app/image/cover/001-297.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-772.jpg
 tags:
   - viet lach
   - doan van

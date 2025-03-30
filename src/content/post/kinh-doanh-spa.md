@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2023-07-03T10:10:00Z
+pubDatetime: 2021-04-16T10:10:00Z
 title: Kinh doanh Spa cần chuẩn bị những gì?
 description: Tìm hiểu các chiến lược tiếp thị Spa hiệu quả trong chuỗi bài viết sau của nhavantuonglai để áp dụng và đem lại hiệu quả thiết thực cho giải pháp của bạn.
-image: https://banmaixanh.vercel.app/image/cover/001-249.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-354.jpg
 tags:
   - viet thue
   - marketing

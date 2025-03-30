@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2014-03-23T10:10:00Z
+pubDatetime: 2023-05-25T10:10:00Z
 title: Hiểu về trái tim | Chương 23
 description: Hiểu về trái tim giúp hiểu và chữa lành trái tim, tâm hồn của mình, để mọi người cùng được sống trong hạnh phúc và yêu thương.
-image: https://banmaixanh.vercel.app/image/cover/001-323.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-136.jpg
 tags:
   - thu vien
   - van hoc

@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2011-03-26T10:10:00Z
+pubDatetime: 2018-12-09T10:10:00Z
 title: Thám tử lừng danh Conan | Chương 0756
 description: Thám tử lừng danh Conan chương 0756 là tập truyện trinh thám sáng tác bởi Gosho Aoyama, ấn bản phát từ hành từ 1994 trên tạp chí Weekly Shōnen Sunday.
-image: https://banmaixanh.vercel.app/image/cover/001-160.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-243.jpg
 tags:
   - manga
   - gosho aoyama

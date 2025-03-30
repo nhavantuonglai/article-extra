@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2023-01-28T10:10:00Z
+pubDatetime: 2016-06-13T10:10:00Z
 title: Tìm hiểu về những công nghệ mới giúp nhà hàng hoạt động tốt hơn
 description: Tìm hiểu các chiến lược tiếp thị nhà hàng hiệu quả trong chuỗi bài viết sau của nhavantuonglai để áp dụng và đem lại hiệu quả thiết thực cho giải pháp của bạn.
-image: https://banmaixanh.vercel.app/image/cover/001-426.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-059.jpg
 tags:
   - viet thue
   - marketing

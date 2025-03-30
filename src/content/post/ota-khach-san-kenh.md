@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2022-06-13T10:10:00Z
+pubDatetime: 2020-08-27T10:10:00Z
 title: Tối ưu các kênh bán phòng kênh OTA với 9 cách đã được chứng minh hiệu quả
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
-image: https://banmaixanh.vercel.app/image/cover/001-324.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-418.jpg
 tags:
   - viet thue
   - marketing

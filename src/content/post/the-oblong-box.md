@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2006-02-11T10:10:00Z
+pubDatetime: 2018-08-23T10:10:00Z
 title: Edgar Allan Poe | The oblong box
 description: Edgar Allan Poe (1809 – 1849) là một trong những nhà văn, nhà thơ, và nhà phê bình văn học nổi tiếng nhất nước Mỹ.
-image: https://banmaixanh.vercel.app/image/cover/001-193.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-315.jpg
 tags:
   - edgar allan poe
   - thu vien

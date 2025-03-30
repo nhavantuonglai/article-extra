@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2021-04-02T10:10:00Z
+pubDatetime: 2021-02-07T10:10:00Z
 title: Tìm hiểu về những cộng đồng viết lách chất lượng cao
 description: Danh sách những cộng đồng viết lách chất lượng cao, nơi bạn có thể phát triển kỹ năng và kết nối với những người cùng đam mê.
-image: https://banmaixanh.vercel.app/image/cover/001-427.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-327.jpg
 tags:
   - viet lach
   - ky nang viet

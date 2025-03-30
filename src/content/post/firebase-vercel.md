@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2024-04-27T10:10:00Z
+pubDatetime: 2020-09-01T10:10:00Z
 title: Sự khác biệt giữa Firebase và Vercel là gì?
 description: Trong thế giới của các nhà phát triển website, việc lựa chọn nền tảng hosting miễn phí phù hợp có thể đóng vai trò quyết định trong sự thành công của một dự án.
-image: https://banmaixanh.vercel.app/image/cover/001-742.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-667.jpg
 tags:
   - google
   - google console

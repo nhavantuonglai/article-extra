@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2006-01-21T10:10:00Z
+pubDatetime: 2020-08-04T10:10:00Z
 title: Edgar Allan Poe | Eleonora
 description: Edgar Allan Poe (1809 – 1849) là một trong những nhà văn, nhà thơ, và nhà phê bình văn học nổi tiếng nhất nước Mỹ.
-image: https://banmaixanh.vercel.app/image/cover/001-211.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-664.jpg
 tags:
   - edgar allan poe
   - thu vien

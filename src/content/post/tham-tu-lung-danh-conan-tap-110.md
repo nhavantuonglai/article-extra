@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2015-01-01T10:10:00Z
+pubDatetime: 2018-06-06T10:10:00Z
 title: Thám tử lừng danh Conan | Tập 110
 description: Thám tử lừng danh Conan tập 110 là tập truyện trinh thám sáng tác bởi Gosho Aoyama, ấn bản phát từ hành từ 1994 trên tạp chí Weekly Shōnen Sunday.
-image: https://banmaixanh.vercel.app/image/cover/001-337.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-445.jpg
 tags:
   - manga
   - gosho aoyama

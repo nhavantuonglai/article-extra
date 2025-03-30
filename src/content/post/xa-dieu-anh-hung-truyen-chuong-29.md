@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2002-07-29T10:10:00Z
+pubDatetime: 2016-11-24T10:10:00Z
 title: Xạ điêu anh hùng truyện | Chương 29
 description: Một trong những tiểu thuyết võ hiệp hay nhất viết về tình yêu. Một mối tình khiến giang hồ dấy động can qua.
-image: https://banmaixanh.vercel.app/image/cover/001-182.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-638.jpg
 tags:
   - thu vien
   - van hoc

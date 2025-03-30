@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2002-03-30T10:10:00Z
+pubDatetime: 2019-08-10T10:10:00Z
 title: Thiên long bát bộ | Chương 30
 description: Trong những tinh phẩm thượng thừa, Thiên Long bát bộ luôn được đánh giá là một trong những kiệt tác của Kim Dung.
-image: https://banmaixanh.vercel.app/image/cover/001-737.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-063.jpg
 tags:
   - thu vien
   - van hoc

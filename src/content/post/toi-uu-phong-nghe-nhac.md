@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2021-02-21T10:10:00Z
+pubDatetime: 2024-01-15T10:10:00Z
 title: Cách tối ưu âm thanh phòng nghe nhạc cho audiophile
 description: Chọn một cặp tai nghe tốt có thể là một nhiệm vụ khó khăn, đặc biệt là khi thị trường hiện nay có vô số lựa chọn với nhiều tính năng và thiết kế khác nhau.
-image: https://banmaixanh.vercel.app/image/cover/001-341.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-478.jpg
 tags:
   - viet lach
   - thuong thuc am thanh

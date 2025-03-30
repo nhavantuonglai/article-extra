@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2024-04-24T10:10:00Z
+pubDatetime: 2019-05-16T10:10:00Z
 title: Tìm hiểu về DMCA và cách để cài lên website
 description: DMCA, viết tắt của Digital Millennium Copyright Act, là hệ thống quản lý nội dung được phát triển để hỗ trợ các doanh nghiệp
-image: https://banmaixanh.vercel.app/image/cover/001-619.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-454.jpg
 tags:
   - websiteflow
   - website

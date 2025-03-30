@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2021-03-27T10:10:00Z
+pubDatetime: 2019-04-28T10:10:00Z
 title: Hướng dẫn viết lách sáng tạo, đột phá nhiều ý tưởng
 description: Viết blog là một kỹ năng quan trọng trong thời đại số hiện nay, không chỉ giúp bạn thể hiện quan điểm cá nhân mà còn có thể trở thành một nguồn thu nhập ổn định.
-image: https://banmaixanh.vercel.app/image/cover/001-195.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-139.jpg
 tags:
   - viet lach
   - ky nang viet

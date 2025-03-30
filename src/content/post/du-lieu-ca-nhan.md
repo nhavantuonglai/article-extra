@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2021-10-24T10:10:00Z
+pubDatetime: 2017-11-20T10:10:00Z
 title: Những rủi ro tiềm ẩn khi không bảo mật dữ liệu, thông tin cá nhân trên mạng
 description: Khi dữ liệu, thông tin cá nhân bị lộ, các hacker hoặc tội phạm mạng có thể sử dụng chúng để thực hiện các hành vi lừa đảo, đánh cắp tiền bạc và nhiều thứ khác nữa.
-image: https://banmaixanh.vercel.app/image/cover/001-540.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-575.jpg
 tags:
   - viet lach
   - developer

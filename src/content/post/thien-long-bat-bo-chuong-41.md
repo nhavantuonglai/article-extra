@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2002-04-11T10:10:00Z
+pubDatetime: 2016-06-11T10:10:00Z
 title: Thiên long bát bộ | Chương 41
 description: Trong những tinh phẩm thượng thừa, Thiên Long bát bộ luôn được đánh giá là một trong những kiệt tác của Kim Dung.
-image: https://banmaixanh.vercel.app/image/cover/001-165.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-086.jpg
 tags:
   - thu vien
   - van hoc

@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2021-11-21T10:10:00Z
+pubDatetime: 2019-09-12T10:10:00Z
 title: Biểu đồ giá vàng phản ánh dòng chảy của ETF
 description: Chuỗi bài viết của nhavantuonglai về kinh doanh vàng bạc đá quý và quỹ đầu tư sẽ giúp nhà đầu tư khởi nghiệp hiệu quả.
-image: https://banmaixanh.vercel.app/image/cover/001-629.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-684.jpg
 tags:
   - viet thue
   - marketing

@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2018-09-18T10:10:00Z
+pubDatetime: 2016-08-15T10:10:00Z
 title: Chim lửa | Chương 88
 description: Tezuka Osamu qua Chim lửa đặt ra câu hỏi về sự sống, cái chết, ý nghĩa tồn tại, nhấn mạnh con người chỉ thực sự sống khi hòa hợp với thiên nhiên. Đọc Chim lửa (Hi no Tori) chương 88 trong phần dưới đây.
-featured: false
+image: https://banmaixanh.vercel.app/image/cover/001-283.jpg
 tags:
   - manga
   - tezuka osamu

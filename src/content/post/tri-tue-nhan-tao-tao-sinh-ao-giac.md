@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2021-01-08T10:10:00Z
+pubDatetime: 2020-06-11T10:10:00Z
 title: Trevor Paglen và miền ảo giác của AI tạo sinh
 description: Liệu các mô hình ảo giác trong sản xuất hình ảnh dựa trên AI có khả năng làm chúng ta càng xa lạ, nếu không nói là bị cô lập, khỏi thế giới hay không?
-image: https://banmaixanh.vercel.app/image/cover/001-572.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-261.jpg
 tags:
   - ai
   - xu huong cong nghe

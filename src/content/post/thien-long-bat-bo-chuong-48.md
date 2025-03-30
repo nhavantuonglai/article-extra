@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2002-04-18T10:10:00Z
+pubDatetime: 2016-10-04T10:10:00Z
 title: Thiên long bát bộ | Chương 48
 description: Trong những tinh phẩm thượng thừa, Thiên Long bát bộ luôn được đánh giá là một trong những kiệt tác của Kim Dung.
-image: https://banmaixanh.vercel.app/image/cover/001-024.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-742.jpg
 tags:
   - thu vien
   - van hoc

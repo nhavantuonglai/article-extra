@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2011-01-01T10:10:00Z
+pubDatetime: 2017-12-22T10:10:00Z
 title: Thám tử lừng danh Conan | Tập 070
 description: Thám tử lừng danh Conan tập 070 là tập truyện trinh thám sáng tác bởi Gosho Aoyama, ấn bản phát từ hành từ 1994 trên tạp chí Weekly Shōnen Sunday.
-image: https://banmaixanh.vercel.app/image/cover/001-353.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-388.jpg
 tags:
   - manga
   - gosho aoyama

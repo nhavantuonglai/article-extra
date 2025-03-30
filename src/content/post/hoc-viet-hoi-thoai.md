@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2024-10-26T10:10:00Z
+pubDatetime: 2019-07-12T10:10:00Z
 title: Cách để viết văn hội thoại chất lượng, hấp dẫn người đọc
 description: Để tạo ra những cuộc trò chuyện sống động và thuyết phục trong văn học, bạn cần phải viết đối thoại giống như cách con người thực sự giao tiếp và có thể thúc đẩy câu chuyện tiến lên.
-image: https://banmaixanh.vercel.app/image/cover/001-397.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-504.jpg
 tags:
   - viet lach
   - ky nang viet

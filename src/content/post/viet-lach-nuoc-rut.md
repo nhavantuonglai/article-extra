@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2024-02-12T10:10:00Z
+pubDatetime: 2022-11-20T10:10:00Z
 title: Viết nước rút (writing sprints) là gì?
 description: Viết nước rút, hay writing sprints, là một phương pháp viết lách hiệu quả giúp nhà văn tăng năng suất.
-image: https://banmaixanh.vercel.app/image/cover/001-627.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-637.jpg
 tags:
   - viet lach
   - ky nang viet

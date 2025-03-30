@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2013-06-10T10:10:00Z
+pubDatetime: 2020-06-06T10:10:00Z
 title: Đạo phật ngày nay
 description: Thiền sư Thích Nhất Hạnh, sáng lập Làng Mai, truyền cảm hứng Phật giáo dấn thân, chánh niệm, giúp con người tĩnh tâm, hạnh phúc, hòa hợp thiên nhiên.
-image: https://banmaixanh.vercel.app/image/cover/001-567.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-428.jpg
 tags:
   - thu vien
   - van hoc

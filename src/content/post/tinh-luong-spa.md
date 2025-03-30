@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2023-07-17T10:10:00Z
+pubDatetime: 2019-03-23T10:10:00Z
 title: Tính lương nhân viên Spa hiệu quả cần phải biết
 description: Tìm hiểu các chiến lược tiếp thị Spa hiệu quả trong chuỗi bài viết sau của nhavantuonglai để áp dụng và đem lại hiệu quả thiết thực cho giải pháp của bạn.
-image: https://banmaixanh.vercel.app/image/cover/001-404.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-537.jpg
 tags:
   - viet thue
   - marketing

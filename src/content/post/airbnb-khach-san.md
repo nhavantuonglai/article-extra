@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2022-01-15T10:10:00Z
+pubDatetime: 2016-10-07T10:10:00Z
 title: Khách sạn có thể học hỏi được gì từ Airbnb để kinh doanh tốt hơn?
 description:  Hãy cùng xem xét những gì mà Airbnb đã học hỏi và những điểm khác biệt, ưu thế chính của từng loại hình lưu trú.
-image: https://banmaixanh.vercel.app/image/cover/001-734.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-005.jpg
 tags:
   - viet thue
   - marketing

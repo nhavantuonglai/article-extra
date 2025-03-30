@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2023-12-10T10:10:00Z
+pubDatetime: 2017-08-24T10:10:00Z
 title: Những cách viết lách hay
 description: Viết lách không chỉ là một kỹ năng mà còn là một nghệ thuật. Để viết lách hay, không chỉ cần có kiến thức và kỹ năng cơ bản mà còn cần sự sáng tạo, cảm hứng và một chút kỹ thuật.
-image: https://banmaixanh.vercel.app/image/cover/001-147.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-574.jpg
 tags:
   - viet lach
   - ky nang viet

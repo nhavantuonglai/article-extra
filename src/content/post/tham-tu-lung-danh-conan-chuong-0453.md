@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2008-03-23T10:10:00Z
+pubDatetime: 2021-02-19T10:10:00Z
 title: Thám tử lừng danh Conan | Chương 0453
 description: Thám tử lừng danh Conan chương 0453 là tập truyện trinh thám sáng tác bởi Gosho Aoyama, ấn bản phát từ hành từ 1994 trên tạp chí Weekly Shōnen Sunday.
-image: https://banmaixanh.vercel.app/image/cover/001-230.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-464.jpg
 tags:
   - manga
   - gosho aoyama

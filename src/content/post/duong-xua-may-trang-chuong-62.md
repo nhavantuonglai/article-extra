@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2015-04-11T10:10:00Z
+pubDatetime: 2018-05-24T10:10:00Z
 title: Đường xưa mây trắng | Chương 61
 description: Tôi viết Đường Xưa Mây Trắng ở quán Xóm Thượng, khi chưa có lò sưởi trung ương, chỉ một lò củi nhỏ giữa trời lạnh.
-image: https://banmaixanh.vercel.app/image/cover/001-290.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-639.jpg
 tags:
   - thu vien
   - van hoc

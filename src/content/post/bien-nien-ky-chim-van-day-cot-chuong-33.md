@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2005-06-03T10:10:00Z
+pubDatetime: 2016-11-12T10:10:00Z
 title: Biên niên ký chim vặn dây cót | Chương 33
 description: Biên niên ký chim vặn dây cót kể về tiếng chim vang lên trong khoảnh khắc quyết định, khi con người tỉnh thức tiếng lòng thầm kín.
-image: https://banmaixanh.vercel.app/image/cover/001-149.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-082.jpg
 tags:
   - thu vien
   - van hoc

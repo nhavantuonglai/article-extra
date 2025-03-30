@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2022-05-10T10:10:00Z
+pubDatetime: 2024-08-02T10:10:00Z
 title: Khởi nghiệp homestay cần lưu ý những điều gì?
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
-image: https://banmaixanh.vercel.app/image/cover/001-517.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-343.jpg
 tags:
   - viet thue
   - marketing

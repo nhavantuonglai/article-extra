@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2018-12-21T10:10:00Z
+pubDatetime: 2016-12-29T10:10:00Z
 title: Gián điệp mạng | Chương 51
 description: Gián điệp mạng kể về nhà khoa học chuyển nghề thành chuyên gia mạng, truy tìm hacker tại Phòng Thí nghiệm Lawrence Berkeley, California, Mỹ.
-image: https://banmaixanh.vercel.app/image/cover/001-253.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-761.jpg
 tags:
   - clifford stoll
   - gian diep mang

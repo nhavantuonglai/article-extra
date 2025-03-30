@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2023-07-15T10:10:00Z
+pubDatetime: 2016-10-18T10:10:00Z
 title: 7 cách để quản lý nhân viên tiệm Spa hiệu quả hơn
 description: Tìm hiểu các chiến lược tiếp thị Spa hiệu quả trong chuỗi bài viết sau của nhavantuonglai để áp dụng và đem lại hiệu quả thiết thực cho giải pháp của bạn.
-image: https://banmaixanh.vercel.app/image/cover/001-777.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-758.jpg
 tags:
   - viet thue
   - marketing

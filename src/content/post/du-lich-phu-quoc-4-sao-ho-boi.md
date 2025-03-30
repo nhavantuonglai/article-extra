@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2021-09-16T10:10:00Z
+pubDatetime: 2018-04-23T10:10:00Z
 title: Top 5 khách sạn 4 sao Phú Quốc có hồ bơi đẹp nhất
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
-image: https://banmaixanh.vercel.app/image/cover/001-657.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-532.jpg
 tags:
   - viet thue
   - marketing

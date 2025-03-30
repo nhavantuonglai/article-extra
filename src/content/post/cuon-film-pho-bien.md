@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2021-03-01T10:10:00Z
+pubDatetime: 2016-07-14T10:10:00Z
 title: Đánh giá chất lượng các cuộn film phổ biến
 description: Đánh giá chất lượng film Ilford HP5+ 400 giúp nhiếp ảnh gia hình dung chất lượng, đáp ứng nhu cầu chụp ảnh và tạo trải nghiệm tích cực khi sử dụng.
-image: https://banmaixanh.vercel.app/image/cover/001-359.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-376.jpg
 tags:
   - affiliate
   - roll film

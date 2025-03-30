@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2014-02-26T10:10:00Z
+pubDatetime: 2020-10-29T10:10:00Z
 title: Đường xưa mây trắng | Chương 46
 description: Tôi viết Đường Xưa Mây Trắng ở quán Xóm Thượng, khi chưa có lò sưởi trung ương, chỉ một lò củi nhỏ giữa trời lạnh.
-image: https://banmaixanh.vercel.app/image/cover/001-180.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-624.jpg
 tags:
   - thu vien
   - van hoc

@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2022-02-06T10:10:00Z
+pubDatetime: 2016-08-29T10:10:00Z
 title: Khác biệt giữa phần mềm quản lý khách sạn, Channel Manager, Booking Engine kênh bán phòng trực tuyến
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
-image: https://banmaixanh.vercel.app/image/cover/001-749.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-163.jpg
 tags:
   - viet thue
   - marketing

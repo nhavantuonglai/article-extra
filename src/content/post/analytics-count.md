@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2023-01-13T10:10:00Z
+pubDatetime: 2016-03-15T10:10:00Z
 title: Giới thiệu công cụ thống kê tần suất văn bản
 description: Công cụ đếm tần suất văn bản là công cụ xử lý dữ liệu, cho phép người dùng kiểm tra số lần xuất hiện của một giá trị cụ thể trong đoạn văn.
-image: https://banmaixanh.vercel.app/image/cover/001-534.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-020.jpg
 tags:
   - developer
   - javascript

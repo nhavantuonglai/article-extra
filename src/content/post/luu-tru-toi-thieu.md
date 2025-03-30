@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2022-05-26T10:10:00Z
+pubDatetime: 2016-06-10T10:10:00Z
 title: Quản lý chiều dài của thời gian lưu trú tối thiểu để tăng thêm doanh thu trong khách sạn
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
-image: https://banmaixanh.vercel.app/image/cover/001-517.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-594.jpg
 tags:
   - viet thue
   - marketing

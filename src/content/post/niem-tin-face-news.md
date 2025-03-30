@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2023-08-01T10:10:00Z
+pubDatetime: 2022-08-10T10:10:00Z
 title: Thấy fake news nhiều, tin fake news nhiều
 description: Tin tức giả mạo lan truyền như một loại virus. Vào năm 2019, các nhà nghiên cứu tại Stanford Engineering đã phân tích sự lan truyền của tin tức giả mạo như thể đó là một chủng Ebola.
-image: https://banmaixanh.vercel.app/image/cover/001-336.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-279.jpg
 tags:
   - viet lach
   - thuyet am muu

@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2018-08-12T10:10:00Z
+pubDatetime: 2017-05-17T10:10:00Z
 title: Chim lửa | Chương 52
 description: Tezuka Osamu qua Chim lửa đặt ra câu hỏi về sự sống, cái chết, ý nghĩa tồn tại, nhấn mạnh con người chỉ thực sự sống khi hòa hợp với thiên nhiên. Đọc Chim lửa (Hi no Tori) chương 52 trong phần dưới đây.
-image: https://banmaixanh.vercel.app/image/cover/001-452.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-247.jpg
 tags:
   - manga
   - tezuka osamu

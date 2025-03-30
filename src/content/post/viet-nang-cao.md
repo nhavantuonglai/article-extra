@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2021-03-08T10:10:00Z
+pubDatetime: 2016-04-15T10:10:00Z
 title: Hướng dẫn viết lách chuyên nghiệp
 description: Viết lách chuyên nghiệp không chỉ đòi hỏi kỹ năng viết tốt mà còn cần sự hiểu biết về cách tạo ra nội dung hấp dẫn và có giá trị.
-image: https://banmaixanh.vercel.app/image/cover/001-674.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-386.jpg
 tags:
   - viet lach
   - ky nang viet

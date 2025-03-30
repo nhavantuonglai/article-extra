@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2012-05-19T10:10:00Z
+pubDatetime: 2018-07-15T10:10:00Z
 title: Thám tử lừng danh Conan | Chương 0899
 description: Thám tử lừng danh Conan chương 0899 là tập truyện trinh thám sáng tác bởi Gosho Aoyama, ấn bản phát từ hành từ 1994 trên tạp chí Weekly Shōnen Sunday.
-image: https://banmaixanh.vercel.app/image/cover/001-772.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-118.jpg
 tags:
   - manga
   - gosho aoyama

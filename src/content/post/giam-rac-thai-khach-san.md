@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2023-07-12T10:10:00Z
+pubDatetime: 2018-06-12T10:10:00Z
 title: 6 phương pháp hay nhất để quản lý chất thải trong khách sạn
 description: Quản lý chất thải trong khách sạn là một chủ đề quan trọng, vì việc xử lý tài nguyên hiệu quả có thể tác động tích cực đến doanh thu.
-image: https://banmaixanh.vercel.app/image/cover/001-737.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-698.jpg
 tags:
   - viet thue
   - marketing

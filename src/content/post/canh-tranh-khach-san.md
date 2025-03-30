@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2022-02-02T10:10:00Z
+pubDatetime: 2016-12-26T10:10:00Z
 title: 5 giải pháp giúp khách sạn cạnh tranh tốt tại thị trường địa phương
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
-image: https://banmaixanh.vercel.app/image/cover/001-727.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-152.jpg
 tags:
   - viet thue
   - marketing

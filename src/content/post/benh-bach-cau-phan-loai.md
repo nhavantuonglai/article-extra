@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2021-03-06T10:10:00Z
+pubDatetime: 2019-08-17T10:10:00Z
 title: Tìm hiểu các loại bệnh bạch hầu
 description: Hiểu rõ các loại bệnh bạch cầu giúp trong việc chẩn đoán, điều trị và quản lý bệnh hiệu quả hơn.
-image: https://banmaixanh.vercel.app/image/cover/001-537.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-045.jpg
 tags:
   - y hoc
   - benh truyen nhiem

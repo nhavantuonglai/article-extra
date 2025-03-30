@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2024-02-06T10:10:00Z
+pubDatetime: 2018-07-22T10:10:00Z
 title: Ngôi kể thứ ba toàn tri là gì?
 description: Ngôi kể thứ ba toàn tri là một phong cách kể chuyện trong văn học, trong đó người kể chuyện có khả năng biết tất cả mọi điều về các nhân vật.
-image: https://banmaixanh.vercel.app/image/cover/001-333.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-215.jpg
 tags:
   - viet lach
   - ky nang viet

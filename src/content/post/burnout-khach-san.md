@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2023-01-28T10:10:00Z
+pubDatetime: 2017-10-05T10:10:00Z
 title: Cách dập tắt tình trạng kiệt sức trong ngành khách sạn
 description: Những người làm trong ngành khách sạn có trách nhiệm đặc biệt để chăm sóc bản thân và đội ngũ của mình.
-image: https://banmaixanh.vercel.app/image/cover/001-444.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-126.jpg
 tags:
   - viet thue
   - marketing

@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2018-12-03T10:10:00Z
+pubDatetime: 2019-08-23T10:10:00Z
 title: LinkedIn kết hợp Tinder trong ứng dụng kết nối chuyên nghiệp
 description: Dù bạn muốn mở rộng mạng lưới trong một ngành công nghiệp mới, tìm kiếm đồng sáng lập và nhà đầu tư cho ý tưởng khởi nghiệp, hay đơn giản là muốn trò chuyện với một người mới
-image: https://banmaixanh.vercel.app/image/cover/001-116.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-727.jpg
 tags:
   - phat trien ban than
   - khoa hoc

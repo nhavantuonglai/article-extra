@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2023-11-02T10:10:00Z
+pubDatetime: 2017-05-15T10:10:00Z
 title: Casestudy Freakonomics và chiến lược ra quyết định khó khăn
 description: Một nghiên cứu được công bố gần đây đã yêu cầu mọi người đưa ra những lựa chọn khó khăn trong cuộc sống bằng cách lật một đồng xu. Những người tham gia đã đưa ra những quyết định này bên lề.
-image: https://banmaixanh.vercel.app/image/cover/001-523.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-193.jpg
 tags:
   - tam ly hoc
   - tam than hoc

@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2022-10-01T10:10:00Z
+pubDatetime: 2021-04-01T10:10:00Z
 title: Phép lạ của sự thức tỉnh | Chương 01
 description: Thiền sư Thích Nhất Hạnh, sáng lập Làng Mai, truyền cảm hứng Phật giáo dấn thân, chánh niệm, giúp con người tĩnh tâm, hạnh phúc, hòa hợp thiên nhiên.
-image: https://banmaixanh.vercel.app/image/cover/001-603.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-329.jpg
 tags:
   - thu vien
   - van hoc

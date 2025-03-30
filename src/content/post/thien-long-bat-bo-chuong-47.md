@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2002-04-17T10:10:00Z
+pubDatetime: 2017-03-24T10:10:00Z
 title: Thiên long bát bộ | Chương 47
 description: Trong những tinh phẩm thượng thừa, Thiên Long bát bộ luôn được đánh giá là một trong những kiệt tác của Kim Dung.
-image: https://banmaixanh.vercel.app/image/cover/001-705.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-516.jpg
 tags:
   - thu vien
   - van hoc

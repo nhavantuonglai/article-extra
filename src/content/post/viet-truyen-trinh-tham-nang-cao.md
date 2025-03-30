@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2024-02-23T10:10:00Z
+pubDatetime: 2018-02-19T10:10:00Z
 title: Hướng dẫn viết truyện trinh thám nâng cao
 description: Viết truyện trinh thám là một nghệ thuật đòi hỏi sự tỉ mỉ, tư duy logic và khả năng sáng tạo cao.
-image: https://banmaixanh.vercel.app/image/cover/001-684.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-100.jpg
 tags:
   - viet lach
   - ky nang viet

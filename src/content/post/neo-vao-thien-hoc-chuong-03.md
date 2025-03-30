@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2016-05-04T10:10:00Z
+pubDatetime: 2021-05-08T10:10:00Z
 title: Nẻo vào thiền học | Chương 03
 description: Thiền sư Thích Nhất Hạnh, sáng lập Làng Mai, truyền cảm hứng Phật giáo dấn thân, chánh niệm, giúp con người tĩnh tâm, hạnh phúc, hòa hợp thiên nhiên.
-image: https://banmaixanh.vercel.app/image/cover/001-162.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-200.jpg
 tags:
   - thu vien
   - van hoc

@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2024-03-28T10:10:00Z
+pubDatetime: 2020-10-01T10:10:00Z
 title: Hướng dẫn chi tiết khắc phục vấn đề viết lách không bị bí ý tưởng
 description: Bí ý tưởng khi viết lách là vấn đề mà nhiều người viết gặp phải, từ nhà văn chuyên nghiệp đến người viết blog nghiệp dư.
-image: https://banmaixanh.vercel.app/image/cover/001-537.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-049.jpg
 tags:
   - viet lach
   - ky nang viet

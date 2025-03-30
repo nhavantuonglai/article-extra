@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2010-12-06T10:10:00Z
+pubDatetime: 2021-11-22T10:10:00Z
 title: Không diệt không sinh không sợ hãi | Chương 06
 description: Thiền sư Thích Nhất Hạnh, sáng lập Làng Mai, truyền cảm hứng Phật giáo dấn thân, chánh niệm, giúp con người tĩnh tâm, hạnh phúc, hòa hợp thiên nhiên.
-image: https://banmaixanh.vercel.app/image/cover/001-297.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-385.jpg
 tags:
   - thu vien
   - van hoc

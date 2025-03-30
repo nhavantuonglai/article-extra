@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2021-12-11T10:10:00Z
+pubDatetime: 2021-01-15T10:10:00Z
 title: Hướng dẫn nâng cấp Google One 3TB mỗi năm với giá 199k
 description: Tìm hiểu cách nâng cấp Google One 3TB giá 199k, chất lượng cao trong bài viết sau để áp dụng cho tài khoản của bạn.
-image: https://banmaixanh.vercel.app/image/cover/001-483.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-227.jpg
 tags:
   - google one
   - google drive

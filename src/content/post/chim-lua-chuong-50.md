@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2018-08-10T10:10:00Z
+pubDatetime: 2023-06-26T10:10:00Z
 title: Chim lửa | Chương 50
 description: Tezuka Osamu qua Chim lửa đặt ra câu hỏi về sự sống, cái chết, ý nghĩa tồn tại, nhấn mạnh con người chỉ thực sự sống khi hòa hợp với thiên nhiên. Đọc Chim lửa (Hi no Tori) chương 50 trong phần dưới đây.
-image: https://banmaixanh.vercel.app/image/cover/001-450.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-245.jpg
 tags:
   - manga
   - tezuka osamu

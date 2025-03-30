@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2006-02-04T10:10:00Z
+pubDatetime: 2020-03-04T10:10:00Z
 title: Edgar Allan Poe | The gold bug
 description: Edgar Allan Poe (1809 – 1849) là một trong những nhà văn, nhà thơ, và nhà phê bình văn học nổi tiếng nhất nước Mỹ.
-image: https://banmaixanh.vercel.app/image/cover/001-213.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-274.jpg
 tags:
   - edgar allan poe
   - thu vien

@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2022-07-07T10:10:00Z
+pubDatetime: 2017-03-12T10:10:00Z
 title: 8 chức năng của một PMS tốt
 description: Hãy cùng khám phá một số chức năng chính để hướng dẫn bạn trong việc chọn PMS phù hợp cho doanh nghiệp của mình.
-image: https://banmaixanh.vercel.app/image/cover/001-132.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-657.jpg
 tags:
   - viet thue
   - marketing

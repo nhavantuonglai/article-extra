@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2006-01-20T10:10:00Z
+pubDatetime: 2016-05-06T10:10:00Z
 title: Edgar Allan Poe | Berenice
 description: Edgar Allan Poe (1809 – 1849) là một trong những nhà văn, nhà thơ, và nhà phê bình văn học nổi tiếng nhất nước Mỹ.
-image: https://banmaixanh.vercel.app/image/cover/001-295.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-047.jpg
 tags:
   - edgar allan poe
   - thu vien

@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2023-01-19T10:10:00Z
+pubDatetime: 2018-05-17T10:10:00Z
 title: Cách chọn loa bookshelf tốt nhất cho audiophile
 description: Loa bookshelf là một trong những thiết bị âm thanh phổ biến và được ưa chuộng nhất trong cộng đồng audiophile.
-image: https://banmaixanh.vercel.app/image/cover/001-534.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-123.jpg
 tags:
   - viet lach
   - thuong thuc am thanh

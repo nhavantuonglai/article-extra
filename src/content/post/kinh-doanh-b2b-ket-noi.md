@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2022-09-09T10:10:00Z
+pubDatetime: 2018-04-09T10:10:00Z
 title: Các phương pháp tiếp cận sáng tạo để kết nối với khách hàng B2B của bạn
 description: Thương mại điện tử đang phát triển và thế giới tiếp thị B2B cũng vậy. Nó đã thay đổi hoàn toàn cách chúng tôi tương tác với khán giả của mình.
-image: https://banmaixanh.vercel.app/image/cover/001-249.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-516.jpg
 tags:
   - b2b
   - marketing

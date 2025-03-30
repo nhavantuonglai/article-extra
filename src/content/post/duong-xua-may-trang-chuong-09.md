@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2014-01-18T10:10:00Z
+pubDatetime: 2017-03-21T10:10:00Z
 title: Đường xưa mây trắng | Chương 08
 description: Tôi viết Đường Xưa Mây Trắng ở quán Xóm Thượng, khi chưa có lò sưởi trung ương, chỉ một lò củi nhỏ giữa trời lạnh.
-image: https://banmaixanh.vercel.app/image/cover/001-317.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-586.jpg
 tags:
   - thu vien
   - van hoc

@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2023-02-12T10:10:00Z
+pubDatetime: 2021-07-07T10:10:00Z
 title: 20 cách tốt nhất để chào đón khách tại khách sạn hoàn hảo
 description: Ấn tượng đầu tiên có thể quyết định thành bại của trải nghiệm khách hàng, và cách bạn chào đón khách là yếu tố quan trọng trong lần tiếp xúc đầu tiên tại khách sạn.
-image: https://banmaixanh.vercel.app/image/cover/001-518.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-167.jpg
 tags:
   - viet thue
   - marketing

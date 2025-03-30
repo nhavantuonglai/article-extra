@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2025-01-12T10:10:00Z
+pubDatetime: 2021-05-21T10:10:00Z
 title: Hướng dẫn đầy đủ về quy định và quy tắc khách sạn
 description: Bạn càng chủ động, bạn càng an toàn. Có một số biện pháp đơn giản mà các nhà quản lý khách sạn có thể thực hiện để bảo vệ bản thân, doanh nghiệp và khách hàng của mình – hãy cùng khám phá chúng.
-image: https://banmaixanh.vercel.app/image/cover/001-483.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-084.jpg
 tags:
   - viet thue
   - marketing

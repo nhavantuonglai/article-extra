@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2023-05-24T10:10:00Z
+pubDatetime: 2016-12-11T10:10:00Z
 title: 8 điều khi chụp ảnh film chuyên nghiệp phải biết
 description: Cuộn film CineStill 50D đã nhanh chóng trở thành một sản phẩm yêu thích trong cộng đồng nhiếp ảnh film.
-image: https://banmaixanh.vercel.app/image/cover/001-123.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-300.jpg
 tags:
   - affiliate
   - roll film

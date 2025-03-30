@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2024-02-24T10:10:00Z
+pubDatetime: 2021-10-03T10:10:00Z
 title: Tư duy viết lách để cải thiện kỹ năng viết
 description: Bài viết này sẽ khám phá cách tư duy viết lách có thể cải thiện kỹ năng viết của bạn, từ việc lên ý tưởng, cấu trúc bài viết, cho đến kỹ thuật viết.
-image: https://banmaixanh.vercel.app/image/cover/001-540.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-671.jpg
 tags:
   - viet lach
   - ky nang viet

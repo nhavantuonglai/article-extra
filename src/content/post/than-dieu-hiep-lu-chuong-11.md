@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2002-05-11T10:10:00Z
+pubDatetime: 2018-12-29T10:10:00Z
 title: Thần điêu hiệp lữ | Chương 11
 description: Một trong những tiểu thuyết võ hiệp hay nhất viết về tình yêu. Một mối tình khiến giang hồ dấy động can qua.
-image: https://banmaixanh.vercel.app/image/cover/001-175.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-633.jpg
 tags:
   - thu vien
   - van hoc

@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2023-02-13T10:10:00Z
+pubDatetime: 2021-10-26T10:10:00Z
 title: Những điều bạn cần biết về việc check-in qua điện thoại di động cho khách sạn
 description: Bây giờ, chúng ta hãy xem xét kỹ hơn về check-in qua điện thoại di động là gì và khám phá từng lợi ích chi tiết.
-image: https://banmaixanh.vercel.app/image/cover/001-515.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-166.jpg
 tags:
   - viet thue
   - marketing

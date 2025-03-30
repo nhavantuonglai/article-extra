@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2006-02-03T10:10:00Z
+pubDatetime: 2016-04-09T10:10:00Z
 title: Edgar Allan Poe | Sự sụp đổ của dòng họ Usher
 description: Edgar Allan Poe (1809 – 1849) là một trong những nhà văn, nhà thơ, và nhà phê bình văn học nổi tiếng nhất nước Mỹ.
-image: https://banmaixanh.vercel.app/image/cover/001-639.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-302.jpg
 tags:
   - edgar allan poe
   - thu vien

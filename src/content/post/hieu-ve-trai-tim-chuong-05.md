@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2014-03-05T10:10:00Z
+pubDatetime: 2017-07-23T10:10:00Z
 title: Hiểu về trái tim | Chương 05
 description: Hiểu về trái tim giúp hiểu và chữa lành trái tim, tâm hồn của mình, để mọi người cùng được sống trong hạnh phúc và yêu thương.
-image: https://banmaixanh.vercel.app/image/cover/001-305.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-587.jpg
 tags:
   - thu vien
   - van hoc

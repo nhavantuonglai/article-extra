@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2022-04-22T10:10:00Z
+pubDatetime: 2019-04-18T10:10:00Z
 title: Free Booking Links trong Google Hotel Ads và những điều khách sạn cần biết
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
-image: https://banmaixanh.vercel.app/image/cover/001-523.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-669.jpg
 tags:
   - viet thue
   - marketing

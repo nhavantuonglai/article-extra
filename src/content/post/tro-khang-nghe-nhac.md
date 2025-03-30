@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2021-02-23T10:10:00Z
+pubDatetime: 2021-07-09T10:10:00Z
 title: Tìm hiểu về trở kháng tai nghe
 description: Trở kháng tai nghe là một trong những thông số kỹ thuật quan trọng nhất để đánh giá hiệu suất của tai nghe.
-image: https://banmaixanh.vercel.app/image/cover/001-048.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-003.jpg
 tags:
   - viet lach
   - thuong thuc am thanh

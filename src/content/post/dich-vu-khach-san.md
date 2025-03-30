@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2025-01-09T10:10:00Z
+pubDatetime: 2019-02-13T10:10:00Z
 title: Tất cả những điều bạn cần biết về đặt phòng trực tiếp và qua bên thứ ba
 description: Đối với khách hàng tiềm năng, việc cung cấp nhiều cách thức đặt phòng sẽ giúp bạn kết nối với họ trên các nền tảng trực tuyến, tăng khả năng họ sẽ chọn khách sạn của bạn.
-image: https://banmaixanh.vercel.app/image/cover/001-041.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-450.jpg
 tags:
   - viet thue
   - marketing

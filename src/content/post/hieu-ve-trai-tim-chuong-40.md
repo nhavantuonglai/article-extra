@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2014-04-10T10:10:00Z
+pubDatetime: 2017-10-02T10:10:00Z
 title: Hiểu về trái tim | Chương 40
 description: Hiểu về trái tim giúp hiểu và chữa lành trái tim, tâm hồn của mình, để mọi người cùng được sống trong hạnh phúc và yêu thương.
-image: https://banmaixanh.vercel.app/image/cover/001-340.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-069.jpg
 tags:
   - thu vien
   - van hoc

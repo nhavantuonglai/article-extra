@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2021-04-08T10:10:00Z
+pubDatetime: 2016-03-18T10:10:00Z
 title: Đọc nhiều, hiểu sâu và viết hay
 description: Viết lách là một kỹ năng quan trọng không chỉ trong cuộc sống hàng ngày mà còn trong công việc chuyên môn. Để viết tốt, một trong những nguyên tắc cơ bản là Đọc nhiều hiểu sâu viết tốt.
-image: https://banmaixanh.vercel.app/image/cover/001-528.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-474.jpg
 tags:
   - viet lach
   - ky nang viet

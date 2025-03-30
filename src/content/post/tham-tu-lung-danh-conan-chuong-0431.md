@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2008-03-01T10:10:00Z
+pubDatetime: 2017-12-20T10:10:00Z
 title: Thám tử lừng danh Conan | Chương 0431
 description: Thám tử lừng danh Conan chương 0431 là tập truyện trinh thám sáng tác bởi Gosho Aoyama, ấn bản phát từ hành từ 1994 trên tạp chí Weekly Shōnen Sunday.
-image: https://banmaixanh.vercel.app/image/cover/001-033.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-088.jpg
 tags:
   - manga
   - gosho aoyama

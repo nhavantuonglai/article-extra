@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2018-09-11T10:10:00Z
+pubDatetime: 2016-08-02T10:10:00Z
 title: Chim lửa | Chương 81
 description: Tezuka Osamu qua Chim lửa đặt ra câu hỏi về sự sống, cái chết, ý nghĩa tồn tại, nhấn mạnh con người chỉ thực sự sống khi hòa hợp với thiên nhiên. Đọc Chim lửa (Hi no Tori) chương 81 trong phần dưới đây.
-image: https://banmaixanh.vercel.app/image/cover/001-541.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-276.jpg
 tags:
   - manga
   - tezuka osamu

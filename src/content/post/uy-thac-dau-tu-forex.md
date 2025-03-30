@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2024-03-15T10:10:00Z
+pubDatetime: 2020-04-27T10:10:00Z
 title: Ủy thác đầu tư Forex là gì, và có an toàn không?
 description: Chuỗi bài viết của nhavantuonglai về kinh doanh vàng bạc đá quý và quỹ đầu tư sẽ giúp nhà đầu tư khởi nghiệp hiệu quả.
-image: https://banmaixanh.vercel.app/image/cover/001-073.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-616.jpg
 tags:
   - viet thue
   - marketing

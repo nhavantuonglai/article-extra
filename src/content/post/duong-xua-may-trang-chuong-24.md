@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2014-02-03T10:10:00Z
+pubDatetime: 2017-06-17T10:10:00Z
 title: Đường xưa mây trắng | Chương 23
 description: Tôi viết Đường Xưa Mây Trắng ở quán Xóm Thượng, khi chưa có lò sưởi trung ương, chỉ một lò củi nhỏ giữa trời lạnh.
-image: https://banmaixanh.vercel.app/image/cover/001-259.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-601.jpg
 tags:
   - thu vien
   - van hoc

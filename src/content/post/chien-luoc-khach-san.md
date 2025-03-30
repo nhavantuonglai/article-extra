@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2023-02-16T10:10:00Z
+pubDatetime: 2023-07-27T10:10:00Z
 title: 20 ý tưởng chiến lược marketing khách sạn để tăng đơn đặt phòng
 description: Chiến lược marketing khách sạn bắt đầu bằng việc hiểu rõ đối tượng mục tiêu và xác định các mục tiêu của bạn.
-image: https://banmaixanh.vercel.app/image/cover/001-419.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-189.jpg
 tags:
   - viet thue
   - marketing

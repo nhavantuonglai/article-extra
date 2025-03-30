@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2023-07-11T10:10:00Z
+pubDatetime: 2020-12-09T10:10:00Z
 title: 4 lý do tại sao tiệm Spa nên sử dụng phần mềm để quản lý việc kinh doanh
 description: Tìm hiểu các chiến lược tiếp thị Spa hiệu quả trong chuỗi bài viết sau của nhavantuonglai để áp dụng và đem lại hiệu quả thiết thực cho giải pháp của bạn.
-image: https://banmaixanh.vercel.app/image/cover/001-273.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-247.jpg
 tags:
   - viet thue
   - marketing

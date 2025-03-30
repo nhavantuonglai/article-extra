@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2006-01-28T10:10:00Z
+pubDatetime: 2017-09-15T10:10:00Z
 title: Edgar Allan Poe | Thiên thần của những điều kỳ quặc
 description: Edgar Allan Poe (1809 – 1849) là một trong những nhà văn, nhà thơ, và nhà phê bình văn học nổi tiếng nhất nước Mỹ.
-image: https://banmaixanh.vercel.app/image/cover/001-608.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-622.jpg
 tags:
   - edgar allan poe
   - thu vien

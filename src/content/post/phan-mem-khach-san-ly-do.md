@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2022-06-26T10:10:00Z
+pubDatetime: 2016-12-29T10:10:00Z
 title: 6 lý do lựa chọn hệ thống phần mềm quản lý khách sạn tất cả trong một (all in one)
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
-image: https://banmaixanh.vercel.app/image/cover/001-418.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-173.jpg
 tags:
   - viet thue
   - marketing

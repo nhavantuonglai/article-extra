@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2018-12-10T10:10:00Z
+pubDatetime: 2023-07-29T10:10:00Z
 title: Gián điệp mạng | Chương 40
 description: Gián điệp mạng kể về nhà khoa học chuyển nghề thành chuyên gia mạng, truy tìm hacker tại Phòng Thí nghiệm Lawrence Berkeley, California, Mỹ.
-image: https://banmaixanh.vercel.app/image/cover/001-241.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-750.jpg
 tags:
   - clifford stoll
   - gian diep mang

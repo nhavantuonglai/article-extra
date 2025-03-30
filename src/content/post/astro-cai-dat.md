@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2024-04-22T10:10:00Z
+pubDatetime: 2022-05-11T10:10:00Z
 title: Hướng dẫn xây dựng website bằng Astro
 description: Astro là một framework hiện đại giúp xây dựng các website  tĩnh nhanh chóng và hiệu quả.
-image: https://banmaixanh.vercel.app/image/cover/001-776.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-025.jpg
 tags:
   - google
   - google console

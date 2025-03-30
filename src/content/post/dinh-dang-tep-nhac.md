@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2023-01-28T10:10:00Z
+pubDatetime: 2016-10-22T10:10:00Z
 title: Các định dạng file âm thanh phổ biến hiện nay
 description: Trong thế giới âm nhạc số, định dạng file âm thanh đóng vai trò quan trọng trong việc lưu trữ và phát lại âm thanh.
-image: https://banmaixanh.vercel.app/image/cover/001-432.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-452.jpg
 tags:
   - viet lach
   - thuong thuc am thanh

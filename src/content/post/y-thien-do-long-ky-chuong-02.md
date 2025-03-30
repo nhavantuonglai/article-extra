@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2002-09-02T10:10:00Z
+pubDatetime: 2019-11-30T10:10:00Z
 title: Ỷ thiên đồ long ký | Chương 02
 description: Một trong những tiểu thuyết võ hiệp hay nhất viết về tình yêu. Một mối tình khiến giang hồ dấy động can qua.
-image: https://banmaixanh.vercel.app/image/cover/001-213.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-463.jpg
 tags:
   - thu vien
   - van hoc

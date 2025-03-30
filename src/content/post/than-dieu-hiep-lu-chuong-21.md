@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2002-05-21T10:10:00Z
+pubDatetime: 2017-05-18T10:10:00Z
 title: Thần điêu hiệp lữ | Chương 21
 description: Một trong những tiểu thuyết võ hiệp hay nhất viết về tình yêu. Một mối tình khiến giang hồ dấy động can qua.
-image: https://banmaixanh.vercel.app/image/cover/001-390.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-424.jpg
 tags:
   - thu vien
   - van hoc

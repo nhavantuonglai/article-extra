@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2002-07-21T10:10:00Z
+pubDatetime: 2016-08-30T10:10:00Z
 title: Xạ điêu anh hùng truyện | Chương 21
 description: Một trong những tiểu thuyết võ hiệp hay nhất viết về tình yêu. Một mối tình khiến giang hồ dấy động can qua.
-image: https://banmaixanh.vercel.app/image/cover/001-028.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-642.jpg
 tags:
   - thu vien
   - van hoc

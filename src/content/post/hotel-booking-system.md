@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2022-05-11T10:10:00Z
+pubDatetime: 2021-12-30T10:10:00Z
 title: Hotel Booking System là gì?
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
-image: https://banmaixanh.vercel.app/image/cover/001-749.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-130.jpg
 tags:
   - viet thue
   - marketing

@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2023-04-25T10:10:00Z
+pubDatetime: 2020-03-16T10:10:00Z
 title: Tầm quan trọng của giao tiếp hiệu quả trong khách sạn
 description: Xu hướng công nghệ hiện tại giúp du khách dễ dàng đặt phòng và thanh toán trực tuyến hơn. Tuy nhiên, chúng cũng làm tăng các nguy cơ, rủi ro gian lận thanh toán trực tuyến trong khách sạn.
-image: https://banmaixanh.vercel.app/image/cover/001-683.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-770.jpg
 tags:
   - viet thue
   - marketing

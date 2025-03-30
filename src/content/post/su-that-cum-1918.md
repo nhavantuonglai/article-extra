@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2021-12-17T10:10:00Z
+pubDatetime: 2023-07-20T10:10:00Z
 title: Một sự thật lâu đời về cúm năm 1918 có thể đã sai
 description: Những người trẻ và khỏe không dễ chết như người già yếu, theo một phân tích mới.
-image: https://banmaixanh.vercel.app/image/cover/001-143.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-680.jpg
 tags:
   - khoa hoc
   - sinh hoc

@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2021-12-29T10:10:00Z
+pubDatetime: 2016-06-18T10:10:00Z
 title: Hygge và Friluftsliv không chỉ là xu hướng, chúng còn là những triết lý
 description: Không có hồi kết cho các triết lý về việc sống một cuộc sống tốt đẹp, cũng như không có hồi kết cho những người muốn bán cho bạn một chương trình để làm điều đó.
-image: https://banmaixanh.vercel.app/image/cover/001-541.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-297.jpg
 tags:
   - viet lach
   - triet ly song

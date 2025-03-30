@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2022-03-06T10:10:00Z
+pubDatetime: 2018-03-20T10:10:00Z
 title: Các chiến lược tốt nhất để giảm chi phí vận hành khách sạn
 description: Chi phí vận hành khách sạn ngày càng gia tăng có thể ảnh hưởng đáng kể đến lợi nhuận của bạn.
-image: https://banmaixanh.vercel.app/image/cover/001-605.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-406.jpg
 tags:
   - viet thue
   - marketing

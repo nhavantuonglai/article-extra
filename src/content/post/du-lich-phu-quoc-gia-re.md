@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2021-09-24T10:10:00Z
+pubDatetime: 2016-06-08T10:10:00Z
 title: Cách chọn khách sạn giá rẻ, chất lượng tốt ở Phú Quốc
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
-image: https://banmaixanh.vercel.app/image/cover/001-660.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-541.jpg
 tags:
   - viet thue
   - marketing

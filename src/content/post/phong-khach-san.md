@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2022-07-05T10:10:00Z
+pubDatetime: 2018-08-18T10:10:00Z
 title: Các loại phòng khác nhau trong ngành khách sạn là gì?
 description: Có rất nhiều loại phòng được thiết kế để cung cấp với các mức giá khác nhau nhằm áp dụng chiến lược doanh thu đa dạng.
-image: https://banmaixanh.vercel.app/image/cover/001-016.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-025.jpg
 tags:
   - viet thue
   - marketing

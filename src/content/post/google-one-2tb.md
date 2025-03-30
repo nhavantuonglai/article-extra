@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2021-12-10T10:10:00Z
+pubDatetime: 2018-09-14T10:10:00Z
 title: Hướng dẫn nâng cấp Google One 30TB miễn phí chất lượng cao
 description: Tìm hiểu cách nâng cấp Google One 30TB miễn phí, chất lượng cao trong bài viết sau để áp dụng cho tài khoản của bạn.
-image: https://banmaixanh.vercel.app/image/cover/001-578.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-726.jpg
 tags:
   - google one
   - google drive

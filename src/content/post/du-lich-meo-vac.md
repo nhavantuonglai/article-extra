@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2021-09-02T10:10:00Z
+pubDatetime: 2021-06-26T10:10:00Z
 title: Cẩm nang du lịch Mèo Vạc
 description: Cẩm nang du lịch sau sẽ giúp người đọc có thêm hiểu biết hữu ích, giúp chuyến di lịch của mình trở nên ấn tượng và thú vị hơn bao giờ hết.
-image: https://banmaixanh.vercel.app/image/cover/001-638.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-520.jpg
 tags:
   - cam nang du lich
   - du lich mien bac

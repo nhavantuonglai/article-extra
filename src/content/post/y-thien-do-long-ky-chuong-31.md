@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2002-10-01T10:10:00Z
+pubDatetime: 2022-02-15T10:10:00Z
 title: Ỷ thiên đồ long ký | Chương 31
 description: Một trong những tiểu thuyết võ hiệp hay nhất viết về tình yêu. Một mối tình khiến giang hồ dấy động can qua.
-image: https://banmaixanh.vercel.app/image/cover/001-092.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-462.jpg
 tags:
   - thu vien
   - van hoc

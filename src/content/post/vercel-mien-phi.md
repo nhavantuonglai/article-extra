@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2024-05-10T10:10:00Z
+pubDatetime: 2017-06-04T10:10:00Z
 title: Dùng hosting website miễn phí với Vercel
 description: Tìm hiểu cách sử dụng Vercel để hosting miễn phí, từ việc tạo tài khoản đến quản lý website sau khi triển khai.
-image: https://banmaixanh.vercel.app/image/cover/001-667.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-765.jpg
 tags:
   - google
   - google console

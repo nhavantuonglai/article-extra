@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2019-11-07T10:10:00Z
+pubDatetime: 2020-01-30T10:10:00Z
 title: Bài viết trên Instagram ngày 17 tháng 11 năm 2019
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
-image: https://banmaixanh.vercel.app/image/cover/001-548.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-319.jpg
 tags:
   - viet lach
   - doan van

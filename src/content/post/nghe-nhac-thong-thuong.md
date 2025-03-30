@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2021-02-18T10:10:00Z
+pubDatetime: 2017-05-14T10:10:00Z
 title: Sự khác biệt giữa audiophile và người nghe nhạc thông thường
 description: Audiophile chân chính là những người đam mê âm thanh và chất lượng âm nhạc ở mức cao nhất.
-image: https://banmaixanh.vercel.app/image/cover/001-491.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-255.jpg
 tags:
   - viet lach
   - thuong thuc am thanh

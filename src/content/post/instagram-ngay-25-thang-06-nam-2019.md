@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2019-06-25T10:10:00Z
+pubDatetime: 2017-11-21T10:10:00Z
 title: Gặp Hoàng Tử Bé trên hành trình
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
-image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-391.jpg
 tags:
   - viet lach
   - doan van

@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2018-01-02T10:10:00Z
+pubDatetime: 2017-11-14T10:10:00Z
 title: Mùa xuân vắng lặng | Chương 02
 description: Mùa xuân vắng lặng gây chấn động xã hội Mỹ, cảnh tỉnh về môi trường, buộc Tổng thống Kennedy lập ủy ban điều tra thuốc diệt sinh vật.
-image: https://banmaixanh.vercel.app/image/cover/001-231.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-168.jpg
 tags:
   - rachel carson
   - mua xuan vang lang

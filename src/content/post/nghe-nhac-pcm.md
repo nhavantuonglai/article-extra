@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2021-02-12T10:10:00Z
+pubDatetime: 2022-08-09T10:10:00Z
 title: Mô hình Pulse Code Modulation (PCM) trong nhạc số
 description: Pulse Code Modulation (PCM) là một trong những phương pháp phổ biến nhất để số hóa tín hiệu âm thanh.
-image: https://banmaixanh.vercel.app/image/cover/001-108.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-190.jpg
 tags:
   - viet lach
   - thuong thuc am thanh

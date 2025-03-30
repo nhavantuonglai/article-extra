@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2018-12-08T10:10:00Z
+pubDatetime: 2023-08-06T10:10:00Z
 title: Gián điệp mạng | Chương 38
 description: Gián điệp mạng kể về nhà khoa học chuyển nghề thành chuyên gia mạng, truy tìm hacker tại Phòng Thí nghiệm Lawrence Berkeley, California, Mỹ.
-image: https://banmaixanh.vercel.app/image/cover/001-239.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-748.jpg
 tags:
   - clifford stoll
   - gian diep mang

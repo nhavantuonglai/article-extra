@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2021-02-14T10:10:00Z
+pubDatetime: 2022-11-23T10:10:00Z
 title: So sánh tai nghe và loa để lựa chọn cho phù hợp
 description: Khi nói đến trải nghiệm âm nhạc, tai nghe và loa là hai lựa chọn phổ biến nhất. Mỗi loại đều có những ưu điểm và nhược điểm riêng, phù hợp.
-image: https://banmaixanh.vercel.app/image/cover/001-518.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-504.jpg
 tags:
   - viet lach
   - thuong thuc am thanh

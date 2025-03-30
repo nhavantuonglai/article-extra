@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2024-02-01T10:10:00Z
+pubDatetime: 2020-02-08T10:10:00Z
 title: Cách cải thiện kỹ năng đọc của bạn
 description: Khả năng đọc tốt có thể giúp bạn diễn giải và tìm thấy ý nghĩa trong mọi thứ bạn đọc, và khi bạn liên tục cải thiện các kỹ năng này.
-image: https://banmaixanh.vercel.app/image/cover/001-426.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-143.jpg
 tags:
   - viet lach
   - ky nang viet

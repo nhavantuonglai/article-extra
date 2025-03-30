@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2018-09-28T10:10:00Z
+pubDatetime: 2017-07-24T10:10:00Z
 title: Chim lửa | Chương 98
 description: Tezuka Osamu qua Chim lửa đặt ra câu hỏi về sự sống, cái chết, ý nghĩa tồn tại, nhấn mạnh con người chỉ thực sự sống khi hòa hợp với thiên nhiên. Đọc Chim lửa (Hi no Tori) chương 98 trong phần dưới đây.
-featured: false
+image: https://banmaixanh.vercel.app/image/cover/001-293.jpg
 tags:
   - manga
   - tezuka osamu

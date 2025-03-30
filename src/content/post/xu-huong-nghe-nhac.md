@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2021-02-26T10:10:00Z
+pubDatetime: 2018-10-27T10:10:00Z
 title: Đánh giá xu hướng âm thanh hiện đại 2024
 description: Xu hướng âm thanh hiện đại đang ngày càng phát triển và đem lại nhiều trải nghiệm mới mẻ cho người dùng.
-image: https://banmaixanh.vercel.app/image/cover/001-170.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-511.jpg
 tags:
   - viet lach
   - thuong thuc am thanh

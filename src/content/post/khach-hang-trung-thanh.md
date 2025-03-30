@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2022-08-07T10:10:00Z
+pubDatetime: 2023-02-08T10:10:00Z
 title: 10 chính sách khách hàng thân thiết tốt nhất cho khách sạn
 description: Hãy cùng nói về lợi ích của các chính sách khách hàng thân thiết, các chiến lược tốt nhất và cách những chiến lược này có thể giúp tăng kết quả của khách sạn của bạn.
-image: https://banmaixanh.vercel.app/image/cover/001-202.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-757.jpg
 tags:
   - viet thue
   - marketing

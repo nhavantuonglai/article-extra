@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2024-02-27T10:10:00Z
+pubDatetime: 2018-04-29T10:10:00Z
 title: Hướng dẫn viết lách sáng tạo, tạo ra nhiều ý tưởng viết hữu hiệu
 description: Bài viết này sẽ khám phá các phương pháp và kỹ thuật để nâng cao tư duy sáng tạo trong viết lách hiệu quả hơn trong quá trình thực hành.
-image: https://banmaixanh.vercel.app/image/cover/001-049.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-543.jpg
 tags:
   - viet lach
   - ky nang viet

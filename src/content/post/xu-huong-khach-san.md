@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2022-01-01T10:10:00Z
+pubDatetime: 2018-04-16T10:10:00Z
 title: 11 xu hướng Marketing khách sạn nổi bật trong năm 2025
 description: Công nghệ và xu hướng Marketing khách sạn ngày một phát triển, kéo theo nhu cầu ngày một phức tạp từ du khách. Nhận biết các xu hướng Marketing khách sạn nổi bật, sẽ trở nên thịnh hành trong năm 2024.
-image: https://banmaixanh.vercel.app/image/cover/001-319.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-471.jpg
 tags:
   - viet thue
   - marketing

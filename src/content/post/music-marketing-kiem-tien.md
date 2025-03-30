@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2022-12-28T10:10:00Z
+pubDatetime: 2017-10-30T10:10:00Z
 title: Tại sao kiếm tiền từ âm nhạc không nên chỉ là giai điệu đẹp?
 description: Âm nhạc thường được coi là một hình thức giải trí và thư giãn thuần túy, đặc biệt là bởi ngành công nghiệp khách sạn, thường sử dụng nó như một giá trị gia tăng cảm giác.
-image: https://banmaixanh.vercel.app/image/cover/001-299.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-752.jpg
 tags:
   - viet lach
   - doan van

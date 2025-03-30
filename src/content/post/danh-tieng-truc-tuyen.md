@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2022-03-27T10:10:00Z
+pubDatetime: 2017-12-03T10:10:00Z
 title: 7 lời khuyên về quản lý danh tiếng trực tuyến của khách sạn
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
-image: https://banmaixanh.vercel.app/image/cover/001-727.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-391.jpg
 tags:
   - viet thue
   - marketing

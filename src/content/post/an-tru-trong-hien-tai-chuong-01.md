@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2014-01-01T10:10:00Z
+pubDatetime: 2019-03-09T10:10:00Z
 title: An trú trong hiện tại | Chương 01
 description: Thiền sư Thích Nhất Hạnh, sáng lập Làng Mai, truyền cảm hứng Phật giáo dấn thân, chánh niệm, giúp con người tĩnh tâm, hạnh phúc, hòa hợp thiên nhiên.
-image: https://banmaixanh.vercel.app/image/cover/001-465.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-011.jpg
 tags:
   - thu vien
   - van hoc

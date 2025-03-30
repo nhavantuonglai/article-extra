@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2010-05-26T10:10:00Z
+pubDatetime: 2021-08-16T10:10:00Z
 title: Giếng thở than | Chương 16
 description: Montague Rhodes James là tác giả nổi tiếng với những truyện ma kinh điển tiếng Anh, trong đó có tác phẩm Giếng thở than.
-image: https://banmaixanh.vercel.app/image/cover/001-616.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-609.jpg
 tags:
   - montague rhodes james
   - gieng tho than

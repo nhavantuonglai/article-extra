@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2024-02-19T10:10:00Z
+pubDatetime: 2020-06-20T10:10:00Z
 title: Viết lách tác động như thế nào đến các vấn đề trong xã hội?
 description: Bài viết này sẽ khám phá các tác động của viết lách đối với xã hội qua các lăng kính khác nhau.
-image: https://banmaixanh.vercel.app/image/cover/001-755.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-193.jpg
 tags:
   - viet lach
   - ky nang viet

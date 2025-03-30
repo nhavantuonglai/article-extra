@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2023-12-12T10:10:00Z
+pubDatetime: 2018-11-01T10:10:00Z
 title: Tìm hiểu về writing process để cải thiện kỹ năng viết lách
 description: Từ chữ tượng hình cổ đại đến tiểu thuyết hiện đại, văn bản đã phát triển và thích nghi với các nền văn hóa và ngôn ngữ khác nhau.
-image: https://banmaixanh.vercel.app/image/cover/001-141.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-063.jpg
 tags:
   - viet lach
   - ky nang viet

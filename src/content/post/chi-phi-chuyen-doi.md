@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2022-03-03T10:10:00Z
+pubDatetime: 2020-08-15T10:10:00Z
 title: Chi phí chuyển đổi trong khách sạn là gì?
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
-image: https://banmaixanh.vercel.app/image/cover/001-649.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-175.jpg
 tags:
   - viet thue
   - marketing

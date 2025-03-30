@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2024-02-15T10:10:00Z
+pubDatetime: 2017-08-17T10:10:00Z
 title: Hướng dẫn viết lách sáng tạo, đột phá nhiều ý tưởng
 description: Viết lách sáng tạo là một kỹ năng nghệ thuật đòi hỏi không chỉ sự sáng tạo mà còn cả kỹ thuật và sự kiên nhẫn.
-image: https://banmaixanh.vercel.app/image/cover/001-109.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-028.jpg
 tags:
   - viet lach
   - ky nang viet

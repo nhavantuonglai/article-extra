@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2002-03-05T10:10:00Z
+pubDatetime: 2020-03-14T10:10:00Z
 title: Thiên long bát bộ | Chương 05
 description: Trong những tinh phẩm thượng thừa, Thiên Long bát bộ luôn được đánh giá là một trong những kiệt tác của Kim Dung.
-image: https://banmaixanh.vercel.app/image/cover/001-423.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-283.jpg
 tags:
   - thu vien
   - van hoc

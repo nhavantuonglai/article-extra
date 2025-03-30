@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2021-09-30T10:10:00Z
+pubDatetime: 2020-01-22T10:10:00Z
 title: Top địa điểm du lịch Phú Quốc nên trải nghiệm khi du lịch
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
-image: https://banmaixanh.vercel.app/image/cover/001-665.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-547.jpg
 tags:
   - viet thue
   - marketing

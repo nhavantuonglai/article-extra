@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2022-06-01T10:10:00Z
+pubDatetime: 2022-05-12T10:10:00Z
 title: Lợi ích của đặt phòng muộn (late bookings) trong khách sạn
 description: Dù bạn là một khách sạn độc lập nhỏ hay một chuỗi khách sạn, bạn có thể đã từng gặp phải tình huống khó xử.
-image: https://banmaixanh.vercel.app/image/cover/001-534.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-430.jpg
 tags:
   - viet thue
   - marketing

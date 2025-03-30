@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2018-12-02T10:10:00Z
+pubDatetime: 2020-05-08T10:10:00Z
 title: Gián điệp mạng | Chương 32
 description: Gián điệp mạng kể về nhà khoa học chuyển nghề thành chuyên gia mạng, truy tìm hacker tại Phòng Thí nghiệm Lawrence Berkeley, California, Mỹ.
-image: https://banmaixanh.vercel.app/image/cover/001-233.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-742.jpg
 tags:
   - clifford stoll
   - gian diep mang

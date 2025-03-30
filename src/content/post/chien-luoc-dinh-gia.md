@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2022-02-22T10:10:00Z
+pubDatetime: 2020-01-20T10:10:00Z
 title: Những chiến lược định giá khách sạn giúp tối đa hóa lợi nhuận
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
-image: https://banmaixanh.vercel.app/image/cover/001-548.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-184.jpg
 tags:
   - viet thue
   - marketing

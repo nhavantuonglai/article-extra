@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2018-09-09T10:10:00Z
+pubDatetime: 2024-11-06T10:10:00Z
 title: Cuộc săn lùng tàu tháng 10 đỏ | Chương 09
 description: Cuộc săn lùng tàu tháng 10 Đỏ là tiểu thuyết tình báo của Tom Clancy (1984), được chuyển thể thành phim cùng tên năm 1990.
-image: https://banmaixanh.vercel.app/image/cover/001-209.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-350.jpg
 tags:
   - thu vien
   - van hoc

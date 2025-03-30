@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2022-08-02T10:10:00Z
+pubDatetime: 2016-07-01T10:10:00Z
 title: Lễ tân trực đêm và tầm quan trọng của nó trong ngành khách sạn
 description: Lễ tân trực đêm là quá trình khi một khách sạn đối chiếu các giao dịch tài chính hàng ngày của mình vào những giờ khuya hoặc sáng sớm.
-image: https://banmaixanh.vercel.app/image/cover/001-309.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-101.jpg
 tags:
   - viet thue
   - marketing

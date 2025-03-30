@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2023-05-08T10:10:00Z
+pubDatetime: 2023-01-16T10:10:00Z
 title: 7 hoạt động tốt nhất để cung cấp cho khách khách sạn của bạn
 description: Các chủ khách sạn thường tìm kiếm những hoạt động nổi bật để tạo sự khác biệt cho khách sạn của họ so với đối thủ cạnh tranh.
-image: https://banmaixanh.vercel.app/image/cover/001-642.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-727.jpg
 tags:
   - viet thue
   - marketing

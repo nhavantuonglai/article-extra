@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2024-10-20T10:10:00Z
+pubDatetime: 2018-08-04T10:10:00Z
 title: Trường hợp kỳ lạ của người phụ nữ sinh ra thỏ
 description: Năm 1726, London đã bị đánh lừa bởi một người phụ nữ nghèo và mù chữ tên là Mary Toft.
-image: https://banmaixanh.vercel.app/image/cover/001-723.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-508.jpg
 tags:
   - khoa hoc
   - lich su

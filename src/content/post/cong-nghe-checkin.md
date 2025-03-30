@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2022-02-11T10:10:00Z
+pubDatetime: 2018-02-06T10:10:00Z
 title: Áp dụng công nghệ để quy trình check in khách sạn trở nên hiệu quả hơn
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
-image: https://banmaixanh.vercel.app/image/cover/001-499.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-328.jpg
 tags:
   - viet thue
   - marketing

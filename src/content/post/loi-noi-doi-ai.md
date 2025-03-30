@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2023-01-04T10:10:00Z
+pubDatetime: 2016-06-03T10:10:00Z
 title: Tại sao AI là một lời nói dối béo bở
 description: Tất cả sự cường điệu xung quanh trí tuệ nhân tạo đều hiểu sai trí thông minh thực sự là gì. Và AI chắc chắn, chắc chắn sẽ không bao giờ giết chết bạn.
-image: https://banmaixanh.vercel.app/image/cover/001-296.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-688.jpg
 tags:
   - ai
   - xu huong cong nghe

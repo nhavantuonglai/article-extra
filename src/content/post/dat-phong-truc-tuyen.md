@@ -1,8 +1,8 @@
 ---
-pubDatetime: 2022-03-29T10:10:00Z
+pubDatetime: 2021-05-28T10:10:00Z
 title: Tại sao đặt phòng khách sạn trực tiếp lại là kênh bán phòng tốt nhất?
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
-image: https://banmaixanh.vercel.app/image/cover/001-205.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-436.jpg
 tags:
   - viet thue
   - marketing
