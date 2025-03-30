@@ -2,8 +2,7 @@
 pubDatetime: 2025-02-06T10:10:00Z
 title: Dịch vụ viết thông cáo báo chí nâng tầm chuyên nghiệp cho doanh nghiệp
 description: Thông cáo báo chí là phần trong chiến lược quan hệ công chúng. Tuy nhiên, hầu hết mọi người không chắc chắn cách sử dụng chúng.
-featured: false
-image: https://banmaixanh.vercel.app/image/cover/001-417.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-076.jpg
 tags:
  - viet lach
  - ky nang viet

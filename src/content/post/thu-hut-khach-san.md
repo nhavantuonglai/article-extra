@@ -2,8 +2,7 @@
 pubDatetime: 2022-07-25T10:10:00Z
 title: 10 giải pháp thu hút khách hàng đến nhà hàng hiệu quả đã được chứng minh
 description: Tìm hiểu các chiến lược tiếp thị nhà hàng hiệu quả trong chuỗi bài viết sau của nhavantuonglai để áp dụng và đem lại hiệu quả thiết thực cho giải pháp của bạn.
-featured: false
-image: https://banmaixanh.vercel.app/image/cover/001-513.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-036.jpg
 tags:
   - viet thue
   - marketing

@@ -2,7 +2,6 @@
 pubDatetime: 2023-03-25T10:10:00Z
 title: Tìm hiểu về cây hoa ngọc lan
 description: Cây hoa ngọc lan, còn được gọi là Michelia alba, là một loại cây gỗ lớn, thuộc họ Magnoliaceae.
-featured: false
 image: https://banmaixanh.vercel.app/image/cover/001-685.jpg
 tags:
   - viet thue

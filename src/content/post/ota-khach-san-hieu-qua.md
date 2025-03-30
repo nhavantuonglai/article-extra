@@ -2,8 +2,7 @@
 pubDatetime: 2022-06-12T10:10:00Z
 title: Chiến lược toàn diện cho ngành khách sạn để tối ưu kênh OTA
 description: Bài viết này sẽ đi sâu phân tích các chiến lược tối ưu kênh OTA hiệu quả, giúp các khách sạn tối đa hóa doanh thu và xây dựng thương hiệu bền vững.
-featured: false
-image: https://banmaixanh.vercel.app/image/cover/001-483.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-626.jpg
 tags:
   - viet thue
   - marketing

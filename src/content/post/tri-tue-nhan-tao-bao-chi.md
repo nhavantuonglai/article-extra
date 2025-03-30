@@ -2,8 +2,7 @@
 pubDatetime: 2023-01-06T10:10:00Z
 title: Dấu ngoặc đơn Gutenberg và kỷ nguyên AI
 description: Khi chúng ta bước vào thời đại của trí tuệ nhân tạo và internet, một báo in từ năm 1450 có thể dạy chúng ta điều gì về cách những công nghệ này sẽ phát triển và định hình xã hội của chúng ta?
-featured: false
-image: https://banmaixanh.vercel.app/image/cover/001-548.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-079.jpg
 tags:
   - ai
   - xu huong cong nghe

@@ -2,7 +2,6 @@
 pubDatetime: 2024-02-16T10:10:00Z
 title: Hướng dẫn viết lách sáng tạo, khai thác cảm hứng mới
 description: Cảm hứng viết thôi thì chưa đủ, bạn sẽ cần thêm sự sáng tạo và khả năng đột phá ý tưởng để biến chúng thành những bài viết chất lượng cao.
-featured: false
 image: https://banmaixanh.vercel.app/image/cover/001-199.jpg
 tags:
   - viet lach

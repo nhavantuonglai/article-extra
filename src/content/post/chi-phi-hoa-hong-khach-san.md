@@ -2,7 +2,6 @@
 pubDatetime: 2022-03-05T10:10:00Z
 title: Khách sạn của bạn phải trả bao nhiêu chi phí hoa hồng cho kênh OTA?
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
-featured: false
 image: https://banmaixanh.vercel.app/image/cover/001-349.jpg
 tags:
   - viet thue

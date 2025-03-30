@@ -2,8 +2,7 @@
 pubDatetime: 2021-04-20T10:10:00Z
 title: Hướng dẫn cần thiết khi phải từ bỏ nhận nuôi mèo
 description: Nhận ra rằng bạn không còn có thể giữ con mèo của bạn và đưa ra quyết định nuôi lại chúng là khó khăn.
-featured: false
-image: https://banmaixanh.vercel.app/image/cover/001-302.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-250.jpg
 tags:
   - viet lach
   - thu cung

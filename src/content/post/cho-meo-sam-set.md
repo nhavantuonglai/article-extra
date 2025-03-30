@@ -2,7 +2,6 @@
 pubDatetime: 2023-04-15T10:10:00Z
 title: Nỗi sợ sấm sét ở chó mèo
 description: Chúng ta đều biết rằng những của chúng ta cần tập thể dục và thường nghĩ rằng đây chỉ là cuộc đi bộ hàng ngày của chúng.
-featured: false
 image: https://banmaixanh.vercel.app/image/cover/001-320.jpg
 tags:
   - viet lach

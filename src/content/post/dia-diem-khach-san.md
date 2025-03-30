@@ -2,7 +2,6 @@
 pubDatetime: 2022-03-30T10:10:00Z
 title: Cách chọn địa điểm kinh doanh khách sạn để tạo nên thành công
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
-featured: false
 image: https://banmaixanh.vercel.app/image/cover/001-357.jpg
 tags:
   - viet thue

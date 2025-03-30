@@ -2,8 +2,7 @@
 pubDatetime: 2022-06-10T10:10:00Z
 title: Cải thiện thứ hạng hiển thị của khách sạn trên kênh OTA như thế nào cho hiệu quả?
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
-featured: false
-image: https://banmaixanh.vercel.app/image/cover/001-397.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-476.jpg
 tags:
   - viet thue
   - marketing

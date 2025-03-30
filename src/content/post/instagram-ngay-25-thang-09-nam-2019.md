@@ -2,7 +2,6 @@
 pubDatetime: 2019-09-07T10:10:00Z
 title: Bài viết trên Instagram ngày 25 tháng 09 năm 2019
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
-featured: false
 image: https://banmaixanh.vercel.app/image/cover/001-343.jpg
 tags:
   - viet lach

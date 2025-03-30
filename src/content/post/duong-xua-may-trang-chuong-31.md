@@ -2,7 +2,6 @@
 pubDatetime: 2014-02-10T10:10:00Z
 title: Đường xưa mây trắng | Chương 30
 description: Tôi viết Đường Xưa Mây Trắng ở quán Xóm Thượng, khi chưa có lò sưởi trung ương, chỉ một lò củi nhỏ giữa trời lạnh.
-featured: false
 image: https://banmaixanh.vercel.app/image/cover/001-128.jpg
 tags:
   - thu vien

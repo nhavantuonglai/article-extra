@@ -2,7 +2,6 @@
 pubDatetime: 2021-02-03T10:10:00Z
 title: Tối ưu không gian nghe nhạc (audiophile) hiệu quả
 description: Tối ưu không gian nghe nhạc là quá trình quan trọng để đảm bảo bạn có trải nghiệm âm thanh tốt nhất.
-featured: false
 image: https://banmaixanh.vercel.app/image/cover/001-534.jpg
 tags:
   - viet lach

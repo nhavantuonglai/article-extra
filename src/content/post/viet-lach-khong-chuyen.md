@@ -2,8 +2,7 @@
 pubDatetime: 2021-03-06T10:10:00Z
 title: Kinh nghiệm thực hành viết lách cho người không chuyên
 description: Viết lách không chỉ là việc sắp xếp các từ ngữ theo một thứ tự nhất định để truyền đạt thông tin, mà còn là một nghệ thuật, một kỹ năng cần được rèn luyện và phát triển theo thời gian.
-featured: false
-image: https://banmaixanh.vercel.app/image/cover/001-267.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-769.jpg
 tags:
   - viet lach
   - ky nang viet

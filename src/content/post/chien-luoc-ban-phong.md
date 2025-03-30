@@ -2,7 +2,6 @@
 pubDatetime: 2023-02-17T10:10:00Z
 title: Tìm hiểu về kênh bán phòng khách sạn và chiến lược áp dụng
 description: Nhiều khách sạn khai thác bán phòng đa kênh để đem lại hiệu quả, doanh thu như kỳ vọng. Chúng là những giải pháp này, hãy cùng tìm hiểu chi tiết trong bài viết dưới đây.
-featured: false
 image: https://banmaixanh.vercel.app/image/cover/001-258.jpg
 tags:
   - viet thue

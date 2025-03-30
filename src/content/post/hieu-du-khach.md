@@ -2,7 +2,6 @@
 pubDatetime: 2022-05-07T10:10:00Z
 title: Chìa khóa để kinh doanh khách sạn thành công là hiểu rõ khách hàng
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
-featured: false
 image: https://banmaixanh.vercel.app/image/cover/001-548.jpg
 tags:
   - viet thue

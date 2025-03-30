@@ -2,7 +2,6 @@
 pubDatetime: 2022-02-23T10:10:00Z
 title: 9 chiến lược thu hút du khách Gen Z trong ngành khách sạn
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
-featured: false
 image: https://banmaixanh.vercel.app/image/cover/001-517.jpg
 tags:
   - viet thue

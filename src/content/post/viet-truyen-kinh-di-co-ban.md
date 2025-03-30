@@ -2,8 +2,7 @@
 pubDatetime: 2021-03-10T10:10:00Z
 title: Hướng dẫn viết truyện kinh dị cơ bản
 description: Bạn đã sẵn sàng lao vào thế giới nham hiểm của những câu chuyện kinh dị lạnh thấu xương chưa? Hãy sẵn sàng giải phóng bóng tối sáng tạo của bạn.
-featured: false
-image: https://banmaixanh.vercel.app/image/cover/001-135.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-659.jpg
 tags:
   - viet lach
   - ky nang viet

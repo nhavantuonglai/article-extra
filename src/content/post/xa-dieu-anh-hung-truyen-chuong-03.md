@@ -2,8 +2,7 @@
 pubDatetime: 2002-07-03T10:10:00Z
 title: Xạ điêu anh hùng truyện | Chương 03
 description: Một trong những tiểu thuyết võ hiệp hay nhất viết về tình yêu. Một mối tình khiến giang hồ dấy động can qua.
-featured: false
-image: https://banmaixanh.vercel.app/image/cover/001-243.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-509.jpg
 tags:
   - thu vien
   - van hoc

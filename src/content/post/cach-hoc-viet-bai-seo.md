@@ -2,7 +2,6 @@
 pubDatetime: 2021-03-26T10:10:00Z
 title: Hướng dẫn học viết SEO chuyên nghiệp cho người không chuyên
 description: Trong thời đại kỹ thuật số hiện nay, sự hiện diện trực tuyến là yếu tố không thể thiếu đối với bất kỳ doanh nghiệp nào.
-featured: false
 image: https://banmaixanh.vercel.app/image/cover/001-110.jpg
 tags:
   - viet lach

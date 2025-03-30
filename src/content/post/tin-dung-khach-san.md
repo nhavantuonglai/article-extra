@@ -2,8 +2,7 @@
 pubDatetime: 2022-07-29T10:10:00Z
 title: Cách sử dụng tín dụng tại khách sạn?
 description: Bạn có thể làm gì với tín dụng tại khách sạn? Khách sạn có thể nâng cao trải nghiệm của khách.
-featured: false
-image: https://banmaixanh.vercel.app/image/cover/001-503.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-260.jpg
 tags:
   - viet thue
   - marketing

@@ -2,8 +2,7 @@
 pubDatetime: 2014-05-18T10:10:00Z
 title: Thám tử lừng danh Conan | Chương 1098
 description: Thám tử lừng danh Conan chương 1098 là tập truyện trinh thám sáng tác bởi Gosho Aoyama, ấn bản phát từ hành từ 1994 trên tạp chí Weekly Shōnen Sunday.
-featured: false
-image: https://banmaixanh.vercel.app/image/cover/001-398.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-437.jpg
 tags:
   - manga
   - gosho aoyama

@@ -2,7 +2,6 @@
 pubDatetime: 2021-01-20T10:10:00Z
 title: Audiophile chân chính là ai?
 description: Audiophile chân chính là những người có đam mê sâu sắc với âm nhạc và chất lượng âm thanh.
-featured: false
 image: https://banmaixanh.vercel.app/image/cover/001-538.jpg
 tags:
   - viet lach

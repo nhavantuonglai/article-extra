@@ -2,7 +2,6 @@
 pubDatetime: 2023-01-01T10:10:00Z
 title: Mỗi ngày trọn một niềm vui cùng Nansen Osho
 description: Thực hành tôn giáo giúp đời sống an lành, hạnh phúc, giác ngộ và mang lại năng lượng tích cực cho bản thân, giá trị đẹp cho cộng đồng.
-featured: false
 image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - ton giao

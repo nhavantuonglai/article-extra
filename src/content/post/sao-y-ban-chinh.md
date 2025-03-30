@@ -2,8 +2,7 @@
 pubDatetime: 2023-04-15T10:10:00Z
 title: Sao y là gì?
 description: Sao y là một trong những dịch vụ được nhiều người tìm hiểu, dựa trên yêu cầu từ các cơ quan hành chính, hoặc phục vụ công việc liên quan.
-featured: false
-image: https://banmaixanh.vercel.app/image/cover/001-424.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-170.jpg
 tags:
   - viet thue
   - cong chung

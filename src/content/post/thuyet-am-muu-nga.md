@@ -2,8 +2,7 @@
 pubDatetime: 2023-07-29T10:10:00Z
 title: 5 thuyết âm mưu phổ biến nhất của Nga
 description: Trong khi người Mỹ có thuyết âm mưu yêu thích của riêng họ, có thể cho chúng ta biết rất nhiều về cách họ nghĩ, nhiều người Nga cũng có xu hướng tin vào những trò tai quái toàn cầu.
-featured: false
-image: https://banmaixanh.vercel.app/image/cover/001-280.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-637.jpg
 tags:
   - viet lach
   - thuyet am muu

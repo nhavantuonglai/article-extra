@@ -2,7 +2,6 @@
 pubDatetime: 2018-08-12T10:10:00Z
 title: Chim lửa | Chương 42
 description: Tezuka Osamu qua Chim lửa đặt ra câu hỏi về sự sống, cái chết, ý nghĩa tồn tại, nhấn mạnh con người chỉ thực sự sống khi hòa hợp với thiên nhiên. Đọc Chim lửa (Hi no Tori) chương 42 trong phần dưới đây.
-featured: false
 image: https://banmaixanh.vercel.app/image/cover/001-442.jpg
 tags:
   - manga

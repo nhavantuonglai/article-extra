@@ -2,7 +2,6 @@
 pubDatetime: 2021-02-05T10:10:00Z
 title: Nhập môn loa nghe nhạc chất lượng cao (audiophile) hoàn hảo
 description: Loa nghe nhạc là thiết bị quan trọng trong hệ thống âm thanh, giúp tái tạo âm thanh từ các nguồn phát.
-featured: false
 image: https://banmaixanh.vercel.app/image/cover/001-531.jpg
 tags:
   - viet lach

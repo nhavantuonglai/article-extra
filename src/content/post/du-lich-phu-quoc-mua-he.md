@@ -2,7 +2,6 @@
 pubDatetime: 2021-09-25T10:10:00Z
 title: Địa điểm vui chơi nghỉ ngơi tại Phú Quốc mùa du lịch
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
-featured: false
 image: https://banmaixanh.vercel.app/image/cover/001-663.jpg
 tags:
   - viet thue

@@ -2,8 +2,7 @@
 pubDatetime: 2024-03-17T10:10:00Z
 title: 3 sai lầm thường gặp khi ủy thác, đầu tư tài chính
 description: Chuỗi bài viết của nhavantuonglai về kinh doanh vàng bạc đá quý và quỹ đầu tư sẽ giúp nhà đầu tư khởi nghiệp hiệu quả.
-featured: false
-image: https://banmaixanh.vercel.app/image/cover/001-548.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-711.jpg
 tags:
   - viet thue
   - marketing

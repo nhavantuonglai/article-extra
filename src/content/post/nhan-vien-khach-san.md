@@ -2,8 +2,7 @@
 pubDatetime: 2022-06-04T10:10:00Z
 title: Các vị trí nhân viên khách sạn và cách quản lý hiệu quả
 description: Quản lý thành công là nền tảng để tạo ra một đội ngũ có hiệu suất cao và cung cấp dịch vụ chất lượng nhất quán.
-featured: false
-image: https://banmaixanh.vercel.app/image/cover/001-531.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-266.jpg
 tags:
   - viet thue
   - marketing

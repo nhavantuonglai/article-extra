@@ -2,8 +2,7 @@
 pubDatetime: 2022-06-23T10:10:00Z
 title: Những lợi ích của phần mềm quản lý khách sạn dựa trên đám mây đem đến cho các khách sạn
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
-featured: false
-image: https://banmaixanh.vercel.app/image/cover/001-548.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-096.jpg
 tags:
   - viet thue
   - marketing

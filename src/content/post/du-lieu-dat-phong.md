@@ -2,7 +2,6 @@
 pubDatetime: 2022-04-17T10:10:00Z
 title: 7 cách sử dụng dữ liệu khách đặt phòng để cải thiện doanh thu khách sạn
 description: Bài viết sau sẽ cung cấp 7 cách để khai thác dữ liệu khách đặt phòng để cải thiện doanh số bán phòng cho khách sạn. 
-featured: false
 image: https://banmaixanh.vercel.app/image/cover/001-727.jpg
 tags:
   - viet thue

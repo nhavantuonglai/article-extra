@@ -2,7 +2,6 @@
 pubDatetime: 2023-04-07T10:10:00Z
 title: 10 lời khuyên để giữ cho chó mèo hạnh phúc trong nhà
 description: Thú cưng của chúng ta là một ân sủng cứu rỗi khi chúng ta bị mắc kẹt bên trong. Những cái đuôi vẫy vẫy hạnh phúc.
-featured: false
 image: https://banmaixanh.vercel.app/image/cover/001-543.jpg
 tags:
   - viet lach

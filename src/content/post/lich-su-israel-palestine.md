@@ -2,7 +2,6 @@
 pubDatetime: 2022-09-20T10:10:00Z
 title: Lịch sử thành lập nhà nước Israel và xung đột với người Palestine
 description: Nhà nước Israel được thành lập dựa trên cơ chế nào và nếu có thì những người có trách nhiệm đã lên kế hoạch đối phó với những người vốn đã sống ở mảnh đất đó như thế nào?
-featured: false
 image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - lich su

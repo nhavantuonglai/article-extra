@@ -2,7 +2,6 @@
 pubDatetime: 2023-04-11T10:10:00Z
 title: Tương lai của công nghệ dọn phòng khách sạn
 description: Dưới đây, chúng ta sẽ khám phá lý do tại sao bộ phận dọn phòng lại là điểm khởi đầu quan trọng.
-featured: false
 image: https://banmaixanh.vercel.app/image/cover/001-629.jpg
 tags:
   - viet thue

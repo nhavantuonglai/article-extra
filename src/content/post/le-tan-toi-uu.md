@@ -2,7 +2,6 @@
 pubDatetime: 2022-05-25T10:10:00Z
 title: 6 cách cải thiện hoạt động bộ phận lễ tân khách sạn
 description: Lễ tân có trách nhiệm chào đón khách, trả lời các câu hỏi và giải quyết mọi vấn đề có thể phát sinh trong suốt kỳ nghỉ của họ.
-featured: false
 image: https://banmaixanh.vercel.app/image/cover/001-554.jpg
 tags:
   - viet thue

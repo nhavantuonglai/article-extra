@@ -2,7 +2,6 @@
 pubDatetime: 2021-04-18T10:10:00Z
 title: Viết lách kiếm tiền
 description: Viết lách kiếm tiền không chỉ là một công việc mà còn là một nghệ thuật. Với sự phát triển của công nghệ và internet, cơ hội cho các nhà văn và người viết nội dung ngày càng mở rộng.
-featured: false
 image: https://banmaixanh.vercel.app/image/cover/001-711.jpg
 tags:
   - viet lach

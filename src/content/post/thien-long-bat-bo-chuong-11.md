@@ -2,8 +2,7 @@
 pubDatetime: 2002-03-11T10:10:00Z
 title: Thiên long bát bộ | Chương 11
 description: Trong những tinh phẩm thượng thừa, Thiên Long bát bộ luôn được đánh giá là một trong những kiệt tác của Kim Dung.
-featured: false
-image: https://banmaixanh.vercel.app/image/cover/001-111.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-719.jpg
 tags:
   - thu vien
   - van hoc

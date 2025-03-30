@@ -2,7 +2,6 @@
 pubDatetime: 2006-01-25T10:10:00Z
 title: Edgar Allan Poe | Never bet the devil your head
 description: Edgar Allan Poe (1809 – 1849) là một trong những nhà văn, nhà thơ, và nhà phê bình văn học nổi tiếng nhất nước Mỹ.
-featured: false
 image: https://banmaixanh.vercel.app/image/cover/001-133.jpg
 tags:
   - edgar allan poe

@@ -2,8 +2,7 @@
 pubDatetime: 2021-02-06T10:10:00Z
 title: Làm thế nào để tối ưu trải nghiệm nghe nhạc tại nhà
 description: Việc tối ưu trải nghiệm nghe nhạc tại nhà là một quá trình không chỉ đòi hỏi sự đầu tư về thiết bị mà còn cần hiểu biết về cách sắp xếp.
-featured: false
-image: https://banmaixanh.vercel.app/image/cover/001-512.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-153.jpg
 tags:
   - viet lach
   - thuong thuc am thanh

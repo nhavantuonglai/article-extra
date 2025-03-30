@@ -2,7 +2,6 @@
 pubDatetime: 2005-06-25T10:10:00Z
 title: Biên niên ký chim vặn dây cót | Chương 55
 description: Biên niên ký chim vặn dây cót kể về tiếng chim vang lên trong khoảnh khắc quyết định, khi con người tỉnh thức tiếng lòng thầm kín.
-featured: false
 image: https://banmaixanh.vercel.app/image/cover/001-649.jpg
 tags:
   - thu vien

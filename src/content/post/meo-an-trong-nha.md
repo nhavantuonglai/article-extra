@@ -2,7 +2,6 @@
 pubDatetime: 2021-04-08T10:10:00Z
 title: Cho mèo ăn trong nhà
 description: Vì mèo trong nhà không có cơ hội tập thể dục giống như các đối tác ngoài trời của chúng, nên việc cắt tỉa có thể khó khăn hơn cho chúng.
-featured: false
 image: https://banmaixanh.vercel.app/image/cover/001-722.jpg
 tags:
   - viet lach

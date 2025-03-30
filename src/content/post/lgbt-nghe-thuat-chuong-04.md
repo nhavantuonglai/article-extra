@@ -2,7 +2,6 @@
 pubDatetime: 2023-01-11T10:10:00Z
 title: Nhận thức sinh viên nghệ thuật về LGBT | Kết luận và kiến nghị
 description: Nghiên cứu về nhận thức LGBT của sinh viên Đại học Nghệ thuật – Huế, tài trợ bởi Đại học Sư phạm – Huế.
-featured: false
 image: https://banmaixanh.vercel.app/image/cover/001-548.jpg
 tags:
   - viet lach

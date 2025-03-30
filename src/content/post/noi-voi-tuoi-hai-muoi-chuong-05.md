@@ -2,8 +2,7 @@
 pubDatetime: 2020-10-06T10:10:00Z
 title: Nói với tuổi hai mươi | Chương 05
 description: Thiền sư Thích Nhất Hạnh, sáng lập Làng Mai, truyền cảm hứng Phật giáo dấn thân, chánh niệm, giúp con người tĩnh tâm, hạnh phúc, hòa hợp thiên nhiên.
-featured: false
-image: https://banmaixanh.vercel.app/image/cover/001-251.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-364.jpg
 tags:
   - thu vien
   - van hoc

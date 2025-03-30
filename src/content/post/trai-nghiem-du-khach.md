@@ -2,8 +2,7 @@
 pubDatetime: 2022-08-01T10:10:00Z
 title: Quản lý trải nghiệm khách hàng trong khách sạn là gì? Các giải pháp để áp dụng ngay hôm nay
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
-featured: false
-image: https://banmaixanh.vercel.app/image/cover/001-429.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-579.jpg
 tags:
   - viet thue
   - marketing

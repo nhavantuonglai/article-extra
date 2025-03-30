@@ -2,8 +2,7 @@
 pubDatetime: 2022-06-15T10:10:00Z
 title: Mặt trái của kênh OTA và cách để thoát khỏi sự lệ thuộc của chúng trong bán phòng trực tuyến
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
-featured: false
-image: https://banmaixanh.vercel.app/image/cover/001-649.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-672.jpg
 tags:
   - viet thue
   - marketing

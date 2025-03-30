@@ -2,7 +2,6 @@
 pubDatetime: 2021-04-14T10:10:00Z
 title: Để học viết lách tốt thì cần làm gì?
 description: Viết lách là một kỹ năng quan trọng không chỉ trong học tập mà còn trong công việc và đời sống hàng ngày. Tuy nhiên, không phải ai cũng có thể viết tốt ngay từ đầu.
-featured: false
 image: https://banmaixanh.vercel.app/image/cover/001-227.jpg
 tags:
   - viet lach

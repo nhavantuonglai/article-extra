@@ -2,7 +2,6 @@
 pubDatetime: 2022-02-04T10:10:00Z
 title: Quản lý khách sạn trong mùa du lịch cao điểm
 description: Mùa du lịch cao điểm là khoảng thời gian trong năm khi nhu cầu cao nhất và tỷ lệ lấp đầy tăng vọt (hy vọng rằng doanh thu trên mỗi khách (RevPAM) cũng vậy).
-featured: false
 image: https://banmaixanh.vercel.app/image/cover/001-729.jpg
 tags:
   - viet thue

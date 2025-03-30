@@ -2,7 +2,6 @@
 pubDatetime: 2021-12-06T10:10:00Z
 title: Với dân văn phòng giá vàng hôm nay có quan trọng?
 description: Chuỗi bài viết của nhavantuonglai về kinh doanh vàng bạc đá quý và quỹ đầu tư sẽ giúp nhà đầu tư khởi nghiệp hiệu quả.
-featured: false
 image: https://banmaixanh.vercel.app/image/cover/001-548.jpg
 tags:
   - viet thue

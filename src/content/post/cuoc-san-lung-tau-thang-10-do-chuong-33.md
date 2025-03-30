@@ -2,7 +2,6 @@
 pubDatetime: 2018-10-04T10:10:00Z
 title: Cuộc săn lùng tàu tháng 10 đỏ | Chương 33
 description: Cuộc săn lùng tàu tháng 10 Đỏ là tiểu thuyết tình báo của Tom Clancy (1984), được chuyển thể thành phim cùng tên năm 1990.
-featured: false
 image: https://banmaixanh.vercel.app/image/cover/001-133.jpg
 tags:
   - thu vien

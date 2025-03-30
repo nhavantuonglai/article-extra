@@ -2,7 +2,6 @@
 pubDatetime: 2023-03-07T10:10:00Z
 title: Câu chuyện các khách sạn chuyển đổi cấu trúc hoạt động
 description: Mọi người đều yêu thích một câu chuyện thành công. Trên thực tế, chúng tôi có hơn 100 câu chuyện như vậy trên trang khách hàng của mình.
-featured: false
 image: https://banmaixanh.vercel.app/image/cover/001-511.jpg
 tags:
   - viet thue

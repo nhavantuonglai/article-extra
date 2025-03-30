@@ -2,8 +2,7 @@
 pubDatetime: 2024-02-03T10:10:00Z
 title: Hướng dẫn viết luận văn đạt điểm cao
 description: Viết lách luận văn là một nhiệm vụ quan trọng và phức tạp mà hầu hết các sinh viên đại học và sau đại học phải đối mặt. Đó không chỉ là quá trình trình bày kết quả nghiên cứu mà còn là cơ hội để sinh viên chứng minh khả năng.
-featured: false
-image: https://banmaixanh.vercel.app/image/cover/001-331.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-461.jpg
 tags:
   - viet lach
   - ky nang viet

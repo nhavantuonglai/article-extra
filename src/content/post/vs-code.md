@@ -2,8 +2,7 @@
 pubDatetime: 2024-05-30T10:10:00Z
 title: Tìm hiểu toàn diện về Visual Studio Code
 description: Visual Studio Code là công cụ mạnh mẽ và phổ biến cho việc chỉnh sửa và quản lý mã nguồn, đặc biệt thích hợp với việc phát triển website.
-featured: false
-image: https://banmaixanh.vercel.app/image/cover/001-623.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-106.jpg
 tags:
   - webflow
   - website

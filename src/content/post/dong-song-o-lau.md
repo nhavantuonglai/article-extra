@@ -2,7 +2,6 @@
 pubDatetime: 2023-07-11T10:10:00Z
 title: Ô Lâu nước chảy thành dòng và câu chuyện cổ vật dưới đáy sông
 description: Ô Lâu nước chảy thành dòng, khoét từng đoạn và bồi từng khúc, uốn lượn chia đất bên này của người sống và bên kia là người chết.
-featured: false
 image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - viet lach

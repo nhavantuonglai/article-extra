@@ -2,8 +2,7 @@
 pubDatetime: 2021-02-09T10:10:00Z
 title: Nhập môn thưởng thức âm thanh (audiophile)
 description: Thưởng thức âm thanh là một nghệ thuật và khoa học, giúp bạn tận hưởng những giai điệu tinh tế từ các thiết bị âm thanh.
-featured: false
-image: https://banmaixanh.vercel.app/image/cover/001-501.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-061.jpg
 tags:
   - viet lach
   - thuong thuc am thanh

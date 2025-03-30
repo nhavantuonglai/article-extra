@@ -2,7 +2,6 @@
 pubDatetime: 2023-01-24T10:10:00Z
 title: Tìm hiểu các công nghệ âm thanh (audiophile) hiện nay
 description: Công nghệ âm thanh đã phát triển vượt bậc trong những thập kỷ qua, từ âm thanh monophonic đơn giản đến các hệ thống âm thanh surround phức tạp.
-featured: false
 image: https://banmaixanh.vercel.app/image/cover/001-535.jpg
 tags:
   - viet lach

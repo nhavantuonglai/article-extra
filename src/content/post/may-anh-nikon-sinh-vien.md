@@ -2,7 +2,6 @@
 pubDatetime: 2022-11-15T10:10:00Z
 title: Nên mua máy ảnh Nikon nào cho hợp túi tiền sinh viên?
 description: Máy ảnh Nikon là một trong những thương hiệu nổi tiếng và được ưa chuộng nhất trong ngành nhiếp ảnh.
-featured: false
 image: https://banmaixanh.vercel.app/image/cover/001-256.jpg
 tags:
   - affiliate

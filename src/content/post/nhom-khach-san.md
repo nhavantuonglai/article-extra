@@ -2,8 +2,7 @@
 pubDatetime: 2022-06-05T10:10:00Z
 title: Cách để thu hút khách đặt phòng nhóm đến khách sạn của bạn
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
-featured: false
-image: https://banmaixanh.vercel.app/image/cover/001-649.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-039.jpg
 tags:
   - viet thue
   - marketing

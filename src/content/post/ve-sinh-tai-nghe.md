@@ -2,8 +2,7 @@
 pubDatetime: 2021-02-25T10:10:00Z
 title: Mẹo bảo quản và vệ sinh thiết bị âm thanh
 description: Chọn một cặp tai nghe tốt có thể là một nhiệm vụ khó khăn, đặc biệt là khi thị trường hiện nay có vô số lựa chọn với nhiều tính năng và thiết kế khác nhau.
-featured: false
-image: https://banmaixanh.vercel.app/image/cover/001-548.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-003.jpg
 tags:
   - viet lach
   - thuong thuc am thanh

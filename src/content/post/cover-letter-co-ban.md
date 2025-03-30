@@ -2,7 +2,6 @@
 pubDatetime: 2021-04-03T10:10:00Z
 title: Hướng dẫn cơ bản để viết cover letter hoàn hảo
 description: Khi nói đến cover letter, chúng thường là ấn tượng đầu tiên bạn tạo ra đối với một nhà tuyển dụng tiềm năng. Đó là cơ hội để bạn thể hiện kỹ năng, kinh nghiệm và tính cách của mình theo cách khiến bạn khác biệt với các ứng cử viên khác.
-featured: false
 image: https://banmaixanh.vercel.app/image/cover/001-349.jpg
 tags:
   - viet lach

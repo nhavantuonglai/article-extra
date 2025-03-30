@@ -2,8 +2,7 @@
 pubDatetime: 2024-03-29T10:10:00Z
 title: Tìm hiểu về các blog viết lách chất lượng cao
 description: Danh sách các blog viết lách chất lượng cao, nơi bạn có thể học hỏi, trau dồi kỹ năng và tìm kiếm cơ hội nghề nghiệp.
-featured: false
-image: https://banmaixanh.vercel.app/image/cover/001-422.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-278.jpg
 tags:
   - viet lach
   - ky nang viet

@@ -2,7 +2,6 @@
 pubDatetime: 2021-02-01T10:10:00Z
 title: 5 loại driver tai nghe người chơi âm thanh nên biết
 description: Headphone driver là một trong những yếu tố quan trọng nhất quyết định chất lượng âm thanh của tai nghe.
-featured: false
 image: https://banmaixanh.vercel.app/image/cover/001-430.jpg
 tags:
   - viet lach

@@ -2,8 +2,7 @@
 pubDatetime: 2022-06-09T10:10:00Z
 title: Tại sao khách sạn cần bán phòng trên kênh OTA?
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
-featured: false
-image: https://banmaixanh.vercel.app/image/cover/001-205.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-126.jpg
 tags:
   - viet thue
   - marketing

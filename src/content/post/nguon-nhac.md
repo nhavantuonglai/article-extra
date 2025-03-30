@@ -2,8 +2,7 @@
 pubDatetime: 2021-02-07T10:10:00Z
 title: Nhập môn nguồn nghe nhạc chất lượng cao (audiophile)
 description: Nguồn nhạc chất lượng cao đang trở thành xu hướng được nhiều người yêu âm nhạc lựa chọn để tận hưởng những trải nghiệm nghe nhạc tốt nhất.
-featured: false
-image: https://banmaixanh.vercel.app/image/cover/001-536.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-085.jpg
 tags:
   - viet lach
   - thuong thuc am thanh

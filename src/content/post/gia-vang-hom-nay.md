@@ -2,7 +2,6 @@
 pubDatetime: 2021-11-25T10:10:00Z
 title: Giá vàng hôm nay ảnh hưởng sâu rộng đến thị trường như thế nào?
 description: Chuỗi bài viết của nhavantuonglai về kinh doanh vàng bạc đá quý và quỹ đầu tư sẽ giúp nhà đầu tư khởi nghiệp hiệu quả.
-featured: false
 image: https://banmaixanh.vercel.app/image/cover/001-419.jpg
 tags:
   - viet thue

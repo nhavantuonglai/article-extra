@@ -2,7 +2,6 @@
 pubDatetime: 2024-07-08T10:10:00Z
 title: Mèo học tên của những người bạn mèo của mình như thế nào?
 description: Mèo không có vẻ gì lắng nghe các cuộc trò chuyện của con người, nhưng thực tế là chúng có lắng nghe.
-featured: false
 image: https://banmaixanh.vercel.app/image/cover/001-547.jpg
 tags:
   - khoa hoc

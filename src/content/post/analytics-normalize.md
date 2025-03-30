@@ -2,7 +2,6 @@
 pubDatetime: 2023-01-15T10:10:00Z
 title: Giới thiệu công cụ chuẩn hóa dữ liệu thô
 description: Công cụ chuẩn hóa dữ liệu thô là công cụ giúp xử lý và làm sạch dữ liệu trước khi đưa vào sử dụng khi lên bài SEO và chỉnh sửa file tiêu đề markdown.
-featured: false
 image: https://banmaixanh.vercel.app/image/cover/001-536.jpg
 tags:
   - developer

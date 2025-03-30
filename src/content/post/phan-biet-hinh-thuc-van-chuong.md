@@ -2,8 +2,7 @@
 pubDatetime: 2021-04-23T10:10:00Z
 title: Phân biệt các hình thức văn chương
 description: Viết là một công cụ mạnh mẽ cho phép chúng ta bày tỏ suy nghĩ, cảm xúc và ý tưởng của mình.
-featured: false
-image: https://banmaixanh.vercel.app/image/cover/001-349.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-566.jpg
 tags:
   - viet lach
   - ky nang viet

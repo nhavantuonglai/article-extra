@@ -2,8 +2,7 @@
 pubDatetime: 2002-04-14T10:10:00Z
 title: Thiên long bát bộ | Chương 44
 description: Trong những tinh phẩm thượng thừa, Thiên Long bát bộ luôn được đánh giá là một trong những kiệt tác của Kim Dung.
-featured: false
-image: https://banmaixanh.vercel.app/image/cover/001-144.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-431.jpg
 tags:
   - thu vien
   - van hoc

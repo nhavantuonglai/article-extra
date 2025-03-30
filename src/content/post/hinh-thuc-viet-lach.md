@@ -2,7 +2,6 @@
 pubDatetime: 2021-04-12T10:10:00Z
 title: Tìm hiểu về các hình thức trong viết lách
 description: Viết là một công cụ mạnh mẽ cho phép chúng ta thể hiện suy nghĩ, cảm xúc và ý tưởng của mình. Nó là một hình thức giao tiếp đã tồn tại trong nhiều thế kỷ và đã phát triển thành nhiều loại, phong cách.
-featured: false
 image: https://banmaixanh.vercel.app/image/cover/001-397.jpg
 tags:
   - viet lach

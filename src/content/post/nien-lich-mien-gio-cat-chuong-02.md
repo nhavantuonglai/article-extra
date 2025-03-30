@@ -2,8 +2,7 @@
 pubDatetime: 2018-10-02T10:10:00Z
 title: Niên lịch miền gió cát | Chương 02
 description: Niên lịch miền gió cát hòa quyện lịch sử tự nhiên, nghệ thuật miêu tả phong cảnh và triết học qua ghi chép về sinh vật tại trang trại Wisconsin.
-featured: false
-image: https://banmaixanh.vercel.app/image/cover/001-202.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-733.jpg
 tags:
   - aldo leopold
   - nien lich mien gio cat

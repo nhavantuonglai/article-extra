@@ -2,8 +2,7 @@
 pubDatetime: 2024-02-09T10:10:00Z
 title: 10 lời khuyên xây dựng nhân vật khi viết lách
 description: Dưới đây là 10 lời khuyên xây dựng nhân vật khi viết lách. Lần đầu tiên đưa ra những đặc điểm và tính cách nhân vật hư cấu có vẻ gần như không thể khó khăn.
-featured: false
-image: https://banmaixanh.vercel.app/image/cover/001-548.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-173.jpg
 tags:
   - viet lach
   - ky nang viet

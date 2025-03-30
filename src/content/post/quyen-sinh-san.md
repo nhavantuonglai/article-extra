@@ -2,8 +2,7 @@
 pubDatetime: 2023-04-01T10:10:00Z
 title: Fake news về quyền sinh sản của phụ nữ và những điều cần biết
 description: Fake news chống phá thai hoặc anti-abortion là việc cố tình lan truyền fake news hoặc gây hiểu lầm về phá thai với mục đích fake news cho những người tìm kiếm thông tin chăm sóc sức khỏe sinh sản chính xác.
-featured: false
-image: https://banmaixanh.vercel.app/image/cover/001-354.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-316.jpg
 tags:
   - viet lach
   - fake news

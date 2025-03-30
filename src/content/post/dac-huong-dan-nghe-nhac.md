@@ -2,7 +2,6 @@
 pubDatetime: 2021-01-26T10:10:00Z
 title: Hướng dẫn cài đặt và sử dụng DAC cho audiophile
 description: DAC (digital-to-analog converter) là thiết bị không thể thiếu đối với những người yêu thích âm thanh chất lượng cao.
-featured: false
 image: https://banmaixanh.vercel.app/image/cover/001-554.jpg
 tags:
   - viet lach

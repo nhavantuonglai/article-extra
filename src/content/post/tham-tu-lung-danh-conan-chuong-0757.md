@@ -2,8 +2,7 @@
 pubDatetime: 2011-03-27T10:10:00Z
 title: Thám tử lừng danh Conan | Chương 0757
 description: Thám tử lừng danh Conan chương 0757 là tập truyện trinh thám sáng tác bởi Gosho Aoyama, ấn bản phát từ hành từ 1994 trên tạp chí Weekly Shōnen Sunday.
-featured: false
-image: https://banmaixanh.vercel.app/image/cover/001-057.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-372.jpg
 tags:
   - manga
   - gosho aoyama

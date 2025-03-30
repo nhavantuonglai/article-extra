@@ -2,8 +2,7 @@
 pubDatetime: 2021-04-10T10:10:00Z
 title: Đọc vị ngôn ngữ cơ thể của mèo (body language cat)
 description: Là cha mẹ mèo, bạn có thể háo hức muốn được giải thích ngôn ngữ cơ thể của mèo (body language cat).
-featured: false
-image: https://banmaixanh.vercel.app/image/cover/001-646.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-100.jpg
 tags:
   - viet lach
   - thu cung

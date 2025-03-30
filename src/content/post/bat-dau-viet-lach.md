@@ -2,7 +2,6 @@
 pubDatetime: 2021-03-21T10:10:00Z
 title: Làm thế nào để bắt đầu viết lách?
 description: Viết bài chuyên nghiệp là một kỹ năng quan trọng, không chỉ trong các ngành nghề liên quan đến viết lách mà còn trong nhiều lĩnh vực khác nhau như kinh doanh, giáo dục, và truyền thông.
-featured: false
 image: https://banmaixanh.vercel.app/image/cover/001-141.jpg
 tags:
   - viet lach

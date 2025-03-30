@@ -2,8 +2,7 @@
 pubDatetime: 2024-02-14T10:10:00Z
 title: Những phương pháp viết lách hiệu quả
 description: Viết lách là một kỹ năng quan trọng trong nhiều lĩnh vực, từ học thuật, công việc cho đến sáng tạo nghệ thuật. Để viết lách hiệu quả, cần phải có một phương pháp khoa học và kỹ thuật rõ ràng.
-featured: false
-image: https://banmaixanh.vercel.app/image/cover/001-541.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-562.jpg
 tags:
   - viet lach
   - ky nang viet

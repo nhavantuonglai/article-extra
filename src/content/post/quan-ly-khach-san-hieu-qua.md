@@ -2,8 +2,7 @@
 pubDatetime: 2022-07-12T10:10:00Z
 title: Quản lý khách sạn hiệu quả ảnh hưởng đến thành công của khách sạn như thế nào?
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
-featured: false
-image: https://banmaixanh.vercel.app/image/cover/001-499.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-384.jpg
 tags:
   - viet thue
   - marketing

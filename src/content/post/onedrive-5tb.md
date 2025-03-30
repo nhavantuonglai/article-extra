@@ -2,8 +2,7 @@
 pubDatetime: 2023-03-10T10:10:00Z
 title: Cách đăng ký Onedrive 5tb miễn phí vĩnh viễn bằng Microsoft Developer Program
 description: Sau đây là cách đăng ký Onedrive 5tb miễn phí vĩnh viễn bằng tham gia Microsoft Developer Program, một trong những lợi ích nổi bật nhất là việc truy cập vào Onedrive 5TB hoàn toàn miễn phí.
-featured: false
-image: https://banmaixanh.vercel.app/image/cover/001-536.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-714.jpg
 tags:
   - microsoft developer program
   - microsoft developer

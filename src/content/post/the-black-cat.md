@@ -2,8 +2,7 @@
 pubDatetime: 2006-01-30T10:10:00Z
 title: Edgar Allan Poe | Con mèo đen
 description: Edgar Allan Poe (1809 – 1849) là một trong những nhà văn, nhà thơ, và nhà phê bình văn học nổi tiếng nhất nước Mỹ.
-featured: false
-image: https://banmaixanh.vercel.app/image/cover/001-269.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-537.jpg
 tags:
   - edgar allan poe
   - thu vien

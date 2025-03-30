@@ -2,7 +2,6 @@
 pubDatetime: 2021-03-04T10:10:00Z
 title: Điều trị bệnh bạch hầu như thế nào?
 description: Điều trị bệnh bạch cầu phụ thuộc vào loại bệnh, giai đoạn bệnh và tình trạng sức khỏe của bệnh nhân.
-featured: false
 image: https://banmaixanh.vercel.app/image/cover/001-534.jpg
 tags:
   - y hoc

@@ -2,8 +2,7 @@
 pubDatetime: 2021-03-05T10:10:00Z
 title: Hướng dẫn viết lách hiệu quả
 description: Viết lách là một khía cạnh không thể phủ nhận của cuộc sống hiện đại. Từ những bài viết trên blog cá nhân, các tài liệu kinh doanh, cho đến các nghiên cứu học thuật.
-featured: false
-image: https://banmaixanh.vercel.app/image/cover/001-435.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-687.jpg
 tags:
   - viet lach
   - ky nang viet

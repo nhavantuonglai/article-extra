@@ -2,7 +2,6 @@
 pubDatetime: 2018-08-18T10:10:00Z
 title: Chim lửa | Chương 48
 description: Tezuka Osamu qua Chim lửa đặt ra câu hỏi về sự sống, cái chết, ý nghĩa tồn tại, nhấn mạnh con người chỉ thực sự sống khi hòa hợp với thiên nhiên. Đọc Chim lửa (Hi no Tori) chương 48 trong phần dưới đây.
-featured: false
 image: https://banmaixanh.vercel.app/image/cover/001-448.jpg
 tags:
   - manga

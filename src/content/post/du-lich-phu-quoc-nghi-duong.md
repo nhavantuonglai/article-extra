@@ -2,7 +2,6 @@
 pubDatetime: 2021-09-27T10:10:00Z
 title: Nghỉ dưỡng Phú Quốc có gì hấp dẫn mà nhiều người chọn để trải nghiệm?
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
-featured: false
 image: https://banmaixanh.vercel.app/image/cover/001-663.jpg
 tags:
   - viet thue

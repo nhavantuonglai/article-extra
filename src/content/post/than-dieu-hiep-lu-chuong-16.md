@@ -2,8 +2,7 @@
 pubDatetime: 2002-05-16T10:10:00Z
 title: Thần điêu hiệp lữ | Chương 16
 description: Một trong những tiểu thuyết võ hiệp hay nhất viết về tình yêu. Một mối tình khiến giang hồ dấy động can qua.
-featured: false
-image: https://banmaixanh.vercel.app/image/cover/001-216.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-013.jpg
 tags:
   - thu vien
   - van hoc

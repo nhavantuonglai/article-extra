@@ -2,7 +2,6 @@
 pubDatetime: 2024-04-26T10:10:00Z
 title: App Hosting so với Hosting gốc thì nên sử dụng cái nào?
 description: Nếu bạn đang xây dựng một ứng dụng website full-stack với các framework hiện đại, được hiển thị bằng máy chủ như Angular và Next, hãy sử dụng Firebase App Hosting.
-featured: false
 image: https://banmaixanh.vercel.app/image/cover/001-750.jpg
 tags:
   - google

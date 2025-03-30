@@ -2,7 +2,6 @@
 pubDatetime: 2021-06-09T10:10:00Z
 title: Đánh giá chất lượng film Fujicolor 200
 description: Đánh giá chất lượng film Fujicolor 200 giúp nhiếp ảnh gia hình dung chất lượng, đáp ứng nhu cầu chụp ảnh và tạo trải nghiệm tích cực khi sử dụng.
-featured: false
 image: https://banmaixanh.vercel.app/image/cover/001-121.jpg
 tags:
   - affiliate

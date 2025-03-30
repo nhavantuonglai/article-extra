@@ -2,7 +2,6 @@
 pubDatetime: 2022-02-10T10:10:00Z
 title: Chính sách hoàn tiền (chargeback) tại khách sạn và cách xử lý
 description: Chargeback luôn là một vấn đề đối với các nhà quản lý khách sạn. Đây là một trở ngại khi nói đến lợi nhuận, và quá trình xử lý chargeback thường tốn thời gian.
-featured: false
 image: https://banmaixanh.vercel.app/image/cover/001-642.jpg
 tags:
   - viet thue

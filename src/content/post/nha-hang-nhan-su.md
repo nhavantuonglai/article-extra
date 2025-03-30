@@ -2,8 +2,7 @@
 pubDatetime: 2023-02-03T10:10:00Z
 title: Biến những thách thức về nhân sự của nhà hàng thành cơ hội
 description: Tìm hiểu các chiến lược tiếp thị nhà hàng hiệu quả trong chuỗi bài viết sau của nhavantuonglai để áp dụng và đem lại hiệu quả thiết thực cho giải pháp của bạn.
-featured: false
-image: https://banmaixanh.vercel.app/image/cover/001-649.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-251.jpg
 tags:
   - viet thue
   - marketing

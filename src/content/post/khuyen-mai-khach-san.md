@@ -2,7 +2,6 @@
 pubDatetime: 2022-05-17T10:10:00Z
 title: Chiến lược giá khuyến mãi trong ngành khách sạn
 description: Mọi người đều yêu thích các chương trình khuyến mãi, đặc biệt là khi nói đến khách sạn.
-featured: false
 image: https://banmaixanh.vercel.app/image/cover/001-208.jpg
 tags:
   - viet thue

@@ -2,8 +2,7 @@
 pubDatetime: 2021-02-20T10:10:00Z
 title: Hướng dẫn cách tối ưu âm thanh khi nghe nhạc
 description: Headphone driver là một trong những yếu tố quan trọng nhất quyết định chất lượng âm thanh của tai nghe.
-featured: false
-image: https://banmaixanh.vercel.app/image/cover/001-534.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-137.jpg
 tags:
   - viet lach
   - thuong thuc am thanh

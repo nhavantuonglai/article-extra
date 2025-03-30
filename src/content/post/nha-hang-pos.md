@@ -2,8 +2,7 @@
 pubDatetime: 2023-02-07T10:10:00Z
 title: 3 lợi ích của việc tích hợp POS cho nhà hàng
 description: Tìm hiểu các chiến lược tiếp thị nhà hàng hiệu quả trong chuỗi bài viết sau của nhavantuonglai để áp dụng và đem lại hiệu quả thiết thực cho giải pháp của bạn.
-featured: false
-image: https://banmaixanh.vercel.app/image/cover/001-517.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-746.jpg
 tags:
   - viet thue
   - marketing

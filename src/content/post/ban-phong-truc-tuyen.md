@@ -2,7 +2,6 @@
 pubDatetime: 2022-01-20T10:10:00Z
 title: Các kênh bán phòng trực tuyến quan trọng nhất của khách sạn
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
-featured: false
 image: https://banmaixanh.vercel.app/image/cover/001-540.jpg
 tags:
   - viet thue

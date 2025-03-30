@@ -2,8 +2,7 @@
 pubDatetime: 2021-02-27T10:10:00Z
 title: Xu hướng công nghệ âm thanh hiện đại cho audiophile
 description: Chọn một cặp tai nghe tốt có thể là một nhiệm vụ khó khăn, đặc biệt là khi thị trường hiện nay có vô số lựa chọn với nhiều tính năng và thiết kế khác nhau.
-featured: false
-image: https://banmaixanh.vercel.app/image/cover/001-557.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-310.jpg
 tags:
   - viet lach
   - thuong thuc am thanh

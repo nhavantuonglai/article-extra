@@ -2,7 +2,6 @@
 pubDatetime: 2021-04-16T10:10:00Z
 title: Say nắng ở mèo
 description: Say nắng ở mèo có thể phát triển do tiếp xúc quá nhiều với thời tiết ấm áp. Mèo, như chúng ta biết, thích ra ngoài và khám phá thế giới xung quanh.
-featured: false
 image: https://banmaixanh.vercel.app/image/cover/001-489.jpg
 tags:
   - viet lach

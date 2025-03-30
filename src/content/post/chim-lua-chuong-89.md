@@ -2,7 +2,6 @@
 pubDatetime: 2018-09-19T10:10:00Z
 title: Chim lửa | Chương 89
 description: Tezuka Osamu qua Chim lửa đặt ra câu hỏi về sự sống, cái chết, ý nghĩa tồn tại, nhấn mạnh con người chỉ thực sự sống khi hòa hợp với thiên nhiên. Đọc Chim lửa (Hi no Tori) chương 89 trong phần dưới đây.
-image: https://banmaixanh.vercel.app/image/cover/001-549.jpg
 featured: false
 tags:
   - manga

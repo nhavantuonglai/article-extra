@@ -2,8 +2,7 @@
 pubDatetime: 2019-12-05T10:10:00Z
 title: Người thầy của tỉnh thức và thương yêu | Chương 05
 description: Tôi viết Đường Xưa Mây Trắng ở quán Xóm Thượng, khi chưa có lò sưởi trung ương, chỉ một lò củi nhỏ giữa trời lạnh.
-featured: false
-image: https://banmaixanh.vercel.app/image/cover/001-294.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-442.jpg
 tags:
   - thu vien
   - van hoc

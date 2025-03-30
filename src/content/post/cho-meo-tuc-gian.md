@@ -2,7 +2,6 @@
 pubDatetime: 2024-07-09T10:10:00Z
 title: Chó của bạn có biết khi nào mèo của bạn tức giận không?
 description: Chúng ta đã biết rằng động vật có cảm xúc, và chúng có thể hiểu được cảm xúc của con người. Nhưng liệu chúng có hiểu được cảm xúc của nhau không?
-featured: false
 image: https://banmaixanh.vercel.app/image/cover/001-544.jpg
 tags:
   - khoa hoc

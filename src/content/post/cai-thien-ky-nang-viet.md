@@ -2,7 +2,6 @@
 pubDatetime: 2021-03-30T10:10:00Z
 title: Làm thế nào để cải thiện kỹ năng viết lách?
 description: Viết lách không chỉ là kỹ năng hữu ích, mà còn là công việc thú vị. Chúng giúp bạn thể hiện ý tưởng, suy nghĩ, cảm xúc lẫn quan điểm thành câu chữ rõ ràng, sáng tạo.
-featured: false
 image: https://banmaixanh.vercel.app/image/cover/001-121.jpg
 tags:
   - viet lach

@@ -2,8 +2,7 @@
 pubDatetime: 2023-02-08T10:10:00Z
 title: Tìm hiểu những xu hướng hiện tại và tương lai của hệ thống POS cho nhà hàng
 description: Tìm hiểu các chiến lược tiếp thị nhà hàng hiệu quả trong chuỗi bài viết sau của nhavantuonglai để áp dụng và đem lại hiệu quả thiết thực cho giải pháp của bạn.
-featured: false
-image: https://banmaixanh.vercel.app/image/cover/001-517.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-755.jpg
 tags:
   - viet thue
   - marketing

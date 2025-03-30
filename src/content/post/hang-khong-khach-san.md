@@ -2,7 +2,6 @@
 pubDatetime: 2023-05-04T10:10:00Z
 title: Khách sạn có thể học hỏi được gì từ ngành hàng không để kinh doanh tốt hơn?
 description: Mặc dù ngành hàng không mới chỉ tồn tại trong một phần nhỏ thời gian so với khách sạn, họ đã tiến xa trong một số lĩnh vực.
-featured: false
 image: https://banmaixanh.vercel.app/image/cover/001-730.jpg
 tags:
   - viet thue

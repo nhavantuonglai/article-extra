@@ -2,8 +2,7 @@
 pubDatetime: 2025-02-04T10:10:00Z
 title: Dịch vụ viết SEO để tăng độ phủ, cải thiện chuyển đổi trên website
 description: Không có một dòng chảy ổn định của khách hàng mới và khách hàng hiện tại mua sản phẩm và dịch vụ của doanh nghiệp bạn, doanh nghiệp của bạn sẽ gần như đứng yên.
-featured: false
-image: https://banmaixanh.vercel.app/image/cover/001-406.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-203.jpg
 tags:
   - viet lach
   - ky nang viet

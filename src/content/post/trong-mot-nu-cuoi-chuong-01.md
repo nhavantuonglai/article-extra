@@ -2,8 +2,7 @@
 pubDatetime: 2021-04-01T10:10:00Z
 title: Trồng một nụ cười | Chương 01
 description: Thiền sư Thích Nhất Hạnh, sáng lập Làng Mai, truyền cảm hứng Phật giáo dấn thân, chánh niệm, giúp con người tĩnh tâm, hạnh phúc, hòa hợp thiên nhiên.
-featured: false
-image: https://banmaixanh.vercel.app/image/cover/001-551.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-074.jpg
 tags:
   - thu vien
   - van hoc

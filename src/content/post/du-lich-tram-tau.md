@@ -2,7 +2,6 @@
 pubDatetime: 2021-10-18T10:10:00Z
 title: Cẩm nang du lịch Trạm Tấu
 description: Cẩm nang du lịch sau sẽ giúp người đọc có thêm hiểu biết hữu ích, giúp chuyến di lịch của mình trở nên ấn tượng và thú vị hơn bao giờ hết.
-featured: false
 image: https://banmaixanh.vercel.app/image/cover/001-601.jpg
 tags:
   - cam nang du lich

@@ -2,7 +2,6 @@
 pubDatetime: 2021-10-29T10:10:00Z
 title: Hướng dẫn viết kịch bản hiệu quả
 description: Viết kịch bản không chỉ đơn giản là việc đưa ra những lời thoại và hành động của nhân vật lên giấy. Đó là một quá trình sáng tạo phức tạp đòi hỏi sự kết hợp giữa nghệ thuật và kỹ thuật.
-featured: false
 image: https://banmaixanh.vercel.app/image/cover/001-115.jpg
 tags:
   - viet lach

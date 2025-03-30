@@ -2,7 +2,6 @@
 pubDatetime: 2021-01-30T10:10:00Z
 title: Tìm hiểu các công nghệ âm thanh (audiophile) hiện nay
 description: Headphone AMP là thiết bị giúp khuếch đại tín hiệu âm thanh trước khi đến tai nghe, cải thiện chất lượng âm thanh.
-featured: false
 image: https://banmaixanh.vercel.app/image/cover/001-539.jpg
 tags:
   - viet lach

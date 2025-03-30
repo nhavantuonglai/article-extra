@@ -2,7 +2,6 @@
 pubDatetime: 2024-03-27T10:10:00Z
 title: Bí quyết viết lách của các nhà văn nổi tiếng
 description: Viết lách là một nghệ thuật, và những nhà văn nổi tiếng đã đúc kết được nhiều bí quyết quý giá từ kinh nghiệm sáng tác của mình.
-featured: false
 image: https://banmaixanh.vercel.app/image/cover/001-423.jpg
 tags:
   - viet lach

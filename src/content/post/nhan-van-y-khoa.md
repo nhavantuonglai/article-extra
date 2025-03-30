@@ -2,8 +2,7 @@
 pubDatetime: 2024-04-01T10:10:00Z
 title: Làm thế nào để trở thành một nhà văn y khoa
 description: Bạn đang làm việc trong ngành Y và muốn trở thành một nhà văn nhưng chưa biết nên bắt đầu từ đâu? Bài viết sau là gợi ý hữu hiệu để bạn thực hiện ngay điều đó áp dụng cho phù hợp.
-featured: false
-image: https://banmaixanh.vercel.app/image/cover/001-548.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-764.jpg
 tags:
   - viet lach
   - ky nang viet

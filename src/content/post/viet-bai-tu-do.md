@@ -2,8 +2,7 @@
 pubDatetime: 2025-02-03T10:10:00Z
 title: Dịch vụ viết bài freelancer hiệu quả, chuyên môn cao bạn cần phải biết
 description: Danh sách các blog viết lách chất lượng cao, nơi bạn có thể học hỏi, trau dồi kỹ năng và tìm kiếm cơ hội nghề nghiệp.
-featured: false
-image: https://banmaixanh.vercel.app/image/cover/001-422.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-118.jpg
 tags:
   - viet lach
   - ky nang viet

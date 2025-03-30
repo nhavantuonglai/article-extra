@@ -2,7 +2,6 @@
 pubDatetime: 2024-05-25T10:10:00Z
 title: Tìm hiểu toàn diện về GitHub
 description: GitHub là dịch vụ lưu trữ cho phép các lập trình viên dễ dàng xây dựng và xuất bản website cá nhân.
-featured: false
 image: https://banmaixanh.vercel.app/image/cover/001-623.jpg
 tags:
   - webflow

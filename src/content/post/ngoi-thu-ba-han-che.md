@@ -2,8 +2,7 @@
 pubDatetime: 2024-02-05T10:10:00Z
 title: Tìm hiểu về ngôi thứ ba hạn chế trong viết lách
 description: Ngôi thứ ba hạn chế là một ngôi kể trong văn học nơi người kể chuyện không phải là một nhân vật trong câu chuyện mà là một người ngoài cuộc.
-featured: false
-image: https://banmaixanh.vercel.app/image/cover/001-233.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-566.jpg
 tags:
   - viet lach
   - ky nang viet

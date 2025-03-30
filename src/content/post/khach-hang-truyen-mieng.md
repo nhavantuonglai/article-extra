@@ -2,7 +2,6 @@
 pubDatetime: 2022-08-08T10:10:00Z
 title: Các khách sạn nên sử dụng marketing truyền miệng như thế nào cho hiệu quả
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
-featured: false
 image: https://banmaixanh.vercel.app/image/cover/001-517.jpg
 tags:
   - viet thue

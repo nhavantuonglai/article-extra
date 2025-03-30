@@ -2,8 +2,7 @@
 pubDatetime: 2023-07-30T10:10:00Z
 title: Ai tin fake news? Nghiên cứu xác định 3 nhóm người
 description: Nghiên cứu gần đây đã thách thức những người tham gia nghiên cứu chọn tiêu đề tin tức thật từ những tiêu đề giả mạo. Kết quả cho thấy những người có xu hướng suy nghĩ ảo tưởng.
-featured: false
-image: https://banmaixanh.vercel.app/image/cover/001-549.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-148.jpg
 tags:
   - viet lach
   - thuyet am muu

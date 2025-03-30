@@ -2,7 +2,6 @@
 pubDatetime: 2024-11-20T10:10:00Z
 title: 10 vạn câu hỏi về tôn giáo giúp bạn trở nên thông tuệ hơn
 description: Đời sống tu viện chắc chắn sẽ là điều đầu tiên xuất hiện trong đầu rồi. Nó cung cấp một nghề nghiệp mới cho những ai không muốn hoặc không thể lựa chọn con đường sự nghiệp khác.
-featured: true
 image: https://banmaixanh.vercel.app/image/cover/001-111.jpg
 tags:
   - viet lach

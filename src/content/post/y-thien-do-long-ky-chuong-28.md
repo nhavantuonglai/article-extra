@@ -2,8 +2,7 @@
 pubDatetime: 2002-09-28T10:10:00Z
 title: Ỷ thiên đồ long ký | Chương 28
 description: Một trong những tiểu thuyết võ hiệp hay nhất viết về tình yêu. Một mối tình khiến giang hồ dấy động can qua.
-featured: false
-image: https://banmaixanh.vercel.app/image/cover/001-328.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-500.jpg
 tags:
   - thu vien
   - van hoc

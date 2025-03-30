@@ -2,7 +2,6 @@
 pubDatetime: 2009-11-18T10:10:00Z
 title: Đồ nhiên thảo | Chương 08
 description: Mình thích tùy bút cổ điển Nhật vì qua đó hiểu cách người Nhật giao tiếp mỗi ngày ngoài đường mà không cần nói lời nào.
-featured: false
 image: https://banmaixanh.vercel.app/image/cover/001-127.jpg
 tags:
   - thu vien

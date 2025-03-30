@@ -2,8 +2,7 @@
 pubDatetime: 2021-03-09T10:10:00Z
 title: Làm thế nào để viết khi không có ý tưởng?
 description: Viết là một hoạt động sáng tạo và thú vị, nhưng cũng có những lúc bạn gặp phải tình trạng không có ý tưởng, bí ý hoặc mất cảm hứng.
-featured: false
-image: https://banmaixanh.vercel.app/image/cover/001-397.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-021.jpg
 tags:
   - viet lach
   - ky nang viet

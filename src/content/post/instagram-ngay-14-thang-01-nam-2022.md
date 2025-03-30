@@ -2,7 +2,6 @@
 pubDatetime: 2022-01-14T10:10:00Z
 title: Bài viết trên Instagram ngày 14 tháng 01 năm 2022
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
-featured: false
 image: https://banmaixanh.vercel.app/image/cover/001-123.jpg
 tags:
   - viet lach

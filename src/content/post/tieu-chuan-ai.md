@@ -2,8 +2,7 @@
 pubDatetime: 2023-01-05T10:10:00Z
 title: Generative AI sẽ định hình cách chúng ta sáng tạo và làm việc như thế nào?
 description: Trong bối cảnh kỹ thuật số phát triển nhanh chóng ngày nay, sự kết hợp giữa sáng tạo và công nghệ đang định hình lại cách chúng ta làm việc hơn bao giờ hết.
-featured: false
-image: https://banmaixanh.vercel.app/image/cover/001-499.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-654.jpg
 tags:
   - ai
   - xu huong cong nghe

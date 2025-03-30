@@ -2,7 +2,6 @@
 pubDatetime: 2023-04-16T10:10:00Z
 title: 8 thách thức chính khi bảo vệ dữ liệu khách sạn trong năm 2025
 description: Bảo vệ dữ liệu khách sạn là một nhiệm vụ khó khăn, đặc biệt khi hoạt động của khách sạn ngày càng trở nên số hóa hơn.
-featured: false
 image: https://banmaixanh.vercel.app/image/cover/001-551.jpg
 tags:
   - viet thue

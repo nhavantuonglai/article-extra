@@ -2,8 +2,7 @@
 pubDatetime: 2021-10-16T10:10:00Z
 title: Bom nguyên tử, cuộc lưu đày và thử thách về tình anh em
 description: Sự khác biệt trong cách suy nghĩ về việc ai nên kiểm soát những công nghệ mới đầy sức mạnh đã đẩy hai anh em đi theo những con đường khác nhau.
-featured: false
-image: https://banmaixanh.vercel.app/image/cover/001-765.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-573.jpg
 tags:
   - khoa hoc
   - sinh hoc

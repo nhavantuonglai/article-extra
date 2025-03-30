@@ -2,8 +2,7 @@
 pubDatetime: 2002-04-05T10:10:00Z
 title: Thiên long bát bộ | Chương 35
 description: Trong những tinh phẩm thượng thừa, Thiên Long bát bộ luôn được đánh giá là một trong những kiệt tác của Kim Dung.
-featured: false
-image: https://banmaixanh.vercel.app/image/cover/001-135.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-348.jpg
 tags:
   - thu vien
   - van hoc

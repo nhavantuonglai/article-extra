@@ -2,8 +2,7 @@
 pubDatetime: 2022-06-16T10:10:00Z
 title: Phương pháp tối ưu kênh OTA cho các khách sạn
 description: Phân tích các khía cạnh của vấn đề, đồng thời đề xuất các giải pháp thiết thực giúp khách sạn tối ưu hóa hiệu quả kênh OTA cho các khách sạn.
-featured: false
-image: https://banmaixanh.vercel.app/image/cover/001-517.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-142.jpg
 tags:
   - viet thue
   - marketing

@@ -2,7 +2,6 @@
 pubDatetime: 2015-04-19T10:10:00Z
 title: Đường xưa mây trắng | Chương 69
 description: Tôi viết Đường Xưa Mây Trắng ở quán Xóm Thượng, khi chưa có lò sưởi trung ương, chỉ một lò củi nhỏ giữa trời lạnh.
-featured: false
 image: https://banmaixanh.vercel.app/image/cover/001-120.jpg
 tags:
   - thu vien

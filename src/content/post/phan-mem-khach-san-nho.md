@@ -2,8 +2,7 @@
 pubDatetime: 2022-06-28T10:10:00Z
 title: Phần mềm quản lý khách sạn dành là giải pháp kinh doanh tối ưu nhất cho các khách sạn vừa và nhỏ
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
-featured: false
-image: https://banmaixanh.vercel.app/image/cover/001-727.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-744.jpg
 tags:
   - viet thue
   - marketing

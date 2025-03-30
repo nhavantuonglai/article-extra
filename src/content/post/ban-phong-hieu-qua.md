@@ -2,7 +2,6 @@
 pubDatetime: 2022-01-18T10:10:00Z
 title: Quản lý kênh bán phòng khách sạn hiệu quả
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
-featured: false
 image: https://banmaixanh.vercel.app/image/cover/001-649.jpg
 tags:
   - viet thue

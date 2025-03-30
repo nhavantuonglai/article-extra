@@ -2,7 +2,6 @@
 pubDatetime: 2023-04-05T10:10:00Z
 title: Chữa bệnh ở mèo tại nhà
 description: Thú cưng của chúng ta là một ân sủng cứu rỗi khi chúng ta bị mắc kẹt bên trong. Những cái đuôi vẫy vẫy hạnh phúc
-featured: false
 image: https://banmaixanh.vercel.app/image/cover/001-691.jpg
 tags:
   - viet lach

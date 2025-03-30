@@ -2,8 +2,7 @@
 pubDatetime: 2024-02-22T10:10:00Z
 title: Làm thế nào để viết lách trở thành thói quen?
 description: Viết lách là một kỹ năng quan trọng trong cuộc sống hiện đại, không chỉ cho những người làm nghề viết, mà còn cho bất kỳ ai muốn giao tiếp hiệu quả, sáng tạo.
-featured: false
-image: https://banmaixanh.vercel.app/image/cover/001-511.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-402.jpg
 tags:
   - viet lach
   - ky nang viet

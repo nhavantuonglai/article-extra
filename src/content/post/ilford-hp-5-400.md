@@ -2,7 +2,6 @@
 pubDatetime: 2021-06-10T10:10:00Z
 title: Đánh giá chất lượng film Ilford HP5+ 400
 description: Đánh giá chất lượng film Ilford HP5+ 400 giúp nhiếp ảnh gia hình dung chất lượng, đáp ứng nhu cầu chụp ảnh và tạo trải nghiệm tích cực khi sử dụng.
-featured: false
 image: https://banmaixanh.vercel.app/image/cover/001-712.jpg
 tags:
   - affiliate

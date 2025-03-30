@@ -2,7 +2,6 @@
 pubDatetime: 2021-04-09T10:10:00Z
 title: Hướng dẫn chăm sóc móng chân cho mèo
 description: Mặc dù mèo thường chịu trách nhiệm về thói quen chải chuốt của riêng chúng, chúng vẫn sẽ cần sự giúp đỡ của bạn trong một số vấn đề.
-featured: false
 image: https://banmaixanh.vercel.app/image/cover/001-513.jpg
 tags:
   - viet lach

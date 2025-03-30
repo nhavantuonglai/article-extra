@@ -2,8 +2,7 @@
 pubDatetime: 2024-03-23T10:10:00Z
 title: Hướng dẫn viết báo cáo cơ bản
 description: Cho dù bạn đang viết báo cáo cảnh sát hay báo cáo kinh doanh, nắm vững nghệ thuật viết báo cáo là rất quan trọng để thành công.
-featured: false
-image: https://banmaixanh.vercel.app/image/cover/001-649.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-043.jpg
 tags:
   - viet lach
   - ky nang viet

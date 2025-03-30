@@ -2,8 +2,7 @@
 pubDatetime: 2021-04-12T10:10:00Z
 title: Hướng dẫn chi tiết về nhận nuôi chó mèo bị bỏ rơi, đi lạc
 description: Nhận nuôi chó mèo bị bỏ rơi, đi lạc không phải lúc nào cũng là điều bạn dự định làm có thể là một quyết định đột ngột.
-featured: false
-image: https://banmaixanh.vercel.app/image/cover/001-292.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-302.jpg
 tags:
   - viet lach
   - thu cung
