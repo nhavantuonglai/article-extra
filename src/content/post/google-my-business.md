@@ -2,7 +2,7 @@
 pubDatetime: 2016-12-07T10:10:00Z
 title: Hướng dẫn đầy đủ về Google My Business cho các khách sạn
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
-image: https://banmaixanh.vercel.app/image/cover/001-302.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-286.jpg
 tags:
   - viet thue
   - marketing

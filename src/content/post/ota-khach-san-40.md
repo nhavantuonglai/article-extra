@@ -2,7 +2,7 @@
 pubDatetime: 2020-12-19T10:10:00Z
 title: Chuyển dịch số và cơ hội bán phòng cho các khách sạn
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
-image: https://banmaixanh.vercel.app/image/cover/001-563.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-416.jpg
 tags:
   - viet thue
   - marketing

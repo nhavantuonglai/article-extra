@@ -2,7 +2,7 @@
 pubDatetime: 2020-01-26T10:10:00Z
 title: Top 10 thiết bị âm thanh không thể thiếu cho audiophile
 description: Chọn một cặp tai nghe tốt có thể là một nhiệm vụ khó khăn, đặc biệt là khi thị trường hiện nay có vô số lựa chọn với nhiều tính năng và thiết kế khác nhau.
-image: https://banmaixanh.vercel.app/image/cover/001-494.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-172.jpg
 tags:
   - viet lach
   - thuong thuc am thanh

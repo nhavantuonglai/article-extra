@@ -2,7 +2,7 @@
 pubDatetime: 2019-03-29T10:10:00Z
 title: 21 quà Valentine cho người yêu, crush và bạn bè ý nghĩa nhất
 description: 21 quà Valentine cho người yêu, crush và bạn bè ý nghĩa nhất mà bạn không nên bỏ lỡ. Không khí Giáng sinh đã đến gần, mọi người lại gạt bỏ bộn bề công việc và trở về quây quần bên nhau.
-image: https://banmaixanh.vercel.app/image/cover/001-474.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-485.jpg
 tags:
   - shoppe
   - affiliate

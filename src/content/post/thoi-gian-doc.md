@@ -2,7 +2,7 @@
 pubDatetime: 2016-09-12T10:10:00Z
 title: Hướng dẫn tạo thẻ tiến trình bài viết trên Webflow
 description: Hướng dẫn thực hiện các thủ thuật công nghệ giúp bạn tiết kiệm thời gian, công sức và đầu tư vào những công việc hiệu quả hơn. Liên hệ info@nhavantuonglai.com để hỗ trợ thao tác.
-image: https://banmaixanh.vercel.app/image/cover/001-548.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-350.jpg
 tags:
   - websiteflow
   - website

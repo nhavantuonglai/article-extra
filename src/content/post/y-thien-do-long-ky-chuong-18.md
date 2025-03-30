@@ -2,7 +2,7 @@
 pubDatetime: 2016-11-27T10:10:00Z
 title: Ỷ thiên đồ long ký | Chương 18
 description: Một trong những tiểu thuyết võ hiệp hay nhất viết về tình yêu. Một mối tình khiến giang hồ dấy động can qua.
-image: https://banmaixanh.vercel.app/image/cover/001-748.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-295.jpg
 tags:
   - thu vien
   - van hoc

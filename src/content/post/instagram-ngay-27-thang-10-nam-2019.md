@@ -2,7 +2,7 @@
 pubDatetime: 2019-10-26T10:10:00Z
 title: Bài viết trên Instagram ngày 27 tháng 10 năm 2019
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
-image: https://banmaixanh.vercel.app/image/cover/001-513.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-753.jpg
 tags:
   - viet lach
   - doan van

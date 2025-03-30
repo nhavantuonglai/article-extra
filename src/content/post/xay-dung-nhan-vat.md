@@ -2,7 +2,7 @@
 pubDatetime: 2016-12-22T10:10:00Z
 title: Làm sao để xây dựng nhân vật trong truyện khi viết lách?
 description: Xây dựng nhân vật đóng vai trò quan trọng trong cấu trúc truyện, chúng là xương sống của mạch truyện, bên cạnh cấu trúc nội dung. Bài viết sau cung cấp những thông tin hữu ích về xây dựng nhân vật.
-image: https://banmaixanh.vercel.app/image/cover/001-580.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-016.jpg
 tags:
   - viet lach
   - ky nang viet

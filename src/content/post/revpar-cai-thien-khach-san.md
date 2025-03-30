@@ -2,7 +2,7 @@
 pubDatetime: 2018-05-14T10:10:00Z
 title: 10 phương pháp hiệu quả để tăng RevPAR cho khách sạn của bạn
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
-image: https://banmaixanh.vercel.app/image/cover/001-245.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-415.jpg
 tags:
   - viet thue
   - marketing

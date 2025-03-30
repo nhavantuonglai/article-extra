@@ -2,7 +2,7 @@
 pubDatetime: 2017-11-30T10:10:00Z
 title: Mọi hành trình đều là thử thách vì luôn ẩn chứa mới mẻ
 description: Thực hành tôn giáo giúp đời sống an lành, hạnh phúc, giác ngộ và mang lại năng lượng tích cực cho bản thân, giá trị đẹp cho cộng đồng.
-image: https://banmaixanh.vercel.app/image/cover/001-571.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-671.jpg
 tags:
   - viet lach
   - trai nghiem

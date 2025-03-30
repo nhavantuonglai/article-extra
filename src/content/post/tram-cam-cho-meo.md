@@ -2,7 +2,7 @@
 pubDatetime: 2020-07-01T10:10:00Z
 title: Chó mèo có bị trầm cảm không?
 description: Chó mèo có thể bị trầm cảm. Những người bạn lông lá của chúng ta trải qua những cảm xúc mạnh mẽ giống như chúng ta, bao gồm cả nỗi buồn.
-image: https://banmaixanh.vercel.app/image/cover/001-056.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-528.jpg
 tags:
   - viet lach
   - thu cung

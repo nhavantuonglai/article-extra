@@ -2,7 +2,7 @@
 pubDatetime: 2016-05-07T10:10:00Z
 title: Tầm quan trọng của lớp học viết trong cải thiện kỹ năng viết lách
 description: Trong một thế giới ngày càng phát triển và phụ thuộc vào truyền thông, viết lách trở thành một kỹ năng thiết yếu không chỉ cho các nhà văn mà còn cho nhiều ngành nghề khác.
-image: https://banmaixanh.vercel.app/image/cover/001-778.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-428.jpg
 tags:
   - viet lach
   - ky nang viet

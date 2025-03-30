@@ -2,7 +2,7 @@
 pubDatetime: 2018-02-08T10:10:00Z
 title: Đôi khi, tuyệt vọng cũng là một phần của hạnh phúc
 description: Và rồi, họ sống bên nhau, hạnh phúc mãi về sau. Lật cuốn truyện cổ tích nào, hay nhớ về lời kể trước giờ đi ngủ mà ta thường ngủ trước khi chuyện đi quá nửa, đa số đoạn kết đều như vậy.
-image: https://banmaixanh.vercel.app/image/cover/001-216.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-145.jpg
 tags:
   - viet lach
   - doan van

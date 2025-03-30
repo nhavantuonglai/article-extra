@@ -2,7 +2,7 @@
 pubDatetime: 2020-02-02T10:10:00Z
 title: Khai thác sức mạnh của Music for TikTok để Marketing giải pháp của bạn
 description: Tiếp thị trên phương tiện truyền thông xã hội đã trở thành một trong những cách tốt nhất và hiệu quả nhất để đưa thông tin về công ty của bạn ra khỏi đó cho nhiều đối tượng hơn, thường trẻ hơn.
-image: https://banmaixanh.vercel.app/image/cover/001-625.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-512.jpg
 tags:
   - viet lach
   - tiktok

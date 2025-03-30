@@ -2,7 +2,7 @@
 pubDatetime: 2018-07-17T10:10:00Z
 title: 17 gợi ý để cải thiện năng suất trong quản lý và tối ưu doanh thu Spa
 description: Tìm hiểu các chiến lược tiếp thị Spa hiệu quả trong chuỗi bài viết sau của nhavantuonglai để áp dụng và đem lại hiệu quả thiết thực cho giải pháp của bạn.
-image: https://banmaixanh.vercel.app/image/cover/001-448.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-295.jpg
 tags:
   - viet thue
   - marketing

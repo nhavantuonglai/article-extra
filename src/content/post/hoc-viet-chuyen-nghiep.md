@@ -2,7 +2,7 @@
 pubDatetime: 2022-02-12T10:10:00Z
 title: Tìm hiểu về lớp học viết bài nâng cao, chuyên nghiệp
 description: Viết bài chuyên nghiệp là một kỹ năng quan trọng, không chỉ trong các ngành nghề liên quan đến viết lách mà còn trong nhiều lĩnh vực khác nhau như kinh doanh, giáo dục, và truyền thông.
-image: https://banmaixanh.vercel.app/image/cover/001-526.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-660.jpg
 tags:
   - viet lach
   - ky nang viet

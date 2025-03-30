@@ -2,7 +2,7 @@
 pubDatetime: 2017-05-16T10:10:00Z
 title: Niên lịch miền gió cát | Chương 14
 description: Niên lịch miền gió cát hòa quyện lịch sử tự nhiên, nghệ thuật miêu tả phong cảnh và triết học qua ghi chép về sinh vật tại trang trại Wisconsin.
-image: https://banmaixanh.vercel.app/image/cover/001-576.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-014.jpg
 tags:
   - aldo leopold
   - nien lich mien gio cat

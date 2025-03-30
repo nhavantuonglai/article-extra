@@ -2,7 +2,7 @@
 pubDatetime: 2018-09-21T10:10:00Z
 title: Đánh giá chất lượng film Kodak Portra 400
 description: Kodak Portra 400 là một trong những cuộn film màu nổi tiếng nhất của hãng Kodak.
-image: https://banmaixanh.vercel.app/image/cover/001-428.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-494.jpg
 tags:
   - affiliate
   - roll film

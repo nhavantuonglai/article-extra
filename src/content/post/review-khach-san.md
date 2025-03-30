@@ -2,7 +2,7 @@
 pubDatetime: 2022-06-18T10:10:00Z
 title: Cách dùng review khách sạn để tăng lượt bán phòng
 description: Nhiều khách sạn tin rằng thời đại kỹ thuật số, công nghệ bùng nổ vừa là điềm lành lại vừa là cơn ác mộng cho việc kinh doanh khách sạn. Nhưng sự thật là, internet là một phần của cuộc sống, và đó không phải là điều chúng ta nên lo sợ.
-image: https://banmaixanh.vercel.app/image/cover/001-533.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-355.jpg
 tags:
   - viet thue
   - marketing

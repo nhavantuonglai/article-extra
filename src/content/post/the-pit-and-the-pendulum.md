@@ -2,7 +2,7 @@
 pubDatetime: 2021-05-24T10:10:00Z
 title: Edgar Allan Poe | The Pit and the Pendulum
 description: Edgar Allan Poe (1809 – 1849) là một trong những nhà văn, nhà thơ, và nhà phê bình văn học nổi tiếng nhất nước Mỹ.
-image: https://banmaixanh.vercel.app/image/cover/001-194.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-217.jpg
 tags:
   - edgar allan poe
   - thu vien

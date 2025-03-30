@@ -2,7 +2,7 @@
 pubDatetime: 2018-05-06T10:10:00Z
 title: Nên mua máy ảnh Canon nào cho hợp túi tiền?
 description: Sở hữu một chiếc máy ảnh Canon giá rẻ chất lượng cao không chỉ giúp bạn tiết kiệm chi phí mà còn mang đến cho bạn trải nghiệm.
-image: https://banmaixanh.vercel.app/image/cover/001-504.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-638.jpg
 tags:
   - affiliate
   - may anh

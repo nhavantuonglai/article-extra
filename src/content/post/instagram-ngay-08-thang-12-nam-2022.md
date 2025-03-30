@@ -2,7 +2,7 @@
 pubDatetime: 2018-06-17T10:10:00Z
 title: Bài viết trên Instagram ngày 08 tháng 12 năm 2022
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
-image: https://banmaixanh.vercel.app/image/cover/001-667.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-042.jpg
 tags:
   - viet lach
   - doan van

@@ -2,7 +2,7 @@
 pubDatetime: 2018-11-16T10:10:00Z
 title: Chúng ta thật sự có duyên để gặp lại nhau không?
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
-image: https://banmaixanh.vercel.app/image/cover/001-347.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-475.jpg
 tags:
   - viet lach
   - doan van

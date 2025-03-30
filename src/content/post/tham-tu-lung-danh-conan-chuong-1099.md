@@ -2,7 +2,7 @@
 pubDatetime: 2017-12-08T10:10:00Z
 title: Thám tử lừng danh Conan | Chương 1099
 description: Thám tử lừng danh Conan chương 1099 là tập truyện trinh thám sáng tác bởi Gosho Aoyama, ấn bản phát từ hành từ 1994 trên tạp chí Weekly Shōnen Sunday.
-image: https://banmaixanh.vercel.app/image/cover/001-137.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-750.jpg
 tags:
   - manga
   - gosho aoyama

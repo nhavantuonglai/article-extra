@@ -2,7 +2,7 @@
 pubDatetime: 2020-04-28T10:10:00Z
 title: 20 cách phối đồ đi chơi Noel & phụ kiện đẹp, hot trend
 description: 20 cách phối đồ đi chơi Noel & phụ kiện đẹp, hot trend. Thời điểm Giáng sinh là dịp để mọi người sắm sửa lại tủ quần áo của mình.
-image: https://banmaixanh.vercel.app/image/cover/001-681.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-367.jpg
 tags:
   - shoppe
   - affiliate

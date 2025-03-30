@@ -2,7 +2,7 @@
 pubDatetime: 2018-01-02T10:10:00Z
 title: Bài viết trên Instagram ngày 31 tháng 12 năm 2023
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
-image: https://banmaixanh.vercel.app/image/cover/001-756.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-400.jpg
 tags:
   - viet lach
   - doan van

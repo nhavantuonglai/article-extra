@@ -2,7 +2,7 @@
 pubDatetime: 2022-01-14T10:10:00Z
 title: Hướng dẫn viết truyện kinh dị nâng cao
 description: Viết truyện kinh dị là một nghệ thuật đặc biệt trong viết lách, yêu cầu sự sáng tạo, khả năng xây dựng không khí và cách kể chuyện hấp dẫn.
-image: https://banmaixanh.vercel.app/image/cover/001-415.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-551.jpg
 tags:
   - viet lach
   - ky nang viet

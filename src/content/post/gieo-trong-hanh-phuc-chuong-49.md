@@ -2,7 +2,7 @@
 pubDatetime: 2020-08-05T10:10:00Z
 title: Gieo trồng hạnh phúc | Chương 50
 description: Thiền sư Thích Nhất Hạnh, sáng lập Làng Mai, truyền cảm hứng Phật giáo dấn thân, chánh niệm, giúp con người tĩnh tâm, hạnh phúc, hòa hợp thiên nhiên.
-image: https://banmaixanh.vercel.app/image/cover/001-090.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-546.jpg
 tags:
   - thu vien
   - van hoc

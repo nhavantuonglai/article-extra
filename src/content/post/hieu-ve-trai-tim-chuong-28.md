@@ -2,7 +2,7 @@
 pubDatetime: 2017-05-29T10:10:00Z
 title: Hiểu về trái tim | Chương 28
 description: Hiểu về trái tim giúp hiểu và chữa lành trái tim, tâm hồn của mình, để mọi người cùng được sống trong hạnh phúc và yêu thương.
-image: https://banmaixanh.vercel.app/image/cover/001-518.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-650.jpg
 tags:
   - thu vien
   - van hoc

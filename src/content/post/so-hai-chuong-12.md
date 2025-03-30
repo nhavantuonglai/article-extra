@@ -2,7 +2,7 @@
 pubDatetime: 2018-06-22T10:10:00Z
 title: Sợ hãi | Chương 12
 description: Thiền sư Thích Nhất Hạnh, sáng lập Làng Mai, truyền cảm hứng Phật giáo dấn thân, chánh niệm, giúp con người tĩnh tâm, hạnh phúc, hòa hợp thiên nhiên.
-image: https://banmaixanh.vercel.app/image/cover/001-512.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-742.jpg
 tags:
   - thu vien
   - van hoc

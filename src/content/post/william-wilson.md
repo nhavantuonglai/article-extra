@@ -2,7 +2,7 @@
 pubDatetime: 2016-05-18T10:10:00Z
 title: Edgar Allan Poe | William Wilson
 description: Edgar Allan Poe (1809 – 1849) là một trong những nhà văn, nhà thơ, và nhà phê bình văn học nổi tiếng nhất nước Mỹ.
-image: https://banmaixanh.vercel.app/image/cover/001-642.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-312.jpg
 tags:
   - edgar allan poe
   - thu vien

@@ -2,7 +2,7 @@
 pubDatetime: 2019-01-11T10:10:00Z
 title: Lợi ích và chi phí khi sử dụng hệ thống POS trong khách sạn
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
-image: https://banmaixanh.vercel.app/image/cover/001-067.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-656.jpg
 tags:
   - viet thue
   - marketing

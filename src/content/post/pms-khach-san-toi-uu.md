@@ -2,7 +2,7 @@
 pubDatetime: 2023-06-01T10:10:00Z
 title: 10 điều nên và không để tối ưu hệ thống PMS dựa trên nền tảng đám mây
 description: Ngày càng có nhiều nhà quản lý khách sạn từ bỏ các giải pháp lưu trữ cồng kềnh tại chỗ để chuyển sang hệ thống quản lý tài sản (PMS) dựa trên nền tảng đám mây.
-image: https://banmaixanh.vercel.app/image/cover/001-386.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-027.jpg
 tags:
   - viet thue
   - marketing

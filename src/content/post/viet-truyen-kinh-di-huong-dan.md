@@ -2,7 +2,7 @@
 pubDatetime: 2022-07-24T10:10:00Z
 title: Cách viết truyện trinh thám với 4 bước đơn giản
 description: Truyện trinh thám kinh dị là một hành trình kích thích trí óc bằng sự tò mò, sợ hãi và những điều không tưởng. Cách viết truyện trinh thám, kinh dị cũng cần sự sáng tạo và những nguyên tắc nhất định.
-image: https://banmaixanh.vercel.app/image/cover/001-772.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-463.jpg
 tags:
   - viet lach
   - ky nang viet

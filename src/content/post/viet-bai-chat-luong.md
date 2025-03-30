@@ -2,7 +2,7 @@
 pubDatetime: 2016-08-18T10:10:00Z
 title: Cách tạo dịch vụ viết content chất lượng cho mọi dự án viết content
 description: Chất lượng văn bản của một tổ chức là một sự phản ánh trực tiếp của tính chuyên nghiệp của nó. Các tác giả có tay nghề cao của chúng tôi có nhiều kinh nghiệm trong ngành dịch vụ viết content.
-image: https://banmaixanh.vercel.app/image/cover/001-681.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-606.jpg
 tags:
   - viet lach
   - ky nang viet

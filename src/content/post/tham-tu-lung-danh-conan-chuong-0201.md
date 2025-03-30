@@ -2,7 +2,7 @@
 pubDatetime: 2018-10-19T10:10:00Z
 title: Thám tử lừng danh Conan | Chương 0201
 description: Thám tử lừng danh Conan chương 0201 là tập truyện trinh thám sáng tác bởi Gosho Aoyama, ấn bản phát từ hành từ 1994 trên tạp chí Weekly Shōnen Sunday.
-image: https://banmaixanh.vercel.app/image/cover/001-021.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-404.jpg
 tags:
   - manga
   - gosho aoyama

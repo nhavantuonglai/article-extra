@@ -2,7 +2,7 @@
 pubDatetime: 2018-07-30T10:10:00Z
 title: Đánh giá chất lượng film Fujufilm Superia XTRA 400
 description: Đánh giá chất lượng film Superia XTRA 400 giúp nhiếp ảnh gia hình dung chất lượng, đáp ứng nhu cầu chụp ảnh và tạo trải nghiệm tích cực khi sử dụng.
-image: https://banmaixanh.vercel.app/image/cover/001-330.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-068.jpg
 tags:
   - affiliate
   - roll film

@@ -2,7 +2,7 @@
 pubDatetime: 2017-02-23T10:10:00Z
 title: Hướng dẫn chi tiết học viết online hiệu quả
 description: Học viết online đã trở thành một xu hướng phổ biến và hiệu quả. Với sự phát triển của internet và các nền tảng học tập trực tuyến, bất kỳ ai cũng có thể trau dồi kỹ năng viết của mình.
-image: https://banmaixanh.vercel.app/image/cover/001-771.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-548.jpg
 tags:
   - viet lach
   - ky nang viet

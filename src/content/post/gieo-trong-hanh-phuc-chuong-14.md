@@ -2,7 +2,7 @@
 pubDatetime: 2024-01-11T10:10:00Z
 title: Gieo trồng hạnh phúc | Chương 15
 description: Thiền sư Thích Nhất Hạnh, sáng lập Làng Mai, truyền cảm hứng Phật giáo dấn thân, chánh niệm, giúp con người tĩnh tâm, hạnh phúc, hòa hợp thiên nhiên.
-image: https://banmaixanh.vercel.app/image/cover/001-730.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-077.jpg
 tags:
   - thu vien
   - van hoc

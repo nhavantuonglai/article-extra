@@ -2,7 +2,7 @@
 pubDatetime: 2021-06-29T10:10:00Z
 title: Thám tử lừng danh Conan | Chương 0885
 description: Thám tử lừng danh Conan chương 0885 là tập truyện trinh thám sáng tác bởi Gosho Aoyama, ấn bản phát từ hành từ 1994 trên tạp chí Weekly Shōnen Sunday.
-image: https://banmaixanh.vercel.app/image/cover/001-119.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-607.jpg
 tags:
   - manga
   - gosho aoyama

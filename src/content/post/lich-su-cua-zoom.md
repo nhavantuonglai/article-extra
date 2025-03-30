@@ -2,7 +2,7 @@
 pubDatetime: 2017-04-05T10:10:00Z
 title: Tiền thân của Zoom
 description: Những lo ngại về quyền riêng tư và áp lực về ngoại hình của phụ nữ cùng với không gian sống của họ.
-image: https://banmaixanh.vercel.app/image/cover/001-561.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-347.jpg
 tags:
   - khoa hoc
   - sinh hoc

@@ -2,7 +2,7 @@
 pubDatetime: 2023-05-26T10:10:00Z
 title: Thần điêu hiệp lữ | Chương 38
 description: Một trong những tiểu thuyết võ hiệp hay nhất viết về tình yêu. Một mối tình khiến giang hồ dấy động can qua.
-image: https://banmaixanh.vercel.app/image/cover/001-709.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-115.jpg
 tags:
   - thu vien
   - van hoc

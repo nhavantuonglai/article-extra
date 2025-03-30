@@ -2,7 +2,7 @@
 pubDatetime: 2020-07-10T10:10:00Z
 title: Thiên long bát bộ | Chương 36
 description: Trong những tinh phẩm thượng thừa, Thiên Long bát bộ luôn được đánh giá là một trong những kiệt tác của Kim Dung.
-image: https://banmaixanh.vercel.app/image/cover/001-415.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-605.jpg
 tags:
   - thu vien
   - van hoc

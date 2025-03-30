@@ -2,7 +2,7 @@
 pubDatetime: 2020-09-24T10:10:00Z
 title: 4 giải pháp công nghệ để đảm bảo trải nghiệm khách hàng và giữ chân nhân viên cho các nhà hàng
 description: Tìm hiểu các chiến lược tiếp thị nhà hàng hiệu quả trong chuỗi bài viết sau của nhavantuonglai để áp dụng và đem lại hiệu quả thiết thực cho giải pháp của bạn.
-image: https://banmaixanh.vercel.app/image/cover/001-292.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-767.jpg
 tags:
   - viet thue
   - marketing

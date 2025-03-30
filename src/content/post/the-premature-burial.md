@@ -2,7 +2,7 @@
 pubDatetime: 2018-06-24T10:10:00Z
 title: Edgar Allan Poe | The premature burial
 description: Edgar Allan Poe (1809 – 1849) là một trong những nhà văn, nhà thơ, và nhà phê bình văn học nổi tiếng nhất nước Mỹ.
-image: https://banmaixanh.vercel.app/image/cover/001-613.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-727.jpg
 tags:
   - edgar allan poe
   - thu vien

@@ -2,7 +2,7 @@
 pubDatetime: 2022-12-12T10:10:00Z
 title: Có những người chọn sống vì hiện tại, và có những người là tương lai
 description: Hôm rồi theo chân bạn lên núi Dinh ở Vũng Tàu, bạn nói bạn ở đây được ba tháng rồi, như một trải nghiệm và lựa chọn trong thời điểm hiện tại.
-image: https://banmaixanh.vercel.app/image/cover/001-720.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-214.jpg
 tags:
   - viet lach
   - doan van

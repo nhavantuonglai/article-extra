@@ -2,7 +2,7 @@
 pubDatetime: 2018-12-12T10:10:00Z
 title: Thám tử lừng danh Conan | Chương 0882
 description: Thám tử lừng danh Conan chương 0882 là tập truyện trinh thám sáng tác bởi Gosho Aoyama, ấn bản phát từ hành từ 1994 trên tạp chí Weekly Shōnen Sunday.
-image: https://banmaixanh.vercel.app/image/cover/001-661.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-234.jpg
 tags:
   - manga
   - gosho aoyama

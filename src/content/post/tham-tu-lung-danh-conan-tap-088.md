@@ -2,7 +2,7 @@
 pubDatetime: 2019-11-15T10:10:00Z
 title: Thám tử lừng danh Conan | Tập 088
 description: Thám tử lừng danh Conan tập 088 là tập truyện trinh thám sáng tác bởi Gosho Aoyama, ấn bản phát từ hành từ 1994 trên tạp chí Weekly Shōnen Sunday.
-image: https://banmaixanh.vercel.app/image/cover/001-504.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-085.jpg
 tags:
   - manga
   - gosho aoyama

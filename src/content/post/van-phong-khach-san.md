@@ -2,7 +2,7 @@
 pubDatetime: 2019-12-30T10:10:00Z
 title: Lợi ích của office hoteling trong ngành khách sạn
 description: Office hoteling là một khái niệm đã thu hút sự quan tâm cùng với sự gia tăng của các mô hình làm việc kết hợp, xu hướng du mục kỹ thuật số và chính sách làm việc từ bất cứ đâu.
-image: https://banmaixanh.vercel.app/image/cover/001-645.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-072.jpg
 tags:
   - viet thue
   - marketing

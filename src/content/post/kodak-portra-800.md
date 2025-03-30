@@ -2,7 +2,7 @@
 pubDatetime: 2017-11-09T10:10:00Z
 title: Đánh giá chất lượng film Kodak Portra 800
 description: Với độ nhạy ISO 800, Kodak Portra 800 phù hợp cho các tình huống chụp ảnh trong nhà, đêm tối và môi trường ánh sáng yếu.
-image: https://banmaixanh.vercel.app/image/cover/001-432.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-523.jpg
 tags:
   - affiliate
   - roll film

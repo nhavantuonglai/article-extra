@@ -2,7 +2,7 @@
 pubDatetime: 2022-01-23T10:10:00Z
 title: Bài viết trên Instagram ngày 13 tháng 07 năm 2020
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
-image: https://banmaixanh.vercel.app/image/cover/001-634.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-669.jpg
 tags:
   - viet lach
   - doan van

@@ -2,7 +2,7 @@
 pubDatetime: 2022-02-14T10:10:00Z
 title: 12 nhóm khách hàng trong khách sạn và cách đáp ứng mong đợi của họ
 description: Không thể phủ nhận rằng hiệu quả của chiến lược marketing của bạn phần lớn phụ thuộc vào việc bạn phân nhóm khách hàng trong khách sạn.
-image: https://banmaixanh.vercel.app/image/cover/001-710.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-189.jpg
 tags:
   - viet thue
   - marketing

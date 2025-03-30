@@ -2,7 +2,7 @@
 pubDatetime: 2021-06-09T10:10:00Z
 title: Thám tử lừng danh Conan | Chương 0927
 description: Thám tử lừng danh Conan chương 0927 là tập truyện trinh thám sáng tác bởi Gosho Aoyama, ấn bản phát từ hành từ 1994 trên tạp chí Weekly Shōnen Sunday.
-image: https://banmaixanh.vercel.app/image/cover/001-431.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-569.jpg
 tags:
   - manga
   - gosho aoyama

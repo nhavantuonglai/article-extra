@@ -2,7 +2,7 @@
 pubDatetime: 2016-05-30T10:10:00Z
 title: Thám tử lừng danh Conan | Chương 1025
 description: Thám tử lừng danh Conan chương 1025 là tập truyện trinh thám sáng tác bởi Gosho Aoyama, ấn bản phát từ hành từ 1994 trên tạp chí Weekly Shōnen Sunday.
-image: https://banmaixanh.vercel.app/image/cover/001-752.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-584.jpg
 tags:
   - manga
   - gosho aoyama

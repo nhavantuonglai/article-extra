@@ -2,7 +2,7 @@
 pubDatetime: 2017-12-08T10:10:00Z
 title: Fake news và tin tức xuyên tạc khác nhau như thế nào?
 description: Với sự gia tăng của phương tiện truyền thông xã hội, chúng ta cũng đã thấy sự gia tăng của những cá nhân độc hại vũ khí hóa fake news và tin tức xuyên tạc cho mục đích xã hội.
-image: https://banmaixanh.vercel.app/image/cover/001-548.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-667.jpg
 tags:
   - viet lach
   - thuyet am muu

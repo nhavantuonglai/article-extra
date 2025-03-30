@@ -2,7 +2,7 @@
 pubDatetime: 2016-08-21T10:10:00Z
 title: Nhận thức sinh viên nghệ thuật về LGBT | Tổng quan nghiên cứu
 description: Nghiên cứu về nhận thức LGBT của sinh viên Đại học Nghệ thuật – Huế, tài trợ bởi Đại học Sư phạm – Huế.
-image: https://banmaixanh.vercel.app/image/cover/001-299.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-149.jpg
 tags:
   - viet lach
   - nghien cuu khoa hoc

@@ -2,7 +2,7 @@
 pubDatetime: 2016-12-09T10:10:00Z
 title: Con đường dẫn đến giao tiếp hiệu quả thông qua báo cáo
 description: Cho dù bạn là sinh viên, chuyên gia hay chủ doanh nghiệp, khả năng giao tiếp rõ ràng và chính xác là rất quan trọng để thành công.
-image: https://banmaixanh.vercel.app/image/cover/001-275.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-173.jpg
 tags:
   - viet lach
   - ky nang viet

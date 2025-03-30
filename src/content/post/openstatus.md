@@ -2,7 +2,7 @@
 pubDatetime: 2017-05-21T10:10:00Z
 title: Tìm hiểu toàn diện về Openstatus và cách để cài lên website
 description: Openstatus là một nền tảng mã nguồn mở được thiết kế để theo dõi trạng thái dịch vụ và hệ thống.
-image: https://banmaixanh.vercel.app/image/cover/001-666.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-374.jpg
 tags:
   - websiteflow
   - website

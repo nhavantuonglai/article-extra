@@ -2,7 +2,7 @@
 pubDatetime: 2024-05-24T10:10:00Z
 title: Bài viết trên Instagram ngày 01 tháng 02 năm 2021
 description: nhavantuonglai là kênh chuyên viết lách chia sẻ và hướng dẫn thuần thục khi thực hành viết lách qua những bài chia sẻ trên Instagram chính thức.
-image: https://banmaixanh.vercel.app/image/cover/001-617.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-409.jpg
 tags:
   - viet lach
   - doan van

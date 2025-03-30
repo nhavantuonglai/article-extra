@@ -2,7 +2,7 @@
 pubDatetime: 2017-04-20T10:10:00Z
 title: Thiên long bát bộ | Chương 40
 description: Trong những tinh phẩm thượng thừa, Thiên Long bát bộ luôn được đánh giá là một trong những kiệt tác của Kim Dung.
-image: https://banmaixanh.vercel.app/image/cover/001-504.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-383.jpg
 tags:
   - thu vien
   - van hoc

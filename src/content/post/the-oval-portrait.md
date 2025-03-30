@@ -2,7 +2,7 @@
 pubDatetime: 2017-08-07T10:10:00Z
 title: Edgar Allan Poe | The oval portrait
 description: Edgar Allan Poe (1809 – 1849) là một trong những nhà văn, nhà thơ, và nhà phê bình văn học nổi tiếng nhất nước Mỹ.
-image: https://banmaixanh.vercel.app/image/cover/001-378.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-402.jpg
 tags:
   - edgar allan poe
   - thu vien

@@ -2,7 +2,7 @@
 pubDatetime: 2018-08-23T10:10:00Z
 title: Hướng dẫn chi tiết về viết lách và marketing nội dung
 description: Viết lách và marketing nội dung là hai yếu tố quan trọng giúp xây dựng và phát triển thương hiệu trên môi trường số.
-image: https://banmaixanh.vercel.app/image/cover/001-483.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-324.jpg
 tags:
   - viet lach
   - ky nang viet

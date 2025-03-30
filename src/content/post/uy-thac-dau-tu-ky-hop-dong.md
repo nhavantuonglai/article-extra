@@ -2,7 +2,7 @@
 pubDatetime: 2019-11-21T10:10:00Z
 title: Những điều cần biết khi ký hợp đồng ủy thác đầu tư
 description: Chuỗi bài viết của nhavantuonglai về kinh doanh vàng bạc đá quý và quỹ đầu tư sẽ giúp nhà đầu tư khởi nghiệp hiệu quả.
-image: https://banmaixanh.vercel.app/image/cover/001-192.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-170.jpg
 tags:
   - viet thue
   - marketing

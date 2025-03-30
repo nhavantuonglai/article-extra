@@ -2,7 +2,7 @@
 pubDatetime: 2019-10-09T10:10:00Z
 title: Thần điêu hiệp lữ | Chương 23
 description: Một trong những tiểu thuyết võ hiệp hay nhất viết về tình yêu. Một mối tình khiến giang hồ dấy động can qua.
-image: https://banmaixanh.vercel.app/image/cover/001-623.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-567.jpg
 tags:
   - thu vien
   - van hoc

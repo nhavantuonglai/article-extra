@@ -2,7 +2,7 @@
 pubDatetime: 2019-10-24T10:10:00Z
 title: Thám tử lừng danh Conan | Chương 0002
 description: Thám tử lừng danh Conan chương 0002 là tập truyện trinh thám sáng tác bởi Gosho Aoyama, ấn bản phát từ hành từ 1994 trên tạp chí Weekly Shōnen Sunday.
-image: https://banmaixanh.vercel.app/image/cover/001-389.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-628.jpg
 tags:
   - manga
   - gosho aoyama

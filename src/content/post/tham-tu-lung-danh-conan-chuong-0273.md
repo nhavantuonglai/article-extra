@@ -2,7 +2,7 @@
 pubDatetime: 2018-04-02T10:10:00Z
 title: Thám tử lừng danh Conan | Chương 0273
 description: Thám tử lừng danh Conan chương 0273 là tập truyện trinh thám sáng tác bởi Gosho Aoyama, ấn bản phát từ hành từ 1994 trên tạp chí Weekly Shōnen Sunday.
-image: https://banmaixanh.vercel.app/image/cover/001-511.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-395.jpg
 tags:
   - manga
   - gosho aoyama

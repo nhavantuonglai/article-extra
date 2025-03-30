@@ -2,7 +2,7 @@
 pubDatetime: 2022-02-13T10:10:00Z
 title: Những gợi ý cho chủ khách sạn để tăng lượt đặt phòng với Google Hotel
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
-image: https://banmaixanh.vercel.app/image/cover/001-047.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-408.jpg
 tags:
   - viet thue
   - marketing

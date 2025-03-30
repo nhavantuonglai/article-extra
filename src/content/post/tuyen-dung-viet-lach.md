@@ -2,7 +2,7 @@
 pubDatetime: 2016-03-07T10:10:00Z
 title: Tìm hiểu về các cơ hội việc làm viết lách
 description: Khám phá các cơ hội việc làm viết lách từ truyền thống đến hiện đại, cũng như những kỹ năng cần thiết để thành công trong lĩnh vực này.
-image: https://banmaixanh.vercel.app/image/cover/001-319.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-302.jpg
 tags:
   - viet lach
   - ky nang viet

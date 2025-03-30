@@ -2,7 +2,7 @@
 pubDatetime: 2020-03-05T10:10:00Z
 title: 11 giải pháp cải thiện mô hình đặt chỗ trước trong nhà hàng
 description: Tìm hiểu các chiến lược tiếp thị nhà hàng hiệu quả trong chuỗi bài viết sau của nhavantuonglai để áp dụng và đem lại hiệu quả thiết thực cho giải pháp của bạn.
-image: https://banmaixanh.vercel.app/image/cover/001-338.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-663.jpg
 tags:
   - viet thue
   - marketing

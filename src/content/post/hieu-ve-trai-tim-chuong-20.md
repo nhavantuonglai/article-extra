@@ -2,7 +2,7 @@
 pubDatetime: 2018-08-06T10:10:00Z
 title: Hiểu về trái tim | Chương 20
 description: Hiểu về trái tim giúp hiểu và chữa lành trái tim, tâm hồn của mình, để mọi người cùng được sống trong hạnh phúc và yêu thương.
-image: https://banmaixanh.vercel.app/image/cover/001-509.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-254.jpg
 tags:
   - thu vien
   - van hoc

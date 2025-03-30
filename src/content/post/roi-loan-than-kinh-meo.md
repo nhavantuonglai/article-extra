@@ -2,7 +2,7 @@
 pubDatetime: 2016-03-17T10:10:00Z
 title: Các vấn đề về rối loạn thần kinh ở mèo
 description: Nếu bạn có mèo sống trong nhà của bạn, tìm hiểu về các vấn đề thần kinh phổ biến ở mèo có thể hữu ích. Điều này có thể bao gồm nhận ra các triệu chứng.
-image: https://banmaixanh.vercel.app/image/cover/001-422.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-206.jpg
 tags:
   - viet lach
   - thu cung

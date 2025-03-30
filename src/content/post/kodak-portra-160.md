@@ -2,7 +2,7 @@
 pubDatetime: 2017-06-02T10:10:00Z
 title: Đánh giá chất lượng film Kodak Portra 160
 description: Kodak Portra 160 là một trong những cuộn film màu phổ biến và được yêu thích nhất trong cộng đồng nhiếp ảnh film.
-image: https://banmaixanh.vercel.app/image/cover/001-063.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-269.jpg
 tags:
   - affiliate
   - roll film

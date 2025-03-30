@@ -2,7 +2,7 @@
 pubDatetime: 2016-04-19T10:10:00Z
 title: Gợi ý cách luyện tư duy viết lách
 description: Bài viết này sẽ khám phá các phương pháp và kỹ thuật để nâng cao tư duy sáng tạo trong viết lách hiệu quả hơn trong quá trình thực hành.
-image: https://banmaixanh.vercel.app/image/cover/001-144.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-667.jpg
 tags:
   - viet lach
   - ky nang viet

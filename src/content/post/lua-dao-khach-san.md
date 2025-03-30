@@ -2,7 +2,7 @@
 pubDatetime: 2020-04-22T10:10:00Z
 title: 10 cách bảo vệ khách sạn khỏi các cuộc tấn công lừa đảo
 description: Bạn càng chủ động, bạn càng an toàn. Có một số biện pháp đơn giản mà các nhà quản lý khách sạn có thể thực hiện để bảo vệ bản thân, doanh nghiệp và khách hàng của mình – hãy cùng khám phá chúng.
-image: https://banmaixanh.vercel.app/image/cover/001-704.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-682.jpg
 tags:
   - viet thue
   - marketing

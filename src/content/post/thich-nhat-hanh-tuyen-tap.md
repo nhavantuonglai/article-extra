@@ -2,7 +2,7 @@
 pubDatetime: 2019-04-15T10:10:00Z
 title: Tuyển tập sách của Thiền sư Thích Nhất Hạnh
 description: Thiền sư Thích Nhất Hạnh, sáng lập Làng Mai, truyền cảm hứng Phật giáo dấn thân, khai sáng chánh niệm giúp tĩnh tâm, hạnh phúc, hòa hợp thiên nhiên.
-image: https://banmaixanh.vercel.app/image/cover/001-112.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-729.jpg
 tags:
   - viet lach
   - doan van

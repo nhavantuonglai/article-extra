@@ -2,7 +2,7 @@
 pubDatetime: 2020-05-08T10:10:00Z
 title: Hướng dẫn xây dựng website dựa trên mã nguồn mở
 description: nhavantuonglai.com được tạo nên từ mã nguồn mở, nên bài viết này sẽ hướng dẫn bạn cách tạo ra website tương tự, với toàn bộ mã nguồn của chính nó.
-image: https://banmaixanh.vercel.app/image/cover/001-162.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-500.jpg
 tags:
   - website
   - tao website

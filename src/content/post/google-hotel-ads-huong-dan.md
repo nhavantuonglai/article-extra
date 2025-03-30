@@ -2,7 +2,7 @@
 pubDatetime: 2019-11-20T10:10:00Z
 title: Google Ads và hướng dẫn sử dụng cho các khách sạn để tăng đặt phòng trực tiếp
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
-image: https://banmaixanh.vercel.app/image/cover/001-409.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-229.jpg
 tags:
   - viet thue
   - marketing

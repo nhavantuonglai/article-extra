@@ -2,7 +2,7 @@
 pubDatetime: 2016-04-28T10:10:00Z
 title: Gợi ý upselling hiệu quả trong tiệm Spa cần áp dụng ngay
 description: Khi mở tiệm Spa, điều quan trọng là tạo ra doanh thu, upselling (upselling) là một trong những giải pháp.
-image: https://banmaixanh.vercel.app/image/cover/001-069.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-320.jpg
 tags:
   - viet thue
   - marketing

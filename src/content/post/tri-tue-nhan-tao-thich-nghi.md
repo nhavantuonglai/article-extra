@@ -2,7 +2,7 @@
 pubDatetime: 2018-11-04T10:10:00Z
 title: Lời khuyên từ các giám đốc đào tạo để thích nghi với thời đại AI
 description: Trong cuộc khảo sát Tương lai việc làm năm 2023, chúng tôi đã hỏi các công ty rằng nhân viên sẽ cần những kỹ năng nào trong năm năm tới và họ sẽ chi tiền vào việc gì khi đào tạo nhân viên?
-image: https://banmaixanh.vercel.app/image/cover/001-686.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-471.jpg
 tags:
   - ai
   - xu huong cong nghe

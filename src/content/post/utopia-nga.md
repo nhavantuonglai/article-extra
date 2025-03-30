@@ -2,7 +2,7 @@
 pubDatetime: 2017-05-07T10:10:00Z
 title: Tại sao trí thức Nga lại có viễn cảnh utopia rất khác nhau?
 description: Những sự đối lập không thể vượt qua giữa các viễn cảnh đó giúp giải thích sự phát triển hạn chế của Nga và hé lộ tương lai đầy hủy diệt của đất nước này.
-image: https://banmaixanh.vercel.app/image/cover/001-503.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-493.jpg
 tags:
   - khoa hoc
   - lich su

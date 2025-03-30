@@ -2,7 +2,7 @@
 pubDatetime: 2020-02-17T10:10:00Z
 title: Hiểu về trái tim | Chương 06
 description: Hiểu về trái tim giúp hiểu và chữa lành trái tim, tâm hồn của mình, để mọi người cùng được sống trong hạnh phúc và yêu thương.
-image: https://banmaixanh.vercel.app/image/cover/001-540.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-473.jpg
 tags:
   - thu vien
   - van hoc

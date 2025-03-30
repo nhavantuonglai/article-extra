@@ -2,7 +2,7 @@
 pubDatetime: 2020-06-28T10:10:00Z
 title: Đánh giá chất lượng film Kodak TriX 400
 description: Kodak TriX 400 là một trong những cuộn film đen trắng huyền thoại, được yêu thích bởi các nhiếp ảnh gia trên toàn thế giới.
-image: https://banmaixanh.vercel.app/image/cover/001-172.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-392.jpg
 tags:
   - affiliate
   - roll film

@@ -2,7 +2,7 @@
 pubDatetime: 2021-08-08T10:10:00Z
 title: Sang nhượng khách sạn và những lưu ý cần phải biết khi tiến hành
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
-image: https://banmaixanh.vercel.app/image/cover/001-595.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-434.jpg
 tags:
   - viet thue
   - marketing

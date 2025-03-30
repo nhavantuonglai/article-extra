@@ -2,7 +2,7 @@
 pubDatetime: 2017-09-16T10:10:00Z
 title: 10 thuyết âm mưu phổ biến nhất của Mỹ
 description: Một giả thuyết gần đây được đặt ra bởi các nhà nghiên cứu thực sự coi nói chuyện âm mưu là một cách để củng cố hiện trạng.
-image: https://banmaixanh.vercel.app/image/cover/001-448.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-075.jpg
 tags:
   - viet lach
   - thuyet am muu

@@ -2,7 +2,7 @@
 pubDatetime: 2017-11-17T10:10:00Z
 title: Đánh giá chất lượng film Ilford XP2 Super 400
 description: Đánh giá chất lượng film Ilford XP2 Super 400 giúp nhiếp ảnh gia hình dung chất lượng, đáp ứng nhu cầu chụp ảnh và tạo trải nghiệm tích cực khi sử dụng.
-image: https://banmaixanh.vercel.app/image/cover/001-152.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-430.jpg
 tags:
   - affiliate
   - roll film

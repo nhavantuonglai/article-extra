@@ -2,7 +2,7 @@
 pubDatetime: 2019-05-27T10:10:00Z
 title: Tầm quan trọng của giao tiếp hiệu quả trong khách sạn
 description: Giao tiếp hiệu quả trong khách sạn là nền tảng để cung cấp trải nghiệm khách hàng tuyệt vời với những hoạt động trơn tru. Chúng gồm những tương tác, như trao đổi ở quầy lễ tân khi du khách nhận phòng, cho đến giao tiếp giữa các nhân viên khách sạn trong hệ thống.
-image: https://banmaixanh.vercel.app/image/cover/001-773.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-609.jpg
 tags:
   - viet thue
   - marketing

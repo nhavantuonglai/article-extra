@@ -2,7 +2,7 @@
 pubDatetime: 2018-11-05T10:10:00Z
 title: Một bí ẩn 62 năm tuổi của Nga (và thuyết âm mưu) đã được giải đáp
 description: Năm 1959, một nhóm chín người đi bộ đường dài Nga đã thiệt mạng trong một sự cố qua đêm ở dãy núi Ural. Những âm mưu về cái chết của họ.
-image: https://banmaixanh.vercel.app/image/cover/001-739.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-400.jpg
 tags:
   - viet lach
   - thuyet am muu

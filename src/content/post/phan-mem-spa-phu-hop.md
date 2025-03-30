@@ -2,7 +2,7 @@
 pubDatetime: 2021-12-05T10:10:00Z
 title: Làm thế nào để chọn phần mềm phù hợp cho cơ sở kinh doanh của bạn?
 description: Tìm hiểu các chiến lược tiếp thị Spa hiệu quả trong chuỗi bài viết sau của nhavantuonglai để áp dụng và đem lại hiệu quả thiết thực cho giải pháp của bạn.
-image: https://banmaixanh.vercel.app/image/cover/001-624.jpg
+image: https://banmaixanh.vercel.app/image/cover/001-211.jpg
 tags:
   - viet thue
   - marketing
