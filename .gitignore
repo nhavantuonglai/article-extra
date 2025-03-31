@@ -1,8 +1,5 @@
 .astro/
 node_modules/
 .vscode/
-.env
-src/components/analytics
-src/components/content/analytics
-src/pages/analytics
-src/content/blog/
+.vercel
+dist/

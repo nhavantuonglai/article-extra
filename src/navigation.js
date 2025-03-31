@@ -11,80 +11,17 @@ export const headerData = {
 
 		{
 			text: 'Viết lách',
-			links: [
-				{
-					text: 'Đọc thêm',
-					href: 'https://nhavantuonglai.com/article',
-				},
-				{
-					text: 'Tuyển tập viết',
-					href: 'https://nhavantuonglai.com/tags/tuyen-tap-viet-van',
-				},
-				{
-					text: 'Kỹ năng viết',
-					href: 'https://nhavantuonglai.com/tags/ky-nang-viet',
-				},
-				{
-					text: 'Nghệ thuật viết',
-					href: 'https://nhavantuonglai.com/tags/lam-chu-nghe-thuat-viet-lach',
-				},
-				{
-					text: 'Hành trình viết',
-					href: 'https://nhavantuonglai.com/tags/hanh-trinh-viet',
-				},
-			],
+			href: 'https://nhavantuonglai.com/article',
 		},
 
 		{
-			text: 'Xã hội',
-			links: [
-				{
-					text: 'Đọc thêm',
-					href: 'https://nhavantuonglai.com/tags/xa-hoi-hoc',
-				},
-				{
-					text: 'Tâm lý học',
-					href: 'https://nhavantuonglai.com/tags/xa-hoi-hoc',
-				},
-				{
-					text: 'Nhân học',
-					href: 'https://nhavantuonglai.com/tags/nhan-hoc',
-				},
-				{
-					text: 'Triết học',
-					href: 'https://nhavantuonglai.com/tags/triet-hoc',
-				},
-				{
-					text: 'Phật giáo',
-					href: 'https://nhavantuonglai.com/tags/phat-giao',
-				},
-			],
+			text: 'Khoa học',
+			href: 'https://nhavantuonglai.com/tags/khoa-hoc',
 		},
 
 		{
-			text: 'Thiên văn',
-			links: [
-				{
-					text: 'Xem thêm',
-					href: 'https://nhavantuonglai.com/tags/vu-tru-hoc',
-				},
-				{
-					text: 'Vật lý thiên văn',
-					href: 'https://nhavantuonglai.com/tags/vat-ly-thien-van',
-				},
-				{
-					text: 'Vật lý lượng tử',
-					href: 'https://nhavantuonglai.com/tags/vat-ly-luong-tu',
-				},
-				{
-					text: 'Vụ nổ lớn',
-					href: 'https://nhavantuonglai.com/tags/vu-no-lon',
-				},
-				{
-					text: 'Sự sống vũ trụ',
-					href: 'https://nhavantuonglai.com/tags/su-song-vu-tru',
-				},
-			],
+			text: 'Lập trình',
+			href: 'https://nhavantuonglai.com/tags/developer',
 		},
 
 		{
@@ -110,63 +47,63 @@ export const footerData = {
 			title: 'Công cụ văn bản',
 			links: [
 				{
-					text: 'Đếm số chữ',
+					text: 'Đếm chữ văn bản',
 					href: 'https://nhavantuonglai.com/analytics/count',
 				},
 				{
-					text: 'Chuyển chữ hoa',
+					text: 'Chữ hoa thành chữ thường',
 					href: 'https://nhavantuonglai.com/analytics/lower',
 				},
 				{
-					text: 'Chuyển chữ đậm',
+					text: 'Chữ thường thành chữ đậm',
 					href: 'https://nhavantuonglai.com/analytics/unicode',
 				},
 				{
-					text: 'Biểu tượng Emoji',
+					text: 'Thư viện Emoji 2025',
 					href: 'https://nhavantuonglai.com/analytics/emoji',
 				},
 			],
 		},
 
 		{
-			title: 'Công cụ giải trí',
+			title: 'Công cụ phản hồi',
 			links: [
 				{
-					text: 'Nghe Radio trực tuyến',
+					text: 'Nghe đài trực tuyến',
 					href: 'https://nhavantuonglai.com/analytics/radio'
 				},
 				{
-					text: 'Xem video trực tuyến',
-					href: 'https://nhavantuonglai.com/analytics/streaming'
+					text: 'Truy vấn địa chỉ IP',
+					href: 'https://nhavantuonglai.com/analytics/address'
 				},
 				{
-					text: 'Thời gian lúc này',
+					text: 'Bây giờ là mấy giờ?',
 					href: 'https://nhavantuonglai.com/analytics/time'
 				},
 				{
-					text: 'Đếm ngược giao thừa',
+					text: 'Bao giờ đến giao thừa?',
 					href: 'https://nhavantuonglai.com/analytics/countdown'
 				},
 			],
 		},
 
 		{
-			title: 'Công cụ AI',
+			title: 'Công cụ tương tác',
 			links: [
 				{
-					text: 'Trò chuyện AI',
+					text: 'Trợ lý ảo thông minh',
 					href: 'https://nhavantuonglai.com/analytics/integrate'
 				},
 				{
-					text: 'Dịch phụ đề',
+					text: 'Dịch phụ đề tiếng Anh',
 					href: 'https://nhavantuonglai.com/analytics/subtitle'
 				},
 				{
-					text: 'Đọc văn bản',
+					text: 'Quét văn bản từ ảnh',
 					href: 'https://nhavantuonglai.com/analytics/ocr'
 				},
 				{
-					text: 'Chuyển giọng nói',
+					text: 'Chuyển giọng nói từ ảnh',
 					href: 'https://nhavantuonglai.com/analytics/voicemaker'
 				},
 			],
@@ -209,7 +146,7 @@ export const footerData = {
 		},
 
 		{
-			text: 'v25.03.final',
+			text: 'v25.04.02',
 			href: 'https://nhavantuonglai.com/version'
 		},
 
