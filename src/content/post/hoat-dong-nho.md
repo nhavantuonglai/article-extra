@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2021-06-12T10:10:00Z
+pubDatetime: 2024-01-03T10:10:00Z
 title: 10 cách cải thiện hoạt động khách sạn cho các chủ khách sạn độc lập
 description: Mỗi chủ khách sạn đều muốn cải thiện hoạt động của khách sạn. Ngay cả khi bạn đang cung cấp những trải nghiệm tuyệt vời cho khách.
 image: https://banmaixanh.vercel.app/image/cover/001-030.jpg

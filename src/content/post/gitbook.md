@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2018-09-27T10:10:00Z
+pubDatetime: 2022-01-24T10:10:00Z
 title: Tìm hiểu toàn diện về Gitbook
 description: GitBook là một nền tảng tạo và quản lý tài liệu trực tuyến, được thiết kế để giúp người dùng dễ dàng biên soạn, chỉnh sửa và phát hành tài liệu.
 image: https://banmaixanh.vercel.app/image/cover/001-408.jpg

@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2019-07-17T10:10:00Z
+pubDatetime: 2018-03-06T10:10:00Z
 title: 7 cách để tăng lượng đặt phòng kỳ nghỉ tại khách sạn của bạn
 description: Hãy tiếp tục đọc để khám phá các chiến lược tăng lượng đặt phòng kỳ nghỉ và tối đa hóa lợi nhuận.
 image: https://banmaixanh.vercel.app/image/cover/001-736.jpg

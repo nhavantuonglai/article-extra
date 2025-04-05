@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2017-04-17T10:10:00Z
+pubDatetime: 2018-01-22T10:10:00Z
 title: Giới thiệu và đánh giá hosting website Firebase
 description: Nếu bạn đang xây dựng một ứng dụng website full-stack với các framework hiện đại, được hiển thị bằng máy chủ như Angular và Next, hãy sử dụng Firebase App Hosting.
 image: https://banmaixanh.vercel.app/image/cover/001-668.jpg

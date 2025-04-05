@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2022-03-04T10:10:00Z
+pubDatetime: 2020-03-05T10:10:00Z
 title: Tiêu chuẩn khách sạn 4 sao là gì? Khách sạn 4 sao Phú Quốc nào đáng trải nghiệm
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
 image: https://banmaixanh.vercel.app/image/cover/001-533.jpg

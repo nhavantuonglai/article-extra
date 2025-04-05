@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2018-04-05T10:10:00Z
+pubDatetime: 2023-05-21T10:10:00Z
 title: 5 gợi ý cho các tiệm Spa cải thiện doanh thu khi mở cửa trở lại sau dịch
 description: Tìm hiểu các chiến lược tiếp thị Spa hiệu quả trong chuỗi bài viết sau của nhavantuonglai để áp dụng và đem lại hiệu quả thiết thực cho giải pháp của bạn.
 image: https://banmaixanh.vercel.app/image/cover/001-472.jpg

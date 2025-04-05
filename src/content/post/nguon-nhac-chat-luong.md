@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2017-10-11T10:10:00Z
+pubDatetime: 2021-08-13T10:10:00Z
 title: Cách phát hiện và đánh giá chất lượng nguồn nhạc
 description: Chất lượng nguồn nhạc là yếu tố quan trọng ảnh hưởng đến trải nghiệm nghe nhạc của người dùng.
 image: https://banmaixanh.vercel.app/image/cover/001-526.jpg

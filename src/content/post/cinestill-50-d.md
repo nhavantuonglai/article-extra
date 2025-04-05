@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2021-10-07T10:10:00Z
+pubDatetime: 2020-01-18T10:10:00Z
 title: Đánh giá chất lượng film CineStill 50D
 description: Cuộn film CineStill 50D đã nhanh chóng trở thành một sản phẩm yêu thích trong cộng đồng nhiếp ảnh film.
 image: https://banmaixanh.vercel.app/image/cover/001-304.jpg

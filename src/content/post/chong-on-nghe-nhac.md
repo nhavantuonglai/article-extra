@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2019-06-13T10:10:00Z
+pubDatetime: 2023-12-11T10:10:00Z
 title: Tìm hiểu tính năng chống ồn trên tai nghe
 description: Ngày nay, tai nghe chống ồn trở thành một trong những sản phẩm công nghệ không thể thiếu đối với người dùng yêu thích âm nhạc.
 image: https://banmaixanh.vercel.app/image/cover/001-298.jpg

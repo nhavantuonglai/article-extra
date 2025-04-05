@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2016-08-25T10:10:00Z
+pubDatetime: 2023-01-16T10:10:00Z
 title: Thiên long bát bộ | Chương 07
 description: Trong những tinh phẩm thượng thừa, Thiên Long bát bộ luôn được đánh giá là một trong những kiệt tác của Kim Dung.
 image: https://banmaixanh.vercel.app/image/cover/001-076.jpg

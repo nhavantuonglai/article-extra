@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2018-06-10T10:10:00Z
+pubDatetime: 2023-04-25T10:10:00Z
 title: Phong cách thưởng thức âm nhạc của người nổi tiếng
 description: Audiophile là những người đam mê âm thanh, họ dành nhiều thời gian và tiền bạc để tìm kiếm và trải nghiệm những Hệ thống âm thanh tốt nhất.
 image: https://banmaixanh.vercel.app/image/cover/001-575.jpg

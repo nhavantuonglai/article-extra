@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2020-07-04T10:10:00Z
+pubDatetime: 2019-02-21T10:10:00Z
 title: Hướng dẫn cách viết tiểu thuyết cho người không chuyên
 description: Hướng dẫn cách viết tiểu thuyết hay, hoặc sửa lại truyện ngắn cho người không chuyên lẫn chuyên nghiệp, bởi lẽ việc biên tập.
 image: https://banmaixanh.vercel.app/image/cover/001-117.jpg

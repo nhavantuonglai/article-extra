@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2018-01-06T10:10:00Z
+pubDatetime: 2024-04-28T10:10:00Z
 title: Bây giờ mới thấy | Chương 03
 description: Thiền sư Thích Nhất Hạnh, sáng lập Làng Mai, truyền cảm hứng Phật giáo dấn thân, chánh niệm, giúp con người tĩnh tâm, hạnh phúc, hòa hợp thiên nhiên.
 image: https://banmaixanh.vercel.app/image/cover/001-035.jpg

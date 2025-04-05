@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2016-04-15T10:10:00Z
+pubDatetime: 2019-09-21T10:10:00Z
 title: Hướng dẫn viết lách chuyên nghiệp
 description: Viết lách chuyên nghiệp không chỉ đòi hỏi kỹ năng viết tốt mà còn cần sự hiểu biết về cách tạo ra nội dung hấp dẫn và có giá trị.
 image: https://banmaixanh.vercel.app/image/cover/001-458.jpg

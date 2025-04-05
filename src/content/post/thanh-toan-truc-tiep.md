@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2016-09-13T10:10:00Z
+pubDatetime: 2020-11-22T10:10:00Z
 title: 5 vấn đề thường gặp khi các khách sạn không áp dụng thanh toán trực tuyến
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
 image: https://banmaixanh.vercel.app/image/cover/001-238.jpg

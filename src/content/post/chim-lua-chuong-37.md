@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2020-04-06T10:10:00Z
+pubDatetime: 2020-10-06T10:10:00Z
 title: Chim lửa | Chương 37
 description: Tezuka Osamu qua Chim lửa đặt ra câu hỏi về sự sống, cái chết, ý nghĩa tồn tại, nhấn mạnh con người chỉ thực sự sống khi hòa hợp với thiên nhiên. Đọc Chim lửa (Hi no Tori) chương 37 trong phần dưới đây.
 image: https://banmaixanh.vercel.app/image/cover/001-232.jpg

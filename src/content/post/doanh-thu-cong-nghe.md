@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2021-06-06T10:10:00Z
+pubDatetime: 2017-09-27T10:10:00Z
 title: Công nghệ khách sạn giúp tăng doanh thu hiệu quả như thế nào?
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
 image: https://banmaixanh.vercel.app/image/cover/001-467.jpg

@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2016-07-05T10:10:00Z
+pubDatetime: 2019-07-21T10:10:00Z
 title: Quả táo thần kỳ của Kimura và câu chuyện về ý chí con người
 description: Thực hành tôn giáo giúp đời sống an lành, hạnh phúc, giác ngộ và mang lại năng lượng tích cực cho bản thân, giá trị đẹp cho cộng đồng.
 image: https://banmaixanh.vercel.app/image/cover/001-381.jpg

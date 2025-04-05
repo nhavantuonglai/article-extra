@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2016-08-03T10:10:00Z
+pubDatetime: 2018-11-08T10:10:00Z
 title: Làm thế nào để khách sạn bắt kịp nhu cầu ngày một tăng của du khách?
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
 image: https://banmaixanh.vercel.app/image/cover/001-004.jpg

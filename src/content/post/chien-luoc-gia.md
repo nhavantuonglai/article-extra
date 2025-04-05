@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2016-03-01T10:10:00Z
+pubDatetime: 2019-09-05T10:10:00Z
 title: 10 chiến lược định giá phòng khách sạn cần thực hiện trong năm 2024
 description: Giá phòng khách sạn là một trong những yếu tố, tiêu chí quan trọng trong quản lý kênh bán phòng khách sạn. Điều quan trọng cần giải quyết là cân bằng giữa trải nghiệm tích cực cho du khách, lẫn đem lại doanh thu hiệu quả cho khách sạn.
 image: https://banmaixanh.vercel.app/image/cover/001-187.jpg

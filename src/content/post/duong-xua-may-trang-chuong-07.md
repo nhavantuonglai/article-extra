@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2018-02-09T10:10:00Z
+pubDatetime: 2021-03-09T10:10:00Z
 title: Đường xưa mây trắng | Chương 06
 description: Tôi viết Đường Xưa Mây Trắng ở quán Xóm Thượng, khi chưa có lò sưởi trung ương, chỉ một lò củi nhỏ giữa trời lạnh.
 image: https://banmaixanh.vercel.app/image/cover/001-584.jpg

@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2017-11-27T10:10:00Z
+pubDatetime: 2017-04-22T10:10:00Z
 title: Liệu pháp định hướng insight sâu sắc là gì?
 description: Hiểu các hành vi có thể là một công cụ mạnh mẽ trong hành trình sức khỏe tâm thần của một người. Liệu pháp định hướng insight sâu sắc nhằm mục đích kết nối lịch sử với hiện tại để mang lại.
 image: https://banmaixanh.vercel.app/image/cover/001-347.jpg

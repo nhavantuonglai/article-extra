@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2019-06-15T10:10:00Z
+pubDatetime: 2016-08-12T10:10:00Z
 title: Hiểu về trái tim | Chương 32
 description: Hiểu về trái tim giúp hiểu và chữa lành trái tim, tâm hồn của mình, để mọi người cùng được sống trong hạnh phúc và yêu thương.
 image: https://banmaixanh.vercel.app/image/cover/001-732.jpg

@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2017-12-30T10:10:00Z
+pubDatetime: 2023-03-19T10:10:00Z
 title: Hướng dẫn viết lách sáng tạo, đột phá nhiều ý tưởng
 description: Viết SEO (Search Engine Optimization) là một kỹ năng quan trọng trong thời đại kỹ thuật số, nơi mà sự hiện diện trực tuyến đóng vai trò then chốt.
 image: https://banmaixanh.vercel.app/image/cover/001-140.jpg

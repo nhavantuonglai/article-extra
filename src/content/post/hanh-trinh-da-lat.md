@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2016-11-30T10:10:00Z
+pubDatetime: 2019-01-29T10:10:00Z
 title: Những ghi chép trong hành trình Đà Lạt
 description: Sau 2 năm ở Đà Nẵng, mình quyết định sẽ chuyển sang một thành phố khác, mình sẽ đến một nơi có khí hậu mát mẻ và có nhiều hoa, có nhiều dự định mình nghĩ sẽ khả thi nếu bắt đầu từ…
 image: https://banmaixanh.vercel.app/image/cover/001-486.jpg

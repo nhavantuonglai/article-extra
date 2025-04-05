@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2022-10-13T10:10:00Z
+pubDatetime: 2024-12-20T10:10:00Z
 title: Làm thế nào để tối ưu trải nghiệm nghe nhạc tại nhà
 description: Việc tối ưu trải nghiệm nghe nhạc tại nhà là một quá trình không chỉ đòi hỏi sự đầu tư về thiết bị mà còn cần hiểu biết về cách sắp xếp.
 image: https://banmaixanh.vercel.app/image/cover/001-416.jpg

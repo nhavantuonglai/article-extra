@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2019-04-13T10:10:00Z
+pubDatetime: 2018-12-13T10:10:00Z
 title: Bí quyết mua thấp bán cao bằng đường xu hướng trong biểu đồ giá vàng
 description: Chuỗi bài viết của nhavantuonglai về kinh doanh vàng bạc đá quý và quỹ đầu tư sẽ giúp nhà đầu tư khởi nghiệp hiệu quả.
 image: https://banmaixanh.vercel.app/image/cover/001-687.jpg

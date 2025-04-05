@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2018-08-27T10:10:00Z
+pubDatetime: 2019-08-14T10:10:00Z
 title: Giải pháp dịch bài chất lượng cao để tiếp cận đối tượng bất kể rào cản ngôn ngữ
 description: Hãy khám phá lợi ích của dịch vụ dịch thuật tiếp thị và xem việc dịch nội dung của công ty bạn có thể mang lại sự tăng trưởng, lợi nhuận và mở rộng toàn cầu như thế nào.
 image: https://banmaixanh.vercel.app/image/cover/001-449.jpg

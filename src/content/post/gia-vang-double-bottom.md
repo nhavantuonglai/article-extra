@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2022-09-03T10:10:00Z
+pubDatetime: 2017-07-04T10:10:00Z
 title: Chiến lược giao dịch bằng mô hình Double Bottom trong biểu đồ giá vàng
 description: Chuỗi bài viết của nhavantuonglai về kinh doanh vàng bạc đá quý và quỹ đầu tư sẽ giúp nhà đầu tư khởi nghiệp hiệu quả.
 image: https://banmaixanh.vercel.app/image/cover/001-680.jpg

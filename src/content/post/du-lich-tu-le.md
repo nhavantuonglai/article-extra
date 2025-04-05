@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2017-06-05T10:10:00Z
+pubDatetime: 2022-03-27T10:10:00Z
 title: Cẩm nang du lịch Tú Lệ
 description: Cẩm nang du lịch sau sẽ giúp người đọc có thêm hiểu biết hữu ích, giúp chuyến di lịch của mình trở nên ấn tượng và thú vị hơn bao giờ hết.
 image: https://banmaixanh.vercel.app/image/cover/001-568.jpg

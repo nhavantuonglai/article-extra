@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2021-06-02T10:10:00Z
+pubDatetime: 2017-10-13T10:10:00Z
 title: Hướng dẫn cách chọn tai nghe tốt
 description: Chọn một cặp tai nghe tốt có thể là một nhiệm vụ khó khăn, đặc biệt là khi thị trường hiện nay có vô số lựa chọn với nhiều tính năng và thiết kế khác nhau.
 image: https://banmaixanh.vercel.app/image/cover/001-178.jpg

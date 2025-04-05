@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2016-07-04T10:10:00Z
+pubDatetime: 2022-10-06T10:10:00Z
 title: Đối mặt với nỗi sợ khi viết lách như thế nào?
 description: Viết nước rút, hay writing sprints, là một phương pháp viết lách hiệu quả giúp nhà văn tăng năng suất.
 image: https://banmaixanh.vercel.app/image/cover/001-632.jpg

@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2019-01-30T10:10:00Z
+pubDatetime: 2015-10-23T10:10:00Z
 title: Gợi ý cách luyện tư duy viết lách
 description: Bài viết này sẽ khám phá các phương pháp và kỹ thuật để nâng cao tư duy sáng tạo trong viết lách hiệu quả hơn trong quá trình thực hành.
 image: https://banmaixanh.vercel.app/image/cover/001-146.jpg

@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2020-04-10T10:10:00Z
+pubDatetime: 2020-11-17T10:10:00Z
 title: Tiểu sử Edgar Allan Poe
 description: Edgar Allan Poe là bậc thầy văn học kinh dị, trinh thám với những tác phẩm huyền thoại như The Raven và The Tell Tale Heart.
 image: https://banmaixanh.vercel.app/image/cover/001-663.jpg

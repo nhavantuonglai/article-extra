@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2019-06-01T10:10:00Z
+pubDatetime: 2015-09-21T10:10:00Z
 title: 25 xu hướng công nghệ quan trọng nhất trong ngành khách sạn năm 2025
 description: Công nghệ khách sạn đóng vai trò quan trọng trong việc cải thiện trải nghiệm khách hàng, tiết kiệm thời gian và giảm chi phí.
 image: https://banmaixanh.vercel.app/image/cover/001-329.jpg

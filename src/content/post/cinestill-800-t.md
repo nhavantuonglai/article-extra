@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2016-09-10T10:10:00Z
+pubDatetime: 2017-08-09T10:10:00Z
 title: Đánh giá chất lượng film CineStill 800T
 description: Cuộn film CineStill 800T là một lựa chọn tuyệt vời cho những ai đam mê chụp ảnh film.
 image: https://banmaixanh.vercel.app/image/cover/001-305.jpg

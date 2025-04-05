@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2017-04-11T10:10:00Z
+pubDatetime: 2019-02-25T10:10:00Z
 title: Tăng doanh thu nhà hàng của bạn với Công thức RevPASH
 description: Tìm hiểu các chiến lược tiếp thị nhà hàng hiệu quả trong chuỗi bài viết sau của nhavantuonglai để áp dụng và đem lại hiệu quả thiết thực cho giải pháp của bạn.
 image: https://banmaixanh.vercel.app/image/cover/001-506.jpg

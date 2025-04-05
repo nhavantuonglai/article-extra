@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2016-06-21T10:10:00Z
+pubDatetime: 2022-03-21T10:10:00Z
 title: Đạo Phật áp dụng vào đời sống hàng ngày
 description: Thiền sư Thích Nhất Hạnh, sáng lập Làng Mai, truyền cảm hứng Phật giáo dấn thân, chánh niệm, giúp con người tĩnh tâm, hạnh phúc, hòa hợp thiên nhiên.
 image: https://banmaixanh.vercel.app/image/cover/001-399.jpg

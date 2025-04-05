@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2017-05-06T10:10:00Z
+pubDatetime: 2014-06-30T10:10:00Z
 title: Tầm quan trọng của quy trình vệ sinh khách sạn
 description: Hãy cùng tìm hiểu chi tiết về các quy trình vệ sinh, từ lợi ích đến các thủ tục bạn có thể áp dụng ngay hôm nay.
 image: https://banmaixanh.vercel.app/image/cover/001-476.jpg

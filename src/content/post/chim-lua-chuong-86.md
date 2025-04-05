@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2021-12-06T10:10:00Z
+pubDatetime: 2015-11-23T10:10:00Z
 title: Chim lửa | Chương 86
 description: Tezuka Osamu qua Chim lửa đặt ra câu hỏi về sự sống, cái chết, ý nghĩa tồn tại, nhấn mạnh con người chỉ thực sự sống khi hòa hợp với thiên nhiên. Đọc Chim lửa (Hi no Tori) chương 86 trong phần dưới đây.
 image: https://banmaixanh.vercel.app/image/cover/001-281.jpg

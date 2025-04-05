@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2023-04-15T10:10:00Z
+pubDatetime: 2018-07-04T10:10:00Z
 title: Quan hệ công chúng (PR) cho khách sạn và những gì cần biết
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
 image: https://banmaixanh.vercel.app/image/cover/001-554.jpg

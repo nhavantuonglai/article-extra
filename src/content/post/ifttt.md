@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2022-07-21T10:10:00Z
+pubDatetime: 2023-10-06T10:10:00Z
 title: Hướng dẫn cách tự động hóa nhiều tác vụ cùng IFTTT
 description: Bằng cách sử dụng IFTTT, người dùng có thể thực hiện các tác vụ mà trước đây phải thực hiện thủ công, như tự động gửi email, lên lịch đăng bài mạng xã hội.
 image: https://banmaixanh.vercel.app/image/cover/001-338.jpg

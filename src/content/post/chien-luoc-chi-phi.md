@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2019-06-10T10:10:00Z
+pubDatetime: 2021-07-05T10:10:00Z
 title: Chiến lược tốt nhất để giảm chi phí vận hành khách sạn là gì?
 description: Cung cấp trải nghiệm khách hàng vượt trội và tạo lợi nhuận tốt cho khách sạn là mục tiêu của mọi khách sạn. Dẫu vậy, nhiều khách sạn ở các cấp độ đều đang phải vật lộn với chi phí vận hành khách sạn cao.
 image: https://banmaixanh.vercel.app/image/cover/001-181.jpg

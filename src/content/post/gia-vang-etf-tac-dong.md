@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2017-06-06T10:10:00Z
+pubDatetime: 2019-08-13T10:10:00Z
 title: Tác động của quỹ ETF vào biểu đồ giá vàng
 description: Chuỗi bài viết của nhavantuonglai về kinh doanh vàng bạc đá quý và quỹ đầu tư sẽ giúp nhà đầu tư khởi nghiệp hiệu quả.
 image: https://banmaixanh.vercel.app/image/cover/001-683.jpg

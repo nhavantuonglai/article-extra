@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2017-11-28T10:10:00Z
+pubDatetime: 2023-02-13T10:10:00Z
 title: Những album nhạc nên có trong bộ sưu tập của một audiophile
 description: Một audiophile chân chính không chỉ quan tâm đến Chất lượng âm thanh mà còn yêu thích sưu tầm những album nhạc nổi tiếng.
 image: https://banmaixanh.vercel.app/image/cover/001-006.jpg

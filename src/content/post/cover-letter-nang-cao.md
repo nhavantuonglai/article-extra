@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2020-08-10T10:10:00Z
+pubDatetime: 2022-12-03T10:10:00Z
 title: Tầm quan trọng của cover letter
 description: Khi nói đến việc tìm việc, hầu hết mọi người tập trung vào việc hoàn thiện sơ yếu lý lịch của họ và quên đi cover letter. Tuy nhiên, cover letter là một phần thiết yếu của quá trình tìm việc và có thể tạo ra tác động đáng kể đến cơ hội được tuyển dụng của bạn.
 image: https://banmaixanh.vercel.app/image/cover/001-340.jpg

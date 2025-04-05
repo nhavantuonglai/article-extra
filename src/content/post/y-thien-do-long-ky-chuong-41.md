@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2023-01-02T10:10:00Z
+pubDatetime: 2014-09-27T10:10:00Z
 title: Ỷ thiên đồ long ký | Chương 41
 description: Một trong những tiểu thuyết võ hiệp hay nhất viết về tình yêu. Một mối tình khiến giang hồ dấy động can qua.
 image: https://banmaixanh.vercel.app/image/cover/001-384.jpg

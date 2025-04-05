@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2016-04-20T10:10:00Z
+pubDatetime: 2015-12-19T10:10:00Z
 title: Công nghệ blockchain hữu ích như thế nào trong ngành khách sạn?
 description: Công nghệ blockchain trong ngành khách sạn mang đến cơ hội lớn để tùy chỉnh trải nghiệm lưu trú và cung cấp dịch vụ tốt hơn.
 image: https://banmaixanh.vercel.app/image/cover/001-118.jpg

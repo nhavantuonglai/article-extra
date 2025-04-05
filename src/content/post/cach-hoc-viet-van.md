@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2016-04-12T10:10:00Z
+pubDatetime: 2014-03-27T10:10:00Z
 title: Hướng dẫn viết lách sáng tạo, đột phá nhiều ý tưởng
 description: Viết văn là một kỹ năng quý báu, không chỉ giúp chúng ta biểu đạt cảm xúc, tư tưởng mà còn là công cụ quan trọng trong giao tiếp và sáng tạo.
 image: https://banmaixanh.vercel.app/image/cover/001-141.jpg

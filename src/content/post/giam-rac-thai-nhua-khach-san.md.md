@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2018-09-23T10:10:00Z
+pubDatetime: 2016-05-07T10:10:00Z
 title: 4 cách giảm nhựa trong khách sạn
 description: Có nhiều cách để giảm việc sử dụng nhựa trong khách sạn của bạn, và chúng ta sẽ xem xét chi tiết trong bài viết này.
 image: https://banmaixanh.vercel.app/image/cover/001-699.jpg

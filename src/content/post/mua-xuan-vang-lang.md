@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2018-11-06T10:10:00Z
+pubDatetime: 2016-02-19T10:10:00Z
 title: Mùa xuân vắng lặng
 description: Mùa xuân vắng lặng gây chấn động xã hội Mỹ, cảnh tỉnh về môi trường, buộc Tổng thống Kennedy lập ủy ban điều tra thuốc diệt sinh vật.
 image: https://banmaixanh.vercel.app/image/cover/001-665.jpg

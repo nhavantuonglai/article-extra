@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2018-04-11T10:10:00Z
+pubDatetime: 2017-07-27T10:10:00Z
 title: Tìm hiểu câu châm ngôn write drunk, edit sober
 description: Viết lách say sưa, chỉnh sửa tỉnh táo là châm ngôn vô danh nổi tiếng. Dẫu vậy, nguồn gốc không quan trọng bằng ý nghĩa, khi đây là lời khích lệ hữu ích cho ai chập chưỡng bước vào nghề viết.
 image: https://banmaixanh.vercel.app/image/cover/001-629.jpg

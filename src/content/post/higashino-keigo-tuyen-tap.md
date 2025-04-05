@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2016-03-13T10:10:00Z
+pubDatetime: 2024-09-11T10:10:00Z
 title: Tuyển tập sách của Higashino Keigo
 description: Higashino Keigo là tiểu thuyết gia trinh thám hàng đầu Nhật Bản với nhiều tác phẩm hàng triệu bản bán ra trong và ngoài nước, gặt hái vô vàn giải thưởng.
 image: https://banmaixanh.vercel.app/image/cover/001-766.jpg

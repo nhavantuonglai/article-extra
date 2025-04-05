@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2016-04-01T10:10:00Z
+pubDatetime: 2014-09-03T10:10:00Z
 title: Mở tiệm Spa nhỏ cần bao nhiêu tiền?
 description: Tìm hiểu các chiến lược tiếp thị Spa hiệu quả trong chuỗi bài viết sau của nhavantuonglai để áp dụng và đem lại hiệu quả thiết thực cho giải pháp của bạn.
 image: https://banmaixanh.vercel.app/image/cover/001-094.jpg

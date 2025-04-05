@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2019-04-29T10:10:00Z
+pubDatetime: 2017-09-08T10:10:00Z
 title: Làm thế nào để phòng ngừa lây nhiễm bệnh bạch hầu
 description: Dù bệnh bạch cầu không phải là bệnh lây nhiễm, việc phòng ngừa và giảm nguy cơ mắc bệnh là rất quan trọng.
 image: https://banmaixanh.vercel.app/image/cover/001-044.jpg

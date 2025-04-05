@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2016-03-22T10:10:00Z
+pubDatetime: 2016-08-21T10:10:00Z
 title: 8 cách giữ chân du khách và tăng lượt đặt phòng lặp lại trong khách sạn
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
 image: https://banmaixanh.vercel.app/image/cover/001-431.jpg

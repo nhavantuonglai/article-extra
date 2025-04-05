@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2019-07-03T10:10:00Z
+pubDatetime: 2013-11-30T10:10:00Z
 title: Các rủi ro mà các quỹ đầu tư ETF có thể gặp trên thị trường
 description: Chuỗi bài viết của nhavantuonglai về kinh doanh vàng bạc đá quý và quỹ đầu tư sẽ giúp nhà đầu tư khởi nghiệp hiệu quả.
 image: https://banmaixanh.vercel.app/image/cover/001-682.jpg

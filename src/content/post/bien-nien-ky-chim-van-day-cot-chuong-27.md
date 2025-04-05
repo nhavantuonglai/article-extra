@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2017-04-06T10:10:00Z
+pubDatetime: 2015-11-15T10:10:00Z
 title: Biên niên ký chim vặn dây cót | Chương 27
 description: Biên niên ký chim vặn dây cót kể về tiếng chim vang lên trong khoảnh khắc quyết định, khi con người tỉnh thức tiếng lòng thầm kín.
 image: https://banmaixanh.vercel.app/image/cover/001-076.jpg

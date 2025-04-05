@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2023-12-26T10:10:00Z
+pubDatetime: 2018-07-05T10:10:00Z
 title: Tất cả những điều bạn cần biết về thời gian và quy trình nhận phòng, trả phòng khách sạn
 description: Ấn tượng đầu tiên có thể quyết định trải nghiệm của khách tại khách sạn, vì vậy, điều quan trọng là cần xác định rõ ràng thời gian nhận phòng khách sạn.
 image: https://banmaixanh.vercel.app/image/cover/001-168.jpg

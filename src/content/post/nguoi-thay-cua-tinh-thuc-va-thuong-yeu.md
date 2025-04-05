@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2018-01-24T10:10:00Z
+pubDatetime: 2024-08-22T10:10:00Z
 title: Người thầy của tỉnh thức và thương yêu
 description: Tôi viết Đường Xưa Mây Trắng ở quán Xóm Thượng, khi chưa có lò sưởi trung ương, chỉ một lò củi nhỏ giữa trời lạnh.
 image: https://banmaixanh.vercel.app/image/cover/001-446.jpg

@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2020-01-07T10:10:00Z
+pubDatetime: 2025-02-24T10:10:00Z
 title: Chim lửa | Chương 11
 description: Tezuka Osamu qua Chim lửa đặt ra câu hỏi về sự sống, cái chết, ý nghĩa tồn tại, nhấn mạnh con người chỉ thực sự sống khi hòa hợp với thiên nhiên. Đọc Chim lửa (Hi no Tori) chương 11 trong phần dưới đây.
 image: https://banmaixanh.vercel.app/image/cover/001-206.jpg

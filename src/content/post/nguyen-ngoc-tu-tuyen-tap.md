@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2022-10-26T10:10:00Z
+pubDatetime: 2015-06-13T10:10:00Z
 title: Tuyển tập sách của Nguyễn Ngọc Tư
 description: Cánh đồng bất tận bao gồm những truyện hay và mới nhất của nhà văn Nguyễn Ngọc Tư. Đây là tác phẩm đang gây xôn xao trong đời sống văn học, bởi ở đó người ta tìm thấy sự dữ dội, khốc liệt.
 image: https://banmaixanh.vercel.app/image/cover/001-322.jpg

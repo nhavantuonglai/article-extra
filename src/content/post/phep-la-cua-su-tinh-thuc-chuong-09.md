@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2021-04-06T10:10:00Z
+pubDatetime: 2015-07-12T10:10:00Z
 title: Phép lạ của sự thức tỉnh | Chương 09
 description: Thiền sư Thích Nhất Hạnh, sáng lập Làng Mai, truyền cảm hứng Phật giáo dấn thân, chánh niệm, giúp con người tĩnh tâm, hạnh phúc, hòa hợp thiên nhiên.
 image: https://banmaixanh.vercel.app/image/cover/001-166.jpg

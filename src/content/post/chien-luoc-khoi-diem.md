@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2018-12-13T10:10:00Z
+pubDatetime: 2022-06-13T10:10:00Z
 title: 10 chiến lược giá khởi điểm cho khách sạn để tối đa hóa doanh thu
 description: Vận hành một khách sạn là tìm ra điểm cân bằng mà khách hàng cảm thấy họ nhận được một giao dịch tốt, đồng thời bạn cũng tăng doanh thu.
 image: https://banmaixanh.vercel.app/image/cover/001-190.jpg

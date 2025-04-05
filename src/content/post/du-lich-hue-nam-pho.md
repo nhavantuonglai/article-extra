@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2017-06-21T10:10:00Z
+pubDatetime: 2022-11-28T10:10:00Z
 title: 5 món ăn dân dã vùng Nam Phổ
 description: Làng Nam Phổ thuộc xã Phú Thượng, huyện Phú Vang, cách thành phố Huế gần 6 km. Làng nổi tiếng về ẩm thực từ thế kỷ thứ 16, là địa danh gắn liền với đặc sản bánh canh Nam Phổ.
 image: https://banmaixanh.vercel.app/image/cover/001-513.jpg

@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2018-10-19T10:10:00Z
+pubDatetime: 2018-08-05T10:10:00Z
 title: 10 chiến lược giá rack rate của khách sạn để tối đa hóa doanh thu
 description: Thẻ từ khách sạn, NFC, thẻ từ và thẻ RFID là các loại thẻ khác nhau giúp việc vào phòng khách sạn trở nên dễ dàng hơn.
 image: https://banmaixanh.vercel.app/image/cover/001-194.jpg

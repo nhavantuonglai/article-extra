@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2019-07-19T10:10:00Z
+pubDatetime: 2019-09-13T10:10:00Z
 title: Phần mềm quản lý khách sạn hỗ trợ vận hành cho các khách sạn 5 sao như thế nào?
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
 image: https://banmaixanh.vercel.app/image/cover/001-028.jpg

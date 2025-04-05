@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2017-03-22T10:10:00Z
+pubDatetime: 2024-12-29T10:10:00Z
 title: 8 thách thức đối mặt khi triển khai chiến lược bán phòng của các khách sạn nhỏ lẻ
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
 image: https://banmaixanh.vercel.app/image/cover/001-192.jpg

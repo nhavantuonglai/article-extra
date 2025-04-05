@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2018-08-07T10:10:00Z
+pubDatetime: 2023-05-14T10:10:00Z
 title: Thám tử lừng danh Conan | Chương 0430
 description: Thám tử lừng danh Conan chương 0430 là tập truyện trinh thám sáng tác bởi Gosho Aoyama, ấn bản phát từ hành từ 1994 trên tạp chí Weekly Shōnen Sunday.
 image: https://banmaixanh.vercel.app/image/cover/001-048.jpg

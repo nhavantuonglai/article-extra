@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2016-10-23T10:10:00Z
+pubDatetime: 2014-12-23T10:10:00Z
 title: Hướng dẫn quản lý kênh bán phòng trực tuyến khách sạn hiệu quả
 description: Theo nghiên cứu từ Google, 60% du khách tìm cảm hứng cho chuyến đi trên internet. Vậy cho nên, các khách sạn cần làm nổi bật thương hiệu với các gói giá, dịch vụ nhằm thu hút nhiều khách đặt phòng hơn nữa.
 image: https://banmaixanh.vercel.app/image/cover/001-028.jpg

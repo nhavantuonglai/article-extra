@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2016-09-11T10:10:00Z
+pubDatetime: 2017-04-18T10:10:00Z
 title: Chim lửa | Chương 85
 description: Tezuka Osamu qua Chim lửa đặt ra câu hỏi về sự sống, cái chết, ý nghĩa tồn tại, nhấn mạnh con người chỉ thực sự sống khi hòa hợp với thiên nhiên. Đọc Chim lửa (Hi no Tori) chương 85 trong phần dưới đây.
 image: https://banmaixanh.vercel.app/image/cover/001-280.jpg

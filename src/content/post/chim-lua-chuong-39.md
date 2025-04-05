@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2016-05-04T10:10:00Z
+pubDatetime: 2024-03-23T10:10:00Z
 title: Chim lửa | Chương 39
 description: Tezuka Osamu qua Chim lửa đặt ra câu hỏi về sự sống, cái chết, ý nghĩa tồn tại, nhấn mạnh con người chỉ thực sự sống khi hòa hợp với thiên nhiên. Đọc Chim lửa (Hi no Tori) chương 39 trong phần dưới đây.
 image: https://banmaixanh.vercel.app/image/cover/001-234.jpg

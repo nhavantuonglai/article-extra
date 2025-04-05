@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2016-08-29T10:10:00Z
+pubDatetime: 2014-06-05T10:10:00Z
 title: Ảnh hưởng của chất lượng âm thanh đối với trải nghiệm nghe nhạc
 description: Chọn một cặp tai nghe tốt có thể là một nhiệm vụ khó khăn, đặc biệt là khi thị trường hiện nay có vô số lựa chọn với nhiều tính năng và thiết kế khác nhau.
 image: https://banmaixanh.vercel.app/image/cover/001-165.jpg

@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2016-06-27T10:10:00Z
+pubDatetime: 2024-06-11T10:10:00Z
 title: Công nghệ khách sạn tối ưu tạo nên trải nghiệm thân thiện như thế nào?
 description: Công nghệ có thể tối ưu trải nghiệm khách hàng, loại bỏ những rắc rối và điểm khó chịu, nhưng chính con người mới làm nên sự đặc biệt của ngành dịch vụ khách sạn.
 image: https://banmaixanh.vercel.app/image/cover/001-331.jpg

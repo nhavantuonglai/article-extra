@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2016-06-10T10:10:00Z
+pubDatetime: 2023-05-23T10:10:00Z
 title: Đường xưa mây trắng | Chương 82
 description: Tôi viết Đường Xưa Mây Trắng ở quán Xóm Thượng, khi chưa có lò sưởi trung ương, chỉ một lò củi nhỏ giữa trời lạnh.
 image: https://banmaixanh.vercel.app/image/cover/001-660.jpg

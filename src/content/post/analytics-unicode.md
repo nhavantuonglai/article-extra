@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2016-12-01T10:10:00Z
+pubDatetime: 2016-01-18T10:10:00Z
 title: Giới thiệu công cụ chuyển đổi font chữ facebook
 description: Công cụ chuyển đổi font chữ Facebook giúp người dùng chuẩn hóa, chuyển hóa dữ liệu đầu ra, phục vụ cho các mục đích nghiên cứu, marketing.
 image: https://banmaixanh.vercel.app/image/cover/001-023.jpg

@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2025-01-18T10:10:00Z
+pubDatetime: 2014-04-24T10:10:00Z
 title: 8 chiến lược hạn chế tình trạng hủy đặt phòng khách sạn
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
 image: https://banmaixanh.vercel.app/image/cover/001-188.jpg

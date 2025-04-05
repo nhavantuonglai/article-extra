@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2021-04-04T10:10:00Z
+pubDatetime: 2017-01-02T10:10:00Z
 title: Nhập môn bộ khuếch đại âm than chất lượng cao (audiophile)
 description: Bộ khuếch đại âm thanh là thiết bị quan trọng trong hệ thống âm thanh, giúp tăng cường tín hiệu âm thanh từ nguồn phát đến loa.
 image: https://banmaixanh.vercel.app/image/cover/001-378.jpg

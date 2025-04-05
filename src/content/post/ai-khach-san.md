@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2016-09-16T10:10:00Z
+pubDatetime: 2014-11-21T10:10:00Z
 title: Cách AI đang định hình ngành khách sạn
 description: Bạn cảm thấy thế nào khi ai đó nhắc đến AI? Nó có làm bạn sợ hãi hay phấn khích?
 image: https://banmaixanh.vercel.app/image/cover/001-003.jpg

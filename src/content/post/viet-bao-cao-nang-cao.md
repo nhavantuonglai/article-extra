@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2016-09-27T10:10:00Z
+pubDatetime: 2015-11-07T10:10:00Z
 title: Hướng dẫn viết báo cáo nâng cao
 description: Cho dù bạn đang viết báo cáo cảnh sát hay báo cáo kinh doanh, nắm vững nghệ thuật viết báo cáo là rất quan trọng để thành công.
 image: https://banmaixanh.vercel.app/image/cover/001-243.jpg

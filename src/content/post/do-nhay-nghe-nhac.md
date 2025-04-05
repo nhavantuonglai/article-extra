@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2020-12-28T10:10:00Z
+pubDatetime: 2025-03-17T10:10:00Z
 title: Tìm hiểu các công nghệ âm thanh (audiophile) hiện nay
 description: Độ nhạy tai nghe là một trong những yếu tố quan trọng nhất ảnh hưởng đến chất lượng âm thanh và trải nghiệm nghe nhạc của người dùng.
 image: https://banmaixanh.vercel.app/image/cover/001-455.jpg

@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2023-03-07T10:10:00Z
+pubDatetime: 2013-10-17T10:10:00Z
 title: Những kỹ năng cần thiết giúp viết lách tốt hơn
 description: Viết lách là một nghệ thuật, nhưng cũng là một kỹ năng có thể học hỏi và trau dồi. Để viết lách tốt hơn, không chỉ cần có sự sáng tạo mà còn cần các kỹ năng cụ thể.
 image: https://banmaixanh.vercel.app/image/cover/001-022.jpg

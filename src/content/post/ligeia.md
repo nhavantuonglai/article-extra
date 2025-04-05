@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2017-08-19T10:10:00Z
+pubDatetime: 2019-03-19T10:10:00Z
 title: Edgar Allan Poe | Ligeia
 description: Edgar Allan Poe (1809 – 1849) là một trong những nhà văn, nhà thơ, và nhà phê bình văn học nổi tiếng nhất nước Mỹ.
 image: https://banmaixanh.vercel.app/image/cover/001-218.jpg

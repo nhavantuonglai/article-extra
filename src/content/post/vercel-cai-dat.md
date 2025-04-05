@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2021-01-16T10:10:00Z
+pubDatetime: 2017-08-20T10:10:00Z
 title: Hướng dẫn xuất bản website bằng Vercel
 description: Astro là một framework hiện đại giúp xây dựng các website tĩnh nhanh chóng và hiệu quả.
 image: https://banmaixanh.vercel.app/image/cover/001-239.jpg

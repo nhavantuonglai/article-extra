@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2020-09-28T10:10:00Z
+pubDatetime: 2024-05-30T10:10:00Z
 title: Bụt là hình hài, Bụt là tâm thức | Chương 05
 description: Thiền sư Thích Nhất Hạnh, sáng lập Làng Mai, truyền cảm hứng Phật giáo dấn thân, chánh niệm, giúp con người tĩnh tâm, hạnh phúc, hòa hợp thiên nhiên.
 image: https://banmaixanh.vercel.app/image/cover/001-131.jpg

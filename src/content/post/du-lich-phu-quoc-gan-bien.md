@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2020-06-04T10:10:00Z
+pubDatetime: 2016-04-07T10:10:00Z
 title: Điểm danh những khách sạn gần biển Phú Quốc không nên bỏ lỡ
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
 image: https://banmaixanh.vercel.app/image/cover/001-540.jpg

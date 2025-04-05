@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2018-02-01T10:10:00Z
+pubDatetime: 2018-01-15T10:10:00Z
 title: 20 cách phối đồ đi chơi Tết & phụ kiện đẹp, hot trend
 description: 20 cách phối đồ đi chơi Tết & phụ kiện đẹp, hot trend. Thời điểm Giáng sinh là dịp để mọi người sắm sửa lại tủ quần áo của mình.
 image: https://banmaixanh.vercel.app/image/cover/001-131.jpg

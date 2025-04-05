@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2020-01-01T10:10:00Z
+pubDatetime: 2015-10-06T10:10:00Z
 title: Thiên long bát bộ | Chương 20
 description: Trong những tinh phẩm thượng thừa, Thiên Long bát bộ luôn được đánh giá là một trong những kiệt tác của Kim Dung.
 image: https://banmaixanh.vercel.app/image/cover/001-179.jpg

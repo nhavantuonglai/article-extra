@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2020-06-16T10:10:00Z
+pubDatetime: 2021-07-25T10:10:00Z
 title: Khi cameraman để chiếc máy quay rung
 description: Có một khoảnh khắc mà hôm nay khi bắt gặp, nó khiến mình nhớ đến trận chung kết AFF Cup 2008, ở đó có một khoảnh khắc ghi hình vô cùng nghiệp dư trên sóng truyền hình.
 image: https://banmaixanh.vercel.app/image/cover/001-148.jpg

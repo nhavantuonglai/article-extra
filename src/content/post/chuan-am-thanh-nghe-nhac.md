@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2022-02-15T10:10:00Z
+pubDatetime: 2016-10-13T10:10:00Z
 title: Tìm hiểu về các chuẩn công nghệ âm thanh như Dolby Atmos, DTSX
 description: Công nghệ âm thanh đã phát triển mạnh mẽ, mang lại trải nghiệm nghe nhạc và xem phim chất lượng cao hơn bao giờ hết.
 image: https://banmaixanh.vercel.app/image/cover/001-299.jpg

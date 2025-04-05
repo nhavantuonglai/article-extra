@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2021-09-20T10:10:00Z
+pubDatetime: 2023-05-30T10:10:00Z
 title: Top phim Netflix độc lập đáng xem nhất trong năm 2025
 description: Netflix là nền tảng phát hành phim trực tuyến, danh sách dưới đây là các top phim độc lập đáng xem nhất trong năm nay, với nhiều thể loại, nội dung hấp dẫn và thú vị.
 image: https://banmaixanh.vercel.app/image/cover/001-681.jpg

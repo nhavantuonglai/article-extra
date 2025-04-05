@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2017-02-26T10:10:00Z
+pubDatetime: 2024-04-12T10:10:00Z
 title: 5 loại lừa đảo thẻ tín dụng tại khách sạn và cách ngăn chặn chúng
 description: Hãy cùng tìm hiểu những gì cấu thành một vụ lừa đảo thẻ tín dụng, các loại lừa đảo nhắm vào khách sạn và các chiến lược ngăn chặn hiệu quả.
 image: https://banmaixanh.vercel.app/image/cover/001-769.jpg

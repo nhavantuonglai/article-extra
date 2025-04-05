@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2017-10-11T10:10:00Z
+pubDatetime: 2019-12-24T10:10:00Z
 title: Trí tuệ nhân tạo đang cách mạng hóa ngành khách sạn như thế nào?
 description: Trong bài viết này, chúng ta sẽ khám phá cách trí tuệ nhân tạo đang thay đổi cách các khách sạn hoạt động và tương tác với khách hàng.
 image: https://banmaixanh.vercel.app/image/cover/001-004.jpg

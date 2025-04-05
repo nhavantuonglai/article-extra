@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2018-05-19T10:10:00Z
+pubDatetime: 2014-10-14T10:10:00Z
 title: Những chiến lược chăm sóc du khách sau lưu trú để thu hút đặt phòng trở lại
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
 image: https://banmaixanh.vercel.app/image/cover/001-180.jpg

@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2017-12-01T10:10:00Z
+pubDatetime: 2023-07-11T10:10:00Z
 title: 4 lời khuyên hữu ích về cách xây dựng sự tự tin ở chó
 description: Chúng ta đều biết rằng những của chúng ta cần tập thể dục và thường nghĩ rằng đây chỉ là cuộc đi bộ hàng ngày của chúng.
 image: https://banmaixanh.vercel.app/image/cover/001-712.jpg

@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2020-03-20T10:10:00Z
+pubDatetime: 2013-10-09T10:10:00Z
 title: Hướng dẫn viết lách hiệu quả
 description: Viết lách là một khía cạnh không thể phủ nhận của cuộc sống hiện đại. Từ những bài viết trên blog cá nhân, các tài liệu kinh doanh, cho đến các nghiên cứu học thuật.
 image: https://banmaixanh.vercel.app/image/cover/001-527.jpg

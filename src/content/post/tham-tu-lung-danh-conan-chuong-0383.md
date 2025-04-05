@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2016-04-11T10:10:00Z
+pubDatetime: 2014-10-01T10:10:00Z
 title: Thám tử lừng danh Conan | Chương 0383
 description: Thám tử lừng danh Conan chương 0383 là tập truyện trinh thám sáng tác bởi Gosho Aoyama, ấn bản phát từ hành từ 1994 trên tạp chí Weekly Shōnen Sunday.
 image: https://banmaixanh.vercel.app/image/cover/001-647.jpg

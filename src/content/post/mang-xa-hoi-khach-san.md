@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2017-04-15T10:10:00Z
+pubDatetime: 2017-12-04T10:10:00Z
 title: 15 chiến lược marketing mạng xã hội cho khách sạn năm 2024
 description: Marketing truyền thông xã hội cho khách sạn là chìa khóa để tăng cường sự hiện diện, thúc đẩy đặt phòng trực tiếp.
 image: https://banmaixanh.vercel.app/image/cover/001-760.jpg

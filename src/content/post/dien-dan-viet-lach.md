@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2018-04-13T10:10:00Z
+pubDatetime: 2021-09-12T10:10:00Z
 title: Tìm hiểu về những diễn đàn viết lách chất lượng cao
 description: Danh sách những diễn đàn viết lách chất lượng cao, nơi bạn có thể phát triển kỹ năng và kết nối với những người cùng đam mê.
 image: https://banmaixanh.vercel.app/image/cover/001-451.jpg

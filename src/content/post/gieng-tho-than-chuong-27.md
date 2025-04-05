@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2016-09-23T10:10:00Z
+pubDatetime: 2017-09-09T10:10:00Z
 title: Giếng thở than | Chương 27
 description: Montague Rhodes James là tác giả nổi tiếng với những truyện ma kinh điển tiếng Anh, trong đó có tác phẩm Giếng thở than.
 image: https://banmaixanh.vercel.app/image/cover/001-711.jpg

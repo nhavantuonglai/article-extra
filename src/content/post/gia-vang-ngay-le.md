@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2019-05-04T10:10:00Z
+pubDatetime: 2020-09-09T10:10:00Z
 title: Giá vàng hôm nay ra sao trong những ngày cận lễ?
 description: Chuỗi bài viết của nhavantuonglai về kinh doanh vàng bạc đá quý và quỹ đầu tư sẽ giúp nhà đầu tư khởi nghiệp hiệu quả.
 image: https://banmaixanh.vercel.app/image/cover/001-688.jpg

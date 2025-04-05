@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2021-01-06T10:10:00Z
+pubDatetime: 2018-09-21T10:10:00Z
 title: Apple Pay cải thiện trải nghiệm khách hàng của khách sạn bạn như thế nào?
 description: Nếu khách sạn của bạn chưa áp dụng Apple Pay, đã đến lúc xem xét phương thức thanh toán này để tối ưu quy trình thanh toán.
 image: https://banmaixanh.vercel.app/image/cover/001-024.jpg

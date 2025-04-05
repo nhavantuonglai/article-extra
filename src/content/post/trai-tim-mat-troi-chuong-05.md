@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2018-07-19T10:10:00Z
+pubDatetime: 2022-08-29T10:10:00Z
 title: Trái tim mặt trời | Chương 05
 description: Thiền sư Thích Nhất Hạnh, sáng lập Làng Mai, truyền cảm hứng Phật giáo dấn thân, chánh niệm, giúp con người tĩnh tâm, hạnh phúc, hòa hợp thiên nhiên.
 image: https://banmaixanh.vercel.app/image/cover/001-428.jpg

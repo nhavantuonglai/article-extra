@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2019-12-24T10:10:00Z
+pubDatetime: 2019-06-02T10:10:00Z
 title: Để trở thành nhà văn
 description: Thu Giang, hiệu của Nguyễn Duy Cần (1907 – 1998), là học giả, nhà văn, biên khảo kỳ cựu Việt Nam thế kỷ 20, quê Mỹ Tho, Tiền Giang.
 image: https://banmaixanh.vercel.app/image/cover/001-445.jpg

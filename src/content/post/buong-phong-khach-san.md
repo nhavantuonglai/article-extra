@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2018-08-15T10:10:00Z
+pubDatetime: 2017-04-10T10:10:00Z
 title: Làm thế nào để quản lý buồng phòng khách sạn tốt hơn?
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
 image: https://banmaixanh.vercel.app/image/cover/001-125.jpg

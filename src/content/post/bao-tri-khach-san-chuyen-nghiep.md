@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2018-10-06T10:10:00Z
+pubDatetime: 2016-04-12T10:10:00Z
 title: 5 giải pháp nên thực hiện để bảo trì khách sạn chuyên nghiệp, hiệu quả hơn
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
 image: https://banmaixanh.vercel.app/image/cover/001-030.jpg

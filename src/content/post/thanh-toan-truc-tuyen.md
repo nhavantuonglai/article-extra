@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2017-09-07T10:10:00Z
+pubDatetime: 2016-10-02T10:10:00Z
 title: Những lợi ích khi áp dụng thanh toán trực tuyến, không dùng tiền mặt trong khách sạn
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
 image: https://banmaixanh.vercel.app/image/cover/001-701.jpg

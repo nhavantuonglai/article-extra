@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2016-08-05T10:10:00Z
+pubDatetime: 2013-11-23T10:10:00Z
 title: Xạ điêu anh hùng truyện | Chương 37
 description: Một trong những tiểu thuyết võ hiệp hay nhất viết về tình yêu. Một mối tình khiến giang hồ dấy động can qua.
 image: https://banmaixanh.vercel.app/image/cover/001-346.jpg

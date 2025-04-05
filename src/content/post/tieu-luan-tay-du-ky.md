@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2022-05-18T10:10:00Z
+pubDatetime: 2022-05-15T10:10:00Z
 title: Tài liệu của Ban biên tập NXB Nhân dân Văn học Bắc Kinh bàn về Tây Du Ký
 description: Tây Du Ký là một bộ tiểu thuyết thần thoại trường thiên, lãng mạn tích cực rất vĩ đại. Quá trình ra đời của bộ truyện này cũng giống như Tam quốc diền nghĩa và Thủy Hử.
 image: https://banmaixanh.vercel.app/image/cover/001-384.jpg

@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2019-01-03T10:10:00Z
+pubDatetime: 2018-03-17T10:10:00Z
 title: Nhập môn tai nghe để thưởng thức âm thanh (audiophile)
 description: Tai nghe là thiết bị quan trọng giúp chúng ta tận hưởng âm nhạc, xem phim, hoặc trò chuyện mà không làm phiền người khác.
 image: https://banmaixanh.vercel.app/image/cover/001-766.jpg

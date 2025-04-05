@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2024-01-08T10:10:00Z
+pubDatetime: 2014-04-19T10:10:00Z
 title: Channel Manager là gì và tại sao các khách sạn nên sử dụng một công cụ quản lý kênh?
 description: Channel Manager cho khách sạn chính xác là gì? Kiến trúc số này hoạt động như thế nào, và những lợi ích chính của nó là gì?
 image: https://banmaixanh.vercel.app/image/cover/001-160.jpg

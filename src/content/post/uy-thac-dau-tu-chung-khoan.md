@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2017-11-24T10:10:00Z
+pubDatetime: 2023-03-04T10:10:00Z
 title: Ủy thác đầu tư chứng khoán là gì, có nên tham gia không?
 description: Chuỗi bài viết của nhavantuonglai về kinh doanh vàng bạc đá quý và quỹ đầu tư sẽ giúp nhà đầu tư khởi nghiệp hiệu quả.
 image: https://banmaixanh.vercel.app/image/cover/001-259.jpg

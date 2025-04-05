@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2017-01-30T10:10:00Z
+pubDatetime: 2020-12-17T10:10:00Z
 title: Tổng hợp các trang chia sẻ dự án, tập huấn, sự kiện, cơ hội dành cho giới trẻ
 description: Mình nghĩ, một con người năng động thì sẽ luôn muốn nhìn thấy những thứ năng động, bởi vậy,  Bài share này mình tổng hợp lại với mục đích chia sẻ với mọi người cái news feed mà mình đang nhìn hằng ngày.
 image: https://banmaixanh.vercel.app/image/cover/001-178.jpg

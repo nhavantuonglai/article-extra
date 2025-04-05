@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2021-10-21T10:10:00Z
+pubDatetime: 2021-08-23T10:10:00Z
 title: Phần mềm quản lý Spa miễn phí của giải pháp có gì đặc biệt?
 description: Tìm hiểu các chiến lược tiếp thị Spa hiệu quả trong chuỗi bài viết sau của nhavantuonglai để áp dụng và đem lại hiệu quả thiết thực cho giải pháp của bạn.
 image: https://banmaixanh.vercel.app/image/cover/001-543.jpg

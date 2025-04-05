@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2017-05-11T10:10:00Z
+pubDatetime: 2023-09-16T10:10:00Z
 title: Tìm hiểu về bệnh bạch hầu
 description: Bạch hầu là bệnh nhiễm khuẩn, nhiễm độc cấp tính do vi khuẩn bạch hầu gây nên, tỷ lệ tử vong từ 5 đến 10%.
 image: https://banmaixanh.vercel.app/image/cover/001-046.jpg

@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2017-09-23T10:10:00Z
+pubDatetime: 2018-03-18T10:10:00Z
 title: Xây dựng các tiêu chuẩn nhà hàng để nâng cao trải nghiệm thực khách
 description: Tìm hiểu các chiến lược tiếp thị nhà hàng hiệu quả trong chuỗi bài viết sau của nhavantuonglai để áp dụng và đem lại hiệu quả thiết thực cho giải pháp của bạn.
 image: https://banmaixanh.vercel.app/image/cover/001-064.jpg

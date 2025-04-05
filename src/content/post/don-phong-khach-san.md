@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2019-04-07T10:10:00Z
+pubDatetime: 2015-08-24T10:10:00Z
 title: Tương lai của công nghệ dọn phòng khách sạn
 description: Dưới đây, chúng ta sẽ khám phá lý do tại sao bộ phận dọn phòng lại là điểm khởi đầu quan trọng.
 image: https://banmaixanh.vercel.app/image/cover/001-475.jpg

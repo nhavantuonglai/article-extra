@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2024-02-16T10:10:00Z
+pubDatetime: 2020-12-12T10:10:00Z
 title: Thiên long bát bộ | Chương 08
 description: Trong những tinh phẩm thượng thừa, Thiên Long bát bộ luôn được đánh giá là một trong những kiệt tác của Kim Dung.
 image: https://banmaixanh.vercel.app/image/cover/001-201.jpg

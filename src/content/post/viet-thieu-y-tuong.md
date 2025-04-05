@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2017-02-11T10:10:00Z
+pubDatetime: 2015-12-30T10:10:00Z
 title: Làm thế nào để viết khi không có ý tưởng?
 description: Viết là một hoạt động sáng tạo và thú vị, nhưng cũng có những lúc bạn gặp phải tình trạng không có ý tưởng, bí ý hoặc mất cảm hứng.
 image: https://banmaixanh.vercel.app/image/cover/001-349.jpg

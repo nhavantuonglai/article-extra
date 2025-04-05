@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2019-03-25T10:10:00Z
+pubDatetime: 2016-04-20T10:10:00Z
 title: Thần điêu hiệp lữ | Chương 27
 description: Một trong những tiểu thuyết võ hiệp hay nhất viết về tình yêu. Một mối tình khiến giang hồ dấy động can qua.
 image: https://banmaixanh.vercel.app/image/cover/001-391.jpg

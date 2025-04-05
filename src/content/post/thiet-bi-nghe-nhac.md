@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2017-01-03T10:10:00Z
+pubDatetime: 2015-11-25T10:10:00Z
 title: Nhập môn thiết bị âm thanh chất lượng cao (audiophile) hoàn hảo
 description: Chọn thiết bị âm thanh là quá trình quan trọng để đảm bảo bạn có trải nghiệm nghe nhạc, xem phim, hoặc tham gia các hoạt động thể thao một cách hoàn hảo.
 image: https://banmaixanh.vercel.app/image/cover/001-399.jpg

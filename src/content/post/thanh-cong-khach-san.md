@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2016-10-06T10:10:00Z
+pubDatetime: 2025-03-28T10:10:00Z
 title: Để khởi nghiệp khách sạn thành công trong năm 2025
 description: Bạn đang muốn khởi nghiệp trong lĩnh vực khách sạn nhưng không biết bắt đầu từ đâu? Quy trình này có thể khá choáng ngợp, đặc biệt khi bạn bắt đầu từ con số 0.
 image: https://banmaixanh.vercel.app/image/cover/001-539.jpg

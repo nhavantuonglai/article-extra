@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2018-02-07T10:10:00Z
+pubDatetime: 2024-04-08T10:10:00Z
 title: Cẩm nang du lịch Tam Đảo
 description: Cẩm nang du lịch sau sẽ giúp người đọc có thêm hiểu biết hữu ích, giúp chuyến di lịch của mình trở nên ấn tượng và thú vị hơn bao giờ hết.
 image: https://banmaixanh.vercel.app/image/cover/001-563.jpg

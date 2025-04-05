@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2020-08-18T10:10:00Z
+pubDatetime: 2019-11-26T10:10:00Z
 title: Thiên long bát bộ | Chương 31
 description: Trong những tinh phẩm thượng thừa, Thiên Long bát bộ luôn được đánh giá là một trong những kiệt tác của Kim Dung.
 image: https://banmaixanh.vercel.app/image/cover/001-126.jpg

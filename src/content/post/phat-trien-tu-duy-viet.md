@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2020-05-17T10:10:00Z
+pubDatetime: 2017-11-04T10:10:00Z
 title: Cách để phát triển tư duy viết lách
 description: Bài viết này sẽ khám phá các phương pháp và kỹ thuật để nâng cao tư duy sáng tạo trong viết lách hiệu quả hơn trong quá trình thực hành.
 image: https://banmaixanh.vercel.app/image/cover/001-167.jpg

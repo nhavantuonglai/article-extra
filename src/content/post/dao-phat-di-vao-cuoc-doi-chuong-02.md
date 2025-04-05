@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2018-04-01T10:10:00Z
+pubDatetime: 2024-05-24T10:10:00Z
 title: Đạo Phật đi vào cuộc đời | Chương 02
 description: Thiền sư Thích Nhất Hạnh, sáng lập Làng Mai, truyền cảm hứng Phật giáo dấn thân, chánh niệm, giúp con người tĩnh tâm, hạnh phúc, hòa hợp thiên nhiên.
 image: https://banmaixanh.vercel.app/image/cover/001-406.jpg

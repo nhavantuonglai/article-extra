@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2017-07-16T10:10:00Z
+pubDatetime: 2016-11-09T10:10:00Z
 title: Sức mạnh của dữ liệu khách sạn trong ngành khách sạn
 description: Dữ liệu khách sạn nên là cơ sở cho mọi quyết định kinh doanh của bạn. Hãy xem nó như một lực lượng quan trọng định hình chiến lược.
 image: https://banmaixanh.vercel.app/image/cover/001-577.jpg

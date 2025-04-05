@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2018-07-24T10:10:00Z
+pubDatetime: 2015-05-18T10:10:00Z
 title: Hướng dẫn chi tiết viết lách chuyên nghiệp
 description: Viết lách chuyên nghiệp là một kỹ năng quan trọng trong nhiều lĩnh vực, từ báo chí, truyền thông, marketing.
 image: https://banmaixanh.vercel.app/image/cover/001-212.jpg

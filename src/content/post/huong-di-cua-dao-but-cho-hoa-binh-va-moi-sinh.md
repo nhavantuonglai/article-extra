@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2019-09-13T10:10:00Z
+pubDatetime: 2015-06-24T10:10:00Z
 title: Hướng đi của đạo Bụt cho hòa bình và môi sinh
 description: Thiền sư Thích Nhất Hạnh, sáng lập Làng Mai, truyền cảm hứng Phật giáo dấn thân, chánh niệm, giúp con người tĩnh tâm, hạnh phúc, hòa hợp thiên nhiên.
 image: https://banmaixanh.vercel.app/image/cover/001-589.jpg

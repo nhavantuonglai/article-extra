@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2019-08-17T10:10:00Z
+pubDatetime: 2017-07-26T10:10:00Z
 title: Khi nào nên dùng phần mềm quản lý khách sạn miễn phí?
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
 image: https://banmaixanh.vercel.app/image/cover/001-710.jpg

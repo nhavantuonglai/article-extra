@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2019-06-12T10:10:00Z
+pubDatetime: 2017-06-18T10:10:00Z
 title: Thiên long bát bộ | Chương 38
 description: Trong những tinh phẩm thượng thừa, Thiên Long bát bộ luôn được đánh giá là một trong những kiệt tác của Kim Dung.
 image: https://banmaixanh.vercel.app/image/cover/001-489.jpg

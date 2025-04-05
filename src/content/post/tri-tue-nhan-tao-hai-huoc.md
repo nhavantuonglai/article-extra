@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2017-04-13T10:10:00Z
+pubDatetime: 2018-06-23T10:10:00Z
 title: Trí tuệ nhân tạo có thể cười không?
 description: Mục sư Tad Lindley ở Alaska đã xuất bản một bài luận chỉ ra các dấu hiệu của chủ nghĩa vô thần cấp độ thấp.
 image: https://banmaixanh.vercel.app/image/cover/001-702.jpg

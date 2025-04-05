@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2018-07-16T10:10:00Z
+pubDatetime: 2019-10-13T10:10:00Z
 title: Thám tử lừng danh Conan | Tập 019
 description: Thám tử lừng danh Conan tập 019 là tập truyện trinh thám sáng tác bởi Gosho Aoyama, ấn bản phát từ hành từ 1994 trên tạp chí Weekly Shōnen Sunday.
 image: https://banmaixanh.vercel.app/image/cover/001-552.jpg

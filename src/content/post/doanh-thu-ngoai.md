@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2019-10-25T10:10:00Z
+pubDatetime: 2019-04-01T10:10:00Z
 title: Tăng doanh thu khách sạn với các hoạt động ngoài bán phòng khách sạn
 description: Tìm hiểu chiến lược tiếp thị và khai thác bán phòng khách sạn hiệu quả trong chuỗi bài viết của nhavantuonglai để áp dụng và đạt hiệu quả thực tế.
 image: https://banmaixanh.vercel.app/image/cover/001-470.jpg

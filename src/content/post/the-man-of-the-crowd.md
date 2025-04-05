@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2020-05-03T10:10:00Z
+pubDatetime: 2020-10-24T10:10:00Z
 title: Edgar Allan Poe | The man of the crowd
 description: Edgar Allan Poe (1809 – 1849) là một trong những nhà văn, nhà thơ, và nhà phê bình văn học nổi tiếng nhất nước Mỹ.
 image: https://banmaixanh.vercel.app/image/cover/001-516.jpg

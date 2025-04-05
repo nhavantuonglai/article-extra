@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2017-11-28T10:10:00Z
+pubDatetime: 2016-05-05T10:10:00Z
 title: Về giá vàng hôm nay có bao nhiêu thứ để bàn?
 description: Chuỗi bài viết của nhavantuonglai về kinh doanh vàng bạc đá quý và quỹ đầu tư sẽ giúp nhà đầu tư khởi nghiệp hiệu quả.
 image: https://banmaixanh.vercel.app/image/cover/001-694.jpg

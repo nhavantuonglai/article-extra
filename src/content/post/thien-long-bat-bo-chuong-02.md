@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2016-04-02T10:10:00Z
+pubDatetime: 2016-04-15T10:10:00Z
 title: Thiên long bát bộ | Chương 02
 description: Trong những tinh phẩm thượng thừa, Thiên Long bát bộ luôn được đánh giá là một trong những kiệt tác của Kim Dung.
 image: https://banmaixanh.vercel.app/image/cover/001-517.jpg

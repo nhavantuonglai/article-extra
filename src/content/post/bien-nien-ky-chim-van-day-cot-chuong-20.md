@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2020-06-11T10:10:00Z
+pubDatetime: 2015-06-22T10:10:00Z
 title: Biên niên ký chim vặn dây cót | Chương 20
 description: Biên niên ký chim vặn dây cót kể về tiếng chim vang lên trong khoảnh khắc quyết định, khi con người tỉnh thức tiếng lòng thầm kín.
 image: https://banmaixanh.vercel.app/image/cover/001-069.jpg

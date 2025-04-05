@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2019-07-21T10:10:00Z
+pubDatetime: 2021-04-23T10:10:00Z
 title: Xạ điêu anh hùng truyện | Chương 01
 description: Một trong những tiểu thuyết võ hiệp hay nhất viết về tình yêu. Một mối tình khiến giang hồ dấy động can qua.
 image: https://banmaixanh.vercel.app/image/cover/001-187.jpg

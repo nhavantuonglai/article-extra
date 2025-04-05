@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2021-07-04T10:10:00Z
+pubDatetime: 2014-02-08T10:10:00Z
 title: Thiên long bát bộ | Chương 27
 description: Trong những tinh phẩm thượng thừa, Thiên Long bát bộ luôn được đánh giá là một trong những kiệt tác của Kim Dung.
 image: https://banmaixanh.vercel.app/image/cover/001-386.jpg

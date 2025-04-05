@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2017-02-02T10:10:00Z
+pubDatetime: 2014-01-15T10:10:00Z
 title: Thám tử lừng danh Conan | Chương 0797
 description: Thám tử lừng danh Conan chương 0797 là tập truyện trinh thám sáng tác bởi Gosho Aoyama, ấn bản phát từ hành từ 1994 trên tạp chí Weekly Shōnen Sunday.
 image: https://banmaixanh.vercel.app/image/cover/001-012.jpg

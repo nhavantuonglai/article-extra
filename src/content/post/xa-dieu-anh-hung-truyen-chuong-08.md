@@ -1,5 +1,5 @@
 ---
-pubDatetime: 2023-07-07T10:10:00Z
+pubDatetime: 2020-01-20T10:10:00Z
 title: Xạ điêu anh hùng truyện | Chương 08
 description: Một trong những tiểu thuyết võ hiệp hay nhất viết về tình yêu. Một mối tình khiến giang hồ dấy động can qua.
 image: https://banmaixanh.vercel.app/image/cover/001-740.jpg
