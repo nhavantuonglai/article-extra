@@ -5,7 +5,7 @@ title: "Lịch sử phiên bản"
 
 _\article_ là mã nguồn website [nhavantuonglai.com](https://nhavantuonglai.com/), hạn chế quyền truy cập và không giới hạn các tính năng.
 
-[\article-open](https://github.com/nhavantuonglai/article-open) là phiên bản mã nguồn mở của _\article_ với quyền truy cập miễn phí và giới hạn tính năng.
+[\article-open](https://info.nhavantuonglai.com/article-open) là phiên bản mã nguồn mở của _\article_ với quyền truy cập miễn phí và giới hạn tính năng.
 
 Mã nguồn _\article_  sử dụng Astro 5.0 và Tailwind CSS để tạo nên một phiên bản website hiện đại với:
 
@@ -17,7 +17,7 @@ Mã nguồn _\article_  sử dụng Astro 5.0 và Tailwind CSS để tạo nên 
 
 – Áp dụng hiệu ứng chuyển động, giúp giao diện trở nên hiện đại và thân thiện với người dùng.
 
-Dự án cũng giữ lại, đảm bảo điểm PageSpeed Insights ấn tượng, chế độ Dark mode và nhiều tính năng tiên tiến khác, giúp đây trở thành template website [Astro](https://nhavantuonglai.com/article/astro) lý tưởng cho các developer, SEOer lẫn Editor website bán chuyên và chuyên nghiệp.
+Dự án cũng giữ lại, đảm bảo điểm PageSpeed Insights ấn tượng, chế độ Dark mode và nhiều tính năng tiên tiến khác, giúp đây trở thành template website Astro lý tưởng cho các developer, SEOer lẫn Editor website bán chuyên và chuyên nghiệp.
 
 ## Nguồn lực vận hành
 
