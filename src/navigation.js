@@ -217,6 +217,54 @@ export const headerData = {
 		},
 
 		{
+			text: "Tệp lệnh",
+			links: [
+				{ text: "Tổng quát", href: "https://nhavantuonglai.com" },
+				{
+					text: "Dữ liệu",
+					href: "https://nhavantuonglai.com",
+					links: [
+						{ text: "Đổi tên tệp, thư mục", href: "https://nhavantuonglai.com/package/folder-attribute" },
+						{ text: "Di chuyển tệp, thư mục", href: "https://nhavantuonglai.com/package/folder-execute" },
+					],
+				},
+				{
+					text: "Liên kết",
+					href: "https://nhavantuonglai.com",
+					links: [
+						{ text: "Tổng hợp sitemap", href: "https://nhavantuonglai.com/package/sitemap-extractor" },
+						{ text: "Tìm liên kết bên ngoài", href: "https://nhavantuonglai.com/package/sitemap-extractor" },
+					],
+				},
+				{
+					text: "Giao diện",
+					href: "https://nhavantuonglai.com",
+					links: [
+						{ text: "Hiệu ứng nền trường sao", href: "https://nhavantuonglai.com/package/javascript-starfield" },
+						{ text: "Hiệu ứng tải supernova", href: "https://nhavantuonglai.com/package/javascript-supernova" },
+						{ text: "Mục lục bài viết", href: "https://nhavantuonglai.com/package/table-of-content" },
+						{ text: "Biên tập tệp markdown", href: "https://nhavantuonglai.com/package/markdown-attribute" },
+					],
+				},
+				{
+					text: "Công cụ AI",
+					href: "https://nhavantuonglai.com",
+					links: [
+						{ text: "Trò chuyện với Gemini", href: "https://nhavantuonglai.com/package/gemini-chat" },
+					],
+				},
+				{
+					text: "Phân tích",
+					href: "https://nhavantuonglai.com",
+					links: [
+						{ text: "NPMJS Analytics", href: "https://nhavantuonglai.com/package/npmjs-analytics" },
+
+					],
+				},
+			],
+		},
+
+		{
 			text: "Tiện ích",
 			links: [
 				{ text: "In tài liệu", href: "https://nhavantuonglai.com" },
@@ -381,7 +429,7 @@ export const footerData = {
 		},
 
 		{
-			text: 'v25.04.01',
+			text: 'v25.04.13',
 			href: 'https://nhavantuonglai.com/version'
 		},
 
