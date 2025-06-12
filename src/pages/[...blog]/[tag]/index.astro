@@ -1,0 +1,37 @@
+---
+import { TAGS_CONFIG } from '~/config'
+import Layout from '~/layouts/Layout.astro'
+import { getCollection } from 'astro:content'
+
+const allPosts = await getCollection('article')
+const tags = [...new Set(allPosts.flatMap((post) => post.data.tags || []))]
+
+const { title, description } = TAGS_CONFIG
+---
+
+<Layout {title} {description}>
+	<div class="fullPage relative z-[1]">
+		<h1 class="tracking-tight text-5xl bg-gradient-to-r from-primary to-primary/70 bg-clip-text text-transparent pb-1.5">{title}</h1>
+		<div class="text-muted-foreground text-balance">
+			<p class="mt-2">Danh sách thư mục bài viết, được tổng hợp theo từng nhóm nội dung.</p>
+		</div>
+
+		<div class="mt-12 flex flex-wrap gap-4" data-astro-transition="animate">
+			{
+				tags.map((tag) => {
+					const postCount = allPosts.filter((post) => post.data.tags?.includes(tag)).length
+					return (
+						<a
+							href={`/tags/${tag.replace(/\s+/g, '-')}`}
+							class="group relative flex items-center gap-2 px-4 py-2 rounded-md bg-muted/50 transition-all"
+						>
+							<span class="font-medium text-foreground">#{tag}</span>
+							<span class="text-muted-foreground transition-colors">{postCount}</span>
+							<span class="absolute inset-0 border border-border/0 rounded-md transition-colors" />
+						</a>
+					)
+				})
+			}
+		</div>
+	</div>
+</Layout>
