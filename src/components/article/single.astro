@@ -5,6 +5,7 @@ import SocialShare from '~/components/common/social.astro';
 
 import Table from '~/components/article/table.astro';
 import Scrollon from '~/components/article/scrollon.astro';
+import '~/assets/comment.css';
 
 import PostTags from '~/components/article/tags.astro';
 
@@ -72,6 +73,11 @@ const { Content } = post;
 
 	)}
 
+	<link
+		rel="stylesheet"
+		href="https://unpkg.com/@waline/client@v3/dist/waline.css"
+	/>
+
 </header>
 
 <section class="py-20 max-w-7xl mx-auto pb-10">
@@ -114,6 +120,18 @@ const { Content } = post;
 
 					<SocialShare url={url} text={post.title} class="mt-5 sm:mt-6 align-middle text-gray-500"/>
 
+					<div id="waline"></div>
+					<script type="module">
+						import { init } from 'https://unpkg.com/@waline/client@v3/dist/waline.js';
+
+						init({
+							el: '#waline',
+							serverURL: 'https://article-waline.vercel.app/',
+							lang: 'en',
+						});
+					</script>
+
+
 				</div>
 
 			</div>
@@ -123,6 +141,29 @@ const { Content } = post;
 	</article>
 
 </section>
+
+<script type="module">
+
+	import { init } from 'https://unpkg.com/@waline/client@v3/dist/waline.js';
+
+	document.addEventListener('DOMContentLoaded', () => {
+		const poweredBy = document.querySelector('.wl-power');
+		if (poweredBy) {
+			poweredBy.remove();
+		}
+	});
+
+	init({
+		el: '#waline',
+		serverURL: 'https://article-waline.vercel.app/',
+		locale: {
+			nick: 'Tên của bạn',
+			mail: 'Email của bạn',
+			placeholder: 'Nội dung trao đổi.'
+		}
+	});
+
+</script>
 
 <script>
 

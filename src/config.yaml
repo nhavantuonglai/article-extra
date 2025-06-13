@@ -1,6 +1,6 @@
 site:
   name: nhavantuonglai
-  site: "https://wwww.nhavantuonglai.com"
+  site: "https://nhavantuonglai.com"
   base: "/"
   trailingSlash: false
 
